@@ -4,6 +4,7 @@ ruby '2.1.1'
 
 gem 'middleman', '~> 3.2.2'
 gem 'middleman-blog'
+gem "middleman-livereload", "~> 3.1.0"
 gem 'rack-contrib'
 gem 'puma'
 gem 'foreman'
