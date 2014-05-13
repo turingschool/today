@@ -9,6 +9,8 @@
     = stylesheet_link_tag 'application'
     = javascript_include_tag '//use.typekit.net/xxm2mvw.js'
     = javascript_include_tag 'analytics'
+    = javascript_include_tag '//s7.addthis.com/js/300/addthis_widget.js#pubid=novohispano'
+    = javascript_include_tag 'share'
     :javascript
       try{Typekit.load();}catch(e){}
 
@@ -16,7 +18,7 @@
 
     %header.mod-header
       .layout-wrap
-        %h1= link_to 'TURING School of Software & Design', 'http://turing.io'
+        %h1= link_to 'Turing School of Software & Design', 'http://turing.io'
 
         %nav
           %ul
