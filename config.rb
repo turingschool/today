@@ -1,3 +1,6 @@
+require "./source/helpers/view_helpers"
+helpers ViewHelpers
+
 begin
   ###
   # Compass
