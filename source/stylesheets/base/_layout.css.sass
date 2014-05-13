@@ -1,0 +1,33 @@
+*
+  +box-sizing(border-box)
+
+html,
+body
+  min-width: 320px
+  min-height: 100%
+  position: relative
+
+  +max-width(320px)
+    width: 320px
+    overflow-x: hidden
+
+body
+  overflow-y: scroll
+
+.layout-wrap
+  max-width: 1200px
+  position: relative
+  margin: 0 auto
+  padding: 0 45px
+
+  +max-width(320px)
+    padding: 0 20px
+
+.layout-inner-wrap
+  max-width: 840px
+  position: relative
+  margin: 0 auto
+  padding: 0 45px
+
+  +max-width(320px)
+    padding: 0 20px

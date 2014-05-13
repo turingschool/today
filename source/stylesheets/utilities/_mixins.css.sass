@@ -1,0 +1,37 @@
+@mixin hide
+  left: -9999px
+  position: absolute
+
+@mixin retina
+  @media (min--moz-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6/2), (-webkit-min-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx)
+    @content
+
+@mixin data-uri-bg($image, $properties: false)
+  @if $properties == false
+    background-image: inline-image($image)
+    *background-image: image-url($image)
+  @else
+    background: inline-image($image) $properties
+    *background: image-url($image) $properties
+
+@mixin max-width($width)
+  @media (max-width: $width)
+    @content
+
+@mixin min-width($width)
+  @media (min-width: $width)
+    @content
+
+@mixin max-height($height)
+  @media (max-height: $height)
+    @content
+
+@mixin min-height($height)
+  @media (min-height: $height)
+    @content
+
+@mixin hocus
+  &:active,
+  &:focus,
+  &:hover
+    @content

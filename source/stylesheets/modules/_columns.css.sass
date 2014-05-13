@@ -1,0 +1,37 @@
+.mod-columns
+  @extend %clearfix
+  padding: 55px 0 70px
+  text-align: center
+
+  h2
+    margin-bottom: 70px
+    font-size: 48px
+    font-weight: $font-weight-light
+
+  h3
+    margin-bottom: 15px
+    font-size: 32px
+    font-weight: $font-weight-light
+
+  .col
+    width: 25.94594%
+    float: left
+    margin-left: 11.08109%
+
+    &.first
+      margin-left: 0
+
+  p
+    clear: left
+
+  .button
+    margin-top: 60px
+
+  +max-width(1000px)
+    .col
+      width: 100%
+      float: none
+      margin: 40px 0 0 0
+
+      &.first
+        margin: 0

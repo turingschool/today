@@ -1,0 +1,77 @@
+.input
+  height: 47px
+  position: relative
+  margin-bottom: 14px
+  text-align: left
+
+  &.textarea
+    height: 190px
+
+.inputs
+  font-size: 0
+
+  .input
+    width: 48.9313%
+    display: inline-block
+
+    &:first-child
+      margin-right: 2.1374%
+
+    +max-width(400px)
+      width: 100%
+      display: block
+      margin-left: 0 !important
+
+label
+  top: 22px
+  left: 10px
+  position: absolute
+  z-index: 2
+  font-size: $font-size
+  text-align: left
+  color: #999
+  +transition(.3s)
+
+input,
+textarea
+  width: 100%
+  height: 47px
+  top: 0
+  left: 0
+  position: absolute
+  display: block
+  margin: 0
+  padding: 12px 10px 0
+  font-family: $font-family
+  font-size: $font-size
+  font-weight: $font-weight-light
+  color: #666
+  background: #f2f2f2
+  border: solid 1px #ccc
+  -webkit-appearance: none
+  +border-radius(0)
+  +transition(border .3s)
+
+  +max-width(400px)
+    font-size: 16px
+
+  &:focus
+    outline: none
+    border-color: $blue
+
+  &:focus + label,
+  &.hasvalue + label
+    top: 6px
+    font-size: 10px
+    font-weight: $font-weight-bold
+    text-transform: uppercase
+    color: $blue
+
+textarea
+  height: 190px
+  padding-top: 19px
+  resize: none
+
+button,
+input[type="submit"]
+  cursor: pointer

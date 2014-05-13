@@ -1,0 +1,88 @@
+.mod-tuition
+  padding: 40px 0 20px
+  text-align: center
+
+  h2
+    margin-bottom: 25px
+    font-size: 48px
+    font-weight: $font-weight-light
+
+  p, li
+    margin-bottom: $font-size * $line-height
+    text-align: left
+
+  ul,
+  ol
+    padding-left: 20px
+    list-style: outside
+
+  h3
+    margin: ($font-size * $line-height * 2) 0 10px
+    font-size: 32px
+    font-weight: $font-weight-light
+    letter-spacing: 0.01em
+    text-align: left
+
+  .graphs
+
+    ul
+      font-size: 0
+
+    li
+      width: 46%
+      display: inline-block
+      vertical-align: top
+      margin-bottom: 80px
+      font-size: $font-size
+      text-align: center
+
+      &:nth-child(even)
+        margin-left: 8%
+
+      +max-width(800px)
+        width: 100%
+        margin-left: 0 !important
+
+      &:before
+        content: ""
+        width: 123px
+        height: 123px
+        display: inline-block
+        margin-bottom: 35px
+        background: #656565 center center no-repeat
+        background-size: 67px 51px
+        +border-radius(50%)
+        +transition(background .3s)
+
+      &:hover:before
+        background-color: $blue
+
+      @each $number in one, two, three, four
+        &.#{$number}:before
+          background-image: image-url("bar_#{$number}.png")
+
+          +retina
+            background-image: image-url("bar_#{$number}@2x.png")
+
+    h3
+      margin-bottom: 20px
+      font-size: 32px
+      font-weight: $font-weight-light
+      text-align: center
+
+    dl
+      line-height: 1.71428
+
+    dt,
+    dd
+      display: inline
+
+    dd
+      padding-left: 4px
+
+      &:after
+        content: "\A"
+        white-space: pre
+
+    .total
+      color: $blue

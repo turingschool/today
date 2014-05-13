@@ -1,0 +1,21 @@
+.button
+  display: inline-block
+  margin: 0
+  padding: 15px 50px
+  font-family: $font-family
+  font-size: 12px
+  font-weight: $font-weight-bold
+  text-decoration: none
+  text-transform: uppercase
+  color: #fff
+  border: solid 1px #fff
+  outline: none
+  +transition(all .3s)
+
+  &.gray
+    color: #999
+    border-color: #ccc
+
+  +hocus
+    color: $blue
+    border-color: $blue
