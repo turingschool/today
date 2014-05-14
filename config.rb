@@ -50,7 +50,9 @@ begin
       ].join("\n")
     end
 
-    def h(str); Rack::Utils.escape_html(str); end
+    def h(str)
+      Rack::Utils.escape_html(str)
+    end
 
     def nav_active(page)
       current_page.path == "#{page}.html" ? 'active' : nil
@@ -64,7 +66,7 @@ begin
   # activate :automatic_image_sizes
 
   # Reload the browser automatically whenever files change
-  activate :livereload
+  # activate :livereload
 
   # Methods defined in the helpers block are available in templates
   # helpers do

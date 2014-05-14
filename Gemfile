@@ -9,7 +9,3 @@ gem 'puma'
 gem 'foreman'
 gem 'compass', '0.12.5'
 gem 'sass', '3.2.19'
-
-group :development do
-  gem "middleman-livereload", "~> 3.1.0"
-end
