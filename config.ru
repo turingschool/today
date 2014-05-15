@@ -15,7 +15,7 @@ use Rack::TryStatic,
     try:  ['.html', 'index.html', '/index.html']
 
 # Serve a 404 page if all else fails
-run lambda do |env|
+run -> env {
   not_found_page = File.expand_path("../build/404.html", __FILE__)
 
   if File.exist?(not_found_page)
@@ -23,4 +23,4 @@ run lambda do |env|
   else
     [ 404, { 'Content-Type' => 'text/html' }, ['404 - page not found'] ]
   end
-end
+}
