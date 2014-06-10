@@ -6,12 +6,12 @@
         %h4
           = format_date(article.date)
         %h1
-          = article.title
+          = link_to article.title, article.url
         %h3
           = article.data.author
         %p
           = create_summary(article.body)
         %h5
-          = link_to 'Read More', article.url
+          = link_to 'Read More...', article.url
     .col-sidebar
       = partial 'layouts/sidebar'
