@@ -25,7 +25,7 @@ add the design program in 2015 that'll approach 200. That's more than a class, i
 But we'll still be *aggressively open*. Next Tuesday, June 17th, we'll start
 ["Turing Community Nights"](http://www.meetup.com/Turing-Community-Events/). These free, evening sessions will be free and open to anyone. They'll
 always focus on getting new people into the larger development community. We'll run recurring sessions
-on [setting up your machine for programming](http://tutorials.jumpstartlab.com/environment/environment.html),
+on [setting up your machine for programming](http://tutorials.jumpstartlab.com/topics/environment/environment.html),
 [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html),
 and other content to get new devs going.
 
