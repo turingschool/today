@@ -33,7 +33,7 @@ But we'll also layer on deeper content, diving into the materials and projects t
 Turing classes. We'll have sessions run by our instructional staff, students and by our great
 friends in the Denver area. We'll even stream them as Google Hangouts on Air to reach out beyond Denver.
 
-We'll start with sessions on the first, third, and fourth Tuesday evening of the month. Based on the attendee numbers
+We'll start with sessions on the first and third Tuesday evening of the month. Based on the attendee numbers
 and feedback we'll scale/adjust things to maximize effectiveness.
 
 We hope you'll join the [Turing Community group on Meetup.com](http://www.meetup.com/Turing-Community-Events/) and
