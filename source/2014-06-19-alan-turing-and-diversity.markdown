@@ -40,6 +40,5 @@ targeted at women interested in developer training programs. I'll be joined by
 a few of our alumni to discuss their experiences during the program and in the
 greater industry afterward.
 
-If you or a woman you know is interested in becoming a programmer, please join us:
-
-http://www.meetup.com/Turing-Community-Events/events/189802292/
+If you or a woman you know is interested in becoming a programmer, [please join us
+for this conversation](http://www.meetup.com/Turing-Community-Events/events/189802292/).
