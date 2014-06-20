@@ -25,7 +25,7 @@ straight men from middle and upper class families. That's not good enough.
 We see our mission at the Turing School as opening the world of programming to
 more people, especially those who don't fit the traditional demographic. We work
 hard to create a welcoming environment for all people, regardless of their age,
-race, gender, beliefs, socio-economic background, and programming ability.
+race, gender, beliefs, sexual-orientation, socio-economic background, and programming ability.
 
 Thanks to that effort our classes look more like our society and less like the
 typical tech office. But we can do better.
