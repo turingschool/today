@@ -13,10 +13,10 @@ He's of course an important figure in the history of computer science and
 the world. His team at Bletchley Park played a critical role in cracking Germany's
 "Enigma" machine during WWII which helped turned the tide in the Allies favor.
 
-But the second and just-as-important reason is his death. In XXXX, Turing was
-convicted of "indecency" for his relationship with another man. While there are
-some alternative theories, it's generally accepted that he took his own life after
-the conviction.
+But the second and just-as-important reason is his death. In 1952, Turing was
+convicted of "gross indecency" for his relationship with another man. While there are
+some alternative theories, it's generally accepted that the conviction led to a
+downward spiral ending with his suicide two years later.
 
 His death is a reminder that intolerance robs us of our best ideas, best people,
 and best selves. The US programming community is dominantly made up of white,
@@ -42,4 +42,4 @@ greater industry afterward.
 
 If you or a woman you know is interested in becoming a programmer, please join us:
 
-http://meetup.com/blahblah
+http://www.meetup.com/Turing-Community-Events/events/189802292/
