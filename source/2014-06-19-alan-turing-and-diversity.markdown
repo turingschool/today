@@ -1,6 +1,6 @@
 ---
 title: Alan Turing and Diversity
-date: 2014-06-09 23:10 UTC
+date: 2014-06-19 23:10 UTC
 tags:
 author: Jeff Casimir
 layout: post
