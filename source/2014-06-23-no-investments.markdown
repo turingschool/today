@@ -37,8 +37,7 @@ experienced instructors. Money sucked out of the ecosystem, diverted to the inve
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
 to be focused on the best possible outcomes for our students *and* take investment, then
-then we're lying to one side or another. And the side with the smaller wallet is the
-side that gets lied to.
+then we're lying to one side or another. And the side with the "little guy" will lose.
 
 Is it hard to bootstrap while watching competitors take on huge investments? Of
 course. But this is too important. I've made compromises on my beliefs in the past,
