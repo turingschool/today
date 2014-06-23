@@ -21,10 +21,19 @@ That's a *big problem*. Investors don't give money away, *they expect it back*.
 And in the tech world, they're looking for 10x return on investment. If they put
 in 18 million dollars they're shooting for a payout of 180 million.
 
-Where does all that money come from? **Students**. For every dollar an investor puts
+If you're running a software or content business, that works. Khan Academy or
+Coursera can parlay investment dollars into new content that can reach millions
+of learners -- that's awesome. If they're each willing to pay a few dollars then
+the investors can hit their 10x no problem while realizing the educational goals.
+
+But we're not in the content business, we're in a services business. Classrooms
+don't scale in the same ways as software and content.
+
+So where can 10x returns come from? **Student tuition**. For every dollar an investor puts
 in they want *ten student dollars back*. That tuition paid into the system, instead
-of paying for their instructors and facilities, pays investors. That money is
-sucked out of the ecosystem.
+of paying for their instructors and facilities, pays investors. It compels the school to
+raise tuition and cut costs. You raise your student/teacher ratio and use less
+experienced instructors. Money sucked out of the ecosystem, diverted to the investors.
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
 to be focused on the best possible outcomes for our students *and* take investment, then
