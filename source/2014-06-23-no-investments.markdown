@@ -17,12 +17,12 @@ bootstrapped [Jumpstart Lab](http://jumpstartlab.com) in 2009, so doing the same
 with Turing just made sense. But if you look around you'll find developer education
 programs taking investment left and right, some in the tens of millions of dollars.
 
-That's a *big problem*. Investors don't give money, *they expect it back*.
+That's a *big problem*. Investors don't give money away, *they expect it back*.
 And in the tech world, they're looking for 10x return on investment. If they put
 in 18 million dollars they're shooting for a payout of 180 million.
 
 Where does all that money come from? **Students**. For every dollar an investor puts
-in they want *nine student dollars back*. That tuition paid into the system, instead
+in they want *ten student dollars back*. That tuition paid into the system, instead
 of paying for their instructors and facilities, pays investors. That money is
 sucked out of the ecosystem.
 
