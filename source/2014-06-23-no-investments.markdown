@@ -36,8 +36,8 @@ raise tuition and cut costs. You raise your student/teacher ratio and use less
 experienced instructors. Money sucked out of the ecosystem, diverted to the investors.
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
-to be focused on the best possible outcomes for our students *and* take investment, then
-then we're lying to one side or another. And the side with the "little guy" will lose.
+to be focused on the best possible outcomes for our students *and* take investment, then 
+we're lying to one side or another. And the side with the "little guy" will lose.
 
 Is it hard to bootstrap while watching competitors take on huge investments? Of
 course. But this is too important. I've made compromises on my beliefs in the past,
