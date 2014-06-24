@@ -1,0 +1,43 @@
+---
+title: 140618
+layout: outline
+---
+
+## Warmup
+
+Imagine you have eight developers (Alex, Bernadette, Charles, Dana, Eddie, 
+Fernanda, Gus, and Hiro). They want to pair program together every day, but
+they don't like to repeat pairs.
+
+Write an algorithm to generate a daily schedule which has seven full days
+of pairing schedules without a single repeated pair.
+
+## Debugging
+
+This morning Josh will run a session about debugging.
+
+http://tutorials.jumpstartlab.com/topics/debugging/debugging.html
+
+## Mastermind Check-Ins
+
+You're entering the home stretch. Let's get together to check-in on your progress
+and help you create a plan for the last hours.
+
+### With Jeff
+
+* 1:00 - Allison Larson & Cara Dennis
+* 1:45 - Robert Gu & Gustavo Villagrana
+* 2:30 - Will Faurot & Andy Mention
+
+### With Jorge
+
+* 1:00 - Chad Brading & Jessica Goulding
+* 1:45 - Horacio Chavez & Andrew Watkins
+* 2:30 - Corey Davis & Tim Proctor
+* 3:15 - Tan Doan
+
+### With Josh
+
+* 1:00 - Eric Fransen & Emily Davis
+* 1:45 - Hilary Denton & Alan Smith
+* 2:30 - Marc Garreau & Jonmichael Chambers

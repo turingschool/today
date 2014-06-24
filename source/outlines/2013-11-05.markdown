@@ -1,0 +1,40 @@
+---
+title: 131105
+layout: outline
+---
+
+## Daily Outline 
+
+* Warmup
+* Dinner Dash Work Time (9:00 PM to noon) 
+* Understanding REST (1:00 PM to 2:30 PM) 
+* Full-Stack Testing with Capybara (2:30 AM to 4:00 PM) 
+* Lightning Talk Content Outline (4:00 PM to 4:30 PM)
+
+## Dinner Dash Work Time
+
+If you didn't already do so yesterday, the most important thing you can do during this time is plan how you'll complete the project.
+
+* What's the most essential functionality?
+* How soon can you get it up in production?
+* What does a realistic roadmap of features look like between now and next Wednesday?
+
+Then, on the people side:
+
+* Do you have any known speedbumps (people out of town, etc)?
+* Any scheduling constraints or considerations?
+* Any conflicts (ex: lightning talks)?
+* What is each team member looking to get out of the project?
+
+## Understanding REST
+
+http://tutorials.jumpstartlab.com/topics/introduction_to_rest.html
+
+## Full-Stack Testing with Capybara
+
+* http://tutorials.jumpstartlab.com/topics/capybara/essentials.html
+* http://tutorials.jumpstartlab.com/topics/capybara/workflow.html
+
+## Lightning Talk Key Points
+
+Lightning talkers please meet with Jeff in the classroom at 4 PM.

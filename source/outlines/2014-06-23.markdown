@@ -1,5 +1,5 @@
 ---
-title: June 23, 2014
+title: 140623
 layout: outline
 ---
 
@@ -13,7 +13,7 @@ This morning we'll gather for a full-group chat about EventReporter progress and
 
 ## EventReporter Pairing (9:45 - 3:30)
 
-### With Jeff
+### With Jeff 
 
 * 9:45 - Corey Davis & Emily Davis
 * 10:30 - Chad Brading & Robert Gu

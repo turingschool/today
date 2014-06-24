@@ -1,0 +1,43 @@
+---
+title: JSON and AJAX
+layout: outline
+---
+
+## JS Exercism 09:00 AM to 10:00 AM 
+
+We will meet in the classroom and talk about a few JavaScript concepts:
+
+* jQuery finders
+* Common jQuery methods
+
+The remainder of the time will be spent working through existing problems and asking questions about what was covered yesterday.
+
+## JavaScript & HTTP 10:00 AM to 12:00 PM 
+
+While we can build models locally, like **Bob**, this is not how most of the applications we develop work.
+
+It is more likely that the user will type input in the browser, submit that input to a server and the response will display in the page without the page being reloaded.
+
+* Sending data to a server
+* Processing input
+* Receiving data from a server
+
+We will use the following process, written here in pseudocode, to solve this problem:
+
+* Listen for when the user clicks on the submit button
+* Prevent the default operation of reloading the page
+* Find the input text field of our message we are going to send to Bob
+* Making an ajax call that performs a POST with the data we want to send bob
+* On success we want to: find the location and add the response
+
+We will move our **Bob** model back to the server (and Ruby) and quickly setup a Sinatra server to allow us to send and receive data.
+
+## Working with JSON 1:00 PM to 2:00 PM 
+
+A common format used to send and receive data with JavaScript and AJAX is JSON. Let's update our initial example to send and receive data using the JSON format and explore it more closely.
+
+## Connecting JavaScript & Rails 02:00 PM to 04:00 PM 
+
+Sinatra is a great prototyping tool and validation tool but our goal is to use JavaScript and JQuery within the context of a Rails application.
+
+We are going to update Blogger to allow the user to submit a comment using JavaScript, jQuery and AJAX.

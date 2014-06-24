@@ -1,0 +1,53 @@
+---
+title: 140212
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup + Recap
+* Work Time
+* Technical Evaluations
+
+## Warmup
+
+For warmup this morning, let's work with a Last-In-First-Out (LIFO) queue. From 8:30-9:00 you can choose to work alone or in pairs. From 9:00-10:00 we'll recap it together. 
+
+### Background
+
+Think of a LIFO queue kind of like a roll of quarters that's only open at one end. You can insert a quarter and it goes on the top. You can remove a quarter and the most-recently-inserted one comes out. You can measure it from the side to determine how many quarters there are. But you can't get to the bottom quarter unless (A) it is the only quarter or (B) you dump out (clear) all of them.
+
+You can read more about LIFO queues at http://bit.ly/LUmT4E
+
+### Challenge
+
+Implement a queue that:
+
+* Adds objects with `.push`
+* Removes and returns the most recently added object with `.pop`
+* Measures how many items are in the queue with `.size`
+* Removes all items with `.clear`
+
+Implement your own test suite with Minitest or RSpec along the way.
+
+#### Extensions
+
+* Add an optional parameter to `.pop` which specifies how many elements to return. Make sure they come back in LIFO order.
+* Allow the queue to be initialized with a maximum size. If it's full and an element is inserted, raise a `QueueFullException`
+
+## Work Time
+
+Put on the last touches before technical evaluations this afternoon. Reference [the evaluation rubric](http://tutorials.jumpstartlab.com/projects/service_oriented_architecture.html) for help prioritizing your efforts.
+
+## Technical Evaluations
+
+### With Jeff at the Instructor Desks
+
+* 1:00 - Project X: George, Bryana, Nikhil, Brian
+* 2:00 - Standnote: Katrina, Persa, Lauren, Simon
+
+### With Katrina in the Nook
+
+* 1:00 - Menu Mama: Meeka, Rolen, Will, Billy
+* 2:00 - Planting Season: Ben L, Nathaniel, Tyler, Luke
+* 3:00 - Playdater: Ben H, Antony, Adam, Jonah

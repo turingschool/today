@@ -1,0 +1,6 @@
+---
+title: Rocky Mtn Ruby Day 2
+layout: outline
+---
+
+Rocky Moutain Ruby Day 2

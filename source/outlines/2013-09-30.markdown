@@ -1,0 +1,114 @@
+---
+title: 130930
+layout: outline
+---
+
+## Daily Outline
+
+* Exercism Warmup
+* Weekly Preview
+* Classes, Modules, Variables, and Scope
+* Retrospective
+* Minitest Tips & Techniques
+* Reading Group
+
+## Weekly Preview
+
+* SalesEngine check-ins Tuesday AM
+* Photos Tuesday AM
+* SalesEngine due at 9am Thursday
+* Happy hour Thursday afternoon
+* Scavenger hunt Friday afternoon
+
+## Classes, Modules, Variables, and Scope
+
+During this session we'll do a lot of whiteboarding and small code examples. It's strongly recommended that you take notes.
+
+### Defining Classes
+
+* Inheritance
+* The role of `Object`
+* The concept of `self`
+
+### Instance Methods
+
+* `def`/`end`
+* Act on an instance of the class
+* Most common methods
+
+### Class Methods
+
+* Methods called without state
+* Methods called on a general concept
+* Why `self.`?
+* Instances of Class
+
+### Lookup Hierarchy
+
+* Over and up
+* `.superclass`
+* `.ancestors`
+* Inheritance overrides
+
+### Variables
+
+* The concept of scope
+* Local Variables
+* Instance Variables
+* (Class Instance Variables)
+* Class Variables
+* Global Variables
+
+### Modules
+
+* Functional (instead of classes)
+* Namespacing
+* Reuse / organization
+
+### Fun & Profit
+
+* "metaprogramming"
+* `send`
+* `method_missing`
+* `define_method`
+* `define_singleton_method`
+* methods with blocks
+
+## Minitest Tips & Techniques
+
+### System & Setup
+
+#### `rake test` in `Rakefile`
+
+```
+require 'rake/testtask'
+
+Rake::TestTask.new do |t|
+  t.pattern = "test/**/*_test.rb"
+end
+```
+
+#### Guard & Minitest
+
+* Guard: https://github.com/guard/guard
+* Guard-Minitest: https://github.com/guard/guard-minitest
+
+### Setting Up Data / State
+
+* `setup`
+* `teardown`
+* `test_` methods
+* writing helper methods
+* memoization
+
+### Fake It
+
+* creating test doubles
+* inheritance
+* stub methods / data
+* doing as little as possible
+
+## Feedback
+
+* [Ruby Classes, Modules, Variables, and Scope](http://betterful.herokuapp.com/d3d7524)
+* [Minitest Tips & Tricks](http://betterful.herokuapp.com/4d2df50)

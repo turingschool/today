@@ -1,0 +1,101 @@
+---
+title: 131101
+layout: outline
+---
+
+## Daily Outline
+
+* Guest: Konstantin Haase Q&A (9:00 - 10:00) 
+* Retrospective (10:00 - 11:00)
+* Blogger: Getting Started (11:00 - 12:00) 
+* Blogger Work Time (1:00 - 4:00)
+* 1-on-1s (1:00 - 4:00)
+* Weekly Wrap Up 4:00
+
+## Guest: Konstantin Haase Q&A (9:00 - 10:00) 
+
+* [On Github](https://github.com/rkh)
+* [Personal Blog](http://rkh.im/)
+* [Twitter](https://twitter.com/konstantinhaase)
+
+## Retrospective (10:00 - 11:00)
+
+### Personal Retrospective
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* What did you learn about [Sinatra, SQL, HTML/CSS, the Web/HTTP] during the CloneWars project?
+* What's the most confusing part of the project that you somehow hacked together?
+* How are you feeling about writing/using feature or acceptance tests?
+* If you had another week for Clone Wars, what would you build?
+* What was different about working in a three-person group?
+
+Please come back to the classroom by 10:30.
+
+### Link Aggregation
+
+When you're done, please add a link to your post on this thread:
+
+http://gschool.groupbuzz.io/topics/810-retrospective-10-24
+
+### Group Retrospective
+
+* Starting into Rails projects
+* Being a productive team
+* Open Floor
+* 4 Shout-Outs
+
+## Blogger: Getting Started (11:00 - 12:00) 
+
+* Start Blogger today: http://tutorials.jumpstartlab.com/projects/blogger.html
+* Get through Iteration 5 by Monday
+* Encouraged to work with others
+* Use Git along the way
+* Use TDD for extra challenge
+
+## Blogger Work Time (1:00 - 4:00)
+
+This afternoon when you're *not* in 1-on-1s you should jump into the Blogger tutorial.
+
+## 1-on-1s (1:00 - 4:00)
+
+### With Jeff at Metropolitan Coffee
+
+If you're going to get coffee please come early :)
+
+* 1:10 - Brian Winterling
+* 1:25 - Nikhil Taneja
+* 1:40 - George Hudson
+* 1:55 - Katrina Engelsted
+
+* 2:20 - Tyler Long
+* 2:35 - Billy Griffin
+* 2:50 - Rolen Le
+* 3:05 - Darryl Pequeen
+
+### With Frank in the War Room
+
+* 1:10 - Kevin Powell
+* 1:25 - Luke Martinez
+* 1:40 - Quentin Tai
+* 1:55 - Bryana Knight
+
+* 2:20 - Nathaniel Watts
+* 2:35 - Jonah Moses
+* 2:50 - Magan Adam
+* 3:05 - Persa Zula
+
+### With Jorge in the Perch
+
+* 1:10 - Louisa Barrett
+* 1:25 - Ben Lewis
+* 1:40 - Lauren Spath Luhring
+* 1:55 - Ben Horne
+
+* 2:20 - Antony Siegert
+* 2:35 - Romeeka Gayhart
+* 2:50 - Will Mitchell
+
+## Weekly Wrap Up 4:00
+
+ Let's get together in the classroom at the end of the day to close out.

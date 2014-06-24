@@ -1,0 +1,79 @@
+---
+title: 131022
+layout: outline
+---
+
+## Daily Outline
+
+* SQL Fundamentals (8:30-11:00)
+* Reading Group (11:00-12:00)
+* Meet with Susannah (1:00 - 3:00)
+* IdeaBox Work Time (1:00 - 4:00)
+* Assessment #1 Continued (1:00 - 4:00)
+
+## SQL Fundamentals (8:30-11:30)
+
+### How Databases Work
+
+* Databases are organized in tables
+* Few tables, many rows
+* Store, search, calculate, and sort
+* We primarily `SELECT` data from and `INSERT` data into those tables
+* Scope operations using `WHERE`
+* Connect tables together using `INNER JOIN`
+* Sort records with `ORDER BY`
+* We create relationships between data including *one-to-one*, *one-to-many*, and *many-to-many*
+
+### Fundamental SQL Tutorial
+
+Work through the [Fundamental SQL Tutorial](http://tutorials.jumpstartlab.com/topics/fundamental_sql.html) in the following pairs:
+
+* Luke Martinez & Ben Lewis
+* Darryl Pequeen & Nikhil Taneja
+* Jonah Moses & Brian Winterling
+* Lauren Spath Luhring & Ben Horne
+* Kevin Powell & Rolen Le
+* Nathaniel Watts & Romeeka Gayhart
+* Quentin Tai & Persa Zula
+* Katrina Englestad & Bree Thomas
+* Louisa Barrett & Billy Griffin
+* Magan Adam & George Hudson
+* Antony Siegert & Will Mitchell
+* Bryana Knight & Tyler Long & Simon Taranto
+
+## Reading Group 2B (11:30-12:00)
+
+Get together for the second reading group for your second book. You should:
+
+* Check-in on progress / goals set last week
+* Collect, review, and give feedback on each other's deliverable work
+* Discuss any areas of particular interest / confusion
+* Set goals for this week as you complete the text
+
+## Meet Susannah in the Pit
+
+* 1:00 Louisa Barrett
+* 1:15 Antony Siegert
+* 1:30 Darryl Pequeen
+* 1:45 Adam Magan
+* 2:15 Rolen Le
+* 2:30 Ben Lewis
+* 2:45 Jonah Moses
+* 3:00 Bryana Knight
+
+## Assessment #1 Continued (1:00 - 3:00)
+
+### In Front of the War Room with Jeff
+
+* 1:00 - 1:45 Quentin Tai
+* 1:45 - 2:30 Nikhil Taneja
+* 2:30 - 3:15 Simon Taranto
+
+### In Conference Room 3 with Katrina
+
+* 12:30 - 1:15 Nathaniel Watts
+* 1:15 - 2:00 Brian Winterling
+
+## IdeaBox Work Time (1:00 - 4:00)
+
+Today you should finish adding features and leave tomorrow for fit, finish, and code cleanup.

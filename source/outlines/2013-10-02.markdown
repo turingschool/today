@@ -1,0 +1,58 @@
+---
+title: 131002
+layout: outline
+---
+
+## Daily Outline
+
+* 8:30 – Warmup
+* 9:00 – Exercism Pairing
+* 9:30 – Exercism Full-Group
+* 10:00 – 11:00 Drawing SalesEngine (optional)
+* 11:00 – 12:00 SalesEngine Q&A
+* 1:00 – 4:00 Project Check-Ins
+* 1:00 – 4:00 SalesEngine Work Time
+
+## Exercism Exercises
+
+Please provide [feedback](http://betterful.herokuapp.com/cb04b5b) at any time during the session. We'd rather get feedback about something in the middle of the session, than not get feedback at the end.
+
+### 8:30-9:00 :: Unified Warmup
+
+For your individual warmup today, please work on the Nucleotide-Count exercise:
+
+* [Readme](https://raw.github.com/kytrinyx/exercism.io/master/assignments/shared/nucleotide-count.md)
+* [Test File](https://raw.github.com/kytrinyx/exercism.io/master/assignments/ruby/nucleotide-count/nucleotide-count_test.rb)
+
+### 9:00-9:30 :: Pairing
+
+For the second go-round, please start with a *BLANK SLATE* and complete the exercise with your pair below. Please use ScreenHero or an external keyboard so *both* people are typing.
+
+* Rolen Le & Luke Martinez
+* Jonah Moses & Magan Adam
+* Tyler Long & Brian Winterling
+* Persa Zula & Billy Griffin
+* Darryl Pequeen & Louisa Barrett
+* Bryana Knight & Will Mitchell
+* Quentin Tai & Antony Siegert
+* Bree Thomas & Lauren Spath Luhring
+* Simon Taranto & Romeeka Gayhart
+* Nathaniel Watts & Ben Lewis
+* Katrina Englestad & George Hudson
+* Ben Horne & Nikhil Taneja
+* Kevin Powell & Jeff Casimir
+
+### 9:30-10:30 :: Instructor Implementation
+
+After the paired iteration, Jeff will walk through a solution.
+
+## Drawing SalesEngine
+
+Please provide [feedback](http://betterful.herokuapp.com/2c820a6) at any time during this session.
+
+In this optional discussion, let's talk about mental models of what SalesEngine's data looks like.
+
+## SalesEngine Work Time
+
+It's the last day for SalesEngine! This afternoon Katrina, Frank, and Jorge are all mostly available for questions.
+

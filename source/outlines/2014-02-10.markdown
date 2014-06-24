@@ -1,0 +1,31 @@
+---
+title: 140210
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Revisting Authentication and Authorization
+* Project Work
+* Project Check-Ins
+
+## Warmup
+
+Thanks for working on the string exercises over the weekend. Let's explore some solutions.
+
+https://github.com/JumpstartLab/problem_solving/blob/master/problems/exercise_1.markdown
+
+## Revisiting Authentication and Authorization
+
+http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html
+
+## Project Check-Ins
+
+This afternoon lets do some short check-ins on your progress. Please meet Jeff at the instructor desks:
+
+* 1:15 - Playdater: Ben H, Antony, Adam, Jonah
+* 1:40 - Planting Season: Ben L, Nathaniel, Tyler, Luke
+* 2:05 - Menu Mama: Meeka, Rolen, Will, Billy
+* 2:30 - Project X: George, Bryana, Nikhil, Brian
+* 2:55 - Standnote: Katrina, Persa, Lauren, Simon

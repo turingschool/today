@@ -1,0 +1,42 @@
+---
+title: 140128
+layout: outline
+---
+
+## Services Tutorials
+
+You should have a basic understanding of services by now. Keep working on the tutorials since it will help you understand how to implement the service oriented architecture.
+
+You can find the tutorials here: http://tutorials.jumpstartlab.com/projects/monsterporium/
+
+Remember, that even if you're not participating in the team projects, you should still work with these groups on these tutorials.
+
+Jorge will generally be available to help you out while Katrina are doing assessments.
+
+## Working Groups
+
+* Katrina Engelsted & Romeeka Gayhart & Simon Taranto & Rolen Le
+* Bryana Knight & Magan Adam & Jonah Moses & Brian Winterling
+* Louisa Barrett & Nikhil Taneja & Billy Griffin & Nathaniel Watts
+* Antony Siegert & Kevin Powell & Tyler Long & Will Mitchell
+* Ben Lewis & Luke Martinez & Darryl Pequeen & Ben Horne
+* Bree Thomas & Persa Zula & Lauren Spath Luhring & George Hudson
+
+## Assessment Scheduling
+
+Before you arrive for your assessment, make sure you've followed the preparation steps and have a general idea of the assessment: http://tutorials.jumpstartlab.com/academy/workshops/storedom_assessment.html
+
+We'd prefer if you didn't practice ahead of time.
+
+## Today's Assessments
+
+With Katrina in the Nook
+
+* 9:00 - Rolen Le
+* 10:00 - Persa Zula
+* 11:00 - Nikhil Taneja
+* 1:00 - Tyler Long
+* 2:00 - Brian Winterling
+* 3:00 - Bryana Knight
+
+Jeff will not be available today. The group that was scheduled for today with him, will be assessed tomorrow.

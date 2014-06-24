@@ -1,0 +1,86 @@
+---
+title: 131106
+layout: outline
+---
+
+## Daily Outline
+
+* Classroom in Use (9:00 AM to 10:00 AM) 
+* Dinner Dash Work Time (9:00 AM to 12:00 PM)
+* Authentication & Authorization (1:00 PM to 4:00 PM) 
+* Lightning Talk Rough Draft (4:00 PM to 4:30 PM) 
+
+## Classroom in Use & Work Time
+
+This morning please work in your groups on your Dinner Dash project. Note that the classroom will be in use until 10 AM but should be available after that.
+
+## Authentication & Authorization
+
+This afternoon we'll talk about Authentication and Authorization.
+
+### Big Picture
+
+* The difference between Authentication and Authorization
+* Why authorization matters - privilege and escalation
+
+### Passwords & Hashing
+
+* Passwords should never be stored
+* You store hashes of passwords -- let's look at how to calculate a hash
+* Login efforts are hashed and compared to the stored hash
+* Rainbow tables
+
+#### Working with Passwords, Salts, and Hashes
+
+Working with the [bcrypt-ruby gem](https://github.com/codahale/bcrypt-ruby)
+
+```
+require 'bcrypt'
+salt = BCrypt::Engine.generate_salt
+password = "hello, world"
+hashed = BCrypt::Engine.hash_secret(password, salt)
+puts hashed
+guess = "Hello, World"
+hashed == BCrypt::Engine.hash_secret(guess, salt)
+hashed == BCrypt::Engine.hash_secret(password, salt)
+```
+
+#### BCrypt's `Password` Class
+
+```ruby
+require 'bcrypt'
+my_password = "hello, world!"
+bcrypt_password = BCrypt::Password.create(my_password)
+the_hash = bcrypt_password.to_s
+bcrypt_password == "HELLO, WORLD!"
+bcrypt_password == "hello, world!"
+
+new_attempt = BCrypt::Password.new(the_hash)
+new_attempt == "HELLO, WORLD!"
+new_attempt == "hello, world!"
+```
+
+### Useful Libraries
+
+* Devise: https://github.com/plataformatec/devise
+* Authlogic: https://github.com/binarylogic/authlogic
+* Sorcery: https://github.com/NoamB/sorcery
+* Omniauth: https://github.com/intridea/omniauth
+* Cancan: https://github.com/ryanb/cancan
+
+### Building Simple Authentication
+
+* Generate a Rails 4 application
+* Uncomment bcrypt in the Gemfile and bundle
+* Scaffold a pages resource
+* Create a users table with `:login` and `:password_digest`
+* User `has_secure_password` and `attr_accessible :login, :password, :password_confirmation`
+* Generate a sessions resource
+* Create a view template for login
+* Display the currently logged in user from the session
+* Controller finds the user by `login` and calls `user.authenticate` passing in the submitted password, then sets the session information
+* Logout erases the ID from the session
+
+## Lightning Talk Rough Draft
+
+At 4 PM lightning talkers should bring their rough-draft presentation to the classroom to run through it.

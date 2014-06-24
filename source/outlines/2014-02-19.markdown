@@ -1,0 +1,30 @@
+---
+title: 140219
+layout: outline
+---
+
+## Warmup
+
+During the 8:30-9:00 warmup session we'll work on the logic exercise from yesterday.
+
+## Binary Numbers 9:00-11:00
+
+### First Sprint 9:00-9:25
+
+Take the first 25 minutes of this session to begin the following exercises:
+
+https://github.com/JumpstartLab/problem_solving/blob/master/problems/exercise_3.markdown
+
+### Binary Recap 9:30-10:00
+
+Then let's review how binary numbers work in general.
+
+### Second Sprint 10:00-10:30
+
+See how far you can get in another 30 minutes.
+
+### Q&A 10:30-11:00
+
+We'll work through some solutions and discuss questions.
+
+## Project Work 11:00 AM to 04:00 PM 

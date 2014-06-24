@@ -1,0 +1,6 @@
+---
+title: Rocky Mtn Ruby Day 1
+layout: outline
+---
+
+Rocky Mountain Ruby Conference - Day 1

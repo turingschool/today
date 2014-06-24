@@ -1,0 +1,25 @@
+---
+title: 140220
+layout: outline
+---
+
+## Warmup
+
+For warmup today let's checkout "The Big Picture" from our friend Jim Weirich.
+
+http://confreaks.com/videos/2876-rubyconf2013-the-big-picture
+
+Jim was a gifted teacher and gave some of the best conference talks ever. You'd do well to work your way through the archive:
+
+http://confreaks.com/presenters/24-jim-weirich
+
+## Rake
+
+* Rake and Make
+* Rake as an Open Source project
+* Automating systems
+* The nuts and bolts: http://tutorials.jumpstartlab.com/topics/systems/automation.html
+
+## Nick Muerdter from NREL Visiting 03:00 PM to 04:00 PM 
+
+This afternoon Nick from NREL is visiting. I'll set him up in the classroom to talk about what they're working on. If you're interested, please join. This is optional.

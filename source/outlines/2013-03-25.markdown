@@ -1,0 +1,33 @@
+---
+title: 2013-03-25
+layout: outline
+---
+
+## Daily Outline
+
+* Warm-Up
+* Weekly Overview
+* Introduction to REST
+* Reading Group: Conversation with Jon Duckett
+* Store Engine Q&A / Work Time
+* Lightning Talks Assigned - Group 4 on Ruby Interpreters
+
+## Reading Group - HTML & CSS RG3
+
+Today we'll talk with Jon Duckett, author of HTML & CSS. Please send Jeff questions if you have some!
+
+## REST Fundamentals
+
+[REST Fundamentals Tutorial](http://tutorials.jumpstartlab.com/$1)
+
+## Lightning Talks
+
+This week we'll have five lightning talks on the subject of "Ruby Interpreters" from...
+
+* Josh Mejia
+* Erin Drummond
+* Kareem Grant
+* Paul Blackwell
+* John Maddux
+
+Meet with Jeff at 4:00 today to brainstorm your topics.

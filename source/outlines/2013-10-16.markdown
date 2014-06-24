@@ -1,0 +1,50 @@
+---
+title: 131016
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup & Professional Practices: Linked List (8:30 - 11:00)
+* IdeaBox Work Time (1:00-2:30)
+* Testing Sinatra Applications (2:30-4:00)
+* Lightning Talk Rough Draft (4:00 - 4:30)
+
+## Warmup & Pairing: Linked List
+
+* Part 1 (8:30-8:45): What is a linked list?
+* Part 2 (8:45-9:30): Instructor Implementation
+* Part 3 (9:30-10:20): Solo Implementation
+* Part 4 (10:25-10:30): Dumb Keyboard
+* Part 5 (10:30-11:30): Pair Implementation
+* Part 6 (11:30-11:45): Regroup & Lessons Learned
+
+### Pairings
+
+* Louisa Barrett & Will Mitchell
+* Nikhil Taneja & Magan Adam
+* Lauren Spath Luhring & Romeeka Gayhart
+* Ben Horne & Jonah Moses
+* Persa Zula & Simon Taranto
+* Billy Griffin & Bree Thomas
+* Bryana Knight & Quentin Tai
+* Brian Winterling & Antony Siegert
+* Darryl Pequeen & Ben Lewis
+* Katrina Englestad & George Hudson
+* Nathaniel Watts & Luke Martinez
+* Rolen Le & Tyler Long
+
+## IdeaBox (Independent) (1:00-2:30)
+
+Get together with your groupmates and dig into IdeaBox.
+
+## Testing Sinatra Applications (2:30-4:00)
+
+In this session we'll return to WebGuesser but start over, using TDD, MiniTest, and Capybara.
+
+## Lightning Talk Rough Draft (4:00 - 4:30)
+
+This afternoon lightning talkers should have a rough draft of the presentation for Friday:
+
+* Visual aids created and ready for feedback
+* Spoken content ready for feedback but not yet mastered

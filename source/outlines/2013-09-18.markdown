@@ -1,0 +1,107 @@
+---
+title: 130918
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Professional Practices: Sublime Text
+* Fundamental Debugging
+* Finishing Enumerable
+* EventReporter Work Time
+* Jeff's Talk Practice
+
+## Warmup
+
+Today let's get started with Exercism.
+
+* 8:30 -- How to TDD a Warmup
+* 8:45-9:15 -- complete Bob on your own
+* 9:15-9:45 -- Frank works through a solution
+* 9:45-10:00 -- Q&A
+
+## Professional Practices: Terminal & SublimeText
+
+http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html
+
+## Fundamental Debugging
+
+The reality of programming is that you'll spend more time debugging than you will writing code. Let's look at a few tools and techniques to find and squash bugs.
+
+* [Outputting Text and Logging](http://tutorials.jumpstartlab.com/topics/debugging/outputting_text.html)
+
+### [Pry](http://pryrepl.org/)
+
+Pry is similar to IRB because it allows us to interact with ruby code. Pry has an incredibly large set of features.
+
+We are going to use pry to see our application from the inside while it is running. This will ultimately make it easier for us to know what is happening at an exact moment instead of guessing.
+
+Let's use the `Bob` application we created earlier as a simple test subject for debugging. First we want to update the source code to actually run
+Bob.
+
+* Update your `bob.rb` to actually ask bob for a single response:
+
+```ruby
+class Bob
+  # ... code ...
+end
+
+bob = Bob.new
+puts bob.response_for("Are you SHOUTING?")
+
+```
+
+The code should execute and output a response. We are going to assume that the response is not exactly what we intended. So now it is time to debug what is happening.
+
+### Installing and Using Pry
+
+* Install the pry gem `gem install pry`
+
+* Update the `bob.rb` source to require the pry gem and insert a `binding.pry` line in the application.
+
+```ruby
+require 'pry'
+
+class Bob
+  def response_for(input)
+    binding.pry
+    # ... remaining code ...
+  end
+end
+```
+
+Save the file.
+
+* Run `ruby bob.rb`
+
+An interactive session should be launched and you should be able to interrogate your input parameter.
+
+### Pry Commands
+
+* Pry shows you where the pry "breakpoint" is located.
+
+When your terminal window is smaller then the amount of code that needs to be displayed pry enters into a "read-only" mode that allows you to use your movement keys (`Up`/`Down` or `k`/`j`) to scroll up and down the viewable area. You can leave 'read-only* mode by pressing the `q` key.
+
+* Any old ruby syntax
+
+Pry is very much like IRB we can type in most any ruby code and have it executed for us. This allows us to try out different possibilities on our inputs and outputs to make sure they are exactly what we want.
+
+* `quit`
+
+The `quit` command will leave the current pry session and allow for the application to continue to execute immediately after the stopping point.
+
+
+## Finishing Enumerable
+
+https://github.com/JumpstartLab/enums-exercises
+
+## EventReporter Work Time
+
+Hope you're making progress towards Thursday's deadline!
+
+## Jeff's Talk Practice
+
+At 4pm I'll rehearse my talk to Nickel City Ruby in the classroom.
+
+

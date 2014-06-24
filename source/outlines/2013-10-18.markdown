@@ -1,0 +1,101 @@
+---
+title: 131018
+layout: outline
+---
+
+## Daily Outline
+
+* Retrospective (9:00 - 10:00)
+* Lightning Talks (10:00 - 11:00)
+* 1-on-1s & Self Study Time  (11:00 - 4:00)
+* Weekly Wrap Up (4:00 - 4:30)
+
+## Retrospective (9:00 - 10:00)
+
+### Personal Retrospective
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* How does building web applications, so far, compare to building command-line applications?
+* Have you been able to keep up the good habits you practiced during Focus Week, or did you have to make compromises? Why?
+* Is working on an individual project proving or disproving your understanding of your skills? Has having a small team around you been helpful?
+* Next week we'll have our first assessments. What will be your weak spots, and what will be strong?
+
+### Group Retrospective
+
+* Focus
+* Phones
+* Open Floor
+* Four shout-outs
+
+## Lightning Talks (10:00 - 11:00)
+
+Today we'll have six talks on significant figures in the open source community -- and one guy ranting about exercise.
+
+## 1-on-1s  (12:30 - 4:00)
+
+Please meet with Jeff or Jorge at the time specified below. There are some intentional gaps :)
+
+### With Jeff in the Perch
+
+* 1:00 - Antony Siegert
+* 1:10 - Bree Thomas
+* 1:20 - Persa Zula
+* 1:40 - Ben Horne
+* 1:50 - Nathaniel Watts
+* 2:00 - Kevin Powell
+* 2:10 - Billy Griffin
+* 2:20 - Quentin Tai
+* 2:30 - Louisa Barrett
+* 2:50 - Katrina Englestad
+* 3:00 - George Hudson
+* 3:10 - Nikhil Taneja
+* 3:20 - Lauren Spath Luhring
+* 3:30 - Darryl Pequeen
+* 3:40 - Magan Adam
+* 3:50 - Tyler Long
+
+### With Jorge in the War Room
+
+* 1:00 - Romeeka Gayhart
+* 1:10 - Jonah Moses
+* 1:20 - Simon Taranto
+* 1:30 - Brian Winterling
+* 1:40 - Rolen Le
+* 2:00 - Ben Lewis
+* 2:10 - Luke Martinez
+* 2:20 - Bryana Knight
+* 2:30 - Will Mitchell
+
+## Self-Directed Study
+
+Please remember that this is **not** time for IdeaBox. Step away and work on **something different**. Get together with **at least one other person**. 
+
+Here are some suggestions:
+
+### Help Improve Ruby's Documentation
+
+Think the Ruby docs could use a little work? Here's a tutorial that walks you through every step of submitting a documentation patch:
+
+http://documenting-ruby.org/
+
+### Work on Fundamentals
+
+* Consider exercises like [TDD](https://github.com/JumpstartLab/tdd-exercises), [Halloween](http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html), [CSV](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-csv.html), or [Enumerables](https://github.com/JumpstartLab/enums-exercises)
+* Some Git with [Think Like a Git](http://think-like-a-git.net), [Git Immersion](http://http://gitimmersion.com), or [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
+
+### Prep for Next Week
+
+* Practice with HTML & CSS, guided by your new book
+* Learn about SQL including an [Introduction](http://en.wikipedia.org/wiki/SQL), and [practice online tutorials](http://sqlzoo.net/wiki/Main_Page), or [text tutorials](http://www.baycongroup.com/tocsql.htm)
+* Start learning about Capybara with [the documentation](), [a video workshop from RailsConf](http://www.youtube.com/watch?v=BG_DDUD4M9E), [a Rails-centric tutorial from RailsCasts](http://railscasts.com/episodes/257-request-specs-and-capybara), [our tutorial about using Capybara with Rails](http://tutorials.jumpstartlab.com/topics/capybara/capybara_with_rack_test.html)
+
+### Practice JavaScript
+
+* [Try jQuery](http://try.jquery.com/)
+* [JavaScript on Codecademy](http://www.codecademy.com/tracks/javascript)
+* [JavaScript on the Page (JSL)](http://tutorials.jumpstartlab.com/projects/javascript/introduction/1-javascript-in-the-page.html) and [JavaScript Basics](http://tutorials.jumpstartlab.com/projects/javascript/introduction/2-javascript-basics.html)
+
+## Weekly Wrap Up (4:00 - 4:30)
+
+Let's meet back in the classroom at 4pm to wrap up the week.

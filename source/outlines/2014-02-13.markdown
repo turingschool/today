@@ -1,0 +1,62 @@
+---
+title: 140213
+layout: outline
+---
+
+## Warmup
+
+This morning for warmup we'll work through the logic problem you completed on Tuesday. The PDF is here: https://www.dropbox.com/s/mwwl4m5842wnpmr/lsat_68_4_3.pdf
+
+## Internal Demos
+
+This morning we'd like to do internal demos, diving deeper than the public demos this afternoon.
+
+### Prep 9:00-10:00
+
+We'd like you to spend about 15 minutes showing off your work. Please spend this prep time making a **detailed plan** including some of the questions below. Focus on what'll be interesting and valuable to your classmates.
+
+#### Interface
+
+* What does it do?
+* Does it deliver on the value proposition?
+* What features did you complete and what had to get scrapped?
+* How did you design the workflow / UX? Were you able to implement your designs?
+* If this were a real product, where do you see it going next?
+
+#### Code
+
+* What segments were particularly difficult?
+* How did you decide to pull out services?
+* Did you have any particular areas of emphasis (speed, test coverage, etc)?
+* Did you practice any new techniques?
+* Did you make mistakes? Were you able to correct them?
+
+### Demos 10:00-12:00
+
+* 10:05 - Playdater: Ben H, Antony, Adam, Jonah
+* 10:25 - Planting Season: Ben L, Nathaniel, Tyler, Luke
+* 10:45 - Menu Mama: Meeka, Rolen, Will, Billy
+* 11:05 - Project X: George, Bryana, Nikhil, Brian
+* 11:25 - Standnote: Katrina, Persa, Lauren, Simon
+
+## Finishing Touches 01:00 PM to 04:00 PM
+
+This afternoon is up to you.
+
+## Pairing w/Kytrinyx
+
+* 13:00-14:00 Louisa
+* 14:00-15:00 Bryana
+* 15:00-16:00 Will
+
+## Demos
+
+### Room Prep @ 4:30
+
+Let's plan on starting the room setup at 4:30. If the room is busy we'll push back to 5:00.
+
+### Outline
+
+Here's the info and presentation order:
+
+http://tutorials.jumpstartlab.com/events/gschool-1/services.html

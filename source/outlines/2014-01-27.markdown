@@ -1,0 +1,102 @@
+---
+title: 140127
+layout: outline
+---
+
+## Weekly Preview
+
+* Maria Thomas at 4pm Today
+* Services tutorials Monday-Thursday AMs
+* Services project Monday-Thursday PMs
+
+## Maria Thomas
+
+This afternoon we'll be joined by Maria Thomas over Skype. I've asked her to talk with you around two topics:
+
+* A) What should you, as potential employees, look for in the team and organizational leadership 
+* B) As engineers, how do you make sure you're building the *right* thing, not just *a* thing?
+
+About Maria:
+
+* Twitter: https://twitter.com/pesmou
+* LinkedIn: http://www.linkedin.com/in/nprmaria
+* Web: http://www.mariathomas.org/
+
+## Services Tutorials
+
+Work in a small, assigned group through the tutorials at http://tutorials.jumpstartlab.com/projects/monsterporium/
+
+Even if you're not participating in the team projects, you should still work with these groups on these tutorials.
+
+Jorge will generally be available to help you out while Jeff & Katrina are doing assessments.
+
+### Working Groups
+
+* Katrina Engelsted & Romeeka Gayhart & Simon Taranto & Rolen Le
+* Bryana Knight & Magan Adam & Jonah Moses & Brian Winterling
+* Louisa Barrett & Nikhil Taneja & Billy Griffin & Nathaniel Watts
+* Antony Siegert & Kevin Powell & Tyler Long & Will Mitchell
+* Ben Lewis & Luke Martinez & Darryl Pequeen & Ben Horne
+* Bree Thomas & Persa Zula & Lauren Spath Luhring & George Hudson 
+
+## Services Projects
+
+This week you'll be working on your own. Next week we'll have more support time with product/technical coaching.
+
+Nevertheless, push yourselves to do things the way you know they should be done. Write stories, plan iterations, and start with the concrete things first. Figure out how to deliver a working prototype by next Monday.
+
+* Playdater: Ben H, Antony, Adam, Jonah
+* Planting Season: Ben L, Nathaniel, Tyler, Luke
+* Menu Mama: Meeka, Rolen, Will, Billy
+* Project X: George, Bryana, Nikhil, Brian
+* Standnote: Katrina, Persa, Lauren, Simon
+
+## Assessment Scheduling
+
+Before you arrive for your assessment, make sure you've followed the preparation steps and have a general idea of the assessment:
+
+http://tutorials.jumpstartlab.com/academy/workshops/storedom_assessment.html
+
+We'd prefer if you didn't practice ahead of time.
+
+### Monday
+
+#### With Katrina in the Nook
+
+* 9:00 - Simon Taranto
+* 10:00 - Romeeka Gayhart
+* 11:00 - Will Mitchell
+* 1:00 - Ben Lewis
+* 2:00 - Nathaniel Watts
+* 3:00 - Ben Horne
+
+#### With Jeff at the Instructor Desks
+
+* 9:00 - Billy Griffin
+* 10:00 - Lauren Spath Luhring
+* 11:00 - Antony Siegert
+* 1:00 - Darryl Pequeen
+* 2:00 - Kevin Powell
+* 3:00 - Magan Adam
+
+### Tuesday
+
+#### With Katrina in the Nook
+
+* 9:00 - Rolen Le
+* 10:00 - Persa Zula
+* 11:00 - Nikhil Taneja
+* 1:00 - Tyler Long
+* 2:00 - Brian Winterling
+* 3:00 - Bryana Knight
+
+### Wednesday
+
+If Jeff is here on Tuesday, these sessions will get rescheduled to be with him on Tuesday.
+
+* 9:00 - Jonah Moses
+* 10:00 - Louisa Barrett
+* 11:00 - Bree Thomas
+* 1:00 - George Hudson
+* 2:00 - Katrina Engelsted
+* 3:00 - Luke Martinez

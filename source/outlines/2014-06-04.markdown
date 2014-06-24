@@ -1,0 +1,105 @@
+---
+title: 140604
+layout: outline
+---
+
+## Warmup (8:30-9:00)
+
+Please complete this logic exercise on your own: http://cl.ly/2m3p33091u1A
+
+We won't have time to go through it today, but at the end of the warmup you can go vote vote for your answers on the whiteboard.
+
+## Mythical Creatures
+
+This morning we're going to work on the Mythical Creatures exercises.
+
+### Setup
+
+Here's how to get the files you need. In your Terminal:
+
+* switch to the directory where you'll keep your projects
+* clone the repo: `git clone git@github.com:JumpstartLab/ruby-exercises.git`
+* change to the mythical creatures directory: `cd ruby-exercises/mythical-creatures`
+* open the folder in your editor: `atom .`
+
+### Doing the Work
+
+The recommended order is:
+
+* `unicorn_test.rb`
+* `vampire_test.rb`
+* `dragon_test.rb`
+* `hobbit_test.rb`
+* `pirate_test.rb`
+* `wizard_test.rb`
+* `medusa_test.rb`
+* `werewolf_test.rb`
+* `centaur_test.rb`
+
+Your general process is:
+
+1. Run the test file (like `ruby unicorn_test.rb`)
+2. If the tests fail, read the output / error messages and fix them
+3. If the tests pass, see if there are any more tests in that file which have a `skip`. Remove the next `skip` and goto step 1.
+4. If you've completed all the tests for that file, then move on to the next.
+
+### Schedule
+
+We're going to try a bit of independent work mixed with pairing.
+
+#### Independent Session (9:00-10:00)
+
+Let's spend the first hour working on your own.
+
+#### Pairing Session (10:00-11:00)
+
+Next let's get together in the following pairs:
+
+* Andrew Watkins & Andy Mention
+* Tim Proctor & Allison Larson
+* Cara Dennis & Jessica Goulding
+* Emily Davis & Eric Fransen
+* Horacio Chavez & Robert Gu
+* Tan Doan & Chad Brading
+* Marc Garreau & Will Faurot
+* Gustavo Villagrano & Hillary Denton
+* Corey Davis & Jonmichael Chambers & Alan Smith
+
+#### Independent Session (11:00-12:00)
+
+Finally let's spend the last hour working alone.
+
+## Scavenger Hunt
+
+This afternoon Susannah will coordinate the scavenger hunt.
+
+### Team 1
+
+* Andy Mention
+* Hillary Denton
+* Marc Garreau
+* Robert Gu
+* Tim Proctor
+
+### Team 2
+
+* Alan Smith
+* Horacio Chavez
+* Jonmichael Chambers
+* Andrew Watkins
+* Jessica Goulding
+
+### Team 3
+
+* Will Faurot
+* Cara Dennis
+* Eric Fransen
+* Gustavo Villagrano
+* Emily Davis
+
+### Team 4
+
+* Allison Larson
+* Corey Davis
+* Chad Brading
+* Tan Doan

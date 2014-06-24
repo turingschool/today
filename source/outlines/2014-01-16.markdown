@@ -1,0 +1,49 @@
+---
+title: 140116
+layout: outline
+---
+
+## Technical Check-Ins 09:00 AM to 11:00 AM 
+
+### With Katrina near the War Room
+
+* 9:10 - Hot Streak - Jonah Moses, Magan Adam, Quentin Tai, Romeeka Gayhart
+* 9:45 - Social Smarts - Antony Siegert, George Hudson, Louisa Barrett, Nikhil Taneja, Will Mitchell
+* 10:20 - TravelHub - Brian Winterling, Katrina Engelsted, Persa Zula, Rolen Le
+
+### With Jeff at the Instructor Desks
+
+* 9:10 - Mile High - Ben Horne, Ben Lewis, Bryana Knight, Darryl Pequeen
+* 9:45 - Runline - Billy Griffin, Bree Thomas, Lauren Spath Luhring, Luke Martinez
+* 10:20 - Agile Board - Kevin Powell, Nathaniel Watts, Simon Taranto, Tyler Long
+
+## Peer Check-Ins 11:00 AM to 12:00 PM
+
+Let's get together to check-in on your progress and look for opportunities to share ideas, findings, and collaborate on code.
+
+Please gather in the following groups to discuss:
+
+* Where is your project, so far?
+* What are the big hurdles?
+* What parts have been easier/harder than anticipated?
+* What are you working on next?
+* What areas might overlap with other groups?
+
+### Groupings
+
+* Jonah Moses, Brian Winterling, Kevin Powell, Billy Griffin
+* Ben Horne, Antony Siegert, Magan Adam, Nathaniel Watts
+* Ben Lewis, George Hudson, Katrina Engelsted, Bree Thomas
+* Quentin Tai, Lauren Spath Luhring, Louisa Barrett, Will Mitchell
+* Simon Taranto, Luke Martinez, Bryana Knight, Nikhil Taneja
+* Romeeka Gayhart, Rolen Le, Tyler Long, Darryl Pequeen
+
+## Resumes with Dave Brady 1:00pm
+
+Dave is going to talk a bit about resumes this afternoon from about 1:00-2:00. This session is optional. After the talk, Dave will be available to give one-on-one feedback and answer questions.
+
+## Pairing w/Katrina 13:00-16:00
+
+* 13:00-14:00 Bree
+* 14:00-15:00 Darryl
+* 15:00-16:00 Kevin

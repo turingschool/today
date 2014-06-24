@@ -1,0 +1,12 @@
+---
+title: 140205
+layout: outline
+---
+
+## Daily Outline
+
+* 9:00 - Code Exercise
+* 10:30 - Retrospective/Prospective
+* Jeff to iTriage
+* Project Work
+* 4:00 - Lightning Talks

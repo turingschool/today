@@ -1,0 +1,35 @@
+---
+title: 131203
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Fundamental Rails Security 9:00 AM to 12:00 PM
+* Project Work Time 1:00 PM to 4:00 PM 
+
+## Fundamental Rails Security 9:00 AM to 12:00 PM 
+
+Three layers of security for web applications:
+
+* Physical - hardware
+* Systems - operating system and operational dependencies
+* Application
+
+### Rails Application Security
+
+Please get together with your working group below and work through the following tutorial:
+
+http://tutorials.jumpstartlab.com/topics/fundamental_security.html
+
+#### Working Groups
+
+* Darryl Pequeen, Antony Siegert, Quentin Tai
+* Billy Griffin, Jonah Moses, Tyler Long
+* Katrina Engelsted, Magan Adam, Nathaniel Watts
+* Bree Thomas, Brian Winterling, Romeeka Gayhart
+* Bryana Knight, Lauren Spath Luhring, Rolen Le
+* Ben Lewis, Persa Zula, Simon Taranto
+* Nikhil Taneja, Will Mitchell, Kevin Powell
+* Ben Horne, George Hudson, Louisa Barrett, Luke Martinez 

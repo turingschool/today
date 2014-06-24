@@ -1,0 +1,80 @@
+---
+title: 140117
+layout: outline
+---
+
+## Retrospective 9:00-10:00
+
+### Personal Retrospective 9:00-9:30
+
+For your personal retro, please think/write about what your perfect worklife will be like. Consider...
+
+* Geography
+* People you'll work with
+* Kind of work / subject / domain
+* Role within the organization
+* Work hours
+* Scheduling patterns (even workload or spike/relax?)
+* Team character and style
+
+### Group Retrospective 9:35-10:00
+
+* Project progress
+* Resumes etc
+
+## Lightning Talks
+
+* Lauren Spath Luhring - CRT
+* Quentin Tai - CPU
+* Luke Martinez - RAM
+* Magan Adam - SSD
+* Simon Taranto - Network Adapter
+* Persa Zula - Open Source Hardware
+* Will Mitchell - Motherboard
+
+## Guest: Ian Lotinsky from Learnzillion 01:00 PM to 02:00 PM 
+
+* [Blog](http://ianlotinsky.wordpress.com/)
+* [LinkedIn](http://www.linkedin.com/in/ianlotinsky)
+
+## 1-on-1s and Self-Study
+
+Some sessions will happen in the morning, some in the afternoon.
+
+### With Jeff at the Gather Front Door
+
+I'm again doing walking 1-on-1s.
+
+* 11:00 Bryana Knight
+* 11:15 Brian Winterling
+* 11:30 Rolen Le
+* 11:45 George Hudson
+* 14:15 Ben Horne
+* 14:30 Nikhil Taneja
+* 14:45 Magan Adam
+* 15:00 Quentin Tai
+
+### With Katrina in the Perch
+
+* 11:00 Jonah Moses
+* 11:15 Darryl Pequeen
+* 11:30 Antony Siegert
+* 11:45 Simon Taranto
+* 14:00 Bree Thomas
+* 14:15 Tyler Long
+* 14:30 Nathaniel Watts
+* 14:45 Lauren Spath Luhring
+* 15:00 Ben Lewis
+
+### With Jorge in the Nook
+
+* 11:00 Kevin Powell
+* 11:15 Persa Zula
+* 11:30 Billy Griffin
+* 11:45 Katrina Engelsted
+* 14:00 Romeeka Gayhart
+* 14:15 Louisa Barrett
+* 14:30 Luke Martinez
+* 14:45 Will Mitchell
+
+## YE Final Demos 05:00 PM to 08:00 PM 

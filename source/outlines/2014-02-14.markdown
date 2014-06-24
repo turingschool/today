@@ -1,0 +1,26 @@
+---
+title: 140214
+layout: outline
+---
+
+This morning let's think about Linked Lists.
+
+Go into your `problem_solving` repo from the homework and add our repo as a remote named `upstream`. Then pull the latest code:
+
+```
+git remote add upstream git@github.com:JumpstartLab/problem_solving.git
+git pull upstream master
+```
+
+* Open `problems/exercise_2.markdown`
+* Create a feature branch
+* Create `solutions/yourlast_yourfirst/exercise_2.markdown`
+* Build your solutions
+* Push up to your fork and send a pull request
+
+## Retrospective 03:00 PM to 04:00 PM 
+## Self-Study Time 01:00 PM to 04:00 PM 
+## 1-on-1s 01:00 PM to 04:00 PM 
+## Guest Speaker 11:00 AM to 12:00 PM 
+## Lightning Talks 10:00 AM to 11:00 AM 
+## Code Retreat & Interviews 09:00 AM to 03:00 PM 

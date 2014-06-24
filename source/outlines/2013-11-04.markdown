@@ -1,0 +1,142 @@
+---
+title: 131104
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview
+* The Rails Story & How MVC Works (9:15 AM to 11:00 AM) 
+* Blogger Wrapup & Q/A (11:00 AM to Noon)
+* Reading Group (1:00 PM to 2:30 PM)
+* Dinner Dash Kick Off (2:30 PM to 4:00 PM) 
+* Lighting Talk Kickoff (4:00 PM to 4:30 PM) 
+
+## Weekly Preview
+
+* Understanding REST
+* Full-Stack Testing with Capybara
+* Authentication & Authorization
+* Dinner Dash Check-Ins
+* Guest: Jim Weirich 
+
+## The Rails Story
+
+* Web applications in 2005
+* 37Signals & Basecamp
+* Rails 1.0 - do what they can do (characters: DHH, Ezra, 
+* Rails 2.0 - do it how it should be done
+* Rails 3.0 - pay down the technical debt
+* Rails 4.0 - what's next?
+* [Core Team](http://rubyonrails.org/core) and [Alumni](http://rubyonrails.org/core/alumni)
+
+## How MVC Works
+
+* Server IP and Port
+* Receiving the Request - Router
+* Processing the Request - Controller
+* Business Logic & Database - Model
+* Output Template - View
+* Return HTML
+* [An illustration of the whole flow](http://tutorials.jumpstartlab.com/images/rails_mvc.png)
+
+## Blogger Wrapup & Q/A
+
+Let's spend a few minutes going over questions you have from the weekend's Blogger project.
+
+## Reading Group
+
+Today we'll run reading group in three 30-minute segments.
+
+### Part 1: Closing Out HTML & CSS Books (1:00-1:30)
+
+First up, get together with your HTML & CSS group.
+
+* How did the group do with deliverables? Is there anything to be collected or organized?
+* What was the completion rate among your group? If you'd like to be mathematical about it, survey each member for their number of pages or chapters completed, average those, then divide by the expected total.
+* For your classmates who read other books, why *should* or *shouldn't* they consider this book in the future?
+* What could you have done differently/better as a group to refine your outcomes?
+
+### Part 2: Full-Group Recap (1:30-2:00)
+
+Let's gather back in the classroom to recap and report back on your completed texts.
+
+* Duckett "HTML & CSS"
+* Head First "HTML and CSS"
+* A Book Apart HTML5 + CSS3
+* Above the Fold
+
+### Part 3: Kickoff Rails Intro Texts (2:00-2:30)
+
+#### Wintermeyer's "Ruby on Rails 4 Guide"
+
+* Bree
+* Louisa
+* Antony
+* Adam
+* Bryana
+* Persa
+* Darryl
+
+#### Hartl's "Rails 4 Tutorial" - Group A
+
+* George
+* Tyler
+* Ben H.
+* Billy
+* Brian
+* Jonah
+
+#### Hartl's "Rails 4 Tutorial" - Group B
+
+* Lauren
+* Katrina
+* Luke
+* Nikhil
+* Kevin
+
+#### Williams's "Rails View"
+
+* Ben L
+* Meeka
+* Quentin
+* Rolen
+* Nathaniel
+
+#### Richardson's "RESTful Web Services"
+
+* Simon
+* Will
+
+## Dinner Dash Kickoff (2:30 PM to 4:00 PM) 
+
+### Schedule
+
+Dinner Dash begins now and is due the morning of Thursday, 11/14. You'll have several work sessions during the class days, but should plan on 30+ hours outside of class during the project.
+
+### Groups
+
+* Tyler Long, Bree Thomas, Ben Lewis, Nikhil Taneja
+* Darryl Pequeen, Jonah Moses, Simon Taranto
+* Antony Siegert, Ben Horne, Nathaniel Watts
+* Will Mitchell, Lauren Spath Luhring, Persa Zula
+* Quentin Tai, Brian Winterling, Katrina Englestad
+* Magan Adam, Louisa Barrett, Luke Martinez
+* Rolen Le, Romeeka Gayhart, George Hudson
+* Kevin Powell, Bryana Knight, Billy Griffin
+
+### Assignment
+
+http://tutorials.jumpstartlab.com/projects/dinner_dash.html
+
+## Lighting Talk Kickoff (4:00 PM to 4:30 PM)
+
+This week we're back with six lightning talks on Fundamental Rails Tools & Techniques from:
+
+* George Hudson
+* Billy Griffin
+* Ben Horne
+* Ben Lewis
+* Bryana Knight
+* Nathaniel Watts

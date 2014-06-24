@@ -1,0 +1,63 @@
+---
+title: 140616
+layout: outline
+---
+
+## Warmup (8:30-9:00)
+
+Write a program that:
+
+* Generates the first 100 numbers in the [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number)
+* Prints them out one-by-one as it generates them
+* Outputs whether they are or are not prime numbers
+
+For example:
+
+```
+1. 0
+2. 1
+3. 1
+4. 2 (prime)
+5. 3 (prime)
+6. 5 (prime)
+7. 8
+8. 13 (prime)
+```
+
+## REPL Essentials (9:00-10:30)
+
+Let's discuss REPLs and the essential tools you need to build one:
+
+* Defining a class versus executing code
+* Using a `while` loop
+* Using `gets`
+* Gotchas with `gets`
+* Extracting logic from the REPL interface
+
+## Mastermind Intro & Planning (10:30-Noon)
+
+Let's spend this time getting your project started on the right foot.
+
+### Read the Assignment
+
+First, let's take ten minutes to read the assignment **twice**.
+
+http://tutorials.jumpstartlab.com/projects/mastermind.html
+
+### Group Discussion
+
+Then together we'll discuss:
+
+* What not to do
+* Top-down vs bottom-up approaches
+* Breaking the problem down into components
+* Building and validating small components
+* Writing integration tests
+
+## Mastermind Work Time (1:00-3:30)
+
+Use this afternoon to get work done on your Mastermind project.
+
+## Mastermind Q&A (3:30-4:00)
+
+Bring your questions!

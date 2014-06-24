@@ -1,0 +1,35 @@
+---
+title: 130911
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup: Craft Studio
+* Warmup Review
+* Q&A: EventManager & Ruby in 100
+* Encryptor
+* Class: EventManager Part 2
+* Mini-Retro
+
+### Encryptor
+
+Work with a **different** pair/group this morning to complete the Encryptor project: http://tutorials.jumpstartlab.com/projects/encryptor.html
+
+### EventManager Part 2
+
+This afternoon, work with either your same pair from yesterday or a new one to complete EventManager. We're expecting that you have it done by tomorrow morning.
+
+The tutorial is at  http://tutorials.jumpstartlab.com/projects/eventmanager.html
+
+### Mini-Retro
+
+We'll meet back in the classroom at 3pm for a short retrospective. 
+
+You survived the first two days of programming.
+
+* What was something that was easier than you expected?
+* Harder?
+* Did anything surprise you about your classmates? Instructors?
+* What's your biggest worry after yesterday?
+* What are you most excited about?

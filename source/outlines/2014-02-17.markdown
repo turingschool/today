@@ -1,0 +1,43 @@
+---
+title: 140217
+layout: outline
+---
+
+## Warmup
+
+This morning let's work with Linked Lists.
+
+### Individual Time 8:30-9:00
+
+Work on solutions to a few of the following exercises:
+
+https://github.com/JumpstartLab/problem_solving/blob/master/problems/exercise_2.markdown
+
+### Group 9:00-9:30
+
+Together we'll work through solution for one or two questions.
+
+## Mastery Project Planning
+
+* Defining the Concept 9:30-9:45
+* Pitch / Recruitment 9:45-10:00
+* Wireframing 10:00-11:30
+* Technical planning, storywriting, research 1:00-4:00
+
+## Skype Q&A with Harper Reed 11:00 AM to 12:00 PM 
+
+### Questions
+
+Please add questions to the following moderator:
+
+https://www.google.com/moderator/#15/e=215280&t=215280.40
+
+### Bio
+
+Harper...
+
+* was the CTO of Obama for America during the 2012 campaign cycle
+* was the founding CTO of Threadless
+* is from Greeley, CO
+* is [on Twitter](https://twitter.com/harper)
+* writes [a blog](http://www.nata2.org/)

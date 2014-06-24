@@ -1,0 +1,63 @@
+---
+title: Sales Engine Start
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview
+* Ruby Objects and Classes
+* Planning Sales Engine
+* How-To Reading Group
+
+## Weekly Preview
+
+### Monday
+
+Frank, Jeff, Jorge, Katrina
+
+### Tuesday
+
+Frank, Jeff, Jorge, Katrina
+
+### Wednesday
+
+Jeff, Jorge
+
+### Thursday & Friday
+
+Rocky Mountain Ruby Conference
+
+## Ruby Objects and Classes
+
+## 1:00-1:30 How-To Reading Group
+
+http://tutorials.jumpstartlab.com/reading/suggestions.html
+
+## 1:30-2:30 Planning Sales Engine
+
+Intro to the project: http://tutorials.jumpstartlab.com/projects/sales_engine.html
+
+## 2:30-3:30 Planning Sales Engine in Pairs
+
+Talk to your partner(s) about how you think you will approach solving this.
+
+These are the pairs:
+
+* Quentin Tai & Nathaniel Watts
+* Rolen Le & Will Mitchell
+* Simon Taranto & Katrina Engelsted
+* Jonah Moses & Bree Thomas
+* Ben Lewis & Louisa Barrett
+* Persa Zula & Nikhil Taneja
+* George Hudson & Luke Martinez
+* Lauren Spath Luhring & Tyler Long
+* Kevin Powell & Brian Winterling
+* Bryana Knight & Adam Magan
+* Antony Siegert & Billy Griffin
+* Darryl Pequeen &  Romeeka Gayhart & Ben Horne
+
+## 3:30-4:00 Sales Engine Q&A
+
+We'll do a full-group Q&A session in the classroom.

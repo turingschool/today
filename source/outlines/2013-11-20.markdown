@@ -1,0 +1,54 @@
+---
+title: JS JQuery
+layout: outline
+---
+
+## JS Exercism (09:00 AM to 10:00 AM)
+
+We will meet in the classroom and talk about a few JavaScript concepts:
+
+* for loops (iterating)
+* properties
+* functions
+
+The remainder of the time will be spent working through existing problems and asking questions about what was covered yesterday.
+
+## What's Up With jQuery (10:00 AM to 11:00 AM)
+
+We want to now take the **Bob** code we built yesterday and create an interactive conversation with Bob which allows us to type in various inputs and see the outputs.
+
+* Downloading jQuery
+* Building boilerplate HTML that includes jQuery and external JavaScript files
+* Writing JavaScript within HTML using the **script** tag
+* Searching and reading JQuery documentation
+
+We will use the following process, written here in pseudocode, to solve this problem:
+
+* Listen for when the user clicks on the submit button
+* Prevent the default operation of reloading the page
+* Find the input text field of our message we are going to send to Bob
+* Create a new instance of Bob
+* Send our Bob instance our input
+* Store the results returned from Bob
+* Find the location where we want to display the results
+* Append our results to the destination location
+
+## JQuery - Tutorials and Exercises (01:00 PM to 04:00 PM)
+
+### Tutorials
+
+These tutorials walk through several examples of how to use JQuery to accomplish several desired client-side behaviors. Each one builds on one another so it is best to follow them in order.
+
+* [HelloJQ](http://tutorials.jumpstartlab.com/projects/javascript/jquery/hellojq.html)
+* [JSRights](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jsrights.html)
+* [JSTasker](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jstasker.html)
+* [JSCart](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jscart.html)
+
+### Exercises
+
+Additionally you may also return to the exercises you looked at, started or completed yesterday and create interactive versions of these using the JQuery **sparkle** you have learned.
+
+* [Hamming](https://github.com/JumpstartLab/warmup-exercises/tree/master/hamming)
+* [Word Count](https://github.com/JumpstartLab/warmup-exercises/tree/master/word-count)
+* [Anagram](https://github.com/JumpstartLab/warmup-exercises/tree/master/anagram)
+* [Nucleotide Count](https://github.com/JumpstartLab/warmup-exercises/tree/master/nucleotide-count)

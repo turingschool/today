@@ -1,0 +1,98 @@
+---
+title: 131004
+layout: outline
+---
+
+## Daily Outline
+
+* Sharing Time
+* Retrospective
+* 1-on-1s & Self-Study Time
+* Sidestep: Processing
+
+## Retrospective
+
+### Personal Retrospective
+
+You have 25 minutes to write and publish a personal retrospective on your class blog including:
+
+* How was working in a pair for over a week? Did you feel like you were twice as productive? What was harder and what was easier?
+* You're now four weeks into the program. Have you mastered more or less than you would have predicted? Why?
+* If you had to guess now, where are your skills going to be in five months? What will you intend to do after the program?
+* What learning strategies are working best for you so far? Why?
+
+### Group Retrospective
+
+* Who were you collaborating with most this week? Why?
+* Has your progress been faster or slower than you expected?
+* What was your favorite session as a full or small group? Least favorite?
+* Three shout-outs
+
+## 1-on-1s
+
+### At the instructor desks with Jeff
+
+* Lauren Spath Luhring
+* Bree Thomas
+* Darryl Pequeen
+* Louisa Barrett
+* George Hudson
+* Kevin Powell
+* Persa Zula
+* Magan Adam
+
+### In the Nook with Franklin
+
+* Billy Griffin
+* Romeeka Gayhart
+* Tyler Long
+* Luke Martinez
+* Bryana Knight
+* Ben Horne
+* Quentin Tai
+* Antony Siegert
+* Katrina Engelsted
+
+### At Metropolitan Coffee with Katrina
+
+* 10:00 Nikhil Taneja
+* 10:15 Rolen Le
+* 10:30 Brian Winterling
+* 10:45 Will Mitchell
+* 11:00 Nathaniel Watts
+* 11:15 Ben Lewis
+* 11:30 Jonah Moses
+* 11:45 Simon Taranto
+
+## Self-Directed Work
+
+The only directive for this session is that you **do your work with at least one other person**. Do whatever you feel will help you consolidate your learning or move forward or inspire you.
+
+Here are some suggestions:
+
+### Work on Ruby Fundamentals
+
+* [Practice writing code with TDD exercises](https://github.com/JumpstartLab/tdd-exercises)
+* [Objects & Methods Exercises (aka Halloween)](http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html)
+* [CSV-based Exercises](http://tutorials.jumpstartlab.com/academy/workshops/intro-to-csv.html)
+* [Focus on Enumerables](https://github.com/JumpstartLab/enums-exercises)
+
+### Go Deeper on Git
+
+* [Think Like a Git](http://think-like-a-git.net)
+* [Git Immersion](http://http://gitimmersion.com)
+* [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/
+)
+
+### Watch Conference Talks
+
+* [Superheros & Villains in Design](http://vimeo.com/70030549)
+* [Legacy](http://www.confreaks.com/videos/1240-aloharuby2012-legacy)
+* [How to Talk to Developers](http://www.youtube.com/watch?v=l9JXH7JPjR4)
+* [The Magic Tricks of Testing](http://www.confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing)
+
+### Practice JavaScript
+
+* [Try jQuery](http://try.jquery.com/)
+* [JavaScript on Codecademy](http://www.codecademy.com/tracks/javascript)
+* [JavaScript on the Page (JSL)](http://tutorials.jumpstartlab.com/projects/javascript/introduction/1-javascript-in-the-page.html) and [JavaScript Basics](http://tutorials.jumpstartlab.com/projects/javascript/introduction/2-javascript-basics.html)

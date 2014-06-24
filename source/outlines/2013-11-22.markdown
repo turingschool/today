@@ -1,0 +1,153 @@
+---
+title: 131122
+layout: outline
+---
+
+## Daily Outline
+
+* Guest: Justin Gitlin 9:00-10:00
+* Lightning Talks 10:00-11:00
+* Retrospective 11:00-12:00
+* The Hiring Plan 1:00-2:00
+* 1-on-1s & Self-Study 2:00-4:00
+
+## Guest: Justin Gitlin
+
+* Partner & Developer at [Mode Set](http://modeset.com/)
+* Makes music as [Cacheflow](http://www.cacheflowe.com/)
+* Created the [Roll-It Chrome Experiment](http://chrome.com/campaigns/rollit)
+* [Github](https://github.com/cacheflowe)
+* [Twitter](https://twitter.com/cacheflowe)
+
+## Retrospective 11:00 AM to 12:00 PM
+
+### Personal Retrospective
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* What did you think about the code retreat? How did it feel to work on a problem which, given your time constraint, was unsolvable? What lessons/ideas did you take away?
+* What did you learn through Dinner Dash? Do you have any interesting areas of focus as you go into your next project?
+* How has the week of JavaScript been? What's making sense and what's confusing? What was the most difficult thing you were able to achieve?
+
+Please come back to the classroom by 11:35.
+
+### Group Retro
+
+* Code Retreat
+* JavaScript Week
+* Assessment
+* Hardware Tuesday
+
+## The Hiring Plan
+
+### Historical Recap
+
+* From 22 respondents, average Hungry Academy salary was $89,000
+* From 18 respondents, average gSchool-0 salary was $77,155, the low was $60,000 and the high $95,000
+* At the last day of gSchool-0, 15 of 23 students had offers signed. 22 of 23 had signed within two weeks of graduation.
+* 11 students went into consulting, 12 went to product companies
+* Consulting was a bit tougher to get interest than product
+
+#### Geographic Distribution of gSchool-0
+
+* Denver: 8
+* Boulder: 5
+* Chicago: 2
+* NYC: 2
+* Atlanta: 2
+* DC: 1
+* Boston: 1
+* SF/Mex: 1
+
+### Timing
+
+* Program Ends 2/28
+* Flex time 2/17 - 2/28
+* Portfolios posted 1/13
+* Portfolio / Resume prep 1/6
+
+### What to Do Now
+
+* Meet with Susannah, especially mentioning special constraints
+* Keep your eyes open
+* Let us know about companies / areas you're interested in
+* Talk to mentors, user group people, etc about their company/job
+
+### What Not to Do Now
+
+* Worry
+* Apply for jobs
+* Work on your portfolio/resume
+* Be concerned about competing with your classmates
+
+### What We're Seeing So Far
+
+* Demand is still high and spread geographically
+* gSchool-0 students have created great impressions on their employers, they want more people (ex: iTriage, Comverge, Pivotal)
+* Several CO companies where we didn't place anyone are still interested (ex: SendGrid, Welltok)
+* Our LivingSocial network is spreading, like Chad Fowler in Berlin, Ian Lotinsky at Learnzillion, HA grads at New Relic
+* There's growing international interest from Canada, England, Germany, Australia
+
+### What We're Watching Out For
+
+* Trying to not ruin the last weeks of the program
+* We learned that people locked into one location (ex: Boston, Atlanta) are the hardest to place.
+* Some skepticism about demand in Colorado
+* Trying to get better at "enterprise" opportunities like Expedia
+* Going to focus more networking effort on Bay Area
+
+### Takeaways
+
+* This is not a buffet
+* It's you, not us
+* We put in what you put in
+* Timebox your thinking
+* It will work out great
+
+## 1-on-1s
+
+### With Jeff at Metropolitan
+
+* 2:00 - Bryana Knight
+* 2:15 - Quentin Tai
+* 2:30 - Kevin Powell
+* 2:45 - Brian Winterling
+* 3:00 - Lauren Spath Luhring
+* 3:15 - Tyler Long
+* 3:30 - Magan Adam
+* 3:45 - Darryl Pequeen
+* (Simon Taranto)
+
+### With Frank in The Perch
+
+* 2:00 - Nathaniel Watts
+* 2:15 - Jonah Moses
+* 2:30 - Katrina Engelsted
+* 2:45 - George Hudson
+* 3:00 - Persa Zula
+* 3:15 - Bree Thomas
+* 3:30 - Billy Griffin
+* 3:45 - Romeeka Gayhart
+
+### With Jorge in The Nook
+
+* 2:00 - Louisa Barrett
+* 2:15 - Ben Lewis
+* 2:30 - Nikhil Taneja
+* 2:45 - Will Mitchell
+* 3:00 - Ben Horne
+* 3:15 - Antony Siegert
+* 3:30 - Luke Martinez
+* 3:45 - Rolen Le
+
+## Self-Study Time
+
+During self-study today, you should **get together with at least one other person** and study something like:
+
+* Revising JavaScript topics from the week
+* Integrating some JavaScript functionality into your blog
+* Revisiting intermediate git topics from Tim's visit
+* Working on your Rails or JavaScript reading books
+* Try out a completely new programming language like Go, Scala, or Clojure
+* Use an Arduino kit and get a head-start on learning how to use it
+* Work on open-source software / tutorials. Were there things you tried this week that you wish were better explained?

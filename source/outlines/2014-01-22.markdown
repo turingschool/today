@@ -1,0 +1,33 @@
+---
+title: 140122
+layout: outline
+---
+
+## Daily Outline
+
+* Project Work Time
+* Chat with Jennifer Eliuk
+* Technical Evaluations
+
+## Chat with Jennifer Eliuk
+
+Jen was in the first gSchool class. Today she's joining us to talk about working as an apprentice, being at a small company, and learning Clojure.
+
+* [Blog](http://jennifereliuk.com/)
+* [Twitter](https://twitter.com/7maples)
+* [GitHub](https://github.com/7maples)
+* jen7maples@gmail.com
+
+## Technical Evaluations
+
+### With Jorge & Katrina in the Nook
+
+* 1:00 - Mile High - Ben Horne, Ben Lewis, Bryana Knight, Darryl Pequeen
+* 2:00 - Social Smarts - Antony Siegert, George Hudson, Louisa Barrett, Nikhil Taneja, Will Mitchell
+* 3:00 - Runline - Billy Griffin, Bree Thomas, Lauren Spath Luhring, Luke Martinez
+
+### With Jeff at the Instructor Desks
+
+* 1:00 - TravelHub - Brian Winterling, Katrina Engelsted, Persa Zula, Rolen Le
+* 2:00 - Agile Board - Kevin Powell, Nathaniel Watts, Simon Taranto, Tyler Long
+* 3:00 - Hot Streak - Jonah Moses, Magan Adam, Quentin Tai, Romeeka Gayhart

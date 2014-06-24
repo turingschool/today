@@ -1,0 +1,14 @@
+---
+title: Welcome
+layout: outline
+---
+
+## Welcome to gSchool-1
+
+* Building tour
+* Fob and computer pickup
+* What you need to know about Galvanize
+* Neighborhood
+* Instructor introductions
+* Student introductions
+* Working with Jessie

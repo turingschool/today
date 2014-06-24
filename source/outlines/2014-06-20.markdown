@@ -1,0 +1,90 @@
+---
+title: 140620
+layout: outline
+---
+
+## Alumni Q&A (9:00-10:00)
+
+This morning we'll do a Google Hangout with twelve alumni from past programs.
+
+* Horace Williams
+* Rolen Le
+* Bree Thomas
+* Luke M
+* Geoffrey Schorkopf
+* Andrew Glass
+* Bryana Knight
+* Aimee Maher
+* Ben Lewis
+* R Gayhart
+* Tyler Long
+* Simon Taranto
+
+## Retrospective
+
+### Individual (10:10-10:35)
+
+Start a new retro file and work on writing about some of the following topics:
+
+* Mastermind: how did your project turn out? Why? If you could rewind to this time last week, what would you do the same and what would you do differently? What did you learn through the project?
+* One of the class sessions this week was on debugging. Were you able to apply those techniques to your project? What tools / strategies did you use to fix things when they were burning down?
+* You didn't have an assigned pair or group for this project. Did you choose to work on your own, with others, or a mix? How did that work out? Why? As you start into the next project with a pair, what are you excited about or wary of?
+* Now that you've been together for a few weeks you have a sense of your classmates. Who do you click with? Who do you find difficult to work with? What kind of strategies will you use when you need to work with people who you don't naturally mesh with?
+
+### Group (10:35-11:00)
+
+## Posse Meetings (11:00-noon)
+
+This morning in your Posse meetings please review and plan out EventReporter:
+
+http://tutorials.jumpstartlab.com/projects/event_reporter.html
+
+## Afternoon (1:00-4:00)
+
+Typically working on your project is *not* a good choice for Friday afternoon, but this week is an exception.
+
+### EventReporter Pairings
+
+Please complete one project with the following pair:
+
+* Corey Davis & Emily Davis
+* Chad Brading & Robert Gu
+* Jonmichael Chambers & Alan Smith
+* Allison Larson & Tim Proctor
+* Will Faurot & Hilary Denton
+* Cara Dennis & Gustavo Villagrana
+* Jessica Goulding & Eric Fransen
+* Andrew Watkins & Horacio Chavez
+* Tan Doan & Andy Mention & Marc Garreau
+
+The project is due at *1pm on Thursday 6/26*.
+
+### 1-on-1s
+
+### With Josh
+
+* 1:00 - Tan Doan
+* 1:20 - Chad Brading
+* 1:40 - Robert Gu
+* 2:00 - Alan Smith
+* 2:20 - Horacio Chavez 
+* 2:40 - Allison Larson
+
+### With Jeff
+
+* 1:00 - Eric Fransen
+* 1:20 - Hillary Denton
+* 1:40 - Marc Garreau
+* 2:00 - Andrew Watkins
+* 2:20 - Will Faurot
+* 2:40 - Jessica Goulding
+
+### With Jorge
+
+* 1:00 - Andy Mention
+* 1:20 - Emily Davis
+* 1:40 - Cara Dennis
+* 2:00 - Corey Davis
+* 2:20 - Tim Proctor
+* 3:00 - Jonmichael Chambers
+* 3:20 - Gustavo Villagrana

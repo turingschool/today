@@ -1,0 +1,101 @@
+---
+title: 140606
+layout: outline
+---
+
+## MicroBlogger (9am-Noon)
+
+This week you've had a lot of vegetables, today it's time for a little dessert. Let's build a Ruby client for interacting with Twitter.
+
+http://tutorials.jumpstartlab.com/projects/microblogger.html
+
+### Pairing
+
+You've done a good job with pairing this week. Today let's add a few pieces to the puzzle.
+
+#### USB Displays
+
+We have a few monitors which magically only need a single USB cord to work. But first you need to install this driver:
+
+http://www.displaylink.com/support/mac_downloads.php
+
+Do it now even if you're not using one of the displays today.
+
+#### ScreenHero
+
+ScreenHero is a pretty slick tool for sharing your computer. You'll find it useful with each other, times when teammates are working from home/elsewhere, and working with mentors. Download, install, and setup an account: http://screenhero.com/download.html
+
+#### Pairs
+
+Please work in the following pairs:
+
+* Will Faurot & Cara Dennis - jsl_demo_01
+* Emily Davis & Gustavo Villagrana - jsl_demo_02
+* Allison Larson & Jessica Goulding - jsl_demo_03
+* Andrew Watkins & Horacio Chavez - jsl_demo_04
+* Jonmichael Chambers & Robert Gu - jsl_demo_05
+* Marc Garreau & Eric Fransen - jsl_demo_06
+* Tim Proctor & Corey Davis - jsl_demo_07
+* Hillary Denton & Andy Mention - jsl_demo_08
+* Tan Doan & Chad Brading & Alan Smith - jsl_demo_09
+
+## One-On-Ones (1:00-3:00)
+
+This afternoon we'll have our first one-on-ones. They'll last about 10 minutes each.
+
+### With Josh
+
+* 1:00 - Tan Doan
+* 1:10 - Chad Brading
+* 1:20 - Robert Gu
+* 1:30 - Alan Smith
+* 1:40 - Horacio Chavez 
+* 1:50 - Eric Fransen
+* 2:10 - Hillary Denton
+* 2:20 - Marc Garreau
+* 2:30 - Andrew Watkins
+
+### With Jeff
+
+* 1:00 - Andy Mention
+* 1:10 - Jonmichael Chambers
+* 1:20 - Emily Davis
+* 1:30 - Gustavo Villagrana
+* 1:40 - Cara Dennis
+* 1:50 - Corey Davis
+* 2:10 - Tim Proctor
+* 2:20 - Allison Larson
+* 2:30 - Will Faurot
+* 2:40 - Jessica Goulding
+
+## Retro
+
+### Independent Writing (3:00-3:30)
+
+#### Setup for Writing
+
+* create a folder in your home directory named "retrospectives"
+* `cd` into the directory and `git init`
+* create a file `week_of_0606.markdown`
+* write responses for a few of the questions below
+* use all the time available to you for writing
+
+#### Questions for Thinking
+
+* How was this week similar and different from what you thought the class would be like?
+* What prep did you do before class? Was it worth it?
+* Were there any topics you felt particularly "clicked" this week?
+* What the most confusing thing you tried to learn this week? How will you continue to get better at it?
+* What caught your eye about your classmates this week?
+* What will you focus on to be a valuable part of their learning experience
+
+### Group Discussion (3:35-4:00)
+
+## Weekend Work
+
+By the time we start on Monday you should have finished and feel reasonable comfortable with:
+
+* Ruby in 100 Minutes
+* Intro to TDD
+* Mythical Creatures
+* MicroBlogger

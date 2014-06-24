@@ -1,0 +1,63 @@
+---
+title: 140108
+layout: outline
+---
+
+## Exercism
+
+This morning, please get started with the Wordy exercise:
+
+* Test file: https://raw2.github.com/exercism/exercism.io/master/assignments/ruby/wordy/wordy_test.rb
+* From the CLI: `exercism fetch ruby wordy`
+
+### Exercism Pairing 9:00-9:40
+
+Please...
+
+1. Get together with a pair partner of your choosing
+2. Figure out which of you made less progress on the solution
+3. Continue working as a pair on completing that solution
+4. Be back in the classroom by 9:40
+
+### Exercism Walk-Through 9:40-10:25
+
+Next Jeff will work through a solution.
+
+## gSchool Chat with Jonan Scheffler 10:30 AM to 11:00 AM
+
+* [On Twitter](https://twitter.com/1337807)
+* [On Github](https://github.com/1337807)
+* [On LinkedIn](http://www.linkedin.com/in/jonanscheffler)
+* ["Hacking Cognition" Talk at Ruby on Ales](http://www.youtube.com/watch?v=bS-f35m5_7Y)
+
+## Technical Resumes 11:00 AM to 12:00 PM 
+
+Let's discuss the key components of your technical resume
+
+### Big Picture
+
+* What's the resume for?
+* Who reads it? Differences in small, medium, and large companies.
+* What about posted requirements?
+
+### Resume Components
+
+1. What are you looking for?
+2. Where's your code? Group, solo, and exploration
+3. Education (and no GPAs!)
+4. Briefest work history, short/no bullets
+5. Skip the laundry list of competencies, unless it's unexpected
+
+## Technical Check-Ins 01:00 PM to 04:00 PM 
+
+### With Katrina in the Nook
+
+* 1:00 - Social Smarts - Antony Siegert, George Hudson, Louisa Barrett, Nikhil Taneja, Will Mitchell
+* 2:00 - TravelHub - Brian Winterling, Katrina Engelsted, Persa Zula, Rolen Le
+* 3:00 - Hot Streak - Jonah Moses, Magan Adam, Quentin Tai, Romeeka Gayhart
+
+### With Jeff at the Instructor Desks
+
+* 1:00 - Mile High - Ben Horne, Ben Lewis, Bryana Knight, Darryl Pequeen
+* 2:00 - Runline - Billy Griffin, Bree Thomas, Lauren Spath Luhring, Luke Martinez
+* 3:00 - Agile Board - Kevin Powell, Nathaniel Watts, Simon Taranto, Tyler Long

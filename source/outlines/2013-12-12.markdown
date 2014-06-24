@@ -1,0 +1,107 @@
+---
+title: 131212
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Query Performance 9:00 AM to 12:00 PM 
+* Check-In: Technical Review 1:00 PM to 4:00 PM 
+* Lightning Talk Practice 4:00-5:00
+* YE Work/Meeting Session 5:00 PM to 7:00 PM 
+
+## Query Performance 9:00 AM to 12:00 PM 
+
+This morning Katrina will show you how and why to start optimizing the performance of your database.
+
+http://tutorials.jumpstartlab.com/topics/performance/queries.html
+
+### Working Groups
+
+When we break out to complete the tutorial, please gather in the following working groups:
+
+* Antony Siegert, Jonah Moses, Louisa Barrett, Romeeka Gayhart
+* Ben Lewis, Billy Griffin, Rolen Le, Simon Taranto
+* Darryl Pequeen, Katrina Engelsted, Luke Martinez, Persa Zula
+* Brian Winterling, Magan Adam, Nathaniel Watts, Nikhil Taneja
+* Ben Horne, Bree Thomas, Lauren Spath Luhring, Quentin Tai
+* George Hudson, Kevin Powell, Tyler Long, Will Mitchell, Bryana Knight
+
+## Check-In: Technical Review 1:00 PM to 4:00 PM 
+
+This afternoon we'll do technical check-ins.
+
+### With Jorge & Katrina in the Perch
+
+* 1:00 -- Kevin Powell, Nikhil Taneja, Quentin Tai
+* 1:45 -- Katrina Engelsted, Luke Martinez, Nathaniel Watts
+* 2:30 -- Ben Lewis, Billy Griffin, Magan Adam
+* 3:15 -- Antony Siegert, Bryana Knight, Jonah Moses
+
+### With Jeff in the War Room
+
+* 1:00 -- Ben Horne, Louisa Barrett, Will Mitchell
+* 1:45 -- Darryl Pequeen, Lauren Spath Luhring, Rolen Le
+* 2:30 -- Persa Zula, Romeeka Gayhart, Tyler Long
+* 3:15 -- Bree Thomas, Brian Winterling, George Hudson, Simon Taranto
+
+## YE Work/Meeting Session 5:00 PM to 7:00 PM
+
+This evening we'll meet with the YE students to go over concepts and wireframes. The key takeaways from the today's session should be:
+
+* What pages/content areas will the site have?
+* What copy (text) do you need for those pages? Does it exist or who's writing it? (it'd be wise to write it together today)
+* What images are available and what need to be created?
+
+### Groups
+
+#### Art by Adelyn
+
+* Entrepreneurs: Adelyn
+* Team: Billy Griffin, Katrina Engelsted, Nikhil Taneja
+
+#### Borg Bros Boards
+
+* Entrepreneur: Hayden
+* Team: Bryana Knight, Quentin Tai
+
+#### Flair Body Care
+
+* Entrepreneurs: Clare and Finn
+* Team: Jonah Moses, Luke Martinez, Persa Zula
+
+#### Hagan's Hand
+
+* Entrepreneurs: Hagan
+* Team: Darryl Pequeen, Lauren Spath Luhring, Rolen Le
+
+#### Sonny's Bow Ties
+
+* Entrepreneurs: Sonny
+* Team: Bree Thomas, Antony Siegert, Magan Adam
+
+#### Forever Essence
+
+* Entrepreneurs: Eric, Taylor, Deja
+* Team: George Hudson, Louisa Barrett, Tyler Long
+
+#### Jonah's Snacks
+
+* Entrepreneurs: Jonah
+* Team: Ben Lewis, Nathaniel Watts
+
+#### Stickman LAX
+
+* Entrepreneurs: Owen
+* Team: Kevin Powell, Will Mitchell
+
+#### Aahhh 2 J's Lemonade
+
+* Entrepreneur: Nyla
+* Team: Brian Winterling, Simon Taranto
+
+#### Jack's Tie Dye
+
+* Entrepreneur: Jack
+* Team: Romeeka Gayhart, Ben Horne

@@ -1,0 +1,21 @@
+---
+title: 131025
+layout: outline
+---
+
+## Daily Outline
+* Code in the Garden (9:00 - 12:00)  
+* 1-on-1s & Self-Study Time (1:00 - 3:00) 
+* Retrospective (3:00 - 4:00)  
+
+## Feedback
+* Code in the Garden http://betterful.herokuapp.com/surveys/211ea0b
+
+## Code in the Garden (9:00 - 12:00)  
+
+## 1-on-1s (1:00 - 3:00)
+http://jsl-outline.herokuapp.com/20131018
+ 
+## Self-Study Time (1:00 - 3:00) 
+
+## Retrospective (3:00 - 4:00)  

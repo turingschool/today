@@ -1,0 +1,102 @@
+---
+title: 131021
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup & Weekly Preview (8:30-9:15)
+* Ideabox TDD Tutorial (9:30 - 12:00)
+* Skills Assessment (9:30 - 4:00)
+* Meet with Susannah (9:30 - 3:00)
+* IdeaBox Work Time (12:00 - 4:00)
+
+## Weekly Preview
+
+* Assessments
+* Refactoring and Testing Web Applications
+* Internal IdeaBox Reviews & Demos
+
+## Ideabox TDD Tutorial
+
+This morning while you're *not* in your assessment, please practice TDD with IdeaBox. You should be working on a **new** or **blank** version of IdeaBox, not your real project.
+
+http://tutorials.jumpstartlab.com/academy/workshops/idea_box_tdd.html
+
+Please get together in your working group to complete it and support each other. It would be very helpful if you post issues on github when things get very confusing:
+
+https://github.com/jumpstartlab/curriculum/issues
+
+When the session ends please [give us some feedback](http://betterful.herokuapp.com/0fd31fc).
+
+## Meet Susannah in the Pit
+
+Today you'll meet with Susannah to start figuring out where you want to end up after the program.
+
+* 9:30 Quentin Tai
+* 9:45 Nikhil Taneja
+* 10:00 Simon Taranto
+* 10:30 Nathaniel Watts
+* 10:45 Brian Winterling
+* 11:00 Will Mitchell
+* 11:15 Billy Griffin
+* 1:00 Ben Home
+* 1:15 Katrina Englested
+* 1:30 Romeeka Gayhart
+* 1:45 Bree Thomas
+* 2:15 Kevin Powell
+* 2:30 George Hudson
+* 2:45 Luke Martinez
+
+## Skills Assessment
+
+http://tutorials.jumpstartlab.com/academy/workshops/scrabble.html
+
+Before your session you should:
+
+* Read the assignment
+* Clone the repo: https://github.com/gSchool/scrabble
+* Run bundler to install dependencies
+* Get to your room a few minutes early
+* Make sure you have [installed the DisplayLink driver](http://www.displaylink.com/support/mac_downloads.php) that we'll use to watch your work
+
+### In Front of the War Room with Jeff
+
+* 9:30 - 10:15 Persa Zula
+* 10:15 - 11:00 Kevin Powell
+* 11:00 - 11:45 Bree Thomas
+
+### At the Nook with Franklin
+
+* 10:30 - 11:15 Katrina Engelsted
+* 11:15 - 12:00 Romeeka Gayhart
+
+### In the War Room with Katrina
+
+* 9:30 - 10:15 Billy Griffin
+* 10:15 - 11:00 Ben Home
+
+### In Conference Room 2 with Katrina
+
+* 11:00 - 11:45 George Hudson
+* 11:45 - 12:30 Luke Martinez
+
+### In Front of the War Room with Jeff
+
+* 1:00 - 1:45 Louisa Barrett
+* 1:45 - 2:15 Antony Siegert
+* 2:15 - 3:00 Darryl Prequeen
+
+### In the Nook with Franklin
+
+* 1:00 - 1:45 Adam Magan
+* 1:45 - 2:15 Rolen Le
+* 2:15 - 3:00 Ben Lewis
+* 3:00 - 3:45 Jonah Moses
+
+### In Conference Room 2 with Katrina
+
+* 1:00 - 1:45 Will Mitchell
+* 1:45 - 2:30 Bryana Knight
+* 2:30 - 3:15 Tyler Long
+* 3:15 - 4:00 Lauren Spath Luhring

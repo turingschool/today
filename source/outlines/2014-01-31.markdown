@@ -1,0 +1,13 @@
+---
+title: 140131
+layout: outline
+---
+
+## Snowpocalypse
+
+Class is cancelled. Please use the time to:
+
+1. Get your portfolio info submitted.
+2. Send out applications and emails.
+3. Work on your project
+4. Maybe work on a bit of open source? Open source contributions, even to lesser-known libraries are A) a great thing to do and B) very attention-grabbing to potential hire-ers.

@@ -1,0 +1,63 @@
+---
+title: JS Jasmine
+layout: outline
+---
+
+## Getting Started with JavaScript and Jasmine (09:00 AM to 11:00 AM)
+
+To gain understanding of JavaScript and testing with JavaScript we want to review the work that we have already accomplished with Bob.
+
+* Review the concepts of Bob in Ruby
+* Review the Bob tests in Ruby
+
+Using the [Jasmine Documentation](http://pivotal.github.io/jasmine/) as a reference we will convert the test suite from MiniTest to Jasmine.
+
+* Converting MiniTest to Jasmine
+* Using `describe`, `it`, and `expect`
+
+With our test suite in place we can now solve **Bob** in JavaScript.
+
+* Writing Bob in JavaScript
+
+## JS Exercism (11:00 AM to 12:00 PM)
+
+Exercism provides many possible tracks. One of those is JavaScript. The first exercise provided happens to be **Bob**. Solve the exercise and submit your work through Exercism.
+
+## Practicing Core JavaScript 01:00 PM to 04:00 PM 
+
+### Work Pattern
+
+Similar to this morning, we will continue to learn JavaScript by:
+
+* Understanding the concepts of the problem in Ruby
+* Converting the test suite from MiniTest to Jasmine
+* Composing a solution in JavaScript
+
+Your pair can choose to:
+
+* A) Stay in the classroom and mix independent work with Frank-led sessions
+* B) Work independently outside the classroom
+
+### Exercises
+
+Suggested exercises to work on with your pair:
+
+* [Hamming](https://github.com/JumpstartLab/warmup-exercises/tree/master/hamming)
+* [Word Count](https://github.com/JumpstartLab/warmup-exercises/tree/master/word-count)
+* [Anagram](https://github.com/JumpstartLab/warmup-exercises/tree/master/anagram)
+* [Nucleotide Count](https://github.com/JumpstartLab/warmup-exercises/tree/master/nucleotide-count)
+
+### Pairs
+
+* Ben Horne & Katrina Engelsted
+* Rolen Le & Lauren Spath Luhring
+* Bryana Knight & Simon Taranto
+* Persa Zula & George Hudson
+* Antony Siegert & Romeeka Gayhart
+* Brian Winterling & Quentin Tai
+* Jonah Moses & Tyler Long
+* Louisa Barrett & Will Mitchell
+* Darryl Pequeen & Nikhil Taneja
+* Kevin Powell & Billy Griffin
+* Ben Lewis & Bree Thomas
+* Luke Martinez & Magan Adam

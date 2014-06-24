@@ -1,0 +1,193 @@
+---
+title: 131028
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview 
+* Retrospective
+* Clone Wars Kickoff & Planning
+* Reading Group (1:00 - 2:00)
+* Scraping Content with Mechanize (2:00 - 4:00)
+
+## Feedback
+
+* Clone Wars http://betterful.herokuapp.com/surveys/e0da99b
+* Scraping Content with Mechanize http://betterful.herokuapp.com/surveys/eb350a8
+
+## Weekly Preview
+
+* Rails/Blogger/StoreEngine pushed back
+* Clone Wars
+* Frank out Monday-Wednesday, Katrina out Thursday-Friday
+* Guest Konstantin Haase on Friday
+
+## Retrospective (9:15 - 10:30)
+
+### Personal Retrospective
+
+Spend 40 minutes writing and publishing a personal retrospective on your class blog including:
+
+* What did you learn about your own skills and abilities while working on your own through IdeaBox?
+* How are you feeling about building web applications? Sinatra?
+* Were you able to test your application well? Why or why not? Do you think it matters?
+* If you could go back to the start of the project last week and do it all again, what would you do differently?
+* What were your takeaways from Code Retreat on Friday? What did you like and dislike about the process? What would you do differently for the next Code Retreat?
+
+Please come back to the classroom by 10:00.
+
+### Link Aggregation
+
+When you're done, please add a link to your post on this thread:
+
+http://gschool.groupbuzz.io/topics/810-retrospective-10-24
+
+### Group Retrospective
+
+* Code retreat
+* Working groups, working alone, and soon in pairs/teams
+* Facilities and space
+* Intensity upgrade
+* Open floor
+* Shoutouts
+
+## Clone Wars Kickoff & Planning (10:30-12:00)
+
+The Clone Wars project kicks off today and finishes Thursday.
+
+### Groups
+
+* Jonah Moses, Brian Winterling, Kevin Powell
+* Nikhil Taneja, Lauren Spath Luhring, Romeeka Gayhart
+* Simon Taranto, Katrina Englestad, Bryana Knight
+* Ben Lewis, Antony Siegert, Luke Martinez
+* Tyler Long, Ben Horne, Magan Adam
+* Will Mitchell, Darryl Pequeen, Billy Griffin
+* Quentin Tai, Persa Zula, George Hudson
+* Bree Thomas, Nathaniel Watts, Louisa Barrett, Rolen Le
+
+### Assignment
+
+[Clone Wars assignment](http://tutorials.jumpstartlab.com/projects/clone_wars.html)
+
+## Reading Group (1:00 - 2:00)
+
+Today during reading group you need to:
+
+* Get together with your current group and check-in on progress / goals set last week.
+* Collect, review, and give feedback on each other's work
+* Discuss any areas of particular interest / confusion
+* Set goals for this week as you complete the reading cycle
+
+### Progress Check-Ins (1:30 - 2:00)
+
+First, let's hear from each of the groups for about 5 minutes including...
+
+* What text are you reading?
+* What's been most valuable about it?
+* What deliverable(s) has your group been completing?
+* What's your completion rate like? Are group members sticking to the plan?
+* What's going to happen over the last week?
+
+Groups:
+
+* Duckett "HTML & CSS"
+* Head First "HTML and CSS"
+* A Book Apart HTML5 + CSS3
+* Above the Fold
+
+### Next Book
+
+Then let's select your third book which you'll start **next** week. Review the options at http://tutorials.jumpstartlab.com/reading/suggestions.html#rails-fundamentals
+
+## Web Scraping and Other Devious-Sounding Activities (2:00 - 4:00)
+
+* 2:00 - 2:20 Group Research
+* 2:20 - 2:40 Research summary
+* 2:40 - 3:00 Intro/overview
+* 3:00 - 4:00 Experimentation / Exercises
+
+### Group Research
+
+We'll start by splitting into 5 groups, which I generated randomly using my super secret gSchool random group generator.
+
+Get together with your group to do some research on the topic provided.
+
+Some questions that might get you started:
+
+* What is `$TOPIC`? 
+* What is it used for? 
+* Is it easy? difficult? 
+* What are some of the tools? 
+* Are there any gotchas? 
+* Interesting moral dilemmas? 
+* How would you approach it? 
+* What are the alternatives (or competitors if it is a tool)? 
+* Is there any etiquette surrounding this? Are there rules? 
+* How about standardized approaches? 
+* If it is a tool, what problem does it solve badly or not at all? 
+* What does it remind you of? 
+* Other Pros? Cons? 
+* What is interesting about it?
+
+#### Topic: Ruby for "Scripting"
+
+* Kevin Powell
+* Nikhil Taneja
+* George Hudson
+* Jonah Moses
+* Simon Taranto
+
+#### Topic: Web "Spiders"
+
+* Tyler Long
+* Brian Winterling
+* Billy Griffin
+* Louisa Barrett
+* Katrina Engelsted
+
+#### Topic: HTML & XML
+
+* Adam Magan
+* Bryana Knight
+* Rolen Le
+* Lauren Spath Luhring
+* Quentin Tai
+
+#### Topic: Nokogiri
+
+* Persa Zula
+* Will Mitchell
+* Bree Thomas
+* Nathaniel Watts
+* Romeeka Gayhart
+
+#### Topic: Mechanize
+
+* Antony Siegert
+* Ben Lewis
+* Luke Martinez
+* Ben Horne
+* Darryl Pequeen
+
+### Research Summary
+
+Each group will provide a 3 minute summary of the most interesting take-aways from their research. This is not a formal presentation, please don't worry about charts and crayons and stuff.
+
+### Intro/Overview
+
+A very brief intro to writing mechanize scripts to automate web scraping tasks:
+
+http://tutorials.jumpstartlab.com/topics/mechanize.html
+
+### Experimentation
+
+Complete the GroupBuzz exercise at the end of the tutorial. Now that you're logged into GroupBuzz, what are some other interesting experiments you could run? Some ideas:
+
+* What's the average length of a message?
+* What hours are the most popular for posting?
+* Who posts most frequently?
+
+If you like, use mechanize to start scraping your Clone Wars client website.

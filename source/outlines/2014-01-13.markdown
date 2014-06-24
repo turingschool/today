@@ -1,0 +1,115 @@
+---
+title: 140113
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Mocking and Doubling External APIs
+* Revisiting Background Workers (optional)
+
+## Mocking and Doubling External APIs 09:30 AM to 12:00 PM
+
+### Key Ideas
+
+* http://en.wikipedia.org/wiki/Dependency_inversion_principle -- “Depend upon Abstractions. Do not depend upon concretions.”
+* Analogy to human translators
+* Dependency Injection (DI) is a technique for controlling what an object depends on
+* Doubles stand in for real objects
+* Tests that rely on external APIs are slow and can have privacy issues / data dependencies
+* We can use DI to insert test doubles into our working code to eliminate actual API access
+
+### Work Session
+
+Let's build a small application that:
+
+* Runs in the terminal
+* Pulls the most recent article title
+* Appends the number of words in the article
+
+### Process
+
+* Start up the API server
+* See the JSON at http://localhost:3000/api/v1/articles.json
+* Generate a consumer gem
+* Add testing tools
+* Write a test to find articles
+* Write a test to find the word count of the first article
+* Shut down the API, tests fail
+* What VCR can and can't do
+* Separate *logical processing* from *data access*
+* Logic component *depends on* the data
+* Extract the data access
+* Make the dependency configurable
+* Create a data double
+
+## Revisiting Background Workers 01:00 PM to 03:00 PM
+
+### Key Ideas
+
+* Messages are your to-do list
+* The primary app writes the to-do items
+* The worker app watches for to-do items
+* Synchronicity doesn't matter
+
+### Code Notes
+
+#### Setup
+
+```ruby
+source 'http://rubygems.org'
+gem 'resque', "~> 1.25"
+gem 'rake'
+```
+
+#### Defining Jobs
+
+```ruby
+class JobName
+  @queue = 'sample'
+
+  def self.perform(data)
+    puts "Working on #{data}"
+  end
+end
+```
+
+#### Posting Messages
+
+```ruby
+require 'resque'
+data = "Hello!"
+Resque.enqueue(JobName, data)
+```
+
+#### Starting Workers
+
+The Rakefile:
+
+```ruby
+require 'bundler/setup'
+require 'resque/tasks'
+```
+
+Then run the task:
+
+```plain
+rake resque:work QUEUE='*'
+```
+
+Or, with more output:
+
+```plain
+VVERBOSE=true QUEUE='*' rake resque:work
+```
+
+## Lightning Talks
+
+* Quentin Tai
+* Lauren Spath Luhring
+* Magan Adam
+* Will Mitchell
+* Simon Taranto
+* Luke Martinez
+* Persa Zula

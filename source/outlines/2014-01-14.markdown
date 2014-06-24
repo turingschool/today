@@ -1,0 +1,82 @@
+---
+title: 140114
+layout: outline
+---
+
+## Daily Outline
+
+* Accessing APIs from JavaScript
+* Customer Check-Ins
+* Lightning Talk Key Points @ 4:00
+* Desi on Thoughtworks @ 4:00
+* Denver.rb Tonight @ 6:30
+
+## Accessing APIs from JavaScript 09:00 AM to 12:00 PM 
+
+* JSON is native to JavaScript
+* jQuery makes API calls easily
+* Fetch JSON, use it to update the DOM
+
+### Full Group Experimentation
+
+In `app/assets/articles.js`:
+
+```js
+function hello() {
+  alert("Hello, JS.");
+};
+
+var intervalID = window.setInterval(hello, 1000);
+```
+
+* jQuery's `getJSON`: http://api.jquery.com/jquery.getjson/
+
+```js
+var fetch_articles = function() {
+  console.log("Searching for new articles");
+  var articles_endpoint = "/api/v1/articles.json";
+  $.getJSON( articles_endpoint, 
+    function(data){
+      $.each( data, function(count, article) {
+        var page_item = "<li><a href='/articles/" + article.id + "'>" + article.title + "</a></li>"
+        if( $('#article_' + article.id).length == 0 ){
+          console.log("Adding " + ('article_' + article.id)+ " " + page_item)
+          $('#articles').prepend(page_item);
+        } else {
+          console.log("Not Adding " + page_item)
+        };
+      })
+    }
+  );
+};
+
+var article_fetcher = window.setInterval(fetch_articles, 5000);
+```
+
+### Small Groups
+
+When you are looking at an article, can you make the comments auto-update? So if you're reading in one window, post a comment in another, it shows up in the first?
+
+#### Groupings
+
+* Magan Adam, Nathaniel Watts, Simon Taranto
+* Brian Winterling, Darryl Pequeen, Tyler Long
+* Ben Horne, Bryana Knight, Lauren Spath Luhring
+* Billy Griffin, Bree Thomas, Persa Zula
+* Katrina Engelsted, Louisa Barrett, Quentin Tai
+* Antony Siegert, Jonah Moses, Romeeka Gayhart
+* Ben Lewis, George Hudson, Nikhil Taneja, Rolen Le
+
+## Customer Check-Ins 01:00 PM to 04:00 PM 
+
+### With Katrina in the Nook
+
+* 1:00 - Hot Streak - Jonah Moses, Magan Adam, Quentin Tai, Romeeka Gayhart
+* 2:00 - TravelHub - Brian Winterling, Katrina Engelsted, Persa Zula, Rolen Le
+* 3:00 - Agile Board - Kevin Powell, Nathaniel Watts, Simon Taranto, Tyler Long
+
+### With Jeff at the Instructor Desks
+
+* 1:00 - Runline - Billy Griffin, Bree Thomas, Lauren Spath Luhring, Luke Martinez
+* 2:00 - Mile High - Ben Horne, Ben Lewis, Bryana Knight, Darryl Pequeen
+* 3:00 - Social Smarts - Antony Siegert, George Hudson, Louisa Barrett, Nikhil Taneja, Will Mitchell
