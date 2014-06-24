@@ -2,16 +2,4 @@
 .mod-post
   .layout-inner-wrap
     .col-article
-      - blog.articles.each do |article|
-        %h4
-          = format_date(article.date)
-        %h1
-          = link_to article.title, article.url
-        %h3
-          = article.data.author
-        %p
-          = create_summary(article.body)
-        %h5
-          = link_to '<em>Read More...</em>', article.url
-    .col-sidebar
-      = partial 'layouts/sidebar'
+      Hello, World

@@ -1,0 +1,9 @@
+= wrap_layout :layout do
+  .mod-post
+    .layout-inner-wrap
+      .col-article
+        = yield
+        %h5
+          = link_to 'Back', '/'
+      .col-sidebar
+        = partial 'layouts/sidebar'

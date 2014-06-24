@@ -24,8 +24,8 @@ helpers CommentHelpers
 # page "/path/to/file.html", :layout => :otherlayout
 #
 # A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
+# with_layout :outline do
+#   page "/outlines/*"
 # end
 
 # Proxy pages (http://middlemanapp.com/dynamic-pages/)
@@ -33,7 +33,7 @@ helpers CommentHelpers
 #  :which_fake_page => "Rendering a fake page with a local variable" }
 
 # Activate Middleman Blog
-activate :blog
+# activate :blog
 
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes

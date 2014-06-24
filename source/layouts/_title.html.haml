@@ -1,5 +1,2 @@
 %title
-  - if current_page.path == 'index.html'
-    Turing School of Software & Design - Blog
-  - else
-    = current_page.title
+  = current_page.data.title || "Turing School of Software & Design"
