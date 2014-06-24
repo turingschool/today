@@ -9,8 +9,10 @@ layout: post
 You may have seen that Turing is organized as a non-profit, expecting approval
 as a 501(c)(3) from the IRS within the next 10 months. I frequently then get the
 question *"how's that working out for you?"* And the answer is *"it's difficult."*
-The paperwork, the accountability, not qualifying for things like SBA loans, etc.
-Yes, I'm familiar with "B Corps", but they're not the same.
+The paperwork, the accountability, not qualifying for things like SBA loans - the hoops
+we're made to jump through to get this thing off the ground are as many as the prospect is
+exciting.  Yes, I'm familiar with [B Corps](https://www.bcorporation.net/what-are-b-corps),
+but they're not the same.
 
 A big part of the 501(c)(3) decision was about investment -- **I'm against it**. I
 bootstrapped [Jumpstart Lab](http://jumpstartlab.com) in 2009, so doing the same
@@ -29,11 +31,12 @@ the investors can hit their 10x no problem while realizing the educational goals
 But we're not in the content business, we're in a services business. Classrooms
 don't scale in the same ways as software and content.
 
-So where can 10x returns come from? **Student tuition**. For every dollar an investor puts
-in they want *ten student dollars back*. That tuition paid into the system, instead
-of paying for their instructors and facilities, pays investors. It compels the school to
-raise tuition and cut costs. You raise your student/teacher ratio and use less
-experienced instructors. Money sucked out of the ecosystem, diverted to the investors.
+So where does the 10x return come from in a classroom setting? **Student tuition**. 
+For every dollar an investor puts in they want *ten student dollars back*. 
+That tuition paid into the system, instead of paying for instructors and facilities, 
+pays investors. It compels the school to raise tuition and cut costs, raising the
+student/teacher ratio and settling for less experienced instructors. Money sucked out of the 
+ecosystem, diverted to the investors.
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
 to be focused on the best possible outcomes for our students *and* take investment, then 
