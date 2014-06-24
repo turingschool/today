@@ -1,0 +1,29 @@
+---
+title: June 23, 2014
+layout: outline
+---
+
+## Warmup
+
+Given a paragraph of text with multiple sentences, print out the five most commonly appearing letters along with their number of occurrences.
+
+## EventReporter Q&A (9:00 - 9:30)
+
+This morning we'll gather for a full-group chat about EventReporter progress and questions.
+
+## EventReporter Pairing (9:45 - 3:30)
+
+### With Jeff
+
+* 9:45 - Corey Davis & Emily Davis
+* 10:30 - Chad Brading & Robert Gu
+* 2:45 - Allison Larson & Tim Proctor
+
+### With Jorge
+
+* 9:45 - Will Faurot & Hilary Denton
+* 10:30 - Cara Dennis & Gustavo Villagrana
+* 11:15 - Jessica Goulding & Eric Fransen
+* 1:00 - Andrew Watkins & Horacio Chavez
+* 1:45 - Tan Doan & Andy Mention & Marc Garreau
+* 2:30 - Jonmichael Chambers & Alan Smith
