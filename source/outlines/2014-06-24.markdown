@@ -1,0 +1,37 @@
+---
+title: June 24, 2014
+date: 2014-06-09 23:10 UTC
+layout: outline
+---
+
+## Warmup
+
+Given a sample of text, write code that lists the top five most frequently occurring words (ignoring punctuation and casing). If you'd like a text to work with, [consider this one](http://www.huffingtonpost.com/2011/01/17/i-have-a-dream-speech-text_n_809993.html).
+
+## Searching & Sorting (9:00-10:00)
+
+This morning let's revisit a few techniques for searching and sorting data.
+
+### String Level
+
+* `==`
+* `include?`
+* `match`
+* `scan`
+* `=~`
+
+### Collection Level
+
+* `detect` / `find`
+* `select` / `find_all`
+* `sort`
+* `sort_by`
+* `group_by`
+
+## Slicing Interface from Commands (10:00-11:00)
+
+Next, let's look at how to slice the interface of the CLI off from the functional code as we work to write top-down integration tests.
+
+## Project Work Time (11:00+)
+
+By the end of today you really want to have about half the base expectations done to be on pace to finish by tomorrow afternoon. Make sure you're following through on the goals / areas of emphasis you decided on when you started the project.
