@@ -4,7 +4,5 @@
       .col-article
         %h1= current_page.source_file.split('/').last.split('.').first
         = yield
-        %h5
-          = link_to 'Back', '/'
       .col-sidebar
         = partial 'layouts/sidebar'
