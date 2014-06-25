@@ -1,3 +1,8 @@
+---
+title: 140625
+layout: outline
+---
+
 ## Work Day
 
 * Today is all work all day.
