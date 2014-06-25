@@ -9,5 +9,6 @@ layout: outline
 * Jorge and Jeff will have very limited availability for triage during the day.
 * Build small things, take small steps. If you get really stuck, back up and solve
 a smaller problem.
+* This afternoon we'll have submission instructions
 
 Good luck!
