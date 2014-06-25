@@ -1,0 +1,60 @@
+---
+title: 140110
+layout: outline
+---
+
+## Retrospective
+
+We'll start off with a personal retrospective at 9:00. I'd like you to think/reflect on difficult problems -- those you're not sure can be solved -- which you've solved so far in the class, what's coming up in the last weeks, and what kinds of difficult problems you want to attack in your job.
+
+We'll then do group retrospective 9:30-10:00
+
+## Lightning Talks
+
+* Tyler Long
+* Antony Siegert
+* Brian Winterling
+* Persa Zula
+* Nikhil Taneja
+* Bree Thomas
+* Romeeka Gayhart
+
+## Guest: Patrick Leonard from iTriage 11:00 AM to 12:00 PM
+
+* [iTriage](https://www.itriagehealth.com/)
+* pleonard@itriagehealth.com
+* [On Twitter](https://twitter.com/patrickjleonard)
+
+## 1-on-1s
+
+### With Jeff at the Gather Front Door
+
+I'm again doing walking 1-on-1s.
+
+* 1:15 - Bree Thomas
+* 1:30 - Romeeka Gayhart
+* 1:45 - Nathaniel Watts
+* 2:00 - Lauren Spath Luhring
+* 2:15 - Will Mitchell
+* 2:30 - Rolen Le
+* 2:45 - George Hudson
+* 3:00 - Nikhil Taneja
+* 3:15 - Tyler Long
+
+### With Katrina in the Perch
+
+* 1:00 - Magan Adam
+* 1:15 - Darryl Pequeen
+* 1:30 - Antony Siegert
+* 1:45 - Kevin Powell
+* 2:00 - Quentin Tai
+* 2:15 - Katrina Engelsted
+* 2:30 - Jonah Moses
+* 2:45 - Billy Griffin
+
+### With Jorge
+
+* 12:30 - Luke Martinez (Thoughtbot Office)
+* 12:45 - Brian Winterling (Nook)
+* 1:00 - Louisa Barrett (Nook)
+* 1:15 - Ben Horne (Nook)

@@ -1,0 +1,50 @@
+---
+title: 140102
+layout: outline
+---
+
+## Holiday Project Demos
+
+Please signup on the whiteboard if you'd like to showoff something you worked on over the break!
+
+## FeedEngine Kickoff
+
+http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+
+### Working Groups
+
+* Group 1 - Jonah Moses, Magan Adam, Quentin Tai, Romeeka Gayhart
+* Group 2 - Brian Winterling, Katrina Engelsted, Persa Zula, Rolen Le
+* Group 3 - Kevin Powell, Nathaniel Watts, Simon Taranto, Tyler Long
+* Group 4 - Billy Griffin, Bree Thomas, Lauren Spath Luhring, Luke Martinez
+* Group 5 - Ben Horne, Ben Lewis, Bryana Knight, Darryl Pequeen
+* Group 6 - Antony Siegert, George Hudson, Louisa Barrett, Nikhil Taneja, Will Mitchell
+
+### Project Selection
+
+The first task is to select your project. Each group will have a brief 5-minute meeting with Jeff at the instructor desks to make your selection.
+
+* 11:00 - Group 1
+* 11:10 - Group 2
+* 11:20 - Group 3
+* 11:30 - Group 4
+* 11:40 - Group 5
+* 11:50 - Group 6
+
+The project concepts are here: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine_concepts.html
+
+### Sketching and Experimenting
+
+Monday you'll have a client meeting to setup you initial stories and iteration plan. Between now and then you should **do a lot of programming you're planning to throw away.** That should include:
+
+* Build sample app(s) with the APIs you're using
+* Experiment with the HTTP API and figure out what's possible
+* Evaluate the existing gems to see if they offer what you need. Add features as appropriate.
+* Get setup with API keys
+* Being working on your VPS host
+
+### Pairing Sessions w/Katrina
+
+* 1:00-2:00 - Bree
+* 2:00-3:00 - Darryl
+* 3:00-4:00 - Louisa

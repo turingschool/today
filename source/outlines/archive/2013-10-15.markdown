@@ -1,0 +1,57 @@
+---
+title: 131015
+layout: outline
+---
+
+## Daily Outline 
+
+* Warmup 
+* WebGuesser Walk-Through
+* IdeaBox Work Time
+* HTML & CSS Group Meetings (1:00pm)
+* Lightning Talk Key Points (4:00 - 4:30)
+
+## WebGuesser Walk-Through (optional)
+
+First up today, Jeff will do a walk-through of WebGuesser. 
+
+If you feel more-or-less comfortable with WebGuesser, go off and work on your IdeaBox.
+
+If you'd like to review the key concepts, ask questions, and cement your understandings, stay in the classroom.
+
+## IdeaBox Work Time
+
+Work on your IdeaBox for the rest of the morning.
+
+## HTML & CSS Iteration Planning (1pm)
+
+### Groupings
+
+* Jon Duckett's HTML & CSS: Tyler, Luke, Ben H, Kevin, Ben L
+* Head First HTML & CSS: Lauren, Bryana, Antony, Billy, Brian
+* A Book Apart (CSS3, HTML5): Simon, Katrina, Bree, Meeka, Adam
+* Above the Fold: Rolen, George, Nathaniel, Persa, Louisa
+
+### Expectations
+
+During this session you need to decide, as a group:
+
+* What things do you want to **do differently** than your last reading group?
+* What content will you read? Is there anything you'll leave out?
+* How will you divide up the content consumption to have it done by 11/4?
+* What "deliverables" will you create to reinforce your learning?
+* Who is responsible for doing what? 
+
+## Independent Work Time
+
+For the afternoon, work on what feels most important to you like:
+
+* WebGuesser
+* IdeaBox
+* Reading Assignment
+* Lightning Talk
+
+
+## Lightning Talk Sketches (4:00)
+
+If you're giving a lightning talk this week, please come to the classroom at 4pm to review your plan for the presentation.

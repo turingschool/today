@@ -1,0 +1,67 @@
+---
+title: 131010
+layout: outline
+---
+
+## Emerging Group
+
+* 9pm: Meet in the classroom at 9am to have a mini-code-retreat
+* 11am: Self-directed work / exercises
+* 2pm: Meet in the front conference room East to explore next week's work
+
+* http://tutorials.jumpstartlab.com/projects/web_guesser.html
+* http://tutorials.jumpstartlab.com/projects/idea_box.html
+
+### Mini Code Retreat
+
+* 9:00-9:40 -- Work on the problem yourself
+* 9:45-10:30 -- Start from scratch, work with a pair
+* 10:35-11:00 -- Instructor-led
+
+The exercise we'll use is the Queen's Attack [Readme](https://github.com/kytrinyx/exercism.io/blob/master/assignments/shared/queen-attack.md) and [Test File](https://github.com/kytrinyx/exercism.io/blob/master/assignments/ruby/queen-attack/queen-attack_test.rb)
+
+## Progress Group
+
+* 9pm: Meet in the classroom at 9am to have a mini-code-retreat
+* 11am: Meet in the front conference room to finish EventReporter
+* 2pm: Meet in the front conference room East to explore next week's work
+
+* http://tutorials.jumpstartlab.com/projects/web_guesser.html
+* http://tutorials.jumpstartlab.com/projects/idea_box.html
+
+## Challenge Group
+
+* This morning, get your application functionally complete
+* At 1pm, start a peer-review process outlined below
+
+### Tic-Tac-Peer-Review
+
+#### Cycle 1: 1pm - 2pm
+
+Get together with a developer from another pair. You're going to look at **just one person's project**. 
+
+Spend the first 5-10 minutes reviewing the functionality considering questions like:
+
+* What's strong about the usability? What could be better?
+* Are there any features that catch your eye? Or annoyances?
+* Any clear bugs? What if you press weird keys, drag off the screen, move the window, etc?
+
+Then spend the next 50 minutes looking at the code, considering questions like:
+
+* What parts are particularly clean? Ugly?
+* What's the testing style like? Is there a distinction between "unit" tests (for a single class), "integration tests" (for multiple classes), and "acceptance tests" (acting like a user of the system)?
+* Can the tests run in isolation (like one file at a time)?
+* What do you mean there aren't tests?
+* Does the project attempt MVC? How did that work out?
+* Where are the longest methods? How can they be simplified / broken apart? What does that process mean for the tests?
+* Are there any child objects that could/should be extracted from larger classes?
+
+Dig in and make it better!
+
+#### Cycle 2: 2pm-3pm
+
+Shuffle review pairings. If your Cycle 1 was focused on your project, find someone whose project was **not** reviewed in the first cycle. Then repeat the process from Cycle 1.
+
+#### Cycle 3: 3pm-4pm
+
+Get together with your project partner and discuss what you saw, heard, learned, and found.

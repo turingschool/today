@@ -1,0 +1,68 @@
+---
+title: 140605
+layout: outline
+---
+
+## Warmup
+
+Let's do one more logic problem for warmup:
+
+http://cl.ly/2e42381b1O3G
+
+## Git
+
+This morning our goal is to both understand both (a) why and (b) how to use Git.
+
+### Background
+
+First let's set the stage and discuss Git at a high level.
+
+* What is source control?
+* Why use it?
+* What came before git?
+* What's in use now?
+* Why was it created?
+* What's the difference between git and GitHub?
+* Centralized vs distributed source control
+* Repo, branch, commit
+
+### Source Control Made Easy
+
+The late, great Jim Weirich explains source control and git better than we can. Let's check out his screencast:
+
+https://www.dropbox.com/s/09lrmanjdacc5cz/source_control_made_easy.mov
+
+### Try Git / Git Immersion
+
+Now let's put in a bit of practice.
+
+If you're brand new to git, start with try.github: https://try.github.io/levels/1/challenges/1
+
+If you've used git before (or complete try.github), work through Git Immersion: http://gitimmersion.com/
+
+And, if you just can't get enough Git, check out the Pro Git book: http://git-scm.com/book
+
+## Finishing Mythical Creatures
+
+This afternoon we'd like you to pair up to both (a) complete and (b) improve/refactor your Mythical Creatures. 
+
+* Find your pair below
+* Work together for the entire afternoon session
+* Meet up with you assigned instructor at the specified time
+
+### Pairings & Review Sessions
+
+#### With Jorge
+
+* 1:30 - Emily Davis & Corey Davis
+* 2:00 - Alan Smith & Hillary Denton
+* 2:30 - Tim Proctor & Will Faurot
+* 3:00 - Jessica Goulding & Robert Gu
+* 3:30 - Cara Dennis & Gustavo Villagrana
+
+#### With Jeff
+
+* 1:30 - Chad Brading & Eric Fransen
+* 2:00 - Marc Garreau & Tan Doan
+* 2:30 - Andrew Watkins & Andy Mention & Horacio Chavez 
+* 3:00 - Allison Larson & Jonmichael Chambers

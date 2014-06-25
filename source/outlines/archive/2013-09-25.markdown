@@ -1,0 +1,65 @@
+---
+title: Sales Engine Checkin
+layout: outline
+---
+
+## Daily Outline
+
+* 8:30 – Warmup
+* 9:00 – Exercism Pairing
+* 9:30 – Exercism Full-Group
+* 10:00 – 11:00 Guest: Wayne Seguin
+* 11:00 – 12:00 SalesEngine Q&A
+* 1:00 – 4:00 Project Check-Ins
+* 1:00 – 4:00 SalesEngine Work Time
+
+## Exercism Exercises
+
+### 8:30-9:00 :: Normal Warmup
+
+Work on whichever Exercism exercise you have pending. Get your Bob submitted!
+
+### 9:00-9:30 :: Pairing
+
+Get together with another person of your choice and work through a solution to the `word-count` problem. If you don't yet have access to that problem, you get it here:
+
+* Readme: https://github.com/kytrinyx/exercism.io/blob/master/assignments/shared/word-count.md
+* Test File: https://github.com/kytrinyx/exercism.io/blob/master/assignments/ruby/word-count/word-count_test.rb
+
+### 9:30-10:30 :: Instructor Implementation
+
+Jeff will walk you through solving the Word Count problem.
+
+## Guest: Wayne Seguin
+
+* [Twitter](https://twitter.com/wayneeseguin)
+* [Github](https://github.com/wayneeseguin)
+* [LinkedIn](http://www.linkedin.com/pub/wayne-e-seguin/2/a49/502)
+
+## Afternoon Check-Ins
+
+### With Katrina in the Classroom
+
+* 1:00 -- Quentin Tai & Nathaniel Watts
+* 1:20 -- Rolen Le & Will Mitchell
+* 1:40 -- Simon Taranto & Katrina Engelsted
+* 2:00 -- Jonah Moses & Bree Thomas
+* 2:20 -- Ben Lewis & Louisa Barrett
+* 2:40 -- Persa Zula & Nikhil Taneja
+
+### With Jeff in the Pit
+
+* 1:00 -- George Hudson & Luke Martinez
+* 1:20 -- Lauren Spath Luhring & Tyler Long
+* 1:40 -- Kevin Powell & Brian Winterling
+* 2:00 -- Bryana Knight & Adam Magan
+* 2:20 -- Antony Siegert & Billy Griffin
+* 2:40 -- Darryl Pequeen & Romeeka Gayhart & Ben Horne
+
+## Provide Feedback for today's sessions
+
+[Pairing on word-count + walkthrough of solving it](http://betterful.herokuapp.com/7137828)
+
+[Guest Speaker: Wayne Seguin](http://betterful.herokuapp.com/5e433b5)
+
+[SalesEngine: Technical Check-Ins](http://betterful.herokuapp.com/93c11d6)

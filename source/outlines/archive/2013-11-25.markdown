@@ -1,0 +1,59 @@
+---
+title: 131125
+layout: outline
+---
+
+## ContactManager
+
+When you're **not** in assessments today, please complete the [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html) tutorial for a start with RSpec and some more intermediate Rails topics.
+
+### Working Groups
+
+Gather into the following groups to support each other with Contact Manager:
+
+* Brian Winterling + Billy Griffin + Tyler Long
+* Romeeka Gayhart + Will Mitchell + George Hudson
+* Louisa Barrett + Lauren Spath Luhring + Ben Horne
+* Kevin Powell + Simon Taranto + Luke Martinez
+* Bree Thomas + Darryl Pequeen + Antony Siegert
+* Quentin Tai + Nathaniel Watts + Magan Adam
+* Jonah Moses + Persa Zula + Katrina Engelsted
+* Ben Lewis + Bryana Knight + Rolen Le + Nikhil Taneja
+
+## Assessments
+
+The assignment for today's assessment is [Scrabble Intermediate](http://tutorials.jumpstartlab.com/academy/workshops/scrabble_intermediate.html)
+
+### With Jeff at the Instructor Desks
+
+* 8:00 - Louisa Barrett
+* 8:45 - Kevin Powell
+* 9:30 - Darryl Pequeen
+* 12:45 - Magan Adam
+* 1:30 - Antony Siegert
+* 2:15 - Katrina Engelsted
+* 3:00 - Lauren Spath Luhring
+* 3:45 - Ben Horne
+* 4:30 - Billy Griffin
+
+### With Frank in front of the War Room
+
+* 8:00 - Simon Taranto
+* 8:45 - Bryana Knight
+* 9:30 - Persa Zula
+* 10:15 - Rolen Le
+* 11:00 - Tyler Long
+* 12:45 - Ben Lewis
+
+### With Katrina in the Nook
+
+* 08:45 - Bree Thomas
+* 09:30 - George Hudson
+* 10:15 - Will Mitchell
+* 11:15 - Nathaniel Watts
+* 12:00 - Romeeka Gayhart
+* 13:00 - Nikhil Taneja
+* 13:45 - Luke Martinez
+* 14:30 - Quentin Tai
+* 15:15 - Brian Winterling
+* 17:00 - Jonah Moses

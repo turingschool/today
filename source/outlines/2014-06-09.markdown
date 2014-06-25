@@ -1,0 +1,78 @@
+---
+title: 140609
+layout: outline
+---
+
+## Warmup (8:30-9:00)
+
+This morning for warmup let's try a little code challenge:
+
+**Can you write a program that "sings" the classic "100 Bottles of Beer on the Wall"?**
+
+## Diagnostic (9:00-Noon)
+
+This morning our primary focus is our 1-on-1 diagnostic.
+
+### Prep
+
+Before your session you should read the assignment and follow the setup instructions there:
+
+http://tutorials.jumpstartlab.com/academy/assessments/mythical_creatures.html
+
+### Schedule
+
+#### With Jorge
+
+* 9:00 - Horacio Chavez
+* 9:30 - Hillary Denton
+* 10:00 - Marc Garreau
+* 10:30 - Emily Davis
+* 11:00 - Tim Proctor
+* 11:30 - Chad Brading
+
+#### With Josh
+
+* 9:00 - Eric Fransen
+* 9:30 - Gustavo Villagrana
+* 10:00 - Andrew Watkins
+* 10:30 - Jessica Goulding
+* 11:00 - Will Faurot
+* 11:30 - Allison Larson
+
+#### With Jeff
+
+* 9:00 - Robert Gu
+* 9:30 - Alan Smith
+* 10:00 - Jonmichael Chambers
+* 10:30 - Corey Davis
+* 11:00 - Cara Dennis
+* 11:30 - Andy Mention
+* 4:30 - Tan Doan
+
+## Objects & Methods (9:00-Noon)
+
+When you're not doing your assessment you should work on the Objects & Methods exercises here: https://github.com/JumpstartLab/ruby-exercises/tree/master/objects-and-methods
+
+This morning you're welcome to work on your own, in pairs, or in a small group at your preference.
+
+## Command & Query (1pm-4pm)
+
+### Discussion
+
+First up this afternoon Josh will set the stage for the Command & Query exercises.
+
+### Work Period
+
+Then let's pair up and work on the exercises: https://github.com/JumpstartLab/ruby-exercises/tree/master/command-query
+
+#### Pairs
+
+* Robert Gu & Alan Smith
+* Allison Larson & Gustavo Villagrana
+* Will Faurot & Corey Davis
+* Horacio Chavez & Andrew Watkins
+* Tim Proctor & Marc Garreau
+* Jonmichael Chambers & Emily Davis
+* Cara Dennis & Jessica Goulding
+* Eric Fransen & Tan Doan
+* Hillary Denton & Chad Brading & Andy Mention

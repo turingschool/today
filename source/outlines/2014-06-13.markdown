@@ -1,0 +1,77 @@
+---
+title: 140613
+layout: outline
+---
+
+## Retro
+
+### Independent Writing (9:00-9:40)
+
+#### Setup for Writing
+
+* create a file `week_of_0613.markdown` in your `retrospectives` folder
+* write responses for a few of the questions below
+* use *all* the time available to you for writing
+
+#### Questions for Thinking
+
+* This week the level of difficulty stepped up a bit. Did you feel ready? What strategies did you use to cope/succeed?
+* We've talked a lot over the past week about objects, methods, and the Ruby Object Model. Is that making sense or still confusing? Why? What parts have clicked and which are troubling?
+* You spent almost the whole week working in pairs. How has that gone? Anyone you've particularly loved working with? Why? How can you be the person that others love to work with?
+* How are you managing your personal schedule? Are you being efficient with your commute, time at school, and rest/sleep? What can you improve?
+* How is programming, in general, matching up with your expectations? Do you think this is something you'll be doing ten years from now?
+
+### Group Discussion (9:45-10:30)
+
+## Build & Organize (10:30-noon)
+
+Let's spend the rest of the morning working on our space including:
+
+* Building furniture
+* Moving things around
+* Breaking down / disposing of trash & recycle
+* Figuring out supplies that need to be re-supplied
+
+## One-On-Ones (1:00-4:00)
+
+This afternoon we'll *really* have our first one-on-ones. They'll last about 15 minutes each.
+
+### With Jorge
+
+* 1:00 - Tan Doan
+* 1:20 - Chad Brading
+* 1:40 - Robert Gu
+* 2:00 - Alan Smith
+* 2:20 - Horacio Chavez 
+* 2:40 - Allison Larson
+
+### With Josh
+
+* 1:00 - Eric Fransen
+* 1:20 - Hillary Denton
+* 1:40 - Marc Garreau
+* 2:00 - Andrew Watkins
+* 2:20 - Will Faurot
+* 2:40 - Jessica Goulding
+
+### With Jeff
+
+* 1:00 - Andy Mention
+* 1:20 - Emily Davis
+* 1:40 - Cara Dennis
+* 2:00 - Corey Davis
+* 2:20 - Tim Proctor
+* 2:40 - Jonmichael Chambers
+* 3:00 - Gustavo Villagrana
+
+## Independent Work Time
+
+By the time we start on Monday you should have finished:
+
+* CSV I & II
+* IdeaBox TDD
+* Objects & Methods Exercises
+* Command & Query Exercises
+* Old things: Mythical Creatures, MicroBlogger
+
+If you've got those things done, push deeper into the Enumerable exercises.

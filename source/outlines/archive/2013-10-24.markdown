@@ -1,0 +1,148 @@
+---
+title: 131024
+layout: outline
+---
+
+## Daily Outline
+
+* Peer Review (9:00 - 10:30)
+* Grouped Instructor Review (10:30 - 12:00)
+* Refactor Tractor (1:00 - 2:30)  
+* Internal IdeaBox Demos (2:30 - 3:00)
+* Retrospective (3:00 - 4:00)
+
+## Peer Review (9:00 - 10:30)
+
+### Pairs
+
+* Will Mitchell & Lauren Spath Luhring
+* Billy Griffin & Bree Thomas
+* Luke Martinez & Antony Siegert
+* Jonah Moses & Simon Taranto
+* Rolen Le & Nikhil Taneja
+* Magan Adam & Ben Lewis
+* Louisa Barrett & Quentin Tai
+* Nathaniel Watts & George Hudson
+* Bryana Knight & Romeeka Gayhart
+* Katrina Englestad & Kevin Powell
+* Tyler Long & Persa Zula
+* Ben Horne & Brian Winterling
+
+### Schedule
+
+Get together with your pair above for two 40-minute review sessions running 9:00-9:40 (Session A) and 9:45-10:35 (Session B).
+
+### Session Plan
+
+During Session A look at the first person's project. During Session B, look at the second person's project.
+
+Use these questions to guide your exploration together:
+
+#### User Perspective
+
+* How does the code work from the user perspective? 
+* What functionality is available?
+* How does the user interface handle misuse, like entering a blank idea or entering the URL for an idea that doesn't exist.
+
+#### Automated Tests
+
+* Run the tests. Are there many or just a few? Do they all pass?
+* Are there "feature" or "acceptance" tests that mimic the user? 
+* Do they test the important features of the interface?
+* Are there "unit" tests that interact with just a single model? 
+* Do they test both the "happy path" and possible error cases?
+
+#### Sinatra
+
+* Look at the Sinatra application/server file. 
+* Is the logic all embedded there, or is it pulled out into other classes/components? 
+* Is there a lot of switching (like `if` statements) or is the code simple?
+
+#### Ruby
+
+* Look at the child classes. How was logic extracted from the Sinatra app? 
+* Does the code encapsulate the complicated ideas?
+* Is the code well written and clear?
+* Are the methods short and well named?
+* Are the files and folders well organized? 
+* Does it use a namespace for the whole project?
+
+#### Storage
+
+* Look at the storage mechanism. 
+* Did they stick with the YAML store or flip over to SQL? 
+* If you wanted to use SQL/Sequel here, what parts of the code would have to change?
+
+#### View Templates
+
+* Look at the view templates. 
+* Do they have a lot of logic or is it just data getting injected into HTML? 
+* How might they have moved that logic elsewhere?
+
+## Instructor Review (10:30 - 12:00)
+
+### Grouping
+
+For the next phase, we're going to break into small groups.
+
+If you feel that your project is **successful**, meet with Katrina at our instructor desks.
+
+If you feel that your project is **ok but not great**, meet with Frank in the classroom.
+
+If you feel that your project is **not good**, meet with Jeff in The Nook.
+
+### Process
+
+During this session, the instructor will...
+
+* take one project at random
+* review some of the above areas of interest for a single project
+* discuss the strengths and weaknesses
+* explore how it could be improved
+
+### Next Steps
+
+In the last 5 minutes of the session...
+
+* the instructor will highlight 3-5 areas for exploration/improvement in this code base
+* you should record those areas as well as the repository address for the examined code
+* get together with another student (or two students, if your group has odd numbers) that you'll work with after lunch
+
+## Refactor Tractor (1:00 - 2:30)
+
+During the instructor review you found areas of exploration/improvement and a partner to work with. Now, spend 90 minutes seeing what kind of progress you can make to improve the project.
+
+* make sure you're using git well, especially feature branches
+* if you're able to improve the code, send pull request(s) to the original author
+* treat the people and code involved with care
+
+## Internal IdeaBox Demos (2:30 - 3:00)
+
+We'll have time for about 5-7 quick demos. Did you build something really cool? Implement a great design? Just build a simple thing that you're proud of? 
+
+Signup before 2:30 on the classroom whiteboard.
+
+## Retrospective (3:00 - 4:00)
+
+### Personal Retrospective
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* What did you learn about your own skills and abilities while working on your own through IdeaBox?
+* How are you feeling about building web applications? Sinatra?
+* Were you able to test your application well? Why or why not? Do you think it matters?
+* If you could go back to the start of the project last week and do it all again, what would you do differently?
+
+### Link Aggregation
+
+When you're done, please add a link to your post on this thread:
+
+http://gschool.groupbuzz.io/topics/810-retrospective-10-24
+
+### Group Retrospective
+
+* Working groups, working alone, and soon in pairs/teams
+* Facilities and space
+* Intensity upgrade
+* Open floor
+* Shoutouts

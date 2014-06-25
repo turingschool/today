@@ -1,0 +1,84 @@
+---
+title: 131023
+layout: outline
+---
+
+## Daily Outline
+
+Please start the day **downstairs in the pit** while the classroom is in use until 10am.
+
+* Exercism Warmup
+* SQL & Sequel Tutorial Continued (9:00-10:00)
+* Applying SQL & Sequel (10:00-12:00)
+* IdeaBox Work Time (1:00 - 4:00)
+* Meet with Susannah (1:15 - 2:00)
+
+## SQL & Sequel Tutorial Continued (9:00-10:00)
+
+First up today, please get together with your pair from yesterday and continue where you left off on the SQL and Sequel tutorial. You want to at least get through writing and executing queries and inserts with Sequel.
+
+## Applying SQL & Sequel (10:00-12:00)
+
+Now, get together with your **new pair** below and use SQL and Sequel to solve a problem you've worked on previously.
+
+### New Pairs
+
+* Romeeka Gayhart & Bree Thomas
+* Magan Adam & Ben Lewis
+* Nathaniel Watts & Persa Zula
+* Nikhil Taneja & George Hudson
+* Ben Horne & Quentin Tai
+* Luke Martinez & Antony Siegert
+* Rolen Le & Tyler Long
+* Jonah Moses & Will Mitchell
+* Billy Griffin & Darryl Pequeen
+* Simon Taranto & Louisa Barrett
+* Bryana Knight & Kevin Powell
+* Brian Winterling & Lauren Spath Luhring & Katrina Englestad
+
+Then, with your pair, choose either the challenging or easier exercises below...
+
+### Challenging
+
+If you're feeling good with SQL and Sequel, return to SalesEngine. Can you quickly write a database backend and a few queries for the data?
+
+* Create a merchants table
+* Read the merchants CSV and dump the data into the table
+* Query the merchants table to find specific merchants by name
+* Create a products table
+* Read the products CSV and dump the data into the table
+* Query the products table to find specific products
+* Write a method on Merchant that queries the database to find all products sold by that merchant
+* Create orders and customers tables
+* Import the orders CSV and customers CSV
+* Write a query on Merchant that can find all of the customers that have placed an order
+
+### Easier
+
+* Create an attendees table
+* Load the attendees from EventManager into the table
+* Write a query that can find all attendees matching a certain first name
+* Write a query that can find all attendees in a certain state
+* Write a query that can find all attendees from a group of states (ie, a method like `find_by_states(["VA", "DC", "MD"])`
+
+Drop your table then...
+
+* Create an addresses table with street address, city, state, and zip
+* Create an attendees table without those fields
+* Import your attendees CSV, putting the biographical data into the attendees table and addresses into the addresses table
+* Tweak your finder queries, so you can still find all the attendees in a certain state or list of states
+
+## Meet Susannah in the Pit
+
+* 1:15 Tyler Long
+* 1:30 Lauren Spath Luhring
+* 1:45 Persa Zula 
+
+## IdeaBox Work Time (1:00 - 4:00) 
+
+Get the last bits finished up.
+
+* How's the test coverage?
+* Are you handling error conditions? Like what if they hit "submit" with a blank idea?
+* What's the test coverage like?
+* Can you simplify the test suite? Any extraneous tests that can be removed?

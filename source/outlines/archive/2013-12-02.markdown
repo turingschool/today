@@ -1,0 +1,75 @@
+---
+title: 131202
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Overview
+* Understanding Multitenancy
+* Reading Group
+* Fourth Meal Kick-Off
+* Fourth Meal Planning
+
+## Weekly Overview
+
+* Fourth Meal begins
+* Tuesday: Rails Security
+* Wednesday: Simulating Load, Visiting Pivotal Tracker
+* Thursday: Work Day
+
+## Understanding Multi-Tenency 9:30 AM to 12:00 PM
+
+http://tutorials.jumpstartlab.com/topics/blogger/multitenancy.html
+
+## Reading Group 1:00 PM to 2:00 PM 
+
+Derp -- in the heat of assessments last week we forgot about Reading Group. Let's get it back on track today.
+
+* Patterns ......
+* Novice ..
+* Learning ......
+* Learning 2 ..... (Luke, Billy, Louisa, Antony, Brian, Kevin)
+* Eloquent (Adam & Nikhil)
+
+### Rails Close-Out 1:00-1:15
+
+Get together with your reading group for the Rails text and tie up loose ends, gather your deliverables, etc.
+
+### Rails Text Retro 1:20-1:40
+
+Let's gather back in the classroom to recap the Rails texts.
+
+### JavaScript Kickoff 1:45-2:00
+
+Recall that you selected a text in this thread:
+
+http://gschool.groupbuzz.io/topics/1116-javascript-reading-group
+
+Now get together with your new group and decide on a plan for how you'll break up the text and what deliverables you'll create to reinforce your learning.
+
+## Fourth Meal Kickoff 2:15 PM to 3:00 PM
+
+Today we'll begin our next group project, Fourth Meal:
+
+http://tutorials.jumpstartlab.com/projects/fourth_meal.html
+
+### Timeline
+
+The project is due for instructor evaluation on Wednesday, 12/18 and will be peer-evaluated / demoed on Thursday 12/19.
+
+### Groups
+
+* Kevin Powell, Nikhil Taneja, Quentin Tai
+* Katrina Engelsted, Luke Martinez, Nathaniel Watts
+* Ben Lewis, Billy Griffin, Magan Adam
+* Antony Siegert, Bryana Knight, Jonah Moses
+* Ben Horne, Louisa Barrett, Will Mitchell
+* Darryl Pequeen, Lauren Spath Luhring, Rolen Le
+* Persa Zula, Romeeka Gayhart, Tyler Long
+* Bree Thomas, Brian Winterling, George Hudson, Simon Taranto
+
+### Project Selection
+
+Your first task is to pick a codebase that you'll build upon. Check out the ["Project Starting Point"](http://tutorials.jumpstartlab.com/projects/fourth_meal.html) in the assignment for more details.

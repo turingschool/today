@@ -1,0 +1,112 @@
+---
+title: 131216
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Overview
+* Key-Based Caching 9:30-noon
+* Q&A with Tim Wright 1-2pm
+* Reading Group Check-In 2:00-2:30
+* Simulating Load 2:30-4:00
+
+## Weekly Overview
+
+* More Caching & Performance today
+* Customer meetings tomorrow morning
+* Technical review Wednesday AM
+* Peer review, instructor focus, refactoring, and demos on Thursday
+* Security workshop Friday
+
+## Introduction to Key-Based Caching
+
+### Using a Digest
+
+The problem with caching web assets:
+
+* Varnish
+* Squid/Proxies
+* Browser Cache
+
+How can you use filenames to "bust" caches?
+
+### Creating a Digest
+
+```ruby
+require 'digest/md5'
+digest = Digest::MD5.hexdigest("here's my input string")
+```
+
+### Digest-Based Keys
+
+* Modeling a "normal" cache
+* Using a digest as the key
+* Running out of space?
+* Least recently used
+
+### Tutorial
+
+We've put together a tutorial on how to get started with digest-based caching: http://tutorials.jumpstartlab.com/topics/performance/digest_based_caching.html
+
+Here's the markdown version:
+
+https://raw.github.com/JumpstartLab/curriculum/master/source/topics/performance/digest_based_caching.markdown
+
+#### Working Groups
+
+Please get together in the following groups to work on the tutorial:
+
+* Kevin Powell, Luke Martinez, Nathaniel Watts, Persa Zula
+* Ben Horne, George Hudson, Jonah Moses, Lauren Spath Luhring
+* Antony Siegert, Darryl Pequeen, Magan Adam, Rolen Le
+* Billy Griffin, Quentin Tai, Romeeka Gayhart, Simon Taranto
+* Brian Winterling, Bryana Knight, Katrina Engelsted, Tyler Long
+* Ben Lewis, Bree Thomas, Louisa Barrett, Nikhil Taneja, Will Mitchell
+
+## Q&A with Tim Wright
+
+**Before** the session, please vote on all the existing questions **then** add three questions to the following google moderator:
+
+https://www.google.com/moderator/#15/e=20f4a7&t=20f4a7.40
+
+### About Tim
+
+* His [Learning JavaScript book](http://www.amazon.com/Learning-JavaScript-Hands-On-Fundamentals-Modern/dp/0321832744)
+* Development Directory at [Fresh Tilled Soil](http://www.freshtilledsoil.com/) in Boston
+* [Twitter](https://twitter.com/csskarma), [LinkedIn](http://www.linkedin.com/in/timwright12)
+* [Blog](http://www.csskarma.com/blog/)
+
+## Reading Group Check-In
+
+After we finish with Tim, please get together with your reading group for just a few minutes to discuss:
+
+* How is progress?
+* What will you be doing over the break?
+* Any problems or concerns?
+
+## Simulating Load
+
+* Why simulate load?
+* Automate, automate, automate
+* What is Apache Bench?
+
+### Tutorial
+
+Please work through this short tutorial:
+
+http://tutorials.jumpstartlab.com/topics/performance/load_testing.html
+
+https://raw.github.com/JumpstartLab/curriculum/master/source/topics/performance/load_testing.markdown
+
+#### Working Groups
+
+* Magan Adam, Romeeka Gayhart, Simon Taranto
+* Billy Griffin, George Hudson, Louisa Barrett
+* Katrina Engelsted, Lauren Spath Luhring, Rolen Le
+* Antony Siegert, Bree Thomas, Brian Winterling
+* Ben Lewis, Darryl Pequeen, Nathaniel Watts
+* Kevin Powell, Luke Martinez, Will Mitchell
+* Bryana Knight, Persa Zula, Tyler Long
+* Ben Horne, Jonah Moses, Quentin Tai, Nikhil Taneja

@@ -1,0 +1,96 @@
+---
+title: 130919
+layout: outline
+---
+
+## Daily Outline
+
+* 09:00-10:00 Retrospective
+* 10:00-12:00 Focus Work
+* 01:00-04:00 1-on-1s / Self-Directed Work
+
+## EventReporter Retrospective
+
+### Personal Retrospective
+
+You have 25 minutes to write and publish a personal retrospective on your class blog including:
+
+* A basic introduction to the project
+* A recap of your work pattern (days, hours, working alone / with others)
+* Link to your code repository
+* Summary of your results/conclusions
+* What worked and you'll do the same next time
+* What didn't work and you'll change next time
+
+### Group Retrospective
+
+* How did the group perform, overall?
+* Who supported you?
+* Who kept the group spirit up?
+
+## Focus Work
+
+We'll split into 2 groups and focus on some of the concepts that we've previously worked on. The largest group will stay in the classroom, the other group will probably need to work in The Pit.
+
+### Testing with Franklin
+
+### Ruby Fundamentals with Katrina
+
+We'll be building on yesterday's full-day workshop. Let's start by answering any questions that floated to the top of your mind overnight, then we'll look at Ruby in 100 Minutes and write tests for it.
+
+## 1-on-1s
+
+### In the XYZ with Jeff
+
+* Lauren Spath Luhring
+* Bree Thomas
+* Ben Horne
+* Persa Zula
+* Quentin Tai
+* Nikhil Taneja
+* Will Mitchell
+* Billy Griffin
+* Romeeka Gayhart
+
+### In the XYZ with Franklin
+
+* Simon Taranto
+* George Hudson
+* Tyler Long
+* Luke Martinez
+* Bryana Knight
+* Nathaniel Watts
+* Kevin Powell
+* Katrina Engelsted
+
+### In the XYZ with Katrina
+
+* Magan Adam
+* Rolen Le
+* Brian Winterling
+* Darryl Pequeen
+* Louisa Barrett
+* Ben Lewis
+* Antony Siegert
+* Jonah Moses
+
+## Self-Directed Work
+
+The only directive for this session is that you do this in pairs (or more). Do whatever you feel will help you consolidate your learning or move forward or inspire you.
+
+Here are some suggestions:
+
+* Go back to earlier tutorials/sessions:
+  * EventManager
+  * Encryptor
+  * Enumerables
+  * TDD with Minitest
+* Dive into Git:
+  * [Think Like a Git](http://think-like-a-git.net)
+  * [Git Immersion](http://http://gitimmersion.com)
+  * [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/
+)
+* Watch Conference Talks:
+  * [Superheros & Villains in Design](http://vimeo.com/70030549)
+  * [Legacy](http://www.confreaks.com/videos/1240-aloharuby2012-legacy)
+  * [How to Talk to Developers](http://www.youtube.com/watch?v=l9JXH7JPjR4)

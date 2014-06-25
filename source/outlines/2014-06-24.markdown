@@ -1,5 +1,5 @@
 ---
-title: June 24, 2014
+title: 140624
 layout: outline
 ---
 

@@ -1,0 +1,139 @@
+---
+title: 131231
+layout: outline
+---
+
+## Hooking Up
+
+Today we'll use Join.me, Flowdock, and ScreenHero.
+
+* JoinMe: https://join.me/jumpstartlab
+* Flowdock: https://www.flowdock.com/invitations/41ea2ede1c14eb318c67ce9407ddf97968315538
+
+## Daily Outline
+
+* Warmup
+* Exercism Together
+* Testing APIs Walkthrough
+* Consuming APIs with HTTP and Wrappers
+* Experimenting with APIs
+
+## Exercism Together 9:00-10:00
+
+This morning we'll start with this Exercism exercise. Try this if you have the new Exercism CLI:
+
+```
+exercism fetch ruby binary-search-tree
+```
+
+If that doesn't work out, manually grab the test file here:
+
+https://github.com/exercism/exercism.io/blob/master/assignments/ruby/binary-search-tree/binary_search_tree_test.rb
+
+## Testing APIs Walkthrough
+
+This morning we'll work through implementing tests for an API using an existing application.
+
+### Learning Goals
+
+* Understand where API tests belong in the file tree
+* Become familiar with the assertions relevant for API testing
+* Understand what should be tested: status code and content
+* Practice writing support methods to simplify testing
+* How to extract the API to a secondary controller
+
+### Sample Project Setup
+
+It's not Blogger, hooray!
+
+```plain
+git clone git@github.com:JumpstartLab/storedom.git
+bundle && rake db:migrate
+```
+
+### References
+
+* http://guides.rubyonrails.org/testing.html#functional-tests-for-your-controllers
+* http://api.rubyonrails.org/classes/ActionController/TestCase.html
+
+### An Example
+
+```
+  def test_it_shows_orders
+    create_orders(2)
+    get :index, :format => :json
+    assert_response :success
+    body = @response.body
+    json = JSON.parse(body)
+    assert_equal 2, json.count
+  end
+```
+
+## Consuming APIs with HTTP & Wrappers
+
+* 500px.com is an image sharing service
+* API documentation: https://github.com/500px/api-documentation
+
+### Commands for HTTP Experimentation
+
+```
+Faraday.get('https://api.500px.com/v1/photos?feature=popular)
+Faraday.get('https://api.500px.com/v1/photos?feature=popular&consumer_key=Ou5TL8cnyb5icBfcx2y2i5HykUPNGE3XhwpQ67Io')
+photo_response = Faraday.get('https://api.500px.com/v1/photos/56265734?consumer_key=Ou5TL8cnyb5icBfcx2y2i5HykUPNGE3XhwpQ67Io')
+require 'json'
+photo_json = JSON.parse(photo_response.body)
+url = photo_json["photo"]["image_url"]
+File.open('image.jpg', 'w'){|file| file.write( Faraday.get(url).body )}
+System.call('open image.jpg')
+```
+
+### Commands for Wrapper Experimentation
+
+* `gem install f00px`
+* https://github.com/500px/f00px
+
+```
+client = F00px::Client.new
+client.consumer_key = 'Ou5TL8cnyb5icBfcx2y2i5HykUPNGE3XhwpQ67Io'
+body = client.get('photos/56265734').body
+data = JSON.parse(body)
+data["photo"]["image_url"]
+```
+
+### Experiment Pairs
+
+* Luke Martinez, Nathaniel Watts
+* Ben Lewis, George Hudson
+* Persa Zula, Simon Taranto
+* Antony Siegert, Louisa Barrett
+* Bryana Knight, Nikhil Taneja
+* Billy Griffin, Bree Thomas
+* Romeeka Gayhart, Will Mitchell
+* Brian Winterling, Tyler Long
+* Lauren Spath Luhring, Quentin Tai
+* Ben Horne, Katrina Engelsted
+* Darryl Pequeen, Rolen Le
+* Kevin Powell, Magan Adam, Jonah Moses
+
+### APIs for Experimentation
+
+#### Pivotal Tracker
+
+* Documentation: http://www.pivotaltracker.com/help/api
+* Gem: https://github.com/jsmestad/pivotal-tracker
+
+#### Flickr
+
+* Documentation: http://www.flickr.com/services/api/
+* Flickraw gem: https://github.com/hanklords/flickraw
+* Flickr-objects gem: https://github.com/janko-m/flickr-objects
+
+#### Twitter
+
+* Documentation: https://dev.twitter.com/docs/api/1.1
+* Twitter gem: https://github.com/sferik/twitter
+
+#### NPR
+
+* Documentation: http://www.npr.org/api/index
+* NPR Gem: https://github.com/bricker/npr

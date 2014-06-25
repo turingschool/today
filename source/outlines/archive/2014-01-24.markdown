@@ -1,0 +1,73 @@
+---
+title: 140124
+layout: outline
+---
+
+## Daily Outline
+
+* Q&A with Jason Fried
+* Project Idea Generation
+* Project Planning
+
+## Guest: Q&A with Jason Fried 09:00 AM to 10:00 AM
+
+First up we'll chat with Jason Fried. Please vote on and submit questions here:
+
+https://www.google.com/moderator/#15/e=21018d&t=21018d.40
+
+## Project Idea Generation
+
+### Project Intro 10:00-10:15
+
+iTriage is sponsoring the services project, and our goal is for each project to somehow relate to health & wellness.
+
+On the technical side, the focus is to build a cluster of small applications that work together.
+
+### Brainstorming 10:15-11:30
+
+Let's work on brainstorming ideas.
+
+### Groupings
+
+* George Hudson & Jonah Moses & Quentin Tai & Ben Horne & Will Mitchell
+* Lauren Spath Luhring & Romeeka Gayhart & Kevin Powell & Darryl Pequeen
+* Nathaniel Watts & Louisa Barrett & Simon Taranto & Bryana Knight
+* Antony Siegert & Bree Thomas & Ben Lewis & Rolen Le
+* Persa Zula & Billy Griffin & Katrina Engelsted & Tyler Long
+* Nikhil Taneja & Brian Winterling & Magan Adam & Luke Martinez
+
+### Process
+
+At 11:30 please come back to the room with:
+
+* Product name
+* The brief pitch in less than 140 characters
+* The target audience
+* What solutions are they currently using to solve this?
+* How does the product do it better?
+* Who/what are the competitors?
+
+Be prepared to present them to the group.
+
+### Product Pitches 11:15-12:00
+
+Groups will each pitch their idea in five minutes or less, then we'll narrow the options to five.
+
+## Project Planning 1:30-4:00
+
+### Team Selection 1:30-1:45
+
+* Using a randomized order, each student will pick a project to work on
+* 20 students will break into four groups of four
+
+### Jorge on UX 1:45-2:00
+
+Next, Jorge will talk with you about how to understand and model UX for a project by using personas.
+
+### Personas and Wireframing 2:00-3:45
+
+Get together with your project group to build personas and wireframe interactions for your product.
+
+They're going to get hung publicly, so create something you're proud of.
+
+### Wrapup 3:45-4:00

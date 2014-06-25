@@ -1,0 +1,140 @@
+---
+title: 131230
+layout: outline
+---
+
+## Hooking Up
+
+Today we'll use Join.me, Flowdock, and ScreenHero.
+
+* JoinMe: https://join.me/jumpstartlab
+* Flowdock: https://www.flowdock.com/invitations/41ea2ede1c14eb318c67ce9407ddf97968315538
+
+This morning's session was recorded and posted here: https://vimeo.com/82970648
+
+## Daily Outline
+
+* Warmup
+* Exercism: Secret Handshake
+* Exposing an API
+* Encoding & Filtering
+* Reading Group
+* Lightning Talk Kickoff
+
+## Exercism: Secret Handshake
+
+First up this morning we're going to collaborate on solving the Secret Handshake problem in Exercism:
+
+https://raw.github.com/exercism/exercism.io/master/assignments/ruby/secret-handshake/secret_handshake_test.rb
+
+## Exposing an API
+
+### Intro
+
+First, let's discuss the key ideas of an API:
+
+* What is it?
+* What kinds of applications offer APIs?
+* Data formats: XML, JSON, others?
+* Architectural approaches
+
+### Tutorial
+
+http://tutorials.jumpstartlab.com/topics/web_services/api.html
+
+#### Working Pairs
+
+* Billy Griffin, Romeeka Gayhart
+* Antony Siegert, Louisa Barrett
+* Darryl Pequeen, Tyler Long
+* Bryana Knight, Jonah Moses
+* Katrina Engelsted, Will Mitchell
+* Kevin Powell, Nikhil Taneja
+* Ben Lewis, Brian Winterling
+* Bree Thomas, Luke Martinez
+* Magan Adam, Persa Zula
+* Lauren Spath Luhring, Simon Taranto
+* Ben Horne, Rolen Le
+* George Hudson, Nathaniel Watts, Quentin Tai
+
+## Encoding & Filtering Data
+
+### Intro
+
+* Why choose XML or JSON
+* The simple options: `to_json` and `as_json`
+* How it gets complicated: authorization
+* Where does filtering fit in MVC?
+
+### Tutorial
+
+http://tutorials.jumpstartlab.com/topics/web_services/encoding_and_filtering.html
+
+#### Working Pairs
+
+* Kevin Powell, Lauren Spath Luhring
+* Ben Lewis, Rolen Le
+* Brian Winterling, Nikhil Taneja
+* Bryana Knight, George Hudson
+* Quentin Tai, Romeeka Gayhart
+* Nathaniel Watts, Tyler Long
+* Darryl Pequeen, Katrina Engelsted
+* Louisa Barrett, Simon Taranto
+* Bree Thomas, Luke Martinez
+* Antony Siegert, Persa Zula
+* Ben Horne, Will Mitchell
+* Billy Griffin, Jonah Moses, Magan Adam
+
+## Reading Group
+
+### Groups / Texts
+
+* JavaScript Patterns: Will, Simon, Quentin, Rolen, Nathaniel, Ben L
+* jQuery Novice to Ninja: Lauren, Darryl
+* Learning JavaScript 1: Ben H, Persa, Jonah, Bree, Tyler, Bryana, Katrina, Meeka
+* Learning JavaScript 2: Luke, Billy, Louisa, Antony, Brian, Kevin
+* Eloquent JavaScript: Adam & Nikhil
+
+### Small-Groups 3:00-3:30
+
+In your small groups:
+
+* Check-in on reading progress
+* How did deliverables come together?
+* Were you satisfied with the book? Why/why not?
+* Who would you recommend it to?
+
+#### Video Chat Setup
+
+The first person listed above for your group should...
+
+* Open Google Hangouts at https://plus.google.com/hangouts
+* Click "Start a Video Party" in the bottom right
+* Click cancel on the invite pane
+* Copy the URL of the hangout window once you're in it
+* Paste the URL into Flowdock, ie:
+
+```plain
+Jeff | Eloquent JavaScript group: https://plus.google.com/hangouts/_/7ecpjpcbm5tja79pfmum7ld8h8?hl=en
+```
+
+### Full-Group 3:30-4:00
+
+We'll attempt to use some Google Hangouts on Air thing, if I can figure out how it works. I'll send an invite to two group members during your small group session.
+
+### Selecting New Texts
+
+Please select a new text to begin today that you'll finish by 1/20. We want to have at least **3 students** in a group.
+
+https://github.com/gSchool/submissions/blob/master/gschool-1/reading/cycle_5.markdown
+
+## Lightning Talks
+
+This week we'll have lightning talks from:
+
+* George Hudson
+* Billy Griffin
+* Ben Horne
+* Ben Lewis
+* Bryana Knight
+* Nathaniel Watts

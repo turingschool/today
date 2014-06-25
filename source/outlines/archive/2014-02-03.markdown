@@ -1,0 +1,54 @@
+---
+title: 140203
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* SOA Q&A
+* Asynchronous Messaging and Data
+* Project Work Time
+
+## SOA Q&A
+
+Last week you were dumped into the world of services. Let's talk about the big picture.
+
+* Why use services?
+* How can you design an application for services?
+* Are services the right choice for all projects?
+
+## Asynchronous Messaging and Data
+
+One of the great applications for services is to implement asynchronous messaging and data transfer. Let's look at how to do that in two parts:
+
+* [Asynchronous Messaging with Redis/PubSub](http://tutorials.jumpstartlab.com/topics/asynchronous_messaging_with_pubsub.html)
+* [Asynchronous Data with Faye](http://tutorials.jumpstartlab.com/topics/asynchronous_data_with_faye.html)
+
+### Working Groups
+
+* Ben Lewis, Brian Winterling, Persa Zula
+* Katrina Engelsted, Lauren Spath Luhring, Nathaniel Watts
+* Ben Horne, Luke Martinez, Will Mitchell
+* Bryana Knight, Jonah Moses, Nikhil Taneja
+* Kevin Powell, Magan Adam, Romeeka Gayhart
+* Antony Siegert, Louisa Barrett, Simon Taranto
+* Billy Griffin, Bree Thomas, George Hudson
+* Darryl Pequeen, Rolen Le, Tyler Long
+
+## Pairing Sessions w/Katrina
+
+* 12:00-13:00 Bree
+* 13:00-14:00 Nikhil
+* 14:00-15:00 Persa
+
+## Lightning Talk Planning
+
+Please meet with Jorge in the classroom to brainstorm topics for this week:
+
+* Louisa Barrett
+* Jonah Moses
+* Darryl Pequeen
+* Rolen Le
+* Katrina Engelsted
+* Kevin Powell

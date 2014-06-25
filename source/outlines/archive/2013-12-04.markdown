@@ -1,0 +1,51 @@
+---
+title: 131204
+layout: outline
+---
+
+## Daily Outline
+
+* Chat with Austen Ito 10:30 AM to 11:00 AM 
+* Understanding Stories 11:00 AM - Noon
+* Project Work 1:00 PM to 4:00 PM 
+
+## Chat with Austen Ito 10:30 AM to 11:00 AM 
+
+* [Twitter](https://twitter.com/austenito)
+* [Github](https://github.com/austenito)
+* [LinkedIn](http://www.linkedin.com/pub/austen-ito/9/61a/9a5)
+* [Blog](http://austenito.com/)
+
+## Understanding Stories
+
+### Overview
+
+* Stories communicate intent and achievement
+* Good stories are easy to understand
+* Like any goals, they should be [SMART](http://en.wikipedia.org/wiki/SMART_criteria)
+
+### Writing a Story
+
+```plain
+As a(n) [user type]
+In order to [extract business value]
+When I [take some action]
+  (and [take some other action])
+Then I [observe an outcome]
+  (and I [observe another outcome])
+```
+
+### Points! Points! Points
+
+* 3 Points - A vague idea we don't understand
+* 2 Points - A concept that we understand, but it's too big to start work on
+* 1 Point - A story that is understood and ready for work
+
+### Tracker Story States
+
+http://tutorials.jumpstartlab.com/projects/workflow.html#pivotal-tracker
+
+### More References
+
+* [How to Write Meaningful Stories](http://www.subcide.com/articles/how-to-write-meaningful-user-stories/)
+* [Tracker's Getting Started Tutorials](https://www.pivotaltracker.com/help/gettingstarted)

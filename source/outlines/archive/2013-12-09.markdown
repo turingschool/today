@@ -1,0 +1,105 @@
+---
+title: 131209
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Overview
+* Data Caching with Redis 9:30 AM to 12:00 PM
+* Reading Group 1:00-2:00
+* Project Work 2:00-4:00
+* Lightning Talk Kickoff @ 2:00
+
+## Weekly Overview
+
+* Focusing on Performance
+* Lightning Talks
+* Visiting Pivotal Tracker
+* Check-ins Tuesday & Thursday
+* Guests Christine Hudson & Steve Neeley from Rally
+
+## Data Caching with Redis
+
+### Part 1: Discussing Data Caching
+
+* Why cache data?
+* What is a cache?
+* "Key-value store" like a hash
+* Make up complex keys to avoid collisions
+* Does data stay, get updated, or expire?
+
+### Part 2: Experimenting with Redis
+
+[Installing Redis Tutorial](http://tutorials.jumpstartlab.com/topics/performance/installing_redis.html)
+
+```plain
+$ brew install redis
+$ redis-cli
+redis 127.0.0.1:6379> exit
+```
+
+#### Redis Gem
+
+```plain
+$ gem install redis
+$ irb
+001 > require 'redis'
+ => true
+002 > r = Redis.new
+ => #<Redis client v3.0.4 for redis://127.0.0.1:6379/0>
+003 > r.set("hello", "world")
+ => "OK"
+004 > r.get("hello")
+ => "world"
+005 > exit
+```
+
+### Part 3: Data Caching in Rails
+
+Work through the [Caching in Rails Tutorial](http://tutorials.jumpstartlab.com/topics/performance/caching.html), but only up to "Key-Based Cache Expiration"
+
+#### Working Groups
+
+* George Hudson, Louisa Barrett, Tyler Long, Brian Winterling
+* Billy Griffin, Luke Martinez, Nikhil Taneja
+* Katrina Engelsted, Magan Adam, Will Mitchell
+* Ben Lewis, Jonah Moses, Nathaniel Watts
+* Ben Horne, Kevin Powell, Rolen Le
+* Bree Thomas, Bryana Knight, Romeeka Gayhart
+* Antony Siegert, Persa Zula, Simon Taranto
+* Darryl Pequeen, Lauren Spath Luhring, Quentin Tai
+
+## Reading Group - JavaScript
+
+### Small Group Conversation 1:00-1:30
+
+* How has progress been so far? Did you hit your goals?
+* What do you think about the approach the book takes to the material?
+* Have you been "reading along" with code or actually trying things out?
+* What is the plan for this week?
+* How will you reinforce your learning/reading?
+
+### Full Group Conversation 1:35-2:00
+
+* Progress checks
+* Text first impressions
+* Juggling responsibilities
+
+### Groups / Texts
+
+* JavaScript Patterns: Will, Simon, Quentin, Rolen, Nathaniel, Ben L
+* jQuery Novice to Ninja: Lauren, Darryl
+* Learning JavaScript 1: Ben H, Persa, Jonah, Bree, Tyler, Bryana, Katrina, Meeka
+* Learning JavaScript 2: Luke, Billy, Louisa, Antony, Brian, Kevin
+* Eloquent JavaScript: Adam & Nikhil
+
+## Lightning Talks
+
+* Louisa Barrett
+* Jonah Moses
+* Darryl Pequeen
+* Rolen Le
+* Katrina Engelsted
+* Kevin Powell

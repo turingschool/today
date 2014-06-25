@@ -1,0 +1,93 @@
+---
+title: 140103
+layout: outline
+---
+
+## Daily Outline
+
+* 9AM - Retrospective
+* 10AM - Lightning Talks
+* 11AM - Guest: Wynn Netherland
+* Afternoon - 1-on-1s and Self-Study Time
+
+## Retrospective
+
+### Personal Prospective 9:00-9:30
+
+56 days from now the program will be over.
+
+* What are your big goals during that time?
+* What milestones can you lay out between now and the end?
+* What are the biggest blockers to your success?
+* What parts of your personality/makeup will you have to control to achieve your best outcomes?
+* What concrete systems will help you get where you want to be?
+
+### Group Retrospective 9:35-10:00
+
+* Sharing
+* Feed Engine Love & Hate
+* Personal Retro Points
+* Shout-outs
+
+## Lightning Talks 10:00-10:45
+
+* George Hudson
+* Billy Griffin
+* Ben Horne
+* Ben Lewis
+* Bryana Knight
+* Nathaniel Watts
+
+## Guest: Wynn Netherland 11:00 AM to 12:00 PM 
+
+Please submit questions for Wynn at https://www.google.com/moderator/#15/e=20c214&t=20c214.40
+
+Wynn is a full-stack developer who works on APIs at Github. He's also co-founded [The Changelog](http://thechangelog.com/) and lives in Texas.
+
+* [On Github](https://github.com/pengwynn)
+* [On Twitter](https://twitter.com/pengwynn)
+* [On LinkedIn](http://www.linkedin.com/in/netherland)
+
+## 1-on-1s
+
+### With Jeff at the Gather Front Door
+
+Today I'm doing walking 1-on-1s. Bring your jacket :)
+
+* 1:00 - Luke Martinez
+* 1:15 - Brian Winterling
+* 1:30 - Antony Siegert
+* 1:45 - Kevin Powell
+* 2:15 - Quentin Tai
+* 2:30 - Katrina Engelsted
+* 2:45 - Jonah Moses
+* 3:00 - Bryana Knight
+* 3:15 - Ben Lewis
+
+### With Katrina in the Perch
+
+* 1:00 - Louisa Barrett
+* 1:15 - Ben Horne
+* 1:30 - Romeeka Gayhart
+* 1:45 - Nathaniel Watts
+* 2:15 - Will Mitchell
+* 2:30 - Rolen Le
+* 2:45 - George Hudson
+* 3:00 - Nikhil Taneja
+
+### With Jorge in The Nook
+
+* 1:15 - Bree Thomas
+* 1:30 - Lauren Spath Luhring
+* 1:45 - Tyler Long
+* 2:15 - Magan Adam
+* 2:30 - Darryl Pequeen
+* 2:45 - Simon Taranto
+* 3:00 - Persa Zula
+* 3:15 - Billy Griffin
+
+## Self-Study Time
+
+When you're not in 1-on-1s, work on something **that is not your project** with at least one other person.
+
+Do something that's difficult and interesting. Implement an algorithm. Try a new programming language.

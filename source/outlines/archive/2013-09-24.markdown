@@ -1,0 +1,20 @@
+---
+title: 130924
+layout: outline
+---
+
+## Daily Outline
+
+* 8:30-9:00 Warmups on Exercism
+* 9:00-11:00 Sales Engine work time
+* 11:00-12:00 (Optional) Sales Engine Q&A
+* 13:00-14:30 Git for pairs
+* 14:30-16:00 (Optional) Ruby fundamentals
+
+## Git for Pairs
+
+* Discussion notes / tutorial: http://tutorials.jumpstartlab.com/academy/workshops/git_for_pairs.html
+* Git Immersion: http://gitimmersion.com/
+* Git Reference: http://gitref.org/index.html
+* Github reference videos: http://www.youtube.com/GitHubGuides
+* Github for Mac client: http://mac.github.com/

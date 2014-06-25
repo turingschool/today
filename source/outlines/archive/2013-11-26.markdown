@@ -1,0 +1,68 @@
+---
+title: 131126
+layout: outline
+---
+
+## How Electronics Work
+
+* Electricity is about potential
+* Electrons flow
+* How components work: diodes, resistors, capacitors, transistors
+
+## Lunch Order
+
+You should have an invite to a Chipotle group order in your email. Please fill it out by 10:30AM or your order may not be included.
+
+## Hardware Experiments
+
+### Groups
+
+* Ben Horne + Magan Adam
+* Quentin Tai + Simon Taranto
+* Billy Griffin + Will Mitchell
+* Tyler Long + Ben Lewis
+* George Hudson + Louisa Barrett
+* Persa Zula + Luke Martinez
+* Rolen Le + Jonah Moses
+* Antony Siegert + Bree Thomas
+* Romeeka Gayhart + Kevin Powell
+* Nathaniel Watts + Katrina Engelsted
+* Darryl Pequeen + Lauren Spath Luhring
+* Nikhil Taneja + Bryana Knight + Brian Winterling
+
+### Options
+
+#### AR Drone (1)
+
+We have one AR Drone that can be [controlled from Ruby](https://github.com/hybridgroup/artoo-ardrone). Can you...
+
+* Write a program to take off, turn 180 degrees, then land?
+* Write a program that responds to keyboard input (like the arrows) to control elevation?
+* Write a program that can execute a flip on keypress?
+
+#### Phillips Hue (3)
+
+We have three Phillips Hue bulbs which [can be controlled from Ruby](https://github.com/Veraticus/huey). Can you write a program that...
+
+* Cycles the light between two colors?
+* Uses sinatra to allow color change through a web interface?
+* Blinks the light when you push a commit to Github?
+
+#### Sphero Balls (3)
+
+We have three Sphero balls that can be [controlled from Ruby](https://github.com/hybridgroup/artoo-sphero).
+
+Can you write a program that...
+
+* Moves the ball in a pattern?
+* Moves the ball in response to a keypress?
+* Moves the ball and flashes colors when you commit to Github?
+
+#### Arduino Kits (13)
+
+We have 13 Arduino kits that can be controlled from C (using the included book in the kit) or Ruby (https://github.com/austinbv/dino). 
+
+* Try out experiments from the book in kit
+* Try using Ruby to control it
+* Try out our [number guessing game tutorial](http://tutorials.jumpstartlab.com/projects/arduino/introducing_arduino.html) -- updates would be greatly appreciated
+* Can you tie the Arduino together with a Sinatra app?

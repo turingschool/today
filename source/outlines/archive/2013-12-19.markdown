@@ -1,0 +1,101 @@
+---
+title: 131219
+layout: outline
+---
+
+## Daily Outline
+
+* Peer Review 9:00 AM to 10:30 AM 
+* Instructor Topic Focus 10:30 AM to 12:00 PM 
+* Revisit & Refactor 1:00 PM to 3:00 PM
+* Group Retro 3:00 PM to 4:00 PM
+* Demo Prep 4:00 PM to 5:00 PM 
+* Fourth Meal Demos 5:30 PM to 7:00 PM 
+
+## Peer Review 9:00 AM to 10:30 AM 
+
+During this session please spend 45 minutes on *each* project.
+
+### Questions for Discussion/Exploration
+
+* What's one area that you are particularly proud of? Why?
+* What was a difficult puzzle to solve? What did you learn about the problem?
+* Where is the app particularly weak? How could it be improved?
+* What is part of the app do you not understand? Can you explore/understand it together?
+* If you had another week of work, what would you tackle next? Why?
+* How did your group manage itself? How did Tracker go? Why? What was helpful, what was annoying?
+
+### Pairings
+
+* Ben Horne & Darryl Pequeen
+* Bree Thomas & Persa Zula
+* Kevin Powell & Katrina Engelsted
+* Ben Lewis & Antony Siegert
+* Lauren Spath Luhring & Brian Winterling
+* Romeeka Gayhart & Nikhil Taneja
+* Luke Martinez & Billy Griffin
+* Bryana Knight & Louisa Barrett
+* Will Mitchell & Tyler Long
+* Rolen Le & Quentin Tai
+* George Hudson & Nathaniel Watts
+* Simon Taranto & Magan Adam & Jonah Moses
+
+## Instructor Topic Focus 10:30 AM to 12:00 PM 
+
+Please signup on the board this morning so we can figure out the group sizes and locations (TBD).
+
+* Jorge will be reviewing UX and strategies for improvement at **The Nook**
+* Katrina will focus on Background Workers at the **Instructor Desks**
+* Jeff will look at performance monitoring and diagnosing hot spots in the **Classroom**
+
+## Revisit & Refactor 1:00 - 3:00
+
+Get together with your pair from the Instructor Review session and refactor the sample project.
+
+## Pairing w/Katrina
+
+* 1:00 - 2:00 Bree Thomas
+* 2:00 - 3:00 Darryl Pequeen
+* 3:00 - 4:00 Louisa Barrett
+
+## Group Retrospective
+
+Get together with your project group and discuss/reflect on the following topics:
+
+* How was the work load shared? Was that the right mix? Why/why not?
+* How much of your intended scope did you complete? Should your pace have been faster or slower? Expectations higher or lower?
+* What unexpected hurdles did you run into? How would you anticipate these in the future?
+* What was great and challenging about working with each member of the group?
+* What will you want to do the same and differently in your next group?
+* Next project you'll work in 4 or 5 person groups. What would you have done differently this time if there were one more person?
+
+## Demo Prep 4:00 PM to 5:00 PM 
+
+Meet back in the classroom at 4:00 to discuss the plan for demos.
+
+### What You Need to Know
+
+* Demo should be about 5-7 minutes
+* You'll run it from our computer, not yours
+* We intend to live stream / record the session
+* Everyone in the group should participate
+
+### Demo Room Setup
+
+* Tables pulled out and put next to the stairs (where the coat racks typically are)
+* Chairs setup
+* Screen, projector, audio equipment transported downstairs
+* Screen, projector, and audio equipment setup
+
+### Building a Demo
+
+* Quickly introduce yourselves
+* What were your goals in the project? What were you focused on?
+* Show off strong parts of the workflow and interface
+* Any stand-out extra features?
+* Show off parts of the code that you're particularly proud of or were particularly challenging
+* Let the audience ask two questions
+
+## Fourth Meal Demos 5:30 PM to 7:00 PM 
+
+We'll add a link to the outline here once it's up.

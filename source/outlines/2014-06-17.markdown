@@ -1,0 +1,75 @@
+---
+title: 140617
+layout: outline
+---
+
+## Warmup (8:30-9:00)
+
+This morning for warmup please return to your Fibonacci generator / prime checker from yesterday.
+
+* If you felt good about your results, try it again from scratch. Make some different design decisions and see how that affects your result.
+* If you struggled yesterday, continue working where you are and see if you can get it finished up!
+
+## CSV-II CLI (9:00-12:00)
+
+Doing test-driven development has been fun, but it would be nice to have an interface to interact with our program.
+
+Today we will be adding a CLI layer on our previous CSV-II exercise. We are going to kick-off the session by revisiting our previous exercise and building a CLI using tests.
+
+Later, we are going to break into pairs to implement additional functionality.
+
+* Chad Brading & Robert Gu
+* Jessica Goulding & Marc Garreau
+* Corey Davis & Horacio Chavez
+* Andrew Watkins & Emily Davis
+* Andy Mention & Alan Smith
+* Hilary Denton & Tim Proctor
+* Cara Dennis & Allison Larson & Eric Fransen
+* Jonmichael Chambers & Tan Doan
+* Will Faurot & Gustavo Villagrana
+
+## Mastermind Work Time (1:00-4:00)
+
+This afternoon you can return to working on Mastermind.
+
+# Community Night
+
+Here's the plan for tonight:
+
+## Get Ruby & Git Setup
+
+Our setup tutorial is here: http://tutorials.jumpstartlab.com/topics/environment/environment.html
+
+The goal is to have correctly setup:
+
+* Ruby 2.1
+* Git
+* A text editor
+
+## Ruby in 100 Minutes
+
+Once your system is rolling, dive into Ruby in 100 Minutes: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+
+## Playing with Hue
+
+First we'll talk a bit about how the Hue bulbs work.
+
+Then you can try messing with them yourself. It'll get a bit chaotic with all of us doing things at once, but nothing is going to blow up.
+
+### Get the Code
+
+In your terminal:
+
+```
+git clone git@github.com:JumpstartLab/jsl-hue.git
+cd jsl-hue
+```
+
+### Experiments
+
+* Pick a bulb and try turing it on and off
+* Try turing a bulb off, waiting 5 seconds, and turing it back on
+* Iterate through an array of three bulbs and turn them all off
+* Pick a bulb and change its color
+* Iterate through an array of three bulbs and change their color
+* Pick a bulb and change it to three different colors with a five second pause between each

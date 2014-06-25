@@ -1,0 +1,46 @@
+---
+title: 131211
+layout: outline
+---
+
+## Daily Outline
+
+* Background Workers 9:00 AM to 11:00 AM
+* Guest: Josh Mejia 11:00 AM to 11:30 AM
+* Working with Workers 1:00-2:00 PM
+
+## Background Workers 9:00 AM to 11:00 AM
+
+This morning we'll discuss background workers for web applications.
+
+### Big Picture
+
+* The normal request-response cycle
+* Adding in email
+* Considering total response time
+* Inserting a queue
+* Watching a queue
+* The worker pattern
+
+### Walk Through
+
+http://tutorials.jumpstartlab.com/topics/performance/background_jobs.html
+
+#### Working Groups
+
+* Ben Lewis, George Hudson, Jonah Moses, Will Mitchell
+* Ben Horne, Lauren Spath Luhring, Quentin Tai, Rolen Le
+* Billy Griffin, Brian Winterling, Katrina Engelsted, Nikhil Taneja
+* Darryl Pequeen, Luke Martinez, Persa Zula, Tyler Long
+* Antony Siegert, Bryana Knight, Louisa Barrett, Simon Taranto
+* Bree Thomas, Kevin Powell, Magan Adam, Nathaniel Watts, Romeeka Gayhart
+
+## Guest: Josh Mejia 11:00 AM to 11:30 AM 
+
+* Works at [Comverge](http://www.comverge.com/)
+* [Twitter](https://twitter.com/joshuamejia)
+* [Github](https://github.com/jmejia)
+
+## Working with Workers
+
+Get back together with your working group from this morning and complete the tutorial.

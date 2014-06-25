@@ -1,0 +1,66 @@
+---
+title: 131113
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup & Discussion
+* Rails Views Tips & Techniques (9:30 AM to 11 AM) 
+* Partials Tutorial (11:00 AM to noon) 
+* Dinner Dash Work Time (1:00 PM to 4:00 PM) 
+
+## Warmup & Discussion
+
+Let's all start with the "triangles" exercise from Exercism:
+
+* https://raw.github.com/exercism/exercism.io/master/assignments/shared/triangle.yml
+* https://raw.github.com/exercism/exercism.io/master/assignments/ruby/triangle/triangle_test.rb
+
+## Rails Views Tips & Techniques
+
+* https://github.com/fluxusfrequency/ono_burrito
+
+### `items/index.html.erb`
+
+* removing the retired conditional
+* rendering a partial for a collection
+
+### `items/_header.html.erb`
+
+* Removing the `Category.all`
+* Using a helper to determine CSS class
+
+### `orders/show.html.erb`
+
+* What's missing from `Item.all` loop?
+* Cut down the locals in the `order` partial
+* Simplify rendering individual items
+
+## Partials Tutorial
+
+Get together in the following pairs to work through [this partials tutorial](http://tutorials.jumpstartlab.com/topics/better_views/view_partials.html)
+
+* George Hudson & Romeeka Gayhart
+* Magan Adam & Antony Siegert
+* Nikhil Taneja & Nathaniel Watts
+* Ben Lewis & Bryana Knight
+* Katrina Engelsted & Simon Taranto
+* Billy Griffin & Quentin Tai
+* Tyler Long & Rolen Le
+* Lauren Spath Luhring & Brian Winterling
+* Will Mitchell & Luke Martinez
+* Bree Thomas & Louisa Barrett
+* Darryl Pequeen & Persa Zula
+* Jonah Moses & Ben Horne
+
+## Dinner Dash Work Time
+
+During our final work session for the project you should make sure:
+
+* A) Your code is deployed and working in production (ie: Heroku)
+* B) You have one or more people *not* on your team try using it
+* C) You clean up rough edges in the code like methods that are too long, commented out code, etc
+* D) Run a code-coverage tool to figure out which parts of your code are untested (with a tool like [SimpleCov](https://github.com/colszowka/simplecov) )
+
+Just FYI, only projects that demonstrate good practices in the implementation, tests, and UI/UX will be demoed tomorrow.

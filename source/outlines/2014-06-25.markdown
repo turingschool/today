@@ -1,0 +1,8 @@
+## Work Day
+
+* Today is all work all day.
+* Jorge and Jeff will have very limited availability for triage during the day.
+* Build small things, take small steps. If you get really stuck, back up and solve
+a smaller problem.
+
+Good luck!

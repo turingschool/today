@@ -1,0 +1,40 @@
+---
+title: 140218
+layout: outline
+---
+
+## Warmup
+
+This morning let's jump on another LSAT exercise:
+
+https://www.dropbox.com/s/4x4muumduabj48i/lsat_68_4_4.pdf
+
+## Handling Exceptions
+
+This morning let's look at how exceptions work and how you should and shouldn't react to them.
+
+### Discussion Plan
+
+* Call stack and "frames"
+* Exceptions interrupt the flow
+* Exceptions "bubble up"
+* Naked `raise`
+* `raise ArgumentError.new("message")`
+* Available exception classes: http://blog.nicksieger.com/articles/2006/09/06/rubys-exception-hierarchy/
+* Rescuing from exceptions, generally
+* Rescuing from a single exception type
+* Rescuing from multiple exception types
+* The exception object: `rescue Exception => e`, `e.message`, and `e.backtrace.inspect`
+
+### References
+
+* http://rubylearning.com/satishtalim/ruby_exceptions.html
+* Exceptional Ruby: http://exceptionalruby.com/
+
+## Project Work Time 01:00 PM to 04:00 PM 
+
+## Pairing w/Katrina
+
+* 13:00-14:00 - Bree
+* 14:00-15:00 - Lauren
+* 15:00-16:00 - Tyler

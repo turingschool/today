@@ -1,0 +1,163 @@
+---
+title: 131007
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview / Intro to Focus Week
+* Focus Week Sessions (9:30 - noon, 1:00 - 2:00)
+* Reading Group (2:00 - 3:30)
+* Lightning Talk Intro (3:30 - 4:00)
+* Lightning Talk Kickoff (4:00 - 4:30)
+
+## Weekly Preview
+
+* Focus Week sessions Monday-Thursday
+* First round of Lightning Talks
+* Katrina out Thursday & Friday
+
+## Focus Sessions
+
+### Challenge Group with Frank
+
+If you're feeling comfortable with what we've done so far, meet with Frank to push yourself down in The Pit.
+
+### Progress Group with Jeff
+
+If you feel like you've rumbled through a lot of our work but need to round the wheel, meet with Jeff in Public Conference Room East (up front).
+
+### Emerging Group with Katrina
+
+If you want to focus on filling the gaps in your understanding, meet with Katrina in the classroom.
+
+## Reading Group (2:00 - 3:00)
+
+Today during reading group you need to:
+
+* Get together with your current group and check-in on progress / goals set last week.
+* Collect, review, and give feedback on each other's work
+* Discuss any areas of particular interest / confusion
+* Set goals for this week as you complete the text
+
+## Reading Group Check-In (3:00-3:30)
+
+### Progress Check-Ins
+
+First, let's hear from each of the groups for about 5 minutes including...
+
+* What text are you reading?
+* What's been most valuable about it?
+* What deliverable(s) has your group been completing?
+* What's your completion rate like? Are group members sticking to the plan?
+* What's going to happen over the last week?
+
+Groups:
+
+* Pickaxe
+* Eloquent Ruby
+* Learn to Program
+* Pragmatic Thinking & Learning
+
+### Next Book
+
+Then let's select your second book which you'll start **next** week. Review the options at http://tutorials.jumpstartlab.com/reading/suggestions.html#html-&-css-fundamentals
+
+## Lightning Talks
+
+### Good Lightning Talks
+
+#### A Strong Lightning Talk
+
+* Runs *exactly* 5 minutes
+* Has a clear topic/purpose
+* Draws you in with a problem statement
+* Is somehow combative or challenging
+* Moves quickly enough to be engaging, but not so fast it's overwhelming
+* Uses visual aids to enhance, not "be" the message
+* Leaves the audience with a "next step"
+* Makes good use of basic visual design concepts
+
+#### A Weak Lightning Talk
+
+* Is a series of facts without a narrative
+* Has the speaker reading words that the audience can see on the slides
+* Lacks energy
+* Uses text or code that's too small or too low-contrast to read (especially with your ultracool dark-green-on-black vim color scheme)
+* Uses over-the-top effects which distract from the core message (ie: most anything on Prezi)
+
+#### Two Samples
+
+* [Ash Beckham - "So Gay"](http://www.youtube.com/watch?v=Gxs78C3XGok)
+* [Ryan McGeary - "Do your commit messages suck?"](http://www.confreaks.com/videos/744-rockymtnruby2011-lightning-talk-do-your-commit-messages-suck)
+
+### Our Lightning Talk Process
+
+#### Monday: Brainstorm ideas
+
+* Usually a theme each week
+* Talk out ideas as a group
+* Decide on the concepts
+* Set a presentation order
+
+#### Tuesday: Key points
+
+* Bullet-point outline
+* Establishes the "purpose"
+* The key facts / arguments
+* The leave behind / next step
+
+#### Wednesday: Rough Draft
+
+* Visual aids created and ready for feedback
+* Spoken content ready for feedback but not yet mastered
+
+#### Thursday: Rehearsal
+
+* Presentation to the small group as though doing it for the full class
+* Feedback from the instructor and groupmates
+
+#### Friday: Present
+
+* Present to the group
+* Recorded and posted for your portfolio
+
+### Lightning Talk Groups
+
+#### Group A
+
+* Quentin Tai
+* Jonah Moses
+* Magan Adam
+* Will Mitchell
+* Simon Taranto
+* Luke Martinez
+
+#### Group B
+
+* Louisa Barrett
+* Lauren Spath Luhring
+* Darryl Pequeen
+* Rolen Le
+* Katrina Engelsted
+* Kevin Powell
+
+#### Group C
+
+* George Hudson
+* Billy Griffin
+* Ben Horne
+* Ben Lewis
+* Bryana Knight
+* Nathaniel Watts
+
+#### Group D
+
+* Tyler Long
+* Antony Siegert
+* Brian Winterling
+* Persa Zula
+* Nikhil Taneja
+* Bree Thomas
+* Romeeka Gayhart

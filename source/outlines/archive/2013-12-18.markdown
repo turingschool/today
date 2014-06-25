@@ -1,0 +1,47 @@
+---
+title: 131218
+layout: outline
+---
+
+## Daily Outline
+
+* Technical Reviews
+* Project work time in the afternoon
+* Pairing with Katrina in the afternoon
+
+## Technical Reviews
+
+### Areas of Focus
+
+As we look through your project we're assessing these four areas of focus:
+
+* 1) Modeling - multitenancy, pushing logic down the stack, security
+* 2) Interface - light view templates, logical and clean UX
+* 3) Performance - database indicies, implementing caching, background workers
+* 4) Process - test driven development, using Pivotal Tracker
+
+In each area we'll render an evaluation of:
+
+* 4 - Exceeded expectations, went above and beyond what you were *supposed* to do
+* 3 - Met expectations
+* 2 - Below expectations, made an attempt but really didn't hit the goal
+* 1 - Far below expectations, no effort or no effective effort
+
+### With Jeff at the Nook
+
+* 9:00 -- Ben Horne, Louisa Barrett, Will Mitchell
+* 9:45 -- Darryl Pequeen, Lauren Spath Luhring, Rolen Le
+* 10:30 -- Bree Thomas, Brian Winterling, George Hudson, Simon Taranto
+* 11:15 -- Persa Zula, Romeeka Gayhart, Tyler Long
+
+### With Jorge & Katrina at the Instructor Desks
+
+* 9:00 -- Kevin Powell, Nikhil Taneja, Quentin Tai
+* 9:45 -- Katrina Engelsted, Luke Martinez, Nathaniel Watts
+* 10:30 -- Ben Lewis, Billy Griffin, Magan Adam
+* 11:15 -- Antony Siegert, Bryana Knight, Jonah Moses
+
+## Pairing with Katrina
+
+* 1:00-2:00 George Hudson
+* 2:00-3:00 Kevin Powell

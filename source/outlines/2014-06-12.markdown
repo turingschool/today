@@ -1,0 +1,40 @@
+---
+title: 140612
+layout: outline
+---
+
+## Warmup
+
+Complete the following logic problem for today's warmup:
+
+http://cl.ly/2Z3L2f0Z0o1D
+
+## Binary & Number Systems (9:00-11:00)
+
+Let's learn about binary and number systems:
+
+http://tutorials.jumpstartlab.com/academy/workshops/number_systems.html
+
+## Ruby's Object Model (11:00-Noon)
+
+Next let's dive into Ruby's object model:
+
+http://tutorials.jumpstartlab.com/academy/workshops/ruby_object_model.html
+
+## CSV-II (1:00-4:00)
+
+This afternoon we'll dive into part two of the CSV exercises:
+
+http://tutorials.jumpstartlab.com/academy/workshops/csv/ii.html
+
+### Working Pairs
+
+* Chad Brading & Marc Garreau
+* Jessica Goulding & Horacio Chavez
+* Corey Davis & Emily Davis
+* Andrew Watkins & Alan Smith
+* Andy Mention & Tim Proctor
+* Cara Dennis & Allison Larson
+* Hilary Denton & Tan Doan
+* Jonmichael Chambers & Gustavo Villagrana
+* Will Faurot & Eric Fransen & Robert Gu

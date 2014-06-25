@@ -1,0 +1,96 @@
+---
+title: 140610
+layout: outline
+---
+
+## Warmup
+
+You've spent a lot of time creating mythical creatures, but you have yet to model a Phoenix: http://en.wikipedia.org/wiki/Phoenix_(mythology)
+
+* Create a `phoenix_test.rb` file
+* Add a few tests with behavior you'd expect from a magical bird of fire
+* Create the implementation
+* Add more tests/implementation until time is up
+
+Consider using [the #1406 chatroom](https://turingschool.slack.com/messages/1406/) to discuss ideas for features.
+
+## Starting IdeaBox with TDD (9:00-Noon)
+
+This morning it's time to start your most sizable assignment yet, IdeaBox.
+
+http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html
+
+Please spend the morning working on it with the pair below. During wrap-up this afternoon we'll figure out the plan for completing it.
+
+### Pairs
+
+* Andy Mention & Allison Larson
+* Tim Proctor & Marc Garreau
+* Andrew Watkins & Cara Dennis
+* Emily Davis & Robert Gu
+* Chad Brading & Jonmichael Chambers
+* Alan Smith & Tan Doan
+* Will Faurot & Eric Fransen
+* Jessica Goulding & Gustavo Villagrana
+* Hillary Denton & Corey Davis & Horacio Chavez
+
+## Enumerable Methods (1:00-4:00)
+
+### Method Chaining & Seeing is Believing
+
+First Josh will spend about one pomodoro talking about using Seeing is Believing to understand chains of method calls.
+
+### Intro with Jeff
+
+Then let's have a quick chat about the overarching concepts behind the Enumerable methods.
+
+* Programming is about collections
+* *Iterating* over a collection: `each`, `map`/`collect`, `inject`, `sort_by`
+* *Filtering* a collection: `select`, `detect`, `min`, `max`
+* Typically take a block and run it once for each element
+* The right enumerable method can save you time/effort
+* But everything can be done with `each`
+
+### Exercises in Pairs
+
+Once we've finished the group discussion you should dive into these exercises:
+
+https://github.com/JumpstartLab/enums-exercises
+
+Working in the following pairs:
+
+* Gustavo Villagrana & Marc Garreau
+* Tim Proctor & Emily Davis
+* Andy Mention & Horacio Chavez
+* Jessica Goulding & Tan Doan
+* Allison Larson & Jonmichael Chambers
+* Corey Davis & Hillary Denton
+* Eric Fransen & Robert Gu
+* Alan Smith & Cara Dennis
+* Andrew Watkins & Chad Brading & Will Faurot
+
+## Photos (2pm-4pm)
+
+I had to move photos to the afternoon.
+
+Please come upstairs to the ground floor (by the front entrance) to take your photo:
+
+* Tim Proctor
+* Alan Smith
+* Andy Mention
+* Horacio Chavez
+* Jessica Goulding
+* Chad Brading
+* Gustavo Villagrana
+* Marc Garreau
+* Allison Larson
+* Will Faurot
+* Eric Fransen
+* Robert Gu
+* Andrew Watkins
+* Jonmichael Chambers
+* Corey Davis
+* Cara Dennis
+* Tan Doan
+* Emily Davis
+* Hillary Denton

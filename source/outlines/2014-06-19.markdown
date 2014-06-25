@@ -1,0 +1,75 @@
+---
+title: 140619
+layout: outline
+---
+
+## Warmup
+
+I doubt you're in a frame of mind for doing a warmup today, so let's skip it.
+
+## Final Touches (9:00-1:00pm)
+
+This morning work on your final tweaks and improvements.
+
+Go back to [the assignment](http://tutorials.jumpstartlab.com/projects/mastermind.html) and review the evaluation rubric that we'll use this afternoon.
+
+### Submission
+
+* Open the [submissions page](https://github.com/turingschool/ruby-submissions/blob/master/1406/01_mastermind/mastermind_submissions.yml) on GitHub
+* Click the EDIT button, find your section, and add the SSH url for your repo along with any notes we should know
+* Click save to submit a pull request
+
+**Pencils down** time is 1pm at which point you will begin evaluations and EventManager described below.
+
+## Evaluations (1:00-3:30)
+
+This afternoon your first priority is evaluations on the following schedule:
+
+### With Jorge
+
+* 1:00 - Chad Brading
+* 1:20 - Horacio Chavez
+* 1:40 - Cara Dennis
+* 2:00 - Corey Davis
+* 2:20 - Tim Proctor
+* 2:40 - Andy Mention
+* 3:00 - Hilary Denton
+
+### With Jeff
+
+* 1:00 - Will Faurot
+* 1:20 - Marc Garreau
+* 1:40 - Alan Smith
+* 2:00 - Jonmichael Chambers
+* 2:20 - Robert Gu
+* 2:40 - Andrew Watkins
+
+### With Josh
+
+* 1:00 - Eric Fransen
+* 1:20 - Tan Doan
+* 1:40 - Jessica Goulding
+* 2:00 - Emily Davis
+* 2:20 - Allison Larson
+* 2:40 - Gustavo Villagrana
+
+## EventManager (1:00-3:30)
+
+Your second afternoon priority is to complete EventManager
+
+http://tutorials.jumpstartlab.com/projects/eventmanager.html
+
+### Working Groups
+
+For EventManager please work in the following groups:
+
+* Will Faurot & Eric Fransen & Chad Brading
+* Marc Garreau & Tan Doan & Horacio Chavez
+* Alan Smith & Jessica Goulding & Cara Dennis
+* Jonmichael Chambers & Emily Davis & Corey Davis
+* Robert Gu & Allison Larson & Tim Proctor
+* Andrew Watkins & Gustavo Villagrana & Andy Mention & Hilary Denton
+
+## Mastermind Showcase (3:30-4:00)
+
+Let's spend a few minutes to check out interesting features or nuances that people build into their game.

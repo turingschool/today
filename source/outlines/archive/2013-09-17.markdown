@@ -1,0 +1,25 @@
+---
+title: 130917
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* EventReporter Work Time & Questions
+* Focus on Collections
+* Intro to Exercism
+
+## Focus on Collections
+
+Jump over to the [Enums Exercises](https://github.com/JumpstartLab/enums-exercises) repository, which Katrina will walk you through.
+
+Some of the discussions will be based on the [Focus on Collections tutorial](http://tutorials.jumpstartlab.com/topics/collections.html).
+
+## Intro to Exercism
+
+Throughout the class we'll use Katrina's *Exercism* project for our warmups. Let's take a look at how it works.
+
+* [Exercism Site](http://exercism.io/)
+* [Exercism Web App Source](https://github.com/kytrinyx/exercism.io)
+* [Exercism Gem Source](https://github.com/kytrinyx/exercism)

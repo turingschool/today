@@ -1,0 +1,105 @@
+---
+title: 131031
+layout: outline
+---
+
+## End of Clone Wars
+
+### Clone Wars Peer Review (9:00 - 10:30)
+
+First up let's get together in pairs. 
+
+During Session A look at the first person's project. During Session B, look at the second person's project.
+
+#### Pairings
+
+* Jonah Moses, Nikhil Taneja
+* Simon Taranto, Ben Lewis
+* Tyler Long, Will Mitchell
+* Quentin Tai, Bree Thomas
+* Brian Winterling, Katrina Englestad
+* Ben Horne, Persa Zula
+* Lauren Spath Luhring, Antony Siegert
+* Darryl Pequeen, Nathaniel Watts
+* Kevin Powell, Luke Martinez
+* George Hudson, Louisa Barrett
+* Rolen Le, Bryana Knight
+* Billy Griffin, Romeeka Gayhart
+
+Use these questions to guide your exploration together:
+
+#### User Perspective
+
+* How does the code work from the user perspective? 
+* What functionality is available?
+* How does the user interface handle misuse, like entering a blank idea or entering the URL for an idea that doesn't exist.
+
+#### Automated Tests
+
+* Run the tests. Are there many or just a few? Do they all pass?
+* Are there "feature" or "acceptance" tests that mimic the user? 
+* Do they test the important features of the interface?
+* Are there "unit" tests that interact with just a single model? 
+* Do they test both the "happy path" and possible error cases?
+
+#### Sinatra
+
+* Look at the Sinatra application/server file. 
+* Is the logic all embedded there, or is it pulled out into other classes/components? 
+* Is there a lot of switching (like `if` statements) or is the code simple?
+
+#### Ruby
+
+* Look at the child classes. How was logic extracted from the Sinatra app? 
+* Does the code encapsulate the complicated ideas?
+* Is the code well written and clear?
+* Are the methods short and well named?
+* Are the files and folders well organized? 
+* Does it use a namespace for the whole project?
+
+#### Storage
+
+* Look at the storage mechanism. 
+* Did they hide the SQL in a few classes, or sprinkle it all over the application? 
+* Are there any clear SQL injection vulnerabilities?
+
+#### View Templates
+
+* Look at the view templates. 
+* Do they have a lot of logic or is it just data getting injected into HTML? 
+* How might they have moved that logic elsewhere?
+
+### Instructor Feedback Sessions (10:30-12:00)
+
+For this session there's project groups **do not** need to stay together.
+
+#### Fundamental Feedback Session
+
+The six of you should meet Jorge at the instructor desks. As a group you will:
+
+* A) Pick one of the group's projects at random
+* B) Focus first on questions you have about specific pieces
+* C) Crawl through the code looking at some of the areas for investigation specified above.
+
+At the end of your session, pick work pairs for the afternoon. From 1:00-2:20, you and this pair should work on improving the project your group looked at this morning (**not** your own project).
+
+It'd be *awesome* to submit one or more pull requests to the original project.
+
+#### Detailed/Hard Feedback Session (10:30-12:00)
+
+The rest of you can meet with Jeff in the classroom. One of the eight projects will be selected at random and reviewed.
+
+At the end of your session, pick work pairs for the afternoon. From 1:00-2:20, you and this pair should work on improving the project your group looked at this morning (**not** your own project).
+
+### Clone Wars Rework & Refactor (1:00 - 2:30) 
+
+Get together with your pair selected during the instructor review and spend 90 minutes:
+
+* fixing bugs that popped up
+* extracting logic from some of the more complex parts
+* adding test coverage to parts that are untested
+* etc
+
+### Clone Wars Demos (2:30 - 4:00)
+
+Let's get together in the classroom to show off your work.

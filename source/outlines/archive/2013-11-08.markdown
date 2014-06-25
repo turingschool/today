@@ -1,0 +1,111 @@
+---
+title: 131108
+layout: outline
+---
+
+## Daily Outline
+
+* Lightning Talks 9:00 AM to 10:00 AM 
+* Guest: Konstantin Haase 10:00 AM to 11:00 AM 
+* Retrospective 11:00 AM to 12:00 PM 
+* 1-on-1s and Self-Study Time 1:00 PM to 4:00 PM
+* Weekly Wrap-up 4:00 PM
+
+## Konstantin Haase
+
+Please take a moment to add 2-3 questions to the moderator and then vote on them: https://www.google.com/moderator/?authuser=1#16/e=20f7a1
+
+As maintainer of Sinatra, Konstantin Haase is an Open Source developer by heart. Ruby has become his language of choice since 2005. He regularly contributes to different widespread projects, including Rubinius, Rack, Rails and MRI. In 2012, he received the Ruby Hero Award for his outstanding contributions to the community. He now works on Open Source projects at Travis CI in Berlin, Germany.
+
+* https://twitter.com/konstantinhaase
+* http://rkh.im/
+* https://github.com/rkh
+
+## Retrospective
+
+### Personal Retrospective
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* How is Dinner Dash coming along? What do you expect to have done next Wednesday?
+* How are you organizing your team/project? Is it working?
+* Are you getting a feel for Rails? What's still confusing? What's something that was confusing but you've now got figured out?
+* How has your foundation in Ruby influenced your uptake of Rails? If you'd done Rails before the class, is your approach any different now?
+
+Please come back to the classroom by 11:35.
+
+### Link Aggregation
+
+When you're done, please add a link to your post on this thread:
+
+http://gschool.groupbuzz.io/topics/988-retro-posts-for-10-8
+
+### Group Retrospective
+
+* Mountain trip/weekend
+* Favorite resources
+* Sessions this week
+* This afternoon
+* 4 Shout-outs
+
+## Self-Study Time
+
+This afternoon please get together in the following groups:
+
+* Ben Lewis, Brian Winterling, Jonah Moses, Kevin Powell
+* Louisa Barrett, Billy Griffin, Romeeka Gayhart
+* Luke Martinez, Antony Siegert, Ben Horne
+* Persa Zula, Will Mitchell, Magan Adam
+* Bryana Knight, Nathaniel Watts, George Hudson
+* Rolen Le, Tyler Long, Darryl Pequeen
+* Katrina Engelsted, Lauren Spath Luhring, Nikhil Taneja
+
+And study a topic of your choosing that's *not* Dinner Dash. For instance, you could...
+
+* Try out some jQuery
+* Experiment with Bootstrap, Foundation, or the like
+* Study ActiveRecord indexes and what they're good for
+* Return to practice activities from the past like Enumerables and the CSV exercises
+* Experiment with writing a JSON API
+* Use Ruby-Processing to create a graph or animation
+* Work on your Rails reading-group book
+
+If you need a codebase to work with, it's ok to use your IdeaBox or just scaffold a new app. It's **not** ok to use *a* Dinner Dash.
+
+## 1-on-1s (1:00 - 4:00)
+
+### With Jeff at Metropolitan Coffee
+
+If you're going to get coffee please come early :)
+
+* 1:10 - Brian Winterling
+* 1:25 - Nikhil Taneja
+* 1:40 - George Hudson
+* 1:55 - Katrina Engelsted
+* 2:10 - (break)
+* 2:20 - Darryl Pequeen
+* 2:35 - Billy Griffin
+* 2:50 - Rolen Le
+* 3:05 - Kevin Powell
+
+### With Frank in the War Room
+
+* 1:10 - Tyler Long
+* 1:25 - Luke Martinez
+* 1:40 - Persa Zula
+* 1:55 - Bryana Knight
+* 2:10 - (break)
+* 2:20 - Nathaniel Watts
+* 2:35 - Jonah Moses
+* 2:50 - Magan Adam
+
+### With Jorge in the Perch
+
+* 1:10 - Louisa Barrett
+* 1:25 - Ben Lewis
+* 1:40 - Lauren Spath Luhring
+* 1:55 - Ben Horne
+* 2:10 - (break)
+* 2:20 - Antony Siegert
+* 2:35 - Romeeka Gayhart
+* 2:50 - Will Mitchell

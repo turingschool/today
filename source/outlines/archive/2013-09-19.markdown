@@ -1,0 +1,33 @@
+---
+title: 130919
+layout: outline
+---
+
+## Daily Outline
+
+Today we will split into 3 groups and work all day.
+
+There's a good chance that you will not be working with your pair today, and that's totally fine.
+
+## Group 1: Refactoring with Franklin (9-12), Self-Directed (1-4)
+
+If you've finished EventReporter or have more or less finished it, then you will spend the day with Franklin refactoring and working on better ways of solving it.
+
+In the afternoon you're on your own. You may want to dive into git:
+
+* [Think Like a Git](http://think-like-a-git.net)
+* [Git Immersion](http://gitimmersion.com)
+
+Whatever you think will help you move forward.
+
+## Group 2: On your own
+
+If you're not done with EventReporter but you're making progress, keep working throughout the day. Jorge is available to answer questions.
+
+## Group 3: Fundamentals with Katrina
+
+If EventReporter is not making sense, or you feel that you're either not making progress, or are stuck, or that working on EventReporter is pointless -- Katrina will spend the day with you going over fundamentals.
+
+9:00-12:00 (Classroom)
+1:00-1:00 (Classroom)
+2:00-4:00 (The Perch)

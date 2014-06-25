@@ -1,0 +1,60 @@
+---
+title: 131111
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview
+* Simplifying Controllers (9:30 AM to 12:00 PM) 
+* Reading Group (1:00 PM to 2:00 PM) 
+* Half, not Half-Assed (2:00 PM to 3:00 PM)
+* Dinner Dash Work Time (3:00 PM to 4:00 PM)  
+
+## Weekly Preview
+
+* Git for Hipsters with Tim Berglund
+* Effective Rails Models
+* Rails Views Tips and Techniques
+* Peer & Instructor Reviews
+* Dinner Dash Demos
+* Code Retreat at iTriage
+
+## Simplifying Controllers (9:30 AM to 12:00 PM)
+
+* What is the job of the controller? (Trick question: it has a dozen jobs)
+* [Tracks](https://codeclimate.com/github/JumpstartLab/tracks/code?q=Controller) at CodeClimate
+* [Filters](http://tutorials.jumpstartlab.com/topics/controllers/filters.html)
+* [Sessions](http://tutorials.jumpstartlab.com/topics/controllers/sessions_and_conversations.html)
+
+## Reading Group (1:00 PM to 2:00 PM) 
+
+This week, as you're just getting started with your Rails text, let's spend the whole hour in your small groups.
+
+Work together to:
+
+* **check-in** on reading progress and deliverables
+* **set goals** for the coming week
+* **discuss** parts that were particularly confusing or illuminating
+
+### Groups
+
+* "Ruby on Rails 4 Guide" - Bree, Louisa, Antony, Adam, Bryana, Persa, Darryl
+* "Rails 4 Tutorial" Group A - George, Tyler, Ben H., Billy, Brian, Jonah
+* "Rails 4 Tutorial" Group B - Lauren, Katrina, Luke, Nikhil, Kevin
+* "Rails View" - Ben L, Meeka, Quentin, Rolen, Nathaniel
+* "RESTful Web Services" - Simon, Will
+
+## Half, not Half-Assed (2:00 PM to 3:00 PM)
+
+* The Agile Manifesto: http://agilemanifesto.org/
+* Half, not Half-Assed: http://gettingreal.37signals.com/ch05_Half_Not_Half_Assed.php
+* Four Steps to the Epiphany: http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507
+* The Lean Startup: http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898
+
+## Dinner Dash Project Check-In & Work Time (3:00 PM to 4:00 PM)
+
+First, please complete the following survey by 3:30 -- https://docs.google.com/forms/d/168ZGdUOLXcnp2ztUHcmpIe-qL9f2maPiPfuSPLR5r1U/viewform
+
+Then, get work done with your project group. 

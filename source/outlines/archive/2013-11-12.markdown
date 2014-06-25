@@ -1,0 +1,12 @@
+---
+title: 131112
+layout: outline
+---
+
+## Daily Outline
+* Warmup
+* Git for Hipsters with Tim Berglund (9:00 AM to 12:00 PM) 
+* Dinner Dash Work Time (1:00 PM to 4:00 PM) 
+
+## Git for Hipsters with Tim Berglund (9:00 AM to 12:00 PM) 
+## Dinner Dash Work Time (1:00 PM to 4:00 PM)  

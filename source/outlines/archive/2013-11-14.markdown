@@ -1,0 +1,130 @@
+---
+title: 131114
+layout: outline
+---
+
+## Peer Reviews 09:00 AM to 10:30 AM 
+
+First up let's get together in pairs. 
+
+During Session A look at the first person's project. During Session B, look at the second person's project.
+
+#### Pairings
+
+* Tyler Long & Darryl Pequeen
+* Antony Siegert & Will Mitchell
+* Magan Adam & Rolen Le
+* Kevin Powell & Jonah Moses
+* Bree Thomas & Ben Horne
+* Lauren Spath Luhring & Louisa Barrett
+* Brian Winterling & Bryana Knight
+* Romeeka Gayhart & Ben Lewis
+* Nikhil Taneja & Persa Zula
+* Simon Taranto & Katrina Englestad
+* Nathaniel Watts & George Hudson
+* Luke Martinez & Billy Griffin
+
+Use these questions to guide your exploration together:
+
+### User Perspective
+
+* How does the code work from the user perspective? 
+* What functionality is available?
+* How does the user interface handle unusual cases? Try things like adding an item with a negative price, visiting the cart / checking out when no items have been added, etc.
+
+### Security
+
+How does the application respond when you...
+
+* Modify the URL to view an order belonging to another user
+* Try to adjust the quantity of an item in the cart to a negative number
+* Try to view the user details for another user
+* Try to access admin functionality as a non-admin user
+* Create an account with a blank password
+
+### Automated Tests
+
+* Run the tests. Are there many or just a few? Do they all pass?
+* Are there "feature" or "acceptance" tests that mimic the user? 
+* Do they test the important features of the interface?
+* Are there "unit" tests that interact with just a single model? 
+* Do they test both the "happy path" and possible error cases?
+
+### Rails
+
+* Take a look at the `routes.rb`. Are there a lot of unnecessary routes or complication?
+* Look at the important view templates. Is there a lot of logic there? `if` statements? Reaching down to the database?
+* Look at the controllers. Do they push responsibilities down to the model? Do they handle interactions in a secure way?
+
+### Ruby
+
+* Look at the models. Do they wrap ActiveRecord well? Implement the important business logic?
+* Is the code well written and clear?
+* Are the methods short and well named?
+
+## Instructor Feedback Sessions (10:30-12:00)
+
+For this session project groups **do not** need to stay together.
+
+At the end of this session, pick work pairs for the afternoon. From 1:00-3:00, you and this pair will work on improving the project your group looked at this morning (**not** your own project).
+
+It'd be *awesome* to submit one or more pull requests to the original project.
+
+### Focus on Testing
+
+If you'd like to dive into a project's tests and look at what went right and wrong, join Jeff in the classroom.
+
+### Clean Controllers
+
+Struggling to simplify controllers and encapsulate logic down at the model layer? Join Katrina in at the instructor desks.
+
+### Open Study
+
+Neither session particularly appeals to you? Learn some things in peer review that you're itching to try out? During this session you can work on your own with the following conditions:
+
+* you work with at least one other person
+* you work on a project **that is not yours**
+* you submit a pull request to that project today
+
+## Revisit and Refactor (1:00 PM to 3:00 PM)
+
+Get together with your pair from the Instructor Review session and refactor the sample project.
+
+## Group Retrospective (3:00 to 4:00)
+
+Get together with your project group and discuss/reflect on the following topics:
+
+* How was the work load shared? Was that the right mix? Why/why not?
+* How much of your intended scope did you complete? Should your pace have been faster or slower? Expectations higher or lower?
+* What unexpected hurdles did you run into? How would you anticipate these in the future?
+* What was great and challenging about working with each member of the group?
+* What will you want to do the same and differently in your next group?
+
+## Demo Prep 04:00 PM to 05:00 PM 
+
+Meet back in the classroom at 4:00 to discuss the plan for demos.
+
+### What You Need to Know
+
+* Demo should be about 5-7 minutes
+* You'll run it from our computer, not yours
+* We intend to live stream / record the session
+* Everyone in the group should participate
+* Add your group's details, or remove yourself, from the outline: https://github.com/JumpstartLab/curriculum/blob/master/source/events/gschool-1/dinner_dash.markdown
+
+### Demo Room Setup
+
+* Tables pulled out and put next to the stairs (where the coat racks typically are)
+* Chairs setup
+* Screen, projector, audio equipment transported downstairs
+* Screen, projector, and audio equipment setup
+
+### Building a Demo
+
+* Quickly introduce yourselves
+* Explain why you built the project, what were your inspirations
+* Go through the essential customer workflow (browse menu, add items, check out)
+* Flip to the admin side and show off that functionality
+* Any stand-out extra features?
+* Show off parts of the code that you're particularly proud of or were particularly challenging
+* Let the audience ask two questions

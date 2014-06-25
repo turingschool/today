@@ -1,0 +1,113 @@
+---
+title: 130916
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview
+* Automated Testing Concepts
+* Introduction to Minitest
+* Getting Started with Git
+* Reading Group
+* EventReporter Kickoff
+
+## Weekly Preview
+
+* Monday: 
+  * Jeff, Frank, Jorge
+  * Minitest & Git
+  * EventReporter Kickoff
+* Tuesday: Jeff, Katrina, Frank, Jorge
+  * EventReporter Work Time
+  * Ruby Collections
+  * Intro to Exercism
+* Wednesday: 
+  * Jeff, Katrina, Frank, Jorge
+  * Exercism Exercise Walk-Through
+  * Fundamental Debugging
+  * EventReporter Work Time
+* Thursday: 
+  * Katrina, Frank, Jorge
+  * Finishing EventReporter
+  * Peer Feedback
+  * Instructor Feedback
+* Friday: 
+  * Katrina, Frank
+  * Retrospective
+  * Focus Sessions
+  * 1-on-1s and Self-Directed Work
+
+## Automated Testing Concepts
+
+* Why do we write tests?
+* What does a test look like?
+* How and when do tests get run?
+* What's the difference between "test after", "test first", and "test driven"?
+* What kinds of things are easy to test, and what are hard?
+
+## Intro to MiniTest
+
+It's time to revisit [EventManager project](http://tutorials.jumpstartlab.com/projects/eventmanager.html), except this time you're going to use automated testing with a library named MiniTest.
+
+Follow the [TDD with MiniTest and EventManager](http://tutorials.jumpstartlab.com/academy/workshops/testing_event_manager.html) tutorial to get going. 
+
+Complete this re-implementation as you have time available **this week**.
+
+### Get 'er Done!
+
+As much as possible, we want to see you implement this project on your own while using automated tests as your guide.
+
+## Getting Started with Git
+
+Visit http://try.github.io/ and work through the exercises to learn the fundamentals of Git.
+
+## Reading Group
+
+Today let's discuss The Passionate Programmer that you read in preparation for the class. Get together in the following groups:
+
+* Bryana Knight, Ben Lewis, Kevin Powell, George Hudson
+* Lauren Spath Luhring, Rolen Le, Nikhil Taneja, Romeeka Gayhart
+* Antony Siegert, Magan Adam, Bree Thomas, Brian Winterling
+* Luke Martinez, Will Mitchell, Darryl Pequeen, Louisa Barrett
+* Nathaniel Watts, Quentin Tai, Tyler Long, Jonah Moses
+* Simon Taranto, Persa Zula, Ben Horne, Billy Griffin, Katrina Englestad
+
+Spend the hour discussing the book including some of the following questions:
+
+* Was there a tip that rung true with your past experience in a field other than programming? How was it similar?
+* Was there a tip that you disagreed with? How/why?
+* Some of the tips seem obvious, but what was one that surprised you?
+* Which tip would be the hardest for you to implement and why? What systems/support can you use to make it work?
+* Do you think there's a difference between being a "coder", a "programmer", a "developer", and an "architect"? What kind of role is the author pushing you towards? What do you actually want to be?
+* Endurance athletes are at their peak after age 30. What age range do you think is the peak performance for programmers? How do the author's tips inform your thinking?
+* Do you know another spoken language besides English? If not, why? If so, how does it affect/inform/degrade your English? How do you think this relates to programming languages?
+* What's the over-arching message of The Passionate Programmer?
+* What lessons from the book can you apply to your work in our program?
+* Soon you'll be trying to evaluate companies and deciding if they're the right fit for you. What are some aspects, tied to the book, that you'll look for in their style and culture?
+* What technique from the book have you meant to be doing, but aren't doing  regularly/effectively? Why not? Can you change?
+* Many of you will, eventually, become the leaders of technical teams or companies. What tips from the book would you try to apply at an organizational level?
+* What's the one tip that will really stick with you, and why?
+* What's one that you wish you knew/followed five years ago? What would be different?
+
+## EventReporter Kickoff
+
+This week you need to complete the EventReporter project available at http://tutorials.jumpstartlab.com/projects/event_reporter.html 
+
+Each student is expected to write and submit their own work, but you should collaborate with a partner and fellow students for help and advice. Here are random partnerships for you:
+
+* Ben Lewis and Persa Zula
+* Darryl Pequeen and Rolen Le
+* Luke Martinez and Louisa Barrett
+* Brian Winterling and George Hudson
+* Will Mitchell and Tyler Long
+* Simon Taranto and Katrina Englestad
+* Nikhil Taneja and Nathaniel Watts
+* Kevin Powell and Bryana Knight
+* Bree Thomas and Jonah Moses
+* Antony Siegert and Quentin Tai
+* Ben Horne and Lauren Spath Luhring
+* Magan Adam, Billy Griffin and Romeeka Gayhart
+
+The project is due at 11am on Thursday 9/19.

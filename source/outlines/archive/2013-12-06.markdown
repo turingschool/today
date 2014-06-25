@@ -1,0 +1,79 @@
+---
+title: 131206
+layout: outline
+---
+
+## Daily Outline
+
+* 9AM - Retrospective
+* 10AM - Lightning Talks
+* 11AM - Guests: Cory & Levi from SupportLocal
+* Afternoon - 1-on-1s and flex time
+
+## Retrospective
+
+### Personal Retrospective 9:00-9:30
+
+Spend 30 minutes writing and publishing a personal retrospective on your class blog including:
+
+* For this project, groups are taking a more serious approach to project management. How does that work with your style? Does it make you feel more organized or like you're wasting a lot of time?
+* What's been hard, interesting, or surprising about building upon someone else's code base?
+* With the class just past the halfway mark, how do you feel about your progress? Do you feel like your momentum is building or waning?
+* What did you think about the Young Entrepreneurs project we kicked off yesterday?
+
+Please come back to the classroom by 9:35.
+
+### Group Retro
+
+* Sharing
+* YE Project
+* Fourth Meal progress
+* Open topics
+* Shout-outs
+
+## Guests: Cory & Levi from SupportLocal 11:00 AM to 12:00 PM 
+
+* [Go](http://golang.org/)
+* [Denver Go User Group](http://www.meetup.com/Denver-Go-Language-User-Group/)
+* [SupportLocal](http://www.supportlocal.com/)
+* Levi Cook: [Twitter](https://twitter.com/levicook), [Github](https://github.com/levicook), [LinkedIn](http://www.linkedin.com/profile/view?id=5222361&authType=NAME_SEARCH&authToken=R3ec&locale=en_US&srchid=405871601386346429899&srchindex=1&srchtotal=11&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A405871601386346429899%2CVSRPtargetId%3A5222361%2CVSRPcmpt%3Aprimary)
+* Cory LaNou: [Twitter](https://twitter.com/corylanou), [Github](https://github.com/corylanou), [LinkedIn](http://www.linkedin.com/in/corylanou)
+
+## 1-on-1s
+
+### With Jeff in the Perch
+
+* 12:30 - Ben Lewis
+* 12:45 - Nikhil Taneja
+* 1:00 - Will Mitchell
+* 1:15 - Ben Horne
+* 1:30 - Antony Siegert
+* 1:45 - Luke Martinez
+* 2:15 - Jonah Moses
+* 2:30 - Katrina Engelsted
+* 2:45 - Romeeka Gayhart
+* 3:00 - Nathaniel Watts
+* 3:15 - Louisa Barrett
+* 3:30 - Rolen Le
+* 3:45 - George Hudson
+
+### With Jorge in The Nook
+
+* 12:30 - Bryana Knight
+* 12:45 - Quentin Tai
+* 1:00 - Kevin Powell
+* 1:15 - Brian Winterling
+* 1:30 - Lauren Spath Luhring
+* 1:45 - Tyler Long
+* 2:15 - Magan Adam
+* 2:30 - Darryl Pequeen
+* 2:45 - Simon Taranto
+* 3:00 - Persa Zula
+* 3:15 - Bree Thomas
+* 3:30 - Billy Griffin
+
+## Flex Time
+
+When you're not in 1-on-1s, work on something of your choosing which may (today) include your project.
+
+*If* you work on your project, it'd be ideal to spend the time on the more challenging aspects. What are the parts you don't understand? Are there new technologies or libraries you want to integrate?

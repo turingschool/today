@@ -1,0 +1,28 @@
+---
+title: 140211
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup 8:30-9:00
+* String Manipulation Review 9:00-10:30
+* Project Work Time 10:30+
+
+## Warmup
+
+For warmup this morning, let's throw it way back to the LSAT. Complete the following problem:
+
+https://www.dropbox.com/s/mwwl4m5842wnpmr/lsat_68_4_3.pdf
+
+At 8:55, someone please setup answer voting on the whiteboards. Based on how much disagreement there is, we may or may not work through the problem during warmup tomorrow.
+
+## String Manipulation Review
+
+Next up, work with Jorge/Katrina to solve numbers 4, 5, and 6 from the weekend's challenges:
+
+https://github.com/JumpstartLab/problem_solving/blob/master/problems/exercise_1.markdown
+
+## Project Work Time
+
+This is your last full day to get the project written before the technical reviews tomorrow afternoon.

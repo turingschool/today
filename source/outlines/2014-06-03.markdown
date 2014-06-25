@@ -1,0 +1,68 @@
+---
+title: 140603
+layout: outline
+---
+
+Today we're getting the ball rolling with Ruby programming.
+
+### Warmup (8:30-9:00)
+
+Complete the following logic exercise for today's warmup:
+
+http://cl.ly/3W390s2H2H0m
+
+You should be able to find the printer on the wifi network if you'd like to print it out.
+
+### Warmup Review (9:00-9:30)
+
+Josh will work through the warmup problem with the group.
+
+### Intro to OS X & Terminal (9:30-10:00)
+
+Josh will review some of the essential tools you need to use the MacOS Terminal.
+
+http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html
+
+### Ruby in 100 Minutes (10:00 - noon)
+
+Next up Jorge will kick off Ruby in 100 Minutes:
+
+http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+
+#### Working in Pairs
+
+You'll then work together in pairs to complete the tutorial:
+
+* Emily Davis & Corey Davis
+* Hillary Denton & Jessica Goulding
+* Gustavo Villagrana & Chad Brading
+* Horacio Chavez & Marc Garreau
+* Tan Doan & Robert Gu
+* Tim Proctor & Eric Fransen
+* Andy Mention & Andrew Watkins
+* Alan Smith & Cara Dennis
+* Jonmichael Chambers & Allison Larson & Will Faurot
+
+### Intro to TDD (1pm-4pm)
+
+#### At a High Level
+
+Josh will go over some of the high-level concepts of software testing:
+
+http://tutorials.jumpstartlab.com/topics/testing/testing_fundamentals.html
+
+#### Exercises
+
+This afternoon Jorge will kickoff Intro to TDD and you'll work with a pair:
+
+http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html
+
+* Chad Brading & Eric Fransen
+* Alan Smith & Corey Davis
+* Tim Proctor & Will Faurot
+* Allison Larson & Hillary Denton
+* Andrew Watkins & Jessica Goulding
+* Horacio Chavez & Emily Davis
+* Andy Mention & Cara Dennis
+* Tan Doan & Jonmichael Chambers
+* Marc Garreau & Gustavo Villagrana & Robert Gu

@@ -1,0 +1,48 @@
+---
+title: Sales Engine Review
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Peer Sessions
+* Instructor-Driven Sessions
+
+## Peer-Review Morning
+
+Please get together in the following pairs:
+
+* Ben Lewis and Billy Griffin
+* Darryl Pequeen and Romeeka Gayhart
+* Luke Martinez and Rolen Le
+* Brian Winterling and Louisa Barrett
+* Will Mitchell and George Hudson
+* Simon Taranto and Tyler Long
+* Nikhil Taneja and Katrina Englestad
+* Kevin Powell and Nathaniel Watts
+* Bree Thomas and Bryana Knight
+* Antony Siegert and Jonah Moses
+* Ben Horne and Quentin Tai
+* Magan Adam, Lauren Spath Luhring and Persa Zula
+
+And spend the morning *exploring*, *discussing*, and *improving* each other's code. *Use pomodoros* to keep you on a good track. For *each* codebase, you should focus on questions like:
+
+* What's one area of the code that's particularly strong? Do you feel that way because of the complexity it handles or the simplicity of the solution?
+* What's an area of particular ugly? Does it work? What are some ways it could be improved or redesigned?
+* What parts of the project are still confusing? Are there pieces where you got something working, but don't understand why?
+* Are there parts that are overly "cute", where a simpler long solution would be easier to understand than a shorter, complicated one?
+* How did the testing go? Is there good test coverage? Assuming the tests are passing, try changing a line of code (like an `if` to an `unless` and an `any?` to an `all?`) and see if tests fail.
+* Run `rake sanitation:lines` and `rake sanitation:methods` to get some feedback on the code structure. Pick a few complaints and fix them up!
+
+## Afternoon with Instructors
+
+This afternoon you'll close out the project with one last session 1pm-4pm:
+
+* If you felt unsuccessful with the project, meet with Katrina in the classroom to continue the work started with Jeff yesterday. You can pickup where we left off by cloning the repo: https://github.com/gSchool/sales_engine_from_the_ground_up
+* If you felt successful with the project, meet with Frank in the War Room to look at optimizations and refactorings
+* If you were somewhere in the middle and want to tackle questions / continue work from the morning, work down in the Pit with Jorge
+
+## Happy Hour!
+
+About 4:30 we'll kick off happy hour, Kirsten will have some drink tickets for Gather.

@@ -1,0 +1,60 @@
+---
+title: JS Intro
+layout: outline
+---
+
+## Daily Outline
+
+* Warmup
+* Weekly Preview
+* Where JavaScript Comes From 9:30 AM to 10:30 AM
+* JS Inside and Outside a Browser 10:30 AM to 12:00 PM 
+* Fundamental Syntax & Style 1:00 PM to 3:00 PM 
+* Reading Group 3:00 PM to 4:00 PM
+* Lightning Talk Kickoff 4:00 PM
+
+## Weekly Preview
+
+* JavaScript Week
+* Jasmine & TDD with JavaScript
+* JQuery
+* JavaScript, HTTP, and JSON
+* Connecting JavaScript & Rails
+* Lightning Talks
+
+## Where JavaScript Comes From 9:30 AM to 10:30 AM
+
+http://tutorials.jumpstartlab.com/topics/javascript/history.html
+
+## JS Inside and Outside a Browser 10:30 AM to 12:00 PM
+
+### Inside the Browser
+
+http://tutorials.jumpstartlab.com/projects/javascript/introduction/1-javascript-in-the-page.html
+
+### Outside the Browser
+
+http://tutorials.jumpstartlab.com/topics/javascript/outside_the_browser.html
+
+## Fundamental Syntax & Style 1:00 PM to 3:00 PM
+
+This afternoon please work through the Codecademy exercises that introduce you to the fundamental syntax of JavaScript:
+
+http://www.codecademy.com/tracks/javascript
+
+## Reading Group 3:00 PM to 4:00 PM
+
+The final push for your intro-Rails reading group. Get together with your group and check:
+
+* How's progress?
+* Are the deliverables coming together?
+* How does the trajectory look for the last week?
+* Are there any areas of confusion / discussion?
+
+Come back to the room at 3:45 to select your next book.
+
+## Lightning Talk Kickoff 4:00 PM
+
+Please meet at 4PM to brainstorm Lightning Talk topics for this week: 
+
+Tyler Long, Antony Siegert, Brian Winterling, Persa Zula, Nikhil Taneja, Bree Thomas, Romeeka Gayhart

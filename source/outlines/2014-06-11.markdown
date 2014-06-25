@@ -1,0 +1,48 @@
+---
+title: 140611
+layout: outline
+---
+
+## Warmup
+
+This morning let's try an infamous (but stupid) interview problem:
+
+* Go through the numbers 0 through 100 (including both 0 and 100)
+* If the number is divisible by 3, print "Fizz"
+* If the number is divisible by 5, print "Buzz"
+* If the number is divisible by both 3 and 5, print "FizzBuzz"
+* Otherwise print the number
+
+## Getting Started with CSVs
+
+### Discussion (9:00-9:30)
+
+First up, Jeff will give you an introduction to CSV files:
+
+* What is a CSV?
+* Where do they come from?
+* Why are they used?
+* Do we really need to know this?
+* It's about data, not CSVs
+
+### Practice (9:30-4:00)
+
+We have a *stack* of CSV tutorials to work through in the next week or so. Today we'll start with Part 1:
+
+http://tutorials.jumpstartlab.com/academy/workshops/csv/i.html
+
+This will likely take you the rest of the day. If you were to finish early, pick off a few more of your enumerable exercises.
+
+### Work Groups
+
+Please work in the following groups:
+
+* Tim Proctor & Alan Smith
+* Andy Mention & Horacio Chavez
+* Jessica Goulding & Chad Brading
+* Gustavo Villagrana & Marc Garreau
+* Allison Larson & Will Faurot
+* Eric Fransen & Robert Gu
+* Andrew Watkins & Jonmichael Chambers
+* Corey Davis & Cara Dennis
+* Tan Doan & Emily Davis & Hillary Denton
