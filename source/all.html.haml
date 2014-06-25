@@ -1,0 +1,8 @@
+.mod-outline
+  .layout-inner-wrap
+    .col-article
+      %h1 All Outlines
+
+      %ul
+      - sitemap.resources[0..100].each do |resource|
+        %li= link_to resource.path, resource.path

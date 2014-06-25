@@ -28,7 +28,11 @@ For example:
 
 Let's discuss REPLs and the essential tools you need to build one:
 
+<<<<<<< HEAD
 * Defining a class versus executing code
+=======
+* Defining a class versus executing code
+>>>>>>> 779fb000e6e2094c9b1b01d9bacc0f93dcdfcab8
 * Using a `while` loop
 * Using `gets`
 * Gotchas with `gets`
