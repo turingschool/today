@@ -1,0 +1,53 @@
+---
+title: 140626
+layout: outline
+---
+
+## Submission
+
+Using the online editor was a bit rough last week. This time I'd prefer if
+you'd clone the submissions repo down locally, make your changes, push, then
+submit a pull requests.
+
+[Find the submissions repo here](https://github.com/turingschool/ruby-submissions/).
+
+## Evaluations (1:00-3:30)
+
+This afternoon your first priority is evaluations on the following schedule:
+
+### With Jorge
+
+* 1:00 - Will Faurot & Hilary Denton
+* 1:30 - Corey Davis & Emily Davis
+* 2:00 - Chad Brading & Robert Gu
+* 2:30 - Jonmichael Chambers & Alan Smith
+* 3:00 - Allison Larson & Tim Proctor
+
+### With Jeff
+
+* 1:00 - Jessica Goulding & Eric Fransen
+* 1:30 - Cara Dennis & Gustavo Villagrana
+* 2:00 - Andrew Watkins & Horacio Chavez
+* 2:30 - Tan Doan & Andy Mention & Marc Garreau
+
+## Arduino Experiments
+
+Today when you're not doing your evaluation, please get together in the
+pairs below and follow along with the Arduino kit tutorial books to build
+some things using Arduino's flavor of C.
+
+### Pairings
+
+* Will Faurot & Jessica Goulding
+* Hilary Denton & Eric Fransen
+* Corey Davis & Cara Dennis
+* Emily Davis & Gustavo Villagrana
+* Chad Brading & Andrew Watkins
+* Robert Gu & Horacio Chavez
+* Jonmichael Chambers & Tan Doan
+* Allison Larson & Alan Smith
+* Tim Proctor & Andy Mention & Marc Garreau
+
+## EventReporter Showcase (3:30-4:00)
+
+Let's spend a few minutes to check out interesting features or nuances that people build into their game.
