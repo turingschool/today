@@ -1,71 +1,53 @@
 ---
-title: 140625
+title: 140626
 layout: outline
 ---
 
-## Retrospective
+## Submission
 
-### Individual (9:00-9:30)
+Using the online editor was a bit rough last week. This time I'd prefer if
+you'd clone the submissions repo down locally, make your changes, push, then
+submit a pull requests.
 
-Start a new retro file and work on writing about some of the following topics:
+[Find the submissions repo here](https://github.com/turingschool/ruby-submissions/).
 
-* EventReporter: What did you think about pairing with the same person for a
-whole week? What were the plusses and minuses? Do you think you carried your weight?
-Were you a good person to work with?
-* As you go into your first 10-day project next week, what will you try to do the
-same and what will you try to do differently?
-* We're four weeks in as of today, 23 left. Are you on a pace you can sustain?
-Are you managing your schedule effectively? What outside factors will influence
-your success?
+## Evaluations (1:00-3:30)
 
-### Group (9:35-10:00)
-
-## Revisiting the Object Model
-
-This morning we welcome back Josh who will lead another conversation about the
-Ruby object model.
-
-## Posse Meetings (11:00-noon)
-
-Then get together with your posse and setup Exercism:
-
-http://exercism.io
-
-Start out on the Ruby version of "Bob" and get it submitted by the end of the weekend.
-
-## Afternoon (1:00-4:00)
-
-When you're not in 1-on-1s this afternoon, revisit some piece of our past work
-or Ruby itself that's giving you trouble. You're strongly encouraged to work with
-at least one other person.
-
-### 1-on-1s
-
-### With Jeff
-
-
-* 1:00 - Tan Doan
-* 1:20 - Chad Brading
-* 1:40 - Robert Gu
-* 2:00 - Alan Smith
-* 2:20 - Horacio Chavez
-* 2:40 - Allison Larson
+This afternoon your first priority is evaluations on the following schedule:
 
 ### With Jorge
 
-* 1:00 - Eric Fransen
-* 1:20 - Hillary Denton
-* 1:40 - Marc Garreau
-* 2:00 - Andrew Watkins
-* 2:20 - Will Faurot
-* 2:40 - Jessica Goulding
+* 1:00 - Will Faurot & Hilary Denton
+* 1:30 - Corey Davis & Emily Davis
+* 2:00 - Chad Brading & Robert Gu
+* 2:30 - Jonmichael Chambers & Alan Smith
+* 3:00 - Allison Larson & Tim Proctor
 
-### With Josh
+### With Jeff
 
-* 1:00 - Andy Mention
-* 1:20 - Emily Davis
-* 1:40 - Cara Dennis
-* 2:00 - Corey Davis
-* 2:20 - Tim Proctor
-* 2:40 - Gustavo Villagrana
-* 3:00 - Jonmichael Chambers
+* 1:00 - Jessica Goulding & Eric Fransen
+* 1:30 - Cara Dennis & Gustavo Villagrana
+* 2:00 - Andrew Watkins & Horacio Chavez
+* 2:30 - Tan Doan & Andy Mention & Marc Garreau
+
+## Arduino Experiments
+
+Today when you're not doing your evaluation, please get together in the
+pairs below and follow along with the Arduino kit tutorial books to build
+some things using Arduino's flavor of C.
+
+### Pairings
+
+* Will Faurot & Jessica Goulding
+* Hilary Denton & Eric Fransen
+* Corey Davis & Cara Dennis
+* Emily Davis & Gustavo Villagrana
+* Chad Brading & Andrew Watkins
+* Robert Gu & Horacio Chavez
+* Jonmichael Chambers & Tan Doan
+* Allison Larson & Alan Smith
+* Tim Proctor & Andy Mention & Marc Garreau
+
+## EventReporter Showcase (3:30-4:00)
+
+Let's spend a few minutes to check out interesting features or nuances that people build into their game.
