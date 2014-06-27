@@ -5,6 +5,8 @@ layout: outline
 
 ## Warmup
 
+Let's do a warmup.
+
 ## Introducing SalesEngine
 
 ## SalesEngine Planning & Design
