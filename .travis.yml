@@ -2,10 +2,3 @@ rvm:
 - 2.1.1
 script: bundle exec middleman build
 env: TEST=true
-deploy:
-  provider: heroku
-  api_key:
-    secure: S0H5Ii7pWhUklBn+qDKG/CvGzR3ROaCFVIcvhBR1104tgeX2VQ1ycvN4e2oSg1VuQAudQIwOOdmTNEaBCxPSFz8CIOxiCkCmZaaVV2fqJtDzAEyIhw2mJeX4T1Rw9hbcQcqusPg1adYJhBS0tTgdtU6bxYMXEeB4BYwSCPmB/mI=
-  app: turing-today
-  on:
-    repo: turingschool/today
