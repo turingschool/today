@@ -6,3 +6,11 @@ layout: outline
 ## Warmup
 
 ## Introducing SalesEngine
+
+## SalesEngine Planning & Design
+
+### In Pairs
+
+### All Together
+
+## Project Work Time
