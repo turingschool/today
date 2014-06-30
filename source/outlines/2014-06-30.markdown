@@ -1,5 +1,6 @@
 ---
 title: 140630
+layout: outline
 ---
 
 ## Warmup
@@ -8,7 +9,11 @@ For warmup today, please continue working on your next Exercism exercise.
 
 ## Introducing SalesEngine
 
-## SalesEngine Planning & Design
+### Overview (9:00-9:30)
+
+http://tutorials.jumpstartlab.com/projects/sales_engine.html
+
+### SalesEngine Planning & Design
 
 ### In Pairs
 
