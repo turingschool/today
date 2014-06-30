@@ -1,0 +1,18 @@
+---
+title: 140630
+layout: outline
+---
+
+## Warmup
+
+This morning please complete the Leap exercise from Exercism. Get it with `exercism fetch ruby/leap`
+
+## Getting Started with Guard (9:00-10:30)
+
+Let's use this morning's warmup to learn about using Guard. [Open up this tutorial](http://tutorials.jumpstartlab.com/topics/guard.html).
+
+## Minitest Techniques (10:30-12:00)
+
+## Project Work Time (1:00-4:00)
+
+This afternoon keep rolling on your SalesEngine project.
