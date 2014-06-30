@@ -1,9 +1,10 @@
 ---
+title: 140630
 ---
 
 ## Warmup
 
-Let's do a warmup.
+For warmup today, please continue working on your next Exercism exercise.
 
 ## Introducing SalesEngine
 
