@@ -5,7 +5,7 @@ layout: outline
 
 ## Warmup
 
-For warmup today, please continue working on your next Exercism exercise.
+For warmup today, please continue working on your next Exercism.io exercise.
 
 ## Introducing SalesEngine
 
