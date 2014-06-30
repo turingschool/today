@@ -11,12 +11,23 @@ For warmup today, please continue working on your next Exercism exercise.
 
 ### Overview (9:00-9:30)
 
+First up, let's take a look at the SalesEngine assignment and timeline:
+
 http://tutorials.jumpstartlab.com/projects/sales_engine.html
 
-### SalesEngine Planning & Design
+The project is due at 9am on Thursday, July 10th.
 
-### In Pairs
+### Discussion In Small Groups (9:30-11:00)
 
-### All Together
+Get together in the following groups to discuss, dissect, and plan the
+project:
 
-## Project Work Time
+### All Together (11:00-12:00)
+
+Then let's get back together to answer question, discuss strategy, and highlight
+potential pitfalls.
+
+## Project Work Time (1:00-4:00)
+
+This afternoon get a good start to your project. Remember the lessons you
+learned in the last project and what you strove to improve this time.
