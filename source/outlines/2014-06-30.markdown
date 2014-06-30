@@ -13,7 +13,7 @@ For warmup today, please continue working on your next Exercism exercise.
 
 First up, let's take a look at the SalesEngine assignment and timeline:
 
-http://tutorials.jumpstartlab.com/projects/sales_engine.html
+[SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
 
 The project is due at 9am on Thursday, July 10th.
 
