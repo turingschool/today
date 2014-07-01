@@ -5,7 +5,7 @@ layout: outline
 
 ## Warmup
 
-This morning please complete the Leap exercise from Exercism. Get it with `exercism fetch ruby/leap`
+This morning please complete the Kindergarten Garden exercise from Exercism. Get it with `exercism fetch ruby/kindergarten-garden`
 
 ## Getting Started with Guard (9:00-10:30)
 
