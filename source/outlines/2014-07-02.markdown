@@ -12,6 +12,8 @@ try to complete at least the first group of tests (up through Alice/Bob/Charlie)
 
 Next up Josh will work with you on the Object Lifecycle.
 
+Material for today's sessions is [here](https://gist.github.com/JoshCheek/30b0b6dca1c702862f92).
+
 ## Instantiating and Tracking Objects (10:00-11:00)
 
 ## Connecting Repositories and Instances (11:00-12:00)
