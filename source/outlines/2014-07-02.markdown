@@ -1,0 +1,25 @@
+---
+title: 140702
+layout: outline
+---
+
+## Warmup
+
+This morning please return to your Kindergarten Garden from yesterday and
+try to complete at least the first group of tests (up through Alice/Bob/Charlie).
+
+## Object Lifecycle (9:00-10:00)
+
+Next up Josh will work with you on the Object Lifecycle.
+
+## Instantiating and Tracking Objects (10:00-11:00)
+
+## Connecting Repositories and Instances (11:00-12:00)
+
+Jeff will work with you on high level modeling for SalesEngine.
+
+We'll work to answer this question: how much has a customer spent at a store?
+
+## Project Work Time (1:00-4:00)
+
+You have this afternoon to keep pushing forward on your project.
