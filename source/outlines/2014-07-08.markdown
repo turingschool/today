@@ -5,6 +5,8 @@ layout: outline
 
 ## Assessments
 
+[See the assignment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+
 ### With Jeff
 
 * 1:00 - Emily Davis
