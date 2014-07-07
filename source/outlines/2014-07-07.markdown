@@ -3,6 +3,11 @@ title: 140707
 layout: outline
 ---
 
+## Warmup
+
+For Warmup, please continue working on your most recent in-progress Exercism
+challenge.
+
 ## Assessments
 
 [See the assignment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
@@ -23,3 +28,16 @@ layout: outline
 * 1:00 - Tan Doan
 * 1:40 - Allison Larson
 * 2:20 - Andy Mention
+
+## Project Work
+
+Take a few minutes to, as a group, evaluate:
+
+* where you are right now
+* where you expected to be
+* what's left to do
+* what work time you have available
+* when you expect to get things done
+* who will do what
+
+Then push forward.
