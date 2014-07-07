@@ -8,6 +8,14 @@ layout: outline
 For Warmup, please continue working on your most recent in-progress Exercism
 challenge.
 
+## Hi, Rachel
+
+Today we welcome our newest team member, Rachel Warbelow. You can find her here:
+
+* [Twitter](https://twitter.com/rwarbelow)
+* [Blog](http://rachelwarbelow.com/)
+* [GitHub](https://github.com/rwarbelow)
+
 ## Assessments
 
 [See the assignment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
