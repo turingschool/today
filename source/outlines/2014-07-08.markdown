@@ -3,6 +3,57 @@ title: 140707
 layout: outline
 ---
 
+## Warmup
+
+Today let's talk about real estate:
+
+http://cl.ly/2K1Y082i350U
+
+## Visualizing Enumerable Methods
+
+From what we've seen in assessments and projects, there's still confusion about
+variou enumerable methods. This morning let's take a different look at a few of
+the most important:
+
+### Raw Enumeration, No Useful Result
+
+"I want to go through the collection and do some arbitrary operation, often
+throwing away the results."
+
+* `each`
+* `each_with_index`
+
+### Result is a Collection
+
+"I want to take the elements I have and create a new collection from them."
+
+* `sort`
+* `select` / `find_all`
+* `map` / `collect`
+* `group_by`
+
+### Result is an Element of the Collection
+
+"I want to find one special element."
+
+* `detect` / `find`
+* `max` / `min`
+* `max_by` / `min_by`
+
+### Result is a Boolean
+
+"Is this question about the collection true or false?"
+
+* `all?`
+* `any?`
+
+### Result is a New Value
+
+"Based on the elements in the collection, calculate a single new value."
+
+* `inject` / `reduce`
+* `count`
+
 ## Assessments
 
 [See the assignment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
