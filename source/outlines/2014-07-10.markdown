@@ -1,0 +1,44 @@
+---
+title: 140710
+layout: outline
+---
+
+## Assessments
+
+### Peer Assessments
+
+#### Pairings
+
+* Alan Smith & Corey Davis
+* Marc Garreau & Andrew Watkins
+* Robert Gu & Chad Brading
+* Gustavo Villagrana & Allison Larson
+* Hilary Denton & Horacio Chavez & Jessica Goulding
+* Emily Davis & Will Faurot
+* Andy Mention & Tim Proctor
+* Tan Doan & Cara Dennis
+
+#### Instructions
+
+When you're *not* in your instructor assessments you'll assess and refactor each
+other's code.
+
+### Instructor Assessments
+
+#### With Jeff
+
+* 9:00 -- Alan Smith & Andrew Watkins
+* 9:45 -- Robert Gu & Jessica Goulding
+* 10:30 -- Emily Davis & Cara Dennis
+
+#### With Josh
+
+* 9:00 -- Corey Davis & Marc Garreau
+* 9:45 -- Chad Brading & Gustavo Villagrana & Hilary Denton
+* 10:30 -- Will Faurot & Andy Mention
+
+#### With Rachel
+
+* 9:45 -- Allison Larson & Horacio Chavez
+* 10:30 -- Jonmichael Chambers & Eric Fransen
+* 11:15 -- Tim Proctor & Tan Doan
