@@ -23,6 +23,24 @@ layout: outline
 When you're *not* in your instructor assessments you'll assess and refactor each
 other's code.
 
+##### Peer Assessment
+
+Your pair will assess someone else's project:
+
+* Clone the submissions repo and use your section of the SalesEngine page for
+recording your notes and scores
+* Clone their SalesEngine project to your machine
+* Work through the assessment rubric adding your own notes and scores
+for your peer's project to the submission repo
+* When done, add, commit, and submit a PR to submissions
+
+##### Refactoring
+
+* In your local clone of your peer's project, create a "refactoring" branch
+* As a pair, find three places you can meaningfully improve the code. Make
+each refactoring in a separate commit.
+* Submit a pull request to the original project
+
 ### Instructor Assessments
 
 #### With Jeff
