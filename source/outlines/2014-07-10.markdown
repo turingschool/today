@@ -9,14 +9,15 @@ layout: outline
 
 #### Pairings
 
-* Alan Smith & Corey Davis
-* Marc Garreau & Andrew Watkins
-* Robert Gu & Chad Brading
-* Gustavo Villagrana & Allison Larson
-* Hilary Denton & Horacio Chavez & Jessica Goulding
-* Emily Davis & Will Faurot
-* Andy Mention & Tim Proctor
-* Tan Doan & Cara Dennis
+* Alan Smith & Corey Davis assessing Tim Proctor & Tan Doan
+* Marc Garreau & Tim Proctor assessing Jonmichael Chambers & Eric Fransen
+* Tan Doan & Andrew Watkins assessing Allison Larson & Horacio Chavez
+* Robert Gu & Chad Brading assessing Will Faurot & Andy Mention
+* Gustavo Villagrana & Allison Larson assessing Corey Davis & Marc Garreau
+* Horacio Chavez & Jessica Goulding & Hilary Denton assessing Alan Smith & Andrew Watkins
+* Emily Davis & Will Faurot assessing Chad Brading & Gustavo Villagrana & Hilary Denton
+* Andy Mention & Jonmichael Chambers assessing Emily Davis & Cara Dennis
+* Eric Fransen & Cara Dennis assessing Robert Gu & Jessica Goulding
 
 #### Instructions
 
