@@ -12,8 +12,6 @@ about the next one.
 
 First is the direct feedback. Please complete this survey:
 
-
-
 ### Individual Writing (9:30ish-10:00)
 
 Next please write an individual retro in response to one or more of the following
@@ -33,7 +31,11 @@ successful?
 * Who have been the top three influencers on you so far? How did they support
 your learning? Why do you match up with them? What do they do that helps you?
 
-### Group Discussion
+### Group Discussion (10:00-10:30ish)
+
+* Survey recap
+* Individual writing recap
+* Your questions and topics
 
 ## Posse Meeting Time
 
