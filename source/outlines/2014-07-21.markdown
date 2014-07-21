@@ -8,7 +8,19 @@ layout: outline
 ### Posse Meeting Time (3:00-4:00)
 
 Today we'll meet up in reformulated posses. You should get an email during
-the day about your new group.
+the day about your new group. During your posse meeting, complete these tasks:
+
+* Create a Google Calendar for your posse. You can use this calendar to request
+pairing sessions, set posse meetups, etc.
+* Invite all posse members (students and mentors) to the calendar.
+* Create and share a Google Doc to store contact info for your posse: name,
+email, Twitter, Github, phone, blog...
+* Compose an email introducing yourself to your posse.
+* Use Google, Github, Twitter, etc. to research your posse mentors.
+
+Done? Play the Mastermind game that 1406s created. 1406s: show and explain the
+code that makes the game work.
+
 
 ## 1406
 
