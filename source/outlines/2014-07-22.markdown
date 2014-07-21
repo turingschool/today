@@ -1,0 +1,20 @@
+---
+title: 140722
+layout: outline
+---
+
+## 1406
+
+### IdeaBox Work Time
+
+### How the Web Works
+
+### How Sinatra Works
+
+## 1407
+
+### Intro to OS X & Terminal
+
+### Ruby in 100 Minutes
+
+### Intro to TDD
