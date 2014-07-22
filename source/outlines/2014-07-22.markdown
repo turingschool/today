@@ -5,16 +5,56 @@ layout: outline
 
 ## 1406
 
-### IdeaBox Work Time
+### IdeaBox Work Time (9-12)
 
-### How the Web Works
+Get cranking on IdeaBox. Please make use of the workspaces and keep voices down
+a bit while 1407 is in a full-group class.
 
-### How Sinatra Works
+### How the Web Works (1:00-2:30)
+
+You should take notes as this is a critically important discussion for the rest
+of your *career* building web application. Ideas and terms to pick out and know
+include:
+
+* HTTP, request, response, headers, body
+* Server, DNS, IP, Port
+* Front-end/web server, application server
+* State, statelessness, cookies
+* HTTPS, SSL, cryptography, man-in-the-middle
+
+### How Sinatra Works (2:30-4:00)
+
+Then Jorge will follow up with a session diving into how Sinatra works.
 
 ## 1407
 
+It's time to get rolling.
+
 ### Intro to OS X & Terminal
+
+Today might be your first real work in the Terminal. Let's talk a little about
+OS X, Unix, the Terminal, and what you need to get rolling.
+
+#### Background
+
+* Unix, BSD, Linux, Darwin, and OS X
+* Using Spotlight
+* Terminal runs a *shell*
+* Bash, Zsh, etc
+* The `.bash_profile`
+
+#### Things You Need to Know
+
+http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html
 
 ### Ruby in 100 Minutes
 
+Next up Jeff will take you into Ruby in 100 Minutes
+
+http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+
 ### Intro to TDD
+
+This afternoon you should use the workspace to complete the Intro to TDD:
+
+http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html
