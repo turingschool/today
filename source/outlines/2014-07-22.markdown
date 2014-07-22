@@ -3,6 +3,13 @@ title: 140722
 layout: outline
 ---
 
+## Everyone
+
+### Warmup (8:30-9:00)
+
+Please get together with one other person of your choosing and complete [this
+logic exercise](http://cl.ly/1h3u2o1W1710).
+
 ## 1406
 
 ### IdeaBox Work Time (9-12)
@@ -45,16 +52,12 @@ OS X, Unix, the Terminal, and what you need to get rolling.
 
 #### Things You Need to Know
 
-http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html
+[Terminal and Editor Tutorial](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html)
 
 ### Ruby in 100 Minutes
 
-Next up Jeff will take you into Ruby in 100 Minutes
-
-http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+Next up Jeff will take you into [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 
 ### Intro to TDD
 
-This afternoon you should use the workspace to complete the Intro to TDD:
-
-http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html
+This afternoon you should use the workspace to complete the [Intro to TDD](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
