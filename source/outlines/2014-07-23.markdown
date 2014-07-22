@@ -1,0 +1,99 @@
+---
+title: 140723
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### IdeaBox Work Time & Check Ins (9:10-Noon)
+
+#### With Josh
+
+* 9:10 - Chad Brading
+* 9:30 - Gustavo Villagrana
+* 9:50 - Hilary Denton
+* 10:10 - Corey Davis
+* 10:30 - Marc Garreau
+* 10:50 - Emily Davis
+* 11:10 - Robert Gu
+* 11:30 - Jonmichael Chambers
+
+#### With Jeff
+
+* 9:10 - Eric Fransen
+* 9:30 - Alan Smith
+* 9:50 - Andrew Watkins
+* 10:10 - Allison Larson
+* 10:30 - Horacio Chavez
+* 10:50 - Tim Proctor
+* 11:10 - Tan Doan
+* 11:30 - Will Faurot
+* 11:50 - Andy Mention
+
+### Testing Sinatra Applications
+
+Nathan will teach you how to test your Sinatra applications.
+
+## 1407
+
+### Mythical Creatures
+
+This morning we're going to work on the Mythical Creatures exercises.
+
+#### Setup
+
+Here's how to get the files you need. In your Terminal:
+
+* switch to the directory where you'll keep your projects
+* clone the repo: `git clone git@github.com:JumpstartLab/ruby-exercises.git`
+* change to the mythical creatures directory: `cd ruby-exercises/mythical-creatures`
+* open the folder in your editor: `atom .`
+
+#### Doing the Work
+
+The recommended order is:
+
+* `unicorn_test.rb`
+* `vampire_test.rb`
+* `dragon_test.rb`
+* `hobbit_test.rb`
+* `pirate_test.rb`
+* `wizard_test.rb`
+* `medusa_test.rb`
+* `werewolf_test.rb`
+* `centaur_test.rb`
+
+Your general process is:
+
+1. Run the test file (like `ruby unicorn_test.rb`)
+2. If the tests fail, read the output / error messages and fix them
+3. If the tests pass, see if there are any more tests in that file which have a `skip`. Remove the next `skip` and goto step 1.
+4. If you've completed all the tests for that file, then move on to the next.
+
+#### Schedule
+
+We're going to try a bit of independent work mixed with pairing.
+
+##### Independent Session (9:00-10:00)
+
+Let's spend the first hour working on your own.
+
+##### Pairing Session (10:00-11:00)
+
+Next let's get together in the following pairs:
+
+* Pairs
+
+##### Independent Session (11:00-12:00)
+
+Finally let's spend the last hour working alone.
+
+### Scavenger Hunt (1:00-4:00)
+
+This afternoon Susannah will coordinate the scavenger hunt.
+
+#### Team 1
+
+#### Team 2
