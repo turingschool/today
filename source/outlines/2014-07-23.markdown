@@ -3,9 +3,13 @@ title: 140723
 layout: outline
 ---
 
-## Everyone
-
 ## 1406
+
+## Warmup
+
+Let's get back into Exercism work. For warmup today, nitpick at least three
+solutions submitted by other users. Keep in mind that nits don't have to be
+just hating -- you can complement the things you like, too.
 
 ### IdeaBox Work Time & Check Ins (9:10-Noon)
 
@@ -40,6 +44,10 @@ layout: outline
 Nathan will teach you how to test your Sinatra applications.
 
 ## 1407
+
+## Warmup
+
+Please complete [this logic problem]() by yourself.
 
 ### Mythical Creatures (9:00-12:00)
 
