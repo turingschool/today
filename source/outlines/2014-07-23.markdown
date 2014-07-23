@@ -5,7 +5,7 @@ layout: outline
 
 ## 1406
 
-## Warmup
+### Warmup
 
 Let's get back into Exercism work. For warmup today, nitpick at least three
 solutions submitted by other users. Keep in mind that nits don't have to be
@@ -45,7 +45,7 @@ Nathan will teach you how to test your Sinatra applications.
 
 ## 1407
 
-## Warmup
+### Warmup
 
 Please complete [this logic problem](http://cl.ly/3v1m2T411O2q) by yourself.
 
@@ -126,7 +126,7 @@ This afternoon Susannah will coordinate the scavenger hunt.
 
 * Glen Egbert
 * Kavita Sachdeva
-* Aaron Paul Wortham 
+* Aaron Paul Wortham
 * Sara Simon
 
 #### Team 2
