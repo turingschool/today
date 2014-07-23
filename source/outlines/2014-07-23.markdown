@@ -27,18 +27,21 @@ layout: outline
 * 9:50 - Andrew Watkins
 * 10:10 - Allison Larson
 * 10:30 - Horacio Chavez
+
+#### With Jorge
+
 * 10:50 - Tim Proctor
 * 11:10 - Tan Doan
 * 11:30 - Will Faurot
 * 11:50 - Andy Mention
 
-### Testing Sinatra Applications
+### Testing Sinatra Applications (1:00-4:00)
 
 Nathan will teach you how to test your Sinatra applications.
 
 ## 1407
 
-### Mythical Creatures
+### Mythical Creatures (9:00-12:00)
 
 This morning we're going to work on the Mythical Creatures exercises.
 
@@ -86,6 +89,15 @@ Next let's get together in the following pairs:
 
 * Pairs
 
+While you're pairing, use these techniques:
+
+* Both halves of the pair keep their hands on keyboards at all times
+* The person typing at the moment is the *driver* and the other half is the *navigator*.
+The driver's job is just to be the typist and double-checker, the navigator does the
+thinking, logic, and dictates the code they want to see.
+* Every three lines of code or sooner use the phrase *tag* to signal that it's
+time to swap roles.
+
 ##### Independent Session (11:00-12:00)
 
 Finally let's spend the last hour working alone.
@@ -109,6 +121,16 @@ the RSpec tests to the repository
 Can you complete implementations of each of the creatures without using `if`
 statements? Think about how removing them affects your code. Remember that
 a `case` is just a different form of `if`, so don't use it.
+
+##### Imagine Two Creatures
+
+Can you add two new creatures to the repository? How about a Hydra? Add minitest
+tests exercising some of the following concepts:
+
+* Passing data into `initialize`
+* Using methods to change the internal state of an instance
+* Using methods to query the internal state of an instance
+* Functionality that necessitates the internal use of an Array
 
 ### Scavenger Hunt (1:00-4:00)
 
