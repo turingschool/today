@@ -1,0 +1,94 @@
+---
+title: 140724
+layout: outline
+---
+
+## Everyone
+
+### IdeaBox Showcase (3:30-4:00)
+
+This afternoon let's all get together on the classroom side to checkout some of
+the awesome features 1406 students built for their IdeaBox projects.
+
+## 1406
+
+### IdeaBox Work Time (9:00-Noon)
+
+You have a bit of time this morning to finish things off.
+
+If you're going to start a new extension, *please* use a git feature branch
+so you can roll back to a working version of things aren't going well.
+
+### IdeaBox Recap & Refactor (1:00-3:30)
+
+This afternoon you can choose one of the following sessions, with the
+restriction that no group should grow above six students. First come, first
+served.
+
+* Josh will focus on retrofitting tests onto an existing app
+* Jeff will focus on pulling business logic out of the actions and down to the
+models
+* Jorge will focus on improving the style/structure of view templates and how to
+implement view helpers
+
+## 1407
+
+### Warmup
+
+This morning let's try an infamous (but stupid) interview problem:
+
+* Go through the numbers 0 through 100 (including both 0 and 100)
+* If the number is divisible by 3, print "Fizz"
+* If the number is divisible by 5, print "Buzz"
+* If the number is divisible by both 3 and 5, print "FizzBuzz"
+* Otherwise print the number
+
+### Git Fundamentals (9:00-Noon)
+
+This morning our goal is to both understand both (a) why and (b) how to use Git.
+
+### Background
+
+First let's set the stage and discuss Git at a high level.
+
+* What is source control?
+* Why use it?
+* What came before git?
+* What's in use now?
+* Why was it created?
+* What's the difference between git and GitHub?
+* Centralized vs distributed source control
+* Repo, branch, commit
+
+### Source Control Made Easy
+
+The late, great Jim Weirich explains source control and git better than we can. Let's check out his screencast:
+
+https://www.dropbox.com/s/09lrmanjdacc5cz/source_control_made_easy.mov
+
+### Try Git / Git Immersion
+
+Now let's put in a bit of practice.
+
+If you're brand new to git, start with try.github: https://try.github.io/levels/1/challenges/1
+
+If you've used git before (or complete try.github), work through Git Immersion: http://gitimmersion.com/
+
+And, if you just can't get enough Git, check out the Pro Git book: http://git-scm.com/book
+
+### Mythical Creatures Review (1:00-3:30)
+
+This afternoon we'd like you to pair up to both (a) complete and (b) improve/refactor your Mythical Creatures.
+
+* Find your pair below
+* Work together for the entire afternoon session
+* Meet up with Rachel at the specified time
+
+If you finish the exercises, then check out the Mythical Creatures README for additional challenges.
+
+### Pairings & Review Sessions
+
+* 1:30 - Glen Egbert & Kavita Sachdeva
+* 2:00 - Aaron Paul Wortham & Sara Simon
+* 2:30 - Ian Anderson & Jim Sutton
+* 3:00 - Luke Aiken & Rolando Navarette
