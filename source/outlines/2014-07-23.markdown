@@ -47,7 +47,7 @@ Nathan will teach you how to test your Sinatra applications.
 
 ## Warmup
 
-Please complete [this logic problem]() by yourself.
+Please complete [this logic problem](http://cl.ly/3v1m2T411O2q) by yourself.
 
 ### Mythical Creatures (9:00-12:00)
 
@@ -95,7 +95,10 @@ Let's spend the first hour working on your own.
 
 Next let's get together in the following pairs:
 
-* Pairs
+* Glen Egbert & Ian Anderson
+* Kavita Sachdeva & Jim Sutton
+* Aaron Paul Wortham & Luke Aiken
+* Sara Simon & Rolando Navarette
 
 While you're pairing, use these techniques:
 
@@ -121,4 +124,14 @@ This afternoon Susannah will coordinate the scavenger hunt.
 
 #### Team 1
 
+* Glen Egbert
+* Kavita Sachdeva
+* Aaron Paul Wortham 
+* Sara Simon
+
 #### Team 2
+
+* Ian Anderson
+* Jim Sutton
+* Luke Aiken
+* Rolando Navarette
