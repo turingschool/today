@@ -50,7 +50,7 @@ This morning we're going to work on the Mythical Creatures exercises.
 Here's how to get the files you need. In your Terminal:
 
 * switch to the directory where you'll keep your projects
-* clone the repo: `git clone git@github.com:JumpstartLab/ruby-exercises.git`
+* clone the repo: `git clone git@github.com:turingschool/ruby-exercises.git`
 * change to the mythical creatures directory: `cd ruby-exercises/mythical-creatures`
 * open the folder in your editor: `atom .`
 
@@ -104,33 +104,8 @@ Finally let's spend the last hour working alone.
 
 #### Extra Challenges
 
-##### Test with RSpec
-
-For the majority of the class we use minitest because there's so little to
-learn about the API. But a huge part of the Ruby community favors the
-expressiveness of RSpec.
-
-* [Read about RSpec here]()
-* Pick three of the creature tests and implement RSpec tests for each
-* For each creature, add at least three additional tests / pieces of functionality
-* Coordinate with your peers via the chat room to submit pull requests adding
-the RSpec tests to the repository
-
-##### The Dreaded `if` Statement
-
-Can you complete implementations of each of the creatures without using `if`
-statements? Think about how removing them affects your code. Remember that
-a `case` is just a different form of `if`, so don't use it.
-
-##### Imagine Two Creatures
-
-Can you add two new creatures to the repository? How about a Hydra? Add minitest
-tests exercising some of the following concepts:
-
-* Passing data into `initialize`
-* Using methods to change the internal state of an instance
-* Using methods to query the internal state of an instance
-* Functionality that necessitates the internal use of an Array
+Too easy? See the `README` in the Mythical Creatures folder for some extra
+challenges.
 
 ### Scavenger Hunt (1:00-4:00)
 
