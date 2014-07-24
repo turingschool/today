@@ -60,19 +60,34 @@ This morning let's try an infamous (but stupid) interview problem:
 
 Click over to the [First Day with Git](http://tutorials.jumpstartlab.com/topics/git/first_day_with_git.html) tutorial.
 
-### Mythical Creatures Review (1:00-3:30)
+### Mythical Creatures Completion (1:00-2:15)
 
-This afternoon we'd like you to pair up to both (a) complete and (b) improve/refactor your Mythical Creatures.
+This afternoon, pair up to complete and extend your mythical creatures.
 
-* Find your pair below
-* Work together for the entire afternoon session
-* Meet up with Rachel at the specified time
+* Find your pair from yesterday.
+* Finish any mythical creature that you did not finish yesterday.
+* Go back and refactor `wizard_test.rb`, `medusa_test.rb`,`werewolf_test.rb`,
+and `centaur_test.rb`. Can you find ways to improve your code? Comment out old
+code but leave it in the file.
+* When you're done refactoring, look at the challenges in the README.me file.
+Pick one or two for you and your pair to work on.
 
-If you finish the exercises, then check out the Mythical Creatures README for additional challenges.
+From 2-3:30, Rachel will meet with pairs in the order listed below.
+Bring the mythical creatures repo that you and your pair worked on.
 
-### Pairings & Review Sessions
+1) Glen Egbert & Ian Anderson
+2) Aaron Paul Wortham & Luke Aiken
+3) Kavita Sachdeva & Jim Sutton
+4) Sara Simon & Rolando Navarette
 
-* 1:30 - Glen Egbert & Kavita Sachdeva
-* 2:00 - Aaron Paul Wortham & Sara Simon
-* 2:30 - Ian Anderson & Jim Sutton
-* 3:00 - Luke Aiken & Rolando Navarette
+### Create your Own Mythical Creature Tests (2:20 - 3:30)
+
+For the last hour, work in the following pairs to create tests for at least two new
+mythical creatures. Part way through, you'll give your test files to another pair
+and they will work on writing implementation code for them. At 3:20, we'll have a
+few pairs put their mythical creatures on the big screen.
+
+Glen Egbert & Kavita Sachdeva
+Aaron Paul Wortham & Sara Simon
+Ian Anderson & Jim Sutton
+Luke Aiken & Rolando Navarette
