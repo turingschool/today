@@ -75,10 +75,10 @@ Pick one or two for you and your pair to work on.
 From 2-3:30, Rachel will meet with pairs in the order listed below.
 Bring the mythical creatures repo that you and your pair worked on.
 
-1) Glen Egbert & Ian Anderson
-2) Aaron Paul Wortham & Luke Aiken
-3) Kavita Sachdeva & Jim Sutton
-4) Sara Simon & Rolando Navarette
+*1) Glen Egbert & Ian Anderson
+*2) Aaron Paul Wortham & Luke Aiken
+*3) Kavita Sachdeva & Jim Sutton
+*4) Sara Simon & Rolando Navarette
 
 ### Create your Own Mythical Creature Tests (2:20 - 3:30)
 
