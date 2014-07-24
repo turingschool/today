@@ -32,6 +32,8 @@ You have a bit of time this morning to finish things off.
 If you're going to start a new extension, *please* use a git feature branch
 so you can roll back to a working version of things aren't going well.
 
+Rachel and Jorge can be available for questions/help.
+
 ### IdeaBox Recap & Refactor (1:00-3:30)
 
 This afternoon you can choose one of the following sessions, with the
@@ -58,7 +60,7 @@ This morning let's try an infamous (but stupid) interview problem:
 
 ### First Day with Git (9:00-Noon)
 
-Click over to the [First Day with Git](http://tutorials.jumpstartlab.com/topics/git/first_day_with_git.html) tutorial.
+Josh will run the [First Day with Git](http://tutorials.jumpstartlab.com/topics/git/first_day_with_git.html) tutorial.
 
 ### Mythical Creatures Review (1:00-3:30)
 
