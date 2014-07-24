@@ -87,6 +87,18 @@ If you're brand new to git, start with try.github: https://try.github.io/levels/
 
 If you've used git before (or complete try.github), work through Git Immersion: http://gitimmersion.com/
 
+#### Extra Challenge
+
+Read about [the "Git Flow" workflow](http://nvie.com/posts/a-successful-git-branching-model/),
+one opinion about how to run releases and git branches. There's also a [screencast
+by our friend Dave Bock](http://nvie.com/posts/a-git-flow-screencast/).
+
+Dive in a little more deeply to understand rebasing:
+
+* [From Atlassian](https://www.atlassian.com/git/tutorial/rewriting-git-history#!rebase)
+* [From Gitready](http://gitready.com/intermediate/2009/01/31/intro-to-rebase.html)
+* [From mettadore.com](http://mettadore.com/analysis/a-simple-git-rebase-workflow-explained/)
+
 And, if you just can't get enough Git, check out the Pro Git book: http://git-scm.com/book
 
 ### Mythical Creatures Review (1:00-3:30)
