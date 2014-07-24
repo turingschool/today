@@ -12,6 +12,19 @@ the awesome features 1406 students built for their IdeaBox projects.
 
 ## 1406
 
+### Warmup
+
+One of the skills you most need to develop over the next few weeks is your
+"algorithmic thinking." The quintessential CS problem for algorithm practice
+is sorting data.
+
+1. Without referencing other sources, write pseudocode for an algorithm for
+sorting a collection of numbers. Think about the simplest cases first, like sets
+of one, two, and three numbers.
+2. Generate a set of ten random numbers (use `rand(100)`) and implement your
+algorithm in code. Does it work? If not, go back to modify the pseudocode first,
+then the implementation code second.
+
 ### IdeaBox Work Time (9:00-Noon)
 
 You have a bit of time this morning to finish things off.
