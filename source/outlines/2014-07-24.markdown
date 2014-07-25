@@ -1,0 +1,95 @@
+---
+title: 140724
+layout: outline
+---
+
+## Everyone
+
+### IdeaBox Showcase (3:30-4:00)
+
+This afternoon let's all get together on the classroom side to checkout some of
+the awesome features 1406 students built for their IdeaBox projects.
+
+## 1406
+
+### Warmup
+
+One of the skills you most need to develop over the next few weeks is your
+"algorithmic thinking." The quintessential CS problem for algorithm practice
+is sorting data.
+
+1. Without referencing other sources, write pseudocode for an algorithm for
+sorting a collection of numbers. Think about the simplest cases first, like sets
+of one, two, and three numbers.
+2. Generate a set of ten random numbers (use `rand(100)`) and implement your
+algorithm in code. Does it work? If not, go back to modify the pseudocode first,
+then the implementation code second.
+
+### IdeaBox Work Time (9:00-Noon)
+
+You have a bit of time this morning to finish things off.
+
+If you're going to start a new extension, *please* use a git feature branch
+so you can roll back to a working version of things aren't going well.
+
+Rachel and Jorge can be available for questions/help.
+
+### IdeaBox Recap & Refactor (1:00-3:30)
+
+This afternoon you can choose one of the following sessions, with the
+restriction that no group should grow above six students. First come, first
+served.
+
+* Josh will focus on retrofitting tests onto an existing app
+* Jeff will focus on pulling business logic out of the actions and down to the
+models
+* Jorge will focus on improving the style/structure of view templates and how to
+implement view helpers
+
+## 1407
+
+### Warmup
+
+This morning let's try an infamous (but stupid) interview problem:
+
+* Go through the numbers 0 through 100 (including both 0 and 100)
+* If the number is divisible by 3, print "Fizz"
+* If the number is divisible by 5, print "Buzz"
+* If the number is divisible by both 3 and 5, print "FizzBuzz"
+* Otherwise print the number
+
+### First Day with Git (9:00-Noon)
+
+Josh will run the [First Day with Git](http://tutorials.jumpstartlab.com/topics/git/first_day_with_git.html) tutorial.
+
+### Mythical Creatures Completion (1:00-2:15)
+
+This afternoon, pair up to complete and extend your mythical creatures.
+
+* Find your pair from yesterday.
+* Finish any mythical creature that you did not finish yesterday.
+* Go back and refactor `wizard_test.rb`, `medusa_test.rb`,`werewolf_test.rb`,
+and `centaur_test.rb`. Can you find ways to improve your code? Comment out old
+code but leave it in the file.
+* When you're done refactoring, look at the challenges in the README.me file.
+Pick one or two for you and your pair to work on.
+
+From 2-3:30, Rachel will meet with pairs in the order listed below.
+Bring the mythical creatures repo that you and your pair worked on.
+
+* 1) Glen Egbert & Ian Anderson
+* 2) Aaron Paul Wortham & Luke Aiken
+* 3) Kavita Sachdeva & Jim Sutton
+* 4) Sara Simon & Rolando Navarette
+
+### Create your Own Mythical Creature Tests (2:20 - 3:30)
+
+For the last hour, work in the following pairs to create tests for at least two new
+mythical creatures. Part way through, you'll give your test files to another pair
+and they will work on writing implementation code for them. At 3:20, we'll have a
+few pairs put their mythical creatures on the big screen.
+
+Glen Egbert & Kavita Sachdeva
+Aaron Paul Wortham & Sara Simon
+Ian Anderson & Jim Sutton
+Luke Aiken & Rolando Navarette

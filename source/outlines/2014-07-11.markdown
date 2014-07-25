@@ -1,0 +1,108 @@
+---
+title: 140711
+layout: outline
+---
+
+## OOP with Ruby Retrospective
+
+We'll spend the bulk of our morning looking back at this class and thinking
+about the next one.
+
+### Feedback Survey (9:00-9:30ish)
+
+First is the direct feedback. Please complete this survey: [Week 6 Feedback](https://docs.google.com/forms/d/18oIfj-PAlF9czeaYAA5Ap9obHfo6yEzEdODflVY4CS0/viewform?usp=send_form)
+
+### Individual Writing (9:30ish-10:00)
+
+Next please write an individual retro in response to one or more of the following
+prompts:
+
+* Are you satisfied with your progress so far? Is this where you thought you'd
+be after six weeks? What factors are controlling your degree of success? Which
+of those can you control, and which will you control differently in the next
+class?
+* What do you consider your top three achievements from the first six weeks and
+why? What do you expect to achieve in the next class?
+* Where do you think you rank in your class? What's your evidence? Do you think
+you're moving up, sliding back, or holding steady?
+* What's your plan for intermission week? Who will you work with to ensure
+you're learning during the week? How will you know if your efforts are
+successful?
+* Who have been the top three influencers on you so far? How did they support
+your learning? Why do you match up with them? What do they do that helps you?
+
+### Group Discussion (10:00-10:30ish)
+
+* Survey recap
+* Individual writing recap
+* Your questions and topics
+
+## Posse Meeting Time
+
+In your posses today we'd want you to try out a new programming language. As
+a group, pick one of the following and work on it for the hour:
+
+* [Go](http://www.golang-book.com/1/index.htm)
+* [Python](https://docs.python.org/2/tutorial/)
+* [JavaScript](http://www.codecademy.com/en/tracks/javascript)
+* [Elixir](http://elixir-lang.org/getting_started/1.html)
+
+For any of those four languages please feel free to use learning resources
+not listed above, too.
+
+## Afternoon Plans
+
+### Pairing with Steve Kinney
+
+Four of you will have 1-on-1 pairing sessions with Steve this afternoon working
+on Exercism exercises.
+
+Recall that you can fetch a specific exercise with `exercism fetch ruby/exercisename`
+where the exercise name is listed with your name below:
+
+* 1:00 - Jessica - "raindrops"
+* 1:45 - Gustavo - "food-chain"
+* 2:30 - Corey - "anagram"
+* 3:15 - Allison - "queen-attack"
+
+### Independent Work Time
+
+When you're not doing 1-on-1s or working with Steve, please work on something of
+value. Some ideas:
+
+* Could you build, from scratch, all of Mastermind in these three hours? If not,
+could you at least build the core gameplay?
+* Did the language you tried this morning catch your eye? Exercism has tracks for
+each of them -- try solving a couple problems!
+* Build your first Sinatra application: http://www.sinatrarb.com/intro.html
+* Learn about databases and SQL [background](http://databases.about.com/od/sql/a/sql.htm) and [interactive tutorial](http://sqlzoo.net/wiki/Main_Page)
+
+### 1-on-1s
+
+### With Josh
+
+* 1:55 - Jonmichael Chambers
+* 2:10 - Tan Doan
+* 2:25 - Chad Brading
+* 2:40 - Robert Gu
+* 2:55 - Allison Larson
+* 3:10 - Horacio Chavez
+* 3:25 - Alan Smith
+
+### With Jeff
+
+* 1:55 - Andy Mention
+* 2:10 - Eric Fransen
+* 2:25 - Hillary Denton
+* 2:40 - Marc Garreau
+* 2:55 - Andrew Watkins
+* 3:10 - Will Faurot
+* 3:25 - Jessica Goulding
+
+### With Rachel
+
+* 2:25 - Corey Davis
+* 2:40 - Cara Dennis
+* 2:55 - Emily Davis
+* 3:10 - Tim Proctor
+* 3:25 - Gustavo Villagrana

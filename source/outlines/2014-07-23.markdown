@@ -1,0 +1,137 @@
+---
+title: 140723
+layout: outline
+---
+
+## 1406
+
+### Warmup
+
+Let's get back into Exercism work. For warmup today, nitpick at least three
+solutions submitted by other users. Keep in mind that nits don't have to be
+just hating -- you can complement the things you like, too.
+
+### IdeaBox Work Time & Check Ins (9:10-Noon)
+
+#### With Josh
+
+* 9:10 - Chad Brading
+* 9:30 - Gustavo Villagrana
+* 9:50 - Hilary Denton
+* 10:10 - Corey Davis
+* 10:30 - Marc Garreau
+* 10:50 - Emily Davis
+* 11:10 - Robert Gu
+* 11:30 - Jonmichael Chambers
+
+#### With Jeff
+
+* 9:10 - Eric Fransen
+* 9:30 - Alan Smith
+* 9:50 - Andrew Watkins
+* 10:10 - Allison Larson
+* 10:30 - Horacio Chavez
+
+#### With Jorge
+
+* 10:50 - Tim Proctor
+* 11:10 - Tan Doan
+* 11:30 - Will Faurot
+* 11:50 - Andy Mention
+
+### Testing Sinatra Applications (1:00-4:00)
+
+Nathan will teach you how to test your Sinatra applications.
+
+## 1407
+
+### Warmup
+
+Please complete [this logic problem](http://cl.ly/3v1m2T411O2q) by yourself.
+
+### Mythical Creatures (9:00-12:00)
+
+This morning we're going to work on the Mythical Creatures exercises.
+
+#### Setup
+
+Here's how to get the files you need. In your Terminal:
+
+* switch to the directory where you'll keep your projects
+* clone the repo: `git clone git@github.com:turingschool/ruby-exercises.git`
+* change to the mythical creatures directory: `cd ruby-exercises/mythical-creatures`
+* open the folder in your editor: `atom .`
+
+#### Doing the Work
+
+The recommended order is:
+
+* `unicorn_test.rb`
+* `vampire_test.rb`
+* `dragon_test.rb`
+* `hobbit_test.rb`
+* `pirate_test.rb`
+* `wizard_test.rb`
+* `medusa_test.rb`
+* `werewolf_test.rb`
+* `centaur_test.rb`
+
+Your general process is:
+
+1. Run the test file (like `ruby unicorn_test.rb`)
+2. If the tests fail, read the output / error messages and fix them
+3. If the tests pass, see if there are any more tests in that file which have a `skip`. Remove the next `skip` and goto step 1.
+4. If you've completed all the tests for that file, then move on to the next.
+
+#### Schedule
+
+We're going to try a bit of independent work mixed with pairing.
+
+##### Independent Session (9:00-10:00)
+
+Let's spend the first hour working on your own.
+
+##### Pairing Session (10:00-11:00)
+
+Next let's get together in the following pairs:
+
+* Glen Egbert & Ian Anderson
+* Kavita Sachdeva & Jim Sutton
+* Aaron Paul Wortham & Luke Aiken
+* Sara Simon & Rolando Navarette
+
+While you're pairing, use these techniques:
+
+* Both halves of the pair keep their hands on keyboards at all times
+* The person typing at the moment is the *driver* and the other half is the *navigator*.
+The driver's job is just to be the typist and double-checker, the navigator does the
+thinking, logic, and dictates the code they want to see.
+* Every three lines of code or sooner use the phrase *tag* to signal that it's
+time to swap roles.
+
+##### Independent Session (11:00-12:00)
+
+Finally let's spend the last hour working alone.
+
+#### Extra Challenges
+
+Too easy? See the `README` in the Mythical Creatures folder for some extra
+challenges.
+
+### Scavenger Hunt (1:00-4:00)
+
+This afternoon Susannah will coordinate the scavenger hunt.
+
+#### Team 1
+
+* Glen Egbert
+* Kavita Sachdeva
+* Aaron Paul Wortham
+* Sara Simon
+
+#### Team 2
+
+* Ian Anderson
+* Jim Sutton
+* Luke Aiken
+* Rolando Navarette

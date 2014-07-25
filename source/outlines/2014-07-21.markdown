@@ -1,0 +1,103 @@
+---
+title: 140721
+layout: outline
+---
+
+## Everyone
+
+### Posse Meeting Time (3:00-4:00)
+
+Today we'll meet up in reformulated posses. You should get an email during
+the day about your new group. During your posse meeting, complete these tasks:
+
+* Create a Google Calendar for your posse. You can use this calendar to request
+pairing sessions, set posse meetups, etc.
+* Invite all posse members (students and mentors) to the calendar.
+* Create and share a Google Doc to store contact info for your posse: name,
+email, Twitter, Github, phone, blog...
+* Compose an email introducing yourself to your posse.
+* Use Google, Github, Twitter, etc. to research your posse mentors.
+
+Done? Play the Mastermind game that 1406s created. 1406s: show and explain the
+code that makes the game work.
+
+
+## 1406
+
+Today your number one mission is to meet 1407 and see what they're all about.
+Then...
+
+### Code Retreat (9:00-12:00)
+
+This morning we'll do a code retreat to get you back in the mindset. The only
+things you need to do ahead of time are:
+
+* clone this repository:[https://github.com/turingschool/code_retreat](https://github.com/turingschool/code_retreat)
+* read the Robot README in `code_retreat/robot/README.md`
+
+### WebGuesser (1:00-2:30)
+
+This afternoon you should rip through a short Sinatra tutorial:
+
+[WebGuesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
+
+Rachel will be available for questions while you work.
+
+### IdeaBox Kickoff (2:30-3:00)
+
+Then Jeff will help you kick off the IdeaBox project:
+
+[http://tutorials.jumpstartlab.com/projects/idea_box.html](http://tutorials.jumpstartlab.com/projects/idea_box.html)
+
+This is an individual project that's due this Thursday 7/24 at 1pm. It starts
+with a guided tutorial, then you'll build a handful of extensions on your own.
+
+Thursday afternoon, 3-4pm, we'll have a "showcase" with 1407 for you to show
+off the best and most interesting parts of your work.
+
+## 1407
+
+Welcome!
+
+### Who You Are
+
+* Glen Egbert
+* Ian Anderson
+* Kavita Sachdeva
+* Jim Sutton
+* Aaron Paul Wortham
+* Luke Aiken
+* Sara Simon
+* Rolando Navarrete
+* Cara Dennis
+* Jessica Goulding
+
+### Building the Space (9:00-2:00?)
+
+As much as possible we want you to feel like owners of the space, not just
+people who hang out here. To that end, we spend the bulk of the first day
+building and arranging furniture.
+
+The room is currently in a "good enough" state for one class, we need to get
+it ready for running the two classes simultaneously. That means:
+
+* Relocating long-term storage items over to the other room
+* Building the new storage shelves (Ikea boxes) to finish the mid-room divider
+* Build new desks and chairs
+* Setup small work areas
+* Reorganize the couches
+* Build storage boxes and have people nametag them
+
+### Laptop Setup (2:00-3:00)
+
+#### Laptop Distribution
+
+If you're taking a laptop from us we'll record the serial number then it's all
+yours!
+
+#### Environment Setup
+
+Then you need to make sure you have Homebrew, RVM, and Ruby 2.1 setup.
+
+Follow [this setup tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+but you can *skip the part about PostgreSQL* for now.

@@ -1,0 +1,20 @@
+---
+title: 140729
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### Clone Wars Work Time
+
+### SQL Primer
+
+### Sequel
+
+## 1407
+
+### Enumerable
+
+### IdeaBox TDD
