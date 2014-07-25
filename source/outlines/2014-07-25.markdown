@@ -40,7 +40,7 @@ IdeaBox?
 role? What do people expect from you? How are you enhancing their learning
 experience? How are they enhancing yours?
 
-### Clone Wars Kickoff
+### Clone Wars Kickoff (11:00-Noon)
 
 Check out the [Clone Wars assignment](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
 
@@ -79,13 +79,15 @@ The project is due for evaluation at 9AM on Thursday 7/31.
 
 #### With Jeff
 
-* Will Faurot
-* Alan Smith
-* Jonmichael Chambers
+* 1:15 - Will Faurot
+* 1:30 - Alan Smith
+* 1:45 - Jonmichael Chambers
 
 ## 1407
 
 ### MicroBlogger (9:00-10:00, 11:00-12:00, 1:00-3:00)
+
+Please meet up at the back couches with Rachel at 9:00.
 
 This week you've had a lot of vegetables, today it's time for a little dessert. Let's build a Ruby client for interacting with Twitter.
 
@@ -93,10 +95,10 @@ http://tutorials.jumpstartlab.com/projects/microblogger.html
 
 Please work in the following pairs:
 
-* Will Faurot & Cara Dennis - jsl_demo_01
-* Emily Davis & Gustavo Villagrana - jsl_demo_02
-* Allison Larson & Jessica Goulding - jsl_demo_03
-* Andrew Watkins & Horacio Chavez - jsl_demo_04
+* Sara Simon & Rolando Navarette - jsl_demo_01
+* Jim Sutton & Glen Egbert - jsl_demo_02
+* Ian Anderson & Aaron Paul Wortham - jsl_demo_03
+* Luke Aiken & Kavita Sachdeva - jsl_demo_04
 
 ### Photos (11:00-12:00)
 
@@ -106,7 +108,18 @@ Jeff will come grab you one-by-one for head shots.
 
 #### With Rachel
 
+* 1:30 - Ian Anderson
+* 1:45 - Kavita Sachdeva
+* 2:00 - Jim Sutton
+* 2:15 - Aaron Paul Wortham
+* 2:30 - Sara Simon
+* 2:45 - Rolando Navarette
+
 #### With Jeff
+
+* 2:00 - Luke Aiken
+* 2:15 - Cara Dennis
+* 2:30 - Glen Egbert
 
 ### Retrospective
 
@@ -131,9 +144,11 @@ Jeff will come grab you one-by-one for head shots.
 
 #### Group Discussion (3:35-4:00)
 
+We'll discuss some of the individual prompts and other topics/questions.
+
 ### Weekend Work
 
-By the time we start on Monday you should have finished and feel reasonable comfortable with:
+By the time we start on Monday you should have finished and feel reasonably comfortable with:
 
 * Ruby in 100 Minutes
 * Intro to TDD
