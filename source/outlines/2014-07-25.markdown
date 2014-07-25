@@ -1,0 +1,141 @@
+---
+title: 140725
+layout: outline
+---
+
+## Everyone
+
+### Guest: Ingrid Alongi (10:00-11:00)
+
+This morning we'll have a Q&A with Ingrid Alongi, co-founder of [Quick Left in Boulder](http://quickleft.com/).
+
+You can find Ingrid here:
+
+* [Twitter](https://twitter.com/electromute)
+* [LinkedIn](https://www.linkedin.com/in/ingridalongi)
+* [ingrid@quickleft.com](mailto:ingrid@quickleft.com)
+
+You might ask Ingrid about:
+
+* Co-founding a consultancy in a down economy
+* Tech community in Boulder/Denver
+* What they look for in developers
+* Why her twitter photo is so emo
+* How the past gSchool grads have done at QL
+* How to ride bikes really quickly
+
+## 1406
+
+### Retrospective
+
+#### Independent Writing (9:00-9:40)
+
+Reflect on one or more of the following topics:
+
+* How did you spend your intermission week? Was it the right choice? Are you
+seeing benefits this week?
+* How did it feel to be back in action? Were you satisfied with your work on
+IdeaBox?
+* Earlier this week Jeff sent an email about roles in the group. What's your
+role? What do people expect from you? How are you enhancing their learning
+experience? How are they enhancing yours?
+
+### Clone Wars Kickoff
+
+Check out the [Clone Wars assignment](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
+
+The project is due for evaluation at 9AM on Thursday 7/31.
+
+#### Groupings
+
+* Chad Brading, Gustavo Villagrana, Hilary Denton
+* Corey Davis, Marc Garreau, Robert Gu
+* Andy Mention, Emily Davis
+* Jonmichael Chambers, Eric Fransen, Alan Smith
+* Andrew Watkins, Allison Larson, Horacio Chavez
+* Tim Proctor, Tan Doan, Will Faurot
+
+### 1-on-1s and Work Time
+
+#### With Jorge
+
+* 1:30 - Emily Davis
+* 1:45 - Gustavo Villagrana
+* 2:00 - Horacio Chavez
+* 2:15 - Andy Mention
+* 2:30 - Marc Garreau
+* 2:45 - Chad Brading
+* 3:00 - Eric Fransen
+
+#### With Josh
+
+* 1:30 - Andrew Watkins
+* 1:45 - Corey Davis
+* 2:00 - Tan Doan
+* 2:15 - Tim Proctor
+* 2:30 - Robert Gu
+* 2:45 - Hilary Denton
+* 3:00 - Allison Larson
+
+#### With Jeff
+
+* Will Faurot
+* Alan Smith
+* Jonmichael Chambers
+
+## 1407
+
+### MicroBlogger (9:00-10:00, 11:00-12:00, 1:00-3:00)
+
+This week you've had a lot of vegetables, today it's time for a little dessert. Let's build a Ruby client for interacting with Twitter.
+
+http://tutorials.jumpstartlab.com/projects/microblogger.html
+
+Please work in the following pairs:
+
+* Will Faurot & Cara Dennis - jsl_demo_01
+* Emily Davis & Gustavo Villagrana - jsl_demo_02
+* Allison Larson & Jessica Goulding - jsl_demo_03
+* Andrew Watkins & Horacio Chavez - jsl_demo_04
+
+### Photos (11:00-12:00)
+
+Jeff will come grab you one-by-one for head shots.
+
+### 1-on-1s
+
+#### With Rachel
+
+#### With Jeff
+
+### Retrospective
+
+#### Independent Writing (3:00-3:30)
+
+##### Setup for Writing
+
+* create a folder in your home directory named "retrospectives"
+* `cd` into the directory and `git init`
+* create a file `week_of_0606.markdown`
+* write responses for a few of the questions below
+* use all the time available to you for writing
+
+##### Questions for Thinking
+
+* How was this week similar and different from what you thought the class would be like?
+* What prep did you do before class? Was it worth it?
+* Were there any topics you felt particularly "clicked" this week?
+* What the most confusing thing you tried to learn this week? How will you continue to get better at it?
+* What caught your eye about your classmates this week?
+* What will you focus on to be a valuable part of their learning experience
+
+#### Group Discussion (3:35-4:00)
+
+### Weekend Work
+
+By the time we start on Monday you should have finished and feel reasonable comfortable with:
+
+* Ruby in 100 Minutes
+* Intro to TDD
+* Mythical Creatures
+* MicroBlogger
