@@ -68,12 +68,10 @@ It's finally time to start Lightning Talks. Here are the groupings:
 
 This morning please spend your warmup time getting started with Exercism.io.
 
-You can follow these directions:
-
 The process includes:
 
 * Setup an account on the site
-* Download/run the command line interface (CLI) program
+* Download/run the command line interface (CLI) program ([Installing the CLI](http://help.exercism.io/installing-the-cli.html))
 * It'll ask for your username and API key from the site
 * Pick where you want to store your exercises (`~/exercism/` is a good choice)
 
