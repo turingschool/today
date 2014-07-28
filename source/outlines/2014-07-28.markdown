@@ -33,7 +33,7 @@ can you handle variations like "purple" (high blue + red)?
 
 For warmup this morning, please dive into the following Exercism exercise:
 
-```plain
+```
 exercism fetch ruby/binary
 ```
 
