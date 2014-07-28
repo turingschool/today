@@ -53,6 +53,18 @@ During our session, we'll cover the following topics,
 
 ### Scraping & Parsing with Nokogiri (1:00-3:00)
 
+For your clone wars project, you need to scrape data from a website.
+...but how do you do that?
+
+Never fear, students, we considered this!
+Lets talk about web scraping with Nokogiri :D
+
+We'll go over [this](http://tutorials.jumpstartlab.com/topics/mechanize.html)
+tutorial, learning what web scraping is and how it works,
+and then using it to get book data for our list of ISBNs.
+
+Be prepared to play around and to flex those CSS selector skills you've been practicing :)
+
 ### Lightning Talk Prep (4:00)
 
 It's finally time to start Lightning Talks. Here are the groupings:
