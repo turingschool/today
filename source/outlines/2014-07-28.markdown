@@ -17,7 +17,40 @@ layout: outline
 
 ### Mythical Creatures Diagnostic (9:00-Noon)
 
+This morning you'll complete a 1-on-1 diagnostic with Rachel or Jeff. The
+purpose is to establish a baseline skill level so we can see how you grow over
+the coming weeks.
+
+[Read and follow the setup instructions ahead of time here](http://tutorials.jumpstartlab.com/academy/assessments/mythical_creatures.html)
+
+#### With Jeff
+
+* 9:30 - Aaron Paul Wortham
+* 10:00 - Rolando Navarette
+* 10:30 - Cara Dennis
+* 11:00 - Sara Simon
+* 11:30 - Jessica Goulding
+
+#### With Rachel
+
+* 9:30 - Jim Sutton
+* 10:00 - Kavita Sachdeva
+* 10:30 - Luke Aiken
+* 11:00 - Glen Egbert
+* 11:30 - Ian Anderson
+
 ### Objects & Methods (9:00-Noon)
+
+When you're not doing the diagnostic, please work on the [Objects & Methods
+exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods).
+
+Working in the following pairs:
+
+* Aaron Paul Wortham & Jim Sutton
+* Rolando Navarette & Kavita Sachdeva
+* Cara Dennis & Luke Aiken
+* Sara Simon & Glen Egbert
+* Jessica Goulding & Ian Anderson
 
 ### Command/Query (1:00-3:00)
 
