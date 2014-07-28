@@ -11,6 +11,18 @@ layout: outline
 
 ### Acceptance Testing with Capybara (9:00-Noon)
 
+We didn't implement any tests while building IdeaBox, and that's not a 
+good thing. Today we'll learn how to test web apps using Capybara. 
+
+During our session, we'll cover the following topics,
+
+1. What is a feature test
+2. How to setup Capybara with Sinatra
+3. How to template a feature test
+4. The essential Capybara searching features
+5. The essential Capybara interaction features
+6. How to debug a feature test
+
 ### Scraping & Parsing with Nokogiri (1:00-3:00)
 
 ## 1407
