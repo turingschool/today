@@ -20,7 +20,7 @@ something like a kata/exercism.
 Then, when you finish those, spend the rest of your time getting better at
 programming. A few ideas:
 
-* Can you find all prime numbers between 1-10000 using the sieve of Erathenes?
+* Can you find all prime numbers between 1-10000 using the sieve of Eratosthenes?
 * Write an algorithm that, given three sorted collections, can turn them into
 a single sorted collection.
 * Given a hex-color input, like #F6336A, figure out the dominant resulting color,
@@ -29,11 +29,37 @@ can you handle variations like "purple" (high blue + red)?
 
 ## 1406
 
+### Warmup
+
+For warmup this morning, please dive into the following Exercism exercise:
+
+```plain
+exercism fetch ruby/binary
+```
+
 ### Acceptance Testing with Capybara (9:00-Noon)
 
 ### Scraping & Parsing with Nokogiri (1:00-3:00)
 
 ## 1407
+
+### Warmup
+
+This morning please spend your warmup time getting started with Exercism.io.
+
+You can follow these directions:
+
+The process includes:
+
+* Setup an account on the site
+* Download/run the command line interface (CLI) program
+* It'll ask for your username and API key from the site
+* Pick where you want to store your exercises (`~/exercism/` is a good choice)
+
+If you're doing things much more complicated than that, you're probably doing
+the wrong thing.
+
+If you get it setup, then go ahead and fetch/begin the first exercise.
 
 ### Mythical Creatures Diagnostic (9:00-Noon)
 
