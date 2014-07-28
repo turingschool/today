@@ -42,9 +42,8 @@ the coming weeks.
 ### Objects & Methods (9:00-Noon)
 
 When you're not doing the diagnostic, please work on the [Objects & Methods
-exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods).
-
-Working in the following pairs:
+exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
+working in the following pairs:
 
 * Aaron Paul Wortham & Jim Sutton
 * Rolando Navarette & Kavita Sachdeva
@@ -54,4 +53,20 @@ Working in the following pairs:
 
 ### Command/Query (1:00-3:00)
 
+This afternoon please complete [the Command/Query exercises](https://github.com/turingschool/ruby-exercises/tree/master/command-query)
+working in the following pairs:
+
+* Aaron Paul Wortham & Rolando Navarette
+* Cara Dennis & Sara Simon
+* Jessica Goulding & Jim Sutton
+* Kavita Sachdeva & Luke Aiken
+* Glen Egbert & Ian Anderson
+
 ### Lightning Talk Prep (4:00)
+
+It's finally time to start Lightning Talks. Here are the groupings:
+
+* Week of 7/28: Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
+* Week of 8/4: Marc Garreau, Emily Davis, Robert Gu, Jonmichael Chambers
+* Week of 8/11: Eric Fransen, Alan Smith, Andrew Watkins, Allison Larson
+* Week of 8/18: Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
