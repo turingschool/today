@@ -39,8 +39,8 @@ exercism fetch ruby/binary
 
 ### Acceptance Testing with Capybara (9:00-Noon)
 
-We didn't implement any tests while building IdeaBox, and that's not a 
-good thing. Today we'll learn how to test web apps using Capybara. 
+We didn't implement any tests while building IdeaBox, and that's not a
+good thing. Today we'll learn how to test web apps using Capybara.
 
 During our session, we'll cover the following topics,
 
@@ -52,6 +52,15 @@ During our session, we'll cover the following topics,
 6. How to debug a feature test
 
 ### Scraping & Parsing with Nokogiri (1:00-3:00)
+
+### Lightning Talk Prep (4:00)
+
+It's finally time to start Lightning Talks. Here are the groupings:
+
+* Week of 7/28: Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
+* Week of 8/4: Marc Garreau, Emily Davis, Robert Gu, Jonmichael Chambers
+* Week of 8/11: Eric Fransen, Alan Smith, Andrew Watkins, Allison Larson
+* Week of 8/18: Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
 
 ## 1407
 
@@ -119,12 +128,3 @@ working in the following pairs:
 * Jessica Goulding & Jim Sutton
 * Kavita Sachdeva & Luke Aiken
 * Glen Egbert & Ian Anderson
-
-### Lightning Talk Prep (4:00)
-
-It's finally time to start Lightning Talks. Here are the groupings:
-
-* Week of 7/28: Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis
-* Week of 8/4: Marc Garreau, Emily Davis, Robert Gu, Jonmichael Chambers
-* Week of 8/11: Eric Fransen, Alan Smith, Andrew Watkins, Allison Larson
-* Week of 8/18: Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention
