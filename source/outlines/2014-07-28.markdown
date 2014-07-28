@@ -7,6 +7,26 @@ layout: outline
 
 ### Posse Meeting Time (3:00-4:00)
 
+This afternoon with your posse please:
+
+* Make sure everyone has ScreenHero setup and add each other as contacts.
+Remember to use the same email as your Slack account so you can `/hero` people.
+* Send email to your outside mentors to let them know what your up to. Inquire
+whether they're available to pair or code review this week.
+* Each student member schedule at least one pairing hour with each other
+student in the group. This could be used to focus on class work or work on
+something like a kata/exercism.
+
+Then, when you finish those, spend the rest of your time getting better at
+programming. A few ideas:
+
+* Can you find all prime numbers between 1-10000 using the sieve of Erathenes?
+* Write an algorithm that, given three sorted collections, can turn them into
+a single sorted collection.
+* Given a hex-color input, like #F6336A, figure out the dominant resulting color,
+like "red" here. Implementing "red", "green", and "blue" should be easy-ish, but
+can you handle variations like "purple" (high blue + red)?
+
 ## 1406
 
 ### Acceptance Testing with Capybara (9:00-Noon)
