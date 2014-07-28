@@ -1,0 +1,24 @@
+---
+title: 140721
+layout: outline
+---
+
+## Everyone
+
+### Posse Meeting Time (3:00-4:00)
+
+## 1406
+
+### Acceptance Testing with Capybara (9:00-Noon)
+
+### Scraping & Parsing with Nokogiri (1:00-3:00)
+
+## 1407
+
+### Mythical Creatures Diagnostic (9:00-Noon)
+
+### Objects & Methods (9:00-Noon)
+
+### Command/Query (1:00-3:00)
+
+### Lightning Talk Prep (4:00)
