@@ -37,7 +37,7 @@ thinking from the implementation.
 * Will Faurot & Andy Mention
 * Horacio Chavez & Hilary Denton
 * Rolando Navarette & Marc Garreau
-* Andrew Watkins & Ian Anderson & Alan Smith
+* Andrew Watkins & Ian Andersen & Alan Smith
 * Robert Gu & Sara Simon
 * Allison Larson & Cara Dennis
 * Jessica Goulding & Chad Brading
@@ -115,7 +115,7 @@ Working in the following pairs:
 * Sara Simon & Jessica Goulding
 * Aaron Paul Wortham & Kavita Sachdeva
 * Luke Aiken & Glen Egbert
-* Ian Anderson & Jim Sutton
+* Ian Andersen & Jim Sutton
 
 ### Ideabox TDD (1:00-4:00)
 
@@ -131,4 +131,4 @@ the start of the day tomorrow.
 * Sara Simon & Kavita Sachdeva
 * Aaron Paul Wortham & Glen Egbert
 * Luke Aiken & Jim Sutton
-* Ian Anderson & Cara Dennis
+* Ian Andersen & Cara Dennis

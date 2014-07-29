@@ -62,7 +62,7 @@ Welcome!
 ### Who You Are
 
 * Glen Egbert
-* Ian Anderson
+* Ian Andersen
 * Kavita Sachdeva
 * Jim Sutton
 * Aaron Paul Wortham

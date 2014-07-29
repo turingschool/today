@@ -114,7 +114,7 @@ the coming weeks.
 * 10:00 - Kavita Sachdeva
 * 10:30 - Luke Aiken
 * 11:00 - Glen Egbert
-* 11:30 - Ian Anderson
+* 11:30 - Ian Andersen
 
 ### Objects & Methods (9:00-Noon)
 
@@ -126,7 +126,7 @@ working in the following pairs:
 * Rolando Navarette & Kavita Sachdeva
 * Cara Dennis & Luke Aiken
 * Sara Simon & Glen Egbert
-* Jessica Goulding & Ian Anderson
+* Jessica Goulding & Ian Andersen
 
 ### Command/Query (1:00-3:00)
 
@@ -137,4 +137,4 @@ working in the following pairs:
 * Cara Dennis & Sara Simon
 * Jessica Goulding & Jim Sutton
 * Kavita Sachdeva & Luke Aiken
-* Glen Egbert & Ian Anderson
+* Glen Egbert & Ian Andersen
