@@ -106,9 +106,8 @@ Then let's have a quick chat about the overarching concepts behind the Enumerabl
 
 #### Exercises in Pairs
 
-Once we've finished the group discussion you should dive into these exercises:
-
-https://github.com/JumpstartLab/enums-exercises
+Once we've finished the group discussion you should dive into
+[these enumerable exercises](https://github.com/JumpstartLab/enums-exercises)
 
 Working in the following pairs:
 
@@ -120,12 +119,11 @@ Working in the following pairs:
 
 ### Ideabox TDD (1:00-4:00)
 
-It's time to start your most sizable assignment yet, IdeaBox-TDD.
+It's time to start your most sizable tutorial yet,
+[IdeaBox-TDD](http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html).
 
-http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html
-
-Please spend the afternoon working on it with the pair below.
-During wrap-up this afternoon we'll figure out the plan for completing it.
+Please spend the afternoon working on it with the pair below and finish it by
+the start of the day tomorrow.
 
 ### Pairs
 
