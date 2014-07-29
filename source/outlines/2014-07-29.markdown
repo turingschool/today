@@ -7,14 +7,87 @@ layout: outline
 
 ## 1406
 
-### Clone Wars Work Time
+### Clone Wars Work Time (9:00-Noon)
 
-### SQL Primer
+Just two days left until you deliver Clone Wars. Can you finish a usable
+product?
 
-### Sequel
+### SQL Primer (1:00-2:30)
+
+This afternoon we'll start by discussing and working with raw SQL.
+
+#### Discussion
+
+Let's discuss the big picture of SQL:
+
+* Excel and Databases
+* Tables, Columns, and Rows
+* Data types
+* Primary keys
+* SELECT, INSERT, DELETE
+* WHERE
+* Foreign keys
+* Joins
+
+#### Tutorial
+
+See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html).
+
+### Sequel (2:30-4:00)
+
+#### Discussion
+
+* SQL is no fun
+* Object-Relational Mappers (ORMs)
+* ActiveRecord (99%), DataMapper (1%), Sequel (0%)
+* Why use Sequel?
+
+#### Tutorial
+
+Then follow it up with the [Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
 
 ## 1407
 
-### Enumerable
+### Enumerable Methods
 
-### IdeaBox TDD
+#### Introduction
+
+Then let's have a quick chat about the overarching concepts behind the Enumerable methods.
+
+* Programming is about collections
+* *Iterating* over a collection: `each`, `map`/`collect`, `inject`, `sort_by`
+* *Filtering* a collection: `select`, `detect`, `min`, `max`
+* Typically take a block and run it once for each element
+* The right enumerable method can save you time/effort
+* But everything can be done with `each`
+
+#### Exercises in Pairs
+
+Once we've finished the group discussion you should dive into these exercises:
+
+https://github.com/JumpstartLab/enums-exercises
+
+Working in the following pairs:
+
+* Rolando Navarette & Cara Dennis
+* Sara Simon & Jessica Goulding
+* Aaron Paul Wortham & Kavita Sachdeva
+* Luke Aiken & Glen Egbert
+* Ian Anderson & Jim Sutton
+
+### Ideabox TDD (1:00-4:00)
+
+It's time to start your most sizable assignment yet, IdeaBox-TDD.
+
+http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html
+
+Please spend the afternoon working on it with the pair below.
+During wrap-up this afternoon we'll figure out the plan for completing it.
+
+### Pairs
+
+* Rolando Navarette & Jessica Goulding
+* Sara Simon & Kavita Sachdeva
+* Aaron Paul Wortham & Glen Egbert
+* Luke Aiken & Jim Sutton
+* Ian Anderson & Cara Dennis
