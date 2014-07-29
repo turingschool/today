@@ -5,6 +5,49 @@ layout: outline
 
 ## Everyone
 
+### Warmup
+
+This morning let's try something a little different for warmup -- cross-class
+pairing (where possible).
+
+#### Challenge
+
+Returning to an idea from posse meetings yesterday, build a solution for
+the problem of merging three sorted collection.
+
+IE, imagine we have three sets:
+
+* a: [1,4,9]
+* b: [2,3,5]
+* c: [6,7,8]
+
+Then the merge should produce [1,2,3,4,5,6,7,8,9].
+
+Try to solve a small problem first. Use pseudocode to separate the algorithmic
+thinking from the implementation.
+
+#### Pairs
+
+* Luke Aiken & Emily Davis
+* Aaron Paul Wortham & Gustavo Villagrana
+* Corey Davis & Jonmichael Chambers
+* Jim Sutton & Tim Proctor
+* Tan Doan & Kavita Sachdeva
+* Eric Fransen & Glen Egbert
+* Will Faurot & Andy Mention
+* Horacio Chavez & Hilary Denton
+* Rolando Navarette & Marc Garreau
+* Andrew Watkins & Ian Anderson & Alan Smith
+* Robert Gu & Sara Simon
+* Allison Larson & Cara Dennis
+* Jessica Goulding & Chad Brading
+
+#### Posting
+
+Post a [Gist](http://gist.github.com) of your solution (note that a gist can
+have more than one file, so you can post tests and implementation) and drop it
+in the #Community Slack room.
+
 ## 1406
 
 ### Clone Wars Work Time (9:00-Noon)
