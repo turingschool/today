@@ -60,9 +60,13 @@ of the last hurdles:
 
 ## 1407
 
+### Starting Battleship
+
+Cara, Jessica, and Luke, please read through and get started on [Battleship](http://tutorials.jumpstartlab.com/projects/battleship.html).
+
 ### Getting Started with CSVs (9:00-10:00)
 
-First up, please meet with Jeff in the classroom space to talk about CSVs, how
+The rest of the group will meet with Jeff in the classroom space to talk about CSVs, how
 they work, and an intro to the tutorial.
 
 ### CSV-I (10:00-4:00)
