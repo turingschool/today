@@ -41,6 +41,23 @@ in the #Community Slack room.
 
 You have all day to work on and polish your CloneWars project. Good luck!
 
+### Check-Ins
+
+Please bring your projects for short check-in meetings to help you over some
+of the last hurdles:
+
+#### With Josh
+
+* 9:15 - Chad Brading, Gustavo Villagrana, Hilary Denton
+* 10:00 - Corey Davis, Marc Garreau, Robert Gu
+* 10:45 - Andy Mention, Emily Davis
+
+#### With Jorge
+
+* 9:15 - Jonmichael Chambers, Eric Fransen, Alan Smith
+* 10:00 - Andrew Watkins, Allison Larson, Horacio Chavez
+* 10:45 - Tim Proctor, Tan Doan, Will Faurot
+
 ## 1407
 
 ### Getting Started with CSVs (9:00-10:00)
