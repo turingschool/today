@@ -1,0 +1,53 @@
+---
+title: 140730
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+Ok, so yesterday didn't go to plan. Let's try this again.
+
+#### Challenge
+
+[See the problem here](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/sorted_merge.markdown).
+
+#### Pairs
+
+* Luke Aiken & Emily Davis
+* Aaron Paul Wortham & Gustavo Villagrana
+* Corey Davis & Jonmichael Chambers
+* Jim Sutton & Tim Proctor
+* Tan Doan & Kavita Sachdeva
+* Eric Fransen & Glen Egbert
+* Will Faurot & Andy Mention
+* Horacio Chavez & Hilary Denton
+* Rolando Navarette & Marc Garreau
+* Andrew Watkins & Ian Andersen & Alan Smith
+* Robert Gu & Sara Simon
+* Allison Larson & Cara Dennis
+* Jessica Goulding & Chad Brading
+
+#### Posting
+
+Post a [Gist](http://gist.github.com) of your solution (note that a gist can
+have more than one file, so you can post tests and implementation) and drop it
+in the #Community Slack room.
+
+## 1406
+
+### CloneWars, The Last Episode
+
+You have all day to work on and polish your CloneWars project. Good luck!
+
+## 1407
+
+### Getting Started with CSVs (9:00-10:00)
+
+First up, please meet with Jeff in the classroom space to talk about CSVs, how
+they work, and an intro to the tutorial.
+
+### CSV-I (10:00-4:00)
+
+Then jump into the [PhoneBook-I Tutorial](http://tutorials.jumpstartlab.com/academy/workshops/phonebook-csv-tdd/phone_book_i.html).
