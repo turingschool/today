@@ -1,0 +1,22 @@
+---
+title: 140731
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### CloneWars Evaluations
+
+### CloneWars Recap & Refactor
+
+## 1407
+
+### Thinking in Algorithms
+
+### Ruby's Object Model
+
+### Encapsulation & Decomposition
+
+### Number Systems
