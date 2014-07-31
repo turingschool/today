@@ -68,7 +68,7 @@ When you are not doing an instructor assessment, please...
 
 ### CloneWars Recap & Refactor
 
-* Jorge will run a session about XYZ
+* Jorge will run a session about Refactoring / Extracting Models
 * Josh will run a session about XYZ
 
 #### Group 1
