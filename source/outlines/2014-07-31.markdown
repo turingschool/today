@@ -10,6 +10,27 @@ layout: outline
 This morning we'll start off together by walking through a solution to the
 sorted-list merge problem from tomorrow.
 
+### Showcase (3:30-4:00)
+
+At the end of the day we'll *all* gather in the classroom space to showcase the
+Clonewars projects that 1406 delivered today.
+
+Each demo should be less than five minutes:
+
+* Spend about 1 minute showing off the site as a user would see it
+* Spend 2 minutes show your login process, editing/adding content, then
+seeing it appear from the user side
+* Spend 1 minute showing off any extra/special features you added
+
+#### Presentation Order
+
+* Chad Brading, Gustavo Villagrana, Hilary Denton
+* Corey Davis, Marc Garreau, Robert Gu
+* Andrew Watkins, Allison Larson, Horacio Chavez
+* Tim Proctor, Tan Doan, Will Faurot
+* Andy Mention, Emily Davis
+* Jonmichael Chambers, Eric Fransen, Alan Smith
+
 ## 1406
 
 ### CloneWars Peer Review & Refactoring (9:00-12:00)
