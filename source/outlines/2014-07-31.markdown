@@ -93,6 +93,15 @@ First up this morning you'll work with Rachel in the classroom space.
 
 Next up you'll work with Josh to begin exploring Ruby's Object Model.
 
+This will cover:
+
+1. Classes and Instances
+2. Bindings
+3. Variables
+4. Method lookup / invocation
+
+The material is located [here](https://gist.github.com/JoshCheek/9d99becad60d5d2a57b8).
+
 ### Encapsulation & Decomposition
 
 This afternoon Jeff will discuss the ideas of encapsulation and decomposition.
