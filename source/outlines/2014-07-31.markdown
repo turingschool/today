@@ -76,7 +76,17 @@ Next up you'll work with Josh to begin exploring Ruby's Object Model.
 
 This afternoon Jeff will discuss the ideas of encapsulation and decomposition.
 
-As a starting point, we'll talk about [the Battleship project](http://tutorials.jumpstartlab.com/projects/battleship.html).
+#### Key Ideas / Questions
+
+* "Churn" and "Why does code change?"
+* Responsibilities
+* [Object-oriented programming](http://en.wikipedia.org/wiki/Object_oriented) and message passing
+* [Single Responsibility Principle (SRP)](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+* [Interface](http://en.wikipedia.org/wiki/Interface_(computing)) or API
+
+#### Example
+
+As a discussion point, we'll talk about [the Battleship project](http://tutorials.jumpstartlab.com/projects/battleship.html).
 Please find a few minutes to read the project description.
 
 ### Number Systems
