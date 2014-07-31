@@ -5,18 +5,81 @@ layout: outline
 
 ## Everyone
 
+### Warmup
+
+This morning we'll start off together by walking through a solution to the
+sorted-list merge problem from tomorrow.
+
 ## 1406
 
-### CloneWars Evaluations
+### CloneWars Peer Review & Refactoring (9:00-12:00)
+
+When you are not doing an instructor assessment, please...
+
+* get together with the pair listed below
+* complete a peer review and send a pull request to turingschool/submissions
+* refactor/improve their code and submit at least one pull request to the project
+
+#### Pairings
+
+* Chad & Jonmichael review the project by Corey/Marc/Robert
+* Gustavo & Eric review the project by Andy/Emily
+* Hilary & Alan review the project by Watts/Allison/Horacio
+* Corey & Watts review the project by Tim/Tan/Will
+* Marc & Allison review the project by Chad/Gustavo/Hilary
+* Robert & Horacio review the project by Andy/Emily
+* Andy & Tim review the project by Jonmichael/Eric/Alan
+* Emily, Tan, and Will review the project by Watts/Allison/Horacio
+
+### CloneWars Instructor Evaluations
+
+#### With Jorge
+
+* 9:15 - Chad Brading, Gustavo Villagrana, Hilary Denton
+* 10:00 - Corey Davis, Marc Garreau, Robert Gu
+* 10:45 - Andy Mention, Emily Davis
+
+#### With Jeff
+
+* 9:15 - Jonmichael Chambers, Eric Fransen, Alan Smith
+* 10:00 - Andrew Watkins, Allison Larson, Horacio Chavez
+* 10:45 - Tim Proctor, Tan Doan, Will Faurot
 
 ### CloneWars Recap & Refactor
+
+* Jorge will run a session about XYZ
+* Josh will run a session about XYZ
+
+#### Group 1
+
+Group 1 will be with Jorge 1:00-2:00 and Josh 2:00-3:00.
+
+Members include Chad Brading, Gustavo Villagrana, Hilary Denton, Corey Davis, Marc Garreau, Emily Davis, Robert Gu, Jonmichael Chambers, and Eric Fransen.
+
+#### Group 2
+
+Group 2 will be with Josh 1:00-2:00 and Jorge 2:00-3:00.
+
+Members include Alan Smith, Andrew Watkins, Allison Larson, Horacio Chavez, Tim Proctor, Tan Doan, Will Faurot, Andy Mention.
 
 ## 1407
 
 ### Thinking in Algorithms
 
+First up this morning you'll work with Rachel in the classroom space.
+
 ### Ruby's Object Model
+
+Next up you'll work with Josh to begin exploring Ruby's Object Model.
 
 ### Encapsulation & Decomposition
 
+This afternoon Jeff will discuss the ideas of encapsulation and decomposition.
+
+As a starting point, we'll talk about [the Battleship project](http://tutorials.jumpstartlab.com/projects/battleship.html).
+Please find a few minutes to read the project description.
+
 ### Number Systems
+
+Then last for the day we'll discuss [Number Systems](http://tutorials.jumpstartlab.com/academy/workshops/number_systems.html)
+(binary, octal, and hexadecimal).
