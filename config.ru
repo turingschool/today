@@ -16,9 +16,12 @@ use Rack::TryStatic,
 
 # Serve a 404 page if all else fails
 run -> env {
+  building_page = File.expand_path("../build/build_status.html", __FILE__)
   not_found_page = File.expand_path("../build/404.html", __FILE__)
 
-  if File.exist?(not_found_page)
+  if File.exist?(building_page)
+    [ 200, { 'Content-Type' => 'text/html'}, [File.read(building_page)] ]
+  elsif File.exist?(not_found_page)
     [ 404, { 'Content-Type' => 'text/html'}, [File.read(not_found_page)] ]
   else
     [ 404, { 'Content-Type' => 'text/html' }, ['404 - page not found'] ]
