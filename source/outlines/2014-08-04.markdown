@@ -1,0 +1,56 @@
+---
+title: 140804
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### Web Applications Mid-Point Assessment (9:00-Noon)
+
+#### With Josh
+
+* 9:00 -
+* 9:45 -
+* 10:30 -
+* 11:15 -
+
+#### With Jeff
+
+* 9:00 -
+* 9:45 -
+* 10:30 -
+* 11:15 -
+
+#### With Jorge
+
+* 10:30 -
+* 11:15 -
+
+### Blogger Work Time (9:00-Noon)
+
+When you're not doing assessments, please finish up your Blogger project.
+
+### Understanding MVC
+
+Meet with Jeff in the **classroom space** to discuss MVC.
+
+### Understanding REST
+
+Meet with Rachel in the **classroom space** to discuss REST.
+
+## 1407
+
+### REPL Essentials (9:00-10:30)
+
+Meet with Jorge in the **classroom space** to talk about and practice with
+REPLs.
+
+### Testing a CLI (10:30-Noon)
+
+Meet with Rachel in the **classroom space** to talk about testing a CLI.
+
+### Mastermind / Battleship Work Time (1:00-4:00)
+
+This afternoon work on pushing your game forward.
