@@ -1,0 +1,179 @@
+---
+title: 140801
+layout: outline
+---
+
+## Everyone
+
+### Friday Cleanup (8:15-9:00)
+
+First up this morning we'll...
+
+* have a bit of community breakfast
+* work on cleaning out the fridge
+* clean up our room (put things back, clean up wiring, etc)
+
+### Guest: Ben Johnson (10:00-11:00)
+
+This morning we'll be joined by one of our great mentors, Ben Johnson. You can
+find out more about Ben here:
+
+* [On Twitter](https://twitter.com/benbjohnson)
+* His projects including [the Bolt database](https://github.com/boltdb/bolt),
+[megajson](https://github.com/benbjohnson/megajson), and the [Sky database](https://github.com/skydb/sky).
+
+Some things that you might want to ask Ben about include:
+
+* What does he like about working in Go day-to-day? What are plusses and minuses
+compared to developing with Ruby?
+* How did he start into open source? When/how did it become a paid gig?
+* What has he observed as a mentor for past students/classes?
+
+### Lightning Talks (11:00-11:40)
+
+This morning we'll have our first batch of four Lightning Talks from
+Chad Brading, Gustavo Villagrana, Hilary Denton, and Corey Davis.
+
+### Feedback (3:30-4:00)
+
+This afternoon we need you to dedicate some good time to feedback. Each class
+will have a survey posted and we expect you to spend this time completing it.
+
+### Wrapup (4:00)
+
+Finally we'll close out the week all together in the classroom at 4pm.
+
+## 1406
+
+### Retrospective (9:00-10:00)
+
+#### Personal Writing (9:00-9:30)
+
+Please use the **work area** to complete a personal retro considering some
+of the following questions:
+
+* CloneWars was both a short project and the first time most people had worked
+in a group of three. How did it go? Did you get 50% more work done than if
+there had just been two of you?
+* What work styles feel most comfortable to you? Many groups went for
+three-person mob programming. Was it worth the person hours to have three people
+working together?
+* Were you happy with the outcomes of the project? If you could go back to Monday,
+what would you do differently? The same? What did you learn about the people
+in your group?
+* Was it exciting to build a first legit web application? Where do you see
+your skills headed from here? What do you look forward to about the next projects?
+
+#### Group Discussion (9:30-10:00)
+
+Meet in the **classroom space** for a group conversation.
+
+### Blogger (1:00-4:00)
+
+This afternoon it's time to start into the Blogger tutorial.
+
+By Tuesday morning you need to have:
+
+* *carefully* completed the [base tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+* completed at least one additional tutorial: [static pages](http://tutorials.jumpstartlab.com/topics/blogger/static_pages.html),
+[stats dashboard](http://tutorials.jumpstartlab.com/topics/blogger/stats_dashboard.html),
+[slimming controllers](http://tutorials.jumpstartlab.com/topics/controllers/slimming_controllers.html),
+[using modules](http://tutorials.jumpstartlab.com/topics/models/modules.html)
+
+Please note that the extensions are much less frequently used than the main
+tutorial and you're likely to run into hiccups. Please use Slack to communicate
+and help each other, then submit pull requests with corrections/clarifications.
+
+I would strongly recommend that you **not** copy/paste anything out of the
+tutorials. Typing things out yourself and making small mistakes is a valuable
+part of the process.
+
+### 1-on-1s (1:00-3:30)
+
+#### With Rachel
+
+* 1:30 - Tim Proctor
+* 1:45 - Alan Smith
+* 2:00 - Corey Davis
+* 2:15 - Marc Garreau
+
+#### With Josh
+
+* 1:30 - Hilary Denton
+* 1:45 - Horacio Chavez
+* 2:00 - Eric Fransen
+* 2:15 - Will Faurot
+
+#### With Jorge
+
+* 1:30 - Emily Davis
+* 1:45 - Jonmichael Chambers
+* 2:00 - Tan Doan
+* 2:15 - Allison Larson
+
+#### With Jeff
+
+* 1:30 - Chad Brading
+* 1:45 - Andrew Watkins
+* 2:00 - Robert Gu
+* 2:15 - Gustavo Villagrana
+
+## 1407
+
+### Retrospective
+
+#### Group Discussion (9:00-9:30)
+
+First please meet in the **classroom space** and crunch up to the front left
+away from the A/C units so we can actually hear each other.
+
+#### Personal Writing (9:30-10:00)
+
+Second please use the **work area** to complete a personal retro answering one
+or more of the following questions:
+
+* This week the level of difficulty stepped up a bit. Did you feel ready? What strategies did you use to cope/succeed?
+* We've talked a lot over the past week about objects, methods, and the Ruby Object Model. Is that making sense or still confusing? Why? What parts have clicked and which are troubling?
+* You spent almost the whole week working in pairs. How has that gone? Anyone you've particularly loved working with? Why? How can you be the person that others love to work with?
+* How are you managing your personal schedule? Are you being efficient with your commute, time at school, and rest/sleep? What can you improve?
+* How is programming, in general, matching up with your expectations? Do you think this is something you'll be doing ten years from now?
+
+### Mastermind (1:00-3:30)
+
+The Mastermind project will be due on Thursday, 8/7. You'll complete it
+individually but are welcome to collaborate as you see fit.
+
+#### Kickoff (1:00-1:30)
+
+Let's start the afternoon by checking out the Mastermind project and exploring
+strategies for completion.
+
+[Here's the assignment](http://tutorials.jumpstartlab.com/projects/mastermind.html)
+
+#### Work Time (1:30-3:30)
+
+Then you have the rest of the afternoon to get going with it.
+
+### 1-on-1s (2:30-3:30)
+
+#### With Rachel
+
+* 2:30 - Rolando Navarette
+* 2:45 - Sara Simon
+* 3:00 - Aaron Paul Wortham
+
+#### With Josh
+
+* 2:30 - Kavita Sachdeva
+* 2:45 - Ian Anderson
+* 3:00 - Jessica Goulding
+
+#### With Jorge
+
+* 2:30 - Glen Egbert
+* 2:45 - Cara Dennis
+
+#### With Jeff
+
+* 2:30 - Jim Sutton
+* 2:45 - Luke Aiken
