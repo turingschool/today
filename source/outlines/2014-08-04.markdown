@@ -5,9 +5,12 @@ layout: outline
 
 ## Everyone
 
+### Posse Meeting Time
+
+
 ## 1406
 
-### Web Applications Mid-Point Assessment (9:00-Noon)
+### Web Applications with Ruby Midway Assessment (9:00-Noon)
 
 #### With Josh
 
@@ -18,23 +21,37 @@ layout: outline
 
 #### With Jeff
 
-* 9:00 -
-* 9:45 -
 * 10:30 -
 * 11:15 -
 
 #### With Jorge
 
+* 9:00 -
+* 9:45 -
 * 10:30 -
 * 11:15 -
 
 ### Blogger Work Time (9:00-Noon)
 
-When you're not doing assessments, please finish up your Blogger project.
+When you're not doing assessments, please finish up your Blogger project along
+with the extensions.
 
 ### Understanding MVC
 
 Meet with Jeff in the **classroom space** to discuss MVC.
+
+#### Key Ideas
+
+* Server IP and Port
+* Front-end Web Server
+* Web application server
+* Receiving the Request - Router
+* Processing the Request - Controller
+* Business Logic & Database - Model
+* Output Template - View
+* Returning HTML
+
+Here's [an illustration of the whole flow](http://tutorials.jumpstartlab.com/images/rails_mvc.png).
 
 ### Understanding REST
 
@@ -44,13 +61,9 @@ Meet with Rachel in the **classroom space** to discuss REST.
 
 ### REPL Essentials (9:00-10:30)
 
-Meet with Jorge in the **classroom space** to talk about and practice with
+Meet with Jeff in the **classroom space** to talk about and practice with
 REPLs.
 
-### Testing a CLI (10:30-Noon)
-
-Meet with Rachel in the **classroom space** to talk about testing a CLI.
-
-### Mastermind / Battleship Work Time (1:00-4:00)
+### Mastermind / Battleship Work Time (10:30-4:00)
 
 This afternoon work on pushing your game forward.
