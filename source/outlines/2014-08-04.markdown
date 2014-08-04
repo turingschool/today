@@ -19,12 +19,14 @@ then vote for your answers on the front board.
 
 #### Experiment with jQuery
 
-Tomorrow night the community night will feature JavaScript exercises using jQuery. 
+Tomorrow night the community night will feature JavaScript exercises using jQuery. It'd be great to have you if you can spare the time.
 
-http://tutorials.jumpstartlab.com/projects/javascript/jquery/hellojq.html
-http://tutorials.jumpstartlab.com/projects/javascript/jquery/jsrights.html
-http://tutorials.jumpstartlab.com/projects/javascript/jquery/jstasker.html
-http://tutorials.jumpstartlab.com/projects/javascript/jquery/jscart.html
+Today, work with your posse to try out some of the jQuery exercises. They're in increasing order of difficulty, so skip ahead if your group is already somewhat familiar/comfortable with JavaScript.
+
+* [HelloJQ](http://tutorials.jumpstartlab.com/projects/javascript/jquery/hellojq.html)
+* [JSRights](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jsrights.html)
+* [JSTasker](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jstasker.html)
+* [JSCart](http://tutorials.jumpstartlab.com/projects/javascript/jquery/jscart.html)
 
 ## 1406
 
@@ -71,6 +73,7 @@ Meet with Jeff in the **classroom space** to discuss MVC.
 
 #### Key Ideas
 
+* Request/response loop
 * Server IP and Port
 * Front-end Web Server
 * Web application server
