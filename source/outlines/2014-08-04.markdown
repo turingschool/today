@@ -5,10 +5,15 @@ layout: outline
 
 ## Everyone
 
+### Warmup
+
+Please complete [this logic problem](http://cl.ly/1M0B1j273Q1R) solo,
+then vote for your answers on the front board.
+
 ### Posse Meeting Time (3:00-4:00)
 
 We'll have some suggestions here about how to spend your posse time.
-Refresh about 2:30.
+Refresh this outline about 2:30.
 
 ## 1406
 
@@ -72,11 +77,27 @@ Meet with Rachel in the **classroom space** to discuss REST.
 
 ## 1407
 
-### REPL Essentials (9:00-10:30)
+### Mastermind/Battleship Pairing (9:00-Noon)
 
-Meet with Jeff in the **classroom space** to talk about and practice with
-REPLs.
+Having fun with Mastermind yet? Let's pair on it a bit.
 
-### Mastermind / Battleship Work Time (10:30-4:00)
+When you're *not* pairing with an instructor, work on the project on your own.
 
-This afternoon work on pushing your game forward.
+#### With Josh
+
+* 9:15 - Ian Anderson
+* 10:00 - Jessica Goulding
+* 10:45 - Cara Dennis
+
+#### With Jorge
+
+* 9:15 - Luke Aiken
+* 10:00 - Glen Egbert
+* 10:45 - Sara Simon
+* 11:30 - Rolando Navarette
+
+#### With Rachel
+
+* 9:15 - Kavita Sachdeva
+* 10:00 - Jim Sutton
+* 10:45 - Aaron Paul Wortham
