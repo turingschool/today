@@ -12,8 +12,19 @@ then vote for your answers on the front board.
 
 ### Posse Meeting Time (3:00-4:00)
 
-We'll have some suggestions here about how to spend your posse time.
-Refresh this outline about 2:30.
+#### Organizing (3:00-3:15)
+
+* Make pairing appointments with each other student in your posse
+* Reach out to mentors about setting up pairing or code review sessions
+
+#### Experiment with jQuery
+
+Tomorrow night the community night will feature JavaScript exercises using jQuery. 
+
+http://tutorials.jumpstartlab.com/projects/javascript/jquery/hellojq.html
+http://tutorials.jumpstartlab.com/projects/javascript/jquery/jsrights.html
+http://tutorials.jumpstartlab.com/projects/javascript/jquery/jstasker.html
+http://tutorials.jumpstartlab.com/projects/javascript/jquery/jscart.html
 
 ## 1406
 
