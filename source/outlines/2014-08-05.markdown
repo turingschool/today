@@ -1,0 +1,51 @@
+---
+title: 140805
+layout: outline
+---
+
+## Everyone
+
+As mentioned yesterday, the water is being turned off in the building for
+repairs noon to 4pm. So, this afternoon, let's migrate over to Society. Please
+meet there by 1pm.
+
+### Warmup
+
+This morning for warmup please jump into your next/current Exercism exercise.
+
+For an added twist, try implementing your solution using as few total lines of
+code as possible.
+
+### Community Night (6:00-8:00)
+
+If possible, it'd be great to have some of you stick around for Community
+Night. Rachel will be leading a session about jQuery.
+
+## 1406
+
+You're in the **work space** all morning.
+
+### Contact Manager (9:00-4:00)
+
+With Blogger complete, let's move on to a more complex tutorial that integrates
+testing.
+
+Complete the [ContactManager tutorial](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
+by 1pm Thursday.
+
+## 1407
+
+You're in the **classroom space** all morning.
+
+### REPL Essentials (9:00-10:00)
+
+First up, Jorge will work with you on better understanding REPL-style
+interfaces.
+
+### Building a REPL with Tests (10:00-12:00)
+
+Next, Rachel will work with you on how to test-drive a REPL interface.
+
+### Games Work Time (1:00-4:00)
+
+Then, this afternoon, push forward with your game.
