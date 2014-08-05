@@ -48,9 +48,11 @@ The game should,
 3. Tell you if your guess is above, below or right.
 4. Allow you to play again.
 
-### Building a REPL with Tests (10:00-12:00)
+### Writing CLI Tests (10:00-12:00)
 
-Next, Rachel will work with you on how to test-drive a REPL interface.
+How do you test input and output for a CLI? We'll keep building on Jorge's 
+Numbermind game to add tests that check output printed to the console and input
+passed in by the user. 
 
 ### Games Work Time (1:00-4:00)
 
