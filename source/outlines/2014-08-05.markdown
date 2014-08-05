@@ -40,7 +40,13 @@ You're in the **classroom space** all morning.
 ### REPL Essentials (9:00-10:00)
 
 First up, Jorge will work with you on better understanding REPL-style
-interfaces.
+interfaces. You'll build a game with a very original name: Numbermind.
+The game should,
+
+1. Generate a random number.
+2. Take a guess from the user.
+3. Tell you if your guess is above, below or right.
+4. Allow you to play again.
 
 ### Building a REPL with Tests (10:00-12:00)
 
