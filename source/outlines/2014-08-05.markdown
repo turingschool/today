@@ -40,11 +40,19 @@ You're in the **classroom space** all morning.
 ### REPL Essentials (9:00-10:00)
 
 First up, Jorge will work with you on better understanding REPL-style
-interfaces.
+interfaces. You'll build a game with a very original name: Numbermind.
+The game should,
 
-### Building a REPL with Tests (10:00-12:00)
+1. Generate a random number.
+2. Take a guess from the user.
+3. Tell you if your guess is above, below or right.
+4. Allow you to play again.
 
-Next, Rachel will work with you on how to test-drive a REPL interface.
+### Writing CLI Tests (10:00-12:00)
+
+How do you test input and output for a CLI? We'll keep building on Jorge's 
+Numbermind game to add tests that check output printed to the console and input
+passed in by the user. 
 
 ### Games Work Time (1:00-4:00)
 
