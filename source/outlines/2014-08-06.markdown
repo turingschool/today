@@ -71,7 +71,7 @@ second listed person's project.
 
 #### Debugging 1-4
 
-Debugging with Josh. Material is [here](http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html).
+Debugging with Josh. Material is [here](http://tutorials.jumpstartlab.com/topics/debugging/debugging.html).
 
 #### Focus: Tagging
 
