@@ -1,0 +1,78 @@
+---
+title: 140806
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+Let's try another small warmup exercise in pairs.
+
+#### Challenge
+
+[Word Rotation](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/word_rotation.markdown)
+
+#### Pairings
+
+* Tim Proctor & Cara Dennis
+* Alan Smith & Aaron Paul Wortham
+* Jonmichael Chambers & Kavita Sachdeva
+* Eric Fransen & Ian Anderson
+* Robert Gu & Glen Egbert
+* Allison Larson & Rolando Navarette
+* Will Faurot & Luke Aiken
+* Gustavo Villagrana & Sara Simon
+* Horacio Chavez & Jessica Goulding
+* Emily Davis & Jim Sutton
+* Tan Doan & Corey Davis
+* Chad Brading & Marc Garreau
+* Andrew Watkins & Hilary Denton
+
+## 1406
+
+### Acceptance Testing with Phantom & Poltergeist (9:00-10:30)
+
+First up morning you'll meet with Josh in the **classroom** to
+learn about testing your JavaScript.
+
+### Unit Testing Rails Models (10:30-Noon)
+
+Next you'll work with Jorge in the **classroom** to look at
+unit testing Rails models.
+
+### ContactManager Work Time (1:00-4:00)
+
+Then this afternoon you're in the **workspace** to push
+forward on your ContactManager tutorial.
+
+## 1407
+
+### Games Pairing & Work Time (9:00-Noon)
+
+This morning let's try something a little different.
+
+#### Pairings
+
+#### Procedure
+
+From 9:00-10:30, the two of you should pair program, working
+on the first listed person's project.
+
+From 10:30-Noon, the two of you should pair, working on the
+second listed person's project.
+
+#### Focus: Tagging
+
+You've had some good exposure to pairing, but you don't have
+a lot of "tooling" around how to be a good pair.
+
+One simple idea to practice today is *tag*.
+
+You **must** have two keyboards to pair effectively.
+When you're ready to take control of the typing, you
+say *tag*. If you're typing and you hear *tag*, it means
+hands up/off the keyboard immediately, mid-word.
+
+An effective pair is tagging at least every 90 seconds. Try
+that today. It'll feel cheesy at first, but stick with it.
