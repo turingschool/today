@@ -34,7 +34,7 @@ Let's try another small warmup exercise in pairs.
 ### Acceptance Testing with Phantom & Poltergeist (9:00-10:30)
 
 First up morning you'll meet with Josh in the **classroom** to
-learn about testing your JavaScript.
+learn about testing your JavaScript. Material is [here](http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html)
 
 ### Unit Testing Rails Models (10:30-Noon)
 
@@ -68,6 +68,10 @@ on the first listed person's project.
 
 From 10:30-Noon, the two of you should pair, working on the
 second listed person's project.
+
+#### Debugging 1-4
+
+Debugging with Josh. Material is [here](http://tutorials.jumpstartlab.com/topics/debugging/debugging.html).
 
 #### Focus: Tagging
 
