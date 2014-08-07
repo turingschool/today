@@ -32,7 +32,18 @@ name to the front whiteboard.
 ### ContactManager Group Wrapup (1:00-3:30)
 
 To close out ContactManager we'll do a mix of full-group review
-and refactor session.
+and refactor session in the **classroom**.
+
+Here's our plan:
+
+* Part 1: Questions. What makes the least sense? What parts were
+you able to complete but don't understand how they work?
+* Part 2: Looking at Controllers. Together we'll check
+out some controller actions and discuss what makes a controller
+"good" or "bad".
+* Part 3: Paired refactoring. You'll pair up with a second person,
+then grab a third person's project and work on improving the
+code base.
 
 ## 1406
 
