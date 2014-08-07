@@ -27,14 +27,14 @@ ContactManager, Battleship, and Mastermind. If you've
 built something you're ready to show off, please add your
 name to the front whiteboard.
 
-## 1406
+## 1407
 
 ### ContactManager Group Wrapup (1:00-3:30)
 
 To close out ContactManager we'll do a mix of full-group review
 and refactor session.
 
-## 1407
+## 1406
 
 ### Game Evaluations (1:00-3:30)
 
