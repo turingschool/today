@@ -1,0 +1,58 @@
+---
+title: 140806
+layout: outline
+---
+
+## Everyone
+
+We'll skip warmup this morning since you're likely
+preoccupied with the assignments you have due today.
+
+### Morning Work Time (9:00-Noon)
+
+You have the morning to finish up your projects.
+
+For 1406, if you finish your game, consider (a)
+refactoring to improve the code quality or (b) trying
+an extension *in a feature branch*.
+
+For 1407, if you finish ContactManager, delete the
+implementation of one or more controller methods and
+see if you can reimplement it without guidance.
+
+### Showcase (3:30-4:00)
+
+This afternoon we'll have a showcase to show off Blogger,
+ContactManager, Battleship, and Mastermind. If you've
+built something you're ready to show off, please add your
+name to the front whiteboard.
+
+## 1406
+
+### ContactManager Group Wrapup (1:00-3:30)
+
+To close out ContactManager we'll do a mix of full-group review
+and refactor session.
+
+## 1407
+
+### Game Evaluations (1:00-3:30)
+
+This afternoon you'll meet with an instructor to evaluate
+your project.
+
+#### With Rachel
+
+* 1:00 - Jim Sutton
+* 1:30 - Kavita Sachdeva
+* 2:00 - Glen Egbert
+* 2:30 - Rolando Navarette
+* 3:00 - Sara Simon
+
+#### With Jorge
+
+* 1:00 - Luke Aiken
+* 1:30 - Jessica Goulding
+* 2:00 - Cara Dennis
+* 2:30 - Ian Anderson
+* 3:00 - Aaron Paul Wortham
