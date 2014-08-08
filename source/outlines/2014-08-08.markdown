@@ -33,12 +33,14 @@ she thinks and solves problems?
 
 Lightning talks? We don't need no stinkin' lightning talks!
 
-This morning let's jump into an interesting algorithmic problem:
+This morning let's jump into an interesting algorithmic problem: a Sudoku solver. You won't get it built in the hour, but see if you can finish it today.
 
-[Sudoku Solver](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/sudoku_solver.markdown)
-
-You won't get it built in the hour, but see if you can finish it today. You're
-welcome to work in pairs or solo at your discretion.
+* Write an algorithm and implementation that can solve any deterministic Sudoku.
+* Start with **simple elements** and build up
+* If you're not familiar with the problem, [read about it](http://en.wikipedia.org/wiki/Sudoku)
+* There are many sources for sample boards, [here's one](http://www.nikoli.com/en/puzzles/sudoku/)
+* You're welcome to work in pairs or solo at your discretion.
+* Of course you should be using TDD and good Ruby practices along the way
 
 ### Feedback (3:30-4:00)
 
