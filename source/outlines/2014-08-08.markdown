@@ -18,7 +18,8 @@ First up this morning let's...
 This morning we'll be joined by our good friend Katrina Owen. You can
 find out more about Ben here:
 
-* [On Twitter](https://twitter.com/kytrynx)
+* [On Twitter](https://twitter.com/kytrinyx)
+* [On GitHub](https://github.com/kytrinyx)
 
 Some things that you might want to ask Katrina about include:
 
@@ -36,11 +37,8 @@ This morning let's jump into an interesting algorithmic problem:
 
 [Sudoku Solver](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/sudoku_solver.markdown)
 
-You won't get it built in the hour, but see if you can finish it today.
-
-#### Pairings
-
-
+You won't get it built in the hour, but see if you can finish it today. You're
+welcome to work in pairs or solo at your discretion.
 
 ### Feedback (3:30-4:00)
 
@@ -67,7 +65,13 @@ Meet in the **classroom space** for a group conversation.
 Please use the **work area** to complete a personal retro considering some
 of the following questions:
 
+* You worked hard on the Blogger and ContactManager over the past week. Did you do them "well"? How do you know? What things do you feel strong in, and which feel week?
+* You're halfway through this class. Where are your skills going to be in three weeks? What could you build on your own right now, and what do you think you'll be able to do then? How do you think you'll do in the assessment in the last week?
+* We can't really push you through learning, you have to make your own way. What resources (technological, physical, human, etc) are you taking advantage of to propel/accelerate your learning? What can you make better use of? How will you do it?
+
 ### 1-on-1s (1:00-3:30)
+
+Schedule will be up by the end of lunch.
 
 ## 1407
 
@@ -78,9 +82,15 @@ of the following questions:
 Second please use the **work area** to complete a personal retro answering one
 or more of the following questions:
 
+* The games were a tough challenge. What were your thoughts about the group's achievement after evaluations and showcase yesterday? Where do you feel you stand in relation to your peers? Is that where you belong?
+* You're halfway through this class. Where are your skills going to be in three weeks? What could you build on your own right now, and what do you think you'll be able to do then? How do you think you'll do in the assessment in the last week?
+* We can't really push you through learning, you have to make your own way. What resources (technological, physical, human, etc) are you taking advantage of to propel/accelerate your learning? What can you make better use of? How will you do it?
+
 #### Group Discussion (10:30-11:00)
 
 Please meet in the **classroom space** and crunch up to the front left
 away from the A/C units so we can actually hear each other.
 
 ### 1-on-1s (2:30-3:30)
+
+Schedule will be up by the end of lunch.
