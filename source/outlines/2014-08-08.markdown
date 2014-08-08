@@ -1,0 +1,86 @@
+---
+title: 140808
+layout: outline
+---
+
+## Everyone
+
+### Friday Cleanup (8:15-9:00)
+
+First up this morning let's...
+
+* have a bit of community breakfast thanks to our friends at CoverMyMeds
+* work on cleaning out the fridge
+* clean up our room (put things back, clean up wiring, etc)
+
+### Guest: Katrina Owen (9:00-10:00)
+
+This morning we'll be joined by our good friend Katrina Owen. You can
+find out more about Ben here:
+
+* [On Twitter](https://twitter.com/kytrynx)
+
+Some things that you might want to ask Katrina about include:
+
+* What reflections does she have now being six-months removed from teaching
+gSchool?
+* What's it been like to be someone who got into programming "late"?
+* How has working in Go day-to-day for the past few months affected the way
+she thinks and solves problems?
+
+### Sudoku Throwdown (11:00-12:00)
+
+Lightning talks? We don't need no stinkin' lightning talks!
+
+This morning let's jump into an interesting algorithmic problem:
+
+[Sudoku Solver](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/sudoku_solver.markdown)
+
+You won't get it built in the hour, but see if you can finish it today.
+
+#### Pairings
+
+
+
+### Feedback (3:30-4:00)
+
+Thanks for your feedback on the survey last week. It gives us great things
+to think about going into the weekend.
+
+Please spend these 30 minutes on
+[this week's survey]().
+
+### Wrapup (4:00)
+
+Finally we'll close out the week all together in the classroom at 4pm.
+
+## 1406
+
+### Retrospective (10:00-11:00)
+
+#### Group Discussion (10:00-10:30)
+
+Meet in the **classroom space** for a group conversation.
+
+#### Personal Writing (10:30-11:00)
+
+Please use the **work area** to complete a personal retro considering some
+of the following questions:
+
+### 1-on-1s (1:00-3:30)
+
+## 1407
+
+### Retrospective
+
+#### Personal Writing (10:00-10:30)
+
+Second please use the **work area** to complete a personal retro answering one
+or more of the following questions:
+
+#### Group Discussion (10:30-11:00)
+
+Please meet in the **classroom space** and crunch up to the front left
+away from the A/C units so we can actually hear each other.
+
+### 1-on-1s (2:30-3:30)
