@@ -55,7 +55,25 @@ addressing one or more of the following questions:
 * You're halfway through this class. Where are your skills going to be in three weeks? What could you build on your own right now, and what do you think you'll be able to do then? How do you think you'll do in the assessment in the last week?
 * We can't really push you through learning, you have to make your own way. What resources (technological, physical, human, etc) are you taking advantage of to propel/accelerate your learning? What can you make better use of? How will you do it?
 
-### 1-on-1s & Self Study
+### Getting Started with EventReporter
+
+Find the [EventReporter assignment here](http://tutorials.jumpstartlab.com/projects/event_reporter.html).
+
+**1406** - Sometime this afternoon, would you find the 1407 people in your
+posse and give them a demo/recap of your EventReporter project?
+
+**1407** - Get together with your pair below and start in. The project is due
+at 1pm on Thursday, 8/14.
+
+#### Pairs
+
+* Ian Anderson & Cara Dennis
+* Aaron Paul Wortham & Kavita Sachdeva
+* Sara Simon & Jim Sutton
+* Jessica Goulding & Rolando Navarette
+* Glen Egbert & Luke Aiken
+
+### 1-on-1s
 
 This afternoon our 1-on-1s schedule is a little tighter with Josh out. We'll do our best to stay on schedule.
 
