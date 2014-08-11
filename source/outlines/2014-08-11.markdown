@@ -15,10 +15,26 @@ your current exercise.
 
 ### Posse Meeting Time (3:00-4:00)
 
-#### Organizing (3:00-3:10)
+#### Organizing (3:00-3:15)
 
+* Research your new posse members
+* Read the mentors email that Rachel sent out on Friday
+* Email your mailing list with a description/summary of what you've been
+doing so far, what's worked well and what hasn't
 * Make pairing appointments with each other student in your posse
 * Reach out to mentors about setting up pairing or code review sessions
+
+#### Work Period (3:15-4:00)
+
+During this time, do some programming with the other members of your posse. Some
+ideas include:
+
+* Last week everyone completed something. Show off the most difficult parts of
+your work and get feedback. Look at the ugliest parts and do some refactoring.
+* This week you're into new things. Talk about how you might design the
+implementation. What are potential potholes along the way?
+* Posses superseeded reading groups. It would be really amazing, though, to see
+you select and read a text as a group.
 
 ## 1406
 
@@ -44,4 +60,4 @@ This morning keep working on your EventReporter project in the workspace.
 ### Revising Enumerable (1:00-3:00)
 
 This afternoon, please meet with Jeff in the *classroom* to discuss
-[Visualizing Enumerable](http://tutorials.jumpstartlab.com/topics/enumerable/visualizing_enumerable.html)
+[Visualizing Enumerables](http://tutorials.jumpstartlab.com/topics/enumerable/visualizing_enumerables.html)
