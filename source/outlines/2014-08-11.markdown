@@ -56,13 +56,19 @@ When we get to the exercise part, use the following pairs:
 
 ### Dinner Dash (1:00-3:00)
 
-This afternoon please dive into [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
-
 The project is due at 9AM on Thursday, 8/28.
 
-#### Groupings
+#### Teams
 
-Groups will be posted during lunch today.
+#### First Look (1:00-2:30)
+
+First up this afternoon, get together with your group and start
+dissecting the [Dinner Dash assignment](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
+
+#### Q&A / Planning Chat (2:30-3:00)
+
+Then at 2:30 please come to the **classroom** space for a group
+discussion about the project, strategy, and to answer your questions.
 
 ## 1407
 
@@ -70,7 +76,21 @@ Groups will be posted during lunch today.
 
 This morning keep working on your EventReporter project in the workspace.
 
-### Revising Enumerable (1:00-3:00)
+### Revising Enumerable (1:00-2:30)
 
 This afternoon, please meet with Jeff in the *classroom* to discuss
 [Visualizing Enumerables](http://tutorials.jumpstartlab.com/topics/enumerable/visualizing_enumerables.html)
+
+### Enumerable Practice (2:30-3:00)
+
+After our group discussion, please get together with the pair below to
+continue working on the Enumerable exercises. You should pair program on
+one person's code, probably starting with whoever has completed fewer of
+the exercises.
+
+* Cara Dennis & Rolando Navarette
+* Jim Sutton & Glen Egbert
+* Luke Aiken & Ian Anderson
+* Sara Simon & Kavita Sachdeva
+* Aaron Paul Wortham & Jessica Goulding
+
