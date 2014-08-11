@@ -43,6 +43,17 @@ you select and read a text as a group.
 This morning meet with Jeff in the **classroom** to study
 [Fundamental Authentication](http://tutorials.jumpstartlab.com/topics/auth/fundamental_authentication.html).
 
+When we get to the exercise part, use the following pairs:
+
+* Marc Garreau & Will Faurot
+* Tan Doan & Allison Larson
+* Emily Davis & Chad Brading
+* Jonmichael Chambers & Hilary Denton
+* Alan Smith & Robert Gu
+* Gustavo Villagrana & Tim Proctor
+* Horacio Chavez & Andrew Watkins
+* Eric Fransen & Corey Davis & Andy Mention
+
 ### Dinner Dash (1:00-3:00)
 
 This afternoon please dive into [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
