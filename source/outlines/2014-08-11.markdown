@@ -1,0 +1,47 @@
+---
+title: 140811
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+This morning, please go on to Exercism and leave feedback on at least three
+other submissions.
+
+If you're not able to leave feedback yet, work on / complete
+your current exercise.
+
+### Posse Meeting Time (3:00-4:00)
+
+#### Organizing (3:00-3:10)
+
+* Make pairing appointments with each other student in your posse
+* Reach out to mentors about setting up pairing or code review sessions
+
+## 1406
+
+### Authentication (9:00-12:00)
+
+This morning meet with Jeff in the **classroom** to study
+[Fundamental Authentication](http://tutorials.jumpstartlab.com/topics/auth/fundamental_authentication.html).
+
+### Dinner Dash (1:00-3:00)
+
+This afternoon please dive into [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
+
+#### Groupings
+
+Groups will be posted during lunch today.
+
+## 1407
+
+### EventReporter Work Time (9:00-12:00)
+
+This morning keep working on your EventReporter project in the workspace.
+
+### Revising Enumerable (1:00-3:00)
+
+This afternoon, please meet with Jeff in the *classroom* to discuss
+[Visualizing Enumerable](http://tutorials.jumpstartlab.com/topics/enumerable/visualizing_enumerable.html)
