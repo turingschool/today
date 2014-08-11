@@ -15,7 +15,11 @@ your current exercise.
 
 ### Posse Meeting Time (3:00-4:00)
 
-#### Organizing (3:00-3:15)
+#### State of Posses (3:00-3:05)
+* We'll gather in **classroom** space for a few minutes to go over posse/mentor
+feedback from Friday's survey.
+
+#### Organizing (3:05-3:20)
 
 * Research your new posse members
 * Read the mentors email that Rachel sent out on Friday
@@ -24,7 +28,7 @@ doing so far, what's worked well and what hasn't
 * Make pairing appointments with each other student in your posse
 * Reach out to mentors about setting up pairing or code review sessions
 
-#### Work Period (3:15-4:00)
+#### Work Period (3:20-4:00)
 
 During this time, do some programming with the other members of your posse. Some
 ideas include:
