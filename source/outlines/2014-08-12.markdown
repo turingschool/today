@@ -1,0 +1,45 @@
+---
+title: 140808
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### Dinner Dash Work Time (9:00-12:00)
+
+This morning use the **workspace** to build a *very small thing* that does a *very
+small job* correctly.
+
+### Authorization & Privileges (1:00-4:00)
+
+This afternoon meet with Jeff in the **classroom** to work on
+[Authorization](http://tutorials.jumpstartlab.com/topics/auth/authorization.html).
+
+## 1407
+
+### Measuring & Improving Test Coverage (9:00-10:30)
+
+First up, meet with Josh in the **classroom** to discuss test coverage.
+
+### Refactoring Patterns I (10:30-12:00)
+
+Meet with Jorge in the **classroom** to talk about some concrete strategies
+for refactoring code.
+
+### EventReporter Work & Check-Ins (1:00-4:00)
+
+This afternoon use the **workspace** to push forward with EventReporter and
+meet with an instructor to check-in on your progress.
+
+#### With Rachel
+
+* 1:00 - Ian Anderson & Cara Dennis
+* 2:00 - Aaron Paul Wortham & Kavita Sachdeva
+* 3:00 - Sara Simon & Jim Sutton
+
+#### With Jorge
+
+* 1:00 - Glen Egbert & Luke Aiken
+* 2:00 - Jessica Goulding & Rolando Navarette
