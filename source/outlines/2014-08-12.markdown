@@ -5,6 +5,17 @@ layout: outline
 
 ## Everyone
 
+### Warmup
+
+For warmup this morning, get together with at least one other member of your
+posse.
+
+If you have three students, use Rock-Paper-Scissors to find a winner. Then mob
+program on the winner's current Exercism.
+
+If you have four students, break into pairs and use R-P-S in each pair to choose
+which person's project to work on.
+
 ## 1406
 
 ### Dinner Dash Work Time (9:00-12:00)
