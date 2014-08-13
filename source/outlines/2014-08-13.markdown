@@ -5,11 +5,16 @@ layout: outline
 
 ## Everyone
 
+### Warmup
+
+This morning let's dive into another [logic game](http://cl.ly/0c402c1Y1R0c).
+
 ## 1406
 
 ### Pushing Logic Down The Stack (9:00-Noon)
 
-First up please meet with Jeff in the **classroom** to work on pushing logic down the stack.
+First up please meet with Jeff in the **classroom** to work on
+[pushing logic down the stack](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Dinner Dash Work Time (1:00-4:00)
 
