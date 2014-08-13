@@ -1,0 +1,30 @@
+---
+title: 140813
+layout: outline
+---
+
+## Everyone
+
+## 1406
+
+### Pushing Logic Down The Stack (9:00-Noon)
+
+First up please meet with Jeff in the **classroom** to work on pushing logic down the stack.
+
+### Dinner Dash Work Time (1:00-4:00)
+
+Then you have the afternoon in the **workspace** to make progress on Dinner Dash.
+
+## 1407
+
+### EventReporter Work Time (9:00-Noon)
+
+This morning is your last chunk of class time to complete EventReporter.
+
+### Big-O Analysis (1:00-2:30)
+
+This afternoon meet with Josh in the **classroom** to discuss Big-O.
+
+### Regular Expressions (2:30-4:00)
+
+Then continue with Rachel in the **classroom** to learn about Regular Expressions.
