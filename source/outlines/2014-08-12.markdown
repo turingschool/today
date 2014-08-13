@@ -32,7 +32,9 @@ This afternoon meet with Jeff in the **classroom** to work on
 
 ### Measuring & Improving Test Coverage (9:00-10:30)
 
-First up, meet with Josh in the **classroom** to discuss test coverage.
+Josh will be talking about Test Coverage. The material is at
+https://github.com/JoshCheek/measuring_and_improving_test_coverage
+Go ahead and clone it.
 
 ### Refactoring Patterns I (10:30-12:00)
 
