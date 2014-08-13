@@ -28,7 +28,7 @@ This morning is your last chunk of class time to complete EventReporter.
 
 ### Big-O Analysis (1:00-2:30)
 
-This afternoon meet with Josh in the **classroom** to discuss Big-O.
+Clone this repo! [https://github.com/JoshCheek/bib_o_notation](https://github.com/JoshCheek/bib_o_notation)
 
 ### Regular Expressions (2:30-4:00)
 
