@@ -1,0 +1,81 @@
+---
+title: 140813
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+Let's skip warmup today.
+
+### Lightning Talks (1:00-1:30)
+
+After lunch let's gather in the classroom space for lightning talks.
+
+## 1406
+
+Today's primarily a work day. When you're not doing check-ins, push forward
+on your project.
+
+Some things to consider:
+
+* Where did you think you'd be at this point? Are you there?
+* How's the team working together? You still have a long time together. Today
+would be a good opportunity to have a meeting about how the team is functioning.
+* What were your learning goals coming into the project? Are you realizing them?
+* Did you draw wireframes? Make other plans? Are you still following them, or
+did you make conscious decisions to move away from them?
+
+### Dinner Dash Check-Ins & Pairing
+
+We're able to do some long sessions today. The purposes of the session are:
+
+* for the instructor to get a sense of where you are
+* to help you over any specific technical hurdles
+* to review the quality of your work/code
+* to help you push forward (through pairing, etc)
+
+Sessions should last about 85 minutes, but the whole group doesn't need to
+be together the whole time.
+
+#### With Josh
+
+* 9:00 - Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu
+* 10:30 - Horacio Chávez, Corey Davis, Tan Doan, Hilary Denton
+
+#### With Jorge
+
+* 9:00 - Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
+* 10:30 - Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen
+
+## 1407
+
+### EventReporter Peer Evaluations
+
+When you are not doing an *instructor assessment*, please...
+
+* get together with the pair listed below
+* complete a peer review and send a pull request to turingschool/submissions
+* refactor/improve their code and submit *at least one pull request* to the project
+
+#### Pairings
+
+* review the project by Jessica & Rolando
+* review the project by Aaron & Cara
+* review the project by Sara & Jim
+* review the project by Glen & Luke
+* review the project by Ian & Kavita
+
+### EventReporter Instructor Evaluations
+
+#### With Rachel
+
+* 9:00 - Glen Egbert & Luke Aiken
+* 10:00 - Jessica Goulding & Rolando Navarette
+
+#### With Jeff
+
+* 9:00 - Ian Andersen & Kavita Sachdeva
+* 10:00 - Aaron Paul Wortham & Cara Dennis
+* 11:00 - Sara Simon & Jim Sutton
