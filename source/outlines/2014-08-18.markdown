@@ -1,0 +1,100 @@
+---
+title: 140818
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+You did a good job last week with leaving feedback on Exercism. Let's have that
+be our Monday thing.
+
+Please go on to Exercism and leave feedback on at least three
+other submissions. If you're not able to leave feedback yet, work on / complete
+your current exercise.
+
+### Posse Meeting Time (3:00-4:00)
+
+#### Organizing (3:00-3:15)
+
+* Read the mentors email that Rachel sent out on Friday
+* Email your mailing list with a description/summary of what you've been
+doing so far, what's worked well and what hasn't
+* Make pairing appointments with each other student in your posse
+* Reach out to mentors about setting up pairing or code review sessions
+* For pairing scheduling, keep in mind that 1406 has work time Tuesday AM,
+Wednesday PM, and Thursday PM. 1407 has work time Tuesday PM, Wednesday AM, and
+Thursday PM.
+
+#### Work Period (3:15-4:00)
+
+During this time, do some programming with the other members of your posse. Some
+ideas include:
+
+* Did you embark on a reading project last week? If so, this would be a good
+opportunity to check-in on progress and discuss what you've learned so far.
+
+## 1406
+
+### Effective Rails Models (9:00-12:00)
+
+This morning you'll meet with Jorge in the **classroom** to work on effective
+Rails models.
+
+### Dinner Dash Cross-Group Pairing (1:00-3:00)
+
+This afternoon we're going to mix it up a bit: you'll pair with a student from
+another team. Your goals are to:
+
+* understand where the other project stands
+* see if there are any takeaways that you can bring to your own project
+* help diagnose/address any clear issues (ex: how's their test coverage?)
+* push forward with new features your pair is working on
+
+Spend the first hour on the first pair member's project, then the second hour
+on the other.
+
+#### Pairings
+
+* Emily & Horacio
+* Tim & Watts
+* Gustavo & Allie
+* Robert & Andy
+* Corey & Jonmichael
+* Tan & Alan
+* Chad & Eric
+* Hilary & Marc & Will (40 mins each? Up to you.)
+
+## 1407
+
+### Starting SalesEngine (9:00-12:00)
+
+Take a look at the SalesEngine assignment and timeline:
+
+[SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
+
+The project is due at 9am on Thursday, August 28th.
+
+#### Intro (9:00-9:30)
+
+Start off in the **workspace** with Rachel to discuss the project from a high
+level.
+
+#### Planning & Design (9:30-11:00)
+
+Then get together with your pair to discuss, dissect, and come up with a
+strategy for how you'll attack SalesEngine.
+
+#### Pairings
+
+*
+
+#### All Together (11:00-12:00)
+
+Then let's get back together to answer question, discuss strategy, and highlight
+potential pitfalls.
+
+### MiniTest Tips & Techniques (1:00-3:00)
+
+This afternoon, join Josh in the **classroom** to go over MiniTest tips and techniques.
