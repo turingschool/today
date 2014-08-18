@@ -42,6 +42,14 @@ opportunity to check-in on progress and discuss what you've learned so far.
 This morning you'll meet with Jorge in the **classroom** to work on effective
 Rails models.
 
+You will learn about,
+
+* Active Record pattern
+* Migrations
+* Validations
+* Transactions
+* Scopes
+
 ### Dinner Dash Cross-Group Pairing (1:00-3:00)
 
 This afternoon we're going to mix it up a bit: you'll pair with a student from
