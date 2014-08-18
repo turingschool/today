@@ -64,7 +64,7 @@ on the other.
 * Corey & Jonmichael
 * Tan & Alan
 * Chad & Eric
-* Hilary & Marc & Will (40 mins each? Up to you.)
+* Hilary & Marc & Will (40 mins each? Just two projects for 60/each? Up to you.)
 
 ## 1407
 
@@ -88,11 +88,15 @@ strategy for how you'll attack SalesEngine.
 
 #### Pairings
 
-*
+* Cara Dennis & Luke Aiken
+* Jim Sutton & Aaron Paul Wortham
+* Kavita Sachdeva & Sara Simon
+* Rolando Navarette & Ian Andersen
+* Jessica Goulding & Glen Egbert
 
 #### All Together (11:00-12:00)
 
-Then let's get back together to answer question, discuss strategy, and highlight
+Then let's get back together to answer questions, discuss strategy, and highlight
 potential pitfalls.
 
 ### MiniTest Tips & Techniques (1:00-3:00)
