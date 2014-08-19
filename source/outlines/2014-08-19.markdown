@@ -9,7 +9,7 @@ layout: outline
 
 For warmup today, please work on completing your own Exercism exercise.
 
-## 1407
+## 1406
 
 ### Rails Views Tips & Tricks (9:00-10:30)
 
@@ -23,7 +23,7 @@ Then it's time to slay the boogeyman in the **classroom** with Steve.
 
 Then use the afternoon in the work area to make progress on Dinner Dash.
 
-## 1406
+## 1407
 
 ### SalesEngine Work Time (9:00-12:00)
 
