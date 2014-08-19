@@ -110,3 +110,10 @@ potential pitfalls.
 ### MiniTest Tips & Techniques (1:00-3:00)
 
 This afternoon, join Josh in the **classroom** to go over MiniTest tips and techniques.
+
+The session is based on this tutorial: http://tutorials.jumpstartlab.com/academy/workshops/minitest_techniques.html
+
+Also, please clone the following repos:
+
+* https://github.com/JoshCheek/event_reporter
+* https://github.com/turingschool/minitest_playground
