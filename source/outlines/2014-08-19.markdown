@@ -11,6 +11,20 @@ For warmup today, please work on completing your own Exercism exercise.
 
 ## 1406
 
+### Rails Views Tips & Tricks (9:00-10:30)
+
+Start with Rachel in the **classroom** to talk about Rails view templating.
+
+### Getting Started with JavaScript (10:30-12:00)
+
+Then it's time to slay the boogeyman in the **classroom** with Steve.
+
+### Dinner Dash Work Time (1:00-4:00)
+
+Then use the afternoon in the work area to make progress on Dinner Dash.
+
+## 1407
+
 ### SalesEngine Work Time (9:00-12:00)
 
 With some plans in place, dig in.
@@ -24,17 +38,3 @@ This afternoon join Jeff in the **classroom** to
 
 Then join Josh in the **classroom** to discuss Ruby's Garbage Collector and
 Object Lifecycle.
-
-## 1407
-
-### Rails Views Tips & Tricks (9:00-10:30)
-
-Start with Rachel in the **classroom** to talk about Rails view templating.
-
-### Getting Started with JavaScript (10:30-12:00)
-
-Then it's time to slay the boogeyman in the **classroom** with Steve.
-
-### Dinner Dash Work Time (1:00-4:00)
-
-Then use the afternoon in the work area to make progress on Dinner Dash.
