@@ -9,7 +9,7 @@ layout: outline
 
 For warmup today, please work on completing your own Exercism exercise.
 
-## 1406
+## 1407
 
 ### SalesEngine Work Time (9:00-12:00)
 
@@ -25,7 +25,7 @@ This afternoon join Jeff in the **classroom** to
 Then join Josh in the **classroom** to discuss Ruby's Garbage Collector and
 Object Lifecycle.
 
-## 1407
+## 1406
 
 ### Rails Views Tips & Tricks (9:00-10:30)
 
