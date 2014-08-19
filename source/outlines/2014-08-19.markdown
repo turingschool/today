@@ -36,5 +36,4 @@ This afternoon join Jeff in the **classroom** to
 
 ### Garbage Collection & Object Lifecycle (2:30-4:00)
 
-Then join Josh in the **classroom** to discuss Ruby's Garbage Collector and
-Object Lifecycle.
+Clone this repo: [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model).
