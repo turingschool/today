@@ -1,0 +1,69 @@
+---
+title: 140819
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+Here's a puzzle for you:
+
+Imagine you run a soccer league and you need to create a schedule. Each team
+plays only one game per week on Saturday.
+
+#### Easy
+
+Your league has eight teams. Generate (to the screen or to a file), a schedule that has each team play each other team exactly once.
+
+#### Medium
+
+Your league has two divisions of eight teams. Each team should play the other
+teams in their division twice and the teams in the other division just once.
+
+#### Hard
+
+Your league has four divisions of eight teams. Each team should play each team
+in their division twice and any two teams from each other division.
+
+## 1406
+
+### Dinner Dash Check-Ins & Work Time (9:00-Noon)
+
+This morning you should push forward on Dinner Dash and meet for the following
+checkins:
+
+#### With Jorge
+
+* 9:00-10:00 -- Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu
+
+#### With Josh
+
+* 9:00-10:00 -- Horacio Chávez, Corey Davis, Tan Doan, Hilary Denton
+
+#### With Rachel
+
+* 10:00-11:00 -- Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
+* 11:00-12:00 -- Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen
+
+### JS Outside a Browser (1:00-2:30)
+
+This afternoon Steve will work with you on using JavaScript away from a browser.
+
+### Getting Started with Jasmine (2:30-4:00)
+
+Then Jorge will follow up with an introduction to the Jasmine testing framework.
+
+## 1407
+
+### Encapsulating Responsibilities (9:00-10:00)
+
+First up today, Jeff will work with you in the **classroom** on understanding responsibilities and encapsulation.
+
+### Connecting Two Verticals (10:00-Noon)
+
+Then Jeff will use the **classroom** to discuss how you should architect the communication between clases in your Sales Engine projects.
+
+### SalesEngine Work Time (1:00-4:00)
+
+This afternoon you should connect with your pair and get to work!
