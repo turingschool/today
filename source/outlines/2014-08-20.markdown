@@ -30,8 +30,20 @@ in their division twice and any two teams from each other division.
 
 ### Dinner Dash Check-Ins & Work Time (9:00-Noon)
 
-This morning you should push forward on Dinner Dash and meet for the following
-checkins:
+This morning you should push forward on Dinner Dash and meet for the check-in sessions below.
+
+The key things we want to see/discuss are:
+
+* You're more than halfway done. There should be a "thing" that actually delivers
+some value. Can a customer see the products available? Can they add them to a cart?
+Can they check out?
+* Have you tackled the creation and usage of the cart? How does a cart become
+an order?
+* You probably should have some start of an admin interface. Can items be added
+through the site? Can you see orders?
+* What's your project timeline look like for the next week? Will you be cutting
+scope or adding extras?
+* Any blocking questions or issues?
 
 #### With Jorge
 
@@ -40,10 +52,10 @@ checkins:
 #### With Josh
 
 * 9:00-10:00 -- Horacio Chávez, Corey Davis, Tan Doan, Hilary Denton
+* 10:00-11:00 -- Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
 
 #### With Rachel
 
-* 10:00-11:00 -- Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
 * 11:00-12:00 -- Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen
 
 ### JS Outside a Browser (1:00-2:30)
@@ -56,11 +68,11 @@ Then Jorge will follow up with an introduction to the Jasmine testing framework.
 
 ## 1407
 
-### Encapsulating Responsibilities (9:00-10:00)
+### Encapsulating Responsibilities (9:00-10:30)
 
-First up today, Jeff will work with you in the **classroom** on understanding responsibilities and encapsulation.
+First up today, Rachel will work with you in the **classroom** on understanding responsibilities and encapsulation.
 
-### Connecting Two Verticals (10:00-Noon)
+### Connecting Two Verticals (10:30-Noon)
 
 Then Jeff will use the **classroom** to discuss how you should architect the communication between clases in your Sales Engine projects.
 
