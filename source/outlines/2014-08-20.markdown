@@ -73,6 +73,13 @@ First up today, Rachel will work with you in the **classroom** on understanding 
 
 Then Jeff will use the **classroom** to discuss how you should architect the communication between clases in your Sales Engine projects.
 
+Our high-level plan includes:
+
+* Whiteboard discussion of the SalesEngine object graph
+* Discussion about object life cycle in SE
+* Hack together an example SalesEngine, MerchantRepository, and Merchant
+* Break into pairs to implement a *sample* SalesEngine, CustomerRepository, and Customer
+
 ### SalesEngine Work Time (1:00-4:00)
 
 This afternoon you should connect with your pair and get to work!
