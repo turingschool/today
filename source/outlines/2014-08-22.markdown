@@ -25,11 +25,11 @@ Jud has several years of experience in software development. He cofounded Gnip, 
 
 Some things that you might want to ask Jud about include:
 
-1. How was to start your own company as a technical cofounder?
-2. What were the challenges that he was trying to solve while working at Netscape?
-3. If he were to start a new company, what would he do different?
+1. How much has the web changed since he worked at Netscape?
+2. What were the main challenges that Netscape has trying to overcome?
+3. What did he look for in an engineer when he was CTO?
 4. Was it hard to let go when Twitter acquired Gnip?
-5. What did he look for in an engineer when he was CTO?
+5. If he were to start a new company, what would he do different?
 
 ### Lightning Talks (11:00-12:00)
 
