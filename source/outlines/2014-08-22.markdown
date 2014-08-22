@@ -1,0 +1,92 @@
+---
+title: 140822
+layout: outline
+---
+
+### Retrospective (9:00-10:00)
+
+* 1407 will have group conversation first 9:00-9:30
+* 1406 will have group conversation second 9:30-10:00
+
+When you're not having your group conversation, write a personal retrospective
+addressing one or more of the following questions:
+
+* **1407**: You are about to finish SalesEngine. What has been the most challenging part of this project? How are you communicating with your partner to successfully complete this project's functionality? How comfortable do you feel with your current Ruby skills?
+* **1406**: Dinner Dash is your first Rails project. Did you feel that the previous tutorials prepared you for this project? What are the challenges of working in bigger teams? What can you improve in your workflow?
+* Your assessment is coming next week. Do you feel you prepared? What is your strategy going to be?
+
+### Guest: Jud Valeski (10:00-11:00)
+
+Jud has several years of experience in software development. He cofounded Gnip, a social media aggregation company, that was acquired by Twitter on April 2014. He was also Principal Software Engineer at Netscape, and Technical Director at AOL.
+
+* [On Twitter](https://twitter.com/jvaleski)
+* [On LinkedIn](https://www.linkedin.com/in/jvaleski)
+* [Blog](http://one.valeski.org)
+
+Some things that you might want to ask Jud about include:
+
+1. How was to start your own company as a technical cofounder?
+2. What were the challenges that he was trying to solve while working at Netscape?
+3. If he were to start a new company, what would he do different?
+4. Was it hard to let go when Twitter acquired Gnip?
+5. What did he look for in an engineer when he was CTO?
+
+### Lightning Talks (11:00-12:00)
+
+* Agile - Allison Larson
+* Swift - Eric Fransen
+* Ember.js - Alan Smith
+* Pimp my Shell - Andrew Watkins
+
+### 1-on-1s (1:30-3:30)
+
+#### With Jeff
+
+* 1:30 - Robert Gu
+* 1:45 - Eric Fransen
+* 2:00 - Tim Proctor
+* 2:15 - Will Faurot
+* 2:30 - Chad Brading
+* 2:45 - Andy Mention
+
+#### With Jorge
+
+* 1:30 - Ian Anderson
+* 1:45 - Jonmichael Chambers
+* 2:00 - Kavita Sachdeva
+* 2:15 - Aaron Paul Wortham
+* 2:30 - Jessica Goulding
+* 2:45 - Hilary Denton
+
+#### With Josh
+
+* 1:30 - Horacio Chavez
+* 1:45 - Glen Egbert
+* 2:00 - Alan Smith
+* 2:15 - Tan Doan
+* 2:30 - Gustavo Villagrana
+
+#### With Steve
+
+* 1:30 - Emily Davis
+* 1:45 - Jim Sutton
+* 2:00 - Andrew Watkins
+* 2:15 - Rolando Navarrete
+* 2:30 - Marc Garreau
+
+#### With Rachel
+
+* 1:30 - Allison Larson
+* 1:45 - Luke Aiken
+* 2:00 - Sara Simon
+* 2:15 - Cara Dennis
+* 2:30 - Corey Davis
+
+### Feedback (3:30-4:00)
+
+Please spend these 30 minutes on
+[this week's survey](https://google.com).
+
+### Wrapup (4:00)
+
+We'll close out the week all together in the classroom at 4pm.
