@@ -13,7 +13,7 @@ addressing one or more of the following questions:
 
 * **1407**: You are about to finish SalesEngine. What has been the most challenging part of this project? How are you communicating with your partner to successfully complete this project's functionality? How comfortable do you feel with your current Ruby skills?
 * **1406**: Dinner Dash is your first Rails project. Did you feel that the previous tutorials prepared you for this project? What are the challenges of working in bigger teams? What can you improve in your workflow?
-* Your assessment is coming next week. Do you feel you prepared? What is your strategy going to be?
+* Your assessment is coming next week. Do you feel prepared? What is your strategy going to be?
 
 ### Guest: Jud Valeski (10:00-11:00)
 
