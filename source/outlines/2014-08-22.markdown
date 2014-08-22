@@ -36,7 +36,7 @@ Some things that you might want to ask Jud about include:
 * Agile - Allison Larson
 * Swift - Eric Fransen
 * Ember.js - Alan Smith
-* Pimp my Shell - Andrew Watkins
+* Unix Shell - Andrew Watkins
 
 ### 1-on-1s (1:30-3:30)
 
@@ -85,7 +85,7 @@ Some things that you might want to ask Jud about include:
 ### Feedback (3:30-4:00)
 
 Please spend these 30 minutes on
-[this week's survey](https://google.com).
+[this week's survey](https://docs.google.com/forms/d/1eRs__BVIkq5sRROE4_tw935AkUDKzXl2oXHmqZA3eTM/viewform).
 
 ### Wrapup (4:00)
 
