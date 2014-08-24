@@ -23,18 +23,18 @@ When you are not being assessed, please work on Dinner Dash.
 
 #### With Josh
 
-* 1:00 Emily Davis
-* 2:00 Robert Gu
+* 1:00 - Emily Davis
+* 2:00 - Robert Gu
 
 #### With Rachel
 
-* 1:00 Tim Proctor
-* 2:00 Horacio Chavez
+* 1:00 - Tim Proctor
+* 2:00 - Horacio Chavez
 
 #### With Jorge
 
-* 1:00 Gustavo Villagrana
-* 2:00 Corey Davis
+* 1:00 - Gustavo Villagrana
+* 2:00 - Corey Davis
 
 ## 1407
 
@@ -75,8 +75,8 @@ When you are not being assessed, please work on SalesEngine.
 
 Please work with your posse on the following,
 
-* 3:00-3:15 Posse Business: Catch up with some posse related email, update your mentors, and try to start scheduling your mentor appointments.
-* 3:15-3:45 Gilded Rose Kata: Work on this refactoring exercise for 30 minutes. You can find the repo [here](https://github.com/jimweirich/gilded_rose_kata)
+* 3:00-3:15 Posse Business: Catch up with some posse related email, update your mentors, and start scheduling your mentor appointments.
+* 3:15-3:45 Gilded Rose Kata: Work on this refactoring exercise for 30 minutes. You can find the repo [here](https://github.com/jimweirich/gilded_rose_kata).
 * 3:45-4:00 Code Showcase: Share with your posse members your implementation of the Gilded Rose Kata. How could you improve your solution? Which recommendations do you have for your peers?
 
 ### Wrapup (4:00)
