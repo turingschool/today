@@ -7,7 +7,14 @@ layout: outline
 
 ### Intro to jQuery (9:00-10:30)
 
-*Jorge class here*
+Today you will learn with Jorge the basics about jQuery, a powerful tool to make your websites interactive.
+
+During the class you will cover the following,
+
+* What is jQuery and why you should learn it.
+* What is the Document Object Model (DOM).
+* How to setup jQuery.
+* How to use jQuery to manipulate the DOM.
 
 ### Cart & Order Lifecycles (10:30-12:00)
 
@@ -15,7 +22,7 @@ layout: outline
 
 ### Assessments & Project Work Time (1:00-3:00)
 
-Today we'll do a second assessment of your progress. Pay particular attention to the rubric and try to understand how you can raise/lower your scores. Make sure that you are prepared before your session.
+We will do a second assessment of your progress. Pay particular attention to the rubric and try to understand how you can raise/lower your scores. Make sure that you are prepared before your session.
 
 You can find the assessment and the setup instructions [here](http://tutorials.jumpstartlab.com/academy/assessments/scrabble_web.html).
 
