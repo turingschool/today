@@ -3,6 +3,11 @@ title: 140825
 layout: outline
 ---
 
+## Warmup
+
+This morning for warmup please work on Exercism nitpicks. It'd be great for you to
+add two nitpicks to others' work and to respond to two nitpicks on your past submissions.
+
 ## 1406
 
 ### Intro to jQuery (9:00-10:30)
