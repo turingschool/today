@@ -32,7 +32,7 @@ When you are not being assessed, please work on Dinner Dash.
 #### With Josh
 
 * 1:00 - Emily Davis
-* 2:00 - Robert Gu
+* 2:00 - Robert Gu (Steve Observing)
 
 #### With Rachel
 
@@ -41,7 +41,7 @@ When you are not being assessed, please work on Dinner Dash.
 
 #### With Jorge
 
-* 1:00 - Gustavo Villagrana
+* 1:00 - Gustavo Villagrana (Steve Observing)
 * 2:00 - Corey Davis
 
 ## 1407
@@ -59,19 +59,22 @@ When you are not being assessed, please work on SalesEngine.
 * 9:00 - Glen Egbert
 * 9:45 - Luke Aiken
 * 10:30 - Kavita Sachdeva
-* 11:15 - Jim Sutton
 
 #### With Rachel
 
 * 9:00 - Rolando Navarrete
-* 9:45 - Ian Andersen
+* 9:45 - Ian Andersen (Steve Observing)
 * 10:30 - Sara Simon
 * 11:15 - Aaron Paul Wortham
 
 #### With Jeff
 
-* 9:00 - Jessica Goulding
+* 9:00 - Jessica Goulding (Steve Observing)
 * 9:45 - Cara Dennis
+
+#### With Steve
+
+* 11:15 - Jim Sutton
 
 ### Refactoring Patterns Part 2 (1:00-3:00)
 
