@@ -16,9 +16,10 @@ During the class you will cover the following,
 * How to setup jQuery.
 * How to use jQuery to manipulate the DOM.
 
-### Cart & Order Lifecycles (10:30-12:00)
+### Storing State with Cookies & Sessions (10:30-12:00)
 
-*Jeff class here*
+We're starting to experiment with more structured Lesson Plans.
+[Find the plan for this session here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/storing_state_with_cookies_and_sessions.markdown).
 
 ### Assessments & Project Work Time (1:00-3:00)
 
@@ -74,7 +75,8 @@ When you are not being assessed, please work on SalesEngine.
 
 ### Refactoring Patterns Part 2 (1:00-3:00)
 
-*Jeff class here*
+We're starting to experiment with more structured Lesson Plans.
+[Find the plan for this session here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_part_two.markdown).
 
 ## Everybody
 
