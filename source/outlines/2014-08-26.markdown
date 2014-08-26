@@ -55,3 +55,4 @@ After lunch meet with **Rachel** in the classroom to discuss performance.
 ### Improving Test Speed (2:30-4:00)
 
 Then meet **Josh** in the classroom to work on improving test perforance.
+Material is at [https://github.com/JoshCheek/fast_tests](https://github.com/JoshCheek/fast_tests).
