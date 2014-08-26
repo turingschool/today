@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.1'
+ruby '2.1.2'
 
 gem 'middleman', '~> 3.2.2'
 gem 'middleman-blog'
