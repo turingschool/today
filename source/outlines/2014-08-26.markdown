@@ -1,0 +1,56 @@
+---
+title: 140825
+layout: outline
+---
+
+## Warmup
+
+This morning please spend 30 minutes pushing forward on your current Exercism.
+Your projects will still be there when you finish.
+
+## 1406
+
+When you're not doing assessments, work on your Dinner Dash.
+
+The team will all be busy in the morning, but **Steve** and **Jorge** will
+be available for questions in the afternoon.
+
+### Assessments
+
+#### With Josh
+
+* 9:00 - Tan Doan
+* 10:00 - Andrew Watkins
+
+#### With Steve
+
+* 9:00 - Hilary Denton
+* 10:00 - Jonmichael Chambers
+* 11:00 - Eric Fransen
+
+#### With Jorge
+
+* 9:00 - Marc Garreau
+* 10:00 - Chad Brading
+* 11:00 - Will Faurot
+
+#### With Jeff
+
+* 9:00 - Andy Mention
+* 10:00 - Alan Smith
+* 11:00 - Allison Larson
+
+## 1407
+
+### SalesEngine Work Time (9:00-12:00)
+
+This morning you've got work time. **Rachel** will be available for questions
+that come up.
+
+### The Performance of Code (1:00-2:30)
+
+After lunch meet with **Rachel** in the classroom to discuss performance.
+
+### Improving Test Speed (2:30-4:00)
+
+Then meet **Josh** in the classroom to work on improving test perforance.
