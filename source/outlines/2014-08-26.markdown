@@ -50,6 +50,7 @@ that come up.
 ### The Performance of Code (1:00-2:30)
 
 After lunch meet with **Rachel** in the classroom to discuss performance.
+[Lesson Plan Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown)
 
 ### Improving Test Speed (2:30-4:00)
 
