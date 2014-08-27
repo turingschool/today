@@ -1,0 +1,28 @@
+---
+title: 140827
+layout: outline
+---
+
+## Warmup
+
+This morning please spend 30 minutes pushing forward on your current Exercism.
+Your projects will still be there when you finish.
+
+## All
+
+Today we will be available for 60 minutes pairing sessions. If you are interested, send a Slack DM to an instructor. The sessions will be assigned on a first-come, first-served basis.
+
+Staff availability is as follows,
+
+### Morning
+
+* Jeff (9:00-12:00)
+* Josh (9:00-12:00)
+* Steve (9:00-12:00) - Available for questions.
+* Jorge (10:00-11:00) - Available for questions.
+
+### Afternoon
+
+* Rachel (1:00-4:00)
+* Steve (1:00-4:00)
+* Jorge (1:00-2:00) - Available for questions.
