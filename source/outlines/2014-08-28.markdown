@@ -79,7 +79,7 @@ Corey will facilitate the group.
 #### Building a Markdown Editing Site with Josh
 
 * 1. Will
-* 2.
+* 2. Allie
 * 3.
 * 4.
 * 5.
