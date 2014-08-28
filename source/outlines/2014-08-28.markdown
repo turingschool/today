@@ -83,7 +83,7 @@ Corey will facilitate the group.
 * 3. Gu
 * 4. Andy
 * 5. Eric
-* 6. 
+* 6. Tangelo
 
 #### Some Kind of GUI Programming with Rachel
 
