@@ -1,0 +1,75 @@
+---
+title: 140828
+layout: outline
+---
+
+## 1406
+
+### Dinner Dash Evaluations (9:00-11:00)
+
+#### With Josh
+
+* 9:00 - Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
+* 10:00 - Horacio Chavez, Corey Davis, Tan Doan, Hilary Denton
+
+#### With Jorge
+
+* 9:00 - Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu
+* 10:00 - Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen
+
+### Dinner Dash Recap & Refactor (1:00-3:00)
+
+#### With Josh
+
+* 1:00 -
+* 2:00 -
+
+#### With Jorge
+
+* 1:00 -
+* 2:00 -
+
+#### Demo Preparation (3:00-4:00)
+
+Prepare to present your app. During your presentation make sure that you follow the following format,
+
+1. Introduce team members and what did you build.
+2. Show how your app works and its overall experience.
+3. Explain the challenges that you faced and how did you solve them.
+4. Answer any questions.
+
+## 1407
+
+### SalesEngine Technical Evaluation (9:00-12:00)
+
+#### With Rachel
+
+* 9:00 - Jim Sutton & Aaron Paul Wortham
+* 10:00 - Cara Dennis & Luke Aiken
+* 11:00 - Kavita Sachdeva & Sara Simon
+
+#### With Steve
+
+* 9:00 - Rolando Navarrete & Ian Andersen
+* 10:00 - Jessica Goulding & Glen Egbert
+
+### Introduction to Processing (1:00-4:00)
+
+* Jeff Lesson Here *
+
+## All
+
+### Warmup (8:30-9:00)
+
+This morning please spend 30 minutes pushing forward on your current Exercism.
+
+### Reassessments (9:00-11:00)
+
+#### With Jeff
+
+* 9:00 - Cara Denis
+* 10:00 - Sara Simon
+
+### Dinner Dash Demos (5:00-7:00)
+
+1406 will demo their first major Rails project. Please help with the setup at 5:00 pm and stick around to celebrate your peers' accomplishments. Demos will start at 5:30.
