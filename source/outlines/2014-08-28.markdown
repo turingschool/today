@@ -32,11 +32,11 @@ At 11 when you're done with evaluations, please prep your demo for this evening.
 
 During your five-minute presentation you should:
 
-1. Introduce team members and what did you build.
+1. Introduce team members and what you built.
 2. Show how your app works and its overall experience. Focus on anything unusual
 or particularly interesting.
-3. Explain the challenges that you faced and how you solved them.
-4. Answer questions.
+3. Explore at least one technical challenge and how you solved it.
+4. Answer at least two questions.
 
 #### 1407 - With Rachel
 
