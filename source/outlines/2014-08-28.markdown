@@ -57,12 +57,13 @@ Each group is limited to seven people.
 
 #### 3D Printer Unpack/Build/Experiments with Jeff
 
-* 1. Glen
-* 2. Emily
-* 3. Chad
-* 4.
-* 5.
-* 6.
+1. Glen
+2. Emily
+3. Chad
+4. Jim
+5. Ian
+6. Watts
+7. Corey
 
 Note that Jeff will have to do re-assessments starting at 2pm, at which point
 Corey will facilitate the group.
@@ -83,13 +84,13 @@ Corey will facilitate the group.
 * 3. Gu
 * 4. Andy
 * 5. Eric
-* 6. 
+* 6. Horacio
 
 #### Some Kind of GUI Programming with Rachel
 
 * 1. Ian
 * 2. Gustavo
-* 3.
+* 3. Tan
 * 4.
 * 5.
 * 6.
