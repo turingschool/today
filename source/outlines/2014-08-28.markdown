@@ -3,8 +3,6 @@ title: 140828
 layout: outline
 ---
 
-Today's outline is still a WIP. Check back about 8:45 :)
-
 ## All
 
 No warmup today since you won't do it anyway :P
@@ -70,7 +68,6 @@ Corey will facilitate the group.
 
 #### Processing Intro with Steve
 
-=======
 * 1. Rolando
 * 2. Kavita
 * 3. Tim
