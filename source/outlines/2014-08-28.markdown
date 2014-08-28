@@ -7,68 +7,54 @@ Today's outline is still a WIP. Check back about 8:45 :)
 
 ## All
 
-### Warmup (8:30-9:00)
-
 No warmup today since you won't do it anyway :P
 
-### Reassessments (9:00-11:00)
+### Morning - Evaluations
 
-### Dinner Dash Demos (5:00-7:00)
+When you're not doing evals this morning you're free to do any learning-related
+activity on your own. You're *strongly* encouraged to pair up with another
+student (outside of your project group) to help each other get a high value
+out of the time.
 
-1406 will demo their first major Rails project. Please help with the setup at
-5:00 pm and stick around to celebrate your peers' accomplishments.
-Demos will start at 5:30.
-
-## 1406
-
-### Dinner Dash Evaluations (9:00-11:00)
-
-#### With Josh
+#### 1406 - With Josh
 
 * 9:00 - Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading
 * 10:00 - Horacio Chavez, Corey Davis, Tan Doan, Hilary Denton
 
-#### With Jorge
+#### 1406 - With Jorge
 
 * 9:00 - Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu
 * 10:00 - Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen
 
-### Dinner Dash Recap & Refactor (1:00-3:00)
+#### 1406 - Demo Prep (11:00-12:00)
 
-#### With Josh
+At 11 when you're done with evaluations, please prep your demo for this evening.
 
-* 1:00 -
-* 2:00 -
-
-#### With Jorge
-
-* 1:00 -
-* 2:00 -
-
-#### Demo Preparation (3:00-4:00)
-
-Prepare to present your app. During your presentation make sure that you follow the following format,
+During your five-minute presentation you should:
 
 1. Introduce team members and what did you build.
-2. Show how your app works and its overall experience.
-3. Explain the challenges that you faced and how did you solve them.
-4. Answer any questions.
+2. Show how your app works and its overall experience. Focus on anything unusual
+or particularly interesting.
+3. Explain the challenges that you faced and how you solved them.
+4. Answer questions.
 
-## 1407
-
-### SalesEngine Technical Evaluation (9:00-12:00)
-
-#### With Rachel
+#### 1407 - With Rachel
 
 * 9:00 - Jim Sutton & Aaron Paul Wortham
 * 10:00 - Cara Dennis & Luke Aiken
 * 11:00 - Kavita Sachdeva & Sara Simon
 
-#### With Steve
+#### 1407 - With Steve
 
 * 9:00 - Rolando Navarrete & Ian Andersen
 * 10:00 - Jessica Goulding & Glen Egbert
 
-### Introduction to Processing (1:00-4:00)
+### Afternoon - Explorations
 
-* Jeff Lesson Here *
+This afternoon the staff will have group sessions exploring new topics.
+
+### Evening - Demos (5:00-7:00)
+
+1406 will demo their first major Rails project. Please help with the setup at
+5:00 pm and stick around to celebrate your peers' accomplishments.
+Demos will start at 5:30.
