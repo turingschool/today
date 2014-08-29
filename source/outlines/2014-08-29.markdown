@@ -1,0 +1,25 @@
+---
+title: 140829
+layout: outline
+---
+
+## All
+
+### Code Retreat (10:00-12:00)
+
+### Nathan Sobo (1:00-2:00)
+
+Nathan built Atom, the open-source text editor that most of us use. He works at Github.
+
+* [On Twitter](https://twitter.com/nathansobo)
+* [On Github](https://github.com/nathansobo)
+
+### Retro
+
+#### 1406 (2:00-2:30)
+
+#### 1407 (2:30-3:00)
+
+### Survey (3:00-4:00)
+
+* Link goes here *
