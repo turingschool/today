@@ -22,11 +22,12 @@ Some things that you might want to ask Nathan about include:
 4. Was Github supportive of the initiave?
 5. What other cool projects is Github working on?
 
-### Retro
+### Retro (2:00-3:00)
 
-#### 1406 (2:00-2:30)
+When you are not in group retro please work in your personal retrospective.
 
-#### 1407 (2:30-3:00)
+* 1406 (2:00-2:30)
+* 1407 (2:30-3:00)
 
 ### Survey (3:00-4:00)
 
