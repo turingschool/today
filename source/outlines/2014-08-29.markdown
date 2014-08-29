@@ -14,6 +14,14 @@ Nathan built Atom, the open-source text editor that most of us use. He works at 
 * [On Twitter](https://twitter.com/nathansobo)
 * [On Github](https://github.com/nathansobo)
 
+Some things that you might want to ask Nathan about include:
+
+1. Why did he create Atom?
+2. What were the challenges of creating an editor from scratch?
+3. What new features are in the pipeline?
+4. Was Github supportive of the initiave?
+5. What other cool projects is Github working on?
+
 ### Retro
 
 #### 1406 (2:00-2:30)
