@@ -1,0 +1,76 @@
+---
+title: 140907
+layout: outline
+---
+
+## All
+
+Welcome back! We hope you enjoyed intermission week.
+
+Let's start by welcoming our new cohort: 1409.
+
+We have an interesting and diverse group. Students include a pilot, a couple of teachers, an artist and a veteran, among others. We also have two bright and driven 18-year-olds and various professionals with years of experience.
+
+Please stop by and say hi.
+
+## 1406
+
+### Understanding Multitenancy (9:00-12:00)
+
+Join Jeff in classroom A to learn about multi-tenency in Rails. This class will allow you to better understand your next Rails project.
+
+### Project Kickoff (1:00-2:30)
+
+Join Jeff in the workspace to get your next project and your team assignments.
+
+### Posse Time (3:00-4:00)
+
+Meet with your new posse back in the dungeon.
+
+### Lightning Talks (4:15-4:45)
+
+Join Jorge on classroom A to talk about your theme and topic.
+
+## 1407
+
+### HTML & CSS Recap (9:00-12:00)
+
+Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission assignment.
+
+### WebGuesser (13:00-2:30)
+
+Join Rachel in classroom A to work on your first Sinatra project, WebGuesser.
+
+### Posse Time (3:00-4:00)
+
+Meet with your new posse back in the dungeon.
+
+### Lightning Talks (4:15-4:45)
+
+Join Jorge on classroom A to talk about your theme and topic.
+
+## 1409
+
+### Classroom Building (9:00-11:00)
+
+We hope you have brought comfortable shoes since we are going to build some furniture. We borrowed this tradition from Amazon, where employees have to build their own desks as a symbol of hard work.
+
+Join Jorge and Rachel in classroom B. We will provide the tools.
+
+### How to Learn at Turing (11:00-12:00)
+
+Our program is focused on project-based learning, collaboration and immersive. You will spend hours together pairing, building and learning.
+
+Join Rachel in classroom B to get some advice on how to get the most out of the program.
+
+### Laptop & Environment Setup (1:00-2:00)
+
+Every developer is required to setup their own development environment. Please join Josh in classroom B and follow [this](http://tutorials.jumpstartlab.com/topics/environment/environment.html) tutorial to configure your laptop. Don't install PostgreSQL yet.
+
+### Intro to OS X, Terminal & Editor (2:00-3:00)
+
+If you were a PC user in your previous life, Mac OSX can be unfamiliar. Join Josh in classroom B to get a quick overview on how to user your terminal, text editor and OS X.
+
+### Posse Time (3:00-4:00)
+
+Meet with your new posse back in the dungeon.
