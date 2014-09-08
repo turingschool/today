@@ -53,7 +53,7 @@ You can check the lightning talks instructions [here](https://github.com/turings
 
 ### HTML & CSS Recap (9:00-12:00)
 
-Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission assignment.
+Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission assignment. You'll be working with [this repository](source/outlines/2014-09-08.markdown).
 
 ### WebGuesser (13:00-2:30)
 
