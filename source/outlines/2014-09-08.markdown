@@ -23,9 +23,17 @@ Join Jeff in classroom A to learn about multi-tenency in Rails. This class will 
 
 Join Jeff in the workspace to get your next project and your team assignments.
 
+### Setting Support Expectations (2:30-3:00)
+
+We want to improve the way we support your learning. Join Rachel in classroom A to talk about setting new expectations when asking for support.
+
 ### Posse Time (3:00-4:00)
 
 Meet with your new posse back in the dungeon.
+
+### Wrapup (4:00-4:15)
+
+Join Jeff on classroom A to wrapup today.
 
 ### Lightning Talks (4:15-4:45)
 
@@ -41,9 +49,17 @@ Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your
 
 Join Rachel in classroom A to work on your first Sinatra project, WebGuesser.
 
+### Setting Support Expectations (2:30-3:00)
+
+We want to improve the way we support your learning. Join Rachel in classroom A to talk about setting new expectations when asking for support.
+
 ### Posse Time (3:00-4:00)
 
 Meet with your new posse back in the dungeon.
+
+### Wrapup (4:00-4:15)
+
+Join Jeff on classroom A to wrapup today.
 
 ### Lightning Talks (4:15-4:45)
 
@@ -74,3 +90,7 @@ If you were a PC user in your previous life, Mac OSX can be unfamiliar. Join Jos
 ### Posse Time (3:00-4:00)
 
 Meet with your new posse back in the dungeon.
+
+### Wrapup (4:00-4:15)
+
+Join Jeff on classroom A to wrapup today.
