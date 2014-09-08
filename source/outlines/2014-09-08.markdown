@@ -29,7 +29,7 @@ We want to improve the way we support your learning. Join Rachel in classroom A 
 
 ### Posse Time (3:00-4:00)
 
-Meet with your new posse back in the dungeon.
+[Meet with your new posse back in the dungeon.][posse]
 
 ### Wrapup (4:00-4:15)
 
@@ -65,7 +65,7 @@ We want to improve the way we support your learning. Join Rachel in classroom A 
 
 ### Posse Time (3:00-4:00)
 
-Meet with your new posse back in the dungeon.
+[Meet with your new posse back in the dungeon.][posse]
 
 ### Wrapup (4:00-4:15)
 
@@ -107,8 +107,35 @@ If you were a PC user in your previous life, Mac OSX can be unfamiliar. Join Jos
 
 ### Posse Time (3:00-4:00)
 
-Meet with your new posse back in the dungeon.
+[Meet with your new posse back in the dungeon.][posse]
 
 ### Wrapup (4:00-4:15)
 
 Join Jeff on classroom A to wrapup today.
+
+## Posse Meetup Time
+
+Today, you'll meet in your new posses. Every posse will have a least one new member in it. So, you'll have to update some things and reintroduce yourselves.
+
+* Introduce yourself to your posse by answering the following questions
+  * Name and cohort?
+  * Where are you from originally?
+  * What brought you to Turing?
+  * What excites you most about the next six weeks at Turing?
+  * What do you think you dream job would be after graduating from Turing?
+  * What non-programming experience in your life do you think has best prepared you for being a developer?
+* Take care of administrative affairs
+  * Create a Google Calendar for your posse. You can use this calendar to request pairing sessions, set posse meetups, etc.
+  * Invite all posse members (students and mentors) to the calendar.
+  * Create and share a Google Doc to store contact info for your posse: name, email, Twitter, Github, phone, blog…
+  * Join or create a Slack channel for your posse
+* Find some common ground
+  * Your posse is named after a favorite computer scientist. Who is this person and why are their contributions significant?
+  * What is a core value of your posse? Some examples: grit, perseverance. Why is this value important to being a developer?
+* Gather some intelligence
+  * Use Google, Github, Twitter, etc. to research your posse mentors.
+* Pass down some wisdom
+  * What should 1409 know about life at Turing? (e.g. time management, the extra set of bathrooms on the first floor)
+  * What should 1407 know about module two?
+
+[posse]: #posse-meetup-time
