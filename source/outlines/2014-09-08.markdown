@@ -55,9 +55,21 @@ You can check the lightning talks instructions [here](https://github.com/turings
 
 Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission assignment. You'll be working with [this repository](source/outlines/2014-09-08.markdown).
 
-### WebGuesser (13:00-2:30)
+### WebGuesser (1:00-2:15)
 
 Join Rachel in classroom A to work on your first Sinatra project, WebGuesser.
+
+### IdeaBox Kickoff (2:15-2:30)
+
+Then Rachel will help you kick off the IdeaBox project:
+
+[http://tutorials.jumpstartlab.com/projects/idea_box.html](http://tutorials.jumpstartlab.com/projects/idea_box.html)
+
+This is an individual project that's due this Thursday 7/11 at 1pm. It starts
+with a guided tutorial, then you'll build a handful of extensions on your own.
+
+Thursday afternoon we'll have a "showcase" with the other cohorts for you to show
+off the best and most interesting parts of your work.
 
 ### Setting Support Expectations (2:30-3:00)
 
