@@ -16,6 +16,17 @@ both your first name and your cohort number.
 
 Join Jeff in classroom A to learn about [Multi-tenancy in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.markdown).
 
+During the independent work section, please work in the following pairs:
+
+* Alan Smith & Robert Gu
+* Jonmichael Chambers & Tan Doan
+* Emily Davis & Hilary Denton
+* Chad Brading & Corey Davis
+* Allison Larson & Marc Garreau
+* Gustavo Villagrana & Andrew Watkins
+* Eric Fransen & Horacio Chavez
+* Tim Proctor & Andy Mention & Will Faurot
+
 ### Project Kickoff (11:00-12:00)
 
 Then we'll kickoff your next project, [The Pivot](http://tutorials.jumpstartlab.com/projects/the_pivot.html)
