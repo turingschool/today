@@ -12,7 +12,7 @@ both your first name and your cohort number.
 
 ## 1406
 
-### Understanding Multitenancy (9:00-11:00)
+### Understanding Multitenancy (9:00-11:30)
 
 Join Jeff in classroom A to learn about [Multi-tenancy in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.markdown).
 
@@ -27,7 +27,7 @@ During the independent work section, please work in the following pairs:
 * Eric Fransen & Horacio Chavez
 * Tim Proctor & Andy Mention & Will Faurot
 
-### Project Kickoff (11:00-12:00)
+### Project Kickoff (11:30-12:00)
 
 Then we'll kickoff your next project, [The Pivot](http://tutorials.jumpstartlab.com/projects/the_pivot.html)
 
@@ -38,6 +38,15 @@ Thursday, September 25. You'll work in the following groups:
 * Horacio Chavez & Alan Smith & Corey Davis & Robert Gu, building EmployMe upon [this code](https://github.com/H6C5/dinner_dash)
 * Tan Doan & Allison Larson & Chad Brading & Jonmichael Chambers, building Airlift upon [this code](https://github.com/BobGu/dinner_dash)
 * Will Faurot & Marc Garreau & Eric Fransen & Gustavo Villagrana & Emily Davis, building TravelHome upon [this code](https://github.com/ericfransen/dinner_dash)
+
+### Kickoff Meetings
+
+Each team will meet with Jeff in the 1510 workspace:
+
+* Keevahh at 12:30
+* EmployMe at 1:00
+* Airlift at 1:30
+* TravelHome at 2:00
 
 ### Setting Support Expectations (2:30-3:00)
 
