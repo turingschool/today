@@ -53,7 +53,7 @@ Each team will meet with Jeff in the 1510 workspace:
 We want to improve the way we support your learning. Join Rachel in classroom A
 to talk about setting new expectations when asking for help.
 
-### Posse Time (3:00-4:00)
+### [Posse Time (3:00-4:00)][posse]
 
 Meet with your newly realigned posse back at 1510.
 
@@ -102,7 +102,7 @@ off the best and most interesting parts of your work.
 
 We want to improve the way we support your learning. Join Rachel in classroom A to talk about setting new expectations when asking for support.
 
-### Posse Time (3:00-4:00)
+### [Posse Time (3:00-4:00)][posse]
 
 Meet with your newly realigned posse back at 1510.
 
@@ -141,7 +141,7 @@ Every developer needs to setup their own development environment. Please join Jo
 
 If you were a PC user in your previous life, Mac OS X can be unfamiliar. Join Josh in classroom B to get a quick overview on how to user your terminal, text editor and OS X.
 
-### Posse Time (3:00-4:00)
+### [Posse Time (3:00-4:00)][posse]
 
 Meet with your new posse back at 1510.
 
@@ -182,3 +182,5 @@ Today, you'll meet in your new posses. Every posse will have a least one new mem
 
 * What should 1409 know about life at Turing? (e.g. time management, the extra set of bathrooms on the first floor)
 * What should 1407 know about module two?
+
+[posse]: #posse-meetup-time
