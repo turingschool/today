@@ -37,7 +37,17 @@ Join Jeff on classroom A to wrapup today.
 
 ### Lightning Talks (4:15-4:45)
 
-Join Jorge on classroom A to talk about your theme and topic.
+The following students join Jorge on classroom A to talk about your theme and topic.
+
+* Horacio Chavez
+* Tim Proctor
+* Tan Doan
+* Will Faurot
+* Andy Mention
+
+Please pick your theme in advance. There is only one speaker per theme.
+
+You can check the lightning talks instructions [here](https://github.com/turingschool/lightning_talks).
 
 ## 1407
 
@@ -63,7 +73,15 @@ Join Jeff on classroom A to wrapup today.
 
 ### Lightning Talks (4:15-4:45)
 
-Join Jorge on classroom A to talk about your theme and topic.
+The following students join Jorge on classroom A to talk about your theme and topic.
+
+* Sara Simon
+* Ian Andersen
+* Jim Sutton
+
+Please pick your theme in advance. There is only one speaker per theme.
+
+You can check the lightning talks instructions [here](https://github.com/turingschool/lightning_talks).
 
 ## 1409
 
