@@ -139,11 +139,19 @@ Our program is a collaborative project-based learning environment. Join Rachel i
 
 ### Laptop & Environment Setup (1:00-2:00)
 
-Every developer needs to setup their own development environment. Please join Josh in classroom B and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop. Don't worry about PostgreSQL yet.
+Every developer needs to setup their own development environment.
+Please join Josh in classroom B and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop.
+Don't worry about PostgreSQL yet.
+
+We have [dotfiles (configuration files)](https://github.com/turingschool/bootstrap_new_students)
+you can use to get a better environment (coloured prompt, convenient shortcuts aliases, etc).
+
 
 ### Intro to OS X, Terminal & Editor (2:00-3:00)
 
-If you were a PC user in your previous life, Mac OS X can be unfamiliar. Join Josh in classroom B to get a quick overview on how to user your terminal, text editor and OS X.
+If you were a PC user in your previous life, Mac OS X can be unfamiliar.
+Join Josh in classroom B to get a quick overview on how to user your terminal, text editor and OS X.
+If the terminal is new for you, we have a [terminal introduction](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html).
 
 ### Posse Time (3:00-4:00)
 
