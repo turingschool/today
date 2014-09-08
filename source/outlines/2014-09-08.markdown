@@ -80,7 +80,7 @@ three ideas you'd like to pursue.
 
 ### HTML & CSS Recap (9:00-12:00)
 
-Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission week reading.
+Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission week reading. You'll be using [this repository](https://github.com/turingschool-examples/turing-bistro).
 
 ### WebGuesser (1:00-2:15)
 
@@ -123,13 +123,13 @@ three ideas you'd like to pursue.
 
 ## 1409
 
-### Classroom Building (9:00-11:00)
+### Classroom Building (9:00-11:30)
 
 This morning you'll continue the tradition of building out your own space, an idea
 borrowed from Amazon. Rachel and Jorge will take you and a pile of tools over to
 1624.
 
-### How to Learn at Turing (11:00-12:00)
+### How to Learn at Turing (11:30-12:00)
 
 Our program is a collaborative project-based learning environment. Join Rachel in classroom B to get some advice on how to get the most out of the program.
 
