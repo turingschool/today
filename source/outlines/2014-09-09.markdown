@@ -5,146 +5,58 @@ layout: outline
 
 ## All
 
-Welcome back! We hope you enjoyed intermission week.
+### Warmup (8:30-9:00)
 
-Let's start by welcoming our new cohort: 1409.
+During this time, you can work on either one of the following:
 
-We have an interesting and diverse group. Students include a pilot, a couple of teachers, an artist and a veteran, among others. We also have two bright and driven 18-year-olds and various professionals with years of experience.
+1. Help 1409 to setup Exercism on their laptops.
+2. Answer your submission's nitpicks.
+3. Pick a JavaScript exercise.
 
-Please stop by and say hi.
+### Wrapup (4:00-4:15)
+
+Join Jeff on classroom A to wrapup the day.
+
+### Lightning Talks (4:15:4:45)
+
+Join Jorge in classroom A to talk about your outline. Make sure to submit a pull request with your theme and topic to the lightning talk [repo](https://github.com/turingschool/lightning_talks). The valid themes are listed in the Readme.
 
 ## 1406
 
-### Understanding Multitenancy (9:00-12:00)
+### Project Worktime (9:00-12:00)
 
-Join Jeff in classroom A to learn about multi-tenency in Rails. This class will allow you to better understand your next Rails project.
+Work at Blake on your project. Remember to establish a common set of goals, rules about working together and pairing protocols based on your previous team experiences.
 
-### Project Kickoff (1:00-2:30)
+Josh will be available for questions.
 
-Join Jeff in the workspace to get your next project and your team assignments.
+### Fundamental Rails Security (1:00-4:00)
 
-### Setting Support Expectations (2:30-3:00)
+Join Jorge in classroom B to talk about Rails Security. During this lesson, you will learn how to avoid common security flaws.
 
-We want to improve the way we support your learning. Join Rachel in classroom A to talk about setting new expectations when asking for support.
-
-### Posse Time (3:00-4:00)
-
-[Meet with your new posse back in the dungeon.][posse]
-
-### Wrapup (4:00-4:15)
-
-Join Jeff on classroom A to wrapup today.
-
-### Lightning Talks (4:15-4:45)
-
-The following students join Jorge on classroom A to talk about your theme and topic.
-
-* Horacio Chavez
-* Tim Proctor
-* Tan Doan
-* Will Faurot
-* Andy Mention
-
-Please pick your theme in advance. There is only one speaker per theme.
-
-You can check the lightning talks instructions [here](https://github.com/turingschool/lightning_talks).
+Don't get used to the windows.
 
 ## 1407
 
-### HTML & CSS Recap (9:00-12:00)
+### How the Web Works (9:00-10:30)
 
-Join Steve in the workspace for a HTML & CSS workshop. This recap builds on your intermission assignment.
+Join Jeff in classroom B to talk about how the web works. Be ready to see multiple markers get used at once.
 
-### WebGuesser (13:00-2:30)
+### How Sinatra Works (10:30-12:00)
 
-Join Rachel in classroom A to work on your first Sinatra project, WebGuesser.
+Join Jorge in classroom B to learn about Sinatra, a highly configurable lightweight framework.
 
-### Setting Support Expectations (2:30-3:00)
+### IdeaBox Worktime (1:00-4:00)
 
-We want to improve the way we support your learning. Join Rachel in classroom A to talk about setting new expectations when asking for support.
-
-### Posse Time (3:00-4:00)
-
-[Meet with your new posse back in the dungeon.][posse]
-
-### Wrapup (4:00-4:15)
-
-Join Jeff on classroom A to wrapup today.
-
-### Lightning Talks (4:15-4:45)
-
-The following students join Jorge on classroom A to talk about your theme and topic.
-
-* Sara Simon
-* Ian Andersen
-* Jim Sutton
-
-Please pick your theme in advance. There is only one speaker per theme.
-
-You can check the lightning talks instructions [here](https://github.com/turingschool/lightning_talks).
+Head back to Blake to work on your IdeaBox project. Steve will be available for questions.
 
 ## 1409
 
-### Classroom Building (9:00-11:00)
+### Ruby in 100 Minutes (9:00-12:00)
 
-We hope you have brought comfortable shoes since we are going to build some furniture. We borrowed this tradition from Amazon, where employees have to build their own desks as a symbol of hard work.
+Join Steve in classroom A to learn about fundamental Ruby syntax.
 
-Join Jorge and Rachel in classroom B. We will provide the tools.
+Yes, symbols are tricky.
 
-### How to Learn at Turing (11:00-12:00)
+### Intro to TDD (1:00-4:00)
 
-Our program is focused on project-based learning, collaboration and immersive. You will spend hours together pairing, building and learning.
-
-Join Rachel in classroom B to get some advice on how to get the most out of the program.
-
-### Laptop & Environment Setup (1:00-2:00)
-
-Every developer is required to setup their own development environment. Please join Josh in classroom B and follow [this](http://tutorials.jumpstartlab.com/topics/environment/environment.html) tutorial to configure your laptop. Don't install PostgreSQL yet.
-
-### Intro to OS X, Terminal & Editor (2:00-3:00)
-
-If you were a PC user in your previous life, Mac OS X can be unfamiliar. Join Josh in classroom B to get a quick overview on how to user your terminal, text editor and OS X.
-
-### Posse Time (3:00-4:00)
-
-[Meet with your new posse back in the dungeon.][posse]
-
-### Wrapup (4:00-4:15)
-
-Join Jeff on classroom A to wrapup today.
-
-## Posse Meetup Time
-
-Today, you'll meet in your new posses. Every posse will have a least one new member in it. So, you'll have to update some things and reintroduce yourselves.
-
-### Introduce yourself to your posse by answering the following questions
-
-  * Name and cohort?
-  * Where are you from originally?
-  * What brought you to Turing?
-  * What excites you most about the next six weeks at Turing?
-  * What do you think you dream job would be after graduating from Turing?
-  * What non-programming experience in your life do you think has best prepared you for being a developer?
-
-### Take care of administrative affairs
-
-  * Create a Google Calendar for your posse. You can use this calendar to request pairing sessions, set posse meetups, etc.
-  * Invite all posse members (students and mentors) to the calendar.
-  * Create and share a Google Doc to store contact info for your posse: name, email, Twitter, Github, phone, blog…
-  * Join or create a Slack channel for your posse
-
-### Find some common ground
-
-  * Your posse is named after a favorite computer scientist. Who is this person and why are their contributions significant?
-  * What is a core value of your posse? Some examples: grit, perseverance. Why is this value important to being a developer?
-
-### Gather some intelligence
-
-  * Use Google, Github, Twitter, etc. to research your posse mentors.
-
-### Pass down some wisdom
-
-  * What should 1409 know about life at Turing? (e.g. time management, the extra set of bathrooms on the first floor)
-  * What should 1407 know about module two?
-
-[posse]: #posse-meetup-time
+Join Rachel in classroom A to get an introduction to Test-Driven Development, a software development technique that is widely used among rubysts.
