@@ -39,7 +39,17 @@ Don't get used to the windows.
 
 ### How the Web Works (9:00-10:30)
 
-Join Jeff in classroom B to talk about how the web works. Be ready to see multiple markers get used at once.
+Join Jeff in classroom B to talk about how the web works.
+
+You should take notes as this is a critically important discussion for the rest
+of your *career* building web application. Ideas and terms to pick out and know
+include:
+
+* HTTP, request, response, headers, body
+* Server, DNS, IP, Port
+* Front-end/web server, application server
+* State, statelessness, cookies
+* HTTPS, SSL, cryptography, man-in-the-middle
 
 ### How Sinatra Works (10:30-12:00)
 
@@ -53,7 +63,7 @@ Head back to Blake to work on your IdeaBox project. Steve will be available for 
 
 ### How to Learn at Turing (9:00-9:30)
 
-Join Rachel in Classroom A for advice on how to get the most out of your Turing experience. 
+Join Rachel in Classroom A for advice on how to get the most out of your Turing experience.
 
 ### Ruby in 100 Minutes (9:30-12:00)
 
