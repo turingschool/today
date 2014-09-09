@@ -51,7 +51,11 @@ Head back to Blake to work on your IdeaBox project. Steve will be available for 
 
 ## 1409
 
-### Ruby in 100 Minutes (9:00-12:00)
+### How to Learn at Turing (9:00-9:30)
+
+Join Rachel in Classroom A for advice on how to get the most out of your Turing experience. 
+
+### Ruby in 100 Minutes (9:30-12:00)
 
 Join Steve in classroom A to learn about fundamental Ruby syntax.
 
