@@ -13,11 +13,11 @@ During this time, you can work on either one of the following:
 * Answer your code nitpicks.
 * Nitpick your colleagues code.
 
-### Happy Wrap Up Hour (4:00-5:30)
+### Wrapup (4:00-4:15)
 
-Join a tired 1409 at D'corazon for happy hour.
+Join Jeff in classroom A to wrapup the day.
 
-### Lightning Talks (4:00-4:30)
+### Lightning Talks (4:15:4:45)
 
 Join Jorge in classroom A to talk about your first draft. If you have not done so, make sure to submit a pull request with your theme and topic to the lightning talk [repo](https://github.com/turingschool/lightning_talks). The valid themes are listed in the Readme.
 
@@ -49,15 +49,11 @@ Work at Blake on your project. Josh will be available for questions.
 
 Join Steve on classroom A to learn how to test a Sinatra application.
 
-* [Example repository](https://github.com/turingschool-examples/feel-good-bot)
-* [Testing Sinatra](http://www.sinatrarb.com/testing.html)
-* [Nokogiri](http://nokogiri.org/tutorials)
-
 ## 1409
 
 ### Mythical Creatures Workshop (9:00-12:00)
 
-Join Rachel in Classroom B to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa. Find the repository [here](https://github.com/turingschool/ruby-exercises).
+Join Rachel in Classroom B to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa.
 
 ### Scavenger Hunt (1:00-4:00)
 
