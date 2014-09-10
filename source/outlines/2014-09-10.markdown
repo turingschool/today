@@ -53,7 +53,7 @@ Join Steve on classroom A to learn how to test a Sinatra application.
 
 ### Mythical Creatures Workshop (9:00-12:00)
 
-Join Rachel in Classroom B to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa.
+Join Rachel in Classroom B to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa. Find the repository [here](https://github.com/turingschool/ruby-exercises).
 
 ### Scavenger Hunt (1:00-4:00)
 
