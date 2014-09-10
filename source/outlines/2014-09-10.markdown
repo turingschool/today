@@ -49,6 +49,10 @@ Work at Blake on your project. Josh will be available for questions.
 
 Join Steve on classroom A to learn how to test a Sinatra application.
 
+* [Example repository](https://github.com/turingschool-examples/feel-good-bot)
+* [Testing Sinatra](http://www.sinatrarb.com/testing.html)
+* [Nokogiri](http://nokogiri.org/tutorials)
+
 ## 1409
 
 ### Mythical Creatures Workshop (9:00-12:00)
