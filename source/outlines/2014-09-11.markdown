@@ -1,5 +1,5 @@
 ---
-title: 140910
+title: 140911
 layout: outline
 ---
 
@@ -13,50 +13,47 @@ During this time, you can work on either one of the following:
 * Answer your code nitpicks.
 * Nitpick your colleagues code.
 
-### Wrapup (4:00-4:15)
+### Wrapup (4:00-4:05)
 
 Join Jeff in classroom A to wrapup the day.
 
-### Lightning Talks (4:15:4:45)
+### Lightning Talks (4:05:4:45)
 
-Join Jorge in classroom A to talk about your first draft. If you have not done so, make sure to submit a pull request with your theme and topic to the lightning talk [repo](https://github.com/turingschool/lightning_talks). The valid themes are listed in the Readme.
+Join Jorge at the couches on Blake to practice your talk. You should be prepared with your final slides.
 
 ## 1406
 
-### Agile Stories & Planning (9:00-10:30)
+### The Pivot - Checkpoint 1 (9:00-12:00)
 
-Join Jorge in classroom A to talk about project planning. This class will help you organize better and deliver a rapid iterations of your product.
+Join Jeff at Blake to review your current progress. Following yesterday's class, let your product owner demo your features and gather the feedback from Jeff.
 
-### Revisiting Git Workflow (10:30-12:00)
+* 9:00-9:45 - Keevahh
+* 9:45-10:30 - EmployMe
+* 10:30-11:15 - Airlift
+* 11:15-12:00 - TravelHome
 
-Join Steve in classroom A to talk about how to use git as an effective tool to organize your team.
+After your review, get together, review your past stories and plan for your next sprint.
 
-### Project Work Time (1:00-4:00)
+### The Pivot Work Time (10:30-12:00)
 
-We hope you got some sunshine during lunch.
-
-Meet with your team and work at Market on your project. Try to implement what you learned today about project management and git workflow.
-
-Jeff will be available for questions.
+Work at Blake on your project. Jeff will be available for questions.
 
 ## 1407
 
-### Project Work Time (9:00-12:00)
+### IdeaBox Work Time (9:00-12:00)
 
-Work at Blake on your project. Josh will be available for questions.
+Work at Blake on your project. Steve will be available for questions.
 
-### Testing Sinatra Applications (1:00-4:00)
+### IdeaBox Recap & Refactor (1:00-4:00)
 
-Join Steve on classroom A to learn how to test a Sinatra application.
+Join Steve in classroom B to review your projects (and to box some ideas).
 
 ## 1409
 
-### Mythical Creatures Workshop (9:00-12:00)
+### Git Fundamentals (9:00-12:00)
 
-Join Rachel in Classroom B to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa.
+Join Rachel in Classroom B to learn about Git, the file versioning system that we use for collaboration and development.
 
-### Scavenger Hunt (1:00-4:00)
+### Mythical Creatures Review (1:00-4:00)
 
-Today you'll be doing a Scavenger Hunt. Raissa will provide the instructions.
-
-Hope you didn't bring high heels.
+Join Jorge in Classroom A to review your Mythical Creatures. We hope you all survived the treacherous Medusa.
