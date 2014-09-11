@@ -52,7 +52,7 @@ Join Steve in classroom B to review your projects (and to box some ideas).
 
 ### Git Fundamentals (9:00-12:00)
 
-Join Rachel in Classroom B to learn about Git, the file versioning system that we use for collaboration and development.
+Join Rachel in Classroom B to learn about Git, the file versioning system that we use for collaboration and development. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown). 
 
 ### Mythical Creatures Review (1:00-4:00)
 
