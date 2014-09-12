@@ -39,7 +39,7 @@ Ben attended college at the University of Wisconsin-Madison, majoring in Chinese
 * 1:00 - Robert Gu
 * 1:10 - Eric Fransen
 * 1:20 - Andy Mention
-* 1:30 - Jessica Goulding
+* 1:30 - David Bayendor
 * 1:40 - Marc Garreau
 * 1:50 - Tan Doan
 * 2:00 - **Break**
@@ -50,19 +50,20 @@ Ben attended college at the University of Wisconsin-Madison, majoring in Chinese
 * 2:50 - Gustavo Villagrana
 * 3:00 - Alex Jensen
 * 3:10 - Christopher Bynum
-* 3:20 - David Bayendor
 
 #### With Jeff at Blake
 
-* 1:00 - Sara Simon
-* 1:10 - Glen Egbert
-* 1:20 - Luke Aiken
-* 1:30 - Jim Sutton
 * 1:40 - Rolando Navarrete
 * 1:50 - Ian Anderson
 * 2:00 - Daniel Glunz
 * 2:10 - Herbert Joseph
-* 2:20 - Hilary Denton
+* 2:20 - Sara Simon
+* 2:30 - Glen Egbert
+* 2:40 - Luke Aiken
+* 2:50 - Jim Sutton
+* 3:00 - Jessica Goulding
+* 3:10 - Cara Dennis
+* 3:20 - Hilary Denton
 
 #### With Jorge at Blake
 
@@ -79,7 +80,7 @@ Ben attended college at the University of Wisconsin-Madison, majoring in Chinese
 * 1:10 - Jonmichael Chambers
 * 1:20 - Andrew Watkins
 * 1:30 - Allison Larson
-* 1:40 - Cara Dennis
+* 1:40 - Aaron Wortham
 * 1:50 - Kalah Cheek
 * 2:00 - **Break**
 * 2:10 - Sam Kuhlmann
@@ -89,7 +90,6 @@ Ben attended college at the University of Wisconsin-Madison, majoring in Chinese
 * 2:50 - Allison Larson
 * 3:00 - Tim Mee
 * 3:10 - Konr Laron
-* 3:20 - Aaron Wortham
 
 ### End-of-Week Survey (3:30-4:00)
 
@@ -128,6 +128,20 @@ Work on a personal retrospective answering one or more of the following question
 ### Group Retrospective (9:30-10:00)
 
 Join Jorge at Classroom A for your group's retrospective.
+
+### Clone Wars Kickoff (1:00-1:30)
+
+Meet Jeff in the Blake Street Classroom to kickoff Clone Wars.
+
+Ahead of time, check out the [Clone Wars assignment](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
+
+The project is due for evaluation at 9AM on Thursday 9/18.
+
+#### Groupings
+
+* Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete
+* Sara Simon & Ian Andersen & Glen Egbert
+* Jessica Goulding & Luke Aiken & Aaron Paul Wortham
 
 ## 1409
 
