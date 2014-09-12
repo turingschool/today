@@ -1,0 +1,153 @@
+---
+title: 140912
+layout: outline
+---
+
+## All
+
+### Breakfast (8:30-9:00)
+
+Chat, smile and eat some breakfast at Blake. Courtesy of Gu's Happy Kitchen & Friends.
+
+### Lightning Talks (10:00-11:00)
+
+Regroup at Blake for the first ever 1406 / 1407 crossover lightning talks. Expect a sudden flow of electric wisdom.
+
+* Sara Simon - STEM to STEAM
+* Will Faurot - Programming Languages
+* Horacio Chavez - Standing on the Shoulders of Giants
+* Ian Andersen - Genetic Algorithms with Ruby Processing
+* Tim Proctor - Elixir
+* Andy Mention - Django
+* Jim Sutton - Sass
+* Tan Doan - DevOps Tools
+
+### Guest Speaker: Ben Voss (11:00-12:00)
+
+Add at least one question for Ben Voss on [Google Moderator](https://www.google.com/moderator/#15/e=20f413&t=20f413.40) and make sure to vote for your favorite questions.
+
+Ben attended college at the University of Wisconsin-Madison, majoring in Chinese language and literature, and international studies. After a few years in Beijing, he decided that he wanted to write software. He now works at [8th Light](http://www.8thlight.com).
+
+* [Github](https://github.com/bwvoss)
+* [Twitter](https://twitter.com/benvoss)
+* [Blog](http://blog.8thlight.com/ben-voss/archive.html)
+
+### 1-on-1s (1:00-3:30)
+
+#### With Rachel at Market
+
+* 1:00 - Robert Gu
+* 1:15 - Eric Fransen
+* 1:30 - Andy Mention
+* 1:45 - Jessica Goulding
+* 2:00 - Marc Garreau
+* 2:15 - Tan Doan
+* 2:30 - David Bayendor
+* 2:45 - Adam Smith
+* 3:00 - Travis Yoder
+* 3:15 - Chase van Hekken
+
+#### With Jeff at Blake
+
+* 1:00 - Sara Simon
+* 1:15 - Glen Egbert
+* 1:30 - Luke Aiken
+* 1:45 - Jim Sutton
+* 2:00 - Rolando Navarrete
+* 2:15 - Ian Anderson
+* 2:30 - Daniel Glunz
+* 2:45 - Herbert Joseph
+
+#### With Josh at Market
+
+* 1:00 - Emily Davis
+* 1:15 - Jonmichael Chambers
+* 1:30 - Andrew Watkins
+* 1:45 - Allison Larson
+* 2:00 - Cara Dennis
+* 2:15 - Chandra Carney
+* 2:30 - Zach Routhier
+* 2:45 - Alex Jensen
+* 3:00 - Tim Mee
+* 3:15 - Christopher Bynum
+
+#### With Jorge at Blake
+
+* 1:00 - Alan Smith
+* 1:15 - Horacio Chavez
+* 1:30 - Corey Davis
+* 1:45 - Tim Proctor
+
+#### With Steve at Blake
+
+* 1:00 - Emily Davis
+* 1:15 - Jonmichael Chambers
+* 1:30 - Andrew Watkins
+* 1:45 - Allison Larson
+* 2:00 - Cara Dennis
+* 2:15 - Kalah Cheek
+* 2:30 - Konr Laron
+* 2:45 - Sam Kuhlmann
+* 3:00 - Kate Lane
+* 3:15 - Victoria Harrod
+
+### End-of-Week Survey (3:30-4:00)
+
+Please work on this week's [survey](#). Your feedback is very important to us.
+
+## 1406
+
+### Group Retrospective (9:00-9:30)
+
+Join Jeff at Classroom B for your group's retrospective.
+
+### Individual Retrospective (9:30-10:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel on this first week of Module 3? What's your strategy this time?
+* What are the main challenges that you are facing in this project?
+* How is it to work with a code base that you did not write?
+* Is your team better organized after this week's classes on project management and git workflow? Which techniques are you implementing?
+
+## 1407
+
+### Individual Retrospective (9:00-9:30)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel on this first week of second module at Turing? What's your strategy this time?
+* What do you think about working guided by tutorials? Do you miss project work in pairs?
+* How do feel about building a Sinatra app? Does programming feel more real now?
+* How confident do you feel about your understanding of the web?
+
+### Group Retrospective (9:30-10:00)
+
+Join Jorge at Classroom A for your group's retrospective.
+
+## 1409
+
+### Group Retrospective (9:00-9:30)
+
+Join Rachel at Classroom A for your group's retrospective.
+
+### Individual Retrospective (9:30-10:00)
+
+#### Setup for Writing
+
+* Create a folder in your home directory named "retrospectives"
+* `cd` into the directory and `git init`
+* Create a file `week_of_0606.markdown`
+* Write responses for a few of the questions below
+* Use all the time available to you for writing
+
+#### Personal Retrospective Questions
+
+* How was this week similar and different from what you thought the class would be like?
+* Were there any topics you felt particularly "clicked" this week?
+* How do you feel about your cohort and peers?
+* What prep did you do before class? Was it worth it?
+
+### Microblogger (1:00-3:30)
+
+When you are not on 1-on-1s work on [Microblogger](http://tutorials.jumpstartlab.com/projects/microblogger.html) a client that interacts with Twitter.
