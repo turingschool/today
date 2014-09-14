@@ -80,6 +80,35 @@ During our session, we'll cover the following topics,
 
 ## 1409
 
+With both Rachel and Jorge out today, we've pushed your diagnostic assessment
+back to Tuesday. Please work in the Blake Street Work Space all day. Josh will
+be at the kitchen table to answer your questions.
+
 ### Objects & Methods (9:00-12:00)
 
+This morning, please work on the [Objects & Methods
+exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
+working in the following pairs:
+
+* Kate Lane & Christopher Bynum
+* Chase van Hekken & David Bayendor
+* Victoria Harrod & Chandra Carney
+* Danny Glunz & Herbert Joseph
+* Gregory Narajka & Adam Smith
+* Travis Yoder & Kalah Cheek
+* Sam Kuhlmann & Zachary Routhier
+* Timothy Mee & Alex Jensen & Konr Josef Laron
+
 ### Command/Query (1:00-3:00)
+
+This afternoon please complete [the Command/Query exercises](https://github.com/turingschool/ruby-exercises/tree/master/command-query)
+working in the following pairs:
+
+* Kalah Cheek & Danny Glunz
+* Victoria Harrod & Adam Smith
+* Alex Jensen & Kate Lane
+* Herbert Joseph & Travis Yoder
+* Zachary Routhier & Chandra Carney
+* Timothy Mee & Chase van Hekken
+* Konr Josef Laron & Christopher Bynum
+* David Bayendor & Sam Kuhlmann & Gregory Narajka
