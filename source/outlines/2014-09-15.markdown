@@ -9,6 +9,10 @@ One thing we heard last Friday is that we all need to do a better job with names
 Let's do name tags all this week to help each other out. We'll also work to get
 everyone's headshots visible so you can study/check/practice.
 
+### Warmup
+
+(TODO: logic?)
+
 ### Posse Time (3:00-4:00)
 
 (TODO)
@@ -30,6 +34,8 @@ three ideas you'd like to pursue.
 
 ## 1407
 
+You'll be in Classroom A at Blake Street all day.
+
 ### Intro to SQL (9:00-10:30)
 
 This morning we'll start by discussing and working with raw SQL.
@@ -49,7 +55,14 @@ Let's discuss the big picture of SQL:
 
 #### Tutorial
 
-See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html).
+See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) and
+complete it in the following pairs:
+
+* Kavita Sachdeva & Glen Egbert
+* Aaron Paul Wortham & Rolando Navarrete
+* Luke Aiken & Jim Sutton
+* Cara Dennis & Ian Andersen
+* Jessica Goulding & Sara Simon
 
 ### Intro to Sequel (10:30-12:00)
 
@@ -62,7 +75,14 @@ See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/
 
 #### Tutorial
 
-Then follow it up with the [Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
+Then follow it up with the [Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) working in
+the following pairs:
+
+* Jessica Goulding & Kavita Sachdeva
+* Glen Egbert & Jim Sutton
+* Luke Aiken & Ian Andersen
+* Aaron Paul Wortham & Sara Simon
+* Rolando Navarrete & Cara Dennis
 
 ### Acceptance Testing with Capybara (1:00-3:00)
 
