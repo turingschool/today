@@ -1,0 +1,43 @@
+---
+title: 140915
+layout: outline
+---
+
+## Everyone
+
+One thing we heard last Friday is that we all need to do a better job with names.
+Let's do name tags all this week to help each other out. We'll also work to get
+everyone's headshots visible so you can study/check/practice.
+
+### Posse Time (3:00-4:00)
+
+(TODO)
+
+### Lightning Talks (4:15-4:45)
+
+The following students join Jeff in classroom A to talk about your theme and topic.
+
+You should [review the lightning talks instructions here](https://github.com/turingschool/lightning_talks) and come with two or
+three ideas you'd like to pursue.
+
+## 1406
+
+### Revisiting Authorization Strategies (9:00-10:30)
+
+### ActiveRecord Scopes & Queries (10:30-12:00)
+
+### Project Work Time (1:00-3:00)
+
+## 1407
+
+### SQL & Sequel (9:00-10:30)
+
+### Intro to Sequel (10:30-12:00)
+
+### Acceptance Testing with Capybara (1:00-3:00)
+
+## 1409
+
+### Objects & Methods (9:00-12:00)
+
+### Command/Query (1:00-3:00)
