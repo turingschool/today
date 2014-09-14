@@ -30,11 +30,53 @@ three ideas you'd like to pursue.
 
 ## 1407
 
-### SQL & Sequel (9:00-10:30)
+### Intro to SQL (9:00-10:30)
+
+This morning we'll start by discussing and working with raw SQL.
+
+#### Discussion
+
+Let's discuss the big picture of SQL:
+
+* Excel and Databases
+* Tables, Columns, and Rows
+* Data types
+* Primary keys
+* SELECT, INSERT, DELETE
+* WHERE
+* Foreign keys
+* Joins
+
+#### Tutorial
+
+See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html).
 
 ### Intro to Sequel (10:30-12:00)
 
+#### Discussion
+
+* SQL is no fun
+* Object-Relational Mappers (ORMs)
+* ActiveRecord (99%), DataMapper (1%), Sequel (0%)
+* Why use Sequel?
+
+#### Tutorial
+
+Then follow it up with the [Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
+
 ### Acceptance Testing with Capybara (1:00-3:00)
+
+You probably didn't implement any tests while building IdeaBox, and that's not a
+good thing. Today we'll learn how to test web apps using Capybara.
+
+During our session, we'll cover the following topics,
+
+1. What is a feature test
+2. How to setup Capybara with Sinatra
+3. How to template a feature test
+4. The essential Capybara searching features
+5. The essential Capybara interaction features
+6. How to debug a feature test
 
 ## 1409
 
