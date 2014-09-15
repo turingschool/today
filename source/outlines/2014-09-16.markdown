@@ -1,0 +1,96 @@
+---
+title: 140916
+layout: outline
+---
+
+## Everyone
+
+Please continue to wear a name tag today.
+
+Here are quick links to the individual class sections: [1406][], [1407][], [1409][].
+
+### Warmup
+
+### Lightning Talk Meetings (4:15-4:45)
+
+Lightning talkers please meet with Steve in Classroom A at 4:15pm to go over your
+outlines.
+
+## 1406
+
+### Work Time (9:00-12:00)
+
+This morning you can work at either the Market conference room or the Blake work
+space.
+
+### Auditing & Improving the Security of Rails Applications (1:00-2:30)
+
+### Revisiting ActiveRecord Relationships (2:30-4:00)
+
+Here are the ideas we discussed:
+
+* Recap the concepts of one-to-one, one-to-many, and many-to-many
+* Use Storedom to implement a one-to-one with a Login class and a Customer class
+* Use Storedom to implement a many-to-many with has_many :through
+* Explain polymorphic relationships
+* Use Storedom to create a Photo (with just a URL) which can attach to either
+a user or an item
+
+Here are some existing tutorials that can work:
+
+Check out polymorphism: http://tutorials.jumpstartlab.com/topics/models/polymorphism.html
+and relationships: http://tutorials.jumpstartlab.com/topics/models/relationships.html
+
+## 1407
+
+### Scraping & Parsing with Poltergeist (9:00-12:00)
+
+Meet with Josh in Classroom B to check out Poltergeist.
+
+### CloneWars Check-Ins and Work Time (1:00-4:00)
+
+This afternoon please work in the Blake Street work space and join Jeff for
+the following check-ins:
+
+* 1:00 - Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete
+* 1:45 - Sara Simon & Ian Andersen & Glen Egbert
+* 2:30 - Jessica Goulding & Luke Aiken & Aaron Paul Wortham
+
+## 1409
+
+### Diagnostic Assessments
+
+Today each of you will complete a diagnostic assessment. The purpose of the
+test is to get a feel for your starting point in the class. It has no effect or
+importance beyond that.
+
+#### With Steve
+
+* 9:00 - Travis Yoder
+* 9:30 - Zachary Routhier
+* 10:00 - Timothy Mee
+* 10:30 - Danny Glunz
+* 11:00 - Alex Jensen
+* 11:30 - Adam Smith
+
+
+#### With Rachel
+
+* 9:00 - Victoria Harrod
+* 9:30 - Christopher Bynum
+* 10:00 - Chandra Carney
+* 10:30 - Gregory Narajka
+* 11:00 - Kate Lane
+* 11:30 - Kalah Cheek
+* 2:30 - Konr Josef Laron
+* 3:15 - Sam Kuhlmann
+
+#### With Josh
+
+* 1:45 - David Bayendor
+* 2:30 - Herbert Joseph
+* 3:15 - Chase van Hekken
+
+### Ideabox TDD
+
+### Enumerable Methods
