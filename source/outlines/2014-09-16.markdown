@@ -11,6 +11,8 @@ Here are quick links to the individual class sections: [1406][], [1407][], [1409
 
 ### Warmup
 
+[TODO]
+
 ### Lightning Talk Meetings (4:15-4:45)
 
 Lightning talkers please meet with Steve in Classroom A at 4:15pm to go over your
@@ -73,7 +75,6 @@ importance beyond that.
 * 11:00 - Alex Jensen
 * 11:30 - Adam Smith
 
-
 #### With Rachel
 
 * 9:00 - Victoria Harrod
@@ -91,6 +92,55 @@ importance beyond that.
 * 2:30 - Herbert Joseph
 * 3:15 - Chase van Hekken
 
-### Ideabox TDD
+### Ideabox TDD (9:00-12:00)
 
-### Enumerable Methods
+Use Classroom A to complete this exercise. Sorry that, because of assessments,
+there won't be anyone dedicated to questions during your work time.
+
+It's time to start your most sizable tutorial yet,
+[IdeaBox-TDD](http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html).
+
+Please spend the morning working on it with the pair below and finish it by
+the start of the day tomorrow.
+
+### Pairs
+
+* Travis Yoder & Victoria Harrod
+* Zachary Routhier & Chase van Hekken
+* Herbert Joseph & Kalah Cheek
+* Konr Josef Laron & Kate Lane
+* Gregory Narajka & Chandra Carney
+* David Bayendor & Christopher Bynum
+* Alex Jensen & Adam Smith
+* Timothy Mee & Sam Kuhlmann & Danny Glunz
+
+### Enumerable Methods (1:00-4:00)
+
+Start in Classroom A with Rachel.
+
+#### Introduction
+
+Then let's have a quick chat about the overarching concepts behind the Enumerable methods.
+
+* Programming is about collections
+* *Iterating* over a collection: `each`, `map`/`collect`, `inject`, `sort_by`
+* *Filtering* a collection: `select`, `detect`, `min`, `max`
+* Typically take a block and run it once for each element
+* The right enumerable method can save you time/effort
+* But everything can be done with `each`
+
+#### Exercises in Pairs
+
+Once we've finished the group discussion you should dive into
+[these enumerable exercises](https://github.com/JumpstartLab/enums-exercises)
+
+Working in the following pairs:
+
+* Timothy Mee & Zachary Routhier
+* Christopher Bynum & David Bayendor
+* Kalah Cheek & Chase van Hekken
+* Danny Glunz & Gregory Narajka
+* Konr Josef Laron & Kate Lane
+* Travis Yoder & Adam Smith
+* Victoria Harrod & Chandra Carney
+* Alex Jensen & Herbert Joseph & Sam Kuhlmann
