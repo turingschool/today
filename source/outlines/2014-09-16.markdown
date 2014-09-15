@@ -33,7 +33,7 @@ outlines.
 ### Work Time (9:00-12:00)
 
 This morning you can work at either the Market conference room or the Blake work
-space.
+space. Jeff will be available for questions.
 
 ### Auditing & Improving the Security of Rails Applications (1:00-2:30)
 
