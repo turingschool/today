@@ -98,25 +98,10 @@ You'll be in Classroom A at Blake Street all day.
 
 ### Intro to SQL (9:00-10:30)
 
-This morning we'll start by discussing and working with raw SQL.
+This morning we'll start by discussing and working with raw SQL. Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
 
-#### Discussion
-
-Let's discuss the big picture of SQL:
-
-* Excel and Databases
-* Tables, Columns, and Rows
-* Data types
-* Primary keys
-* SELECT, INSERT, DELETE
-* WHERE
-* Foreign keys
-* Joins
-
-#### Tutorial
-
-See the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) and
-complete it in the following pairs:
+#### Pairings
 
 * Kavita Sachdeva & Glen Egbert
 * Aaron Paul Wortham & Rolando Navarrete
