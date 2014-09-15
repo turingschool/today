@@ -11,7 +11,19 @@ Here are quick links to the individual class sections: [1406][], [1407][], [1409
 
 ### Warmup
 
-[TODO]
+This morning let's work on nitpicking. Assuming you have at least one exercise
+accepted in Exercism, you should be able to nitpick other people's submissions.
+Ask a posse member or other student if you need help getting started.
+
+Some ideas when writing nitpicks:
+
+* point out techniques that you particularly like or don't like
+* ask questions about the choices they made, or why they chose to do X over Y
+* highlight anything they did that you didn't know about, or suggest things you
+know that could simplify what they're doing
+
+Remember that the world is full of people, so phrase your comments in a way
+that you'd feel excited about them if they were directed at your work.
 
 ### Lightning Talk Meetings (4:15-4:45)
 
