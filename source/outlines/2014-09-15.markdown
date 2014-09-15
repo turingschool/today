@@ -11,11 +11,59 @@ everyone's headshots visible so you can study/check/practice.
 
 ### Warmup
 
-(TODO: logic?)
+This morning please [complete the following logic problem](http://cl.ly/0d1N3B3p0X0W)
+using the pairs below:
+
+* Konr Josef Laron & Ian Andersen
+* Jim Sutton & Tan Doan
+* Jonmichael Chambers & Aaron Paul Wortham
+* Jessica Goulding & Kate Lane
+* Christopher Bynum & Rolando Navarrete
+* Luke Aiken & Hilary Denton
+* Chad Brading & Alex Jensen
+* David Bayendor & Emily Davis
+* Corey Davis & Timothy Mee
+* Horacio Chavez & Danny Glunz
+* Eric Fransen & Kavita Sachdeva
+* Marc Garreau & Zachary Routhier
+* Allison Larson & Herbert Joseph
+* Tim Proctor & Sara Simon
+* Chase van Hekken & Andrew Watkins
+* Robert Gu & Glen Egbert
+* Alan Smith & Gregory Narajka
+* Adam Smith & Will Faurot
+* Victoria Harrod & Sam Kuhlmann
+* Cara Dennis & Kalah Cheek
+* Travis Yoder & Andy Mention
+* Chandra Carney & Gustavo Villagrana
+
+How will you find this person if you don't know their face? Try sending them
+a direct message on Slack!
 
 ### Posse Time (3:00-4:00)
 
-(TODO)
+For your posse time this afternoon please...
+
+### Administrative Business (3:00-3:10)
+
+* setup pairing appointments
+* send an email from all the students to your mentors about what's going on with
+you this week
+* complete any other coordination tasks you have pending
+
+### Practice Reading Code (3:10-4:00)
+
+If you have only three students, stick together. If you have four, break into
+two pairs.
+
+Then let's practice reading some open source code. Here are a few starter ideas:
+
+* Easy: [Faker](https://github.com/stympy/faker) - Say you want to add your first
+and last name into the pool of names that Faker generates. How would you do that?
+* Intermediate: [Sinatra](https://github.com/sinatra/sinatra) - How does the `get` method work? How does it make the HTTP parameters available to you as `params` vs when
+using a block parameter with the call to `get`?
+* Difficult: [Minitest](https://github.com/seattlerb/minitest) - How does Minitest
+find and run all the `test_` methods in a test file?
 
 ### Lightning Talks (4:15-4:45)
 
@@ -23,6 +71,15 @@ The following students join Jeff in classroom A to talk about your theme and top
 
 You should [review the lightning talks instructions here](https://github.com/turingschool/lightning_talks) and come with two or
 three ideas you'd like to pursue.
+
+* _1406_: Chad Brading
+* _1406_: Gustavo Villagrana
+* _1406_: Hilary Denton
+* _1406_: Corey Davis
+* _1407_: Luke Aiken
+* _1407_: Jessica Goulding
+* _1407_: Kavita Sachdeva
+* _1407_: Aaron Paul Wortham
 
 ## 1406
 
