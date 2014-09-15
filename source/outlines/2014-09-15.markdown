@@ -88,9 +88,43 @@ You'll be working in the Market Street space (Classroom B) all day.
 
 ### Revisiting Authorization Strategies (9:00-10:30)
 
+Let's discuss the following:
+
+* Brief review of role-based authentication and CanCan.
+* Why that doesn't work for multi-tenant applications.
+* Figuring out an alternative approach.
+* Creating granular authorization logic.
+* Implementing authorization on Ruby object.
+* Implementing authorization on our data.
+* Authoization based on scopes.
+
+Try your hand at implementing per-user scoping [by working through a branch of Storedom in the following pairs](http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html):
+
+* Andy Mention & Chad Brading
+* Alan Smith & Hilary Denton
+* Corey Davis & Andrew Watkins
+* Tim Proctor & Jonmichael Chambers
+* Tan Doan & Allison Larson
+* Horacio Chavez & Eric Fransen
+* Gustavo Villagrana & Robert Gu
+* Will Faurot & Marc Garreau & Emily Davis
+
 ### ActiveRecord Scopes & Queries (10:30-12:00)
 
+We'll talk take a deeper dive into ActiveRecord scoping and queries:
+
+* Recap of the basic query methods (`.where`, `.limit`, `.order`)
+* Chaining and composing Active Record Queries
+* Creating and overriding `default_scope`
+* Creating scopes with lamdas and creating scopes that take parameters
+* Emulating scopes with class methods
+
 ### Project Work Time (1:00-3:00)
+
+Focus on the following:
+
+* Implementing per-user scoping into your multi-tenant pivot.
+* Implementing scopes to create composable queries in your application.
 
 ## 1407
 
