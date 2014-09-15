@@ -56,7 +56,8 @@ you this week
 If you have only three students, stick together. If you have four, break into
 two pairs.
 
-Then let's practice reading some open source code. Here are a few starter ideas:
+Then let's practice reading some open source code. Below are a few starter ideas.
+You don't need to be familiar with these libraries, you can start by reading the README!
 
 * Easy: [Faker](https://github.com/stympy/faker) - Say you want to add your first
 and last name into the pool of names that Faker generates. How would you do that?
