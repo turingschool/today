@@ -7,8 +7,6 @@ layout: outline
 
 Please continue to wear a name tag today.
 
-Here are quick links to the individual class sections: [1406][], [1407][], [1409][].
-
 ### Warmup
 
 This morning let's work on nitpicking. Assuming you have at least one exercise
