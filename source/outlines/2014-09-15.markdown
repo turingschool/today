@@ -145,17 +145,10 @@ This morning we'll start by discussing and working with raw SQL. Find the
 
 ### Intro to Sequel (10:30-12:00)
 
-#### Discussion
+Next we'll move on to the Sequel library. Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
 
-* SQL is no fun
-* Object-Relational Mappers (ORMs)
-* ActiveRecord (99%), DataMapper (1%), Sequel (0%)
-* Why use Sequel?
-
-#### Tutorial
-
-Then follow it up with the [Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) working in
-the following pairs:
+#### Pairings
 
 * Jessica Goulding & Kavita Sachdeva
 * Glen Egbert & Jim Sutton
