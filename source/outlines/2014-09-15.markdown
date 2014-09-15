@@ -84,6 +84,8 @@ three ideas you'd like to pursue.
 
 ## 1406
 
+You'll be working in the Market Street space (Classroom B) all day.
+
 ### Revisiting Authorization Strategies (9:00-10:30)
 
 ### ActiveRecord Scopes & Queries (10:30-12:00)
