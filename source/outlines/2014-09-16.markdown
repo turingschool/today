@@ -45,6 +45,17 @@ This afternoon, you'll be conducting a security audit on your colleague's applic
 4. Fork the repository and try to solve the issue as a pair.
 5. Submit a pull request for a code review.
 
+You'll working in the following pairs
+
+* Tan Doan and Gustavo Villagrana auditing Keevahh
+* Andy Mention and Marc Garreau auditing EmployMe
+* Robert Gu and Andrew Watkins auditing Airlift
+* Allison Larson and Corey Davis auditing TravelHome
+* Alan Smith, Eric Fransen, Jonmichael Chambers auditing Keevahh
+* Tim Proctor and Will Faurot auditing EmployMe
+* Emily Davis and Hilary Denton auditing Airlift
+* Horacio Chavez and Chad Brading auditing TravelHome
+
 ### Revisiting ActiveRecord Relationships (2:30-4:00)
 
 We'll be discussing:
