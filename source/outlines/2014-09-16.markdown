@@ -37,21 +37,43 @@ space. Jeff will be available for questions at the Blake kitchen table or Slack/
 
 ### Auditing & Improving the Security of Rails Applications (1:00-2:30)
 
+This afternoon, you'll be conducting a security audit on your colleague's applications using `breakman`.
+
+1. Install Brakeman using `gem install brakeman`.
+2. Clone the repository.
+3. Create issues on your colleague's repository outlining the nature of each issue that Brakeman alerts you to.
+4. Fork the repository and try to solve the issue as a pair.
+5. Submit a pull request for a code review.
+
+You'll working in the following pairs
+
+* Tan Doan and Gustavo Villagrana auditing Keevahh
+* Andy Mention and Marc Garreau auditing EmployMe
+* Robert Gu and Andrew Watkins auditing Airlift
+* Allison Larson and Corey Davis auditing TravelHome
+* Alan Smith, Eric Fransen, Jonmichael Chambers auditing Keevahh
+* Tim Proctor and Will Faurot auditing EmployMe
+* Emily Davis and Hilary Denton auditing Airlift
+* Horacio Chavez and Chad Brading auditing TravelHome
+
 ### Revisiting ActiveRecord Relationships (2:30-4:00)
 
-Here are the ideas we discussed:
+We'll be discussing:
 
-* Recap the concepts of one-to-one, one-to-many, and many-to-many
-* Use Storedom to implement a one-to-one with a Login class and a Customer class
-* Use Storedom to implement a many-to-many with has_many :through
-* Explain polymorphic relationships
-* Use Storedom to create a Photo (with just a URL) which can attach to either
+* A recap of one-to-one, one-to-many, and many-to-many
+* Polymorphic relationships in ActiveRecord
+
+You will:
+
+* Use Storedom to create a `Photo` (with just a URL) which can attach to either
 a user or an item
+* Use Storedom to implement a one-to-one with a `Login` class and a `Customer` class
+* Use Storedom to implement a many-to-many with has_many `:through`
 
-Here are some existing tutorials that can work:
+Resources:
 
-Check out polymorphism: http://tutorials.jumpstartlab.com/topics/models/polymorphism.html
-and relationships: http://tutorials.jumpstartlab.com/topics/models/relationships.html
+* [Polymorphism](http://tutorials.jumpstartlab.com/topics/models/polymorphism.html)
+* [ActiveRecord Relationships](http://tutorials.jumpstartlab.com/topics/models/relationships.html)
 
 ## 1407
 
