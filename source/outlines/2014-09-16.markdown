@@ -37,6 +37,14 @@ space. Jeff will be available for questions.
 
 ### Auditing & Improving the Security of Rails Applications (1:00-2:30)
 
+This afternoon, you'll be conducting a security audit on your colleague's applications using `breakman`.
+
+1. Install Brakeman using `gem install brakeman`.
+2. Clone the repository.
+3. Create issues on your colleague's repository outlining the nature of each issue that Brakeman alerts you to.
+4. Fork the repository and try to solve the issue as a pair.
+5. Submit a pull request for a code review.
+
 ### Revisiting ActiveRecord Relationships (2:30-4:00)
 
 We'll be discussing:
