@@ -39,19 +39,22 @@ space. Jeff will be available for questions.
 
 ### Revisiting ActiveRecord Relationships (2:30-4:00)
 
-Here are the ideas we discussed:
+We'll be discussing:
 
-* Recap the concepts of one-to-one, one-to-many, and many-to-many
-* Use Storedom to implement a one-to-one with a Login class and a Customer class
-* Use Storedom to implement a many-to-many with has_many :through
-* Explain polymorphic relationships
-* Use Storedom to create a Photo (with just a URL) which can attach to either
+* A recap of one-to-one, one-to-many, and many-to-many
+* Polymorphic relationships in ActiveRecord
+
+You will:
+
+* Use Storedom to create a `Photo` (with just a URL) which can attach to either
 a user or an item
+* Use Storedom to implement a one-to-one with a `Login` class and a `Customer` class
+* Use Storedom to implement a many-to-many with has_many `:through`
 
-Here are some existing tutorials that can work:
+Resources:
 
-Check out polymorphism: http://tutorials.jumpstartlab.com/topics/models/polymorphism.html
-and relationships: http://tutorials.jumpstartlab.com/topics/models/relationships.html
+* [Polymorphism](http://tutorials.jumpstartlab.com/topics/models/polymorphism.html)
+* [ActiveRecord Relationships](http://tutorials.jumpstartlab.com/topics/models/relationships.html)
 
 ## 1407
 
