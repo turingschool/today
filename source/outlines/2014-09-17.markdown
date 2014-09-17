@@ -47,7 +47,14 @@ Good luck!
 
 ### Algorithmic Thinking (9:00-10:30)
 
-Meet with Steve in Classroom B.
+Meet with Steve in Classroom B to talk about algorithms and Hungarian folk dancing.
+
+* Gregory Narajka, Konr Josef Laron, Christopher Bynum will work on Connect 4.
+* Alex Jensen, Chandra Carney, Chase van Hekken will work on Guess Who.
+* Timothy Mee, Adam Smith, Victoria Harrod will work on Blackjack.
+* Zachary Routhier, Herbert Joseph, David Bayendor will work on Battleship.
+* Kalah Cheek, Sam Kuhlmann, Danny Glunz will work on Dominos.
+* Kate Lane, Travis Yoder will work on Tic Tac Toe.
 
 ### Intro to CSVs (10:30-12:00)
 
