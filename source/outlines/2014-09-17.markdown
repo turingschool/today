@@ -7,6 +7,9 @@ layout: outline
 
 ### Warmup
 
+This morning please continue work on your current Exercism exercise for warmup. Your
+project can wait.
+
 ## 1406
 
 ### Getting Started with Workers (9:00-12:00)
