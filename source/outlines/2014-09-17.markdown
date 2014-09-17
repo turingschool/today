@@ -17,16 +17,12 @@ Jorge will teach you about workers at Blake Street this morning.
 
 This afternoon you can work at Market Street.
 
-### Phonebook with CSV (1:00-4:00)
-
-Rachel will be available for questions while you work through the Phonebook with
-CSV tutorial at Blake Street.
-
 ## 1407
 
 ### CloneWars Work Time (9:00-4:00)
 
 It's the last push for your CloneWars projects before they're evaluated tomorrow.
+
 Good luck!
 
 ## 1409
@@ -38,3 +34,7 @@ Meet with Steve in Classroom B.
 ### Intro to CSVs (10:30-12:00)
 
 Work with Steve in Classroom B.
+
+### Phone Book with CSV (1:00-4:00)
+
+Rachel will be available for questions while you work through the Phonebook with CSV tutorial at Blake Street.
