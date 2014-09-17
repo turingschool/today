@@ -49,7 +49,7 @@ Good luck!
 
 Meet with Steve in Classroom B to talk about algorithms and Hungarian folk dancing.
 
-* Gregory Narajka, Konr Josef Laron, Christopher Bynum will work on Connect 4.
+* Gregory Narajka, Konr Josef Larson, Christopher Bynum will work on Connect 4.
 * Alex Jensen, Chandra Carney, Chase van Hekken will work on Guess Who.
 * Timothy Mee, Adam Smith, Victoria Harrod will work on Blackjack.
 * Zachary Routhier, Herbert Joseph, David Bayendor will work on Battleship.
