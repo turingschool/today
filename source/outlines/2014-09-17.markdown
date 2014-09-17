@@ -39,7 +39,7 @@ that **works** and is **deployed** on Heroku.
 
 ### CloneWars Work Time (9:00-4:00)
 
-It's the last push for your CloneWars projects before they're evaluated tomorrow.
+It's the last push for your CloneWars projects before they're evaluated tomorrow **at 9AM**.
 
 Good luck!
 
