@@ -11,7 +11,7 @@ layout: outline
 
 ### Getting Started with Workers (9:00-12:00)
 
-Jorge will teach you about workers at Blake Street this afternoon.
+Jorge will teach you about workers at Blake Street this morning.
 
 ### Project Work Time (1:00-4:00)
 
