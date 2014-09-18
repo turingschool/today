@@ -1,0 +1,96 @@
+---
+title: 140918
+layout: outline
+---
+
+## Everyone
+
+### Warmup
+
+Since two groups have projects due today we won't have a prescribed warmup.
+
+### Denver Startup Week
+
+We'll start setting up the rooms
+at 2pm and expect people to arrive about 3pm. We should be done by 5pm.
+
+This is a really great opportunity to find the next awesome students for Turing,
+so we greatly appreciate your help. We need about 16 helpers for this afternoon.
+Please jump into #startupweek on Slack if you're in.
+
+## 1406
+
+Today's a big work day when you're not in your second check-in meetings.
+
+* 9:00 - Keevahh
+* 9:45 - EmployMe
+* 10:30 - Airlift
+* 11:15 - TravelHome
+
+Remember that your project should be deployed to production!
+
+## 1407
+
+### Clone Wars Evaluations & Peer Review (9:00-12:00)
+
+This morning we'll evaluate your projects and you'll take a look at each other's
+work.
+
+#### Evaluations
+
+Please meet with Rachel in the Blake Street Work Space at the following times:
+
+* 9:00 - Team A: Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete
+* 10:00 - Team B: Sara Simon & Ian Andersen & Glen Egbert
+* 11:00 - Team C: Jessica Goulding & Luke Aiken & Aaron Paul Wortham
+
+#### Peer Review
+
+When you're not doing your evaluation please do a bit of review to solidify
+your own skills.
+
+You should:
+
+* Find the project repo URL in the submissions file
+* Fork the project you're evaluating
+* Clone it to your local machine
+* Get it running locally
+* Find an area for improvement
+* Start a feature branch locally
+* Build out the improvement guided by tests
+* Commit the improvement locally
+* Push the feature branch to your fork
+* Submit a pull request back to the original project
+
+In two hours you can likely build/improve two aspects of the app leading to
+two different pull requests.
+
+* Cara Dennis improves Team B
+* Jim Sutton improves Team C
+* Kavita Sachdeva improves Team B
+* Rolando Navarrete improves Team C
+* Sara Simon improves Team A
+* Ian Andersen improves Team C
+* Glen Egbert improves Team A
+* Jessica Goulding improves Team B
+* Luke Aiken reviews Team A
+* Aaron Paul Wortham reviews Team B
+
+### Recap & Refactor (1:00-2:00)
+
+This afternoon you can choose from two sessions:
+
+* Jorge will look at strengths and weaknesses of your feature testing
+* Steve will work through ways to push logic down the stack from your `app.rb`
+
+## 1409
+
+### Ruby's Object Model (9:00-12:00)
+
+Meet Josh in Classroom B (Market Street) to discuss Ruby's object model.
+Clone this repo: [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model)
+
+### Encapsulating Responsibilities (1:00-2:00)
+
+This afternoon work with Rachel in Classroom B (Market Street) on Encapsulating
+Responsibilities.
