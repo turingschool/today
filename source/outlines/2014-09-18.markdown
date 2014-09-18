@@ -88,6 +88,7 @@ This afternoon you can choose from two sessions:
 ### Ruby's Object Model (9:00-12:00)
 
 Meet Josh in Classroom B (Market Street) to discuss Ruby's object model.
+Clone this repo: [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model)
 
 ### Encapsulating Responsibilities (1:00-2:00)
 
