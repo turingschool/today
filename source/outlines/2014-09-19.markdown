@@ -21,7 +21,7 @@ Ask him something or you'll email will be marked as spam forever. True story.
 * [Twitter](https://twitter.com/bwest)
 * [Blog](http://www.brandonmwest.com)
 
-### Lightning Talks (11:00-12:00)
+### Lightning Talks (10:00-11:00)
 
 Regroup at Blake for 1406 / 1407 lightning talks.
 
@@ -109,11 +109,11 @@ Regroup at Blake to wrap up the week.
 
 ## 1406
 
-### Group Retrospective (10:00-10:30)
+### Group Retrospective (11:00-11:30)
 
 Join Jeff at Classroom B for your group's retrospective.
 
-### Individual Retrospective (10:30-11:00)
+### Individual Retrospective (11:30-12:00)
 
 Work on a personal retrospective answering one or more of the following questions:
 
@@ -124,7 +124,7 @@ Work on a personal retrospective answering one or more of the following question
 
 ## 1407
 
-### Individual Retrospective (10:00-10:30)
+### Individual Retrospective (11:00-11:30)
 
 Work on a personal retrospective answering one or more of the following questions:
 
@@ -133,17 +133,17 @@ Work on a personal retrospective answering one or more of the following question
 * Next week, you are going to start your first guided Rails project. Are you ready to leave Sinatra behind? Are you looking forward to getting into Rails?
 * Now that you have one cohort above you and one below, how are you integrating with them? Are you making an effort to incorporate the newbies? Looking at their progress, do you feel you have advanced much since the first module?
 
-### Group Retrospective (10:30-11:00)
+### Group Retrospective (11:30-12:00)
 
 Join Jorge at Classroom A for your group's retrospective.
 
 ## 1409
 
-### Group Retrospective (10:00-10:30)
+### Group Retrospective (11:00-11:30)
 
 Join Rachel at Classroom A for your group's retrospective.
 
-### Individual Retrospective (10:30-11:00)
+### Individual Retrospective (11:30-12:00)
 
 #### Setup for Writing
 
