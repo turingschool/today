@@ -1,0 +1,176 @@
+---
+title: 140919
+layout: outline
+---
+
+## All
+
+### Breakfast (8:30-9:00)
+
+Bagel time. Stuff your being with a delicious ring of yeasted wheat dough.
+
+Enjoy.
+
+### Guest Speaker: Brandon West (9:00-10:00)
+
+Brandon works as developer evangelist at SendGrid where he woes the masses with email tricks.
+
+Ask him something or you'll email will be marked as spam forever.
+
+* [Github](https://github.com/brandonmwest)
+* [Twitter](https://twitter.com/bwest)
+* [Blog](http://www.brandonmwest.com)
+
+### Lightning Talks (11:00-12:00)
+
+Regroup at Blake for 1406 / 1407 lightning talks.
+
+* Jessica Goulding - How to Integrate with your Tech Community
+* Hilary Denton - When Pairing Goes Wrong
+* Luke Aiken - Vim
+* Gustavo Villagrana - OAuth & OmniAuth
+* Kavita Sachdeva - Nodebots
+* Chad Brading - Quantum Computing
+* Aaron Wortham
+* Corey Davis
+
+### 1-on-1s (1:00-3:30)
+
+#### With Rachel
+
+* 1:00 - Ian Anderson
+* 1:15 - Daniel Glunz
+* 1:30 - Herbert Joseph
+* 1:45 - Sara Simon
+* 2:00 - Glen Egbert
+* 2:15 - Luke Aiken
+* 2:30 - Jim Sutton
+* 2:45 - Jessica Goulding
+* 3:00 - Cara Dennis
+
+#### With Jeff
+
+* 1:00 - Robert Gu
+* 1:15 - Eric Fransen
+* 1:30 - Andy Mention
+* 1:45 - David Bayendor
+* 2:00 - Marc Garreau
+* 2:15 - Tan Doan
+* 2:30 - Christopher Bynum
+* 2:45 - Adam Smith
+* 3:00 - Travis Yoder
+
+#### With Jorge
+
+* 1:00 - Kalah Cheek
+* 1:15 - Sam Kuhlmann
+* 1:30 - Kate Lane
+* 1:45 - Victoria Harrod
+* 2:00 - Will Faurot
+* 2:15 - Tim Mee
+* 2:30 - Konr Larson
+* 2:45 - Hilary Denton
+* 3:00 - Alex Jensen
+
+#### With Josh
+
+* 1:00 - Emily Davis
+* 1:15 - Jonmichael Chambers
+* 1:30 - Andrew Watkins
+* 1:45 - Allison Larson
+* 2:00 - Aaron Wortham
+* 2:15 - Chase van Hekken
+* 2:30 - Kavita Sachdeva
+* 2:45 - Chad Brading
+
+#### With Steve
+
+* 1:00 - Rolando Navarrete
+* 1:15 - Alan Smith
+* 1:30 - Horacio Chavez
+* 1:45 - Corey Davis
+* 2:00 - Tim Proctor
+* 2:15 - Chandra Carney
+* 2:30 - Zach Routhier
+* 2:45 - Greg Narajka
+* 3:00 - Gustavo Villagrana
+
+
+### End-of-Week Survey (3:30-4:00)
+
+Please work on this week's survey. Your feedback is very important to us.
+
+* [1406](#)
+* [1407](#)
+* [1409](#)
+
+## 1406
+
+### Group Retrospective (9:00-9:30)
+
+Join Jeff at Classroom B for your group's retrospective.
+
+### Individual Retrospective (9:30-10:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel on this first week of Module 3? What's your strategy this time?
+* What are the main challenges that you are facing in this project?
+* How is it to work with a code base that you did not write?
+* Is your team better organized after this week's classes on project management and git workflow? Which techniques are you implementing?
+
+## 1407
+
+### Individual Retrospective (9:00-9:30)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel on this first week of second module at Turing? What's your strategy this time?
+* What do you think about working guided by tutorials? Do you miss project work in pairs?
+* How do feel about building a Sinatra app? Does programming feel more real now?
+* How confident do you feel about your understanding of the web?
+
+### Group Retrospective (9:30-10:00)
+
+Join Jorge at Classroom A for your group's retrospective.
+
+### Clone Wars Kickoff (1:00-1:30)
+
+Meet Jeff in the Blake Street Classroom to kickoff Clone Wars.
+
+Ahead of time, check out the [Clone Wars assignment](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
+
+The project is due for evaluation at 9AM on Thursday 9/18.
+
+#### Groupings
+
+* Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete
+* Sara Simon & Ian Andersen & Glen Egbert
+* Jessica Goulding & Luke Aiken & Aaron Paul Wortham
+
+## 1409
+
+### Group Retrospective (9:00-9:30)
+
+Join Rachel at Classroom A for your group's retrospective.
+
+### Individual Retrospective (9:30-10:00)
+
+#### Setup for Writing
+
+* Create a folder in your home directory named "retrospectives"
+* `cd` into the directory and `git init`
+* Create a file `week_of_0606.markdown`
+* Write responses for a few of the questions below
+* Use all the time available to you for writing
+
+#### Personal Retrospective Questions
+
+* How was this week similar and different from what you thought the class would be like?
+* Were there any topics you felt particularly "clicked" this week?
+* How do you feel about your cohort and peers?
+* What prep did you do before class? Was it worth it?
+
+### Microblogger (1:00-3:30)
+
+When you are not on 1-on-1s work on [Microblogger](http://tutorials.jumpstartlab.com/projects/microblogger.html) a client that interacts with Twitter.
