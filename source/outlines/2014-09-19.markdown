@@ -31,8 +31,8 @@ We'll continue at Blake for the 1406 / 1407 lightning talks.
 * Gustavo Villagrana - OAuth & OmniAuth
 * Kavita Sachdeva - Nodebots
 * Chad Brading - Quantum Computing
-* Aaron Wortham
-* Corey Davis
+* Aaron Wortham - Web Sockets
+* Corey Davis - STEAM in the Classroom
 
 ### Volunteer Lunch (12:00-1:00)
 
