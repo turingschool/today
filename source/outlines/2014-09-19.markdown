@@ -119,7 +119,7 @@ Work on a personal retrospective answering one or more of the following question
 
 * Do you feel your teams are still properly organized? Are you still holding stand-up meetings, writing user stories and updating Waffle?
 * How much progress have you made on The Pivot? Have you discussed with your team the pending work? What's your strategy for finishing strong?
-* Now that you have finished more than half of the program, are you getting nostalgic? Are there any skills that you want to improve? What are you doing to set a lasting impression with your peers?
+* Now that you have finished more than half of the program, are you getting nostalgic? Are there any skills that you want to improve? What are you doing to set a lasting impression among your peers?
 * What are you doing to integrate the 1409 cohort? Are you pairing with them? Are you providing some mentorship and guidance?
 
 ## 1407
@@ -129,7 +129,7 @@ Work on a personal retrospective answering one or more of the following question
 Work on a personal retrospective answering one or more of the following questions:
 
 * How do you feel the Clone Wars project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
-* This is your first three people team, where you more productive? What were the main challenges about adding a third team member? Were you able to pair successfully all the time?
+* This is your first three people team, were you more productive? What were the main challenges about adding a third team member? Were you able to pair successfully all the time?
 * Next week, you are going to start your first guided Rails project. Are you ready to leave Sinatra behind? Are you looking forward to getting into Rails?
 * Now that you have one cohort above you and one below, how are you integrating with them? Are you making an effort to incorporate the newbies? Looking at their progress, do you feel you have advanced much since the first module?
 
