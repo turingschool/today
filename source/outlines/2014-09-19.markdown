@@ -169,3 +169,12 @@ Work on a personal retrospective answering one or more of the following question
 * You spent almost the whole week working in pairs. How has that gone? Anyone you've particularly loved working with? Why? How can you be the person that others love to work with?
 * How are you managing your personal schedule? Are you being efficient with your commute, time at school, and rest/sleep? What can you improve?
 * How is programming, in general, matching up with your expectations? Do you think this is something you'll be doing ten years from now?
+
+### Games Kickoff (4:15)
+
+Today you should begin building a game:
+
+* Normal: [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html)
+* Very Difficult: [Battleship](http://tutorials.jumpstartlab.com/projects/battleship.html)
+
+You should complete this solo and have it ready by 1pm on Thursday, 9/25.
