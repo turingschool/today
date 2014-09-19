@@ -31,8 +31,8 @@ We'll continue at Blake for the 1406 / 1407 lightning talks.
 * Gustavo Villagrana - OAuth & OmniAuth
 * Kavita Sachdeva - Nodebots
 * Chad Brading - Quantum Computing
-* Aaron Wortham
-* Corey Davis
+* Aaron Wortham - Web Sockets
+* Corey Davis - STEAM in the Classroom
 
 ### Volunteer Lunch (12:00-1:00)
 
@@ -57,7 +57,7 @@ promptly at 12. Destination is TBD.
 * 2:45 - Jessica Goulding
 * 3:00 - Cara Dennis
 
-#### With Jeff
+#### With Jeff at Starbucks
 
 * 1:00 - Robert Gu
 * 1:15 - Eric Fransen
@@ -69,7 +69,7 @@ promptly at 12. Destination is TBD.
 * 2:45 - Adam Smith
 * 3:00 - Travis Yoder
 
-#### With Jorge
+#### With Jorge at Market
 
 * 1:00 - Kalah Cheek
 * 1:15 - Sam Kuhlmann
@@ -108,9 +108,9 @@ promptly at 12. Destination is TBD.
 
 Please work on this week's survey. Your feedback is very important to us.
 
-* [1406](#)
-* [1407](#)
-* [1409](#)
+* [1406](https://docs.google.com/a/casimircreative.com/forms/d/1P_gJY19qmW3WPknS4F43rt3rcTzXOaqyNcpBcSVWgGo/viewform)
+* [1407](https://docs.google.com/a/casimircreative.com/forms/d/1TTl9LYhGFtJEVwmlNvpsEGgzJKg7EPyCzeYHflag9a8/viewform)
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1wzuSY2Cb_Jg0qy5TZuRpnst-7DdUBBZgVgzA-V2juAo/viewform)
 
 ### Wrap up (4:00-4:05)
 
