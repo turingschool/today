@@ -1,0 +1,78 @@
+---
+title: 140919
+layout: outline
+---
+
+## All
+
+### Guest Speaker: John Paul Ashenfelter (11:00-12:00)
+
+Yes, we know it. It is not Friday but we have an outstanding guest speaker: John Paul Ashenfelter.
+
+John works is a developer at Treehouse. He has experience working on Machine Learning. He enjoys beer, local food, good stories.
+
+You can ask your questions via [Google Moderator](https://www.google.com/moderator/#15/e=219be0&t=219be0.40).
+
+* [Github](https://github.com/johnpaulashenfelter)
+* [Twitter](https://twitter.com/johnashenfelter)
+* [Blog](http://www.ashenfelter.com)
+
+### Posse Meeting Time (3:00-4:00)
+
+Meet with your posse and work on the following,
+
+* Thing 1
+* Thing 2
+* Thing 3
+
+### Wrap up (4:00-4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+### Lightning Talks (4:05-4:35)
+
+This weeks lighting talkers are the following,
+
+* Emily Davis
+* Marc Garreau
+* Robert Gu
+* Jonmichael Chambers
+* Glen Egbert
+* Rolando Navarrete
+* Cara Dennis
+
+Contain your joy, and join Jorge at Classroom A. The instructions are [here](https://github.com/turingschool/lightning_talks). Your topic must fall under one of the themes specified in the Readme. There is only one theme per person.
+
+## 1406
+
+### Advanced ActiveRecord Features (9:00-11:00)
+
+Join Steve at Classroom A to learn about Advanced ActiveRecord Features.
+
+### Sending Email (1:00-3:00)
+
+Join Jorge at Classrom B to learn about sending email from your Rails application.
+
+## 1407
+
+### Diagnostic Assessment & Blogger Work Time (9:00-11:00)
+
+(Insert Assessment Here)
+
+### Understanding MVC (1:00-2:00)
+
+Join Jeff at Classroom A to learn about the Model-View-Controller (MVC) architecture.
+
+### Understanding REST (2:00-3:00)
+
+Join Rachel at Classroom A to learn about Representational State Transfer (REST).
+
+## 1409
+
+### REPL Essentials (9:00-12:00)
+
+Join Rachel at Classroom A to learn about Read-Evaluate-Print Loop (REPL).
+
+### Mastermind Pairing & Work Time (Workshop) (1:00-3:00)
+
+Work at Blake on your Mastermind project. Steve will be available to answer questions.
