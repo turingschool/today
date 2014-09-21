@@ -95,6 +95,20 @@ Blogger assignment.
 
 Join Jeff at Classroom A to learn about the Model-View-Controller (MVC) architecture.
 
+#### Key Ideas
+
+* Request/response loop
+* Server IP and Port
+* Front-end Web Server
+* Web application server
+* Receiving the Request - Router
+* Processing the Request - Controller
+* Business Logic & Database - Model
+* Output Template - View
+* Returning HTML
+
+Here's [an illustration of the whole flow](http://tutorials.jumpstartlab.com/images/rails_mvc.png).
+
 ### Understanding REST (2:00-3:00)
 
 Join Rachel at Classroom A to learn about Representational State Transfer (REST).
