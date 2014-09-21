@@ -1,0 +1,180 @@
+---
+title: 140919
+layout: outline
+---
+
+## All
+
+### Breakfast (8:30-9:00)
+
+Bagel time. Stuff your being with a delicious ring of yeasted wheat dough courtesy of Jeff's Refactored Bagels.
+
+Enjoy.
+
+### Guest Speaker: Brandon West (9:00-10:00)
+
+Brandon works as developer evangelist at SendGrid where he woes the masses with email tricks.
+
+Ask him something or you'll email will be marked as spam forever. True story.
+
+* [Github](https://github.com/brandonmwest)
+* [Twitter](https://twitter.com/bwest)
+* [Blog](http://www.brandonmwest.com)
+
+### Lightning Talks (10:00-11:00)
+
+We'll continue at Blake for the 1406 / 1407 lightning talks.
+
+* Jessica Goulding - How to Integrate with your Tech Community
+* Hilary Denton - When Pairing Goes Wrong
+* Luke Aiken - Vim
+* Gustavo Villagrana - OAuth & OmniAuth
+* Kavita Sachdeva - Nodebots
+* Chad Brading - Quantum Computing
+* Aaron Wortham - Web Sockets
+* Corey Davis - STEAM in the Classroom
+
+### Volunteer Lunch (12:00-1:00)
+
+You did a great job with our events Tuesday and Thursday, thank you!
+
+If you volunteered either or both days, please join Jeff for lunch leaving Market
+promptly at 12. Destination is TBD.
+
+**[You need to RSVP on this form by 10AM.](https://docs.google.com/forms/d/1ZOdNWe2mM-aoGe5-25U2S4lpcsnxkoSmxbI-zDDUcpw/viewform?usp=send_form)**
+
+### 1-on-1s (1:00-3:30)
+
+#### With Rachel
+
+* 1:00 - Ian Anderson
+* 1:15 - Daniel Glunz
+* 1:30 - Herbert Joseph
+* 1:45 - Sara Simon
+* 2:00 - Glen Egbert
+* 2:15 - Luke Aiken
+* 2:30 - Jim Sutton
+* 2:45 - Jessica Goulding
+* 3:00 - Cara Dennis
+
+#### With Jeff at Starbucks
+
+* 1:00 - Robert Gu
+* 1:15 - Eric Fransen
+* 1:30 - Andy Mention
+* 1:45 - David Bayendor
+* 2:00 - Marc Garreau
+* 2:15 - Tan Doan
+* 2:30 - Christopher Bynum
+* 2:45 - Adam Smith
+* 3:00 - Travis Yoder
+
+#### With Jorge at Market
+
+* 1:00 - Kalah Cheek
+* 1:15 - Sam Kuhlmann
+* 1:30 - Kate Lane
+* 1:45 - Victoria Harrod
+* 2:00 - Will Faurot
+* 2:15 - Tim Mee
+* 2:30 - Konr Larson
+* 2:45 - Hilary Denton
+* 3:00 - Alex Jensen
+
+#### With Josh
+
+* 1:00 - Emily Davis
+* 1:15 - Jonmichael Chambers
+* 1:30 - Andrew Watkins
+* 1:45 - Allison Larson
+* 2:00 - Aaron Wortham
+* 2:15 - Chase van Hekken
+* 2:30 - Kavita Sachdeva
+* 2:45 - Chad Brading
+
+#### With Steve
+
+* 1:00 - Rolando Navarrete
+* 1:15 - Alan Smith
+* 1:30 - Horacio Chavez
+* 1:45 - Corey Davis
+* 2:00 - Tim Proctor
+* 2:15 - Chandra Carney
+* 2:30 - Zach Routhier
+* 2:45 - Greg Narajka
+* 3:00 - Gustavo Villagrana
+
+### End-of-Week Survey (3:30-4:00)
+
+Please work on this week's survey. Your feedback is very important to us.
+
+* [1406](https://docs.google.com/a/casimircreative.com/forms/d/1P_gJY19qmW3WPknS4F43rt3rcTzXOaqyNcpBcSVWgGo/viewform)
+* [1407](https://docs.google.com/a/casimircreative.com/forms/d/1TTl9LYhGFtJEVwmlNvpsEGgzJKg7EPyCzeYHflag9a8/viewform)
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1wzuSY2Cb_Jg0qy5TZuRpnst-7DdUBBZgVgzA-V2juAo/viewform)
+
+### Wrap up (4:00-4:05)
+
+Regroup at Blake to wrap up the week.
+
+## 1406
+
+### Group Retrospective (11:00-11:30)
+
+Join Jorge at Classroom B for your group's retrospective.
+
+### Individual Retrospective (11:30-12:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* Do you feel your teams are still properly organized? Are you still holding stand-up meetings, writing user stories and updating Waffle?
+* How much progress have you made on The Pivot? Have you discussed with your team the pending work? What's your strategy for finishing strong?
+* Now that you have finished more than half of the program, are you getting nostalgic? Are there any skills that you want to improve? What are you doing to set a lasting impression among your peers?
+* What are you doing to integrate the 1409 cohort? Are you pairing with them? Are you providing some mentorship and guidance?
+
+## 1407
+
+### Individual Retrospective (11:00-11:30)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel the Clone Wars project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
+* This is your first three people team, were you more productive? What were the main challenges about adding a third team member? Were you able to pair successfully all the time?
+* Next week, you are going to start your first guided Rails project. Are you ready to leave Sinatra behind? Are you looking forward to getting into Rails?
+* Now that you have one cohort above you and one below, how are you integrating with them? Are you making an effort to incorporate the newbies? Looking at their progress, do you feel you have advanced much since the first module?
+
+### Group Retrospective (11:30-12:00)
+
+Join Rachel at Classroom A for your group's retrospective.
+
+## 1409
+
+### Group Retrospective (11:00-11:30)
+
+Join Jeff at Classroom A for your group's retrospective.
+
+### Individual Retrospective (11:30-12:00)
+
+#### Setup for Writing
+
+* create a file `week_of_0919.markdown` in your `retrospectives` folder
+* write responses for a few of the questions below
+* use *all* the time available to you for writing
+
+#### Questions
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* This week the level of difficulty stepped up a bit. Did you feel ready? What strategies did you use to cope/succeed?
+* We've talked a lot over the past week about objects, methods, and the Ruby Object Model. Is that making sense or still confusing? Why? What parts have clicked and which are troubling?
+* You spent almost the whole week working in pairs. How has that gone? Anyone you've particularly loved working with? Why? How can you be the person that others love to work with?
+* How are you managing your personal schedule? Are you being efficient with your commute, time at school, and rest/sleep? What can you improve?
+* How is programming, in general, matching up with your expectations? Do you think this is something you'll be doing ten years from now?
+
+### Games Kickoff (4:15)
+
+Today you should begin building a game:
+
+* Normal: [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html)
+* Very Difficult: [Battleship](http://tutorials.jumpstartlab.com/projects/battleship.html)
+
+You should complete this solo and have it ready by 1pm on Thursday, 9/25.
