@@ -68,9 +68,28 @@ Join Jorge at Classrom B to learn about sending email from your Rails applicatio
 
 ## 1407
 
-### Diagnostic Assessment & Blogger Work Time (9:00-11:00)
+### Sinatra Self-Assessment (9:00-11:00)
 
-(Insert Assessment Here)
+As we talked about on Friday, the assessment process is a little unusual for
+this second class because we split time between Sinatra and Rails. Thus doing
+a proper assessment today is not very helpful prep for the final assessment
+that'll use Rails.
+
+This morning please work in a pair to complete all three challenges in our
+Sinatra assessment to find your weak points and gauge your understanding.
+
+[SinatraCMS Assessment](http://tutorials.jumpstartlab.com/academy/assessments/sinatra_cms.html)
+
+When you've completed the assignment then you can continue working on your
+Blogger assignment.
+
+#### Pairings
+
+* Sara Simon & Luke Aiken
+* Aaron Paul Wortham & Glen Egbert
+* Rolando Navarrete & Ian Andersen
+* Cara Dennis & Jim Sutton
+* Kavita Sachdeva & Jessica Goulding
 
 ### Understanding MVC (1:00-2:00)
 
