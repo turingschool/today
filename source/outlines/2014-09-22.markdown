@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-### Warmup
+### Warmup (8:30-9:00)
 
 [Here's an LSAT warmup](http://cl.ly/023g2Z3G1O1c) you can complete individually or with a pair at your
 option.
@@ -24,11 +24,12 @@ You can ask your questions via [Google Moderator](https://www.google.com/moderat
 
 ### Posse Meeting Time (3:00-4:00)
 
-Meet with your posse and work on the following,
+Meet with your posse and work on the following:
 
-* Thing 1
-* Thing 2
-* Thing 3
+* 3:00 - 3:10 Share a project or assignment that you're working on.
+* 3:10 - 3:20 Update your mentors through email or a blog post
+* 3:20 - 3:55 As a posse, group up to takle binary search with the [Karate Chop kata](http://codekata.com/kata/kata02-karate-chop/).
+* At 3:55, post your implementation to the Slack channel #posse-challenges.
 
 ### Wrap up (4:00-4:05)
 
