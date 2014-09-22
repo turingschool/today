@@ -117,13 +117,17 @@ Here's [an illustration of the whole flow](http://tutorials.jumpstartlab.com/ima
 
 ### Understanding REST (2:00-3:00)
 
-Join Rachel at Classroom A to learn about Representational State Transfer (REST).
+Join Rachel at Classroom A to learn about Representational State Transfer (REST), a web architecture style that standardizes how resources are identified and located.
+* [REST Slides](https://www.dropbox.com/sh/n3c9yh9ierfz20w/AAATZ_03qKZG-lTkSgZNFrl9a?dl=0)
 
 ## 1409
 
 ### REPL Essentials (9:00-12:00)
 
 Join Rachel at Market Street to learn about Read-Evaluate-Print Loop (REPL).
+
+* [Slides](https://www.dropbox.com/sh/8dhu4b6yl03yk0h/AABuniRzrrzeR6ENVQgUjt4oa?dl=0)
+* [Numbermind Repo](https://github.com/turingschool-examples/numbermind)
 
 ### Mastermind Pairing & Work Time (Workshop) (1:00-3:00)
 
