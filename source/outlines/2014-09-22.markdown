@@ -63,8 +63,8 @@ You'll work in the following pairs (and a triplet) on this [practice activity](h
 * Marc Garreau and Chad Brading
 * Robert Gu and Jonmichael Chambers
 * Hilary Denton and Andrew Watkins
-* [Andy Mention and Corey Davis](https://github.com/coreyd303/callbacks_transactions.git)
-* Eric Fransen and Tan Doan
+* Andy Mention and Corey Davis
+* Eric Fransen and Tan Doan: git@github.com:ericfransen/callback_practice.git
 * Allison Larson and Horacio Chavez
 * Emily Davis, Tim Proctor, and Gustavo Villagrana
 
