@@ -66,7 +66,8 @@ You'll work in the following pairs (and a triplet) on this [practice activity](h
 * [Andy Mention and Corey Davis](https://github.com/coreyd303/callbacks_transactions.git)
 * Eric Fransen and Tan Doan
 * Allison Larson and Horacio Chavez
-* Emily Davis, Tim Proctor, and Gustavo Villagrana
+* [Emily Davis, Tim Proctor, and Gustavo Villagrana](https://git@github.com:timproctor/callbacks_with_steve.git)
+* 
 
 ### Sending Email (1:00-3:00)
 
