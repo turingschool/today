@@ -122,7 +122,7 @@ Join Rachel at Classroom A to learn about Representational State Transfer (REST)
 
 ## 1409
 
-### REPL Essentials (9:00-12:00)
+### REPL Essentials (9:00-10:45)
 
 Join Rachel at Market Street to learn about Read-Evaluate-Print Loop (REPL).
 
