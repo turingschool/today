@@ -59,7 +59,7 @@ Notes, code snippets, and the pair practice activity are available [in the lesso
 
 You'll work in the following pairs (and a triplet) on this [practice activity](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_callbacks.markdown#pair-practice):
 
-* Alan Smith and Will Faurot
+* [Alan Smith and Will Faurot](https://github.com/alanbsmith/callback-exercise.git)
 * Marc Garreau and Chad Brading
 * Robert Gu and Jonmichael Chambers
 * Hilary Denton and Andrew Watkins
