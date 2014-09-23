@@ -61,7 +61,7 @@ Work on your project at Blake. Steve will be available to answer questions.
 
 ### Testing a CLI (1:00-2:30)
 
-Join Josh at Classroom B to learn about testing command-line applications.
+Join Josh at Classroom B to learn about [testing command-line applications](https://github.com/JoshCheek/testing-a-cli).
 
 ### Mastermind Work Time (2:30-4:00)
 
