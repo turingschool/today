@@ -20,14 +20,14 @@ Join Jorge at Classroom A. If you haven't done so, submit a pull request with yo
 
 ## 1406
 
-### The Pivot - Checkpoint 3 (9:00-12:00)
+### The Pivot - Checkpoint 3 (10:00-12:00)
 
 Join Jeff at Blake for checkins. Remember that your project should be deployed to production.
 
-* 9:00 - Keevahh
-* 9:45 - EmployMe
-* 10:30 - Airlift
-* 11:15 - TravelHome
+* 10:00 - Keevahh
+* 10:30 - EmployMe
+* 11:00 - Airlift
+* 11:30 - TravelHome
 
 When you are not in checkins, please work on your project.
 
