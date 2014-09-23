@@ -1,0 +1,68 @@
+---
+title: 140919
+layout: outline
+---
+
+## All
+
+### Warmup (8:30-9:00)
+
+Become a [RubyWarrior](https://www.bloc.io/ruby-warrior/) and fight your way through slugs and archers. You can complete individually or with a pair at your
+option.
+
+### Wrap up (4:00-4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+### Lightning Talks (4:05-4:35)
+
+Join Jorge at Classroom A. If you haven't done so, submit a pull request with your theme and topic. Today, you'll have to have an outline of your talk.
+
+## 1406
+
+### The Pivot - Checkpoint 3 (9:00-12:00)
+
+Join Jeff at Blake for checkins. Remember that your project should be deployed to production.
+
+* 9:00 - Keevahh
+* 9:45 - EmployMe
+* 10:30 - Airlift
+* 11:15 - TravelHome
+
+When you are not in checkins, please work on your project.
+
+### Handling Errors & Failures (1:00-2:30)
+
+Join Jorge at Classroom A to learn about how to better handle errors in Rails.
+
+### Project Work Time (2:30-4:00)
+
+Work on your projects and make sure that everything is ready for delivery.
+
+## 1407
+
+### Blogger Recap (9:00-10:00)
+
+Join Jeff at Classroom B to review your Blogger projects.
+
+### Models, Databases, and Relationships (10:00-12:00)
+
+Join Rachel at Classroom B to understand how models and relationships work in Rails.
+
+### Project Work Time (1:00-4:00)
+
+Work at Blake on your ContactManager project.
+
+## 1409
+
+### Mastermind Pairing & Work Time (9:00-12:00)
+
+Work on your project at Blake. Steve will be available to answer questions.
+
+### Testing a CLI (1:00-2:30)
+
+Join Josh at Classroom B to learn about testing command-line applications.
+
+### Mastermind Work Time (2:30-4:00)
+
+Work at Market on your Mastermind Project.
