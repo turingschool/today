@@ -37,7 +37,7 @@ You'll meet with Jeff this morning to review _The Pivot_. Evaluations are schedu
 
 ### Recap and Refactor (1:00 - 3:00)
 
-Meet with Jorge in Classroom A to reminisce over _The Pivot_.
+This afternoon, you'll be refactoring _Mastermind_ with 1409. Pairings can be found at the bottom of the outline.
 
 ### Demo Preparation (3:00 - 4:00)
 
@@ -57,9 +57,11 @@ Head over to Classroom B and meet up with Josh to recap and refactor _Contact Ma
 
 ### Mastermind Work Time (9:00 - 12:00)
 
-You'll have some time this morning to work on Mastermind over in Classroom B on Market Street. Steve will be there to answer any and all questions—ten minutes at a time.
+You'll have some time this morning to work on Mastermind over in Classroom B on Market Street. Steve will be there to answer any and all questions—**ten minutes at a time**.
 
 ### Mastermind Evaluations (1:00 - 4:00)
+
+Individually, you'll meet with Rachel, Jeff, or Steve for your project evaluations. When you're not in an evaluation, you'll be pairing with a 1406er to review and refactor your code. (Pairings are below the evaluation schedule.)
 
 #### With Rachel
 
@@ -86,3 +88,23 @@ You'll have some time this morning to work on Mastermind over in Classroom B on 
 * Travis Yoder - 2:30
 * Danny Glunz - 3:00
 * Chandra Carney - 3:30
+
+#### Pairings (1:00 - 3:00)
+
+* Alex Jensen and Jonmichael Chambers
+* Herbert Joseph and Chad Brading
+* Sam Kuhlmann and Tim Proctor
+* Gregory Narajka and Emily Davis
+* Kate Lane and Allison Larson
+* Timothy Mee and Horacio Chavez
+* Konr Laron and Will Faurot
+* Zachary Routhier and Robert Gu
+* David Bayendor and Hilary Denton
+* Adam Smith and Gustavo Villagrana
+* Christopher Bynum and Andy Mention
+* Chase van Hekken and Alan Smith
+* Victoria Harrod and Marc Garreau
+* Kalah Cheek and Tan Doan
+* Travis Yoder and Eric Fransen
+* Danny Glunz and Corey Davis
+* Chandra Carney and Andrew Watkins

@@ -51,6 +51,7 @@ Don't go anywhere. Jorge will tag in to give you an introduction to unit testing
 ### Debugging Techniques (9:00 - 10:30)
 
 You'll begin your day with in Classroom A (Blake Street) with Josh discussing debugging techniques and best practices.
+
 [Debugging material](http://tutorials.jumpstartlab.com/topics/debugging/debugging.html#tools)!
 
 ### Debugging Exercises (10:30 - 12:00)
