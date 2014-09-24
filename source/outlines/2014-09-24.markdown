@@ -39,7 +39,8 @@ This morning you'll be working on Contact Manager in the Blake Street work space
 
 ### Acceptance Testing with Phantom and Poltergeist (1:00 - 2:30)
 
-Join Josh in Classroom A to talk about what exactly testing and ghosts have to do with each other.
+Join Josh in Classroom A to talk about
+[what exactly testing and ghosts have to do with each other](http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html).
 
 ### Unit Testing Rails (2:30 - 4:00)
 
@@ -50,6 +51,7 @@ Don't go anywhere. Jorge will tag in to give you an introduction to unit testing
 ### Debugging Techniques (9:00 - 10:30)
 
 You'll begin your day with in Classroom A (Blake Street) with Josh discussing debugging techniques and best practices.
+[Debugging material](http://tutorials.jumpstartlab.com/topics/debugging/debugging.html#tools)!
 
 ### Debugging Exercises (10:30 - 12:00)
 
