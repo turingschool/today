@@ -3,14 +3,33 @@ title: 140924
 layout: outline
 ---
 
+## All
+
+### Warmup (8:30-9:00)
+
+Continue your quest to become a [RubyWarrior](https://www.bloc.io/ruby-warrior/). You can complete individually or with a pair at your option.
+
+### Wrap up (4:00-4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+### Lightning Talks (4:05-4:35)
+
+Join Jorge at Classroom A. Believe it or not, it's already Wednesday. Please have a draft of your presentation slides ready.
+
 ## 1406
 
-### Project Work Time (9:00 - 4:00)
+### Project Work Time (9:00 - 12:00)
 
-You'll have plenty of time to bond with your projects today. Close some issues; merge some branches; push some commits. Remember: creating small branches that you frequently merge back into master is the way forward.
+Head over to Market Street (Clasroom B). You'll have plenty of time to bond with your projects today. Close some issues; merge some branches; push some commits. Remember: creating small branches that you frequently merge back into master is the way forward.
 
-* Jorge will be on question duty from 9:00 - 10:30.
-* Jeff will be around for questions from 2:00 - 4:00.
+Jorge will be on question duty from 9:00 - 10:30.
+
+### Project Work Time (1:00 - 4:00)
+
+Let's get a change of scenery and head back to Classroom A to continue pivotting.
+
+Jeff will be around for questions from 2:00 - 4:00.
 
 ## 1407
 
@@ -38,6 +57,6 @@ After learning a bit about debugging techniques, you'll put some of that knowled
 
 ### Mastermind Pairing and Work Time (1:00 - 4:00)
 
-In the afternoon, you'll pair with a colleague to work on your Mastermind projects.
+In the afternoon, you'll pair with a colleague to work on your Mastermind projects over on Market Street. Rachel will be on hand for questions and support.
 
 (Pairs and scheduling details forthcoming.)
