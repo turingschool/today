@@ -1,0 +1,88 @@
+---
+title: 140925
+layout: outline
+---
+
+## All
+
+### Warmup (8:30-9:00)
+
+Learn X in Y Minutes: Head over to [this site](http://learnxinyminutes.com/) and try out a language you've never used before. You might have to do some installation and setup, so we'll give you some time tomorrow to experiment as well.
+
+Some suggestions:
+
+* F#
+* Go
+* Clojure
+* Lua
+
+### Wrap up (4:00-4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+### Lightning Talks (4:05-4:55)
+
+Today you'll join Jorge in Classroom A to go through dry runs of your lightning (not *lightening*) talk.
+
+## 1406
+
+### Project Evaluation (9:00 - 12:00)
+
+You'll meet with Jeff this morning to review _The Pivot_. Evaluations are scheduled as follows:
+
+* 9:00 - TravelHome
+* 9:45 - Airlift
+* 10:30 - EmployMe
+* 11:15 - Keevahh
+
+### Recap and Refactor (1:00 - 3:00)
+
+Meet with Jorge in Classroom A to reminisce over _The Pivot_.
+
+### Demo Preparation (3:00 - 4:00)
+
+Take some time to prepare for your presentations this evening.
+
+## 1407
+
+### Contact Manager Work Time (9:00 - 12:00)
+
+You'll have some time this morning to continue working on iterations and extensions to _Contact Manager_. Josh will be around for your questions.
+
+### Contact Manager Review and Refactor (1:00 - 4:00)
+
+Head over to Classroom B and meet up with Josh to recap and refactor _Contact Manager_.
+
+## 1409
+
+### Mastermind Work Time (9:00 - 12:00)
+
+You'll have some time this morning to work on Mastermind over in Classroom B on Market Street. Steve will be there to answer any and all questions—ten minutes at a time.
+
+### Mastermind Evaluations (1:00 - 4:00)
+
+#### With Rachel
+
+* Alex Jensen - 1:00
+* Herbert Joseph - 1:30
+* Sam Kuhlmann - 2:00
+* Gregory Narajka - 2:30
+* Kate Lane - 3:00
+* Timothy Mee - 3:30
+
+#### With Jeff
+
+* Konr Josef Laron - 1:00
+* Zachary Routhier - 1:30
+* David Bayendor - 2:00
+* Adam Smith - 2:30
+* Christopher Bynum - 3:00
+
+#### With Steve
+
+* Chase van Hekken - 1:00
+* Victoria Harrod - 1:30
+* Kalah Cheek - 2:00
+* Travis Yoder - 2:30
+* Danny Glunz - 3:00
+* Chandra Carney - 3:30
