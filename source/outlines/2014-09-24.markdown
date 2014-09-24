@@ -39,7 +39,8 @@ This morning you'll be working on Contact Manager in the Blake Street work space
 
 ### Acceptance Testing with Phantom and Poltergeist (1:00 - 2:30)
 
-Join Josh in Classroom A to talk about what exactly testing and ghosts have to do with each other.
+Join Josh in Classroom A to talk about
+[what exactly testing and ghosts have to do with each other](http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html).
 
 ### Unit Testing Rails (2:30 - 4:00)
 
