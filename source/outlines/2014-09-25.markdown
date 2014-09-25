@@ -5,16 +5,7 @@ layout: outline
 
 ## All
 
-### Warmup (8:30-9:00)
-
-Learn X in Y Minutes: Head over to [this site](http://learnxinyminutes.com/) and try out a language you've never used before. You might have to do some installation and setup, so we'll give you some time tomorrow to experiment as well.
-
-Some suggestions:
-
-* F#
-* Go
-* Clojure
-* Lua
+There'll be no warmup today since you're delivering projects.
 
 ### Wrap up (4:00-4:05)
 
