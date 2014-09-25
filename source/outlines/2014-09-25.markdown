@@ -32,7 +32,14 @@ This afternoon, you'll be refactoring _Mastermind_ with 1409. Pairings can be fo
 
 ### Demo Preparation (3:00 - 4:00)
 
-Take some time to prepare for your presentations this evening.
+Take some time to prepare for your presentations this evening. Demos should
+run about 7 minutes plus questions. They should include:
+
+* Part 1: Show off your project as though you were pitching it to investors.
+Show off the functionality as an end user sees it.
+* Part 2: Show off your project as though you were explaining it to your
+development team. Show off the tricky or interesting code that makes things run.
+* Part 3: Take at least two questions from the audience.
 
 ## 1407
 
