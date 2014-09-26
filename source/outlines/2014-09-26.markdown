@@ -103,18 +103,35 @@ Reflect on your week with Jeff in Classroom A (Blake Street).
 
 ### Individual Retrospective (9:30 - 10:00)
 
-Reflect on your week with Jorge in Classroom A (Blake Street).
+Work on a personal retrospective answering one or more of the following questions:
+
+* You shipped your second major Rails projects this week. What were some of the skills you acquired while working on _The Pivot_? Where will you focus your efforts in the second half of this module?
+* You worked with 1409 on Mastermind yesterday. How did it feel to mentor other students? How do you feel you've grown in the last 14 weeks? How do you feel you'll grow in the next 10?
 
 ## 1407
 
 ### Individual Retrospective (9:00 - 9:30)
 
+Work on a personal retrospective answering one or more of the following questions:
+
+* You worked hard on Blogger & ContactManager over the past week. Did you do them "well"? How do you know? What things do you feel strong in, and which feel week?
+* You completed your first Rails project this week. What was your first experience with Rails like?
+* What excites you about Rails? What are you intimidated by? How do you feel Rails differs from Sinatra?
+
 ### Group Retrospective (9:30 - 10:00)
+
+Reflect on your week with Jorge in Classroom A (Blake Street).
 
 ## 1409
 
-Reflect on your week with Rachel in Classroom B (Market Street).
-
 ### Group Retrospective (9:00 - 9:30)
 
+Reflect on your week with Rachel in Classroom B (Market Street).
+
 ### Individual Retrospective (9:30 - 10:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* How do you feel the Mastermind project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
+* You're going to start your next project—Event Reporter—tomorrow. What did you learn from Mastermind that you'd like to take with you into Event Reporter?
+* You had the opportunity to work with 1406 this week. What was it like to work with a fellow student only 14 weeks ahead of you? Was it beneficial? Why or why not?
