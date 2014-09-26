@@ -13,7 +13,7 @@ Enjoy some breakfast. Make it a point to talk with someone from another cohort.
 
 Robin Ward is the cofounder of Discourse, the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON.
 
-Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before their even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
+Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before they were even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
 
 Please submit your questions via Google Moderator [here](https://www.google.com/moderator/#15/e=216543&t=216543.40).
 
