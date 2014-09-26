@@ -107,32 +107,13 @@ Work on a personal retrospective answering one or more of the following question
 
 Reflect on your week with Rachel in Classroom A (Blake Street).
 
-### Technical Blogging (2:15-3:30)
+### Morning Follow-Up (2:15-3:30)
 
-This afternoon we'd like you to create and write a post for a technical blog.
+We didn't get to finish our conversation this morning, let's do that this afternoon.
 
-*[Add the URL for your production post for week of 2014-09-26.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-09-26.markdown)*.
+2:15-2:45 please do a bit of self study.
 
-#### Platform Options
-
-It really doesn't matter what platform you use. Here are a few options:
-
-* [Our small Middleman (Ruby) app](https://github.com/turingschool/student-blog)
-* [Ghost](https://ghost.org/)
-* [Octopress](http://octopress.org/)
-
-#### Content
-
-Please write and publish a technical blog post on your own
-blog. You might consider:
-
-* Exploring/explaining a topic you don't understand well, like the usage of
-repetition markers in regular expressions
-* Explain a project you've completed and what went right and what went wrong
-* Extract a technique that you used in a project or tutorial and explore it a
-bit more deeply, like "How to read and write CSV files from Ruby"
-
-Remember that you don't need to be an expert in something to explain it.
+Then let's meet at Market at 2:45 to talk and plan.
 
 ## 1409
 
