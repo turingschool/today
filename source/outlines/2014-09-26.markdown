@@ -114,7 +114,7 @@ Work on a personal retrospective answering one or more of the following question
 
 Work on a personal retrospective answering one or more of the following questions:
 
-* You worked hard on Blogger & ContactManager over the past week. Did you do them "well"? How do you know? What things do you feel strong in, and which feel week?
+* You worked hard on Blogger & ContactManager over the past week. Did you do them "well"? How do you know? What things do you feel strong in, and which feel weak?
 * You completed your first Rails project this week. What was your first experience with Rails like?
 * What excites you about Rails? What are you intimidated by? How do you feel Rails differs from Sinatra?
 
@@ -132,6 +132,6 @@ Reflect on your week with Steve in Classroom B (Market Street).
 
 Work on a personal retrospective answering one or more of the following questions:
 
-* How do you feel the Mastermind project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
+* How do you feel about the Mastermind project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
 * You're going to start your next project—Event Reporter—tomorrow. What did you learn from Mastermind that you'd like to take with you into Event Reporter?
 * You had the opportunity to work with 1406 this week. What was it like to work with a fellow student only 14 weeks ahead of you? Was it beneficial? Why or why not?
