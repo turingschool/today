@@ -9,6 +9,20 @@ layout: outline
 
 Learn X in Y Minutes: Head over to [this site](http://learnxinyminutes.com/) and pick up where you left off yesterday getting your feet wet with a new language.
 
+### Guest Speaker (10:00 - 11:00)
+
+Our guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is the cofounder of Discourse—the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON. Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before their even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
+
+### Lightning Talks (11:00 - 12:00)
+
+* Rolando Navarrete - Bitcoin (Technology & Society)
+* Emily Davis - Topic: Agile without Discipline is Chaos (General Software Methodologies / Techniques)
+* Glen Egbert - Go (Programming Languages)
+* Robert Gu - Fun With jQuery (JavaScript Architecture / Libraries)
+* Marc Garreau - Intro to EventMachine (Ruby Architecture / Libraries)
+* Cara Dennis  - Heartbleed (DevOps)
+* Jonmichael Chambers - Ngrok (Software Testing)
+
 ### One on Ones (1:00 - 3:15)
 
 #### With Steve
@@ -83,6 +97,24 @@ Regroup at Classroom A to wrap up the day.
 
 ## 1406
 
+### Group Retrospective (9:00 - 9:30)
+
+Reflect on your week with Jeff in Classroom A (Blake Street).
+
+### Individual Retrospective (9:30 - 10:00)
+
+Reflect on your week with Jorge in Classroom A (Blake Street).
+
 ## 1407
 
+### Individual Retrospective (9:00 - 9:30)
+
+### Group Retrospective (9:30 - 10:00)
+
 ## 1409
+
+Reflect on your week with Rachel in Classroom B (Market Street).
+
+### Group Retrospective (9:00 - 9:30)
+
+### Individual Retrospective (9:30 - 10:00)
