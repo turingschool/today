@@ -9,9 +9,13 @@ layout: outline
 
 Enjoy some breakfast. Make it a point to talk with someone from another cohort.
 
-### Guest Speaker (10:00 - 11:00)
+### Retros (9:00-10:00)
 
-Our guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is the cofounder of Discourse—the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON. Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before their even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
+Find your groups' retro plan down below.
+
+### Guest: Robin Ward (10:00 - 11:00)
+
+Our first guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is the cofounder of Discourse—the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON. Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before their even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
 
 ### Lightning Talks (11:00 - 12:00)
 
@@ -23,65 +27,59 @@ Our guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is
 * Cara Dennis  - Heartbleed (DevOps)
 * Jonmichael Chambers - Ngrok (Software Testing)
 
-### One on Ones (1:00 - 3:15)
+### Guests: Ben Orenstein & Chris Hunt (1:15-2:15)
 
-#### With Steve
+This afternoon we'll be joined by Ben and Chris for a chat / Q&A.
 
-* 1:00 - Tan Doan
-* 1:15 - Andy Mention
-* 1:30 - Jim Sutton
-* 1:45 - Eric Fransen
-* 2:00 - Ian Anderson
-* 2:15 - Victoria Harrod
-* 2:30 - Will Faurot
-* 2:45 - Sara Simon
-* 3:00 - David Bayendor
+#### Ben Orenstein
 
-#### With Rachel
+[Ben](http://codeulate.com/) visits us from Boston where he works at thoughbot,
+focusing on their [Upcase](https://upcase.com) online training program. You can
+find him on [Twitter](https://twitter.com/r00k) and watch some of his [great
+conference talks on Confreaks](http://www.confreaks.com/presenters/780-ben-orenstein).
 
-* 1:00 - Alan Smith
-* 1:15 - Andrew Watkins
-* 1:30 - Aaron Wortham
-* 1:45 - Emily Davis
-* 2:00 - Tim Proctor
-* 2:15 - Rolando Navarrete
-* 2:30 - Tim Mee
-* 2:45 - Daniel Glunz
-* 3:00 - Zach Routhier
+#### Chris Hunt
 
-#### With Josh
+[Chris](http://www.chrishunt.co/) is visiting from Portland where he works for GitHub.
+You can find him on [Twitter](https://twitter.com/chrishunt),
+ [GitHub](https://github.com/chrishunt), and podcasting on
+ [Healthy Hacker](http://www.healthyhacker.com/).
 
-* 1:00 - Robert Gu
-* 1:15 - Luke Aiken
-* 1:30 - Hilary Denton
-* 1:45 - Horacio Chavez
-* 2:00 - Jonmichael Chambers
-* 2:15 - Sam Kuhlmann
-* 2:30 - Greg Narajka
-* 2:45 - Adam Smith
-* 3:00 - Alex Jensen
+### Technical Blogging (2:15-3:30)
 
-#### With Jorge
+This afternoon we'd like you to create and write a post for a technical blog.
 
-* 1:00 - Kavita Sachdeva
-* 1:15 - Cara Dennis
-* 1:30 - Glen Egbert
-* 1:45 - Gustavo Villagrana
-* 2:00 - Chandra Carney
-* 2:15 - Christopher Bynum
-* 2:30 - Konr Larson
-* 2:45 - Chase van Hekken
-* 3:00 - Travis Yoder
+#### Platform Options
 
-#### With Jeff
+It really doesn't matter what platform you use. Here are a few options:
 
-* 1:00 - Allison Larson
-* 1:15 - Chad Brading
-* 2:00 - Marc Garreau
-* 2:15 - Herbert Joseph
-* 2:30 - Kate Lane
-* 2:45 - Corey Davis
-* 3:00 - Kalah Cheek
+* [Our small Middleman (Ruby) app](https://github.com/turingschool/student-blog)
+* [Ghost](https://ghost.org/)
+* [Octopress](http://octopress.org/)
+
+#### Content - 1406
+
+If you're in 1406, please get back together with your team and both (a) write a
+blog post explaining and exploring your "The Pivot" projects and (b) create an
+eight-or-fewer minute screencast video showing off both the app and the code. These
+four posts will be published on the Turing.io blog.
+
+#### Content - 1407 & 1409
+
+For 1407 and 1409, please write and publish a technical blog post on your own
+blog. You might consider:
+
+* Exploring/explaining a topic you don't understand well, like the usage of
+repetition markers in regular expressions
+* Explain a project you've completed and what went right and what went wrong
+* Extract a technique that you used in a project or tutorial and explore it a
+bit more deeply, like "How to read and write CSV files from Ruby"
+
+Remember that you don't need to be an expert in something to explain it.
+
+When it's up in production, add your URL to this document:
+
+*[Blog posts for week of 2014-09-26.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-09-26.markdown)*
 
 ### Survey (3:30 - 4:00)
 
