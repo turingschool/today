@@ -9,6 +9,10 @@ layout: outline
 
 Enjoy some breakfast. Make it a point to talk with someone from another cohort.
 
+### Retros (9:00-10:00)
+
+Find your groups' retro plan down below.
+
 ### Guest Speaker: Robin Ward (10:00 - 11:00)
 
 Robin Ward is the cofounder of Discourse, the largest Rails/Ember app on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON.
@@ -32,65 +36,23 @@ Please submit your questions via Google Moderator [here](https://www.google.com/
 * Glen Egbert - Go (Programming Languages)
 * Jonmichael Chambers - Ngrok (Software Testing)
 
-### One on Ones (1:00 - 3:15)
+### Guests: Ben Orenstein & Chris Hunt (1:15-2:15)
 
-#### With Steve
+This afternoon we'll be joined by Ben and Chris for a chat / Q&A.
 
-* 1:00 - Tan Doan
-* 1:15 - Andy Mention
-* 1:30 - Jim Sutton
-* 1:45 - Eric Fransen
-* 2:00 - Ian Anderson
-* 2:15 - Victoria Harrod
-* 2:30 - Will Faurot
-* 2:45 - Sara Simon
-* 3:00 - David Bayendor
+#### Ben Orenstein
 
-#### With Rachel
+[Ben](http://codeulate.com/) visits us from Boston where he works at thoughbot,
+focusing on their [Upcase](https://upcase.com) online training program. You can
+find him on [Twitter](https://twitter.com/r00k) and watch some of his [great
+conference talks on Confreaks](http://www.confreaks.com/presenters/780-ben-orenstein).
 
-* 1:00 - Alan Smith
-* 1:15 - Andrew Watkins
-* 1:30 - Aaron Wortham
-* 1:45 - Emily Davis
-* 2:00 - Tim Proctor
-* 2:15 - Rolando Navarrete
-* 2:30 - Tim Mee
-* 2:45 - Daniel Glunz
-* 3:00 - Zach Routhier
+#### Chris Hunt
 
-#### With Josh
-
-* 1:00 - Robert Gu
-* 1:15 - Luke Aiken
-* 1:30 - Hilary Denton
-* 1:45 - Horacio Chavez
-* 2:00 - Jonmichael Chambers
-* 2:15 - Sam Kuhlmann
-* 2:30 - Greg Narajka
-* 2:45 - Adam Smith
-* 3:00 - Alex Jensen
-
-#### With Jorge
-
-* 1:00 - Kavita Sachdeva
-* 1:15 - Cara Dennis
-* 1:30 - Glen Egbert
-* 1:45 - Gustavo Villagrana
-* 2:00 - Chandra Carney
-* 2:15 - Christopher Bynum
-* 2:30 - Konr Larson
-* 2:45 - Chase van Hekken
-* 3:00 - Travis Yoder
-
-#### With Jeff
-
-* 1:00 - Allison Larson
-* 1:15 - Chad Brading
-* 2:00 - Marc Garreau
-* 2:15 - Herbert Joseph
-* 2:30 - Kate Lane
-* 2:45 - Corey Davis
-* 3:00 - Kalah Cheek
+[Chris](http://www.chrishunt.co/) is visiting from Portland where he works for GitHub.
+You can find him on [Twitter](https://twitter.com/chrishunt),
+ [GitHub](https://github.com/chrishunt), and podcasting on
+ [Healthy Hacker](http://www.healthyhacker.com/).
 
 ### Survey (3:30 - 4:00)
 
@@ -117,6 +79,21 @@ Work on a personal retrospective answering one or more of the following question
 * You shipped your second major Rails projects this week. What were some of the skills you acquired while working on _The Pivot_? Where will you focus your efforts in the second half of this module?
 * You worked with 1409 on Mastermind yesterday. How did it feel to mentor other students? How do you feel you've grown in the last 14 weeks? How do you feel you'll grow in the next 10?
 
+### Technical Blogging (2:15-3:30)
+
+This afternoon we'd like you to create and write a post for a technical blog.
+
+#### Content
+
+Please get back together with your team and both (a) write a
+blog post explaining and exploring your "The Pivot" projects and (b) create an
+eight-or-fewer minute screencast video showing off both the app and the code. These
+four posts will be published on the Turing.io blog.
+
+You don't need to post this article yourself. You can fork/add/pull-request the
+final content to
+[the Turing blog directly](https://github.com/turingschool/blog.turing.io).
+
 ## 1407
 
 ### Individual Retrospective (9:00 - 9:30)
@@ -131,6 +108,33 @@ Work on a personal retrospective answering one or more of the following question
 
 Reflect on your week with Rachel in Classroom A (Blake Street).
 
+### Technical Blogging (2:15-3:30)
+
+This afternoon we'd like you to create and write a post for a technical blog.
+
+*[Add the URL for your production post for week of 2014-09-26.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-09-26.markdown)*.
+
+#### Platform Options
+
+It really doesn't matter what platform you use. Here are a few options:
+
+* [Our small Middleman (Ruby) app](https://github.com/turingschool/student-blog)
+* [Ghost](https://ghost.org/)
+* [Octopress](http://octopress.org/)
+
+#### Content
+
+Please write and publish a technical blog post on your own
+blog. You might consider:
+
+* Exploring/explaining a topic you don't understand well, like the usage of
+repetition markers in regular expressions
+* Explain a project you've completed and what went right and what went wrong
+* Extract a technique that you used in a project or tutorial and explore it a
+bit more deeply, like "How to read and write CSV files from Ruby"
+
+Remember that you don't need to be an expert in something to explain it.
+
 ## 1409
 
 ### Group Retrospective (9:00 - 9:30)
@@ -144,3 +148,23 @@ Work on a personal retrospective answering one or more of the following question
 * How do you feel about the Mastermind project? Do you think you learned a lot? Was there anything particularly challenging? Which parts did you dislike?
 * You're going to start your next project—Event Reporter—tomorrow. What did you learn from Mastermind that you'd like to take with you into Event Reporter?
 * You had the opportunity to work with 1406 this week. What was it like to work with a fellow student only 14 weeks ahead of you? Was it beneficial? Why or why not?
+
+### EventReporter Kickoff (2:15-3:30)
+
+Mastermind is in the bag, but it's time to roll on to the next project.
+
+Meet with Jeff in Classroom A to kickoff/discuss your [EventReporter](http://tutorials.jumpstartlab.com/projects/event_reporter.html)
+project. The project will be due on Thursday, October 2nd at 9AM.
+
+#### Pairings
+
+You'll complete this project in the following pairs:
+
+* Travis Yoder & Kalah Cheek
+* Gregory Narajka & Herbert Joseph
+* Zachary Routhier & Chase van Hekken
+* Kate Lane & David Bayendor
+* Christopher Bynum & Alex Jensen
+* Timothy Mee & Adam Smith
+* Konr Josef Laron & Victoria Harrod
+* Danny Glunz & Chandra Carney & Sam Kuhlmann
