@@ -15,19 +15,20 @@ Find your groups' retro plan down below.
 
 ### Guest Speaker: Robin Ward (10:00 - 11:00)
 
-Robin Ward is the cofounder of Discourse, the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON.
+Robin Ward is the cofounder of Discourse, the largest Rails/Ember app on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON.
 
 Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before they were even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
 
 Please submit your questions via Google Moderator [here](https://www.google.com/moderator/#15/e=216543&t=216543.40).
 
 * [Twitter](https://twitter.com/eviltrout)
+* [Github](https://github.com/eviltrout)
 * [Blog](http://eviltrout.com/)
 * [Discourse](http://www.discourse.org)
 
 ### Lightning Talks (11:00 - 12:00)
 
-* Emily Davis - Topic: Agile without Discipline is Chaos (General Software Methodologies / Techniques)
+* Emily Davis - Agile without Discipline is Chaos (General Software Methodologies / Techniques)
 * Rolando Navarrete - Bitcoin (Technology & Society)
 * Cara Dennis - Heartbleed (DevOps)
 * Kavita Sachdeva - Nodebots (JavaScript Architecture / Libraries)
@@ -35,9 +36,11 @@ Please submit your questions via Google Moderator [here](https://www.google.com/
 * Glen Egbert - Go (Programming Languages)
 * Jonmichael Chambers - Ngrok (Software Testing)
 
-### Guests: Ben Orenstein & Chris Hunt (1:15-2:15)
+### Guest Speakers: Ben Orenstein & Chris Hunt (1:15-2:15)
 
 This afternoon we'll be joined by Ben and Chris for a chat / Q&A.
+
+You can submit your questions via Google Moderator [here](https://www.google.com/moderator/#15/e=2165e4&t=2165e4.40).
 
 #### Ben Orenstein
 
