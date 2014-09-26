@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-### Breakfast (8:30-9:00)
+### Breakfast (8:30 - 9:00)
 
 Enjoy some breakfast. Make it a point to talk with someone from another cohort.
 
@@ -13,18 +13,26 @@ Enjoy some breakfast. Make it a point to talk with someone from another cohort.
 
 Find your groups' retro plan down below.
 
-### Guest: Robin Ward (10:00 - 11:00)
+### Guest Speaker: Robin Ward (10:00 - 11:00)
 
-Our first guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is the cofounder of Discourse—the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON. Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before their even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
+Robin Ward is the cofounder of Discourse, the largest Rails/Ember on the web today. Robin has been using Ember since pre-1.0 with a Rails backend serving JSON.
+
+Discourse's codebase uses ES6 transpilers to make use of new JavaScript features before they were even adopted by browsers. [His blog](http://eviltrout.com/) is full of useful Rails and Ember tips and tricks.
+
+Please submit your questions via Google Moderator [here](https://www.google.com/moderator/#15/e=216543&t=216543.40).
+
+* [Twitter](https://twitter.com/eviltrout)
+* [Blog](http://eviltrout.com/)
+* [Discourse](http://www.discourse.org)
 
 ### Lightning Talks (11:00 - 12:00)
 
-* Rolando Navarrete - Bitcoin (Technology & Society)
 * Emily Davis - Topic: Agile without Discipline is Chaos (General Software Methodologies / Techniques)
-* Glen Egbert - Go (Programming Languages)
-* Kavita Sachdeva - Fun With jQuery (JavaScript Architecture / Libraries)
+* Rolando Navarrete - Bitcoin (Technology & Society)
+* Cara Dennis - Heartbleed (DevOps)
+* Kavita Sachdeva - Nodebots (JavaScript Architecture / Libraries)
 * Marc Garreau - Intro to EventMachine (Ruby Architecture / Libraries)
-* Cara Dennis  - Heartbleed (DevOps)
+* Glen Egbert - Go (Programming Languages)
 * Jonmichael Chambers - Ngrok (Software Testing)
 
 ### Guests: Ben Orenstein & Chris Hunt (1:15-2:15)
@@ -89,7 +97,7 @@ We value your feedback. Please take 30 minutes to tell us about your experience 
 * [1407](https://docs.google.com/a/casimircreative.com/forms/d/13RSOI65vA8FW-Nxa8Gqer8pLstb2FrNLRMkwNkfjv7g/viewform)
 * [1409](https://docs.google.com/a/casimircreative.com/forms/d/1bcMFSJScqA2DuyrPbTgGVLVUvgETBob9RNC6i4UIaqE/viewform)
 
-### Wrap up (4:00-4:05)
+### Wrap up (4:00 - 4:05)
 
 Regroup at Classroom A to wrap up the day.
 
