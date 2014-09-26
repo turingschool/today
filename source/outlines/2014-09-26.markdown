@@ -18,7 +18,7 @@ Our guest speaker today is [Robin Ward](https://twitter.com/eviltrout). Robin is
 * Rolando Navarrete - Bitcoin (Technology & Society)
 * Emily Davis - Topic: Agile without Discipline is Chaos (General Software Methodologies / Techniques)
 * Glen Egbert - Go (Programming Languages)
-* Robert Gu - Fun With jQuery (JavaScript Architecture / Libraries)
+* Kavita Sachdeva - Fun With jQuery (JavaScript Architecture / Libraries)
 * Marc Garreau - Intro to EventMachine (Ruby Architecture / Libraries)
 * Cara Dennis  - Heartbleed (DevOps)
 * Jonmichael Chambers - Ngrok (Software Testing)
