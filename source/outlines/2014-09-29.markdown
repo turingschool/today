@@ -43,7 +43,7 @@ Join Jeff at Market Street to get a primer on OAuth. [Find the lesson plan here]
 
 ### Self-Directed Project Kickoff (10:30-12:00)
 
-It's time to fly on your own, little birdies. [Read the project plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown)
+It's time to fly on your own, little birdies. [Read the project plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown). Please continue to work from Market Street.
 
 ### Work Time (1:00-3:00)
 
@@ -56,11 +56,13 @@ Then, once that's complete, get your project setup for success with...
 * CodeClimate and CoverAlls
 * An exception/performance tracker like https://www.skylight.io/
 
+Please work from Market Street.
+
 ## 1407
 
 ### Dinner Dash (9:00-12:00)
 
-Join Jorge at Classroom A to kick-off Dinner Dash. The project is due at 9 am on Thursday, October 16.
+Join Jorge in the Blake Street Work Space to kick-off Dinner Dash. The project is due at 9 am on Thursday, October 16.
 
 #### Teams
 
@@ -70,27 +72,23 @@ Join Jorge at Classroom A to kick-off Dinner Dash. The project is due at 9 am on
 
 #### First Look (9:00-10:00)
 
-First up this afternoon, get together with your group and start dissecting the [Dinner Dash assignment](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
+First up, get together with your group and start dissecting the [Dinner Dash assignment](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
 
 #### Q&A / Planning Chat (10:00-10:30)
 
-Please come to Classroom A for a group discussion about the project, strategy, and to answer your questions.
+Let's get together for a group discussion about the project, strategy, and to answer your questions.
 
 #### Rails Refresher (10:30-12:00)
 
-We are going to do a quick review of Rails. We will work on creating a blog from scratch using tests.
+We are going to do a quick review of Rails fundamentals. We will work on creating a blog from scratch using tests.
 
 ## 1409
 
-### Event Reporter Work Time (9:00 - 12:00)
+### Revisiting Enumerables (9:00 - 12:00)
 
-Work on Event Reporter with your pairs in the Blake Street work space.
+This morning you'll work on a series of challenges involving TDD and Ruby's Enumberable API in Classroom A (Blake Street).
 
-### Revisiting Enumerables (1:00 - 3:00)
-
-This afternoon, you'll work on a series of challenges involving TDD and Ruby's Enumberable API in Classroom B (Market Street).
-
-With in the following pairs:
+Working in the following pairs:
 
 * David Bayendor and Gregory Narajka
 * Chase van Hekken and Victoria Harrod
@@ -100,3 +98,7 @@ With in the following pairs:
 * Christopher Bynum and Herbert Joseph
 * Kate Lane and Alex Jensen
 * Adam Smith, Konr Josef Laron, and Kalah Cheek
+
+### Event Reporter Work Time (1:00 - 4:00)
+
+Work on Event Reporter with your pairs in the Blake Street work space. Josh will be available for your questions.
