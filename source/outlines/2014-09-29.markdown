@@ -82,7 +82,7 @@ Let's get together for a group discussion about the project, strategy, and to an
 
 We are going to do a quick review of Rails fundamentals. We will work on creating a blog from scratch using tests.
 
-### Authentication
+### Authentication (1:00 - 3:00)
 
 Join Rachel in Classroom A to learn about authenticating users in a Rails app. Find slides [here](https://www.dropbox.com/sh/k8jsy5i9wgwk52x/AADpCVwnRuZThsmTVfFU2i3na?dl=0) and example repository [here](https://github.com/rwarbelow/authentication).
 
