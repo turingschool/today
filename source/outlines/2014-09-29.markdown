@@ -15,3 +15,27 @@ Some suggestions:
 * Go
 * Clojure
 * Lua
+
+## 1407
+
+### Dinner Dash (9:00-12:00)
+
+The project is due at 9AM on Thursday, 10/16.
+
+#### Teams
+
+* Cara Dennis & Rolando Navarrete & Sara Simon
+* Kavita Sachdeva & Glen Egbert & Aaron Paul Wortham
+* Jim Sutton & Jessica Goulding & Ian Andersen & Luke Aiken
+
+#### First Look (9:00-10:00)
+
+First up this afternoon, get together with your group and start dissecting the [Dinner Dash assignment](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
+
+#### Q&A / Planning Chat (10:00-10:30)
+
+Please come to Classroom A for a group discussion about the project, strategy, and to answer your questions.
+
+#### Rails Refresher (10:30-12:00)
+
+We are going to do a quick review of Rails. We will work on creating a blog from scratch using tests.
