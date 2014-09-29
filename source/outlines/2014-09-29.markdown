@@ -16,6 +16,14 @@ Some suggestions:
 * Clojure
 * Lua
 
+### Posse Meetings (3:00 - 4:00)
+
+Meet with your posse and work on the following:
+
+* 3:00 - 3:10 Share a project or assignment that you're working on.
+* 3:10 - 3:20 Update your mentors through email or a blog post
+* 3:20 - 4:00 You all started on new projects either on Friday or today. What are those projects? What's exciting about them? What are you apprehensive about?
+
 ### Lighting Talks (4:05-4:35)
 
 Welcome back. If you are among the lucky ones, please meet with Jorge at Classroom A.
@@ -26,6 +34,27 @@ Pick your topic and theme. There is only one speaker per theme. Once they are ap
 * Allison Larson
 * Alan Smith
 * Andrew Watkins
+
+## 1406
+
+### Getting Started with OAuth (9:00-10:30)
+
+Join Jeff at Market Street to get a primer on OAuth. [Find the lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
+
+### Self-Directed Project Kickoff (10:30-12:00)
+
+It's time to fly on your own, little birdies. [Read the project plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown)
+
+### Work Time (1:00-3:00)
+
+This afternoon you need to get the idea selected.
+
+Then, once that's complete, get your project setup for success with...
+
+* A GitHub repo
+* A project management tool (like Waffle.io)
+* CodeClimate and CoverAlls
+* An exception/performance tracker like https://www.skylight.io/
 
 ## 1407
 
@@ -50,3 +79,24 @@ Please come to Classroom A for a group discussion about the project, strategy, a
 #### Rails Refresher (10:30-12:00)
 
 We are going to do a quick review of Rails. We will work on creating a blog from scratch using tests.
+
+## 1409
+
+### Event Reporter Work Time (9:00 - 12:00)
+
+Work on Event Reporter with your pairs in the Blake Street work space.
+
+### Revisiting Enumerables (1:00 - 3:00)
+
+This afternoon, you'll work on a series of challenges involving TDD and Ruby's Enumberable API in Classroom B (Market Street).
+
+With in the following pairs:
+
+* David Bayendor and Gregory Narajka
+* Chase van Hekken and Victoria Harrod
+* Timothy Mee and Chandra Carney
+* Sam Kuhlmann and Travis Yoder
+* Zachary Routhier and Danny Glunz
+* Christopher Bynum and Herbert Joseph
+* Kate Lane and Alex Jensen
+* Adam Smith, Konr Josef Laron, and Kalah Cheek
