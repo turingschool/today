@@ -86,7 +86,9 @@ We are going to do a quick review of Rails fundamentals. We will work on creatin
 
 ### Revisiting Enumerables (9:00 - 12:00)
 
-This morning you'll work on a series of challenges involving TDD and Ruby's Enumberable API in Classroom A (Blake Street).
+This morning you'll work on a [series of challenges][challenges] involving TDD and Ruby's Enumberable API in Classroom A (Blake Street).
+
+[challenges]: https://github.com/turingschool-examples/enumerable-challenges
 
 Working in the following pairs:
 
