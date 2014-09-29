@@ -15,3 +15,24 @@ Some suggestions:
 * Go
 * Clojure
 * Lua
+
+## 1406
+
+### Getting Started with OAuth (9:00-10:30)
+
+Join Jeff at Market Street to get a primer on OAuth. [Find the lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
+
+### Self-Directed Project Kickoff (10:30-12:00)
+
+It's time to fly on your own, little birdies. [Read the project plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown)
+
+### Work Time (1:00-3:00)
+
+This afternoon you need to get the idea selected.
+
+Then, once that's complete, get your project setup for success with...
+
+* A GitHub repo
+* A project management tool (like Waffle.io)
+* CodeClimate and CoverAlls
+* An exception/performance tracker like https://www.skylight.io/
