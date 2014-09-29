@@ -16,6 +16,17 @@ Some suggestions:
 * Clojure
 * Lua
 
+### Lighting Talks (4:05-4:35)
+
+Welcome back. If you are among the lucky ones, please meet with Jorge at Classroom A.
+
+Pick your topic and theme. There is only one speaker per theme. Once they are approved, submit a pull request with the information [here](https://github.com/turingschool/lightning_talks).
+
+* Eric Fransen
+* Allison Larson
+* Alan Smith
+* Andrew Watkins
+
 ## 1407
 
 ### Dinner Dash (9:00-12:00)
