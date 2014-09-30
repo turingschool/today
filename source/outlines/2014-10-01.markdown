@@ -1,0 +1,53 @@
+---
+title: 141001
+layout: outline
+---
+
+## All
+
+### Warmup (8:30-9:00)
+
+Revenge of the Ruby Warrior! Come back to your Ruby Warrior and see if you
+can push forward a level. Can you refactor your logic so it's not a mess of
+spaghetti code?
+
+## 1406
+
+### Working with File Uploads (9:00-10:30)
+
+This morning join Jeff in Classroom A to discuss how to handle file uploads in
+Rails applications.
+
+### Iteration Planning (10:30-Noon)
+
+Then follow that with a session about iteration planning also in Classroom A.
+
+### Project Work Time (1:00-4:00)
+
+With your iterations planned, it's time to step on the gas. Get to work!
+
+## 1407
+
+### Dinner Dash Work Time (9:00-12:00)
+
+This morning keep cranking on your Dinner Dash project. Josh can help with
+questions 9:00-10:30 and Jorge 10:30-12:00.
+
+### Pushing Logic Down the Stack (1:00-4:00)
+
+Join Jeff in Classroom A to discuss pushing logic down the stack.
+
+## 1409
+
+### Regular Expressions (9:00-10:30)
+
+Start the day at Market Street with Jorge discussing Regular Expressions.
+
+### Big-O Analysis (10:30-12:00)
+
+Then continue at Market Street with Josh discussing Big-O Analysis.
+
+### EventReporter Work Time (1:00-4:00)
+
+This afternoon return to Blake Street to work on your EventReporter projects.
+Josh will be available for questions.
