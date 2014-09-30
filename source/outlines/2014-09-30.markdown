@@ -59,6 +59,7 @@ This morning work with your pair at Blake Street to push forward with your proje
 ### Measuring & Improving Test Coverage (1:00-2:30)
 
 This afternoon meet Josh at Market Street to look at how to measure and improve the test coverage of your applications.
+Clone [this repository](https://github.com/JoshCheek/measuring_and_improving_test_coverage.git).
 
 ### Refactoring Patterns, Part 1 (2:30-4:00)
 
