@@ -1,0 +1,64 @@
+---
+title: 140930
+layout: outline
+---
+
+## All
+
+### Warmup (8:30-9:00)
+
+Find a pair of your choice and complete this logic problem:
+
+http://cl.ly/1X3J0h0z3H3L
+
+## 1406
+
+### Project Work Time (9:00-12:00)
+
+This morning you need to get rolling on your project. You should start with some of these tasks:
+
+* Wireframe the key screens of your application
+* Write some user stories
+* Experiment with your data sources
+
+### Building a VPS (1:00-4:00)
+
+Then this afternoon join Jeff in Classroom A (Blake Street) to work on provisioning and setting up a VPS.
+
+## 1407
+
+### Authorization & Privilege (9:00-Noon)
+
+This morning please meet with Jeff in Classroom A (Blake Street) to discuss [Authorization](http://tutorials.jumpstartlab.com/topics/auth/authorization.html).
+
+### Dinner Dash Work Time (1:00-4:00)
+
+Then, this afternoon make use of the Blake Street Work Space to push forward on your project.
+
+## 1409
+
+### EventReporter Work Time & Check-Ins (9:00-12:00)
+
+This morning work with your pair at Blake Street to push forward with your project. You'll also meet with an instructor for a brief check-in on your progress.
+
+#### With Josh
+
+* 9:00 - Travis Yoder & Kalah Cheek
+* 9:45 - Gregory Narajka & Herbert Joseph
+* 10:30 - Zachary Routhier & Chase van Hekken
+* 11:15 - Kate Lane & David Bayendor
+
+#### With Rachel
+
+* 9:00 - Christopher Bynum & Alex Jensen
+* 9:45 - Timothy Mee & Adam Smith
+* 10:30 - Konr Josef Laron & Victoria Harrod
+* 11:15 - Danny Glunz & Chandra Carney & Sam Kuhlmann
+
+### Measuring & Improving Test Coverage (1:00-2:30)
+
+This afternoon meet Josh at Market Street to look at how to measure and improve the test coverage of your applications.
+
+### Refactoring Patterns, Part 1 (2:30-4:00)
+
+Then meet with Rachel at Market Street for an introduction to refactoring patterns.
