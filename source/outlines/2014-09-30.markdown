@@ -19,6 +19,8 @@ This morning you need to get rolling on your project. You should start with some
 * Write some user stories
 * Experiment with your data sources
 
+Work at the Market Street space.
+
 ### Building a VPS (1:00-4:00)
 
 Then this afternoon join Jeff in Classroom A (Blake Street) to work on
