@@ -46,7 +46,7 @@ Start the day at Market Street with Jorge discussing Regular Expressions.
 
 ### Big-O Analysis (10:30-12:00)
 
-Then continue at Market Street with Josh discussing Big-O Analysis.
+Then continue at Market Street with Josh discussing Big-O Analysis.  Clone this repo! [https://github.com/JoshCheek/bib_o_notation](https://github.com/JoshCheek/bib_o_notation)
 
 ### EventReporter Work Time (1:00-4:00)
 
