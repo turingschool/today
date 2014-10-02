@@ -26,6 +26,8 @@ Meet with Jeff near the 3D Printer at Market.
 
 ## 1409
 
+First up, please add your repo URL to [the submission page](https://github.com/turingschool/ruby-submissions/blob/master/1409/02_event_reporter/event_reporter_submissions.yml)
+
 ### EventReporter Evaluations (9:00-12:00)
 
 This morning we'll evaluate your EventReporter projects. Please meet your
