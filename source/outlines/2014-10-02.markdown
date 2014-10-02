@@ -53,8 +53,8 @@ evaluator in the work area at Blake Street:
 This afternoon we'll run two recap & refactor sessions. We'll split into
 two groups and swap sessions halfway through.
 
-* Group A:
-* Group B:
+* Group A: Christopher Bynum, Chase van Hekken, Zachary Routhier, Timothy Mee, Sam Kuhlmann, Travis Yoder, Alex Jensen, Danny Glunz, Herbert Joseph
+* Group B: Gregory Narajka, Chandra Carney, David Bayendor, Victoria Harrod, Kalah Cheek, Adam Smith, Kate Lane, Konr Josef Laron
 
 #### Session 1 (1:00-1:40)
 
