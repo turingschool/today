@@ -29,7 +29,8 @@ Meet with Jeff near the 3D Printer at Market.
 ### EventReporter Evaluations (9:00-12:00)
 
 This morning we'll evaluate your EventReporter projects. Please meet your
-evaluator in the work area at Blake Street:
+evaluator in the work area at Blake Street. When you're not doing your instructor eval,
+check out the peer eval piece below.
 
 #### With Jorge
 
@@ -46,7 +47,20 @@ evaluator in the work area at Blake Street:
 #### With Rachel
 
 * 10:30 - Kate Lane & David Bayendor
-* 11:45 - Zachary Routhier & Chase van Hekken
+* 11:15 - Zachary Routhier & Chase van Hekken
+
+### EventReporter Peer Evaluations
+
+#### Pairings
+
+* Travis & Chris
+* Kalah & Alex
+* Gregory & Konr
+* Herbert & Adam
+* Konr & Kate
+* Vicki & David
+* Danny & Sack
+* Chandra & Chase & Sam
 
 ### EventReporter Recap & Refactor (1:00-2:30)
 
