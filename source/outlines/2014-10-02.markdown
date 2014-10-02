@@ -32,6 +32,8 @@ This morning we'll evaluate your EventReporter projects. Please meet your
 evaluator in the work area at Blake Street. When you're not doing your instructor eval,
 check out the peer eval piece below.
 
+[Remember the rubric is on the assignment](http://tutorials.jumpstartlab.com/projects/event_reporter.html).
+
 #### With Jorge
 
 * 9:00 - Travis Yoder & Kalah Cheek
