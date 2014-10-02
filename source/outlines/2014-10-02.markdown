@@ -1,1 +1,72 @@
-Put Glen's group's checkin in the morning.
+---
+title: 141001
+layout: outline
+---
+
+## Everyone
+
+No warmup today since it's project delivery/work day.
+
+## 1406
+
+It seems like you need work time more than anything else, so we're not going to
+schedule sessions today. If you need some feedback/help then create an issue on your
+project and mention `@jcasimir`. You can work out of Market Street.
+
+## 1407
+
+This morning we want to check in on your Dinner Dash projects and make sure things
+are on track. When you're not doing a check-in, keep cranking away.
+
+Meet with Jeff near the 3D Printer at Market.
+
+* 9:00 - Cara Dennis & Rolando Navarrete & Sara Simon
+* 10:00 - Kavita Sachdeva & Glen Egbert & Aaron Paul Wortham
+* 11:00 - Jim Sutton & Jessica Goulding & Ian Andersen & Luke Aiken
+
+## 1409
+
+### EventReporter Evaluations (9:00-12:00)
+
+This morning we'll evaluate your EventReporter projects. Please meet your
+evaluator in the work area at Blake Street:
+
+#### With Jorge
+
+* 9:00 - Travis Yoder & Kalah Cheek
+* 9:45 - Gregory Narajka & Herbert Joseph
+
+#### With Josh
+
+* 9:00 - Christopher Bynum & Alex Jensen
+* 9:45 - Timothy Mee & Adam Smith
+* 10:30 - Konr Josef Laron & Victoria Harrod
+* 11:15 - Danny Glunz & Chandra Carney & Sam Kuhlmann
+
+#### With Rachel
+
+* 10:30 - Kate Lane & David Bayendor
+* 11:45 - Zachary Routhier & Chase van Hekken
+
+### EventReporter Recap & Refactor (1:00-2:30)
+
+This afternoon we'll run two recap & refactor sessions. We'll split into
+two groups and swap sessions halfway through.
+
+* Group A:
+* Group B:
+
+#### Session 1 (1:00-1:40)
+
+* Group A will meet with Josh to look at test coverage and refactoring
+* Group B will meet with Rachel to look at extracting methods in implementation code
+
+#### Session 2 (1:45-2:30)
+
+* Group A will meet with Jeff to look at extracting methods in implementation code
+* Group B will meet with Josh to look at test coverage and refactoring
+
+### RTanque Battle Dojo (2:35-4:00)
+
+After delivering your EventReporter projects, let's do something fun. Join Jeff
+in Classroom A to play with RTanque.
