@@ -51,11 +51,13 @@ Reflect on your week with Jeff in Classroom B (Market Street).
 
 Work on a personal retrospective answering one or more of the following questions:
 
-### Technical Blogging (1:00-4:00)
-
-This afternoon we'd like you to create and write a post for a technical blog.
-
-#### Content
+* How do you feel about the concept for your self-directed project? How's
+progress coming along?
+* As you start to turn your attention to job hunting, what do you want to stand
+out about yourself and your skills? Why will someone be sure you're the right
+fit for them?
+* What are your areas of emphasis for your last weeks at Turing? What concrete
+steps will you take to step up your game?
 
 ## 1407
 
@@ -67,11 +69,33 @@ Reflect on your week with Jorge in Classroom A (Blake Street).
 
 Work on a personal retrospective answering one or more of the following questions:
 
+* Dinner Dash is off to a really great start and your teams seem to be gelling
+well. Why? What behaviors and choices are leading to your early momentum? What
+will you keep the same and what will you improve over the next two weeks?
+* Now that you're into your first real Rails project, where do you feel your
+skill level lies? What parts are still confusing and what makes sense? Is the
+project helping fill in gaps so far?
+* In your small class every person plays a huge role in setting the course for
+the group. What's your role? What would people say you're most known for? Is
+that the best person you can be? How are you supporting your peers, and how are
+they supporting you?
+
 ## 1409
 
 ### Individual Retrospective (9:30 - 10:00)
 
 Work on a personal retrospective answering one or more of the following questions:
+
+* EventReporter is in the bag! As you look towards SalesEngine next week, your
+biggest project to date, how do you feel about your progress? What's going better
+than expected, and what's lagging behind? Are there any concrete steps you can
+take in these next two weeks to step up?
+* You have a sense now of most people in the group. Who do you most enjoy working
+with? Who do you prefer to avoid? Who do you want to emulate? "Why" to each of
+those?
+* Where is this taking you? When you graduate in 2015, what do you want to be
+doing? Where do you want to end up geographically? What will make a company feel
+like the right home for you?
 
 ### Group Retrospective (10:30-11:00)
 
@@ -81,7 +105,7 @@ Reflect on your week with Rachel in Classroom A (Blake Street).
 
 This afternoon we'd like you to create and write a post for a technical blog.
 
-*[Add the URL for your production post for week of 2014-09-26.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-09-26.markdown)*.
+*[Add the URL for your production post for week of 2014-10-03.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-10-03.markdown)*.
 
 ### Platform Options
 
