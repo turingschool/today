@@ -3,13 +3,87 @@ title: 141003
 layout: outline
 ---
 
-### Technical Blogging (2:15-3:30)
+## All
+
+### Breakfast (8:30 - 9:00)
+
+Thanks 1409 for hooking up some breakfast!
+
+### Guest Speaker: Konstantin Haase (9:00-10:00)
+
+Konstantin is a Ruby developer based in Berlin. He works at Travis CI
+by day and many open source projects like Sinatra and Rack in his free time.
+
+Please submit your questions via Google Moderator [here](https://www.google.com/moderator/#15/e=21373c&t=21373c.40).
+
+* [Twitter](https://twitter.com/konstantinhaase)
+* [Github](https://github.com/rkh)
+* [Blog](http://rkh.im/)
+* [His many conf talks on Confreaks](http://www.confreaks.com/presenters/408-konstantin-haase)
+
+### Retros (10:00-11:00)
+
+Find your groups' retro plan down below.
+
+### Lightning Talks (11:00 - 12:00)
+
+(Schedule Pending)
+
+### Survey (3:30 - 4:00)
+
+We value your feedback. Please take 30 minutes to tell us about your experience this week.
+
+* [1406]()
+* [1407]()
+* [1409]()
+
+### Wrap up (4:00 - 4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+## 1406
+
+### Group Retrospective (10:00-10:30)
+
+Reflect on your week with Jeff in Classroom A (Blake Street).
+
+### Individual Retrospective (10:30 - 11:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+### Technical Blogging (1:00-4:00)
+
+This afternoon we'd like you to create and write a post for a technical blog.
+
+#### Content
+
+## 1407
+
+### Group Retrospective (10:00-10:30)
+
+Reflect on your week with Jorge in Classroom A (Blake Street).
+
+### Individual Retrospective (10:00-10:30)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+## 1409
+
+### Individual Retrospective (9:30 - 10:00)
+
+Work on a personal retrospective answering one or more of the following questions:
+
+### Group Retrospective (10:30-11:00)
+
+Reflect on your week with Rachel in Classroom B (Market Street).
+
+## Technical Blogging (1:00-4:00)
 
 This afternoon we'd like you to create and write a post for a technical blog.
 
 *[Add the URL for your production post for week of 2014-09-26.markdown](https://github.com/turingschool/ruby-submissions/blob/master/blogging/2014-09-26.markdown)*.
 
-#### Platform Options
+### Platform Options
 
 It really doesn't matter what platform you use. Here are a few options:
 
@@ -17,7 +91,7 @@ It really doesn't matter what platform you use. Here are a few options:
 * [Ghost](https://ghost.org/)
 * [Octopress](http://octopress.org/)
 
-#### Content
+### Content
 
 Please write and publish a technical blog post on your own
 blog. You might consider:
@@ -30,62 +104,59 @@ bit more deeply, like "How to read and write CSV files from Ruby"
 
 Remember that you don't need to be an expert in something to explain it.
 
-### One on Ones (1:00 - 3:15)
-
-#### With Steve
-
-* 1:00 - Tan Doan
-* 1:15 - Andy Mention
-* 1:30 - Jim Sutton
-* 1:45 - Eric Fransen
-* 2:00 - Ian Anderson
-* 2:15 - Victoria Harrod
-* 2:30 - Will Faurot
-* 2:45 - Sara Simon
-* 3:00 - David Bayendor
+## One on Ones (1:00 - 3:15)
 
 #### With Rachel
 
-* 1:00 - Alan Smith
-* 1:15 - Andrew Watkins
+* 1:00 - Tan Doan
+* 1:12 - Andy Mention
+* 1:24 - Jim Sutton
+* 1:36 - Alan Smith
+* 1:48 - Andrew Watkins
 * 1:30 - Aaron Wortham
-* 1:45 - Emily Davis
-* 2:00 - Tim Proctor
-* 2:15 - Rolando Navarrete
-* 2:30 - Tim Mee
-* 2:45 - Daniel Glunz
-* 3:00 - Zach Routhier
+* 1:42 - Emily Davis
+* 2:24 - Tim Proctor
+* 2:36 - Rolando Navarrete
+* 2:48 - Tim Mee
+* 3:00 - Daniel Glunz
 
 #### With Josh
 
-* 1:00 - Robert Gu
-* 1:15 - Luke Aiken
-* 1:30 - Hilary Denton
+* 1:00 - Eric Fransen
+* 2:12 - Ian Anderson
+* 1:24 - Robert Gu
+* 1:36 - Luke Aiken
+* 1:48 - Hilary Denton
 * 1:45 - Horacio Chavez
-* 2:00 - Jonmichael Chambers
-* 2:15 - Sam Kuhlmann
-* 2:30 - Greg Narajka
-* 2:45 - Adam Smith
+* 2:02 - Jonmichael Chambers
+* 2:24 - Sam Kuhlmann
+* 2:36 - Greg Narajka
+* 2:48 - Adam Smith
 * 3:00 - Alex Jensen
 
 #### With Jorge
 
-* 1:00 - Kavita Sachdeva
-* 1:15 - Cara Dennis
-* 1:30 - Glen Egbert
-* 1:45 - Gustavo Villagrana
+* 1:00 - Victoria Harrod
+* 1:12 - Kavita Sachdeva
+* 1:24 - Cara Dennis
+* 1:36 - Glen Egbert
+* 1:48 - Gustavo Villagrana
 * 2:00 - Chandra Carney
-* 2:15 - Christopher Bynum
-* 2:30 - Konr Larson
-* 2:45 - Chase van Hekken
-* 3:00 - Travis Yoder
+* 2:12 - Christopher Bynum
+* 2:24 - Konr Larson
+* 2:36 - Chase van Hekken
+* 2:48 - Travis Yoder
 
 #### With Jeff
 
-* 1:00 - Allison Larson
-* 1:15 - Chad Brading
+* 1:00 - Will Faurot
+* 2:12 - Sara Simon
+* 3:24 - David Bayendor
+* 1:36 - Allison Larson
+* 1:48 - Chad Brading
 * 2:00 - Marc Garreau
-* 2:15 - Herbert Joseph
-* 2:30 - Kate Lane
-* 2:45 - Corey Davis
-* 3:00 - Kalah Cheek
+* 2:12 - Herbert Joseph
+* 2:24 - Kate Lane
+* 2:36 - Corey Davis
+* 2:48 - Kalah Cheek
+* 3:00 - Zach Routhier
