@@ -137,8 +137,8 @@ Remember that you don't need to be an expert in something to explain it.
 * 1:24 - Jim Sutton
 * 1:36 - Alan Smith
 * 1:48 - Andrew Watkins
-* 1:30 - Aaron Wortham
-* 1:42 - Emily Davis
+* 2:00 - Aaron Wortham
+* 2:12 - Emily Davis
 * 2:24 - Tim Proctor
 * 2:36 - Rolando Navarrete
 * 2:48 - Tim Mee
@@ -147,12 +147,12 @@ Remember that you don't need to be an expert in something to explain it.
 #### With Josh
 
 * 1:00 - Eric Fransen
-* 2:12 - Ian Anderson
+* 1:12 - Ian Anderson
 * 1:24 - Robert Gu
 * 1:36 - Luke Aiken
 * 1:48 - Hilary Denton
-* 1:45 - Horacio Chavez
-* 2:02 - Jonmichael Chambers
+* 2:00 - Horacio Chavez
+* 2:12 - Jonmichael Chambers
 * 2:24 - Sam Kuhlmann
 * 2:36 - Greg Narajka
 * 2:48 - Adam Smith
@@ -174,8 +174,8 @@ Remember that you don't need to be an expert in something to explain it.
 #### With Jeff
 
 * 1:00 - Will Faurot
-* 2:12 - Sara Simon
-* 3:24 - David Bayendor
+* 1:12 - Sara Simon
+* 1:24 - David Bayendor
 * 1:36 - Allison Larson
 * 1:48 - Chad Brading
 * 2:00 - Marc Garreau
