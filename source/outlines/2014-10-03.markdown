@@ -153,7 +153,7 @@ Remember that you don't need to be an expert in something to explain it.
 * 1:00 - Eric Fransen
 * 1:12 - Ian Anderson
 * 1:24 - Robert Gu
-* 1:36 - Luke Aiken
+* 1:36 - Jessica Goulding
 * 1:48 - Hilary Denton
 * 2:00 - Horacio Chavez
 * 2:12 - Jonmichael Chambers
