@@ -27,7 +27,11 @@ Find your groups' retro plan down below.
 
 ### Lightning Talks (11:00 - 12:00)
 
-(Schedule Pending)
+* Allison Larson - Aaron Swartz
+* Andrew Watkins - Exponential Power
+* Alan Smith - Raspberry Pi
+* Eric Fransen - RubyMotion
+* Robert Gu - JQuery
 
 ### Survey (3:30 - 4:00)
 
