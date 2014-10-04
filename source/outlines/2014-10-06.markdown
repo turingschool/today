@@ -1,0 +1,58 @@
+---
+title: 141006
+layout: outline
+---
+
+## All
+
+### Warmup (8:30-9:00)
+
+### Posse Meeting Time (3:00-4:00)
+
+### Wrap up (4:00-4:05)
+
+Regroup at Classroom A to wrap up the day.
+
+### Lightning Talks (4:05-4:35)
+
+This weeks lighting talkers are the following:
+
+Instructions for lightning talks can be found [here](https://github.com/turingschool/lightning_talks). Your topic must fall under one of the themes specified in the README. There is only one theme per person.
+
+## 1406
+
+### JSON Fundementals (9:00 - 10:30)
+
+Join Steve in Classroom B to talk JSON.
+
+### Serving JSON from Rails (10:30 - 12:00)
+
+Stay with Steve and we'll put our new JSON knowledge into practice.
+
+### Building an API (1:00 - 3:00)
+
+Join Jorge in Classroom B to put your new JSON knowledge into practice.
+
+## 1407
+
+### Dinner Dash Cross-Team Pairing (9:00 - 12:00)
+
+Gather in the Blake Street Workspace to take a cross-team pair on your Dinner Dash projects.
+
+### Cart and Order Lifecycles (1:00 - 3:00)
+
+Join Jeff in Classroom A to discuss ways to structure your cart and orders in Dinner Dash.
+
+## 1409
+
+### Minitest Tips and Techniques (9:00 - 12:00)
+
+Join Josh in Classroom A to discuss the ins and outs of testing with Minitest.
+
+### SalesEngine Kickoff (1:00 - 1:30)
+
+Join Rachel in the Blake Street Workspace to kick off your final project for the first module—the one and only [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+
+### SalesEngine Planning and Design (1:30 - 3:00)
+
+Stick around in Blake Street Workspace with Rachel to sketch out your plan of attack on SalesEngine.
