@@ -7,7 +7,18 @@ layout: outline
 
 ### Warmup (8:30-9:00)
 
+For warmup today, please work on completing your own Exercism exercise.
+
 ### Posse Meeting Time (3:00-4:00)
+
+Meet with your posse and work on the following:
+
+* 3:00 - 3:10 Share a project or assignment that you're working on.
+* 3:10 - 3:20 Update your mentors through email or a blog post
+* 3:20 - 4:00 1406 and 1407 are one week into their final projects for the module. 1409 met SalesEngine today.
+  * 1406: Over the last week, you've had a chance to refine your ideas for your project. What are you working on now?
+  * 1407: What are some challenges you're facing in Dinner Dash? 1406: Do you have any advice or suggestions?
+  * 1409: You've spent the afternoon planning your approach to SaleEngine. Share your approach. 1406 and 1407: Do you have any advice or suggestions?
 
 ### Wrap up (4:00-4:05)
 
@@ -27,17 +38,24 @@ Join Steve in Classroom B to talk JSON.
 
 ### Serving JSON from Rails (10:30 - 12:00)
 
-Stay with Steve and we'll put our new JSON knowledge into practice.
+Stay with Steve and put our new JSON knowledge into practice.
 
 ### Building an API (1:00 - 3:00)
 
-Join Jorge in Classroom B to put your new JSON knowledge into practice.
+Join Jorge in Classroom B to build an API for an old friend.
 
 ## 1407
 
 ### Dinner Dash Cross-Team Pairing (9:00 - 12:00)
 
 Gather in the Blake Street Workspace to take a cross-team pair on your Dinner Dash projects.
+
+You'll work in the following pairs (and a triplet):
+
+* Luke and Aaron
+* Jessica and Rolando
+* Glen and Ian
+* Sara, Kavita, and Jim
 
 ### Cart and Order Lifecycles (1:00 - 3:00)
 
@@ -52,6 +70,17 @@ Join Josh in Classroom A to discuss the ins and outs of testing with Minitest.
 ### SalesEngine Kickoff (1:00 - 1:30)
 
 Join Rachel in the Blake Street Workspace to kick off your final project for the first module—the one and only [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+
+For SalesEngine, you'll work in the following pairs (and a triplet):
+
+* Chandra Carney & Gregory Narajka
+* Chase van Hekken & Christopher Bynum
+* Travis Yoder & David Bayendor
+* Sam Kuhlmann & Zachary Routhier
+* Kate Lane & Timothy Mee
+* Kalah Cheek & Konr Josef Larson
+* Danny Glunz & Victoria Harrod
+* Adam Smith & Alex Jensen & Herbert Joseph
 
 ### SalesEngine Planning and Design (1:30 - 3:00)
 
