@@ -32,13 +32,30 @@ Instructions for lightning talks can be found [here](https://github.com/turingsc
 
 ## 1406
 
-### JSON Fundementals (9:00 - 10:30)
+### JSON Fundamentals (9:00 - 10:15)
 
 Join Steve in Classroom B to talk JSON.
 
-### Serving JSON from Rails (10:30 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+
+### Serving JSON from Rails (10:15 - 12:00)
 
 Stay with Steve and put our new JSON knowledge into practice.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.markdown)
+* [Exposing an API](http://tutorials.jumpstartlab.com/topics/web_services/api.html)
+* [Github Repository Follow-Along](https://github.com/JumpstartLab/blogger_advanced/tree/serialization)
+
+You'll work in the following pairs:
+
+* Tan Doan and Marc Garreau
+* Will Faurot and Andy Mention
+* Gustavo Villagrana and Allison Larson
+* Corey Davis and Emily Davis
+* Jonmichael Chambers and Hilary Denton
+* Alan Smith and Tim Proctor
+* Andrew Watkins and Eric Fransen
+* Chad Brading, Robert Gu, and Horacio Chavez
 
 ### Building an API (1:00 - 3:00)
 
