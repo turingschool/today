@@ -93,7 +93,11 @@ Join Josh in Classroom A to discuss the ins and outs of [testing with Minitest](
 
 ### SalesEngine Kickoff (1:00 - 1:30)
 
-Join Rachel in the Blake Street Workspace to kick off your final project for the first module—the one and only [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+It's time to kick off your final project for the first module—the one and only [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html)!
+
+From 1:00 - 1:20, work with your pair (listed below) to thoroughly read through the the Sales Engine overview, extentions, and rubric. Jot down any questions your pair has about the project. 
+
+At 1:20, gather together in the Blake workspace to discuss Sales Engine planning and design. 
 
 For SalesEngine, you'll work in the following pairs (and a triplet):
 
@@ -106,6 +110,3 @@ For SalesEngine, you'll work in the following pairs (and a triplet):
 * Danny Glunz & Victoria Harrod
 * Adam Smith & Alex Jensen & Herbert Joseph
 
-### SalesEngine Planning and Design (1:30 - 3:00)
-
-Stick around in Blake Street Workspace with Rachel to sketch out your plan of attack on SalesEngine.
