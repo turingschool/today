@@ -28,6 +28,12 @@ Regroup at Classroom A to wrap up the day.
 
 This weeks lighting talkers are the following:
 
+* Tan Doan
+* Will Faurot
+* Andy Mention
+* Horacio Chávez
+* Tim Proctor
+
 Instructions for lightning talks can be found [here](https://github.com/turingschool/lightning_talks). Your topic must fall under one of the themes specified in the README. There is only one theme per person.
 
 ## 1406
