@@ -1,0 +1,88 @@
+---
+title: 141010
+layout: outline
+---
+
+## All
+
+### Breakfast (8:30 - 9:00)
+
+Yum, yum, yum.
+
+### Lightning Talks (9:00 - 10:00)
+
+* Tan Doan
+* Tim Proctor
+* Will Faurot
+* Horacio Chávez
+* Andy Mention
+
+### Guest Speaker I (10:00 - 11:00)
+
+Luke Swanson and Josh.
+
+* Luke's [LinkedIn](https://www.linkedin.com/in/lukeswanson)
+
+### Guest Speaker II (11:00 - 12:00)
+
+Mike Pack.
+
+* [Website](http://mikepackdev.com/)
+* [Twitter](https://twitter.com/zombidev)
+* [Ello](https://ello.co/mikepack)
+* [Github](https://github.com/mikepack)
+* [Mode Set](http://modeset.com/)
+
+## One on Ones (1:00 - 3:15)
+
+### With Rachel
+
+* 1:00 - Sam Kuhlmann
+* 1:10 - Konr Larson
+* 1:20 - Christopher Bynum
+* 1:30 - Allison Larson
+* 1:40 - Alan Smith
+* 1:50 - Herbert Joseph
+* 2:00 - Corey Davis
+* 2:10 - Jim Sutton
+* 2:20 - Jonmichael Chambers
+* 2:30 - Tim Mee
+* 2:40 - Rolando Navarrete
+* 2:50 - Victoria Harrod
+* 3:00 - Kavita Sachdeva
+* 3:10 - Glen Egbert
+
+### With Steve
+
+* 1:00 - Tan Doan
+* 1:10 - Andy Mention
+* 1:20 - Aaron Wortham
+* 1:30 - Kalah Cheek
+* 1:40 - Will Faurot
+* 1:50 - Chad Brading
+* 2:00 - Hilary Denton
+* 2:10 - Eric Fransen
+* 2:20 - Kate Lane
+* 2:30 - Jessica Goulding
+* 2:40 - Daniel Glunz
+* 2:50 - Tim Proctor
+* 3:00 - David Bayendor
+* 3:10 - Robert Gu
+* 3:20 - Luke Aiken
+
+### With Jorge
+
+* 1:00 - Greg Narajka
+* 1:10 - Emily Davis
+* 1:20 - Zach Routhier
+* 1:30 - Andrew Watkins
+* 1:40 - Gustavo Villagrana
+* 1:50 - Chandra Carney
+* 2:00 - Horacio Chavez
+* 2:10 - Ian Anderson
+* 2:20 - Travis Yoder
+* 2:30 - Chase van Hekken
+* 2:40 - Marc Garreau
+* 2:50 - Sara Simon
+* 3:00 - Adam Smith
+* 3:10 - Alex Jensen

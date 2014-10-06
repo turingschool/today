@@ -1,0 +1,44 @@
+---
+title: 141007
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Project Work Time (9:00 - 12:00)
+
+Josh will be available for questions all morning.
+
+### SRP Controllers for Users, Admins, and APIs (1:00 - 4:00)
+
+Join Jeff in Classroom A to stalk about SRP, controllers, users, admins, APIs.
+
+## 1407
+
+### Rails Views Tips and Techniques (9:00 - 10:30)
+
+Join Rachel in Classroom B to learn some of the best practices for generating views in Ruby.
+
+### Introduction to JavaScript (10:30 - 12:00)
+
+Stick around in Classroom B as Steve subjects you to JavaScript.
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Rachel is available for questions all afternoon.
+
+## 1409
+
+### SalesEngine Work Time (9:00 - 12:00)
+
+Jeff is available for questions all morning.
+
+### Getting Started with Guard (1:00 - 1:30)
+
+Join Steve in Classroom B to talk about automating common tasks with Guard.
+
+### Ruby Object Model II: Garbage Collection and the Object Lifecycle (1:30 - 4:00)
+
+Stick around in Classroom B as Josh talks about the life and death of objects in Ruby.
