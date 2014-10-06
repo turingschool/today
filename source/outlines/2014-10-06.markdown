@@ -89,7 +89,7 @@ Join Jeff in Classroom A to explore ideas of cookies, sessions, carts, and order
 
 ### Minitest Tips and Techniques (9:00 - 12:00)
 
-Join Josh in Classroom A to discuss the ins and outs of testing with Minitest.
+Join Josh in Classroom A to discuss the ins and outs of [testing with Minitest](http://tutorials.jumpstartlab.com/academy/workshops/minitest_techniques.html).
 
 ### SalesEngine Kickoff (1:00 - 1:30)
 
