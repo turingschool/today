@@ -7,13 +7,13 @@ layout: outline
 
 ## 1406
 
-### Presenters and Decorators (9:00 - 10:30)
-
-Join Jeff in Classroom B to go over decorating tips for this holiday season.
-
-### Filtering API Data with Authorization (10:30 - 12:00)
+### Filtering API Data with Authorization (9:00 - 10:30)
 
 Filter data from APIs with Authorization with Jorge in Classroom B.
+
+### Presenters and Decorators (10:30 - 12:00)
+
+Join Jeff in Classroom B to go over decorating tips for this holiday season.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -42,13 +42,13 @@ Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge
 
 ## 1409
 
-### SalesEngine: Encapsulating Responsibilities (9:00 - 10:30)
+### Connecting Two Verticals (9:00 - 10:30)
+
+Gather in Classroom A as Jeff comes discusses how to traverse from one model to another.
+
+### SalesEngine: Encapsulating Responsibilities (10:30 - 12:00)
 
 Join Rachel in Classroom A to talk about encapsulating responsibilities in SalesEngine.
-
-### Connecting Two Verticals (10:30 - 12:00)
-
-Stick around in Classroom A as Jeff comes discusses how to traverse from one model to another.
 
 ### SalesEngine Work Time (1:00 - 4:00)
 
