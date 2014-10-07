@@ -52,4 +52,4 @@ Join Rachel in Classroom A to talk about testing dependency injections in Sales 
 
 ### SalesEngine Work Time (1:00 - 4:00)
 
-Rachel is available for questions all afternoon.
+Rachel is available for questions this afternoon in 10-minute slots. 
