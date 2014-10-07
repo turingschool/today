@@ -54,3 +54,4 @@ Join Steve in Classroom B to [talk about automating common tasks with Guard](htt
 ### Ruby Object Model II: Garbage Collection and the Object Lifecycle (1:30 - 4:00)
 
 Stick around in Classroom B as Josh talks about the life and death of objects in Ruby.
+We'll work through the second half of [the Ruby Object Model](https://github.com/JoshCheek/ruby-object-model).
