@@ -46,9 +46,9 @@ Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge
 
 Gather in Classroom A as Jeff comes discusses how to traverse from one model to another.
 
-### SalesEngine: Encapsulating Responsibilities (10:30 - 12:00)
+### Testing with Dependency Injection (10:30 - 12:00)
 
-Join Rachel in Classroom A to talk about encapsulating responsibilities in SalesEngine.
+Join Rachel in Classroom A to talk about testing dependency injections in Sales Engine. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_dependencies.markdown).
 
 ### SalesEngine Work Time (1:00 - 4:00)
 
