@@ -21,7 +21,7 @@ Josh will be available for questions all morning.
 
 ### SRP Controllers for Users, Admins, and APIs (1:00 - 4:00)
 
-Join Jeff in Classroom A to stalk about SRP, controllers, users, admins, APIs.
+Join Jeff in Classroom A to talk about [SRP, controllers, users, admins, APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/srp_controllers.markdown).
 
 ## 1407
 
