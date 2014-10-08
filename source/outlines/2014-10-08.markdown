@@ -44,7 +44,12 @@ Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge
 
 ### Connecting Two Verticals (9:00 - 10:30)
 
-Gather in Classroom A as Jeff comes discusses how to traverse from one model to another.
+Gather in Classroom A as Jeff discusses how to traverse from one model to another. The high-level plan includes:
+
+* Whiteboard discussion of the SalesEngine object graph
+* Discussion about object life cycle in SE
+* Hack together an example SalesEngine, MerchantRepository, and Merchant
+* Break into pairs to implement a *sample* SalesEngine, CustomerRepository, and Customer
 
 ### SalesEngine: Encapsulating Responsibilities (10:30 - 12:00)
 
