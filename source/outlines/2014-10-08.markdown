@@ -13,7 +13,7 @@ Filter data from APIs with Authorization with Jorge in Classroom B.
 
 ### Presenters and Decorators (10:30 - 12:00)
 
-Join Jeff in Classroom B to go over decorating tips for this holiday season.
+Join Jeff in Classroom B to go over [decorating tips for this holiday season](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/presenters_and_decorators.markdown).
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -51,10 +51,10 @@ Gather in Classroom A as Jeff discusses how to traverse from one model to anothe
 * Hack together an example SalesEngine, MerchantRepository, and Merchant
 * Break into pairs to implement a *sample* SalesEngine, CustomerRepository, and Customer
 
-### SalesEngine: Encapsulating Responsibilities (10:30 - 12:00)
+### Testing with Dependency Injection (10:30 - 12:00)
 
-Join Rachel in Classroom A to talk about encapsulating responsibilities in SalesEngine.
+Join Rachel in Classroom A to talk about testing dependency injections in Sales Engine. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_dependencies.markdown).
 
 ### SalesEngine Work Time (1:00 - 4:00)
 
-Rachel is available for questions all afternoon.
+Rachel is available for questions this afternoon in 10-minute slots.
