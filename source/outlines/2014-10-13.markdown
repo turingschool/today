@@ -1,0 +1,71 @@
+---
+title: 141013
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Automating Deployment (9:00-10:30)
+
+Join Jeff in classroom B to work on automating your deployment.
+
+### Writing a Wrapper Gem (10:30-12:00)
+
+Then continue with Jeff in Classroom B learning to write a
+wrapper gem for your API.
+
+### Project Work Time (1:00-3:00)
+
+Then continue working on your project. Josh Mejia will be available for questions.
+
+## 1407
+
+### Project Work Time (9:00-12:00)
+
+This morning please work wherever you like on your Dinner Dash project.
+
+### Effective Rails Models (1:00-3:00)
+
+This afternoon join Jorge in Classroom A to discuss Effective Rails Models.
+
+## 1409
+
+Today your first priority is your assessment, even if it means missing class or posse time. Keep an eye on your Slack in case the schedule shifts at all during the day.
+
+### Assessments (9:00-4:00)
+
+#### With Rachel
+
+* 9:00 - Zachary Routhier
+* 9:30 - Danny Glunz
+* 10:00 - Christopher Bynum
+* 10:30 - Victoria Harrod
+* 11:00 - Gregory Narajka
+* 11:30 - Chase van Hekken
+* 1:00 - Kate Lane
+* 1:30 - Chandra Carney
+
+#### With Jorge
+
+* 9:00 - Timothy Mee
+* 9:30 - Konr Josef Laron
+* 10:00 - Alex Jensen
+* 10:30 - Kalah Cheek
+* 11:00 - Sam Kuhlmann
+* 11:30 - Adam Smith
+
+#### With Steve
+
+* 1:00 - Herbert Joseph
+* 1:30 - David Bayendor
+* 2:00 - Travis Yoder
+
+### Refactoring Patterns, Part II (9:00-12:00)
+
+Join Steve in Classroom A for more refactoring.
+
+### Project Work Time (1:00-3:00)
+
+Then this afternoon continue working on your project. Josh Mejia will be available for questions on Slack.
