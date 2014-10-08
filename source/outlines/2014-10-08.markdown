@@ -5,11 +5,19 @@ layout: outline
 
 ## All
 
+### Warm-Up (8:30 - 9:00)
+
+If you've completed an Exercism this week, please take the time to nitpick a colleagues's Exercism. If not, continue working on your current Exercism.
+
+### Lightning Talks (4:05 - 4:45)
+
+Meet with Jorge in Classroom A. Bring your slides.
+
 ## 1406
 
 ### Filtering API Data with Authorization (9:00 - 10:30)
 
-Filter data from APIs with Authorization with Jorge in Classroom B.
+Filter data from APIs with Authorization with Jorge in Classroom B. Closed Captioning is brought to you by the Turing School of Software & Design, apply today.
 
 ### Presenters and Decorators (10:30 - 12:00)
 
@@ -30,15 +38,18 @@ Meet with Josh in the Blake Street Workspace:
 * 10:00 - 11:00: Kavita Sachdeva, Glen Egbert, and Aaron Paul Wortham
 * 11:00 - 12:00: Jessica Goulding, Ian Andersen and Luke Aiken
 
-Steve is available for questions all morning.
+Steve is available for questions this morning in 10 minute increments.
 
 ### JavaScript Outside of the Browser (1:00 - 2:30)
 
 Get the skinny on using JavaScript on the server with Node.js with Steve in Classroom A.
 
+* [Download Node.js](http://nodejs.org)
+* [Tutorial](https://github.com/JumpstartLab/curriculum/blob/master/source/topics/javascript/outside_the_browser.markdown)
+
 ### JavaScript Testing with Jasmine (2:30 - 4:00)
 
-Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge into action with Jasmine.
+Stay put in Classroom A as Jorge tags in to help you improve your semicolon typing skills with Jasmine.
 
 ## 1409
 
