@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-
+If you've completed an Exercism this week, please take the time to nitpick a colleagues's Exercism. If not, continue working on your current Exercism.
 
 ## 1406
 
