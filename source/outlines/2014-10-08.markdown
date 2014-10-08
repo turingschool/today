@@ -17,7 +17,7 @@ Meet with Jorge in Classroom A. Bring your slides.
 
 ### Filtering API Data with Authorization (9:00 - 10:30)
 
-Filter data from APIs with Authorization with Jorge in Classroom B.
+Filter data from APIs with Authorization with Jorge in Classroom B. Closed Captioning is brought to you by the Turing School of Software & Design, apply today.
 
 ### Presenters and Decorators (10:30 - 12:00)
 
@@ -49,7 +49,7 @@ Get the skinny on using JavaScript on the server with Node.js with Steve in Clas
 
 ### JavaScript Testing with Jasmine (2:30 - 4:00)
 
-Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge into action with Jasmine.
+Stay put in Classroom A as Jorge tags in to help you improve your semicolon typing skills with Jasmine.
 
 ## 1409
 
