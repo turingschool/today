@@ -36,6 +36,8 @@ Steve is available for questions all morning.
 
 Get the skinny on using JavaScript on the server with Node.js with Steve in Classroom A.
 
+[Follow along here.](https://github.com/JumpstartLab/curriculum/blob/master/source/topics/javascript/outside_the_browser.markdown)
+
 ### JavaScript Testing with Jasmine (2:30 - 4:00)
 
 Stay put in Classroom A as Jorge tags in to help you put your new Node knowledge into action with Jasmine.
