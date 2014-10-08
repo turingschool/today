@@ -1,0 +1,90 @@
+---
+title: 141014
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Project Work Time & Assessments (9:00-12:00)
+
+Get those projects ready for delivery.
+
+#### Assessments with Rachel
+
+* 8:15 - Hilary Denton
+* 9:00 - Will Faurot
+* 9:45 - Allison Larson
+* 10:30 - Jonmichael Chambers
+* 11:15 - Tan Doan
+
+#### Assessments with Steve
+
+* 9:00 - Emily Davis
+* 9:45 - Alan Smith
+* 10:30 - Andy Mention
+* 11:15 - Andrew Watkins
+
+#### Assessments with Jeff
+
+* 9:00 - Eric Fransen
+* 9:45 - Robert Gu
+* 10:30 - Corey Davis
+* 11:15 - Horacio Chavez
+
+#### Assessments with Josh C
+
+* 9:00 - Marc Garreau
+* 9:45 - Gustavo Villagrana
+* 10:30 - Chad Brading
+* 11:15 - Tim Proctor
+
+### Understanding the Asset Pipeline (1:00-4:00)
+
+Join Steve in Classroom A to explore the Asset Pipeline.
+
+## 1407
+
+### Introduction to jQuery (9:00-12:00)
+
+Join Jorge in Classroom B to begin working with jQuery.
+
+### Assessments & Work Time (1:00-4:00)
+
+Start wrapping up your Dinner Dash project and join the
+instructor below for your assessment.
+
+#### With Jeff
+
+* 1:00 - Kavita Sachdeva
+* 1:45 - Rolando Navarrete
+* 2:30 - Sara Simon
+* 3:15 - Aaron Paul Wortham
+
+#### With Jorge
+
+* 1:00 - Ian Andersen
+* 1:45 - Luke Aiken
+* 2:30 - Glen Egbert
+* 3:15 - Jessica Goulding
+
+#### With Rachel
+
+* 3:15 - Jim Sutton
+
+## 1409
+
+### Project Work Time (9:00-12:00)
+
+It's time for the finishing touches!
+
+### The Performance of Code (1:00-2:30)
+
+Join Rachel in Classroom B to discuss the performance
+characteristics of code.
+
+### Improving Test Speed (2:30-4:00)
+
+Then continue with Josh in Classroom B looking at how to
+optimize your tests.
