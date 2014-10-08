@@ -21,7 +21,7 @@ Josh will be available for questions all morning.
 
 ### SRP Controllers for Users, Admins, and APIs (1:00 - 4:00)
 
-Join Jeff in Classroom A to stalk about SRP, controllers, users, admins, APIs.
+Join Jeff in Classroom A to talk about [SRP, controllers, users, admins, APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/srp_controllers.markdown).
 
 ## 1407
 
@@ -54,3 +54,4 @@ Join Steve in Classroom B to [talk about automating common tasks with Guard](htt
 ### Ruby Object Model II: Garbage Collection and the Object Lifecycle (1:30 - 4:00)
 
 Stick around in Classroom B as Josh talks about the life and death of objects in Ruby.
+We'll work through the second half of [the Ruby Object Model](https://github.com/JoshCheek/ruby-object-model).
