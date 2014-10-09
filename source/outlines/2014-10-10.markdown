@@ -9,23 +9,27 @@ layout: outline
 
 Yum, yum, yum.
 
-### Lightning Talks (9:00 - 10:00)
+### Retrospective (9:00 - 11:00)
 
-* Tan Doan
-* Tim Proctor
-* Will Faurot
-* Horacio Chávez
-* Andy Mention
+### 1406
 
-### Guest Speaker I (10:00 - 11:00)
+### 1407
 
-Luke Swanson and Josh.
+### 1409
 
-* Luke's [LinkedIn](https://www.linkedin.com/in/lukeswanson)
+### Lightning Talks (10:00 - 11:00)
+
+* Tan Doan - Zurb Foundation
+* Tim Proctor - Rubinius
+* Will Faurot - The Killer Bug
+* Horacio Chávez - Tell Me A Story
+* Andy Mention - PostGIS
 
 ### Guest Speaker II (11:00 - 12:00)
 
-Mike Pack.
+Please submit a question to Mike Pack [here](https://www.google.com/moderator/#15/e=216535&t=216535.40).
+
+Mike is a developer at Mode Set. He previously worked at Factory Labs. He is part of the team that is building the social network [Ello](https://ello.co/). He is interested in Ruby, Rails and Ember.js.
 
 * [Website](http://mikepackdev.com/)
 * [Twitter](https://twitter.com/zombidev)
