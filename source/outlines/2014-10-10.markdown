@@ -71,8 +71,7 @@ Mike is a developer at Mode Set. He previously worked at Factory Labs. He is par
 * 2:40 - Daniel Glunz
 * 2:50 - Tim Proctor
 * 3:00 - David Bayendor
-* 3:10 - Robert Gu
-* 3:20 - Luke Aiken
+* 3:10 - Luke Aiken
 
 ### With Jorge
 
@@ -88,5 +87,7 @@ Mike is a developer at Mode Set. He previously worked at Factory Labs. He is par
 * 2:30 - Alex Jensen
 * 2:40 - Marc Garreau
 * 2:50 - Sara Simon
-* 3:00 - Adam Smith
-* 3:10 - Chase van Hekken
+* 3:00 - Chase van Hekken
+* 3:10 - Robert Gu
+* 3:20 - Adam Smith
+
