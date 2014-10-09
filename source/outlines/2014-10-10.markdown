@@ -19,11 +19,11 @@ Yum, yum, yum.
 
 ### Lightning Talks (10:00 - 11:00)
 
-* Tan Doan - Zurb Foundation
-* Tim Proctor - Rubinius
-* Will Faurot - The Killer Bug
 * Horacio Chávez - Tell Me A Story
+* Will Faurot - The Killer Bug
+* Tim Proctor - Rubinius
 * Andy Mention - PostGIS
+* Tan Doan - Zurb Foundation
 
 ### Guest Speaker II (11:00 - 12:00)
 
@@ -39,7 +39,7 @@ Mike is a developer at Mode Set. He previously worked at Factory Labs. He is par
 
 ### Feedback (3:30 - 4:00)
 
-Please take 30 minutes to give us your feedback for this week. 
+Please take 30 minutes to give us your feedback for this week.
 
 * [1406](https://docs.google.com/a/casimircreative.com/forms/d/14xTVIUe9QgjSIE6V1DORTetZIzCyTO6c1eUrVdUFxMA/viewform)
 * [1407](https://docs.google.com/a/casimircreative.com/forms/d/1liSeDxl4KlzrLMIeH7CiRyW6vXb0Vw2DCpsa0ALyqR4/viewform)
@@ -98,4 +98,3 @@ Please take 30 minutes to give us your feedback for this week.
 * 3:00 - Chase van Hekken
 * 3:10 - Robert Gu
 * 3:20 - Adam Smith
-
