@@ -25,7 +25,7 @@ Yum, yum, yum.
 * Andy Mention - PostGIS
 * Tan Doan - Zurb Foundation
 
-### Guest Speaker II (11:00 - 12:00)
+### Guest Speaker: Mike Pack (11:00 - 12:00)
 
 Please submit a question to Mike Pack [here](https://www.google.com/moderator/#15/e=216535&t=216535.40).
 
