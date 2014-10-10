@@ -11,11 +11,40 @@ Yum, yum, yum.
 
 ### Retrospective (9:00 - 11:00)
 
-### 1406
+#### 1406
 
-### 1407
+**Group Retrospective**: 9:00 - 9:30 with Rachel in Classroom A.
 
-### 1409
+**Individual Retrospective**: 9:30 - 10:00 in the Workspace.
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* Your building applications of your own design this time around. What are some of the challenges involved? Do you prefer it?
+* What strategies or technologies are you trying for the first time in this project? Do you think you'll use them in the future?
+* Your assessment is coming next week. Do you feel prepared? What is your strategy going to be?
+
+#### 1407
+
+**Individual Retrospective**: 9:00 - 9:30 in the Workspace.
+
+**Group Retrospective**: 9:30 - 10:00 with Steve in Classroom A.
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* You learned a new language this week. What are some of the major differences in your mind between Ruby and JavaScript. What do you like about each? What don't you like about each?
+* What are the challenges of working in bigger teams? What can you improve in your workflow?
+* Your assessment is coming next week. Do you feel prepared? What is your strategy going to be?
+
+#### 1409
+
+**Group Retrospective**: 9:00 - 9:30 with Jorge in Classroom B.
+
+**Individual Retrospective**: 9:30 - 10:00 in Classroom B.
+
+Work on a personal retrospective answering one or more of the following questions:
+
+* Your assessment is coming next week. Do you feel prepared? What is your strategy going to be?
+* You are about to finish SalesEngine. What has been the most challenging part of this project? How are you communicating with your partner to successfully complete this project's functionality? How comfortable do you feel with your current Ruby skills?
 
 ### Lightning Talks (10:00 - 11:00)
 
