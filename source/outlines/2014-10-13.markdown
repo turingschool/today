@@ -18,14 +18,15 @@ He attended gSchool with Jorge. Yes, he is that cool.
 
 ## 1406
 
-### Automating Deployment (9:00-10:30)
+### Assessment Prep (9:00-10:30)
 
-Join Jeff in classroom B to work on automating your deployment.
+First up this morning let's look back at what we've worked on this unit. Then
+we can look through the assessment and discuss any big questions.
 
-### Writing a Wrapper Gem (10:30-12:00)
+### Revising Project Expectations (10:30-12:00)
 
-Then continue with Jeff in Classroom B learning to write a
-wrapper gem for your API.
+Let's go back to the original expectations for this individual project, discuss
+where we are, and revise the goals for Thursday collaboratively.
 
 ### Project Check-ins & Project Work Time (1:00-4:00)
 
