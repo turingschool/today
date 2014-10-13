@@ -11,6 +11,8 @@ layout: outline
 
 Get those projects ready for delivery.
 
+Find the assessment instructions [here](http://tutorials.jumpstartlab.com/academy/assessments/storedom_assessment.html).
+
 #### Assessments with Rachel
 
 * 8:15 - Hilary Denton
