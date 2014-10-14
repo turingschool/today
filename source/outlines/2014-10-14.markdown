@@ -90,3 +90,4 @@ characteristics of code. Find the lesson outline [here](https://github.com/turin
 
 Then continue with Josh Cheek in Classroom A looking at how to
 optimize your tests.
+[Repo is here: https://github.com/JoshCheek/fast_tests](https://github.com/JoshCheek/fast_tests).
