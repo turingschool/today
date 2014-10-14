@@ -5,47 +5,90 @@ layout: outline
 
 ## All
 
+Welcome Josh Mejia, our new instructor at Turing. Josh previously worked at Comverge, where he used Ruby to connect to hardware that helps you save energy.
+
+He also worked as a developer in a agency optimizing their workflow and building projects for clients.
+
+He attended gSchool with Jorge. Yes, he is that cool.
+
+* Email: [jmejia@turing.io](mailto:jmejia@turing.io)
+* Twitter: [@joshuamejia](https://twitter.com/joshuamejia)
+* Github: [jmejia](https://github.com/jmejia)
+* Slack: jmejia
+
 ## 1406
 
-### Automating Deployment (9:00-10:30)
+### Assessment Prep (9:00-10:30)
 
-Join Jeff in classroom B to work on automating your deployment.
+First up this morning let's look back at what we've worked on this unit. Then
+we can look through the assessment and discuss any big questions.
 
-### Writing a Wrapper Gem (10:30-12:00)
+### Revising Project Expectations (10:30-12:00)
 
-Then continue with Jeff in Classroom B learning to write a
-wrapper gem for your API.
+Let's go back to the original expectations for this individual project, discuss
+where we are, and revise the goals for Thursday collaboratively.
 
-### Project Work Time (1:00-3:00)
+### Project Check-ins & Project Work Time (1:00-4:00)
 
-Then continue working on your project. Josh Mejia will be available for questions.
+Join Josh Mejia, Jeff and Steve for project check-ins in Classroom B.
+
+#### With Steve
+
+* 1:00 - Allison Larson
+* 1:30 - Tan Doan
+* 2:00 - Will Faurot
+* 2:30 - Alan Smith
+* 3:00 - Horacio Chávez
+* 3:30 - Hilary Denton
+
+#### With Josh Mejia
+
+* 1:00 - Tim Proctor
+* 1:30 - Gustavo Villagrana
+* 2:00 - Eric Fransen
+* 2:30 - Andrew Watkins
+* 3:00 - Emily Davis
+* 3:30 - Corey Davis
+
+#### With Jeff
+
+* 1:00 - Chad Brading
+* 1:30 - Marc Garreau
+* 2:00 - Robert Gu
+* 2:30 - Jonmichael Chambers
+* 3:00 - Andy Mention
 
 ## 1407
 
-### Project Work Time (9:00-12:00)
+### Project Check-ins & Project Work Time (9:00-12:00)
 
-This morning please work wherever you like on your Dinner Dash project.
+Join Josh Mejia for project check-ins in Classroom A.
+
+* 9:00 - Jim Sutton, Rolando Navarrete, Sara Simon
+* 10:00 - Kavita Sachdeva, Glen Egbert, Aaron Paul Wortham
+* 11:00 - Jessica Goulding, Ian Andersen, Luke Aiken
 
 ### Effective Rails Models (1:00-3:00)
 
 This afternoon join Jorge in Classroom A to discuss Effective Rails Models.
 
+### Project Work Time (3:00-4:00)
+
+Continue working on your project. Jorge will be available for questions.
+
 ## 1409
 
-Today your first priority is your assessment, even if it means missing class or posse time. Keep an eye on your Slack in case the schedule shifts at all during the day.
+Today your first priority is your assessment. Keep an eye on your Slack in case the schedule shifts at all during the day. When you are not doing your assessment, work on your project.
 
-### Assessments (9:00-4:00)
+### Assessments (9:00-12:00)
 
 #### With Rachel
 
-* 9:00 - Zachary Routhier
-* 9:30 - Danny Glunz
-* 10:00 - Christopher Bynum
-* 10:30 - Victoria Harrod
-* 11:00 - Gregory Narajka
-* 11:30 - Chase van Hekken
-* 1:00 - Kate Lane
-* 2:45 - Chandra Carney
+* 9:00 - Kate Lane
+* 9:30 - Chandra Carney
+* 10:00 - Herbert Joseph
+* 10:30 - David Bayendor
+* 11:00 - Travis Yoder
 
 #### With Jorge
 
@@ -58,14 +101,13 @@ Today your first priority is your assessment, even if it means missing class or 
 
 #### With Steve
 
-* 1:00 - Herbert Joseph
-* 1:30 - David Bayendor
-* 2:00 - Travis Yoder
+* 9:00 - Zachary Routhier
+* 9:30 - Danny Glunz
+* 10:00 - Christopher Bynum
+* 10:30 - Victoria Harrod
+* 11:00 - Gregory Narajka
+* 11:30 - Chase van Hekken
 
-### Refactoring Patterns, Part II (9:00-12:00)
+### Project Work Time (1:00-4:00)
 
-Join Steve in Classroom A for more refactoring.
-
-### Project Work Time (1:00-3:00)
-
-Then this afternoon continue working on your project. Josh Mejia will be available for questions on Slack.
+This afternoon continue working on your project. Make sure that the spec harness is passing. Rachel will be available for questions from 1:00 to 3:30.
