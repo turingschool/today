@@ -81,10 +81,10 @@ It's time for the finishing touches!
 
 ### The Performance of Code (1:00-2:30)
 
-Join Rachel in Classroom B to discuss the performance
+Join Rachel in Classroom A to discuss the performance
 characteristics of code.
 
 ### Improving Test Speed (2:30-4:00)
 
-Then continue with Josh in Classroom B looking at how to
+Then continue with Josh Cheek in Classroom A looking at how to
 optimize your tests.
