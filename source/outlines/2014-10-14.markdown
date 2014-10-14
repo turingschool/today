@@ -84,7 +84,7 @@ It's time for the finishing touches!
 ### The Performance of Code (1:00-2:30)
 
 Join Rachel in Classroom A to discuss the performance
-characteristics of code.
+characteristics of code. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
 
 ### Improving Test Speed (2:30-4:00)
 
