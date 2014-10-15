@@ -1,7 +1,9 @@
 require "./source/helpers/view_helpers"
 require "./source/helpers/comment_helpers"
+require "./source/helpers/outline_list_helpers"
 helpers ViewHelpers
 helpers CommentHelpers
+helpers OutlineListHelpers
 
 # Compass
 ###
