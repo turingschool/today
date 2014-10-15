@@ -16,7 +16,7 @@ Choose from one of the following electives:
 * _Planning Flash-mob Coding in the Community_ with Rachel
 * _Singing About Beer_ with Jorge
 
-### Electives |I (2:30 - 4:00)
+### Electives II (2:30 - 4:00)
 
 Choose from one of the following electives:
 
@@ -54,7 +54,7 @@ Choose from one of the following electives:
 * 10:30 - 11:00: Emily Davis
 * 11:00 - 11:30: Will Faurot
 
-## With Josh Mejia
+#### With Josh Mejia
 
 * 10:30 - 11:00: Tan Doan
 * 11:00 - 11:30: Marc Garreau
