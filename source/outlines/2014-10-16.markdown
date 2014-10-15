@@ -1,0 +1,88 @@
+---
+title: 141016
+layout: outline
+---
+
+## All
+
+### Electives I (1:00 - 2:30)
+
+Choose from one of the following electives:
+
+* _Mini-Octo-Ironman_ with Josh Cheek
+* _Nokogiri_ with Josh Mejia
+* _Ruby Processing_ with Steve
+* _Electronics and Arduino Primer_ with Jeff
+* _Planning Flash-mob Coding in the Community_ with Rachel
+* _Singing About Beer_ with Jorge
+
+### Electives |I (2:30 - 4:00)
+
+Choose from one of the following electives:
+
+* _Mini-Octo-Ironman_ with Josh Cheek
+* _Nokogiri_ with Josh Mejia
+* _Ruby Processing_ with Steve
+* _Electronics and Arduino Primer_ with Jeff
+* _Planning Flash-mob Coding in the Community_ with Rachel
+* _Singing About Beer_ with Jorge
+
+## 1406
+
+### Project Evaluations and Work Time (9:00 - 12:00)
+
+#### With Jeff
+
+* 9:00 - 9:30: Jonmichael Chambers
+* 9:30 - 10:00: Robert Gu
+* 10:00 - 10:30: Tim Proctor
+* 10:30 - 11:00: Hilary Denton
+
+#### With Jorge
+
+* 9:00 - 9:30: Chad Brading
+* 9:30 - 10:00: Andrew Watkins
+* 10:00 - 10:30: Corey Davis
+* 10:30 - 11:00: Horacio Chavez
+* 11:00 - 11:30: Alan Smith
+
+#### With Josh Cheek
+
+* 9:00 - 9:30: Eric Fransen
+* 9:30 - 10:00: Andy Mention
+* 10:00 - 10:30: Allison Larson
+* 10:30 - 11:00: Emily Davis
+* 11:00 - 11:30: Will Faurot
+
+## With Josh Mejia
+
+* 10:30 - 11:00: Tan Doan
+* 11:00 - 11:30: Marc Garreau
+
+## 1407
+
+### Project Evaluations and Work Time (9:00 - 12:00)
+
+### With Josh Mejia
+
+* 9:00 - 9:30: Luke Aiken, Jessica Goulding, and Ian Andersen
+* 9:30 - 10:00: Kavita Sachdeva, Glen Egbert, and Aaron Paul Wortham
+* 10:00 - 10:30: Jim Sutton, Rolando Navarrete, and Sara Simon
+
+## 1409
+
+### Project Evaluations and Work Time (9:00 - 12:00)
+
+#### With Rachel
+
+* 9:00 - 9:30: Chandra Carney & Gregory Narajka
+* 9:30 - 10:00: Sam Kuhlmann & Zachary Routhier
+* 10:00 - 10:30: Travis Yoder & David Bayendor
+
+#### With Steve
+
+* 9:00 - 9:30: Adam Smith & Alex Jensen & Herbert Joseph
+* 9:30 - 10:00: Chase van Hekken & Christopher Bynum
+* 10:00 - 10:30: Danny Glunz & Victoria Harrod
+* 10:30 - 11:00: Kalah Cheek & Konr Josef Larson
+* 11:00 - 11:30: Kate Lane & Timothy Mee
