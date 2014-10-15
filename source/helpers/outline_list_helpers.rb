@@ -1,7 +1,7 @@
 module OutlineListHelpers
   def outline_list(resources)
-    resources.select {|r| r.data.layout == 'outline'}\
-             .sort_by {|o| outline_name(o.path)}\
+    resources.select  { |resource| resource.data.layout == 'outline' }
+             .sort_by { |outline| outline_name(outline.path) }
              .reverse
   end
 
