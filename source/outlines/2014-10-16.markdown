@@ -5,6 +5,15 @@ layout: outline
 
 ## All
 
+### Non-Evaluation Time (9:00-12:00)
+
+When you're not doing your evaluation, please spend **at least one hour**
+pairing with someone in another cohort. You might work on:
+
+* either of your projects
+* an Exercism in Ruby or JavaScript
+* a challenge from Project Euler
+
 ### Electives I (1:00 - 2:30)
 
 Choose from one of the following electives:
@@ -29,7 +38,7 @@ Choose from one of the following electives:
 
 ## 1406
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Jeff
 
@@ -61,7 +70,7 @@ Choose from one of the following electives:
 
 ## 1407
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Josh Mejia
 
@@ -71,7 +80,7 @@ Choose from one of the following electives:
 
 ## 1409
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Rachel
 
