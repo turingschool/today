@@ -14,6 +14,8 @@ pairing with someone in another cohort. You might work on:
 * an Exercism in Ruby or JavaScript
 * a challenge from Project Euler
 
+Please use the #community channel on Slack to find a pair when you're available.
+
 ### Electives I (1:00 - 2:30)
 
 Choose from one of the following electives:
