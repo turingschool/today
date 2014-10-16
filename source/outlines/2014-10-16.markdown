@@ -20,7 +20,7 @@ Please use the #community channel on Slack to find a pair when you're available.
 
 Choose from one of the following electives:
 
-* _Mini-Octo-Ironman_ with Josh Cheek
+* [_Mini-Octo-Ironman_](https://github.com/JoshCheek/miniature-octo-ironman/) with Josh Cheek
 * _Nokogiri_ with Josh Mejia
 * _Ruby Processing_ with Steve
 * _Electronics and Arduino Primer_ with Jeff
