@@ -14,7 +14,7 @@ Choose from one of the following electives:
 * _Ruby Processing_ with Steve
 * _Electronics and Arduino Primer_ with Jeff
 * _Planning Flash-mob Coding in the Community_ with Rachel
-* _Singing About Beer_ with Jorge
+* _An Object-Oriented Beer Song_ with Jorge
 
 ### Electives II (2:30 - 4:00)
 
@@ -25,7 +25,7 @@ Choose from one of the following electives:
 * _Ruby Processing_ with Steve
 * _Electronics and Arduino Primer_ with Jeff
 * _Planning Flash-mob Coding in the Community_ with Rachel
-* _Singing About Beer_ with Jorge
+* _An Object-Oriented Beer Song_ with Jorge
 
 ## 1406
 
