@@ -5,16 +5,27 @@ layout: outline
 
 ## All
 
+### Non-Evaluation Time (9:00-12:00)
+
+When you're not doing your evaluation, please spend **at least one hour**
+pairing with someone in another cohort. You might work on:
+
+* either of your projects
+* an Exercism in Ruby or JavaScript
+* a challenge from Project Euler
+
+Please use the #community channel on Slack to find a pair when you're available.
+
 ### Electives I (1:00 - 2:30)
 
 Choose from one of the following electives:
 
-* _Mini-Octo-Ironman_ with Josh Cheek
+* [_Mini-Octo-Ironman_](https://github.com/JoshCheek/miniature-octo-ironman/) with Josh Cheek
 * _Nokogiri_ with Josh Mejia
 * _Ruby Processing_ with Steve
 * _Electronics and Arduino Primer_ with Jeff
 * _Planning Flash-mob Coding in the Community_ with Rachel
-* _Singing About Beer_ with Jorge
+* _An Object-Oriented Beer Song_ with Jorge
 
 ### Electives II (2:30 - 4:00)
 
@@ -25,11 +36,11 @@ Choose from one of the following electives:
 * _Ruby Processing_ with Steve
 * _Electronics and Arduino Primer_ with Jeff
 * _Planning Flash-mob Coding in the Community_ with Rachel
-* _Singing About Beer_ with Jorge
+* _An Object-Oriented Beer Song_ with Jorge
 
 ## 1406
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Jeff
 
@@ -61,7 +72,7 @@ Choose from one of the following electives:
 
 ## 1407
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Josh Mejia
 
@@ -71,13 +82,13 @@ Choose from one of the following electives:
 
 ## 1409
 
-### Project Evaluations and Work Time (9:00 - 12:00)
+### Project Evaluations (9:00 - 12:00)
 
 #### With Rachel
 
 * 9:00 - 9:30: Chandra Carney & Gregory Narajka
 * 9:30 - 10:00: Sam Kuhlmann & Zachary Routhier
-* 10:00 - 10:30: Travis Yoder & David Bayendor
+* 11:30 - 12:00: Travis Yoder & David Bayendor
 
 #### With Steve
 
