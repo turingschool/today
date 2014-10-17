@@ -1,6 +1,8 @@
-require "./source/helpers/view_helpers"
-require "./source/helpers/comment_helpers"
-require "./source/helpers/outline_list_helpers"
+$LOAD_PATH.unshift File.expand_path('source', __dir__)
+require "helpers/view_helpers"
+require "helpers/comment_helpers"
+require "helpers/outline_list_helpers"
+
 helpers ViewHelpers
 helpers CommentHelpers
 helpers OutlineListHelpers
