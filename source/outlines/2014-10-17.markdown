@@ -1,0 +1,82 @@
+---
+title: 141017
+layout: outline
+---
+
+## All
+
+### Breakfast (9:30 - 11:00)
+
+The breakfast train pulls out of the station at 9:30. We'll be headed to [the Delectable Egg](http://www.delectableegg.com).
+
+### Guest Speaker: Sean Griffin (11:00 - 12:00)
+
+Sean is a developer at [Thoughtbot][tb] and a Rails issues team member.
+
+Sean is a fanatic about Vim, Rails, and TDD. After spending far too long with PHP and ASP.NET, he's never looked back since joining the Ruby community. When he's not writing code, he enjoys fedoras, fine cigars, and blogging about the games industry.
+
+* [Twitter](https://twitter.com/sgrif)
+* [Github](https://github.com/sgrif)
+
+[tb]: http://thoughtbot.com
+
+## 1406
+
+### Group Retrospective (1:00 - 1:45)
+
+Let's meet in the new Classroom B and talk about the last (six) week(s).
+
+### Technical Blogging
+
+This afternoon we'd like you to create and write a post for a technical blog.
+
+#### Content
+
+Write a blog post explaining and exploring your individual projects and (b) create an eight-or-fewer minute screencast video showing off both the app and the code. These posts will be published on the Turing.io blog.
+
+You don't need to post this article yourself. You can fork/add/pull-request the
+final content to [the Turing blog directly](https://github.com/turingschool/blog.turing.io).
+
+## 1407
+
+### Group Retrospective (1:45 - 2:30)
+
+Let's meet in the new Classroom B and talk about the last (six) week(s).
+
+### Technical Blogging
+
+This afternoon we'd like you to create and write a post for a technical blog.
+
+#### Content
+
+Please get back together with your team and both (a) write a
+blog post explaining and exploring your "Dinner Dash" projects and (b) create an
+eight-or-fewer minute screencast video showing off both the app and the code. These
+three posts will be published on the Turing.io blog.
+
+You don't need to post this article yourself. You can fork/add/pull-request the
+final content to
+[the Turing blog directly](https://github.com/turingschool/blog.turing.io).
+
+## 1409
+
+### Group Retrospective (2:30 - 3:15)
+
+Let's meet in the new Classroom B and talk about the last (six) week(s).
+
+### Personal Retro
+
+When you are not in group retro please work on a personal retrospective
+answering one or more of the following questions:
+
+* Did you accomplish what you set out to do over the past six weeks?
+* Where's your confidence level in your skills? What was the low-point over
+the six week segment? High point?
+* What did you learn about your classmates during the class? How did you help
+build a group culture? What *role* will you play in the group during the next
+class?
+* What did you learn about our scoring (personal assessments, project evaluations)
+during the class, and how did that influence your personal motivation? What are
+the keys to keeping you invested in your work?
+* What are you looking forward to about the next class? Why? What are you most
+worried about?
