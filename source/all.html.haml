@@ -4,5 +4,5 @@
       %h1 All Outlines
 
       %ul
-      - outline_list(sitemap.resources).first(100).each do |outline|
-        %li= link_to outline_name(outline.path), outline.path
+        - outline_list(sitemap.resources).first(100).each do |outline|
+          %li= link_to outline_name(outline.path), outline.path
