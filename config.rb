@@ -2,7 +2,9 @@ $LOAD_PATH.unshift File.expand_path('source', __dir__)
 require "helpers/view_helpers"
 require "helpers/comment_helpers"
 require "helpers/outline_list_helpers"
+require "helpers/outline_helpers"
 
+helpers OutlineHelpers
 helpers ViewHelpers
 helpers CommentHelpers
 

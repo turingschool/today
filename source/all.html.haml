@@ -7,7 +7,7 @@ layout: content
 .outline_list
   %h1= current_page.metadata[:page]['title']
 
-  - outlines_by_month(sitemap.resources).reverse.each do |month_start, outlines_by_week|
+  - outlines_by_month(outlines).reverse.each do |month_start, outlines_by_week|
     .month
       %h2.monthname
         - month_id = "month-#{yyyy_mm_for month_start}"
