@@ -4,12 +4,19 @@ layout: content
 ---
 - extend OutlineListHelpers
 
-%h1= current_page.metadata[:page]['title']
+.outline_list
+  %h1= current_page.metadata[:page]['title']
 
-- outlines_by_week(sitemap.resources).each do |start_date, dates_to_outlines|
-  %h2
-    - week_id = "week-#{yyyy_mm_dd_for start_date}"
-    = link_to human_date(start_date), "/all##{week_id}", id: week_id
-  %ul
-    - dates_to_outlines.each do |date, outline|
-      %li= link_to weekday_for(date), outline.path, id: "day-#{yyyy_mm_dd_for date}"
+  - outlines_by_month(sitemap.resources).reverse.each do |month_start, outlines_by_week|
+    .month
+      %h2.monthname
+        - month_id = "month-#{yyyy_mm_for month_start}"
+        = link_to monthname_for(month_start), "/all##{month_id}", id: month_id
+
+      - outlines_by_week.each do |week_start, dates_to_outlines|
+        .week
+          - week_id = "week-#{yyyy_mm_dd_for week_start}"
+          = link_to week_start.day, "/all##{week_id}", id: week_id, class: 'weekname'
+          %ul.weekdays
+            - dates_to_outlines.each do |date, outline|
+              %li= link_to weekday_for(date), outline.path, id: "day-#{yyyy_mm_dd_for date}"
