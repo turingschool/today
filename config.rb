@@ -5,7 +5,6 @@ require "helpers/outline_list_helpers"
 
 helpers ViewHelpers
 helpers CommentHelpers
-helpers OutlineListHelpers
 
 # Compass
 ###
