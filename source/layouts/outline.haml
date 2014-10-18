@@ -1,8 +1,6 @@
-= wrap_layout :layout do
-  .mod-outline
-    .layout-inner-wrap
-      .col-article
-        %h1= current_page.source_file.split('/').last.split('.').first
-        = yield
-      .col-sidebar
-        = partial 'layouts/sidebar'
+= wrap_layout :content do
+  .col-article
+    %h1= current_page.source_file.split('/').last.split('.').first
+    = yield
+  .col-sidebar
+    = partial 'layouts/sidebar'

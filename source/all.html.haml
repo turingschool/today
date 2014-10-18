@@ -1,9 +1,13 @@
-- extend OutlineListHelpers
-.mod-outline
-  .layout-inner-wrap
-    .col-article
-      %h1 All Outlines
+---
+title: All Outlines
+layout: content
+---
 
-      %ul
-        - outline_list(sitemap.resources).first(100).each do |outline|
-          %li= link_to outline_name(outline.path), outline.path
+- extend OutlineListHelpers
+- outlines_by_week(sitemap.resources).each do |start_date, dates_to_outlines|
+  %h2
+    - week_id = "week-#{format_date start_date}"
+    = link_to format_date(start_date), "/all##{week_id}", id: week_id
+  %ul
+    - dates_to_outlines.each do |date, outline|
+      %li= link_to format_date(date), outline.path, id: "day-#{format_date(date)}"
