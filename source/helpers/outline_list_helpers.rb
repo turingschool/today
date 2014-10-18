@@ -2,6 +2,8 @@ require 'date'
 require 'pathname'
 
 module OutlineListHelpers
+  # sooo... this isn't tested.
+  # Apparently testing isn't a thing for static sites -.-
   def outlines_by_week(resources)
     beginning_of_week = lambda do |date|
       days_since_monday = date.wday - 1
@@ -25,7 +27,15 @@ module OutlineListHelpers
              .sort_by  { |date, dates_to_outlines| date }
   end
 
-  def format_date(date)
+  def yyyy_mm_dd_for(date)
     date.strftime '%Y-%m-%d'
+  end
+
+  def weekday_for(date)
+    date.strftime('%A') # e.g. "Wednesday"
+  end
+
+  def human_date(date)
+    date.strftime('%d %B')  # e.g. "15 October"
   end
 end
