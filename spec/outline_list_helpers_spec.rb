@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift File.expand_path('../source', __dir__)
-require 'helpers/outline_list_helpers'
+require 'presenters/outlines_by_cohort'
 
-describe 'outline list helpers' do
+describe 'outlines by cohort' do
   class MockOutline
     def initialize(raw_date)
       @raw_date = raw_date

@@ -2,7 +2,7 @@
 title: All Outlines
 layout: content
 ---
-- require "helpers/outline_list_helpers"
+- require "presenters/outlines_by_cohort"
 .outline_list
   - OutlinesByCohort.call(all_outlines, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|
     .month

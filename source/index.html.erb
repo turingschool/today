@@ -6,7 +6,7 @@
   if(day.length   < 2) day   = "0" + day;
 
   var date       = currentTime.getFullYear().toString() + "-" + month + "-" + day;
-  var knownDates = <%= outlines.map { |o| yyyy_mm_dd_for outline_date(o.path) }.inspect %>;
+  var knownDates = <%= all_outlines.map { |o| yyyy_mm_dd_for outline_date(o.path) }.inspect %>;
 
   if(knownDates.indexOf(date) > -1)
     window.location = "/outlines/" + date + "/";
