@@ -40,13 +40,17 @@
         margin:          0px
 
       .weeknumber
-        z-index:   -1
-        position:  absolute
-        transform: rotate(-90deg)
-        width:     1em // css is so stupid
-        height:    1em
-        left:      -45px
-        bottom:    0
+        -webkit-transform: rotate(-90deg)
+        -moz-transform:    rotate(-90deg)
+        -o-transform:      rotate(-90deg)
+        -ms-transform:     rotate(-90deg)
+        transform:         rotate(-90deg)
+        z-index:           -1
+        position:          absolute
+        width:             1em // css is so stupid
+        height:            1em
+        left:              -45px
+        bottom:            0
 
         a
           color:           #dfdfdf
