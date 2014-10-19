@@ -10,10 +10,11 @@ layout: content
         = link_to cohort_name, "/all##{cohort_name}", id: cohort_name
 
       - weeks_to_outlines.each.with_index(1) do |(week_start, outlines), week_number|
-        .week
-          - week_id = "week-#{yyyy_mm_dd_for week_start}"
-          = link_to week_number, "##{week_id}", id: week_id, class: 'weeknumber'
+        - week_id = "week-#{yyyy_mm_dd_for week_start}"
+        .week{id: week_id}
+          .weeknumber
+            = link_to "Week&nbsp;#{week_number}", "##{week_id}"
           %ul.weekdays
             - outlines.each do |outline|
               - date = outline_date outline.path
-              %li= link_to date.strftime('%d %B'), outline.path, id: yyyy_mm_dd_for(date)
+              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date)
