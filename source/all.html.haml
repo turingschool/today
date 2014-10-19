@@ -2,19 +2,18 @@
 title: All Outlines
 layout: content
 ---
-- extend OutlineListHelpers
-
+- require "helpers/outline_list_helpers"
 .outline_list
-  - outlines_by_month(outlines).reverse.each do |month_start, outlines_by_week|
+  - OutlinesByCohort.call(all_outlines, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|
     .month
       .monthname
-        - month_id = "month-#{yyyy_mm_for month_start}"
-        = link_to monthname_for(month_start), "/all##{month_id}", id: month_id
+        = link_to cohort_name, "/all##{cohort_name}", id: cohort_name
 
-      - outlines_by_week.each.with_index(1) do |(week_start, dates_to_outlines), week_number|
+      - weeks_to_outlines.each.with_index(1) do |(week_start, outlines), week_number|
         .week
           - week_id = "week-#{yyyy_mm_dd_for week_start}"
           = link_to week_number, "##{week_id}", id: week_id, class: 'weeknumber'
           %ul.weekdays
-            - dates_to_outlines.each do |date, outline|
-              %li= link_to "#{date.day} #{weekday_for date}", outline.path, id: "day-#{yyyy_mm_dd_for date}"
+            - outlines.each do |outline|
+              - date = outline_date outline.path
+              %li= link_to date.strftime('%d %B'), outline.path, id: yyyy_mm_dd_for(date)

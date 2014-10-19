@@ -30,7 +30,7 @@ module ViewHelpers
   end
 
   def beginning_of_week(date)
-    days_since_monday = date.wday - 1
+    days_since_monday = (date.wday - 1) % 7 # offset b/c week starts on Monday, not Sunday
     date - days_since_monday
   end
 

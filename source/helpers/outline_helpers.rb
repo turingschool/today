@@ -1,8 +1,8 @@
 require 'date'
 require 'pathname'
 module OutlineHelpers
-  def outlines(resources=sitemap.resources)
-    resources.select   { |resource| resource.data[:layout] == 'outline' }
+  def all_outlines(resources=sitemap.resources)
+    resources.select { |resource| resource.data[:layout] == 'outline' }
   end
 
   # an outline's path takes the form "outlines/yyyy-mm-dd.html"
