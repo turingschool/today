@@ -1,30 +1,45 @@
 .outline_list
+  // *
+    border: 1px solid blue
+
   .month
     position: relative
     clear:    both
+    overflow: visible
 
     .monthname
-      clear:      both
-      margin:     0
+      vertical-align: top
+      position:       absolute
+      top:            0
+      left:           0
+      margin:         0px
+
+      a
+        color:           transparentize($blue, 0.85)
+        margin:          0px
+        font-weight:     bold
+        font-size:       150px
+        text-decoration: none
 
     .week
-      position:      relative
-      float:         left
-      margin-top:    0px
-      margin-right:  50px
-      margin-left:   50px
-      margin-bottom: 25px
+      display:        inline-block
+      margin-top:     0px
+      margin-right:   50px
+      margin-left:    50px
+      margin-bottom:  25px
+      position:       relative
+      vertical-align: top
 
       ul.weekdays
         list-style-type: none
         margin:          0px
 
-      .weekname
+      .weeknumber
         z-index:         -1
         position:        absolute
         right:           0px
         top:             -15px
-        color:           #eee
+        color:           #dfdfdf
         font-weight:     bold
         font-size:       65px
         text-decoration: none
