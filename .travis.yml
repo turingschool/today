@@ -1,4 +1,4 @@
 rvm:
 - 2.1.1
-script: bundle exec middleman build
+script: bundle exec rspec && bundle exec middleman build
 env: TEST=true
