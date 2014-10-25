@@ -57,6 +57,17 @@ Join Jeff on classroom A to wrap up the day.
 
 Join Horace in Classroom B to consume some delicious APIs.
 
+We'll be doing some independent experimentation with some public APIs on the web. Use the following pairs:
+
+* Andy Mention & Chad Brading
+* Alan Smith & Hilary Denton
+* Corey Davis & Andrew Watkins
+* Tim Proctor & Jonmichael Chambers
+* Tan Doan & Allison Larson
+* Horacio Chavez & Eric Fransen
+* Gustavo Villagrana & Robert Gu
+* Will Faurot & Marc Garreau & Emily Davis
+
 ### Mocking and Doubling APIs (10:30 - 12:00)
 
 Hang around in Classroom B as Josh Cheek mocks some APIs.
