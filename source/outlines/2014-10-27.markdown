@@ -71,10 +71,21 @@ We'll be doing some independent experimentation with some public APIs on the web
 ### Mocking and Doubling APIs (10:30 - 12:00)
 
 Hang around in Classroom B as Josh Cheek mocks some APIs.
+[https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mocking_apis.markdown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mocking_apis.markdown)
 
 ### FeedEngine Kickoff and Work Time (1:00 - 3:00)
 
 Join Jeff in Classroom A to receive pertinent information about your next project: FeedEngine.
+
+* [Assignment](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html)
+* [Concepts](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine_concepts.html)
+
+#### Groups
+
+* Will Faurot & Allison Larson & Hilary Denton & Jonmichael Chambers
+* Tan Doan & Eric Fransen & Gustavo Villagrana & Andrew Watkins & Robert Gu
+* Andy Mention & Alan Smith & Chad Brading & Corey Davis
+* Marc Garreau & Horacio Chavez & Tim Proctor & Emily Davis
 
 ## 1407
 
@@ -161,7 +172,7 @@ Join Josh Mejia in Classroom C for a team-building tradition: assembling Ikea fu
 ### Development Environment Setup (1:00 - 2:00)
 
 Every developer needs to setup their own development environment. Please join Josh in classroom B and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop.
-Don't worry about PostgreSQL yet.
+Don't worry about PostgreSQL yet. We'll also install dotfiles, [here](https://github.com/turingschool/bootstrap_new_students).
 
 We have [dotfiles (configuration files)](https://github.com/turingschool/bootstrap_new_students)
 you can use to get a better environment (colored prompt, convenient shortcuts aliases, etc).
