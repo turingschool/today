@@ -80,6 +80,13 @@ Join Jeff in Classroom A to receive pertinent information about your next projec
 * [Assignment](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html)
 * [Concepts](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine_concepts.html)
 
+#### Groups
+
+* Will Faurot & Allison Larson & Hilary Denton & Jonmichael Chambers
+* Tan Doan & Eric Fransen & Gustavo Villagrana & Andrew Watkins & Robert Gu
+* Andy Mention & Alan Smith & Chad Brading & Corey Davis
+* Marc Garreau & Horacio Chavez & Tim Proctor & Emily Davis
+
 ## 1407
 
 ### Understanding Multi-Tenancy (9:00 - 11:30)
