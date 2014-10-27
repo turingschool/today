@@ -1,0 +1,86 @@
+---
+title: 141027
+layout: outline
+---
+
+# All
+
+### Warm-Up (8:30 - 8:50)
+
+**Meet up in your posses.**
+
+[Solve this set of LSAT puzzles.](https://www.dropbox.com/s/xa3phtf2ne9irsh/lsat_blog_-_preptest_50.pdf?dl=0)
+
+### Lightning Talks (4:05 - 4:15)
+
+Meet with Steve in Classroom A. Bring your outlines.
+
+If you haven't already, make sure to submit a pull request with your theme and topic to the lightning talk [repository](https://github.com/turingschool/lightning_talks). The valid themes are listed in the README.
+
+## 1406
+
+### FeedEngine Work Time (9:00 - 12:00)
+
+Steve is available for questions.
+
+### Workers at Scale (1:00 - 2:30)
+
+Join Jeff in Classroom A to talk about workers at scale.
+
+### Cron & Rails Runner (2:30 - 1:00)
+
+Stick around in Classroom A has Josh Mejia drops in to talk about `cron` and Rails Runner.
+
+## 1407
+
+### Pivot Work Time (9:00 - 12:00)
+
+This morning, you'll have some time to work on The Pivot.
+
+Steve is available for questions.
+
+### Fundamental Rails Security (1:00 - 4:00)
+
+Join Steve in Classroom B to talk about [securing (and breaking into) Rails applications][sec].
+
+[sec]: http://tutorials.jumpstartlab.com/topics/fundamental_security.html
+
+## 1409
+
+### How to the Web Works (9:00 - 10:30)
+
+Join Jeff in classroom B to talk about how the web works.
+
+You should take notes as this is a critically important discussion for the rest
+of your *career* building web application. Ideas and terms to pick out and know
+include:
+
+* HTTP, request, response, headers, body
+* Server, DNS, IP, Port
+* Front-end/web server, application server
+* State, statelessness, cookies
+* HTTPS, SSL, cryptography, man-in-the-middle
+
+### How Sinatra Works (10:30 - 12:00)
+
+Stick around in Classroom B as Horace drops by to explain how Sinatra works.
+
+### IdeaBox Work Time (1:00 - 4:00)
+
+You'll have some time to work on your IdeaBox project.  will be available for questions.
+
+## 1410
+
+### Ruby in 100 (er, 180) Minutes (9:00 - 12:00)
+
+Join Rachel in classroom A to learn about fundamental Ruby syntax.
+
+You can access the tutorial [here](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
+
+### How to Pair (1:00 - 1:30)
+
+Meet with Rachel in Classroom C to talking about the what, the why, and the how of pair programming.
+
+### Introduction to Test-Driven Development (1:30 - 4:00)
+
+Stick around in Classroom C as Josh introduces you to TDD (test-driven development).
