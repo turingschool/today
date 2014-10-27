@@ -96,6 +96,14 @@ Stick around with Jeff in Classroom A as he introduces your next project: [The P
 This project will be completed in teams of three with a final due date of
 Thursday, November 13.
 
+You will work in the following groups:
+
+* Jim Sutton, Kavita Sachdeva, and Jessica Goulding working with [this repository](https://github.com/ianderse/dinner_dash)
+* Rolando Navarrete, Glen Egbert, and Ian Andersen working with [this repository](https://github.com/glenegbert/dinner-dash)
+* Sara Simon, Aaron Paul Worthan, and Luke Aiken working with [this repository](https://github.com/rNavarrete/dinner_dash_frita)
+
+As a group, choose a pivot from the list in the project description.
+
 ### The Pivot Work Time (1:00 - 3:00)
 
 Steve is available for questions from 1:00 to 2:00 and from 2:30 to 3:00.
