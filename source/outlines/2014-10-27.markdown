@@ -71,6 +71,7 @@ We'll be doing some independent experimentation with some public APIs on the web
 ### Mocking and Doubling APIs (10:30 - 12:00)
 
 Hang around in Classroom B as Josh Cheek mocks some APIs.
+[https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mocking_apis.markdown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mocking_apis.markdown)
 
 ### FeedEngine Kickoff and Work Time (1:00 - 3:00)
 
