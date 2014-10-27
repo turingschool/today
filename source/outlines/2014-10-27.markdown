@@ -165,7 +165,7 @@ Join Josh Mejia in Classroom C for a team-building tradition: assembling Ikea fu
 ### Development Environment Setup (1:00 - 2:00)
 
 Every developer needs to setup their own development environment. Please join Josh in classroom B and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop.
-Don't worry about PostgreSQL yet.
+Don't worry about PostgreSQL yet. We'll also install dotfiles, [here](https://github.com/turingschool/bootstrap_new_students).
 
 We have [dotfiles (configuration files)](https://github.com/turingschool/bootstrap_new_students)
 you can use to get a better environment (colored prompt, convenient shortcuts aliases, etc).
