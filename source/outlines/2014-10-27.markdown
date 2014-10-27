@@ -77,6 +77,9 @@ Hang around in Classroom B as Josh Cheek mocks some APIs.
 
 Join Jeff in Classroom A to receive pertinent information about your next project: FeedEngine.
 
+* [Assignment](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html)
+* [Concepts](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine_concepts.html)
+
 ## 1407
 
 ### Understanding Multi-Tenancy (9:00 - 11:30)
