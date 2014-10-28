@@ -3,7 +3,7 @@ title: 141028
 layout: outline
 ---
 
-# All
+## All
 
 ### Warm-Up (8:30 - 8:50)
 
@@ -89,7 +89,7 @@ You'll have some time to work on your IdeaBox project. Rachel will be available 
 
 ### Ruby in 100 (er, 180) Minutes (9:00 - 12:00)
 
-Join Rachel in classroom A to learn about fundamental Ruby syntax.
+Join Rachel in Classroom C to learn about fundamental Ruby syntax.
 
 You can access the tutorial [here](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
 
