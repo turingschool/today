@@ -101,4 +101,5 @@ Meet with Rachel in Classroom C to talking about the what, the why, and the how 
 
 ### Introduction to Test-Driven Development (1:30 - 4:00)
 
-Stick around in Classroom C as Josh introduces you to TDD (test-driven development).
+Stick around in Classroom C as Josh introduces you to TDD (test-driven development),
+with the [Intro to TDD workshop](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
