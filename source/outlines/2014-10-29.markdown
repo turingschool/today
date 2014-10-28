@@ -1,0 +1,88 @@
+---
+title: 141029
+layout: outline
+---
+
+### Warm Up (8:30 - 8:50)
+
+**Solve the following puzzle in your posse.**
+
+1. The first question with B as the correct answer is:
+  * A. 1
+  * B. 4
+  * C. 3
+  * D. 2
+2. The answer to Question 4 is:
+  * A. D
+  * B. A
+  * C. B
+  * D. C
+3. The answer to Question 1 is:
+  * A. D
+  * B. C
+  * C. B
+  * D. A
+4. The number of questions which have D as the correct answer is:
+  * A. 3
+  * B. 2
+  * C. 1
+  * D. 0
+5. The number of questions which have B as the correct answer is:
+  * A. 0
+  * B. 2
+  * C. 3
+  * D. 1
+
+## 1406
+
+### Personas for UX (9:00 - 10:00)
+
+Jorge is back and he is talking about personas in Classroom B.
+
+### Wireframing for UX (10:00 - 11:00)
+
+After addressing his persona issues, stick with Jorge as he talks about wireframing in Classroom B.
+
+### Generating Sample Data (11:00 - 12:00)
+
+Horace taps in for Jorge to talk about generating sample data in Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace will be on hand for your questions. He might even have some answers for you.
+
+## 1407
+
+### Agile Stories and Project Planning (9:00 - 10:30)
+
+Learn how to become a ScrumMaster (a.k.a. the sheriff of ScrumTown) with Horace in Classroom A.
+
+We may have made up ScrumSheriff, but ScrumMaster is [actually a real thing](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm).
+
+### Revisiting Git Workflow (10:30 - 12:00)
+
+Stick around as Steve comes by to talk about how to create better collaborative workflows with Git and Github.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace will be on hand for all of your pivoting needs.
+
+## 1409
+
+### Project Work Time (9:00 - 12:00)
+
+Rachel will be on hand to help you box your ideas.
+
+### Testing Sinatra Applications (1:00 - 4:00)
+
+Join Josh in Classroom A to get your TDD on with web applications.
+
+## 1410
+
+### Mythical Creatures (9:00 - 12:00)
+
+Join Josh Mejia in Classroom C to work on the Mythical Creatures exercises. You are going to see lots of unicorns, minotaurs and the occasional medusa. Find the repository [here](https://github.com/turingschool/ruby-exercises).
+
+### Scavenger Hunt (1:00 - 4:00)
+
+Today you'll be doing a Scavenger Hunt. Raissa will provide the instructions.
