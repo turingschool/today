@@ -112,4 +112,19 @@ Meet with Rachel in Classroom C to talking about the what, the why, and the how 
 
 ### Introduction to Test-Driven Development (1:30 - 4:00)
 
-Stick around in Classroom C as Josh introduces you to TDD (test-driven development).
+Stick around in Classroom C as Josh introduces you to TDD (test-driven development),
+with the [Intro to TDD workshop](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
+
+Your pairs will be:
+
+* Rich Shea & Laura Whalin
+* Jeffrey Wan & Bryce Holcomb
+* Lori Culberson & Nathan Owsiany
+* Emily Berkeley & Edward McCarthy
+* Michael Dao & Kalah Cheek
+* Orion Osborn & Bhargavi Satpathy
+* Krista A Nelson & Brandon Mrsny
+* Scott Crawford & Christopher Pearson
+* Kit Pearson & Chris Luhring
+* Andrew Overby & Juan Manuel Navarro
+* Dustin Gault & Lydia Shafer & Alexandra Robinson
