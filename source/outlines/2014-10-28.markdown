@@ -47,7 +47,18 @@ Come to Classroom A as Josh Mejia teaches you about `cron` and Rails Runner.
 
 ### Workers at Scale (2:00 - 4:00)
 
-Then stay in Classroom A to talk about workers at scale with Jeff.
+Then stay in Classroom A to talk about [Workers at Scale](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown) with Jeff.
+
+#### Pairings
+
+* Hilary Denton & Horacio Chavez
+* Tim Proctor & Robert Gu
+* Tan Doan & Eric Fransen
+* Andrew Watkins & Gustavo Villagrana
+* Chad Brading & Will Faurot
+* Jonmichael Chambers & Corey Davis
+* Allison Larson & Alan Smith
+* Emily Davis & Marc Garreau & Andy Mention
 
 ## 1407
 
