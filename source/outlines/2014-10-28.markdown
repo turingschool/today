@@ -39,18 +39,15 @@ If you haven't already, make sure to submit a pull request with your theme and t
 
 Steve is available for questions.
 
-### Workers at Scale (1:00 - 2:30)
+### Cron & Rails Runner (1:00-2:00)
 
-Join Jeff in Classroom A to talk about workers at scale.
-
-### Cron & Rails Runner (2:30 - 4:00)
-
-Stick around in Classroom A as Josh Mejia drops in to talk about `cron` and Rails Runner.
+Come to Classroom A as Josh Mejia teaches you about `cron` and Rails Runner.
 
 [Reference materials](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/cron_and_rails_runner.markdown)
 
+### Workers at Scale (2:00 - 4:00)
 
-
+Then stay in Classroom A to talk about workers at scale with Jeff.
 
 ## 1407
 
