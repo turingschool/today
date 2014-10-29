@@ -76,6 +76,8 @@ Rachel will be on hand to help you box your ideas.
 ### Testing Sinatra Applications (1:00 - 4:00)
 
 Join Josh in Classroom A to get your TDD on with web applications.
+[Material is here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/testing_in_sinatra2.markdown).
+
 
 ## 1410
 
