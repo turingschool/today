@@ -52,6 +52,6 @@ Meet with Jeff:
 
 ## 1410
 
-### Git Fundamentals (9:00 - 12:00)
+### Intro to Git and Github (9:00 - 12:00)
 
-Join Rachel in Classroom C for a session on the basics of the Git version control system.
+Join Rachel in Classroom C to git smart. Find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown).
