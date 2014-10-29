@@ -39,18 +39,26 @@ If you haven't already, make sure to submit a pull request with your theme and t
 
 Steve is available for questions.
 
-### Workers at Scale (1:00 - 2:30)
+### Cron & Rails Runner (1:00-2:00)
 
-Join Jeff in Classroom A to talk about workers at scale.
-
-### Cron & Rails Runner (2:30 - 4:00)
-
-Stick around in Classroom A as Josh Mejia drops in to talk about `cron` and Rails Runner.
+Come to Classroom A as Josh Mejia teaches you about `cron` and Rails Runner.
 
 [Reference materials](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/cron_and_rails_runner.markdown)
 
+### Workers at Scale (2:00 - 4:00)
 
+Then stay in Classroom A to talk about [Workers at Scale](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown) with Jeff.
 
+#### Pairings
+
+* Hilary Denton & Horacio Chavez
+* Tim Proctor & Robert Gu
+* Tan Doan & Eric Fransen
+* Andrew Watkins & Gustavo Villagrana
+* Chad Brading & Will Faurot
+* Jonmichael Chambers & Corey Davis
+* Allison Larson & Alan Smith
+* Emily Davis & Marc Garreau & Andy Mention
 
 ## 1407
 
@@ -88,7 +96,7 @@ Stick around in Classroom B as Horace drops by to explain how Sinatra works.
 
 ### IdeaBox Work Time (1:00 - 4:00)
 
-You'll have some time to work on your IdeaBox project. Rachel will be available for questions.
+You'll have some time to work on your IdeaBox project. Rachel will be available for questions after 1:30.
 
 ## 1410
 
@@ -104,4 +112,19 @@ Meet with Rachel in Classroom C to talking about the what, the why, and the how 
 
 ### Introduction to Test-Driven Development (1:30 - 4:00)
 
-Stick around in Classroom C as Josh introduces you to TDD (test-driven development).
+Stick around in Classroom C as Josh introduces you to TDD (test-driven development),
+with the [Intro to TDD workshop](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
+
+Your pairs will be:
+
+* Rich Shea & Laura Whalin
+* Jeffrey Wan & Bryce Holcomb
+* Lori Culberson & Nathan Owsiany
+* Emily Berkeley & Edward McCarthy
+* Michael Dao & Kalah Cheek
+* Orion Osborn & Bhargavi Satpathy
+* Krista A Nelson & Brandon Mrsny
+* Scott Crawford & Christopher Pearson
+* Kit Pearson & Chris Luhring
+* Andrew Overby & Juan Manuel Navarro
+* Dustin Gault & Lydia Shafer & Alexandra Robinson
