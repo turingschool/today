@@ -201,4 +201,7 @@ Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/ar
 
 ## Survey and Individual Retrospective (3:00 - 4:00)
 
-(Coming soon.)
+* 1406's survey is [here](https://docs.google.com/a/casimircreative.com/forms/d/1mZsbijIoBCqa40ESqu--ywx_KqZXIgR6Du3QtGM1fck/viewform)
+* 1407's survey is [here](https://docs.google.com/a/casimircreative.com/forms/d/1ZcDFrsiF9QNpVPZuW_nCgIEcBA5k5QVsuxbDVuh24lg/viewform)
+* 1409's survey is [here](https://docs.google.com/a/casimircreative.com/forms/d/1ZYNyJpP38X7W1mMHpT_uy8UHnWZ-d1j6Dcsl2MLGc2o/viewform)
+* 1410's survey is [here](https://docs.google.com/a/casimircreative.com/forms/d/1O9OpPCZJfWnbygTs8AkMWAs02FSrwnSBRAXLVs2JmOA/viewform)
