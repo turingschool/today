@@ -1,5 +1,5 @@
 ---
-title: 141029
+title: 141030
 layout: outline
 ---
 
@@ -26,3 +26,32 @@ Find the difference between the sum of the squares of the first one hundred natu
 * What about Processing?
 
 (Source: [Project Euler](https://projecteuler.net/problem=6))
+
+## 1406
+
+###  FeedEngine Check-ins (1:00 - 4:00)
+
+Meet with Jeff and Horace:
+
+* 1:00pm: Hot Streak
+* 1:45pm: Travel Hub
+* 2:30pm: Snow Meat
+* 3:15pm: Tone Line
+
+## 1407
+
+### The Pivot: Check-ins (9:00 - 12:00)
+
+Meet with Jeff:
+
+* 9:15am: Gallery
+* 10:00am: Airlift
+* 10:45am: Dope Threads
+
+## 1409
+
+## 1410
+
+### Git Fundamentals (9:00 - 12:00)
+
+Join Rachel in Classroom C for a session on the basics of the Git version control system.

@@ -1,0 +1,204 @@
+---
+title: 141031
+layout: outline
+---
+
+## Self-Study (9:00 - 11:00)
+
+This afternoon, please _respect the Friday_ and do not work on your project. You should, instead, choose one or more of the following:
+
+### Join a Study Group
+
+* **Alan** is running a Machine Learning study group. Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data.
+* **Will** is running a Clojure study group. You don't need any experience with Clojure or ClojureScript to participate. Clojure is a Lisp family language developed for the Java Virtual Machine. It has a much stronger emphasis on pure functional programming than Common Lisp, but includes several STM utilities to handle state as it comes up.
+
+(Let Steve know if you'd like to run a study group.)
+
+### Contribute to the Curriculum
+
+* Can you add a new extension to a project you've previously completed (e.g. IdeaBox, SalesEngne, etc.)?
+* Is there something you wish was included in a tutorial? Open a pull request or a new issue.
+
+### Learn Your Current Tools
+
+* Figure out how to split your windows in your current editor of choice (unless it's TextMate).
+* Does your editor support multiple cursors? Probably. Figure out how to use them.
+* Set up keyboard short cuts for resizing and positioning your windows.
+* Set your text editor to use spaces instead of tabs.
+* Set your text editor to automatically delete trailing whitespace.
+
+### Experiment with New Tools
+
+* Level up your git skills with [Try Git](https://try.github.io/levels/1/challenges/1).
+* Try out a visual git tool like [Github for Mac][ghfm] or [GitX][gitx].
+* Find a tool that allows you to use multiple clipboards ([Keyboard Maestro][km], [Flycut][fc]).
+
+[ghfm]: https://mac.github.com
+[gitx]: http://gitx.frim.nl
+[fc]: https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12
+
+
+### Play with a New Language
+
+* Choose a language from [Learn X in Y Minutes](http://learnxinyminutes.com)
+* [Try Clojure](http://www.tryclj.com)
+* [Try Elixir](http://try-elixir.herokuapp.com)
+* [A Tour of Go](http://tour.golang.org/#1)
+
+## One on Ones (9:00 - 11:00)
+
+### With Jeff
+
+* 9:00 - 9:15: Adam Smith
+* 9:15 - 9:30: Bhargavi Satpathy
+* 9:30 - 9:45: Timothy Mee
+* 9:45 - 10:00: Herbert Joseph
+* 10:00 - 10:15: Konr Josef Larson
+* 10:15 - 10:30: Sara Simon
+* 10:30 - 10:45: Zachary Routhier
+* 10:45 - 11:00: Luke Aiken
+
+### With Jorge
+
+* 9:00 - 9:15: Rolando Navarrete
+* 9:15 - 9:30: Bryce Holcomb
+* 9:30 - 9:45: Emily Davis
+* 9:45 - 10:00: Allison Larson
+* 10:00 - 10:15: Chad Brading
+* 10:15 - 10:30: Gustavo Villagrana
+* 10:30 - 10:45: Nathan Owsiany
+* 10:45 - 11:00: Orion Osborn
+
+### With Josh Cheek
+
+* 9:00 - 9:15: Sam Kuhlmann
+* 9:15 - 9:30: Chandra Carney
+* 9:30 - 9:45: Glen Egbert
+* 9:45 - 10:00: Victoria Harrod
+* 10:00 - 10:15: Jonmichael Chambers
+* 10:15 - 10:30: Lydia Shafer
+* 10:30 - 10:45: Laura Whalin
+* 10:45 - 11:00: Brandon Mrsny
+
+### With Rachel
+
+* 9:00 - 9:15: Kit Pearson
+* 9:15 - 9:30: Will Faurot
+* 9:30 - 9:45: Tim Proctor
+* 9:45 - 10:00: Rich Shea
+* 10:00 - 10:15: Lori Culberson
+* 10:15 - 10:30: Aaron Paul Wortham
+* 10:30 - 10:45: Emily Berkeley
+* 10:45 - 11:00: Danny Glunz
+
+### With Steve
+
+* 9:00 - 9:15: Jim Sutton
+* 9:15 - 9:30: Alexandra Robinson
+* 9:30 - 9:45: Andrew Watkins
+* 9:45 - 10:00: Jeffrey Wan
+* 10:00 - 10:15: Kate Lane
+* 10:15 - 10:30: Christopher Luhring
+* 10:30 - 10:45: Edward McCarthy
+* 10:45 - 11:00: Travis Yoder
+
+### With Josh Mejia
+
+* 9:00 - 9:15: Christopher Bynum
+* 9:15 - 9:30: Krista Nelson
+* 9:30 - 9:45: Jessica Goulding
+* 9:45 - 10:00: Chase van Hekken
+* 10:00 - 10:15: Horacio Chavez
+* 10:15 - 10:30: Alex Jensen
+* 10:30 - 10:45: Dustin Gault
+* 10:45 - 11:00: Kalah Cheek
+
+### With Horace
+
+* 9:00 - 9:15: Kavita Sachdeva
+* 9:15 - 9:30: Gregory Narajka
+* 9:30 - 9:45: Ian Andersen
+* 9:45 - 10:00: Scott Crawford
+* 10:00 - 10:15: Michael Dao
+* 10:15 - 10:30: Andrew Overby
+* 10:30 - 10:45: Juan Manuel Navarro
+* 10:45 - 11:00: David Bayendor
+
+### With Raissa
+
+* 9:00 - 9:15: Marc Garreau
+* 9:15 - 9:30: Hilary Denton
+* 9:30 - 9:45: Robert Gu
+* 9:45 - 10:00: Corey Davis
+* 10:00 - 10:15: Andy Mention
+* 10:15 - 10:30: Tan Doan
+* 10:30 - 10:45: Alan Smith
+* 10:45 - 11:00: Eric Fransen
+
+## Guest Speaker: Ernie Miller (11:00 - 12:00)
+
+Ernie is currently the Director of Engineering at [nVisium](https://nvisium.com/).
+
+Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/arel), and author of a bunch of useful Ruby gems.
+
+* [Website](http://erniemiller.org)
+* [Github](https://github.com/ernie)
+* [Twitter](https://twitter.com/erniemiller)
+
+## Group Retrospectives (1:00 - 2:00)
+
+* 1406 will meet in Classroom A and be joined by Horace and Steve
+* 1407 will meet in the big workspace and be joined by Jorge and Josh Cheek
+* 1409 will meet in Classroom B and be joined by Jeff
+* 1410 will meet in Classroom C and be joined by Rachel and Josh Mejia
+
+## Lightning Talks (2:00 - 3:00)
+
+### Classroom A
+
+**Presenters**:
+
+* Chad Brading
+* David Bayendor
+* Hilary Denton
+* Corey Davis
+* Ian Andersen
+* Adam Smith
+
+**Audience**:
+
+* John Backus posse
+* Donald Knuth posse
+* Dan Ingalls posse
+* Dennis Ritchie posse
+* John von Neumann posse
+* Tim Berners-Lee posse
+* Grace Hopper posse
+* Fred Brooks posse
+* John McCarthy posse
+
+### Big Workspace
+
+**Presenters**:
+
+* Gustavo Villagrana
+* Travis Yoder
+* Konr Josef Larson
+* Sara Simon
+* Jim Sutton
+
+**Audience**: 
+
+* Karen Spärck Jones posse
+* Anita Borg posse
+* Yukihiro Matsumoto posse
+* Guido van Rossum posse
+* Alan Kay posse
+* Kay McNulty posse
+* Adele Goldberg posse
+* Ada Lovelace posse
+* Betty Holberton posse
+
+## Survey and Individual Retrospective (3:00 - 4:00)
+
+(Coming soon.)
