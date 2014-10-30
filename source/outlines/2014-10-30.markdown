@@ -7,19 +7,25 @@ layout: outline
 
 ### Warm-Up (8:30 - 8:50)
 
+Enough with the brain teasers, let's write some code.
+
 **Meet in your posses to solve the following problem.**
 
 The sum of the squares of the first ten natural numbers is,
 
 1<sup>2</sup> + 2<sup>2</sup> + ... + 10<sup>2</sup> = 385
 
+You square each number from one to ten and then you add them together.
+
 The square of the sum of the first ten natural numbers is,
 
 (1 + 2 + ... + 10)<sup>2</sup> = 55<sup>2</sup> = 3025
 
+You sum up each number and then you get the square of that sum.
+
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.
 
-Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum. (Pro-tip: Write a method or function do figure this out on your behalf—don't do this by hand.)
 
 * Can you write a solution in Ruby?
 * What about JavaScript?
@@ -28,6 +34,10 @@ Find the difference between the sum of the squares of the first one hundred natu
 (Source: [Project Euler](https://projecteuler.net/problem=6))
 
 ## 1406
+
+### FeedEngine (9:00 - 12:00)
+
+Josh Mejia is on hand to help you ail your troubles. (Steve can also answer some Ember-specific questions as well.)
 
 ###  FeedEngine Check-ins (1:00 - 4:00)
 
@@ -48,10 +58,30 @@ Meet with Jeff:
 * 10:00am: Airlift
 * 10:45am: Dope Threads
 
+### Pivot Work Time (1:00 - 4:00)
+
+Horace is waiting with baited breath for your questions.
+
 ## 1409
+
+### Ideabox Work Time (9:00 - 12:00)
+
+Josh Mejia will be on hand to help you take your ideas and pack them into little boxes.
+
+No pressure, but we're really looking forward to featuring some of your projects at the next demo night. No pressure.
+
+### Ideabox Recap and Refactor (1:00 - 4:00)
+
+Let's take a look at IdeaBox from two different angles. Josh Cheek will build on his less from yesterday and talk about how to structure your backend. Steve will help you take a deeper look at your views and client-side code. You'll get a chance to bond with each of them.
+
+You'll also get some time to collaborate and refactor your code.
 
 ## 1410
 
 ### Intro to Git and Github (9:00 - 12:00)
 
 Join Rachel in Classroom C to git smart. Find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown).
+
+### Mythical Creatures Review (1:00 - 4:00)
+
+Meet Jorge. He's pretty awesome. Review Mythical Creatures. Make it all happen in Classroom A.
