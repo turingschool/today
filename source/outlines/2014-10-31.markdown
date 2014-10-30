@@ -23,19 +23,24 @@ This afternoon, please _respect the Friday_ and do not work on your project. You
 
 * Figure out how to split your windows in your current editor of choice (unless it's TextMate).
 * Does your editor support multiple cursors? Probably. Figure out how to use them.
+* Create snippets/macros in your text editor for things you use all of the time.
 * Set up keyboard short cuts for resizing and positioning your windows.
 * Set your text editor to use spaces instead of tabs.
 * Set your text editor to automatically delete trailing whitespace.
 
 ### Experiment with New Tools
 
-* Level up your git skills with [Try Git](https://try.github.io/levels/1/challenges/1).
-* Try out a visual git tool like [Github for Mac][ghfm] or [GitX][gitx].
+* Level up your git skills with Scott Chacon's [_Pro Git_](http://git-scm.com/book/en/v2).
+* Try out a visual git tool like [Github for Mac][ghfm], [GitX][gitx], [Tower][].
 * Find a tool that allows you to use multiple clipboards ([Keyboard Maestro][km], [Flycut][fc]).
+* Play with [RubyMine][rm]—a Ruby/Rails IDE.
 
 [ghfm]: https://mac.github.com
 [gitx]: http://gitx.frim.nl
 [fc]: https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12
+[km]: http://www.keyboardmaestro.com/main/
+[Tower]: http://www.git-tower.com
+[rm]: https://www.jetbrains.com/ruby/
 
 
 ### Play with a New Language
