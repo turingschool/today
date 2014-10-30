@@ -149,8 +149,8 @@ Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/ar
 
 * 1406 will meet in Classroom A and be joined by Horace and Steve
 * 1407 will meet in the big workspace and be joined by Jorge and Josh Cheek
-* 1409 will meet in Classroom B and be joined by Jeff
-* 1410 will meet in Classroom C and be joined by Rachel and Josh Mejia
+* 1409 will meet in Classroom B and be joined by Rachel and Josh Mejia
+* 1410 will meet in Classroom C and be joined by Jeff
 
 ## Lightning Talks (2:00 - 3:00)
 
