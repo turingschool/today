@@ -18,5 +18,8 @@ fi
 date="$(date "+%Y-%m-%d")"
 file="source/outlines/$date.markdown"
 
-# edito today's file
+# display the command
+echo "$editor" "$file"
+
+# edit today's file
 "$editor" "$file"
