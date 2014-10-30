@@ -84,7 +84,20 @@ Smile.
 
 ### Intro to Git and Github (9:00 - 12:00)
 
+This morning will be presented in two tracks:
+
+#### I am totally new to Git
+
 Join Rachel in Classroom C to git smart. Find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown).
+
+#### I have some experience with Git
+
+Level up your Git experience in the work experience with the following tutorials.
+
+* [JumpstartLab: Common Git Practices](http://tutorials.jumpstartlab.com/topics/environment/git_strategy.html)
+* [Getting Git Right](https://www.atlassian.com/git/)
+* [Git Immersion](http://gitimmersion.com/lab_01.html)
+* [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### Mythical Creatures Review (1:00 - 4:00)
 
