@@ -18,6 +18,7 @@ This afternoon, please _respect the Friday_ and do not work on your project. You
 
 * Can you add a new extension to a project you've previously completed (e.g. IdeaBox, SalesEngne, etc.)?
 * Is there something you wish was included in a tutorial? Open a pull request or a new issue.
+* Anything wrong with a tutorial? Go fix it for all the students who come after you!
 
 ### Learn Your Current Tools
 
@@ -49,6 +50,18 @@ This afternoon, please _respect the Friday_ and do not work on your project. You
 * [Try Clojure](http://www.tryclj.com)
 * [Try Elixir](http://try-elixir.herokuapp.com)
 * [A Tour of Go](http://tour.golang.org/#1)
+
+### Contribute to Miniature Octo Ironman
+
+* Interested in playing with [Docker][docker] or [Panamax][panamax]? How about seeing if we can't get a safe Ruby environment to evaulate code in? Jonmichael has already opened up an issue [here][docker-sandbox].
+* Got some CSS skills? [Help us out][moi-css]!
+* Found the zen of JavaScript? How about [improving ours][moi-js]!
+
+[docker]:         https://www.docker.com/
+[panamax]:        http://panamax.io/
+[docker-sandbox]: https://github.com/JoshCheek/miniature-octo-ironman/issues/47
+[moi-css]:        https://github.com/JoshCheek/miniature-octo-ironman/issues/29
+[moi-js]:         https://github.com/JoshCheek/miniature-octo-ironman/issues/28
 
 ## One on Ones (9:00 - 11:00)
 
@@ -192,7 +205,7 @@ Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/ar
 * Sara Simon
 * Jim Sutton
 
-**Audience**: 
+**Audience**:
 
 * Karen Spärck Jones posse
 * Anita Borg posse
