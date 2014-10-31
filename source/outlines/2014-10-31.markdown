@@ -228,7 +228,15 @@ Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/ar
 
 ## 1409: Clone Wars Kickoff (2:30 - 3:00)
 
-* Meet with Jeff in Classroom C to kick off [Clone Wars](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
+Meet with Jeff in Classroom C to kick off [Clone Wars](http://tutorials.jumpstartlab.com/projects/clone_wars.html).
+
+The project is due on November 6 and you'll work in the following groups:
+
+* Alex Jensen & Danny Glunz & Christopher Bynum
+* Gregory Narajka & David Bayendor & Zachary Routhier
+* Herbert Joseph & Chandra Carney & Chase van Hekken
+* Kate Lane & Adam Smith & Victoria Harrod
+* Timothy Mee & Sam Kuhlmann & Travis Yoder & Konr Josef Larson
 
 ## Survey and Individual Retrospective (3:00 - 4:00)
 
