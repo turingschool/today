@@ -21,7 +21,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Technical Blogging
 
-* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered. 
+* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
 
 ### Contribute to the Curriculum
 
@@ -30,6 +30,8 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 * Anything wrong with a tutorial? Go fix it for all the students who come after you!
 
 ### Learn Your Current Tools
+
+**Travis** is running a study group. He'll be in the classroom A workspace by the 3D printer.
 
 * Figure out how to split your windows in your current editor of choice (unless it's TextMate).
 * Does your editor support multiple cursors? Probably. Figure out how to use them.
@@ -62,7 +64,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Contribute to Miniature Octo Ironman
 
-* Interested in playing with [Docker][docker] or [Panamax][panamax]? How about seeing if we can't get a safe Ruby environment to evaluate code in? Jonmichael has already opened up an issue [here][docker-sandbox].
+* Interested in playing with [Docker][docker] or [Panamax][panamax]? How about seeing if we can't get a safe Ruby environment to evaluate code in? **Jonmichael** has already opened up an issue [here][docker-sandbox] and will be hacking on it this morning—find him if you're interested.
 * Got some CSS skills? [Help us out][moi-css]!
 * Found the zen of JavaScript? How about [improving ours][moi-js]!
 
@@ -167,6 +169,8 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 Ernie is currently the Director of Engineering at [nVisium](https://nvisium.com/).
 
 Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/arel), and author of a bunch of useful Ruby gems.
+
+You can submit a question for him [here](https://www.google.com/moderator/#15/e=215b65&t=215b65.40).
 
 * [Website](http://erniemiller.org)
 * [Github](https://github.com/ernie)
