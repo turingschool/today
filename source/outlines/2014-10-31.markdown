@@ -9,15 +9,16 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Join a Study Group
 
-* **Alan** is running a Machine Learning study group. Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data.
-* **Will** is running a Clojure study group. You don't need any experience with Clojure or ClojureScript to participate. Clojure is a Lisp family language developed for the Java Virtual Machine. It has a much stronger emphasis on pure functional programming than Common Lisp, but includes several STM utilities to handle state as it comes up.
+* **Alan** is running a Machine Learning study group. Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data. Wave of the future.
+* **Will** is running a Clojure study group. You don't need any experience with Clojure to participate. Learning a functional language is a mind-expanding experience and will make you a better Rubyist. Clojure has been getting a lot of love from the Ruby community. Join Will and see what all the fuss is about.
+* **Andy** is running a study group on working with geospatial data. Like maps? Locate Andy.
 
 (Let Steve know if you'd like to run a study group.)
 
 ### Contribute to the Curriculum
 
 * Can you add a new extension to a project you've previously completed (e.g. IdeaBox, SalesEngne, etc.)?
-* Is there something you wish was included in a tutorial? Open a pull request or a new issue.
+* Is there something you wish was included in a tutorial? Open a pull request or create a new issue.
 * Anything wrong with a tutorial? Go fix it for all the students who come after you!
 
 ### Learn Your Current Tools
