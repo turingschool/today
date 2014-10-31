@@ -31,7 +31,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Learn Your Current Tools
 
-* **Travis** is running a study group. He'll be in the classroom A workspace by the 3D printer.
+**Travis** is running a study group. He'll be in the classroom A workspace by the 3D printer.
 
 * Figure out how to split your windows in your current editor of choice (unless it's TextMate).
 * Does your editor support multiple cursors? Probably. Figure out how to use them.
@@ -64,7 +64,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Contribute to Miniature Octo Ironman
 
-* Interested in playing with [Docker][docker] or [Panamax][panamax]? How about seeing if we can't get a safe Ruby environment to evaluate code in? Jonmichael has already opened up an issue [here][docker-sandbox].
+* Interested in playing with [Docker][docker] or [Panamax][panamax]? How about seeing if we can't get a safe Ruby environment to evaluate code in? **Jonmichael** has already opened up an issue [here][docker-sandbox] and will be hacking on it this morning—find him if you're interested.
 * Got some CSS skills? [Help us out][moi-css]!
 * Found the zen of JavaScript? How about [improving ours][moi-js]!
 
