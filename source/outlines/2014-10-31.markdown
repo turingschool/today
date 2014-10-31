@@ -21,7 +21,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Technical Blogging
 
-* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
+* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered. 
 
 ### Contribute to the Curriculum
 
