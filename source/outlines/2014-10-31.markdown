@@ -15,6 +15,10 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 (Let Steve know if you'd like to run a study group.)
 
+### Work with a Peer Mentor
+
+* **Robert** has offered to mentor students from 1407, 1409, and 1410. Seek him out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler?
+
 ### Contribute to the Curriculum
 
 * Can you add a new extension to a project you've previously completed (e.g. IdeaBox, SalesEngne, etc.)?
