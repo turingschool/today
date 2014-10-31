@@ -21,7 +21,7 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Technical Blogging
 
-* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered. 
+* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
 
 ### Contribute to the Curriculum
 
@@ -169,6 +169,8 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 Ernie is currently the Director of Engineering at [nVisium](https://nvisium.com/).
 
 Ernie is a contributor to Rails, committer to [Arel](https://github.com/rails/arel), and author of a bunch of useful Ruby gems.
+
+You can submit a question for him [here](https://www.google.com/moderator/#15/e=215b65&t=215b65.40).
 
 * [Website](http://erniemiller.org)
 * [Github](https://github.com/ernie)
