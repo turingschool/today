@@ -239,7 +239,7 @@ The project is due on November 6 and you'll work in the following groups:
 * Herbert Joseph & Danny Glunz & Kate Lane
 * David Bayendor & Zachary Routhier & Christopher Bynum
 * Timothy Mee & Gregory Narajka & Konr Josef Laron
-* Sam Kuhlmann & Alex Jensen & Kalah Cheek
+* Sam Kuhlmann & Alex Jensen
 * Travis Yoder & Chase van Hekken
 * Chandra Carney & Adam Smith & Victoria Harrod
 
