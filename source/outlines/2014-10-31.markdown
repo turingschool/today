@@ -31,6 +31,8 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Learn Your Current Tools
 
+* **Travis** is running a study group. He'll be in the classroom A workspace by the 3D printer.
+
 * Figure out how to split your windows in your current editor of choice (unless it's TextMate).
 * Does your editor support multiple cursors? Probably. Figure out how to use them.
 * Create snippets/macros in your text editor for things you use all of the time.
