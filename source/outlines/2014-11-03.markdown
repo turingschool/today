@@ -1,0 +1,48 @@
+---
+title: 141103
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+### Posse Time (3:00 - 4:00)
+
+### Lightning Talk Preparation (4:05 - 4:45)
+
+## 1406
+
+### Perfomance Metrics Services (9:00 - 10:30)
+
+### Simulating Load (10:30 - 12:00)
+
+### Key/Value Stores (1:00 - 3:00)
+
+## 1407
+
+### Revisiting Authorization Strategies (9:00 - 10:30)
+
+### ActiveRecord Scopes and Queries (10:30 - 12:00)
+
+### The Pivot: Worktime (1:00 - 3:00)
+
+## 1409
+
+### Introduction to SQL (9:00 - 10:30)
+
+### Introduction to Sequel (10:30 - 12:00)
+
+### Acceptance Testing in Capybara (1:00 - 3:00)
+
+## 1410
+
+### Objects and Methods Workshop (9:00 - 12:00)
+
+Rachel will kickoff the workshop with you and be around for questions from 9:00 to 10:30.
+
+From 10:30 onward, Steve will be on hand to answer your questions in ten minite intervals.
+
+### Command and Query Workshop (1:00 - 3:00)
+
+
