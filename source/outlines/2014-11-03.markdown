@@ -46,19 +46,18 @@ Josh Mejia holds the key to your value in Classroom B.
 
 Revisit authorization strategies with Steve in Classroom B.
 
-Let's discuss the following:
+Resources:
 
-* Brief review of role-based authentication and CanCan.
-* Why that doesn't work for multi-tenant applications.
-* Figuring out an alternative approach.
-* Creating granular authorization logic.
-* Implementing authorization on Ruby object.
-* Implementing authorization on our data.
-* Authoization based on scopes.
+* [Slides](https://www.dropbox.com/sh/iwlgfajecdr3bt1/AAAgVD8WrTvcQMbuLBsNyuApa?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/revisiting_authorization_for_multitenant_applications.markdown)
+* [Tutorial Activity](http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html)
 
 Try your hand at implementing per-user scoping [by working through a branch of Storedom in the following pairs](http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html):
 
-
+* Jim Sutton and Kavita Sachdeva
+* Luke Aiken and Ian Andersen
+* Sara Simon and Aaron Paul Wortham
+* Glen Egbert, Jessica Goulding, and Rolando Navarrete
 
 ### ActiveRecord Scopes and Queries (10:30 - 12:00)
 
