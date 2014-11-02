@@ -15,12 +15,13 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 ### Posse Time
 
-#### Administrative Business (3:00-3:10)
-
-* Setup pairing appointments
-* Send an email from all the students to your mentors about what's going on with
-you this week
-* Complete any other coordination tasks you have pending
+* Share a project or assignment that you're working on
+* Update your mentors through email or a blog post
+* Schedule intra-posse peer-mentoring times (schedule permitting)
+* Posse refactoring and code review:
+  * 1406, 1407, 1409: Can you help a 1410 student refactor an exercise from [Objects and Methods][oam] or [Command and Query][caq]?
+  * 1406, 1407: Can you help a 1409 with a code review of their Ideabox?
+  * 1406: Can you help a 1407 student out with a code review of a particular feature in The Pivot?
 
 ### Lightning Talk Preparation (4:05 - 4:45)
 
@@ -87,7 +88,9 @@ Meet in Clasroom C. Bring a net.
 
 ### Objects and Methods Workshop (9:00 - 12:00)
 
-Rachel will kickoff the [Objects and Methods workshop](http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html) with you and be around for questions from 9:00 to 10:30.
+Rachel will kickoff the [Objects and Methods workshop][oam] with you and be around for questions from 9:00 to 10:30.
+
+[oam]: http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html
 
 Meet with her in the big workspace to get things rolling and then disperse.
 
@@ -95,4 +98,6 @@ From 10:30 onward, Steve will be on hand to answer your questions in ten minute 
 
 ### Command and Query Workshop (1:00 - 3:00)
 
-Horace will help you kick off another series of challenges: [Command and Query](https://github.com/turingschool/ruby-exercises/tree/master/command-query).
+Horace will help you kick off another series of challenges: [Command and Query][caq].
+
+[caq]: https://github.com/turingschool/ruby-exercises/tree/master/command-query
