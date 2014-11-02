@@ -13,7 +13,7 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 * What are some of the advantages of this approach?
 * What are some potential problems that arise from this approach?
 
-### Posse Time (3:00 - 4:00)
+### Posse Time
 
 #### Administrative Business (3:00-3:10)
 
@@ -45,6 +45,20 @@ Josh Mejia holds the key to your value in Classroom B.
 ### Revisiting Authorization Strategies (9:00 - 10:30)
 
 Revisit authorization strategies with Steve in Classroom B.
+
+Let's discuss the following:
+
+* Brief review of role-based authentication and CanCan.
+* Why that doesn't work for multi-tenant applications.
+* Figuring out an alternative approach.
+* Creating granular authorization logic.
+* Implementing authorization on Ruby object.
+* Implementing authorization on our data.
+* Authoization based on scopes.
+
+Try your hand at implementing per-user scoping [by working through a branch of Storedom in the following pairs](http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html):
+
+
 
 ### ActiveRecord Scopes and Queries (10:30 - 12:00)
 
