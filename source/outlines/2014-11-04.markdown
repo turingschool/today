@@ -1,0 +1,129 @@
+---
+title: 141104
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Work Time and Check-ins (9:00-12:00)
+
+Jorge will be around all morning for questions.
+
+Jeff will be doing brief client meetings:
+
+* 10:00am: Travel Hub
+* 10:20am: Hot Streak
+* 10:40am: Tone Line
+* 11:00am: Snow Meat
+
+## 1407
+
+### Work Time and Check-ins (9:00-12:00)
+
+Jorge will be around all morning for questions.
+
+Jeff will be doing quick check-ins starting at 11:30. Meet him by the three-dimensional printer.
+
+* 11:30: Airlift
+* 11:40: Gallery 
+* 11:50: Dope Threads
+
+### Auditing & Improving the Security of Rails Applications (1:00-2:30)
+
+Join Steve in Classroom B.
+
+This afternoon, you'll be conducting a security audit on your colleague's applications using `breakman`.
+
+1. Install Brakeman using `gem install brakeman`.
+2. Clone the repository.
+3. Create issues on your colleague's repository outlining the nature of each issue that Brakeman alerts you to.
+4. Fork the repository and try to solve the issue as a pair.
+5. Submit a pull request for a code review.
+
+### Revisiting ActiveRecord Relationships (2:30-4:00)
+
+Join Josh Mejia in Classroom B.
+
+We'll be discussing:
+
+* A recap of one-to-one, one-to-many, and many-to-many
+* Polymorphic relationships in ActiveRecord
+
+## 1409
+
+## 1410
+
+### Diagnostics
+
+#### With Josh Mejia
+
+* 9:00 - 9:30: Alexandra Robinson
+* 9:30 - 10:00: Emily Berkeley
+* 10:00 - 10:30: Bhargavi Satpathy
+* 10:30 - 11:00: Bryce Holcomb
+* 11:00 - 11:30: Lydia Shafer
+* 11:30 - 12:00: Orion Osborn
+
+#### With Rachel
+
+* 9:00 - 9:30: Kalah Cheek
+* 9:30 - 10:00: Michael Dao
+* 10:00 - 10:30: Christopher Luhring
+* 10:30 - 11:00: Rich Shea
+* 11:00 - 11:30: Edward McCarthy
+* 11:30 - 12:00: Lori Culberson
+
+#### With Josh Cheek
+
+* 9:00 - 9:30: Dustin Gault
+* 9:30 - 10:00: Jeffrey Wan
+* 10:00 - 10:30: Juan Manuel Navarro
+* 10:30 - 11:00: Nathan Owsiany
+* 11:00 - 11:30: Laura Whalin
+* 11:30 - 12:00: Brandon Mrsny
+
+#### With Horace
+
+* 9:00 - 9:30: Scott Crawford
+* 9:30 - 10:00: Krista A Nelson
+* 10:00 - 10:30: Kit Pearson
+* 10:30 - 11:00: Andrew Overby
+
+### Ideabox TDD (9:00-12:00)
+
+Use Classroom A to complete this exercise. Sorry that, because of assessments,
+there won't be anyone dedicated to questions during your work time.
+
+It's time to start your most sizable tutorial yet,
+[IdeaBox-TDD](http://tutorials.jumpstartlab.com/academy/workshops/ideabox/tdd_minitest.html).
+
+Please spend the morning working on it with the pair below and finish it by
+the start of the day tomorrow.
+
+#### Pairs
+
+### Enumerable Methods (1:00-4:00)
+
+Start in Classroom A with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown). 
+
+#### Introduction
+
+Then let's have a quick chat about the overarching concepts behind the Enumerable methods.
+
+* Programming is about collections
+* *Iterating* over a collection: `each`, `map`/`collect`, `inject`, `sort_by`
+* *Filtering* a collection: `select`, `detect`, `min`, `max`
+* Typically take a block and run it once for each element
+* The right enumerable method can save you time/effort
+* But everything can be done with `each`
+
+#### Exercises in Pairs
+
+Once we've finished the group discussion you should dive into
+[these enumerable exercises](https://github.com/JumpstartLab/enums-exercises)
+
+Working in the following pairs:
+
+#### Pairs
