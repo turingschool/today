@@ -7,42 +7,79 @@ layout: outline
 
 ### Warm-Up (8:30 - 8:50)
 
+Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
+
+* Is this an approach you would use in your code?
+* What are some of the advantages of this approach?
+* What are some potential problems that arise from this approach?
+
 ### Posse Time (3:00 - 4:00)
 
+#### Administrative Business (3:00-3:10)
+
+* Setup pairing appointments
+* Send an email from all the students to your mentors about what's going on with
+you this week
+* Complete any other coordination tasks you have pending
+
 ### Lightning Talk Preparation (4:05 - 4:45)
+
+*Liiiightning taaaalkers*: Meet up with Jorge in Classroom A.
 
 ## 1406
 
 ### Perfomance Metrics Services (9:00 - 10:30)
 
+Bask in the skylight with Jorge in Classroom C.
+
 ### Simulating Load (10:30 - 12:00)
 
+Horace will help you imagine a world where you have a million users in Classroom C.
+
 ### Key/Value Stores (1:00 - 3:00)
+
+Josh Mejia holds the key to your value in Classroom B.
 
 ## 1407
 
 ### Revisiting Authorization Strategies (9:00 - 10:30)
 
+Revisit authorization strategies with Steve in Classroom B.
+
 ### ActiveRecord Scopes and Queries (10:30 - 12:00)
 
+Sit tight as Rachel swings by to talk about some advanced ActiveRecord query techniques (including scopes).
+
 ### The Pivot: Worktime (1:00 - 3:00)
+
+Steve is on hand to help you [pivot](https://www.youtube.com/watch?v=w5DHU8SwYJ0).
 
 ## 1409
 
 ### Introduction to SQL (9:00 - 10:30)
 
+Meet up with Jeff in Classroom A to talk working with relational databases with SQL.
+
 ### Introduction to Sequel (10:30 - 12:00)
 
+Stick around with Jeff to learn about [Sequel](http://sequel.jeremyevans.net), a more Ruby way of working with SQL.
+
 ### Acceptance Testing in Capybara (1:00 - 3:00)
+
+Jorge will introduce you to the world's largest rodent: [The Capybara](http://en.wikipedia.org/wiki/Capybara).
+
+Meet in Clasroom C. Bring a net.
 
 ## 1410
 
 ### Objects and Methods Workshop (9:00 - 12:00)
 
-Rachel will kickoff the workshop with you and be around for questions from 9:00 to 10:30.
+Rachel will kickoff the [Objects and Methods workshop](http://tutorials.jumpstartlab.com/academy/workshops/objects_and_methods.html) with you and be around for questions from 9:00 to 10:30.
 
-From 10:30 onward, Steve will be on hand to answer your questions in ten minite intervals.
+Meet with her in the big workspace to get things rolling and then disperse.
+
+From 10:30 onward, Steve will be on hand to answer your questions in ten minute intervals.
 
 ### Command and Query Workshop (1:00 - 3:00)
 
-
+Horace will help you kick off another series of challenges: [Command and Query](https://github.com/turingschool/ruby-exercises/tree/master/command-query).
