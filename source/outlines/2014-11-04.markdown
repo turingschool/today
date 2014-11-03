@@ -18,11 +18,17 @@ Jeff will be doing brief client meetings:
 * 10:40am: Tone Line
 * 11:00am: Snow Meat
 
+### Key-Based Caching (1:00 - 4:00)
+
+Meet with Jeff in Classroom A.
+
 ## 1407
 
 ### Work Time and Check-ins (9:00-12:00)
 
 Jorge will be around all morning for questions.
+
+Horace will be around for questions from 11:00 to 12:00 as well.
 
 Jeff will be doing quick check-ins starting at 11:30. Meet him by the three-dimensional printer.
 
@@ -42,6 +48,12 @@ This afternoon, you'll be conducting a security audit on your colleague's applic
 4. Fork the repository and try to solve the issue as a pair.
 5. Submit a pull request for a code review.
 
+#### Extension: Auditing the Performance of Your Database Queries
+
+Use the `bullet` gem to conduct an audit of your database queries. `bullet` alerts you to suboptimal database queries.
+
+* [Bullet](https://github.com/flyerhzm/bullet)
+
 ### Revisiting ActiveRecord Relationships (2:30-4:00)
 
 Join Josh Mejia in Classroom B.
@@ -52,6 +64,26 @@ We'll be discussing:
 * Polymorphic relationships in ActiveRecord
 
 ## 1409
+
+### HTTP Basic Authentication (9:00 - 10:00)
+
+Join Jeff in Classroom B to talk about HTTP Basic Authentication.
+
+### View Templating (10:00 - 12:00)
+
+Stick around in Classroom B to talk about the inner workings of view templating in Ruby and Sinatra.
+
+### Clone Wars Work Time and Check-ins (1:00 - 4:00)
+
+You'll have some time to work on your Clone Wars project.
+
+You'll also have checkins with Josh Cheek:
+
+* 1:00 - 1:30: Herbert Joseph & Danny Glunz & Kate Lane
+* 1:30 - 2:00: Travis Yoder & Chase van Hekken & Zachary Routhier
+* 2:30 - 3:00: Sam Kuhlmann & Alex Jensen & David Bayendor
+* 3:00 - 3:30: Chandra Carney & Adam Smith & Victoria Harrod
+* 3:30 - 4:00: Timothy Mee & Gregory Narajka & Konr Josef Laron
 
 ## 1410
 
@@ -104,6 +136,18 @@ the start of the day tomorrow.
 
 #### Pairs
 
+* Andrew Overby and Christopher Luhring
+* Alexandra Robinson and Jeffrey Wan
+* Scott Crawford and Michael Dao
+* Edward McCarthy and Kalah Cheek
+* Nathan Owsiany and Brandon Mrsny
+* Emily Berkeley and Kit Pearson
+* Bryce Holcomb and Lori Culberson
+* Rich Shea and Laura Whalin
+* Krista A Nelson and Dustin Gault
+* Juan Manuel Navarro and Lydia Shafer
+* Orion Osborn and Bhargavi Satpathy
+
 ### Enumerable Methods (1:00-4:00)
 
 Start in Classroom A with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown). 
@@ -127,3 +171,15 @@ Once we've finished the group discussion you should dive into
 Working in the following pairs:
 
 #### Pairs
+
+* Andrew Overby and Krista A Nelson
+* Brandon Mrsny and Rich Shea
+* Nathan Owsiany and Orion Osborn
+* Scott Crawford and Bryce Holcomb
+* Kit Pearson and Jeffrey Wan
+* Edward McCarthy and Juan Manuel Navarro
+* Michael Dao and Emily Berkeley
+* Lydia Shafer and Christopher Luhring
+* Bhargavi Satpathy and Lori Culberson
+* Alexandra Robinson and Dustin Gault
+* Laura Whalin and Kalah Cheek
