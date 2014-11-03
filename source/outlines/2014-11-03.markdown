@@ -73,10 +73,35 @@ Steve is on hand to help you [pivot](https://www.youtube.com/watch?v=w5DHU8SwYJ0
 ### Introduction to SQL (9:00 - 10:30)
 
 Meet up with Jeff in Classroom A to talk working with relational databases with SQL.
+Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+
+#### Pairings
+
+* Timothy Mee & Danny Glunz
+* Victoria Harrod & Adam Smith
+* David Bayendor & Alex Jensen
+* Gregory Narajka & Kalah Cheek
+* Travis Yoder & Herbert Joseph
+* Chandra Carney & Kate Lane
+* Sam Kuhlmann & Zachary Routhier
+* Chase van Hekken & Konr Josef Laron
 
 ### Introduction to Sequel (10:30 - 12:00)
 
-Stick around with Jeff to learn about [Sequel](http://sequel.jeremyevans.net), a more Ruby way of working with SQL.
+Next we'll move on to the Sequel library. Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+
+#### Pairings
+
+* David Bayendor & Chase van Hekken
+* Adam Smith & Kalah Cheek
+* Gregory Narajka & Timothy Mee
+* Konr Josef Laron & Kate Lane
+* Sam Kuhlmann & Danny Glunz
+* Herbert Joseph & Chandra Carney
+* Victoria Harrod & Travis Yoder
+* Alex Jensen & Zachary Routhier
 
 ### Acceptance Testing in Capybara (1:00 - 3:00)
 
