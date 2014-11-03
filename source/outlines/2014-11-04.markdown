@@ -105,6 +105,8 @@ You'll also have checkins with Josh Cheek:
 
 ### Diagnostics
 
+[Mythical Creatures diagnostic](http://tutorials.jumpstartlab.com/academy/assessments/mythical_creatures.html)
+
 #### With Josh Mejia
 
 * 9:00 - 9:30: Alexandra Robinson
