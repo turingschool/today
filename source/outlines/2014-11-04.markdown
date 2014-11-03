@@ -5,6 +5,22 @@ layout: outline
 
 ## All
 
+### Warm-Up (8:30 - 8:50)
+
+Take a look at the text for [The Cat in the Hat](https://gist.github.com/stevekinney/d60c17fdcfb258f6d416).
+
+* Can you parse it to figure out how many times each word appears in the story?
+  * Which word appears the most?
+  * How many words are there in total?
+* Did you consider capitalization?
+* What about punctuation?
+* What about spacing?
+* Can you solve in JavaScript? Go? C? Assembly?
+
+### Lightning Talkers (4:05 - 4:45)
+
+Meet with Jorge to talk about lightning.
+
 ## 1406
 
 ### Work Time and Check-ins (9:00-12:00)
@@ -16,7 +32,7 @@ Jeff will be doing brief client meetings:
 * 10:00am: Travel Hub
 * 10:20am: Hot Streak
 * 10:40am: Tone Line
-* 11:00am: Snow Meat
+* 11:00am: Snowcial
 
 ### Key-Based Caching (1:00 - 4:00)
 
