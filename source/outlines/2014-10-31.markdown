@@ -237,10 +237,9 @@ Meet with Jeff in Classroom C to kick off [Clone Wars](http://tutorials.jumpstar
 The project is due on November 6 and you'll work in the following groups:
 
 * Herbert Joseph & Danny Glunz & Kate Lane
-* David Bayendor & Zachary Routhier & Christopher Bynum
 * Timothy Mee & Gregory Narajka & Konr Josef Laron
-* Sam Kuhlmann & Alex Jensen
-* Travis Yoder & Chase van Hekken
+* Sam Kuhlmann & Alex Jensen & David Bayendor
+* Travis Yoder & Chase van Hekken & Zachary Routhier
 * Chandra Carney & Adam Smith & Victoria Harrod
 
 ## Survey and Individual Retrospective (3:00 - 4:00)

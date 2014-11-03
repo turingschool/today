@@ -78,14 +78,13 @@ Find the
 
 #### Pairings
 
-* Timothy Mee & Danny Glunz
-* Victoria Harrod & Adam Smith
-* David Bayendor & Alex Jensen
-* Gregory Narajka & Kalah Cheek
-* Travis Yoder & Herbert Joseph
-* Chandra Carney & Kate Lane
-* Sam Kuhlmann & Zachary Routhier
-* Chase van Hekken & Konr Josef Laron
+* Adam Smith & David Bayendor
+* Sam Kuhlmann & Konr Josef Laron
+* Zachary Routhier & Gregory Narajka
+* Chandra Carney & Alex Jensen
+* Travis Yoder & Danny Glunz
+* Herbert Joseph & Chase van Hekken
+* Timothy Mee & Victoria Harrod & Kate Lane
 
 ### Introduction to Sequel (10:30 - 12:00)
 
@@ -94,14 +93,13 @@ Next we'll move on to the Sequel library. Find the
 
 #### Pairings
 
-* David Bayendor & Chase van Hekken
-* Adam Smith & Kalah Cheek
-* Gregory Narajka & Timothy Mee
-* Konr Josef Laron & Kate Lane
-* Sam Kuhlmann & Danny Glunz
-* Herbert Joseph & Chandra Carney
-* Victoria Harrod & Travis Yoder
-* Alex Jensen & Zachary Routhier
+* Sam Kuhlmann & Zachary Routhier
+* Chase van Hekken & Danny Glunz
+* Gregory Narajka & Travis Yoder
+* Adam Smith & Chandra Carney
+* Victoria Harrod & Herbert Joseph
+* Konr Josef Laron & Alex Jensen
+* Kate Lane & Timothy Mee & David Bayendor
 
 ### Acceptance Testing in Capybara (1:00 - 3:00)
 
