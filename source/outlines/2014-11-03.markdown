@@ -13,7 +13,7 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 * What are some of the advantages of this approach?
 * What are some potential problems that arise from this approach?
 
-### Posse Time
+### Posse Time (3:00 - 4:00)
 
 * Share a project or assignment that you're working on
 * Update your mentors through email or a blog post
