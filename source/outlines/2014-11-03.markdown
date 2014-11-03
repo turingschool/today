@@ -40,6 +40,8 @@ Horace will help you imagine a world where you have a million users in Classroom
 ### Key/Value Stores (1:00 - 3:00)
 
 Josh Mejia holds the key to your value in Classroom B.
+[Tutorial](http://tutorials.jumpstartlab.com/topics/performance/caching_data.html)
+[Github Repo](https://github.com/JumpstartLab/blogger_advanced)
 
 ## 1407
 
