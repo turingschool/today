@@ -123,4 +123,18 @@ From 10:30 onward, Steve will be on hand to answer your questions in ten minute 
 
 Horace will help you kick off another series of challenges: [Command and Query][caq].
 
+After working through the initial example together, we'll work through the remaining ones in these pairs:
+
+* Alexandra Robinson & Juan Manuel Navarro
+* Andrew Overby & Chris Luhring
+* Kit Pearson & Orion Osborn
+* Brandon Mrsny & Nathan Owsiany
+* Edward McCarthy & Kalah Cheek
+* Dustin Gault & Emily Berkeley
+* Lori Culberson & Michael Dao
+* Bhargavi Satpathy & Jeffrey Wan
+* Bryce Holcomb & Laura Whalin
+* Rich Shea & Scott Crawford
+* Lydia Shafer & Krista A Nelson
+
 [caq]: https://github.com/turingschool/ruby-exercises/tree/master/command-query
