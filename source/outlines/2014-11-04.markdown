@@ -87,7 +87,7 @@ Clone the [Storedom](https://github.com/turingschool-examples/storedom) repo for
 
 ### HTTP Basic Authentication (9:00 - 10:00)
 
-Join Jeff in Classroom B to talk about HTTP Basic Authentication.
+Join Jeff in Classroom B to talk about HTTP Basic Authentication. Here's the [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/http_auth.markdown).
 
 ### View Templating (10:00 - 12:00)
 
