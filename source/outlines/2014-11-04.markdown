@@ -27,6 +27,8 @@ Meet with Jorge to talk about lightning.
 
 Jorge will be around all morning for questions.
 
+Horace will also be around for questions from 11:00-12:00.
+
 Jeff will be doing brief client meetings:
 
 * 10:00am: Travel Hub
@@ -36,7 +38,7 @@ Jeff will be doing brief client meetings:
 
 ### Key-Based Caching (1:00 - 4:00)
 
-Meet with Jeff in Classroom A. Here the [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
+Meet with Jeff in Classroom A.
 
 ## 1407
 
@@ -49,7 +51,7 @@ Horace will be around for questions from 11:00 to 12:00 as well.
 Jeff will be doing quick check-ins starting at 11:30. Meet him by the three-dimensional printer.
 
 * 11:30: Airlift
-* 11:40: Gallery
+* 11:40: Gallery 
 * 11:50: Dope Threads
 
 ### Auditing & Improving the Security of Rails Applications (1:00-2:30)
@@ -84,7 +86,6 @@ We'll be discussing:
 ### HTTP Basic Authentication (9:00 - 10:00)
 
 Join Jeff in Classroom B to talk about HTTP Basic Authentication.
-Here's the [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/http_auth.markdown).
 
 ### View Templating (10:00 - 12:00)
 
@@ -179,7 +180,7 @@ the start of the day tomorrow.
 
 ### Enumerable Methods (1:00-4:00)
 
-Start in Classroom A with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown).
+Start in Classroom A with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown). 
 
 #### Introduction
 
