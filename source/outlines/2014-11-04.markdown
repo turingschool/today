@@ -42,7 +42,8 @@ Meet with Jeff in Classroom A. Here is the [lesson plan](https://github.com/turi
 
 ### Improving Database Query Performance (2:30 - 4:00)
 
-Continue with Jeff in Classroom A to learn about database optimization
+Continue with Jeff in Classroom A to learn about database optimization.
+We'll [use this tutorial](http://tutorials.jumpstartlab.com/topics/performance/queries.html).
 
 ## 1407
 
