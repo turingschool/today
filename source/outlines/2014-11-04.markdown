@@ -36,7 +36,7 @@ Jeff will be doing brief client meetings:
 
 ### Key-Based Caching (1:00 - 4:00)
 
-Meet with Jeff in Classroom A.
+Meet with Jeff in Classroom A. Here the [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
 
 ## 1407
 
