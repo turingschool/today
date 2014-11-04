@@ -89,6 +89,16 @@ Join Jeff in Classroom B to talk about HTTP Basic Authentication.
 
 Stick around in Classroom B to talk about the inner workings of view templating in Ruby and Sinatra with Steve.
 
+We'll working with [this repository](https://github.com/turingschool-examples/feel-good-bot) and you'll be working in the following pairs.
+
+* Adam Smith and Chase van Hekken
+* Danny Glunz and David Bayendor
+* Timothy Mee and Sam Kuhlmann
+* Chandra Carney and Kate Lane
+* Konr Josef Larson and Victoria Harrod
+* Herbert Joseph and Travis Yoder
+* Zachary Routhier, Gregory Narajka, and Alex Jensen
+
 ### Clone Wars Work Time and Check-ins (1:00 - 4:00)
 
 You'll have some time to work on your Clone Wars project.
@@ -105,7 +115,7 @@ You'll also have checkins with Josh Cheek:
 
 ### Diagnostics
 
-[Mythical Creatures diagnostic](http://tutorials.jumpstartlab.com/academy/assessments/mythical_creatures.html)
+You'll be working though the [Mythical Creatures diagnostic](http://tutorials.jumpstartlab.com/academy/assessments/mythical_creatures.html) with an instructor based on the following schedule.
 
 #### With Josh Mejia
 
