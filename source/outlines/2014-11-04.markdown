@@ -81,6 +81,8 @@ We'll be discussing:
 * A recap of one-to-one, one-to-many, and many-to-many
 * Polymorphic relationships in ActiveRecord
 
+Clone the [Storedom](https://github.com/turingschool-examples/storedom) repo for a series of exercises.
+
 ## 1409
 
 ### HTTP Basic Authentication (9:00 - 10:00)
