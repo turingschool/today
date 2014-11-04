@@ -71,9 +71,16 @@ This afternoon, you'll be conducting a security audit on your colleague's applic
 4. Fork the repository and try to solve the issue as a pair.
 5. Submit a pull request for a code review.
 
+You'll work in the following pairs:
+
+* Rolando Navarrete and Kavita Sachdeva looking at Gallery
+* Jim Sutton and Sara Simon looking at Dope Threads
+* Luke Aiken, Glen Egbert and Ian Andersen looking at Airlift
+* Jessica Goulding and Aaron Paul Worthan looking at Dope Threads
+
 #### Extension: Auditing the Performance of Your Database Queries
 
-Use the `bullet` gem to conduct an audit of your database queries. `bullet` alerts you to suboptimal database queries.
+Use the `bullet` gem to conduct an audit of the database queries. `bullet` alerts you to suboptimal database queries.
 
 * [Bullet](https://github.com/flyerhzm/bullet)
 
@@ -187,7 +194,7 @@ the start of the day tomorrow.
 
 ### Enumerable Methods (1:00-4:00)
 
-Start in Classroom A with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown).
+Start in Classroom C with Rachel. Lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown).
 
 #### Introduction
 
