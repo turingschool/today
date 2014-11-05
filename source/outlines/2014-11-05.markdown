@@ -77,7 +77,7 @@ Stay in Classroom C to learn about the Phone Book tutorial you'll be completing 
 
 ### Phone Book with CSVs (1:00 - 4:00)
 
-Meet with Rachel and Horace slice and dice some CSVs in Classroom A.
+Use the Classroom A workspace to complete the [phone book CSV tutorial](http://tutorials.jumpstartlab.com/academy/workshops/phonebook-csv-tdd/phone_book_i.html) in pairs. 
 
 * Scott Crawford and Christopher Luhring
 * Lori Culberson and Rich Shea
