@@ -40,9 +40,32 @@ Jeff will be doing brief client meetings:
 
 Meet with Jeff in Classroom A. Here is the [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
 
+#### Pairings
+
+* Will Faurot & Emily Davis
+* Allison Larson & Horacio Chavez
+* Andy Mention & Tan Doan
+* Marc Garreau & Chad Brading
+* Andrew Watkins & Hilary Denton
+* Tim Proctor & Jonmichael Chambers
+* Robert Gu & Corey Davis
+* Eric Fransen & Gustavo Villagrana & Alan Smith
+
 ### Improving Database Query Performance (2:30 - 4:00)
 
-Continue with Jeff in Classroom A to learn about database optimization
+Continue with Jeff in Classroom A to learn about database optimization.
+We'll [use this tutorial](http://tutorials.jumpstartlab.com/topics/performance/queries.html).
+
+#### Pairings
+
+* Tan Doan & Horacio Chavez
+* Allison Larson & Will Faurot
+* Eric Fransen & Robert Gu
+* Marc Garreau & Alan Smith
+* Chad Brading & Tim Proctor
+* Andy Mention & Emily Davis
+* Andrew Watkins & Jonmichael Chambers
+* Corey Davis & Gustavo Villagrana & Hilary Denton
 
 ## 1407
 
