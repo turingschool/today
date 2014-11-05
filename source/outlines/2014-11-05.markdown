@@ -26,6 +26,17 @@ Find the sum of the digits in the number 100!
 
 Meet with Steve in Classroom A to talk about pub/sub on the back end. (We'll cover the front end next week.)
 
+You'll work in the following pairs:
+
+* Emily Davis and Jonmichael Chambers
+* Allison Larson and Andy Mention
+* Horacio Chavez and Hilary Denton
+* Eric Fransen and Will Faurot
+* Robert Gu and Tim Proctor
+* Alan Smith and Andrew Watkins
+* Marc Garreau and Chad Brading
+* Tan Doan and Gustavo Villagrana and Corey Davis
+
 ### Feed Engine Work Time (1:00 - 4:00)
 
 Josh Mejia is on hand to help you feed the engines.
