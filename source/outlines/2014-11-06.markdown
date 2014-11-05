@@ -1,0 +1,121 @@
+---
+title: 141106
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Thursday is JavaScript day!
+
+Given the following two arrays:
+
+```js
+var firstList = ["A", "B", "C", "D", "E", "F"];
+var secondList = ["C", "E", "F"];
+```
+
+Write a function that removes all of the elements in the `secondList` from the `firstList`.
+
+The result should be `["A", "B", "D"]`.
+
+## 1406
+
+### Feed Engine Work Time (9:00 - 12:00)
+
+You'll have check=ins with Jeff at the following times:
+
+* 10:15 - 10:35: Tone Line
+* 10:40 - 11:00: Hot Streak
+* 11:05 - 11:25: Snowcial
+* 11:30 - 11:50: Travel Hub
+
+Jorge and Steve are around for questions.
+
+### Feed Engine Work Time (1:00 - 4:00)
+
+Josh Cheek is on hand for questions.
+
+## 1407
+
+### The Pivot: Check Point #2 (9:00 - 12:00)
+
+Meet with your client (i.e. Jeff):
+
+* 9:00 - 9:20: Dope Threads
+* 9:25 - 9:45: Gallery
+* 9:50 - 10:10: Airlift
+
+Jorge is around for questions.
+
+### The Pivot Work Time (1:00 - 4:00)
+
+Josh Cheek is on hand for questions.
+
+## 1409
+
+### Clone Wars Evaluations (9:00 - 12:00)
+
+### With Horace
+
+* 9:00 - 10:00: Sam Kuhlmann & Alex Jensen & David Bayendor
+* 10:00 - 11:00: Herbert Joseph & Danny Glunz & Kate Lane
+* 11:00 - 12:00: Travis Yoder & Chase van Hekken & Zachary Routhier
+
+#### With Josh Mejia
+
+* 9:00 - 10:00: Timothy Mee & Gregory Narajka & Konr Josef Laron
+* 10:00 - 11:00: Chandra Carney & Adam Smith & Victoria Harrod
+
+### Clone Wars Recap and Refactor (1:00 - 2:30)
+
+### Cross-Cohort Pairing (2:30 - 4:00)
+
+*A quick note about running JavaScript from the command line*: The easiest way to do this is to download and install [Node.js](http://nodejs.org/). Once you have Node installed, you can write your application in a `script.js` (the name is not important) and run it using `node script.js`—just like Ruby!
+
+This afternoon, you'll work in pairs/triplets with colleagues from another cohort. Let's try the following challenges *in JavaScript*:
+
+**Solve FizzBuzz in JavaScript**: Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+**A car, a man, a maraca**: Write a function that checks if a given string is a palindrome. A palindrome is a word or sentence that has the same letters in both directions.
+
+The following are palindromes and your function should return true if it receives them:
+
+* Racecar
+* A car, a man, a maraca.
+* Borrow or rob?
+* Cigar? Toss it in a can. It is so tragic.
+* Dr. Awkward
+
+You'll work in the following groups:
+
+* David Bayendor and Rich Shea and Alexandra Robinson
+* Adam Smith and Laura Whalin
+* Travis Yoder and Jeffrey Wan and Andrew Overby
+* Chase van Hekken and Bryce Holcomb
+* Konr Josef Larson and Lori Culberson
+* Sam Kuhlmann and Nathan Owsiany and Lydia Shafer
+* Kate Lane and Emily Berkeley and Dustin Gault
+* Victoria Harrod and Edward McCarthy
+* Chandra Carney and Michael Dao
+* Zachary Routhier and Kalah Cheek
+* Alex Jensen and Orion Osborn and Chris Luhring
+* Gregory Narajka and Bhargavi Satpathy'
+* Timothy Mee and Krista A Nelson
+* Brandon Mrsny and Danny Glunz and Scott Crawford
+* Herbert Joseph and Kit Pearson and Juan Manuel Navarro
+
+## 1410
+
+### Ruby's Object Model (9:00 - 12:00)
+
+Join Josh Cheek in Classroom A to talk about Ruby's object model.
+
+### Encapsulation and Separation of Responsibility (1:00 - 2:30)
+
+Join Rachel in Classroom C to separate your responsibilities.
+
+### Cross-Cohort Pairing (2:30 - 4:00)
+
+Take a look under the 1409 schedule.
