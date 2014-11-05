@@ -5,10 +5,131 @@ layout: outline
 
 ## All
 
-## 1406
+### Self-Study (9:00 - 11:00)
 
-## 1407
+This morning, please _respect the Friday_ and do not work on your project. You should, instead, choose one or more of the following:
 
-## 1409
+### Join a Study Group
 
-## 1410
+* **Will and Andy** are running a study group on [Tmux][tmux] and [Vim][]. Seek them out if you want to become a command line wizard.
+* **David and Travis** are running a [Github][] study group—this session is *highly recommended* for 1410.
+
+[Github]: http://github.com
+[tmux]: http://tmux.sourceforge.net/
+[Vim]: http://www.vim.org/
+
+(Let Steve know if you'd like to run a study group.)
+
+### Work with a Peer Mentor
+
+* **Robert, Jonmichael, Watts, and Will** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
+
+### Technical Blogging
+
+* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
+
+Submit a pull request here with [information about your post](https://github.com/turingschool/student_blogging).
+
+### Experiment with New Tools
+
+* Consider taking [Vim][] for a spin. Not into Vim? What about TextMate, Emacs, Chocolate?
+* Level up your git skills with Scott Chacon's [_Pro Git_](http://git-scm.com/book/en/v2).
+* Try out a visual git tool like [Github for Mac][ghfm], [GitX][gitx], [Tower][].
+* Find a tool that allows you to use multiple clipboards ([Keyboard Maestro][km], [Flycut][fc]).
+* Play with [RubyMine][rm]—a Ruby/Rails IDE.
+
+[ghfm]: https://mac.github.com
+[gitx]: http://gitx.frim.nl
+[fc]: https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12
+[km]: http://www.keyboardmaestro.com/main/
+[Tower]: http://www.git-tower.com
+[rm]: https://www.jetbrains.com/ruby/
+
+## One-on-Ones
+
+### With Jeff
+
+* 9:00 - 9:15: Edward McCarthy
+* 9:15 - 9:30: Dustin Gault
+* 9:30 - 9:45: Timothy Mee
+* 9:45 - 10:00: Chase van Hekken
+* 10:00 - 10:15: Victoria Harrod
+* 10:15 - 10:30: Herbert Joseph
+* 10:30 - 10:45 Alexandra Robinson
+* 10:45 - 11:00: David Bayendor
+
+### With Josh Cheek
+
+* 9:00 - 9:15: Jeffrey Wan
+* 9:15 - 9:30: Kit Pearson
+* 9:30 - 9:45: Kavita Sachdeva
+* 9:45 - 10:00: Christopher Luhring
+* 10:00 - 10:15: Travis Yoder
+* 10:15 - 10:30: Krista Nelson
+* 10:30 - 10:45 Aaron Paul Wortham
+* 10:45 - 11:00: Chandra Carney
+
+### With Jorge
+
+* 9:00 - 9:15: Ian Andersen
+* 9:15 - 9:30: Gregory Narajka
+* 9:30 - 9:45: Marc Garreau
+* 9:45 - 10:00: Konr Josef Larson
+* 10:00 - 10:15: Michael Dao
+* 10:15 - 10:30: Tan Doan
+* 10:30 - 10:45 Kate Lane
+* 10:45 - 11:00: Scott Crawford
+
+### With Josh Mejia
+
+* 9:00 - 9:15: Adam Smith
+* 9:15 - 9:30: Bryce Holcomb
+* 9:30 - 9:45: Juan Manuel Navarro
+* 9:45 - 10:00: Lori Culberson
+* 10:00 - 10:15: Luke Aiken
+* 10:15 - 10:30: Lydia Shafer
+* 10:30 - 10:45 Rolando Navarrete
+* 10:45 - 11:00: Gustavo Villagrana
+
+### With Steve
+
+* 9:00 - 9:15: Jessica Goulding
+* 9:15 - 9:30: Robert Gu
+* 9:30 - 9:45: Alan Smith
+* 9:45 - 10:00: Danny Glunz
+* 10:00 - 10:15: Corey Davis
+* 10:15 - 10:30: Sara Simon
+* 10:30 - 10:45 Andrew Overby
+* 10:45 - 11:00: Laura Whalin
+
+### With Horace
+
+* 9:00 - 9:15: Nathan Owsiany
+* 9:15 - 9:30: Zachary Routhier
+* 9:30 - 9:45: Jim Sutton
+* 9:45 - 10:00: Alex Jensen
+* 10:00 - 10:15: Emily Berkeley
+* 10:15 - 10:30: Sam Kuhlmann
+* 10:30 - 10:45 Hilary Denton
+* 10:45 - 11:00: Brandon Mrsny
+
+### With Rachel
+
+* 9:00 - 9:15: Rich Shea
+* 9:15 - 9:30: Bhargavi Satpathy
+* 9:30 - 9:45: Glen Egbert
+* 9:45 - 10:00: Andy Mention
+* 10:00 - 10:15: Kalah Cheek
+* 10:15 - 10:30: Orion Osborn
+* 10:30 - 10:45 Eric Fransen
+
+### With Raissa
+
+* 9:00 - 9:15: Horacio Chavez
+* 9:15 - 9:30: Andrew Watkins
+* 9:30 - 9:45: Emily Davis
+* 9:45 - 10:00: Allison Larson
+* 10:00 - 10:15: Chad Brading
+* 10:15 - 10:30: Will Faurot
+* 10:30 - 10:45 Tim Proctor
+* 10:45 - 11:00: Jonmichael Chambers

@@ -11,8 +11,8 @@ Thursday is JavaScript day!
 
 Given the following two arrays:
 
-```js
-var firstList = ["A", "B", "C", "D", "E", "F"];
+```
+var firstList = ["A", "B", "C", "D", "E", "F"];  
 var secondList = ["C", "E", "F"];
 ```
 
@@ -33,6 +33,8 @@ You'll have check=ins with Jeff at the following times:
 
 Jorge and Steve are around for questions.
 
+Horace will be around after 11:00.
+
 ### Feed Engine Work Time (1:00 - 4:00)
 
 Josh Cheek is on hand for questions.
@@ -47,7 +49,9 @@ Meet with your client (i.e. Jeff):
 * 9:25 - 9:45: Gallery
 * 9:50 - 10:10: Airlift
 
-Jorge is around for questions.
+Jorge and Steve are around for questions.
+
+Horace will be around after 11:00.
 
 ### The Pivot Work Time (1:00 - 4:00)
 
@@ -69,6 +73,10 @@ Josh Cheek is on hand for questions.
 * 10:00 - 11:00: Chandra Carney & Adam Smith & Victoria Harrod
 
 ### Clone Wars Recap and Refactor (1:00 - 2:30)
+
+It's time to refactor your Clone Wars projects based on feedback from your evaluations.
+
+Horace, Steve, and Josh Mejia will each be doing sessions (based on the evaluations).
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
