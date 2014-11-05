@@ -1,8 +1,9 @@
 # Today
 
-Daily outlines for [Turing School](http://turing.io).
+Daily outlines/schedules for the [Turing School of Software &amp; Design](http://turing.io) courses. These are used in combination with [lesson plans](https://github.com/turingschool/lesson_plans)
+and often reference [JumpstartLab tutorials](http://tutorials.jumpstartlab.com).
 
-Hosted [here](http://today.turing.io/).
+The live version of these outlines is up at  [today.turing.io](http://today.turing.io/).
 
 ## Working on this repository
 
@@ -26,3 +27,7 @@ The site uses:
   Links: [getting started](http://middlemanapp.com/basics/getting-started/) 
 * Sass for stylesheets, links: [guide](http://sass-lang.com/guide), [docs](http://sass-lang.com/documentation/).
 * Haml for content, links: [tutorial](http://haml.info/tutorial.html) , [docs](http://haml.info/docs.html).
+
+## License
+
+Unless otherwise noted, all materials licensed <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0</a>&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
