@@ -63,13 +63,17 @@ The final push. Josh Cheek is available for questions all afternoon.
 
 ## 1410
 
-### Algorithmic Thinking (9:00 - 11:30)
+### Algorithmic Thinking (9:00 - 10:30ish)
 
 Join Rachel in Classroom C to learn to think about algorithms algorithmically.
 
-### Introduction to CSVs (11:30 - 12:00)
+### Introduction to CSVs (10:30ish - 11:15ish)
 
-Stick around in Classroom C with Rachel to talk about comma-separated values.
+Stick around in Classroom C with Rachel to talk about comma-separated values. The lesson outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro-to-csv.markdown).
+
+### Intro to Phone Book CSV Tutorial (11:15ish - 12:00)
+
+Stay in Classroom C to learn about the Phone Book tutorial you'll be completing this afternoon. 
 
 ### Phone Book with CSVs (1:00 - 4:00)
 
