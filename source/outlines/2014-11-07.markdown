@@ -197,4 +197,10 @@ Beth advises clients regarding the protection of intellectual property on the in
 * 1409 will meet in Classroom C and be joined by Jorge and Josh Cheek
 * 1410 will meet in Classroom A and be joined by Rachel and Steve
 
+## 1410: Mastermind Kickoff (2:45 - 3:15)
+
+Join Jeff and Steve in Classroom C to kick off your first project: [Mastermind][].
+
+[Mastermind]: http://tutorials.jumpstartlab.com/projects/mastermind.html
+
 ## Surveys and Individual Retrospectives (3:00 - 4:00)
