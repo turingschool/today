@@ -152,8 +152,8 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Robert Gu**: *IBM's Watson* (Technology & Society)
 * **Jonmichael Chambers**: *Docker* (DevOps)
 * **Zach Routhier**: *Intro to Concurrency* (Programming Languages)
-* **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 * **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
+* * **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 
 #### Audience
 
