@@ -83,13 +83,13 @@ Submit a pull request here with [information about your post](https://github.com
 ### With Josh Mejia
 
 * 9:00 - 9:15: Adam Smith
-* 9:15 - 9:30: Bryce Holcomb
+* 9:15 - 9:30: Gustavo Villagrana
 * 9:30 - 9:45: Juan Manuel Navarro
 * 9:45 - 10:00: Lori Culberson
 * 10:00 - 10:15: Luke Aiken
 * 10:15 - 10:30: Lydia Shafer
 * 10:30 - 10:45 Rolando Navarrete
-* 10:45 - 11:00: Gustavo Villagrana
+* 10:45 - 11:00: Bryce Holcomb
 
 ### With Steve
 
@@ -104,13 +104,13 @@ Submit a pull request here with [information about your post](https://github.com
 
 ### With Horace
 
-* 9:00 - 9:15: Nathan Owsiany
+* 9:00 - 9:15: Hilary Denton
 * 9:15 - 9:30: Zachary Routhier
 * 9:30 - 9:45: Jim Sutton
 * 9:45 - 10:00: Alex Jensen
 * 10:00 - 10:15: Emily Berkeley
 * 10:15 - 10:30: Sam Kuhlmann
-* 10:30 - 10:45 Hilary Denton
+* 10:30 - 10:45: Nathan Owsiany
 * 10:45 - 11:00: Brandon Mrsny
 
 ### With Rachel
@@ -133,3 +133,68 @@ Submit a pull request here with [information about your post](https://github.com
 * 10:15 - 10:30: Will Faurot
 * 10:30 - 10:45 Tim Proctor
 * 10:45 - 11:00: Jonmichael Chambers
+
+## Guest Speaker: Beth Nagalski (11:00 - 12:00)
+
+Beth will be stopping by Turing to talk about copyright issues in software development.
+
+Beth advises clients regarding the protection of intellectual property on the internet, ranging from DMCA takedown notices to domain name protection.
+
+* [Website](http://www.sheridanross.com/beth-e-nagalski-0)
+* [LinkedIn](https://www.linkedin.com/pub/beth-nagalski/60/606/984)
+
+## Lightning Talks
+
+### Classroom A
+
+#### Speakers
+
+* **Robert Gu**: *IBM's Watson* (Technology & Society)
+* **Jonmichael Chambers**: *Docker* (DevOps)
+* **Zach Routhier**: *Intro to Concurrency* (Programming Languages)
+* **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
+* **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
+
+#### Audience
+
+* Karen Spärck Jones posse
+* Anita Borg posse
+* Yukihiro Matsumoto posse
+* Guido van Rossum posse
+* Alan Kay posse
+* Kay McNulty posse
+* Adele Goldberg posse
+* Ada Lovelace posse
+* Betty Holberton posse
+
+### Big Workspace
+
+### Presenters
+
+* **Kate Lane**: *Dreyfus model of Skill Acquisition* (General Software Methodologies / Techniques)
+* **Aaron Paul Wortham**: *Swift Language and why it Would be a Good Next Language to Learn* (Programming Languages)
+* **Marc Garreau**: *Mastery* (General Software Methodologies / Techniques)
+* **Alex Jensen**: *Ruby blocks/procs* (Ruby Architecture / Libraries)
+* **Luke Aiken**: *Snowden* (Technology & Society)
+* **Emily Davis**: *Best ideas from Pragmatic Thinking & Learning* (General Software Methodologies / Techniques)
+
+### Audience
+
+* John Backus posse
+* Donald Knuth posse
+* Dan Ingalls posse
+* Dennis Ritchie posse
+* John von Neumann posse
+* Tim Berners-Lee posse
+* Grace Hopper posse
+* Fred Brooks posse
+* John McCarthy posse
+
+## Group Retrospectives (2:00 - 3:00)
+
+* 1406 will meet in Classroom B and be joined by Jeff
+* 1407 will meet in the big workspace and be joined by Horace and Josh Mejia
+* 1409 will meet in Classroom C and be joined by Jorge and Josh Cheek
+* 1410 will meet in Classroom A and be joined by Rachel and Steve
+
+## Surveys and Individual Retrospectives (3:00 - 4:00)
