@@ -136,7 +136,7 @@ Submit a pull request here with [information about your post](https://github.com
 
 ## Guest Speaker: Beth Nagalski (11:00 - 12:00)
 
-Beth will be stopping by Turing to talk about copyright issues in software development.
+Beth will be stopping by Turing to talk about copyright issues in software development. Please submit a question for Beth via Google Moderator [here](https://www.google.com/moderator/#15/e=217118&t=217118.40).
 
 Beth advises clients regarding the protection of intellectual property on the internet, ranging from DMCA takedown notices to domain name protection.
 
