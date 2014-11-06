@@ -12,7 +12,7 @@ Thursday is JavaScript day!
 Given the following two arrays:
 
 ```
-var firstList = ["A", "B", "C", "D", "E", "F"];  
+var firstList = ["A", "B", "C", "D", "E", "F"];
 var secondList = ["C", "E", "F"];
 ```
 
@@ -118,7 +118,7 @@ You'll work in the following groups:
 
 ### Ruby's Object Model (9:00 - 12:00)
 
-Join Josh Cheek in Classroom A to talk about Ruby's object model.
+Join Josh Cheek in Classroom A to talk about Ruby's object model. The material is here: https://github.com/JoshCheek/ruby-object-model/ go clone it.
 
 ### Encapsulation and Separation of Responsibility (1:00 - 2:30)
 
