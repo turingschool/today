@@ -26,17 +26,19 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 **Robert, Jonmichael, and Watts** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
 
-Come with a problem or just come ready and willing to hack on something with them. If you haven't gotten a chance to work with them, ask around—they're great mentors. They're willing to work one-on-one as well as in groups.
+Come with a problem/question or just come ready and willing to hack on something with them. If you haven't gotten a chance to work with them, ask around—they're great mentors. They're willing to work one-on-one as well as in groups.
 
 ### Technical Blogging
 
-* Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
+Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
 
 Submit a pull request here with [information about your post](https://github.com/turingschool/student_blogging).
 
+We'll be promoting your blog posts every week.
+
 ### Experiment with New Tools
 
-* Consider taking [Vim][] for a spin. Not into Vim? What about TextMate, Emacs, Chocolate?
+* Consider taking [Vim][] for a spin. Not into Vim? What about TextMate, Emacs, Chocolat?
 * Level up your git skills with Scott Chacon's [_Pro Git_](http://git-scm.com/book/en/v2).
 * Try out a visual git tool like [Github for Mac][ghfm], [GitX][gitx], [Tower][].
 * Find a tool that allows you to use multiple clipboards ([Keyboard Maestro][km], [Flycut][fc]).
@@ -140,7 +142,7 @@ Submit a pull request here with [information about your post](https://github.com
 
 ## Guest Speaker: Beth Nagalski (11:00 - 12:00)
 
-Beth will be stopping by Turing to talk about copyright issues in software development. Please submit a question for Beth via Google Moderator [here](https://www.google.com/moderator/#15/e=217118&t=217118.40).
+Beth will be stopping by Turing to talk about copyright issues in software development.
 
 Beth advises clients regarding the protection of intellectual property on the internet, ranging from DMCA takedown notices to domain name protection.
 
@@ -157,7 +159,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Jonmichael Chambers**: *Docker* (DevOps)
 * **Zach Routhier**: *Intro to Concurrency* (Programming Languages)
 * **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
-* **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
+* * **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 
 #### Audience
 
@@ -197,7 +199,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 ## Group Retrospectives (2:00 - 3:00)
 
 * 1406 will meet in Classroom B and be joined by Jeff
-* 1407 will meet at Freshcraft and be joined by Horace and Josh Mejia
+* 1407 will meet in the big workspace and be joined by Horace and Josh Mejia
 * 1409 will meet in Classroom C and be joined by Jorge and Josh Cheek
 * 1410 will meet in Classroom A and be joined by Rachel and Steve
 
@@ -208,8 +210,3 @@ Join Jeff and Steve in Classroom C to kick off your first project: [Mastermind][
 [Mastermind]: http://tutorials.jumpstartlab.com/projects/mastermind.html
 
 ## Surveys and Individual Retrospectives (3:00 - 4:00)
-
-* [1406](https://docs.google.com/a/casimircreative.com/forms/d/1mddg2AjXaKDXJ52fgeVqIKb4g9YfTf2HF25YD-Etlr0/viewform)
-* [1407](https://docs.google.com/a/casimircreative.com/forms/d/1kCCF-CCn75vZNobSq2jfjnluRZd2rUqYtZ8BJQL7iaw/viewform)
-* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1_IPEcGLNyGwosmomFzyzG8z9TbzYEEv12v2aLbkg-rs/viewform)
-* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1oyyqKtAr6ZpZj1puM7mMDO-PG4Vc_xXnjsea6PgmjEY/viewform)
