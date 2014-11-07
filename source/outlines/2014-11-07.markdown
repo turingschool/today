@@ -182,7 +182,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Aaron Paul Wortham**: *Swift Language and why it Would be a Good Next Language to Learn* (Programming Languages)
 * **Marc Garreau**: *Mastery* (General Software Methodologies / Techniques)
 * **Alex Jensen**: *Ruby blocks/procs* (Ruby Architecture / Libraries)
-* **Luke Aiken**: *Snowden* (Technology & Society)
+* **Luke Aiken**: *Dark Mail* (Technology & Society)
 * **Emily Davis**: *Best ideas from Pragmatic Thinking & Learning* (General Software Methodologies / Techniques)
 
 ##### Audience
