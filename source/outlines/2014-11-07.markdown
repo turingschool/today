@@ -9,7 +9,7 @@ layout: outline
 
 This morning, please _respect the Friday_ and do not work on your project. You should, instead, choose one or more of the following:
 
-### Join a Study Group
+#### Join a Study Group
 
 * **Will and Andy** are running a study group on [Tmux][tmux], the terminal multiplexer. Seek them out if you want to become a command line wizard.
 * **David and Travis** are running a [Github][] study group—this session is *highly recommended* for 1410.
@@ -23,13 +23,13 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 (Let Steve know if you'd like to run a study group.)
 
-### Work with a Peer Mentor
+#### Work with a Peer Mentor
 
 **Robert, Jonmichael, and Watts** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
 
 Come with a problem/question or just come ready and willing to hack on something with them. If you haven't gotten a chance to work with them, ask around—they're great mentors. They're willing to work one-on-one as well as in groups.
 
-### Technical Blogging
+#### Technical Blogging
 
 Have you figured something out? Write a technical blog post. [Check out some of the posts written by your fellow students this week.](https://github.com/turingschool/student_blogging/blob/master/week%20of%202014-10-27.markdown) Keep in mind, that someone down the road will struggle with some concept you've recently conquered.
 
@@ -37,7 +37,7 @@ Submit a pull request here with [information about your post](https://github.com
 
 We'll be promoting your blog posts every week.
 
-### Experiment with New Tools
+#### Experiment with New Tools
 
 * Consider taking [Vim][] for a spin. Not into Vim? What about TextMate, Emacs, Chocolat?
 * Level up your git skills with Scott Chacon's [_Pro Git_](http://git-scm.com/book/en/v2).
@@ -52,9 +52,9 @@ We'll be promoting your blog posts every week.
 [Tower]: http://www.git-tower.com
 [rm]: https://www.jetbrains.com/ruby/
 
-## One-on-Ones
+### One-on-Ones
 
-### With Jeff
+#### With Jeff
 
 * 9:00 - 9:15: Edward McCarthy
 * 9:15 - 9:30: Dustin Gault
@@ -65,7 +65,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Alexandra Robinson
 * 10:45 - 11:00: David Bayendor
 
-### With Josh Cheek
+#### With Josh Cheek
 
 * 9:00 - 9:15: Jeffrey Wan
 * 9:15 - 9:30: Kit Pearson
@@ -76,7 +76,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Aaron Paul Wortham
 * 10:45 - 11:00: Chandra Carney
 
-### With Jorge
+#### With Jorge
 
 * 9:00 - 9:15: Ian Andersen
 * 9:15 - 9:30: Gregory Narajka
@@ -87,7 +87,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Kate Lane
 * 10:45 - 11:00: Scott Crawford
 
-### With Josh Mejia
+#### With Josh Mejia
 
 * 9:00 - 9:15: Adam Smith
 * 9:15 - 9:30: Gustavo Villagrana
@@ -98,7 +98,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Rolando Navarrete
 * 10:45 - 11:00: Bryce Holcomb
 
-### With Steve
+#### With Steve
 
 * 9:00 - 9:15: Jessica Goulding
 * 9:15 - 9:30: Robert Gu
@@ -109,7 +109,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Andrew Overby
 * 10:45 - 11:00: Laura Whalin
 
-### With Horace
+#### With Horace
 
 * 9:00 - 9:15: Hilary Denton
 * 9:15 - 9:30: Zachary Routhier
@@ -120,7 +120,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45: Nathan Owsiany
 * 10:45 - 11:00: Brandon Mrsny
 
-### With Rachel
+#### With Rachel
 
 * 9:00 - 9:15: Rich Shea
 * 9:15 - 9:30: Bhargavi Satpathy
@@ -130,7 +130,7 @@ We'll be promoting your blog posts every week.
 * 10:15 - 10:30: Orion Osborn
 * 10:30 - 10:45 Eric Fransen
 
-### With Raissa
+#### With Raissa
 
 * 9:00 - 9:15: Horacio Chavez
 * 9:15 - 9:30: Andrew Watkins
@@ -141,7 +141,7 @@ We'll be promoting your blog posts every week.
 * 10:30 - 10:45 Tim Proctor
 * 10:45 - 11:00: Jonmichael Chambers
 
-## Guest Speaker: Beth Nagalski (11:00 - 12:00)
+### Guest Speaker: Beth Nagalski (11:00 - 12:00)
 
 Beth will be stopping by Turing to talk about copyright issues in software development.
 
@@ -150,11 +150,11 @@ Beth advises clients regarding the protection of intellectual property on the in
 * [Website](http://www.sheridanross.com/beth-e-nagalski-0)
 * [LinkedIn](https://www.linkedin.com/pub/beth-nagalski/60/606/984)
 
-## Lightning Talks
+### Lightning Talks
 
-### Classroom A
+#### Classroom A
 
-#### Speakers
+##### Speakers
 
 * **Robert Gu**: *IBM's Watson* (Technology & Society)
 * **Jonmichael Chambers**: *Docker* (DevOps)
@@ -162,7 +162,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
 * * **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 
-#### Audience
+##### Audience
 
 * Karen Spärck Jones posse
 * Anita Borg posse
@@ -174,9 +174,9 @@ Beth advises clients regarding the protection of intellectual property on the in
 * Ada Lovelace posse
 * Betty Holberton posse
 
-### Big Workspace
+#### Big Workspace
 
-### Presenters
+##### Presenters
 
 * **Kate Lane**: *Dreyfus model of Skill Acquisition* (General Software Methodologies / Techniques)
 * **Aaron Paul Wortham**: *Swift Language and why it Would be a Good Next Language to Learn* (Programming Languages)
@@ -185,7 +185,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Luke Aiken**: *Snowden* (Technology & Society)
 * **Emily Davis**: *Best ideas from Pragmatic Thinking & Learning* (General Software Methodologies / Techniques)
 
-### Audience
+##### Audience
 
 * John Backus posse
 * Donald Knuth posse
@@ -197,17 +197,17 @@ Beth advises clients regarding the protection of intellectual property on the in
 * Fred Brooks posse
 * John McCarthy posse
 
-## Group Retrospectives (2:00 - 3:00)
+### Group Retrospectives (2:00 - 3:00)
 
 * 1406 will meet in Classroom B and be joined by Jeff
 * 1407 will meet in the big workspace and be joined by Horace and Josh Mejia
 * 1409 will meet in Classroom C and be joined by Jorge and Josh Cheek
 * 1410 will meet in Classroom A and be joined by Rachel and Steve
 
-## 1410: Mastermind Kickoff (2:45 - 3:15)
+### 1410: Mastermind Kickoff (2:45 - 3:15)
 
 Join Jeff and Steve in Classroom C to kick off your first project: [Mastermind][].
 
 [Mastermind]: http://tutorials.jumpstartlab.com/projects/mastermind.html
 
-## Surveys and Individual Retrospectives (3:00 - 4:00)
+### Surveys and Individual Retrospectives (3:00 - 4:00)
