@@ -1,0 +1,60 @@
+---
+title: 141111
+layout: outline
+---
+
+## All
+
+## 1406
+
+## 1407
+
+## 1409
+
+### Sinatra Assessments (9:00 - 12:00)
+
+This morning, you'll put your Sinatra knowledge to the test with [this assessment](https://github.com/JumpstartLab/curriculum/blob/master/source/academy/assessments/sinatra_cms.markdown).
+
+### With Horace
+
+* 9:00 - 9:30: Chandra Carney
+* 9:30 - 10:00: Chase van Hekken
+* 10:00 - 10:30: Kate Lane
+* 10:30 - 11:00: Zachary Routhier
+* 11:00 - 11:30: Sam Kuhlmann
+
+## With Jeff
+
+* 9:00 - 9:30: Gregory Narajka
+* 9:30 - 10:00: Travis Yoder
+* 10:00 - 10:30: Adam Smith
+* 10:30 - 11:00: David Bayendor
+* 11:00 - 11:30: Konr Josef Larson
+
+## With Rachel
+
+* 9:00 - 9:30: Danny Glunz
+* 9:30 - 10:00: Victoria Harrod
+* 10:00 - 10:30: Herbert Joseph
+* 10:30 - 11:00: Timothy Mee
+* 11:00 - 11:30: Alex Jensen
+
+## 1410
+
+### Mastermind Pairing and Work Time (1:00 - 4:00)
+
+This afternoon, you'll work in pairs on your Mastermind projects.
+
+Spend 45 minutes on the first project and then 45 minutes on the second project. You can return to your own project at 2:30.
+
+* Emily Berkeley and Alexandra Robinson
+* Chris Luhring and Michael Dao
+* Jeffrey Wan and Dustin Gault
+* Scott Crawford and Rich Shea
+* Andrew Overby and Kalah Cheek
+* Bryce Holcomb and Lori Culberson
+* Krista A Nelson and Brandon Mrsny
+* Bhargavi Satpathy and Lydia Shafer
+* Nathan Owsiany and Kit Pearson
+* Orion Osborn and Juan Manuel Navarro
+* Edward McCarthy and Laura Whalin
