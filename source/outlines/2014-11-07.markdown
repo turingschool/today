@@ -140,7 +140,7 @@ Submit a pull request here with [information about your post](https://github.com
 
 ## Guest Speaker: Beth Nagalski (11:00 - 12:00)
 
-Beth will be stopping by Turing to talk about copyright issues in software development.
+Beth will be stopping by Turing to talk about copyright issues in software development. Please submit a question for Beth via Google Moderator [here](https://www.google.com/moderator/#15/e=217118&t=217118.40).
 
 Beth advises clients regarding the protection of intellectual property on the internet, ranging from DMCA takedown notices to domain name protection.
 
@@ -157,7 +157,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Jonmichael Chambers**: *Docker* (DevOps)
 * **Zach Routhier**: *Intro to Concurrency* (Programming Languages)
 * **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
-* * **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
+* **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 
 #### Audience
 
@@ -197,7 +197,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 ## Group Retrospectives (2:00 - 3:00)
 
 * 1406 will meet in Classroom B and be joined by Jeff
-* 1407 will meet in the big workspace and be joined by Horace and Josh Mejia
+* 1407 will meet at Freshcraft and be joined by Horace and Josh Mejia
 * 1409 will meet in Classroom C and be joined by Jorge and Josh Cheek
 * 1410 will meet in Classroom A and be joined by Rachel and Steve
 
@@ -208,3 +208,8 @@ Join Jeff and Steve in Classroom C to kick off your first project: [Mastermind][
 [Mastermind]: http://tutorials.jumpstartlab.com/projects/mastermind.html
 
 ## Surveys and Individual Retrospectives (3:00 - 4:00)
+
+* [1406](https://docs.google.com/a/casimircreative.com/forms/d/1mddg2AjXaKDXJ52fgeVqIKb4g9YfTf2HF25YD-Etlr0/viewform)
+* [1407](https://docs.google.com/a/casimircreative.com/forms/d/1kCCF-CCn75vZNobSq2jfjnluRZd2rUqYtZ8BJQL7iaw/viewform)
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1_IPEcGLNyGwosmomFzyzG8z9TbzYEEv12v2aLbkg-rs/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1oyyqKtAr6ZpZj1puM7mMDO-PG4Vc_xXnjsea6PgmjEY/viewform)
