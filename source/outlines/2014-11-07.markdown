@@ -11,10 +11,11 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Join a Study Group
 
-* **Will and Andy** are running a study group on [Tmux][tmux] and [Vim][]. Seek them out if you want to become a command line wizard.
+* **Will and Andy** are running a study group on [Tmux][tmux], the terminal multiplexer. Seek them out if you want to become a command line wizard.
 * **David and Travis** are running a [Github][] study group—this session is *highly recommended* for 1410.
 * Was your experience with JavaScript a bit baffling yesterday? **Hilary** is running a study group on the most popular language in the world.
 * Want to make your applications look as good as they work? **Kate** is running a design study group.
+* **Marc and Tan** are running an *Introduction to Vim* study group. It'll probably be better than Steve's morning sessions.
 
 [Github]: http://github.com
 [tmux]: http://tmux.sourceforge.net/
