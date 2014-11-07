@@ -13,6 +13,8 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 * **Will and Andy** are running a study group on [Tmux][tmux] and [Vim][]. Seek them out if you want to become a command line wizard.
 * **David and Travis** are running a [Github][] study group—this session is *highly recommended* for 1410.
+* Was your experience with JavaScript a bit baffling yesterday? **Hilary** is running a study group on the most popular language in the world.
+* Want to make your applications look as good as they work? **Kate** is running a design study group.
 
 [Github]: http://github.com
 [tmux]: http://tmux.sourceforge.net/
@@ -22,7 +24,9 @@ This morning, please _respect the Friday_ and do not work on your project. You s
 
 ### Work with a Peer Mentor
 
-* **Robert, Jonmichael, Watts, and Will** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
+**Robert, Jonmichael, and Watts** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
+
+Come with a problem or just come ready and willing to hack on something with them. If you haven't gotten a chance to work with them, ask around—they're great mentors. They're willing to work one-on-one as well as in groups.
 
 ### Technical Blogging
 
