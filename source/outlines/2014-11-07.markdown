@@ -160,7 +160,7 @@ Beth advises clients regarding the protection of intellectual property on the in
 * **Jonmichael Chambers**: *Docker* (DevOps)
 * **Zach Routhier**: *Intro to Concurrency* (Programming Languages)
 * **Sam Kuhlmann**: *Improve your App with Web Analytics* (Design / User Experience)
-* * **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
+* **Jessica Goulding**: *User Centered Design / Development: Let go of your Ego and Program* (Design / User Experience)
 
 ##### Audience
 
@@ -211,3 +211,8 @@ Join Jeff and Steve in Classroom C to kick off your first project: [Mastermind][
 [Mastermind]: http://tutorials.jumpstartlab.com/projects/mastermind.html
 
 ### Surveys and Individual Retrospectives (3:00 - 4:00)
+
+* [1406](https://docs.google.com/a/casimircreative.com/forms/d/1mddg2AjXaKDXJ52fgeVqIKb4g9YfTf2HF25YD-Etlr0/viewform)
+* [1407](https://docs.google.com/a/casimircreative.com/forms/d/1kCCF-CCn75vZNobSq2jfjnluRZd2rUqYtZ8BJQL7iaw/viewform)
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1_IPEcGLNyGwosmomFzyzG8z9TbzYEEv12v2aLbkg-rs/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1oyyqKtAr6ZpZj1puM7mMDO-PG4Vc_xXnjsea6PgmjEY/viewform)
