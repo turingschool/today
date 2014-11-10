@@ -89,7 +89,7 @@ Stay in Classroom A to talk about another acronym with Steve.
 
 ### REPL Essentials (9:00 - 12:00)
 
-Meet with Josh Cheek in Classroom C to tackle building your own REPL for Mastermind.
+Meet with Josh Cheek in Classroom C to tackle building your own REPL.
 
 ### Mastermind Pairing and Work Time (1:00 - 3:00)
 
