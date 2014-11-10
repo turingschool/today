@@ -55,6 +55,9 @@ Feed your engines. Josh Mejia is on hand.
 
 Meet with Josh Mejia in Classroom B to discuss finer points of ActiveRecord.
 
+- How well do you know Rails? Take this [Relationship Quiz](https://gist.github.com/jmejia/4cf4c806f362fb108398).
+- [Slides](https://www.dropbox.com/s/jutdjv8ciee86g6/ActiveRecord%20-%20Advanced%20Features.key?dl=0)
+
 ### Sending Email (1:00 - 3:00)
 
 Meet up with Horace in Classroom B to send some emails.
@@ -102,6 +105,9 @@ Stay in Classroom A to talk about another acronym with Steve.
 ### REPL Essentials (9:00 - 12:00)
 
 Meet with Josh Cheek in Classroom C to tackle building your own REPL.
+
+The material is at [https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/repl2.markdown][https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/repl2.markdown].
+There is also a cheatsheet at [https://github.com/JoshCheek/building-your-own-repl/blob/master/cheatsheet.pdf?raw=true][https://github.com/JoshCheek/building-your-own-repl/blob/master/cheatsheet.pdf?raw=true].
 
 ### Mastermind Pairing and Work Time (1:00 - 3:00)
 
