@@ -1,5 +1,5 @@
 ---
-title: 141110
+title: 141111
 layout: outline
 ---
 
@@ -33,17 +33,6 @@ Meet with Steve in Classroom A to brainstorm topics.
 
 Join Steve in Classroom A to tackle Part 2 of the pub/sub story.
 
-You'll work in the following pairs:
-
-* Marc Garreau and Hilary Denton
-* Jonmichael Chambers and Tan Doan
-* Will Faurot and Chad Brading
-* Horacio Chavez and Allison Larson
-* Andy Mention and Gustavo Villagrana
-* Alan Smith and Tim Proctor
-* Emily Davis and Corey Davis
-* Eric Fransen and Robert Gu and Andrew Watkins
-
 ### FeedEngine Work Time (1:00 - 3:00)
 
 Feed your engines. Josh Mejia is on hand.
@@ -53,6 +42,9 @@ Feed your engines. Josh Mejia is on hand.
 ### Advanced ActiveRecord Features (9:00 - 12:00)
 
 Meet with Josh Mejia in Classroom B to discuss finer points of ActiveRecord.
+
+- How well do you know Rails? Take this [Relationship Quiz](https://gist.github.com/jmejia/4cf4c806f362fb108398).
+- [Slides](https://www.dropbox.com/s/jutdjv8ciee86g6/ActiveRecord%20-%20Advanced%20Features.key?dl=0)
 
 ### Sending Email (1:00 - 3:00)
 
