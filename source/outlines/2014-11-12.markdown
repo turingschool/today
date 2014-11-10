@@ -1,5 +1,5 @@
 ---
-title: 141112
+title: 141113
 layout: outline
 ---
 
@@ -9,14 +9,6 @@ layout: outline
 
 ## 1407
 
-### The Pivot: Checkpoint #3 (9:00 - 10:30)
-
-Meet with Jeff to discuss your pivots.
-
-* 9:00 - 9:30: Gallery
-* 9:30 - 10:00: Dope Threads
-* 10:00 - 10:30: Airlift
- 
 ## 1409
 
 ## 1410
