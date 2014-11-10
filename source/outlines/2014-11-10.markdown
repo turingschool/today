@@ -5,9 +5,47 @@ layout: outline
 
 ## All
 
+### Warm-Up (8:30 - 8:50)
+
+Tackle this [Code Kata](http://codekata.com/kata/kata06-anagrams/).
+
+Can you figure out a solution as a group in 20 minutes?
+
+### Posse Meeting Time (3:00-4:00)
+
+Meet with your posse and work on the following:
+
+* 3:00 - 3:10 Share a project or assignment that you're working on.
+* 3:10 - 3:20 Update your mentors through email or a blog post
+* 3:20 - 4:00 1406 and 1407 are putting the finishing touches on FeedEngine and the Pivot respectively. 1409 is tackling their first Rails project. 1410 met Mastermind on Friday.
+  * 1406: Over the last week, you've met with your "client" multiple times. What was that experience like? What are you working on now?
+  * 1407: What are some challenges you're facing in the Pivot? 1406: Do you have any advice or suggestions?
+  * 1409: You're wrapping your head around Rails. What makes sense? What's confusing? 1406 and 1407: Do you have any advice or suggestions?
+  * 1410: You're starting on your first project. You just paired with a colleague for the last hours. Was that a helpful experience? 1406, 1407, and 1409: Do you have any pearls of wisdom?
+
+### Lightning Talkers (4:10 - 4:45)
+
+Meet with Steve in Classroom A to brainstorm topics.
+
 ## 1406
 
+### Pub/Sub in the Browser (9:00 - 12:00)
+
+Join Steve in Classroom A to tackle Part 2 of the pub/sub story.
+
+### FeedEngine Work Time (1:00 - 3:00)
+
+Feed your engines. Josh Mejia is on hand.
+
 ## 1407
+
+### Advanced ActiveRecord Features (9:00 - 12:00)
+
+Meet with Josh Mejia in Classroom B to discuss finer points of ActiveRecord.
+
+### Sending Email (1:00 - 3:00)
+
+Meet up with Horace in Classroom B to send some emails.
 
 ## 1409
 
@@ -15,7 +53,7 @@ layout: outline
 
 This morning, you'll put your Sinatra knowledge to the test with [this assessment](https://github.com/JumpstartLab/curriculum/blob/master/source/academy/assessments/sinatra_cms.markdown).
 
-### With Horace
+#### With Horace
 
 * 9:00 - 9:30: Chandra Carney
 * 9:30 - 10:00: Chase van Hekken
@@ -23,7 +61,7 @@ This morning, you'll put your Sinatra knowledge to the test with [this assessmen
 * 10:30 - 11:00: Zachary Routhier
 * 11:00 - 11:30: Sam Kuhlmann
 
-## With Jeff
+#### With Jeff
 
 * 9:00 - 9:30: Gregory Narajka
 * 9:30 - 10:00: Travis Yoder
@@ -31,7 +69,7 @@ This morning, you'll put your Sinatra knowledge to the test with [this assessmen
 * 10:30 - 11:00: David Bayendor
 * 11:00 - 11:30: Konr Josef Larson
 
-## With Rachel
+#### With Rachel
 
 * 9:00 - 9:30: Danny Glunz
 * 9:30 - 10:00: Victoria Harrod
@@ -39,9 +77,21 @@ This morning, you'll put your Sinatra knowledge to the test with [this assessmen
 * 10:30 - 11:00: Timothy Mee
 * 11:00 - 11:30: Alex Jensen
 
+### Introduction to MVC (1:00 - 2:00)
+
+Join Jeff in Classroom A to talk about an acronym.
+
+### Introduction to REST (2:00 - 3:00)
+
+Stay in Classroom A to talk about another acronym with Steve.
+
 ## 1410
 
-### Mastermind Pairing and Work Time (1:00 - 4:00)
+### REPL Essentials (9:00 - 12:00)
+
+Meet with Josh Cheek in Classroom C to tackle building your own REPL for Mastermind.
+
+### Mastermind Pairing and Work Time (1:00 - 3:00)
 
 This afternoon, you'll work in pairs on your Mastermind projects.
 
