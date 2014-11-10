@@ -1,5 +1,5 @@
 ---
-title: 141111
+title: 141110
 layout: outline
 ---
 
@@ -32,6 +32,17 @@ Meet with Steve in Classroom A to brainstorm topics.
 ### Pub/Sub in the Browser (9:00 - 12:00)
 
 Join Steve in Classroom A to tackle Part 2 of the pub/sub story.
+
+You'll work in the following pairs:
+
+* Marc Garreau and Hilary Denton
+* Jonmichael Chambers and Tan Doan
+* Will Faurot and Chad Brading
+* Horacio Chavez and Allison Larson
+* Andy Mention and Gustavo Villagrana
+* Alan Smith and Tim Proctor
+* Emily Davis and Corey Davis
+* Eric Fransen and Robert Gu and Andrew Watkins
 
 ### FeedEngine Work Time (1:00 - 3:00)
 
