@@ -7,6 +7,18 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
+With your posse, solve the following:
+
+**Write a program that prints the next 20 leap years.**
+
+A leap year occurs under the following condition:
+
+* The year is evenly divisible by 4
+* If the year can be evenly divided by 100, it is *not* a leap year.
+* If the year can be evenly divided by 400, it is a leap year.
+
+**Challenge**: Write a program that automatically converts English text to Morse code and vice versa.
+
 ## 1406
 
 ### FeedEngine Work Time (9:00 - 10:30)
