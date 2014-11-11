@@ -33,6 +33,17 @@ Join Jeff in Classroom A to write a wrapper gem an API.
 
 This afternoon, you'll be working through the following tutorial on [extracting a notification service][not]. Steve will be on hand for questions.
 
+You'll work in the following pairs:
+
+Chad Brading and Gustavo Villagrana
+Alan Smith and Jonmichael Chambers
+Will Faurot and Corey Davis
+Andy Mention and Eric Fransen
+Robert Gu and Allison Larson
+Tim Proctor and Horacio Chavez
+Emily Davis and Hilary Denton
+Andrew Watkins and Marc Garreau and Tan Doan
+
 [not]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
 
 ## 1407
