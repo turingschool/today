@@ -5,18 +5,84 @@ layout: outline
 
 ## All
 
+### Warm Up (8:30 - 8:50)
+
 ## 1406
+
+### FeedEngine Work Time (9:00 - 10:30)
+
+Josh Cheek is on hand for questions.
+
+### Writing a Wrapper Gem (10:30 - 12:00)
+
+Join Jeff in Classroom A to write a wrapper gem an API.
+
+### Building Notifications (1:00 - 4:00)
+
+This afternoon, you'll be working through the following tutorial on [extracting a notification service][not]. Steve will be on hand for questions.
+
+[not]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
 
 ## 1407
 
-### The Pivot: Checkpoint #3 (9:00 - 10:30)
+### The Pivot Work Time (9:00 - 12:00)
+
+Work on your pivots. See below for the check-in schedule.
+
+Seek out Josh Cheek with all of your questions.
+
+### The Pivot: Checkpoint #3 (10:00 - 11:30)
 
 Meet with Jeff to discuss your pivots.
 
-* 9:00 - 9:30: Gallery
-* 9:30 - 10:00: Dope Threads
-* 10:00 - 10:30: Airlift
+* 10:00 - 10:30: Gallery
+* 10:30 - 11:00: Dope Threads
+* 11:00 - 11:30: Airlift
  
 ## 1409
 
+### Blogger Recap (9:00 - 9:30)
+
+Meet with Steve in Classroom B to reminisce about Blogger.
+
+### Models, Databases, Relationships (9:30 - 12:00)
+
+Stick around in Classroom B. Rachel will join you to talk about models, databases, and relationships.
+
+### Starting Contact Manager (1:00 - 4:00)
+
+It's time to kick off your *second* Rails project: [ContactManager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
+
+Josh Mejia is on hand for questions.
+
 ## 1410
+
+### Testing a CLI (9:00 - 10:30)
+
+Join Jeff in Classroom C to talk about testing a command-line interface.
+
+### Mastermind Pairing and Work Time (10:30 - 12:00)
+
+You'll have some time this morning to work on your Mastermind projects.
+
+Split this work session in two. Spend 45 minutes pairing on the first group member's project. Switch at 11:15.
+
+* Kit Pearson and Orion Osborn
+* Nathan Owsiany and Michael Dao
+* Bryce Holcomb and Jeffrey Wan
+* Lori Culberson and Lydia Shafer
+* Kalah Cheek and Andrew Overby
+* Juan Manuel Navarro and Chris Luhring
+* Krista A Nelson and Alexandra Robinson
+* Dustin Gault and Brandon Mrsny
+* Bhargavi Satpathy and Rich Shea
+* Laura Whalin and Edward McCarthy
+* Scott Crawford and Emily Berkeley
+
+Josh Cheek will be available to answer your questions.
+
+### Mastermind Work Time (1:00 - 4:00)
+
+Continue working on your Mastermind project.
+
+Josh Cheek and Rachel are on hand for questions.
