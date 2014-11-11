@@ -31,7 +31,9 @@ Join Jeff in Classroom A to write a wrapper gem an API.
 
 ### Building Notifications (1:00 - 4:00)
 
-This afternoon, you'll be working through the following tutorial on [extracting a notification service][not]. Steve will be on hand for questions.
+This afternoon, you'll be working through the following tutorial on [extracting a notification service][not].
+
+Steve will kick things off in Classroom B and then be on hand for questions.
 
 You'll work in the following pairs:
 
