@@ -73,6 +73,20 @@ Josh Mejia is on hand for questions.
 
 Join Jeff in Classroom C to talk about [not testing a command-line interface](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/not_testing_a_repl.markdown).
 
+#### Pairings
+
+* Lydia Shafer & Krista A Nelson
+* Kit Pearson & Rich Shea
+* Lori Culberson & Chris Luhring
+* Edward McCarthy & Jeffrey Wan
+* Brandon Mrsny & Michael Dao
+* Scott Crawford & Nathan Owsiany
+* Dustin Gault & Laura Whalin
+* Emily Berkeley & Juan Manuel Navarro
+* Alexandra Robinson & Bhargavi Satpathy
+* Andrew Overby & Kalah Cheek
+* Bryce Holcomb & Orion Osborn
+
 ### Mastermind Pairing and Work Time (10:30 - 12:00)
 
 You'll have some time this morning to work on your Mastermind projects.
