@@ -61,7 +61,7 @@ Meet with Jeff to discuss your pivots.
 * 10:00 - 10:30: Gallery
 * 10:30 - 11:00: Dope Threads
 * 11:00 - 11:30: Airlift
- 
+
 ## 1409
 
 ### Blogger Recap (9:00 - 9:30)
@@ -80,9 +80,9 @@ Josh Mejia is on hand for questions.
 
 ## 1410
 
-### Testing a CLI (9:00 - 10:30)
+### Testing a REPL (9:00 - 10:30)
 
-Join Jeff in Classroom C to talk about testing a command-line interface.
+Join Jeff in Classroom C to talk about [not testing a command-line interface](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/not_testing_a_repl.markdown).
 
 ### Mastermind Pairing and Work Time (10:30 - 12:00)
 
