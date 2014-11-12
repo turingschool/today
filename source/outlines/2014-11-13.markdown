@@ -21,7 +21,7 @@ layout: outline
 
 ## 1407
 
-Meet with Rachel to evaluate your pivots.
+Meet with Rachel and Horace to evaluate your pivots.
 
 * 9:00 - 10:00: Dope Threads
 * 10:00 - 11:00: Airlift
