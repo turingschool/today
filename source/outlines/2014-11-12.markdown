@@ -61,6 +61,8 @@ Stick around in Classroom C as Steve helps you find acceptance.
 ### Debugging Techniques (9:00 - 10:30)
 
 Meet with Josh Cheek to cover some debugging techniques in Classrom A.
+[http://tutorials.jumpstartlab.com/topics/debugging/debugging.html](http://tutorials.jumpstartlab.com/topics/debugging/debugging.html)
+
 
 ### Debugging Exercises (10:30 - 12:00)
 
