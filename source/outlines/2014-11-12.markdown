@@ -7,7 +7,7 @@ layout: outline
 
 Last week, we arbitrarily decided Thursday is JavaScript day.
 
-But, since you all have projects due tomorrow, we know you're not going to do them.
+But, since you all have projects due tomorrow, we know you're not going to do tomorrow's warm up.
 
 So, this week, we'll do it on a Wednesday. You should already have Node installed from last week.
 
