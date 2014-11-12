@@ -9,15 +9,24 @@ layout: outline
 
 ### FeedEngine Evaluations (9:00 - 12:00)
 
-#### With Jeff
+Meet with Jeff and Steve to review your FeedEngines.
 
-* 9:00 - 10:00: Footprints
-* 10:00 - 9:00: Successive Life
+* 9:00 - 9:45 Footprints
+* 9:45 - 10:30: Successive Life
+* 10:30 - 11:15: Snowcial
+* 11:15 - 12:00: Tunefish
 
-#### With Steve
+### Final Project Brainstorm (1:00 - 2:00)
 
-* 9:00 - 10:00: Snowcial
-* 10:00 - 11:00: Tunefish
+Meet with Jeff in Classroom A to brainstorm ideas for your final project.
+
+### Q&A Chat with Thoughtworks (1:00 - 2:00)
+
+Meet in Classroom A to talk to Tess and Chelsea from Thoughtbot.
+
+### Demo Preparations and Finishing Touches (3:00 - 4:00)
+
+Get ready for Demo Night.
 
 ## 1407
 
@@ -26,6 +35,18 @@ Meet with Rachel to evaluate your pivots.
 * 9:00 - 10:00: Dope Threads
 * 10:00 - 11:00: Airlift
 * 11:00 - 12:00: Gallery
+
+### Self-Directed Project Brainstorm (1:00 - 2:00)
+
+Meet with Steve in Classroom B to brainstorm ideas for your final project.
+
+### Q&A Chat with Thoughtworks (1:00 - 2:00)
+
+Meet in Classroom A to talk to Tess and Chelsea from Thoughtbot.
+
+### Demo Preparations and Finishing Touches (3:00 - 4:00)
+
+Get ready for Demo Night.
 
 ## 1409
 
@@ -53,7 +74,13 @@ You'll work together in the following groups.
 
 ## 1410
 
-### Mastermind Evaluations
+### Cross Cohort Pairing (1:00 - 4:00)
+
+Work together your colleagues to refactor your Mastermind projects. Can you tackle one of the extensions or try your hand at Battleship?
+
+
+
+### Mastermind Evaluations (1:00 - 4:00)
 
 #### With Rachel
 

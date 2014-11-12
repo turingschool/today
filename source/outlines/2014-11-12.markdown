@@ -56,6 +56,31 @@ Join Josh Mejia in Classroom C to talk about Unit Testing in Rails.
 
 Stick around in Classroom C as Steve helps you find acceptance.
 
+You're going to pair not, once, but twice.
+
+* Ordering a DVD player from Amazon — Victoria Harrod and Timothy Mee
+* Publishing a blog post — Konr Josef Larson and Zachary Routhier
+* Sending a friend a message on Facebook — Kate Lane and Travis Yoder
+* Placing a bid on Ebay — Sam Kuhlmann and Danny Glunz
+* Establishing a connection on LinkedIn — Adam Smith and Alex Jensen
+* Uploading a video on YouTube — Gregory Narajka and Chandra Carney
+* Submitting an issue on Github — David Bayendor and Herbert Joseph and Chase van Hekken
+
+If you're feeling bold, there are to extensions that you can try your hand at:
+
+* Creating a Pandora station
+* Sharing a document on Google Drive
+
+In the second segment, you'll be in different pairs working with [Wishlist](https://github.com/turingschool-examples/wishlist).
+
+* Chandra Carney and Victoria Harrod
+* Gregory Narajka and Adam Smith
+* Kate Lane and Sam Kuhlmann
+* Herbert Joseph and Travis Yoder
+* Danny Glunz and David Bayendor
+* Konr Josef Larson and Zachary Routhier
+* Alex Jensen and Chase van Hekken and Timothy Mee
+
 ## 1410
 
 ### Debugging Techniques (9:00 - 10:30)
