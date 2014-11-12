@@ -5,10 +5,67 @@ layout: outline
 
 ## All
 
+Last week, we arbitrarily decided Thursday is JavaScript day.
+
+But, since you all have projects due tomorrow, we know you're not going to do them.
+
+So, this week, we'll do it on a Wednesday. You should already have Node installed from last week.
+
+Head over to [nodeschool.io](http://nodeschool.io/) and choose a workshop.
+
+* Posse members from 1409 and 1410 should pair on `javascripting`.
+* Posse members from 1406 and 1407 should pair on `learnyounode`.
+
+Real pairing; not coexisting.
+
 ## 1406
+
+### Project Work Time (9:00 - 12:00)
+
+Rachel and Steve are on hand for questions in ten minute increments.
+
+8 minutes if you're using Vim.
+
+### Project Work Time (1:00 - 4:00)
+
+Rachel and Horace are on hand for questions in ten minute increments.
 
 ## 1407
 
+### The Pivot Work Time (9:00 - 12:00)
+
+Whatever you do, never stop pivoting.
+
+Rachel and Steve are on hand for questions in ten minute increments.
+
+### The Pivot Work Time (1:00 - 4:00)
+
+Rachel and Horace are on hand for questions in ten minute increments.
+
 ## 1409
 
+### ContactManager Work Time (9:00 - 12:00)
+
+Rachel and Steve are on hand for questions in ten minute increments.
+
+### Unit Testing in Rails (1:00 - 2:30)
+
+Join Josh Mejia in Classroom C to talk about Unit Testing in Rails.
+
+### Acceptance Testing in Rails (2:30 - 4:00)
+
+Stick around in Classroom C as Steve helps you find acceptance.
+
 ## 1410
+
+### Debugging Techniques (9:00 - 10:30)
+
+Meet with Josh Cheek to cover some debugging techniques in Classrom A.
+
+### Debugging Exercises (10:30 - 12:00)
+
+Stick around with Josh to tackle some debugging exercises.
+
+### Mastermind Work Time (1:00 - 4:00)
+
+Rachel and Horace are on hand to answer your questions and master your minds.
