@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+Demo night is tonight. [Sign up here](http://www.meetup.com/Turing-Community-Events/events/217589762/).
+
+Lightning talk run throughs are with Rachel at 4:05.
+
 ## 1406
 
 ### FeedEngine Evaluations (9:00 - 12:00)
@@ -56,21 +60,21 @@ Get ready for Demo Night.
 
 You'll work together in the following groups.
 
-* Rich Shea and David Bayendor and Kit Pearson
-* Laura Whalin and Adam Smith
-* Jeffrey Wan and Travis Yoder and Chris Luhring
-* Bryce Holcomb and Chase van Hekken
-* Lori Culberson and Konr Josef Larson
-* Nathan Owsiany and Sam Kuhlmann
-* Emily Berkeley and Kate Lane and Dustin Gault
-* Edward McCarthy and Victoria Harrod
-* Michael Dao and Chandra Carney and Juan Manuel Navarro
-* Kalah Cheek and Zachary Routhier
-* Orion Osborn and Alex Jensen and Andrew Overby
-* Bhargavi Satpathy and Gregory Narajka
-* Krista A Nelson and Timothy Mee and Alexandra Robinson
-* Brandon Mrsny and Danny Glunz and Lydia Shafer
-* Scott Crawford and Herbert Joseph
+* Bryce Holcomb and Travis Yoder and Nathan Owsiany
+* Alexandra Robinson and Konr Josef Larson and Edward McCarthy
+* Dustin Gault and Adam Smith and Orion Osborn
+* Lori Culberson and Zachary Routhier and Emily Berkeley
+* Brandon Mrsny and Sam Kuhlmann and Kalah Cheek
+* Rich Shea and Kate Lane and Michael Dao
+* Chris Luhring and Gregory Narajka and Bhargavi Satpathy
+* David Bayendor and Scott Crawford
+* Victoria Harrod and Kit Pearson
+* Danny Glunz and Laura Whalin
+* Chandra Carney and Andrew Overby
+* Chase van Hekken and Juan Manuel Navarro
+* Timothy Mee and Krista A Nelson
+* Herbert Joseph and Lydia Shafer
+* Alex Jensen and Jeffrey Wan
 
 ## 1410
 
