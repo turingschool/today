@@ -22,7 +22,7 @@ Meet with Jeff in Classroom A to brainstorm ideas for your final project.
 
 ### Q&A Chat with Thoughtworks (1:00 - 2:00)
 
-Meet in Classroom A to talk to Tess and Chelsea from Thoughtbot.
+Meet in Classroom A to talk to Tess and Chelsea from Thoughtworks.
 
 ### Demo Preparations and Finishing Touches (3:00 - 4:00)
 
@@ -42,7 +42,7 @@ Meet with Steve in Classroom B to brainstorm ideas for your final project.
 
 ### Q&A Chat with Thoughtworks (1:00 - 2:00)
 
-Meet in Classroom A to talk to Tess and Chelsea from Thoughtbot.
+Meet in Classroom A to talk to Tess and Chelsea from Thoughtworks.
 
 ### Demo Preparations and Finishing Touches (3:00 - 4:00)
 
@@ -77,8 +77,6 @@ You'll work together in the following groups.
 ### Cross Cohort Pairing (1:00 - 4:00)
 
 Work together your colleagues to refactor your Mastermind projects. Can you tackle one of the extensions or try your hand at Battleship?
-
-
 
 ### Mastermind Evaluations (1:00 - 4:00)
 
