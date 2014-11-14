@@ -5,10 +5,105 @@ layout: outline
 
 ## All
 
-## 1406
+### Introduction to Bonobos (9:00 - 9:15)
 
-## 1407
+Meet in the big workspace to for a chat with Andrew from Bonobos.
 
-## 1409
+### Lightning Talks (9:15 - 10:00)
+
+#### In Classroom A
+
+##### Presenters
+
+* Eric Fransen: Software Patents & Trolls
+* Allison Larson: Ember on Rails
+* Rolando Navarrete: The Legality of Peer to Peer Networks
+* Glen Egbert: Technical Debt
+* Victoria Harrod: Hedy Lamarr
+* Greg Narajka: Using CS to manipulate OKCupid
+
+##### Audience
+
+* John Backus posse
+* Donald Knuth posse
+* Dan Ingalls posse
+* Dennis Ritchie posse
+* John von Neumann posse
+* Tim Berners-Lee posse
+* Grace Hopper posse
+* Fred Brooks posse
+* John McCarthy posse
+
+#### In Classoom C
+
+##### Presenters
+
+* Alan Smith: Raptor Ruby Server
+* Watts: The End of Death
+* Kavita Sachdeva: Ancient Cryptography
+* Tim Mee: Evolution of Data Storage
+* Danny Glunz: How to Survive the Titanic with Machine Learning
+
+##### Audience
+
+* Karen Spärck Jones posse
+* Anita Borg posse
+* Yukihiro Matsumoto posse
+* Guido van Rossum posse
+* Alan Kay posse
+* Kay McNulty posse
+* Adele Goldberg posse
+* Ada Lovelace posse
+* Betty Holberton posse
+
+### Self-Study (10:00 - 12:00)
+
+So, it's relatively easy to ask you to respect the Friday since you're
+all between projects. But that's all the more reason to take a little
+bit of time to sharpen your tools.
+
+There won't be one-on-ones today.
+
+* Consider working through the [nodeschool.io](http://nodeschool.io/)
+  workshops. **Steve** is clearing his schedule to exclusively answer
+  JavaScript questions exclusively today.
+* Consider working on the [Ruby Koans](http://rubykoans.com/) to
+  sharpen your Ruby skills.
+* Consider getting better with your tools. Take a look at
+  [ShortcutFoo](https://www.shortcutfoo.com/) to learn your way around
+  your editor.
+* Consider taking one or more [Exercism](http://exercism.io) exercises
+  in the language of your choice.
+* We talked with Thoughtworks yesterday and they prefer that their
+  applicants complete a challenge in Java. Consider tackling some Java
+  today with [this course](https://www.udemy.com/java-tutorial/).
+
+#### Study Groups
+
+* **Travis** is running a study group on 3D printing. Meet him by the,
+  umm, 3D pritner to discuss, umm, 3D printing.
+* **Kate** is running a study group on design. Seek her out. She'll
+  post her location on Slack.
+
+#### Peer Mentoring
+
+1406 will be busy for most of the morning, but Watts, Will,
+Jonmichael, and Robert have a standing invitation to pair. So, if you
+see them around, feel free to reach out.
+
+### Guest Speakers: Samantha Holloway & Matt Talbot from GoSpotCheck (1:00 - 2:00)
+
+Meet in the big workspace.
+
+### Group Retrospectives (2:00 - 3:00)
+
+* **1406**: Meet in the Big Workspace.
+* **1407**: Meet in Classroom A.
+* **1409**: Meet in Classroom C.
+* **1410**: Meet in Classroom B.
 
 ## 1410
+
+### Event Reporter Kickoff (3:00 - 3:30)
+
+Meet with Jeff is Classroom C to kick off a new project.
