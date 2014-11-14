@@ -56,42 +56,63 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 * Ada Lovelace posse
 * Betty Holberton posse
 
+## Group Chat with Andrew and Jordan from Bonobos (10:00 - 10:45)
+
+### With Jordan
+
+* Mike
+* Chandra
+* Lydia
+* Danny
+* Bryce
+* Kate
+* Sam
+
+### With Andrew
+
+* Zach
+* Emily
+* Nathan
+* Scott
+* Kit
+* Travis
+
 ### Self-Study (10:00 - 12:00)
 
-So, it's relatively easy to ask you to respect the Friday since you're
-all between projects. But that's all the more reason to take a little
-bit of time to sharpen your tools.
+So, it's relatively easy to ask you to respect the Friday since you're all between projects. But that's all
+the more reason to take a little bit of time to sharpen your tools.
 
 There won't be one-on-ones today.
 
-* Consider working through the [nodeschool.io](http://nodeschool.io/)
-  workshops. **Steve** is clearing his schedule to exclusively answer
-  JavaScript questions exclusively today.
-* Consider working on the [Ruby Koans](http://rubykoans.com/) to
-  sharpen your Ruby skills.
-* Consider getting better with your tools. Take a look at
-  [ShortcutFoo](https://www.shortcutfoo.com/) to learn your way around
-  your editor.
-* Consider taking one or more [Exercism](http://exercism.io) exercises
-  in the language of your choice.
-* We talked with Thoughtworks yesterday and they prefer that their
-  applicants complete a challenge in Java. Consider tackling some Java
-  today with [this course](https://www.udemy.com/java-tutorial/).
+* Consider working through the [nodeschool.io](http://nodeschool.io/) workshops. **Steve** is clearing his
+  schedule to exclusively answer JavaScript questions exclusively today.
+* Consider working on the [Ruby Koans](http://rubykoans.com/) to sharpen your Ruby skills.
+* Consider getting better with your tools. Take a look at [ShortcutFoo](https://www.shortcutfoo.com/) to
+  learn your way around your editor.
+* Consider taking one or more [Exercism](http://exercism.io) exercises in the language of your choice.
+* We talked with Thoughtworks yesterday and they prefer that their applicants complete a challenge in Java.
+  Consider tackling some Java today with [this course](https://www.udemy.com/java-tutorial/).
 
-#### Study Groups
+#### Study Groups (10:45 - 12:00)
 
-* **Travis** is running a study group on 3D printing. Meet him by the,
-  umm, 3D pritner to discuss, umm, 3D printing.
-* **Kate** is running a study group on design. Seek her out. She'll
-  post her location on Slack.
+* **Travis** is running a study group on 3D printing from 10:45 - 12:00. Meet him by the, umm, 3D printer to discuss, umm, 3D
+  printing.
+* **Kate** is running a study group on design from 10:45 - 12:00. Seek her out. She'll post her location on Slack.
+* **Zach** is running a study group on the ins-and-outs of computer hardware from 10:45 - 12:00. If you'd like to learn more about the magical glowing box beneath your fingers, find Zach.
 
 #### Peer Mentoring
 
-1406 will be busy for most of the morning, but Watts, Will,
-Jonmichael, and Robert have a standing invitation to pair. So, if you
-see them around, feel free to reach out.
+1406 will be busy for most of the morning, but Watts, Will, Jonmichael, and Robert have a standing invitation to pair. So, if you see them around, feel free to reach out.
 
-### Guest Speakers: Samantha Holloway & Matt Talbot from GoSpotCheck (1:00 - 2:00)
+### Guest Speakers: Samantha & Matt from GoSpotCheck (1:00 - 2:00)
+
+This afternoon, we'll be speaking with Matt Talbot (CEO) and Samantha Holloway (CSO) from GoSpotCheck.
+
+GoSpotCheck helps you collect, organize and react to field data through their beautifully designed web and mobile applications.
+
+* [Website](http://www.gospotcheck.com)
+* [Blog](http://www.gospotcheck.com/blog/)
+* [Twitter](https://twitter.com/gospotcheck)
 
 Meet in the big workspace.
 
