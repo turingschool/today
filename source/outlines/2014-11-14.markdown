@@ -58,7 +58,7 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 
 ### Group Chat with Andrew and Jordan from Bonobos (10:00 - 10:45)
 
-#### With Jordan
+#### With Jordan in Classroom A
 
 * Mike
 * Chandra
@@ -68,7 +68,7 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 * Kate
 * Sam
 
-#### With Andrew
+#### With Andrew in Classroom B
 
 * Zach
 * Emily
@@ -76,6 +76,10 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 * Scott
 * Kit
 * Travis
+
+## Group Chat with the Creative Group (10:00 - 12:00)
+
+All of 1406 and 1407 in Classroom C.
 
 ### Self-Study (10:00 - 12:00)
 
@@ -118,10 +122,10 @@ Meet in the big workspace.
 
 ### Group Retrospectives (2:00 - 3:00)
 
-* **1406**: Meet in the Big Workspace.
-* **1407**: Meet in Classroom A.
-* **1409**: Meet in Classroom C.
-* **1410**: Meet in Classroom B.
+* **1406**: Meet in the Classroom A with Josh Mejia.
+* **1407**: Meet in Classroom A with Jeff.
+* **1409**: Meet in Big Workspace with Steve and Horace.
+* **1410**: Meet in Classroom B with Rachel and Josh Cheek.
 
 ## 1410
 
