@@ -56,9 +56,9 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 * Ada Lovelace posse
 * Betty Holberton posse
 
-## Group Chat with Andrew and Jordan from Bonobos (10:00 - 10:45)
+### Group Chat with Andrew and Jordan from Bonobos (10:00 - 10:45)
 
-### With Jordan
+#### With Jordan
 
 * Mike
 * Chandra
@@ -68,7 +68,7 @@ Meet in the big workspace to for a chat with Andrew from Bonobos.
 * Kate
 * Sam
 
-### With Andrew
+#### With Andrew
 
 * Zach
 * Emily
