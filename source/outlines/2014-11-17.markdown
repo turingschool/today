@@ -34,7 +34,7 @@ Meet with Steve at 4:05 in Classroom A to brainstorm ideas for your lightning ta
 
 ### Getting Started with Services (9:00 - 10:30)
 
-Join Jeff in Classroom C to get started with services.
+Join Jeff in Classroom C to [get started with services](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_services.markdown).
 
 ### Introduction to Services Tutorial (10:30 - 12:00)
 
@@ -46,6 +46,17 @@ Your final project at Turing. The last one. No pressure.
 
 Meet with Jeff and Jorge in Classroom B to kick things off, form teams, etc.
 
+You'll work through [this protocol](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pitching_mastery_projects.markdown).
+
+Use these working groups for the session:
+
+* Gustavo Villagrana & Will Faurot & Andy Mention
+* Marc Garreau & Tim Proctor & Emily Davis
+* Eric Fransen & Chad Brading & Alan Smith
+* Jonmichael Chambers & Horacio Chavez & Allison Larson
+* Tan Doan & Hilary Denton & Corey Davis
+* Robert Gu & Andrew Watkins
+
 ## 1407
 
 ### Self-Directed Project Kickoff and Iteration Planning (9:00 - 10:30)
@@ -54,7 +65,7 @@ Meet with Steve in the Big Workspace to kick off your [self-directed projects](h
 
 ### Getting Started with OAuth (10:30 - 12:00)
 
-Move into Classroom C as Jeff introduces you to OAuth.
+Move into Classroom C as Jeff [introduces you to OAuth](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown).
 
 ### Project Work Time (1:00 - 3:00)
 
