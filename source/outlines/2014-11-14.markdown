@@ -138,3 +138,19 @@ Meet in the big workspace.
 ### Event Reporter Kickoff (3:00 - 3:30)
 
 Meet with Jeff is Classroom C to kick off a new project.
+
+[Project Description](http://tutorials.jumpstartlab.com/projects/event_reporter.html)
+
+#### Pairings
+
+* Alexandra Robinson & Juan Manuel Navarro
+* Andrew Overby & Chris Luhring
+* Kit Pearson & Orion Osborn
+* Brandon Mrsny & Nathan Owsiany
+* Edward McCarthy & Kalah Cheek
+* Dustin Gault & Emily Berkeley
+* Lori Culberson & Michael Dao
+* Bhargavi Satpathy & Jeffrey Wan
+* Bryce Holcomb & Laura Whalin
+* Rich Shea & Scott Crawford
+* Lydia Shafer & Krista A Nelson
