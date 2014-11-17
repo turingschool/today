@@ -38,7 +38,7 @@ Join Jeff in Classroom C to [get started with services](https://github.com/turin
 
 ### Introduction to Services Tutorial (10:30 - 12:00)
 
-Josh Mejia will be on hand for questions.
+Josh Mejia will be on hand for questions related to [RepFinder](http://tutorials.jumpstartlab.com/projects/monsterporium/practicing_services.html).
 
 ### Mastery Project Kickoff (1:00 - 3:00)
 
