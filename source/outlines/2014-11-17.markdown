@@ -1,0 +1,74 @@
+---
+title: 141117
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Can you implement `flatten` without using, uhm, `Array#flatten`? It should be able to handle nested arrays infinitely deep.
+
+* If you did it without money patching `Array`, can you do it with monkey patching? (And vice versa, of course.)
+* Can you do it in JavaScript?
+
+We all did it on Friday and we'll show you our approaches at 8:55.
+
+### Lightning Talk Brainstorm (4:05 - 4:45)
+
+Meet with Steve at 4:05 in Classroom A to brainstorm ideas for your lightning talk if you haven't already had a proposal approved by Jorge.
+
+## 1406
+
+### Getting Started with Services (9:00 - 9:30)
+
+Join Jeff in Classroom C to get started with services.
+
+### Introduction to Services Tutorial (10:30 - 12:00)
+
+Josh Mejia will be on hand for questions.
+
+### Mastery Project Kickoff (1:00 - 3:00)
+
+Your final project at Turing. The last one. No pressure.
+
+Meet with Jeff and Jorge in Classroom B to kick things off, form teams, etc.
+
+## 1407
+
+### Self-Directed Project Kickoff and Iteration Planning (9:00 - 10:30)
+
+Meet with Steve in the Big Workspace to kick off your self-directed projects.
+
+### Getting Started with OAuth (10:30 - 12:00)
+
+Move into Classroom C as Jeff introduces you to OAuth.
+
+### Project Work Time (1:00 - 3:00)
+
+Start hacking on that first iteration. Horace and Josh Mejia are on hand for 10 minute questions.
+
+## 1409
+
+### Getting Started with Dinner Dash (9:00 - 12:00)
+
+Join Jorge in Classroom B to kick off your first team Rails project.
+
+### Authentication (1:00 - 3:00)
+
+Meet up with Rachel in Classroom A to learn about authentication and rainbow tables.
+
+## 1410
+
+### Revisiting Enumerable (9:00 - 12:00)
+
+This morning you'll be working through [these enumerable challenges](https://github.com/turingschool-examples/enumerable-challenges).
+
+There will be two tracks:
+
+* Meet with Horace in Classroom A if you'd like some guidance.
+* Find a spot in the workspace surrounding Classroom A if you want to go it alone.
+
+### Event Reporter Work Time (1:00 - 3:00)
+
+This afternoon, you'll have time to work on EventReporter. Horace and Josh Mejia are on hand for questions.
