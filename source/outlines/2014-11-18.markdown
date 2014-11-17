@@ -1,0 +1,63 @@
+---
+title: 141118
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Let's try [a problem from Project Euler](https://projecteuler.net/problem=22) today:
+
+Using [names.txt](https://projecteuler.net/project/resources/p022_names.txt) (right click and 'Save Link/Target As...'), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.
+
+For example, when the list is sorted into alphabetical order, COLIN, which is worth 3 + 15 + 12 + 9 + 14 = 53, is the 938th name in the list. So, COLIN would obtain a score of 938 × 53 = 49714.
+
+What is the total of all the name scores in the file?
+
+
+## 1406
+
+### Building a Service with Sinatra (9:00 - 12:00)
+
+Join Josh Mejia and Horace in Classroom C to discuss how to build a service using Sinatra.
+
+### Mastery Project Work Time (1:00 - 4:00)
+
+Horace is on hand for questions.
+
+## 1407
+
+### Self-Directed Project Work Time (9:00 - 12:00)
+
+Continue hacking on your self-directed projects. Steve is on hand for 10 minute questions all morning.
+
+### Building a VPS (12:00 - 3:00)
+
+Goodbye Heroku, hello Digital Ocean.
+
+Meet with Steve in Classroom B to [build your own VPS](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown).
+
+## 1409
+
+### Authorization and Privileges (9:00 - 12:00)
+
+Check your privilege with Jorge in Classroom A.
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Horace is on hand for questions in 10 minute chunks.
+
+## 1410
+
+### EventReporter Check-ins and Work Time (9:00 - 12:00)
+
+Rachel is available for 15 minute check-ins. Send her a message on Slack to schedule one.
+
+### Measuring and Improving Test Coverage (1:00 - 2:30)
+
+Join Rachel in Classroom A to measure and improve your test coverage.
+
+### Refactoring Patterns, Part I (2:30 - 4:00)
+
+Stick around in Classroom A as Josh Mejia drops by to talk about refactoring.
