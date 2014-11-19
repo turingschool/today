@@ -28,15 +28,13 @@ countChange(4, [1,2]) // => 3
 countChange(10, [5,2,3]) // => 4
 ```
 
-
 ## 1406
 
 ### Project Work Time (9:00 - 12:00)
 
 ```
 Before you judge me, try hard to love me.
-The painful youth I've had
-
+The painful youth I've had...
 Have you seen my Childhood...
 ```
 
