@@ -1,0 +1,104 @@
+---
+title: 141120
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Project Work Time (9:00 - 12:00)
+
+> Before you judge me, try hard to love me.
+> The painful youth I've had
+>
+> Have you seen my Childhood...
+
+Jorge is around to help you find your childhood this morning.
+
+### Project Work Time (12:00 - 3:00)
+
+> People say I'm not okay
+> 'Cause I love such elementary things...
+> It's been my fate to compensate,
+> for the Childhood
+> I've never known...
+
+Jorge will be on hand for your questions this afternoon as well.
+
+## 1407
+
+### Project Work Time and Check-ins (9:00 - 12:00)
+
+It's the end of Iteration 1. Please come to your check-in with the latest version of you application as well as your plan for Iteration 2, which is due on Tuesday.
+
+Jorge is on hand for questions in the mean time.
+
+### With Steve
+
+* 9:00 - 9:30: Ian
+* 9:30 - 10:00: Kavita
+* 10:00 - 10:30: Jessica
+* 10:30 - 11:00: Rolando
+* 11:00 - 11:30: Aaron
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+It's the end of Iteration 1. Please come to your check-in with the latest version of you application as well as your plan for Iteration 2, which is due on Tuesday.
+
+Jorge is on hand for questions in the mean time.
+
+### With Steve
+
+* 1:00 - 1:30: Glen
+* 1:30 - 2:00: Jim
+* 2:00 - 2:30: Luke
+* 2:30 - 3:00: Sara
+
+## 1409
+
+### Dinner Dash Check-ins with Work Time (9:00 - 12:00)
+
+### With Josh Cheek
+
+* 9:00 - 10:00: Herbert Joseph & Sam Kuhlmann & Travis Yoder & Timothy Mee
+* 10:15 - 11:15: Gregory Narajka & Victoria Harrod & Chase van Hekken & Konr Josef Larson
+
+### With Horace
+
+* 9:00 - 10:00: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
+* 10:15 - 11:15: Adam Smith & Danny Glunz & David Bayendor
+
+### Dinner Dash Work Time (9:00 - 12:00)
+
+Josh Cheek is on hand for questions.
+
+## 1410
+
+### EventReporter Evaluations (9:00 - 12:00)
+
+When you're not in your evaluation you can work on refactoring EventReporter or push forward on [javascripting or git-it](http://nodeschool.io/#workshoppers).
+
+#### With Rachel
+
+* 9:00 - 9:30: Rich Shea & Scott Crawford
+* 9:30 - 10:00: Bryce Holcomb & Laura Whalin
+* 10:00 - 10:30: Lori Culberson & Michael Dao
+* 11:00 - 11:30: Alexandra Robinson & Juan Manuel Navarro
+* 11:30 - 12:00: Bhargavi Satpathy & Jeffrey Wan & Edward McCarthy
+
+#### With Josh Mejia
+
+* 9:00 - 9:30: Kit Pearson & Orion Osborn
+* 9:30 - 10:00: Lydia Shafer & Krista A Nelson
+* 10:00 - 10:30: Andrew Overby & Chris Luhring
+* 11:00 - 11:30: Dustin Gault & Emily Berkeley
+* 11:30 - 12:00: Brandon Mrsny & Nathan Owsiany
+
+### EventReporter Recap and Refactor (1:00 - 2:30)
+
+Jeff, Rachel, and Josh Mejia will be offering sessions based on this morning's evaluations. Stay tuned to Slack for more information.
+
+### RTanque Battle Dojo (2:30-4:00)
+
+After delivering your EventReporter projects, let's do something fun. Join Horace in Classroom C to play with RTanque.
