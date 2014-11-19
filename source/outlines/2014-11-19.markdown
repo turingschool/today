@@ -7,6 +7,14 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
+So, Ruby (and some other languages—apparently, there are other languages) have a data structure called `Set`.
+
+A set is like an Array, but it holds unique objects.
+
+If you had a set `[1, 2, 3]` and you tried to push in `3`, you'd still have the same set.
+
+Can you implement this With tests? What about `shift` and `unshift`? `pop`?
+
 ### Film Club (12:00 - 1:00)
 
 If you're wondering where all the cool kids hang out around noon; it's Film Club.
