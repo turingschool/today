@@ -56,7 +56,7 @@ Rachel is available for 15 minute check-ins. Send her a message on Slack to sche
 
 ### Measuring and Improving Test Coverage (1:00 - 2:30)
 
-Join Rachel in Classroom A to measure and improve your test coverage.
+Join Rachel in Classroom A to measure and improve your test coverage. Find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/measuring_improving_test_coverage.markdown).
 
 ### Refactoring Patterns, Part I (2:30 - 4:00)
 
