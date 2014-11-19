@@ -1,0 +1,88 @@
+---
+title: 141119
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+### Film Club (12:00 - 1:00)
+
+If you're wondering where all the cool kids hang out around noon; it's Film Club.
+
+Emily is ready to cue up a talk by the wonderful Sandi Metz.
+
+## 1406
+
+### Mastery Project Work Time (9:00 - 12:00)
+
+Basket those jobs; tiny those retrospectives; warm those ups; ship those mentors.
+
+Josh Mejia and Horace are on hand to help with any of the above.
+
+### Building a Service with Rails API: Workshop (1:00 - 4:00)
+
+Join Jorge and Steve in Classroom C to build some more services.
+
+## 1407
+
+### Working with Third-Party APIs (9:00 - 9:45)
+
+Meet up with Steve in Classroom A to talk about working with APIs using Faraday.
+
+### JavaScript and jQuery Revisited (9:45 - 10:30)
+
+Stick around with Steve in Classroom A. We'll talk about working with your data in the DOM and making AJAX requests.
+
+### Iteration Planning (10:30 - 12:00)
+
+Tired of Steve? Jorge will drop by to talk some more about iteration planning.
+
+### Self-Directed Project Work Time (1:00 - 4:00)
+
+Rachel is on hand for your self-directed questions.
+
+## 1409
+
+### Dinner Dash Work Time (9:00 - 12:00)
+
+No, but seriously—those dinners are *not* going to dash themselves.
+
+Horace and Josh Mejia are on hand for all of your dinner dashing needs.
+
+### Pushing Logic Down the Stack (1:00 - 4:00)
+
+Join Josh Mejia in Classroom A to push some logics down some stacks.
+
+## 1410
+
+### Regular Expression (9:00 - 10:30)
+
+Join Rachel in Classroom C to talk about regular expressions.
+
+### Big O Analysis (10:30 - 11:15)
+
+So, Steve is an instructor at Turing. Join him in Classroom A to talk about algorithmic complexity.
+
+### EventReporter Cross-Team Pairing (11:15 - 12:00)
+
+It's time to learn from each other and swap tips. Spend 50% of the time looking at one teams project and 50% of the time looking at the other.
+
+* Alexandra Robinson and Andrew Overby
+* Kit Pearson and Brandon Mrsny
+* Dustin Gault and Lori Culberson
+* Bhargavi Satpathy and Bryce Holcomb
+* Rich Shea and Lydia Shafer
+* Juan Manuel Navarro and Chris Luhring
+* Orion Osborn and Nathan Owsiany
+* Emily Berkeley and Michael Dao
+* Jeffrey Wan and Edward McCarthy and Laura Whalin
+* Scott Crawford and Krista A Nelson
+
+### EventReporter Work Time (1:00 - 4:00)
+
+You've learned some things today (hopefully). It's time to get back to work.
+
+Horace is on hand for questions.
+
