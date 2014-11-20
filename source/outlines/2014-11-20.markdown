@@ -45,7 +45,7 @@ It's the end of Iteration 1. Please come to your check-in with the latest versio
 
 Jorge is on hand for questions in the mean time.
 
-### With Steve
+#### With Steve
 
 * 9:00 - 9:30: Ian
 * 9:30 - 10:00: Kavita
@@ -59,7 +59,7 @@ It's the end of Iteration 1. Please come to your check-in with the latest versio
 
 Jorge is on hand for questions in the mean time.
 
-### With Steve
+#### With Steve
 
 * 1:00 - 1:30: Glen
 * 1:30 - 2:00: Jim
@@ -70,7 +70,7 @@ Jorge is on hand for questions in the mean time.
 
 ### Dinner Dash Check-ins with Work Time (9:00 - 12:00)
 
-### With Horace
+#### With Horace
 
 * 9:00: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
 * 9:45: Adam Smith & Danny Glunz & David Bayendor
