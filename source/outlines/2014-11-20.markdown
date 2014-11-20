@@ -5,28 +5,13 @@ layout: outline
 
 ## All
 
-It's Thursday and Thursday is JavaScript day.
+Thursday is JavaScript day. [MDN](https://developer.mozilla.org/en-US/) is your friend.
 
-Write a function that counts how many different ways you can make change for an amount of money, given an array of coin denominations. For example, there are 3 ways to give change for 4 if you have coins with denomination 1 and 2:
+Pick a method from Ruby's `Enumberable` that is not `map`, `collect`, `reduce`, `inject`, `each`, or `filter`.
 
-```js
-1+1+1+1, 1+1+2, 2+2.
-```
+Can you implement it in JavaScript?
 
-The order of coins does not matter:
-
-```js
-1+1+2 == 2+1+1
-```
-
-Also, assume that you have an infinite ammount of coins.
-
-Your function should take an amount to change and an array of unique denominations for the coins:
-
-```js
-countChange(4, [1,2]) // => 3
-countChange(10, [5,2,3]) // => 4
-```
+You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
 
 ## 1406
 
@@ -85,8 +70,6 @@ Jorge is on hand for questions in the mean time.
 
 ### Dinner Dash Check-ins with Work Time (9:00 - 12:00)
 
-### With Josh Cheek
-
 ### With Horace
 
 * 9:00: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
@@ -94,9 +77,11 @@ Jorge is on hand for questions in the mean time.
 * 10:30: Herbert Joseph & Sam Kuhlmann & Travis Yoder & Timothy Mee
 * 11:15: Gregory Narajka & Victoria Harrod & Chase van Hekken & Konr Josef Larson
 
-### Dinner Dash Work Time (9:00 - 12:00)
+### Dinner Dash Work Time (1:00 - 4:00)
 
-Josh Cheek is on hand for questions.
+Horace will be on hand for questions from 1:00 - 2:30.
+
+Jorge will be on hand from 2:30 - 4:00.
 
 ## 1410
 
