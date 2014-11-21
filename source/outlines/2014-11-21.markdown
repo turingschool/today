@@ -13,7 +13,7 @@ The shot is $25 Mist is $35. The following insurance companies are accepted: Hum
 
 * **Jessica** has spent the better part of the week scraping websites and will running a session on "Web Scraping for Fun and Profit" in **Classroom A**.
 * **Will** is going to be solving a number of Project Euler problems in JavaScript in **Classroom C**.
-* **Jeffrey Wan** is running an _Eloquent JavaScript_ study group. He'll be working through the book, ending at recursion in **Classroom B**.
+* **Jeffrey Wan** is running an _RTanque Dojo_ study group in **Classroom B**.
 
 **Robert, Jonmichael, Will, and Watts** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
 
