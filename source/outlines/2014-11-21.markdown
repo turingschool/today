@@ -147,14 +147,14 @@ Come with a problem/question or just come ready and willing to hack on something
 * Fred Brooks posse
 * John McCarthy posse
 
-## Guest Speaker: Andrew Homeyer from Rally (11:00 - 12:00)
+### Guest Speaker: Andrew Homeyer from Rally (11:00 - 12:00)
 
 * [Andrew on Twitter](http://www.twitter.com/andrewhomeyer)
 * [Andrew on Github](http://github.com/homeyer)
 * [Andrew on the Rally blog](http://www.rallydev.com/community/authors/andrew-homeyer)
 * [Andrew on LinkedIn](http://www.linkedin.com/in/homeyer)
 
-## Guest Speakers: Meeka Gayhart and Laura Steadman from Quick Left (1:00 - 2:00)
+### Guest Speakers: Meeka Gayhart and Laura Steadman from Quick Left (1:00 - 2:00)
 
 * [Meeka on Twitter](https://twitter.com/ccanduc)
 * [Laura on Twitter](https://twitter.com/adventuresteady)
@@ -163,11 +163,11 @@ Come with a problem/question or just come ready and willing to hack on something
 * [Meeka on LinkedIn](https://www.linkedin.com/pub/romeeka-gayhart/15/439/595)
 * [Laura on LinkedIn](https://www.linkedin.com/in/lauramsteadman)
 
-## Group Retrospectives
+### Group Retrospectives
 
 * 1406 meet in the Big Workspace with Rachel and Josh Cheek
 * 1407 meet in Classroom C with Jorge and Steve
 * 1409 meet in Classroom B with Horace and Jeff
 * 1410 meet in Classroom A with Josh Mejia and Raissa
 
-## Surveys
+### Surveys
