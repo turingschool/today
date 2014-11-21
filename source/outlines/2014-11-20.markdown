@@ -15,7 +15,20 @@ You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
 
 ## 1406
 
-### Project Work Time (9:00 - 12:00)
+### Micro Check-Ins & Project Work Time (9:00 - 12:00)
+
+#### Micro Check-Ins
+
+Meet with Jeff to quickly go over your progress and project trajectory.
+
+* 9:00 - JobBasket
+* 9:15 - MentorSHIP
+* 9:30 - Warm It Up
+* 9:45 - (Journaling App)
+
+We'll meet in the big workspace near the kitchen area.
+
+#### Project Work Time
 
 ```
 Before you judge me, try hard to love me.
@@ -71,6 +84,8 @@ Jorge is on hand for questions in the mean time.
 ### Dinner Dash Check-ins with Work Time (9:00 - 12:00)
 
 #### With Horace
+
+Find Horace near the instructor desks.
 
 * 9:00: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
 * 9:45: Adam Smith & Danny Glunz & David Bayendor
