@@ -1,0 +1,166 @@
+## All
+
+### Flu Shots (9:45 - 11:30)
+
+The shot is $25 Mist is $35. The following insurance companies are accepted: Humana, Rocky Mountain HMO, Cigna, Great West, Aetna. Bring your insurance card. If your insurance is not listed here, the vaccination can still be covered. You will just need to pay in advance and contact your insurance company for reimbursement.
+
+### Study Groups and Peer Mentoring (9:00 - 10:40)
+
+**Jeffrey Wan** is running an _Eloquent JavaScript_ study group. He'll be working through the book, ending at recursion.
+
+**Robert, Jonmichael, Will, and Watts** have offered to mentor students from 1407, 1409, and 1410. Seek them out if there is something you're struggling with or if you want to take on a new challenge. Pick an Exercism? Tackle a problem on Project Euler? Try to solve one of those JavaScript problems from yesterday?
+
+Come with a problem/question or just come ready and willing to hack on something with them. If you haven't gotten a chance to work with them, ask around—they're great mentors. They're willing to work one-on-one as well as in groups.
+
+### One-on-Ones (9:00 - 10:40)
+
+#### With Jeff
+
+* 9:00 - 9:10: Danny Glunz
+* 9:10 - 9:20: Emily Berkeley
+* 9:20 - 9:30: Michael Dao
+* 9:30 - 9:40: Konr Josef Larson
+* 9:40 - 9:50: Scott Crawford
+* 9:50 - 10:00: Kavita Sachdeva
+
+#### With Josh Cheek
+
+* 9:00 - 9:10: Jeffrey Wan
+* 9:10 - 9:20: Jonmichael Chambers
+* 9:20 - 9:30: Andrew Watkins
+* 9:30 - 9:40: Zachary Routhier
+* 9:40 - 9:50: Alexandra Robinson
+* 9:50 - 10:00: Orion Osborn
+* 10:00 - 10:10: Jim Sutton
+* 10:10 - 10:20: Gustavo Villagrana
+
+#### With Josh Mejia
+
+* 9:00 - 9:10: Tim Proctor
+* 9:10 - 9:20: Luke Aiken
+* 9:20 - 9:30: Marc Garreau
+* 9:30 - 9:40: Victoria Harrod
+* 9:40 - 9:50: Sam Kuhlmann
+* 9:50 - 10:00: Rich Shea
+* 10:00 - 10:10: Sara Simon
+* 10:10 - 10:20: Eric Fransen
+
+#### With Horace
+
+* 9:00 - 9:10: Nathan Owsiany
+* 9:10 - 9:20: Chandra Carney
+* 9:20 - 9:30: Lori Culberson
+* 9:30 - 9:40: Dustin Gault
+* 9:40 - 9:50: Lydia Shafer
+* 9:50 - 10:00: Herbert Joseph
+* 10:00 - 10:10: Rolando Navarrete
+* 10:10 - 10:20: Allison Larson
+
+#### With Raissa
+
+* 9:00 - 9:10: Adam Smith
+* 9:10 - 9:20: Alex Jensen
+* 9:20 - 9:30: Kit Pearson
+* 9:30 - 9:40: Andrew Overby
+* 9:40 - 9:50: Glen Egbert
+* 9:50 - 10:00: David Bayendor
+* 10:00 - 10:10: Tan Doan
+* 10:10 - 10:20: Brandon Mrsny
+
+#### With Rachel
+
+* 9:00 - 9:10: Jessica Goulding
+* 9:10 - 9:20: Christopher Luhring
+* 9:20 - 9:30: Alan Smith
+* 9:30 - 9:40: Corey Davis
+* 9:40 - 9:50: Edward McCarthy
+* 9:50 - 10:00: Chase van Hekken
+* 10:00 - 10:10: Travis Yoder
+* 10:10 - 10:20: Kate Lane
+
+#### With Jorge
+
+* 9:00 - 9:10: Bhargavi Satpathy
+* 9:10 - 9:20: Gregory Narajka
+* 9:20 - 9:30: Aaron Paul Wortham
+* 9:30 - 9:40: Horacio Chavez
+* 9:40 - 9:50: Laura Whalin
+* 9:50 - 10:00: Robert Gu
+* 10:00 - 10:10: Andy Mention
+* 10:10 - 10:20: Hilary Denton
+
+#### With Steve
+
+* 9:00 - 9:10: Chad Brading
+* 9:10 - 9:20: Bryce Holcomb
+* 9:20 - 9:30: Emily Davis
+* 9:30 - 9:40: Ian Andersen
+* 9:40 - 9:50: Juan Manuel Navarro
+* 9:50 - 10:00: Timothy Mee
+* 10:00 - 10:10: Will Faurot
+* 10:10 - 10:20: Krista Nelson
+
+## Lightning Talks (10:25 - 11:00)
+
+### In Classroom C with Jorge
+
+* Eric Fransen: *Software Patents & Trolls* (Technology & Society)
+* Chandra Carney: *How to Program with Accessibility in Mind* (Design / User Experience)
+* Horacio Chavez: *SQL and friends.* (Ruby Architecture / Libraries)
+* Tim Proctor: *Is Elegant Ruby Fast?* (Ruby Architecture / Libraries)
+
+#### Audience
+
+* Karen Spärck Jones posse
+* Anita Borg posse
+* Yukihiro Matsumoto posse
+* Guido van Rossum posse
+* Alan Kay posse
+* Kay McNulty posse
+* Adele Goldberg posse
+* Ada Lovelace posse
+* Betty Holberton posse
+
+### In Classroom A with Steve
+
+* Tan Doan: *Yukihiro Matsumoto* (Historical or Present-day People in Computer Science)
+* Will Faurot: *ClojureScript* (Software Libraries)
+* Andy Mention: *PhoneGap / Cordova* (Software Libraries)
+* Herbert Joseph: *Get in the Garage* (Software Libraries)
+
+##### Audience
+
+* John Backus posse
+* Donald Knuth posse
+* Dan Ingalls posse
+* Dennis Ritchie posse
+* John von Neumann posse
+* Tim Berners-Lee posse
+* Grace Hopper posse
+* Fred Brooks posse
+* John McCarthy posse
+
+## Guest Speaker: Andrew Homeyer from Rally (11:00 - 12:00)
+
+* [Andrew on Twitter](http://www.twitter.com/andrewhomeyer)
+* [Andrew on Github](http://github.com/homeyer)
+* [Andrew on the Rally blog](http://www.rallydev.com/community/authors/andrew-homeyer)
+* [Andrew on LinkedIn](http://www.linkedin.com/in/homeyer)
+
+## Guest Speakers: Meeka Gayhart and Laura Steadman from Quick Left (1:00 - 2:00)
+
+* [Meeka on Twitter](https://twitter.com/ccanduc)
+* [Laura on Twitter](https://twitter.com/adventuresteady)
+* [Meeka's posts on the Quick Left blog](http://quickleft.com/blog/author/meeka-gayhart)
+* [Laura's posts on the Quick Left blog](http://quickleft.com/blog/author/laura-steadman)
+* [Meeka on LinkedIn](https://www.linkedin.com/pub/romeeka-gayhart/15/439/595)
+* [Laura on LinkedIn](https://www.linkedin.com/in/lauramsteadman)
+
+## Group Retrospectives
+
+* 1406 meet in the Big Workspace with Rachel and Josh Cheek
+* 1407 meet in Classroom C with Jorge and Steve
+* 1409 meet in Classroom B with Horace and Jeff
+* 1410 meet in Classroom A with Josh Mejia and Raissa
+
+## Surveys
