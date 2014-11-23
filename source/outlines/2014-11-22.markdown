@@ -1,0 +1,77 @@
+---
+title: 141120
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (3:00 - 4:00)
+
+## 1406
+
+### How JavaScript Front-Ends Work (9:00 - 9:45)
+
+Join Steve in Classroom C to learn about the limitations of using straight jQuery in the face of complicated front-end challenges.
+
+### Ember Fundamentals (9:45 - 12:00)
+
+Stick around with Steve in Classroom C to talk about the basics of Ember, its ecosystem and its object model.
+
+## MVC with Ember (1:00 - 3:00)
+
+Meet back up with Steve in Classroom C to talk about a different take on MVC from Rails.
+
+## 1407
+
+### Fundamental JSON (9:00 - 10:00)
+
+Join Rachel in Classroom A.
+
+## Serving JSON with Rails (10:00 - 12:00)
+
+Stick around with Rachel in Classroom A.
+
+## 1409
+
+### Dinner Dash Cross-Team Pairing (9:00 - 12:00)
+
+Today, you'll work in inter-team pairs. Spend the first 60 minutes on the first colleague's project, the second 60 minutes on the second colleague's project. Regroup with your team for the remaining 60 minutes to compare notes and create issues/user stories.
+
+* Alex Jensen and Danny Glunz
+* Sam Kuhlmann and Victoria Harrod
+* Travis Yoder and Chase van Hekken
+* Chandra Carney and Adam Smith
+* Timothy Mee and Konr Josef Larson
+* Herbert Joseph and Gregory Narajka
+* Kate Lane and David Bayendor and Zachary Routhier
+
+### Cart and Order Life Cycles (1:00 - 3:00)
+
+Join Jeff in Classroom B.
+
+## 1410
+
+### Minitest Tips & Techniques (9:00 - 12:00)
+
+Join Josh in Classroom A to talk about testing all the things.
+
+### SalesEngine Kickoff (1:00 - 1:30)
+
+Join Rachel in Classroom A.
+
+#### Pairings
+
+* Bhargavi Satpathy & Kit Pearson
+* Alexandra Robinson & Laura Whalin & Orion Osborn
+* Lori Culberson & Andrew Overby
+* Brandon Mrsny & Chris Luhring
+* Nathan Owsiany & Scott Crawford
+* Jeffrey Wan & Krista A Nelson
+* Juan Manuel Navarro & Emily Berkeley
+* Rich Shea & Michael Dao
+* Lydia Shafer & Bryce Holcomb
+* Edward McCarthy & Dustin Gault
+
+### SalesEngine Planning and Design (1:30 - 3:00)
+
+Stick around with Rachel in Classroom A.
