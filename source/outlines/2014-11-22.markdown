@@ -17,9 +17,31 @@ Join Steve in Classroom C to learn about the limitations of using straight jQuer
 
 Stick around with Steve in Classroom C to talk about the basics of Ember, its ecosystem and its object model.
 
+We'll work in the following pairs:
+
+* Eric Fransen and Allison Larson
+* Horacio Chavez and Marc Garreau
+* Robert Gu and Emily Davis
+* Will Faurot and Andrew Watkins
+* Corey Davis and Gustavo Villagrana
+* Hilary Denton and Alan Smith
+* Tim Proctor and Jonmichael Chambers
+* Tan Doan and Andy Mention and Chad Brading
+
 ## MVC with Ember (1:00 - 3:00)
 
 Meet back up with Steve in Classroom C to talk about a different take on MVC from Rails.
+
+We'll work in the following pairs:
+
+* Tan Doan and Corey Davis
+* Marc Garreau and Andrew Watkins
+* Tim Proctor and Horacio Chavez
+* Allison Larson and Chad Brading
+* Jonmichael Chambers and Eric Fransen
+* Gustavo Villagrana and Alan Smith
+* Hilary Denton and Will Faurot
+* Robert Gu and Emily Davis and Andy Mention
 
 ## 1407
 
