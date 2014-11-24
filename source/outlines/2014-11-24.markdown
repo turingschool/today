@@ -110,6 +110,7 @@ Join Jeff in Classroom B.
 ### Minitest Tips & Techniques (9:00 - 12:00)
 
 Join Josh in Classroom A to talk about testing all the things.
+http://tutorials.jumpstartlab.com/academy/workshops/minitest_techniques.html
 
 ### SalesEngine Kickoff (1:00 - 1:30)
 
