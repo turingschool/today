@@ -135,7 +135,7 @@ http://tutorials.jumpstartlab.com/academy/workshops/minitest_techniques.html
 
 ### SalesEngine Kickoff (1:00 - 1:30)
 
-Join Rachel in Classroom A.
+Join Rachel in Classroom A. Find the Sales Engine guidelines [here](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
 
 #### Pairings
 
