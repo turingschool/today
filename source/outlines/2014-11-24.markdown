@@ -81,11 +81,31 @@ We'll work in the following pairs:
 
 ### Fundamental JSON (9:00 - 10:00)
 
-Join Rachel in Classroom A.
+Join Rachel in Classroom A. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown).
 
-## Serving JSON with Rails (10:00 - 12:00)
+### Serving JSON with Rails (10:00 - 12:00)
 
-Stick around with Rachel in Classroom A.
+Stick around with Rachel in Classroom A. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.markdown).
+
+For the practice section, we will work in the following pairs:
+
+* Glen Egbert & Jim Sutton
+* Ian Andersen & Jessica Goulding
+* Sara Simon & Rolando Navarrete
+* Aaron Paul Wortham & Luke Aiken
+
+
+### Building an API (1:00 - 3:00)
+
+In the afternoon we'll continue our API bonanza with some exercises on building APIs in rails.
+
+For the practice section, we will work in the following pairs:
+
+* Rolando Navarrete & Glen Egbert
+* Luke Aiken & Ian Andersen
+* Aaron Paul Wortham & Sara Simon
+* Jessica Goulding & Jim Sutton
+
 
 ## 1409
 
@@ -118,9 +138,9 @@ Join Rachel in Classroom A.
 
 #### Pairings
 
-* Bhargavi Satpathy & Kit Pearson
+* Bhargavi Satpathy & Lori Culberson
 * Alexandra Robinson & Laura Whalin & Orion Osborn
-* Lori Culberson & Andrew Overby
+* Kit Pearson & Andrew Overby
 * Brandon Mrsny & Chris Luhring
 * Nathan Owsiany & Scott Crawford
 * Jeffrey Wan & Krista A Nelson
