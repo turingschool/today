@@ -81,11 +81,11 @@ We'll work in the following pairs:
 
 ### Fundamental JSON (9:00 - 10:00)
 
-Join Rachel in Classroom A.
+Join Rachel in Classroom A. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown).
 
-## Serving JSON with Rails (10:00 - 12:00)
+### Serving JSON with Rails (10:00 - 12:00)
 
-Stick around with Rachel in Classroom A.
+Stick around with Rachel in Classroom A. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.markdown).
 
 ## 1409
 
