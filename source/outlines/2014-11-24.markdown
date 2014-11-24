@@ -47,6 +47,7 @@ Join Steve in Classroom C to learn about the limitations of using straight jQuer
 Stick around with Steve in Classroom C to talk about the basics of Ember, its ecosystem and its object model.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/ember_fundementals.markdown)
+* [Playing with Arrays in Ember](http://jsbin.com/xakuso)
 
 We'll work in the following pairs:
 
