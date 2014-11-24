@@ -53,10 +53,10 @@ We'll work in the following pairs:
 
 * Eric Fransen and Allison Larson
 * Horacio Chavez and Marc Garreau
-* Robert Gu and Emily Davis
+* Robert Gu and Alan Smith
 * Will Faurot and Andrew Watkins
 * Corey Davis and Gustavo Villagrana
-* Hilary Denton and Alan Smith
+* Hilary Denton and Emily Davis
 * Tim Proctor and Jonmichael Chambers
 * Tan Doan and Andy Mention and Chad Brading
 
@@ -70,11 +70,11 @@ We'll work in the following pairs:
 
 * Tan Doan and Corey Davis
 * Marc Garreau and Andrew Watkins
-* Tim Proctor and Horacio Chavez
+* Tim Proctor and Will Faurot
 * Allison Larson and Chad Brading
 * Jonmichael Chambers and Eric Fransen
 * Gustavo Villagrana and Alan Smith
-* Hilary Denton and Will Faurot
+* Hilary Denton and Horacio Chavez
 * Robert Gu and Emily Davis and Andy Mention
 
 ## 1407
