@@ -87,6 +87,13 @@ Join Rachel in Classroom A. Find the lesson outline [here](https://github.com/tu
 
 Stick around with Rachel in Classroom A. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.markdown).
 
+For the practice section, we will work in the following pairs:
+
+* Glen Egbert & Jim Sutton
+* Ian Andersen & Jessica Goulding
+* Sara Simon & Rolando Navarrete
+* Aaron Paul Wortham & Luke Aiken & Kavita Sachdeva
+
 ## 1409
 
 ### Dinner Dash Cross-Team Pairing (9:00 - 12:00)
