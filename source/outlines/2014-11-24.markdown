@@ -26,7 +26,7 @@ Meet with your posse and work on the following:
 * 3:10 - 3:20 Update your mentors through email or a blog post
 * 3:20 - 4:00 1406 is working on applications that will better the Turing community. 1407 is working on projects that will—hopefully—better the world. 1409 is tackling their first, non-tutorial, Rails project: Dinner Dash. 1410 just received SalesEngine.
   * 1406: This is your second to last posse meeting. Just think about that for a moment. Any words of wisdom or advice?
-  * 1407: Talk about your self-directed project. Are you ready for your next check-ins? What's it like to work along? Better? Worse?
+  * 1407: Talk about your self-directed project. Are you ready for your next check-ins? What's it like to work alone? Better? Worse?
   * 1409: You're one week into Dinner Dash. What's it like working in a larger group? How's Git treating you? Do 1406 and 1407 have any guidance for you?
   * 1410: Today you met SalesEngine. Seek guidance and wisdom.
 
