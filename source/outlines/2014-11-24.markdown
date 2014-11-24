@@ -92,7 +92,20 @@ For the practice section, we will work in the following pairs:
 * Glen Egbert & Jim Sutton
 * Ian Andersen & Jessica Goulding
 * Sara Simon & Rolando Navarrete
-* Aaron Paul Wortham & Luke Aiken & Kavita Sachdeva
+* Aaron Paul Wortham & Luke Aiken
+
+
+### Building an API (1:00 - 3:00)
+
+In the afternoon we'll continue our API bonanza with some exercises on building APIs in rails.
+
+For the practice section, we will work in the following pairs:
+
+* Rolando Navarrete & Glen Egbert
+* Luke Aiken & Ian Andersen
+* Aaron Paul Wortham & Sara Simon
+* Jessica Goulding & Jim Sutton
+
 
 ## 1409
 
@@ -110,8 +123,7 @@ Today, you'll work in inter-team pairs. Spend the first 60 minutes on the first 
 
 ### Cart and Order Life Cycles (1:00 - 3:00)
 
-Join Jeff in Classroom B to explore ideas of cookies, sessions, carts, and orders.
-[Find the plan for this session here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/storing_state_with_cookies_and_sessions.markdown).
+Join Jeff in Classroom B.
 
 ## 1410
 
