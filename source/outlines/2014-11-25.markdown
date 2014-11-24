@@ -1,0 +1,72 @@
+---
+title: 141125
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Recall [yesterday's warmup](http://today.turing.io/outlines/2014-11-24/).
+
+Can you also handle the following additional data formats?
+
+* (month word) dd, yy
+* (month word) dd, yyyy
+
+[Here is an expanded dataset](https://gist.github.com/stevekinney/d912371e38f197afe821) to test your script.
+
+### Guest Speaker: Tom Dale (1:00 - 2:00)
+
+Tom is the co-founder of [Tidle.io](http://tilde.io), makers of [Skylight](https://www.skylight.io/)—an analysis tool for Ruby on Rails applications. He is one of the creators of [Ember.js](http://emberjs.com)—a framework for building ambitious web applications.
+
+* [Twitter](https://twitter.com/tomdale)
+* [Website](http://tomdale.net/)
+
+## 1406
+
+### Ember Routing (9:00 - 10:30)
+
+Join Steve in the Ember wing of the dungeon (Classroom C) to discuss the Ember Router.
+
+### Introduction to Handlebars (10:30 - 12:00)
+
+Stick around with Rachel in Classroom C to talk groom your handlebars.
+
+### Project Work Time (2:00 - 4:00)
+
+Steve is available for questions.
+
+## 1407
+
+### Project Work Time (9:00 - 12:00)
+
+Josh Cheek is on hand for questions.
+
+### SRP Controllers for Users, Admins, and APIs (2:00 - 4:00)
+
+Join Rachel in Classroom A.
+
+## 1409
+
+### Rails Views Tips and Techniques (9:00 - 10:30)
+
+Join Rachel in Classroom B.
+
+### Introduction to JavaScript (10:30 - 12:00)
+
+Sit tight as Steve comes by to introduce you to the world's most popular programming language.
+
+### Dinner Dash Work Time (2:00 - 4:00)
+
+Josh Mejia is on hand for questions.
+
+## 1410
+
+### Garbage Collection and the Object Life Cycle (1:00 - 3:30)
+
+Join Josh in Classroom B to collect some garbage.
+
+### Introduction to Guard (3:30 - 4:00)
+
+Stick in Classroom B around as Steve introduces you to Guard.
