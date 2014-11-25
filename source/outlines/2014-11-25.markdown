@@ -47,7 +47,22 @@ Josh Cheek is on hand for questions.
 
 ### SRP Controllers for Users, Admins, and APIs (2:00 - 4:00)
 
-Join Horace in Classroom A. 
+Join Horace in Classroom A.
+
+We will have 2 sessions of pair work. For the first session, use these pairs:
+
+* Glen Egbert, Jim Sutton
+* Aaron Paul Wortham, Ian Andersen
+* Luke Aiken, Jessica Goulding
+* Rolando Navarrete, Kavita Sachdeva, Sara Simon
+
+For the second session use these:
+
+* Aaron Paul Wortham, Rolando Navarrete
+* Glen Egbert, Luke Aiken
+* Ian Andersen, Sara Simon
+* Kavita Sachdeva, Jim Sutton, Jessica Goulding
+
 
 ## 1409
 
