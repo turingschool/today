@@ -51,7 +51,7 @@ Join Horace in Classroom A.
 
 ### Rails Views Tips and Techniques (9:00 - 10:30)
 
-Join Rachel in Classroom B.
+Join Rachel in Classroom B. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Introduction to JavaScript (10:30 - 12:00)
 
