@@ -29,9 +29,11 @@ Tom is the co-founder of [Tidle.io](http://tilde.io), makers of [Skylight](https
 
 Join Steve in the Ember wing of the dungeon (Classroom C) to discuss the Ember Router.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/ember_routing.markdown)
+
 ### Introduction to Handlebars (10:30 - 12:00)
 
-Stick around with Rachel in Classroom C to talk groom your handlebars. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/templating_with_handlebars.markdown)
+Stick around with Rachel in Classroom C to talk groom your handlebars.
 
 ### Project Work Time (2:00 - 4:00)
 
@@ -45,13 +47,13 @@ Josh Cheek is on hand for questions.
 
 ### SRP Controllers for Users, Admins, and APIs (2:00 - 4:00)
 
-Join Horace in Classroom A.
+Join Rachel in Classroom A.
 
 ## 1409
 
 ### Rails Views Tips and Techniques (9:00 - 10:30)
 
-Join Rachel in Classroom B. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
+Join Rachel in Classroom B.
 
 ### Introduction to JavaScript (10:30 - 12:00)
 
@@ -73,8 +75,4 @@ Join Josh in Classroom B to collect some garbage.
 
 ### Introduction to Assessment (3:45 - 4:00)
 
-<<<<<<< HEAD
 Stick in Classroom B around as Steve and Rachel talk with you about assessments.
-=======
-Stick in Classroom B around as Steve introduces you to Guard.
->>>>>>> f3b19f2e36f382208d15c6b887783a6eb0c91b6c
