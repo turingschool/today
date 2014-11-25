@@ -1,0 +1,74 @@
+---
+title: 141126
+layout: outline
+---
+
+## 1406
+
+### Ember Data (9:00 - 12:00)
+
+Join Steve on the Interwebs to talk about Ember Data.
+
+### Project Work Time (1:00 - 4:00)
+
+Josh Mejia will be available for questions.
+
+## 1407
+
+### Filtering API Data with Authorization (9:00 - 10:30)
+
+Join Jorge though a series of tubes to talk about filtering API data.
+
+### Presenters and Decorators (10:30 - 12:00)
+
+Surf the web with Jeff to talk about presents and decorating.
+
+### Self-Directed Project Work Time and Check-ins (1:00 - 4:00)
+
+Josh Mejia will be doing check-ins this afternoon:
+
+* 1:00: Glen
+* 1:20: Jim
+* 1:40: Luke
+* 2:00: Sara
+* 2:20: Ian
+* 2:40: Kavita
+* 3:00: Jessica
+* 3:20: Rolando
+* 3:40: Aaron
+
+## 1409
+
+### Dinner Dash Check-ins and Work Time (9:00 - 12:00)
+
+Josh is doing check-ins all morning.
+
+* 9:00: Gregory Narajka & Victoria Harrod & Chase van Hekken & Konr Josef Larson
+* 9:45: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
+* 10:30: Herbert Joseph & Sam Kuhlmann & Travis Yoder & Timothy Mee
+* 11:15: Adam Smith & Danny Glunz & David Bayendor
+
+### JavaScript Outside of the Browser (1:00 - 2:30)
+
+Get JavaScript outside of the browser with Jorge on the Internet.
+
+### Testing JavaScript with Jasmine (2:30 - 4:00)
+
+Stick around with Jorge to test your JavaScript.
+
+## 1410
+
+### Connecting Two Verticals (9:00 - 10:30)
+
+Craw the World Wide Web with Jeff.
+
+### Testing with Dependency Injection (10:30 - 12:00)
+
+Join Rachel on the Internet Superhighway to talk about testing dependency injection..
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_dependencies.markdown)
+
+### SalesEngine Work Time (1:00 - 4:00)
+
+Horace is available for questions.
+
