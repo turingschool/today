@@ -86,7 +86,7 @@ Josh Cheek is on hand for questions.
 
 ### Garbage Collection and the Object Life Cycle (1:00 - 3:30)
 
-Join Josh in Classroom B to collect some garbage.
+Join Josh in Classroom B to collect some garbage. We'll be working in the same repository as Object Model 1, which is located at: [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model)
 
 ### Introduction to Assessment (3:45 - 4:00)
 
