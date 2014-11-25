@@ -33,7 +33,7 @@ Join Steve in the Ember wing of the dungeon (Classroom C) to discuss the Ember R
 
 ### Introduction to Handlebars (10:30 - 12:00)
 
-Stick around with Rachel in Classroom C to talk groom your handlebars.
+Stick around with Rachel in Classroom C to talk groom your handlebars. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/templating_with_handlebars.markdown).
 
 ### Project Work Time (2:00 - 4:00)
 
@@ -47,13 +47,28 @@ Josh Cheek is on hand for questions.
 
 ### SRP Controllers for Users, Admins, and APIs (2:00 - 4:00)
 
-Join Rachel in Classroom A.
+Join Horace in Classroom A.
+
+We will have 2 sessions of pair work. For the first session, use these pairs:
+
+* Glen Egbert, Jim Sutton
+* Aaron Paul Wortham, Ian Andersen
+* Luke Aiken, Jessica Goulding
+* Rolando Navarrete, Kavita Sachdeva, Sara Simon
+
+For the second session use these:
+
+* Aaron Paul Wortham, Rolando Navarrete
+* Glen Egbert, Luke Aiken
+* Ian Andersen, Sara Simon
+* Kavita Sachdeva, Jim Sutton, Jessica Goulding
+
 
 ## 1409
 
 ### Rails Views Tips and Techniques (9:00 - 10:30)
 
-Join Rachel in Classroom B.
+Join Rachel in Classroom B. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Introduction to JavaScript (10:30 - 12:00)
 
@@ -71,7 +86,8 @@ Josh Cheek is on hand for questions.
 
 ### Garbage Collection and the Object Life Cycle (1:00 - 3:30)
 
-Join Josh in Classroom B to collect some garbage.
+Join Josh in Classroom B to collect some garbage. We'll be working in the same repository as Object Model 1, which is located at: [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model)
+The notes we took during class are available at [https://gist.github.com/JoshCheek/3a869d8fcebe9e747aa2](https://gist.github.com/JoshCheek/3a869d8fcebe9e747aa2).
 
 ### Introduction to Assessment (3:45 - 4:00)
 
