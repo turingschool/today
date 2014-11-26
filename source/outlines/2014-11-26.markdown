@@ -33,7 +33,9 @@ Join Jorge though a series of tubes to talk about filtering API data.
 
 ### Presenters and Decorators (10:30 - 12:00)
 
-Surf the web with Jeff to talk about presents and decorating.
+Surf the web with Jeff to talk about [presents and decorating](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/presenters_and_decorators.markdown).
+
+Join the [join.me session here](https://join.me/turing-school).
 
 ### Self-Directed Project Work Time and Check-ins (1:00 - 4:00)
 
@@ -72,7 +74,30 @@ Stick around with Jorge to test your JavaScript.
 
 ### Connecting Two Verticals (9:00 - 10:30)
 
-Craw the World Wide Web with Jeff.
+Join the [join.me session here](https://join.me/turing-school).
+
+Because I want to use a whiteboard, I'll be in Classroom A if you want to join in person. But we'll still use your Slack channel for any questions.
+
+Our plan includes:
+
+* Whiteboard discussion of the SalesEngine object graph
+* Discussion about object life cycle in SE
+* Hack together an example SalesEngine, MerchantRepository, and Merchant
+* Pair up (over Screenhero) to implement a *sample* SalesEngine, CustomerRepository, and Customer
+
+#### Pairings
+
+* Lori Culberson & Michael Dao
+* Juan Manuel Navarro & Bryce Holcomb
+* Jeffrey Wan & Brandon Mrsny
+* Laura Whalin & Bhargavi Satpathy
+* Nathan Owsiany & Andrew Overby
+* Orion Osborn & Alexandra Robinson
+* Rich Shea & Scott Crawford
+* Krista A Nelson & Kit Pearson
+* Edward McCarthy & Chris Luhring
+* Kalah Cheek & Emily Berkeley
+* Lydia Shafer & Dustin Gault
 
 ### Testing with Dependency Injection (10:30 - 12:00)
 
