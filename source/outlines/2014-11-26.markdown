@@ -35,7 +35,19 @@ Join Jorge though a series of tubes to talk about filtering API data.
 
 Surf the web with Jeff to talk about [presents and decorating](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/presenters_and_decorators.markdown).
 
+I'm going to use the whiteboard in Classroom A if you want to sit in there.
+
 Join the [join.me session here](https://join.me/turing-school).
+
+#### Pairings
+
+You'll likely want to use Screenhero for pairing.
+
+* Glen Egbert & Rolando Navarrete
+* Aaron Paul Wortham & Jim Sutton
+* Sara Simon & Jessica Goulding
+* Kavita Sachdeva & Ian Andersen
+* Luke Aiken & Google
 
 ### Self-Directed Project Work Time and Check-ins (1:00 - 4:00)
 
