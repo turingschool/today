@@ -25,6 +25,15 @@ Join Steve on the Interwebs to talk about Ember Data.
 
 Josh Mejia will be available for questions.
 
+### Project Check-Ins (1:00 - 4:00) with Horace
+
+Will do these over google hangouts.
+
+* 1:00 - Warm It Up
+* 1:30 - MentorShip
+* 2:00 - Job basket
+* 2:30 - Journal
+
 ## 1407
 
 ### Filtering API Data with Authorization (9:00 - 10:30)
