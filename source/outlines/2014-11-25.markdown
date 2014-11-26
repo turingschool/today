@@ -5,16 +5,6 @@ layout: outline
 
 ## All
 
-### Setup for Remote Sessions
-
-* [Install the join.me client](http://cl.ly/3k22003j0Q3z)
-* Your instructor will drop a session link in your Slack channel
-* Join the session
-* Click the phone icon on the left side of the app
-* Click "Connect via Computer"
-* You'll be in listen-only mode. Headphones are recommended.
-* Use your Slack channel to ask any questions
-
 ### Warm Up (8:30 - 8:50)
 
 Recall [yesterday's warmup](http://today.turing.io/outlines/2014-11-24/).

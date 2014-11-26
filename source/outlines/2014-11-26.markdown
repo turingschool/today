@@ -3,6 +3,18 @@ title: 141126
 layout: outline
 ---
 
+## All
+
+### Setup for Remote Sessions
+
+* [Install the join.me client](http://cl.ly/3k22003j0Q3z)
+* Your instructor will drop a session link in your Slack channel
+* Join the session
+* Click the phone icon on the left side of the app
+* Click "Connect via Computer"
+* You'll be in listen-only mode. Headphones are recommended.
+* Use your Slack channel to ask any questions
+
 ## 1406
 
 ### Ember Data (9:00 - 12:00)
@@ -71,4 +83,3 @@ Join Rachel on the Internet Superhighway to talk about testing dependency inject
 ### SalesEngine Work Time (1:00 - 4:00)
 
 Horace is available for questions.
-
