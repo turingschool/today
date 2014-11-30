@@ -33,9 +33,12 @@ Rachel and Josh Cheek are ready and waiting to help.
 
 ## 1407
 
-### Automating Deployment (9:00 - 10:30)
+### Automating Development Processes (9:00 - 10:30)
 
-Meet with Jeff in Classroom B to talk about streamlining the deployment process.
+Meet with Jeff in Classroom B to talk about automation.
+
+* First up, [we'll work with Rake](http://tutorials.jumpstartlab.com/topics/systems/automation.html)
+* Then [talk a bit about Capistrano](http://tutorials.jumpstartlab.com/topics/deploying_with_capistrano.html)
 
 ### Building a Wrapper Gem (10:30 - 12:00)
 
