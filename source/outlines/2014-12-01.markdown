@@ -1,5 +1,5 @@
 ---
-title: 141129
+title: 141201
 layout: outline
 ---
 
@@ -16,7 +16,7 @@ The is 1406's *last* posse meeting.
 * 3:00 - 3:10 Share a project or assignment that you're working on.
 * 3:10 - 3:20 Update your mentors through email or a blog post
 * 3:20 - 4:00 1406 is working on applications that will better the Turing community—did we mention it's her last week? 1407 is putting the finishing touches their self-directed projects. 1409 is tackling their first, non-tutorial, Rails project: Dinner Dash. 1410 just received SalesEngine.
-  * 1406: This is your last chance to impart any and all wisdom you might be holding on to.
+  * 1406: This is your last chance to impart any and all wisdom you might be holding on to. What are your plans post-Turing?
   * 1407: Talk about your self-directed project. Are you ready for your next check-ins? What's it like to work alone? Better? Worse?
   * 1409: You're almost done with Dinner Dash. Are you ready for the Pivot?
   * 1410: How were assessments today? How's SalesEngine going?

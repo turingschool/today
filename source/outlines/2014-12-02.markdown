@@ -1,0 +1,105 @@
+---
+title: 141202
+layout: outline
+---
+
+## All
+
+## 1406
+
+### Project Work Time (9:00 - 12:00)
+
+Josh Mejia will be around for questions.
+
+### Using a Content Delivery Network (1:00 - 2:30)
+
+Join Horace in Classroom B to discuss CDNs.
+
+### End-User Performance Analysis (2:30 - 4:00)
+
+Stick around as Steve drops by to talk about analyzing front-end performance.
+
+## 1407
+
+### Project Work Time and Check-ins (9:00 - 12:00)
+
+#### With Steve
+
+* 9:00: Rolando Navarrete
+* 9:20: Kavita Sachdeva
+* 9:40: Jim Sutton
+* 10:00: Aaron Paul Wortham
+* 10:20: Sara Simon
+* 10:40: Luke Aiken
+* 11:00: Jessica Goulding
+* 11:20: Ian Andersen
+* 11:40: Glen Egbert
+
+Josh Mejia will be around for questions.
+
+### Understanding the Asset Pipeline (1:00 - 2:30)
+
+Join Steve in Classroom A to talk about the pipelining your assets.
+
+### Work Time (2:30 - 4:00)
+
+Rachel is on hand for questions.
+
+## 1409
+
+### Introduction to jQuery (9:00 - 11:00)
+
+Meet up with Rachel in Classroom B to talk about a JavaScript library installed on over 60% of the top 10,000 sites on the web.
+
+### Project Work Time and Assessments (11:00 - 12:00)
+
+Some sessions may overlap with lectures.
+
+#### With Josh Cheek
+
+* 10:30: Adam Smith
+* 11:15: Konr Josef Larson
+
+#### With Jorge
+
+* 11:15: Chandra Carney
+
+### Project Work Time and Assessments (1:00 - 4:00)
+
+### With Jeff
+
+* 1:00: Gregory Narajka
+* 1:45: Victoria Harrod
+* 2:30: Alex Jensen
+* 3:15: David Bayendor
+
+#### With Rachel
+
+* 1:00: Sam Kuhlmann
+* 1:45: Herbert Joseph
+
+#### With Josh Mejia
+
+* 2:30: Timothy Mee
+* 3:15: Chase van Hekken
+
+#### With Josh Cheek
+
+* 1:00: Danny Glunz
+* 1:45: Kate Lane
+* 2:30: Travis Yoder
+* 3:15: Zachary Routhier
+
+## 1410
+
+### SalesEngine Work Time (9:00 - 12:00)
+
+Josh Mejia is on hand for questions.
+
+### The Performance of Code (1:00 - 2:30)
+
+Join Josh Mejia in Classroom C to talk about the performance of code.
+
+### Improving Test Speed (2:30 - 4:00)
+
+Hang out as Rachel stops by to show you how to make your SalesEngine test suite not take 7 minutes each time you run it.
