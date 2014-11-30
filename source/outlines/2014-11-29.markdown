@@ -1,0 +1,105 @@
+---
+title: 141129
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+In your posse, complete this logic puzzle: http://cl.ly/2m3p33091u1A
+
+### Posse Time (3:00 - 4:00)
+
+The is 1406's *last* posse meeting.
+
+* 3:00 - 3:10 Share a project or assignment that you're working on.
+* 3:10 - 3:20 Update your mentors through email or a blog post
+* 3:20 - 4:00 1406 is working on applications that will better the Turing community—did we mention it's her last week? 1407 is putting the finishing touches their self-directed projects. 1409 is tackling their first, non-tutorial, Rails project: Dinner Dash. 1410 just received SalesEngine.
+  * 1406: This is your last chance to impart any and all wisdom you might be holding on to.
+  * 1407: Talk about your self-directed project. Are you ready for your next check-ins? What's it like to work alone? Better? Worse?
+  * 1409: You're almost done with Dinner Dash. Are you ready for the Pivot?
+  * 1410: How were assessments today? How's SalesEngine going?
+
+## 1406
+
+### Database Views, Replication, and Clustering (9:00 - 12:00)
+
+Join Horace in Classroom C to talk about databases.
+
+### Project Work Time (1:00 - 3:00)
+
+Rachel and Josh Cheek are ready and waiting to help.
+
+## 1407
+
+### Automating Deployment (9:00 - 10:30)
+
+Meet with Jeff in Classroom B to talk about streamlining the deployment process.
+
+### Building a Wrapper Gem (10:30 - 12:00)
+
+Stick around in Classroom B as Josh Mejia stops by to talk about building a wrapper gem.
+
+### Project Work Time (1:00 - 3:00)
+
+Steve is on hand for questions and answers.
+
+## 1409
+
+### Project Check-ins (9:00 - 12:00)
+
+Jorge will be doing quick check-ins and be on hand for questions.
+
+* 10:40: Gregory Narajka & Victoria Harrod & Chase van Hekken & Konr Josef Larson
+* 11:00: Herbert Joseph & Sam Kuhlmann & Travis Yoder & Timothy Mee
+* 11:20: Chandra Carney & Alex Jensen & Kate Lane & Zachary Routhier
+* 11:40: Adam Smith & Danny Glunz & David Bayendor
+
+### Effective Rails Models (1:00 - 3:00)
+
+Join Josh Mejia in Classroom A to talk about effective models in Rails.
+
+## 1410
+
+### Assessments (9:00 - 12:00)
+
+#### With Rachel
+
+* 9:00 - 9:30: Scott Crawford
+* 9:30 - 10:00: Dustin Gault
+* 10:00 - 10:30: Orion Osborn
+* 10:30 - 11:00: Michael Dao
+* 11:00 - 11:30: Brandon Mrsny
+* 11:30 - 12:00: Edward McCarthy
+
+#### With Josh Cheek
+
+* 9:00 - 9:30: Bhargavi Satpathy
+* 9:30 - 10:00: Krista A Nelson
+* 10:00 - 10:30: Alexandra Robinson
+* 10:30 - 11:00: Laura Whalin
+* 11:00 - 11:30: Andrew Overby
+
+#### With Steve
+
+* 9:00 - 9:30: Juan Manuel Navarro
+* 9:30 - 10:00: Lydia Shafer
+* 10:00 - 10:30: Bryce Holcomb
+* 10:30 - 11:00: Kit Pearson
+* 11:00 - 11:30: Jeffrey Wan
+* 11:30 - 12:00: Chris Luhring
+
+#### With Josh Mejia
+
+* 9:00 - 9:30: Rich Shea
+* 9:30 - 10:00: Nathan Owsiany
+
+#### With Jeff
+
+* 11:00 - 11:30: Emily Berkeley
+* 11:30 - 12:00: Lori Culberson
+
+### SalesEngine Work Time (1:00 - 3:00)
+
+Rachel and Josh Cheek are on hand for questions.
