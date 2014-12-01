@@ -42,7 +42,7 @@ Meet with Jeff in Classroom B to talk about automation.
 
 ### Building a Wrapper Gem (10:30 - 12:00)
 
-Stick around in Classroom B as Josh Mejia stops by to talk about building a wrapper gem.
+Stick around in Classroom B as Josh Mejia stops by to talk about building a [wrapper gem](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/writing_a_wrapper_gem.markdown).
 
 ### Project Work Time (1:00 - 3:00)
 
