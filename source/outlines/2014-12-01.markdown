@@ -25,7 +25,11 @@ This is 1406's *last* posse meeting.
 
 ### Database Views, Replication, and Clustering (9:00 - 12:00)
 
-Join Horace in Classroom C to talk about databases.
+Join Horace in Classroom C to talk about databases. The lesson plan can be found here: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/database_views_replication_clustering.markdown
+
+We'll be working through a tutorial on using SQL views: http://tutorials.jumpstartlab.com/topics/sql/sql_views.html
+
+and if we get there one on backing up Postgres: http://tutorials.jumpstartlab.com/topics/devops/backing_up_and_restoring_a_database.html
 
 ### Project Work Time (1:00 - 3:00)
 
