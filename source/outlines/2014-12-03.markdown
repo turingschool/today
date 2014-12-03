@@ -25,12 +25,6 @@ layout: outline
 * 10:00: Emily Davis
 * 11:00: Alan Smith
 
-#### With Jorge
-
-* 9:00: Gustavo Villagrana
-* 10:00: Tan Doan
-* 11:00: Tim Proctor
-
 #### With Josh Mejia
 
 * 9:00: Horacio Chavez
@@ -45,6 +39,12 @@ This afternoon you'll have some time to push forward on your final projects. Hor
 
 * 1:00 Marc Garreau
 * 2:00: Andy Mention
+
+#### With Horace
+
+* 1:00: Gustavo Villagrana
+* 2:00: Tan Doan
+* 3:00: Tim Proctor
 
 ## 1407
 
@@ -80,7 +80,7 @@ Rachel and Steve are on hand for questions.
 
 ### Project Work Time (1:00 - 4:00)
 
-This afternoon you'll have some time to push forward on Dinner Dash. Horace and Josh Cheek are around for questions.
+This afternoon you'll have some time to push forward on Dinner Dash. Josh Cheek is around for questions.
 
 ## 1410
 
@@ -90,4 +90,4 @@ Rachel and Steve are on hand for questions.
 
 ### Project Work Time (1:00 - 4:00)
 
-This afternoon you'll have some time to push forward on SalesEngine. Horace and Josh Cheek are around for questions.
+This afternoon you'll have some time to push forward on SalesEngine. Josh Cheek is around for questions.
