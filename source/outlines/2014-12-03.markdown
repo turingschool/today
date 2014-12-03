@@ -3,8 +3,6 @@ title: 141203
 layout: outline
 ---
 
-## All
-
 ## 1406
 
 ### Assessments and Project Work Time (9:00 - 12:00)
@@ -58,14 +56,14 @@ Rachel and Steve are on hand if you have any questions.
 
 #### With Josh Mejia
 
-* 1:00: Sara Simon
+* 1:00: Jim Sutton
 * 2:00: Glen Egbert
-* 2:30: Jim Sutton
+* 3:00: Sara Simon
 
 #### With Steve
 
-* 2:00: Ian Andersen
-* 3:00: Jessica Goulding
+* 1:00: Ian Andersen
+* 2:00: Jessica Goulding
 * 3:00: Luke Aiken
 
 #### With Rachel
