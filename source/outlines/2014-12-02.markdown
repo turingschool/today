@@ -43,13 +43,11 @@ Join Steve in Classroom A to talk about the pipelining your assets.
 
 ### Work Time (2:30 - 4:00)
 
-Rachel is on hand for questions.
-
 ## 1409
 
 ### Introduction to jQuery (9:00 - 11:00)
 
-Meet up with Rachel in Classroom B to talk about a JavaScript library installed on over 60% of the top 10,000 sites on the web.
+Meet up with Rachel in Classroom B to talk about a JavaScript library installed on over 60% of the top 10,000 sites on the web. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Project Work Time and Assessments (11:00 - 12:00)
 
@@ -100,6 +98,8 @@ Josh Mejia is on hand for questions.
 
 Join Josh Mejia in Classroom C to talk about the performance of code.
 
+Download the [repo](https://github.com/rwarbelow/performance_of_code).
+
 ### Improving Test Speed (2:30 - 4:00)
 
-Hang out as Rachel stops by to show you how to make your SalesEngine test suite not take 7 minutes each time you run it.
+Hang out as Rachel stops by to show you how to make your SalesEngine test suite not take 7 minutes each time you run it. Find the lesson outline [here](https://github.com/rwarbelow/fast_tests).

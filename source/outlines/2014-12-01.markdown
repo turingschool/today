@@ -11,7 +11,7 @@ In your posse, complete this logic puzzle: http://cl.ly/2m3p33091u1A
 
 ### Posse Time (3:00 - 4:00)
 
-The is 1406's *last* posse meeting.
+This is 1406's *last* posse meeting.
 
 * 3:00 - 3:10 Share a project or assignment that you're working on.
 * 3:10 - 3:20 Update your mentors through email or a blog post
@@ -25,7 +25,11 @@ The is 1406's *last* posse meeting.
 
 ### Database Views, Replication, and Clustering (9:00 - 12:00)
 
-Join Horace in Classroom C to talk about databases.
+Join Horace in Classroom C to talk about databases. The lesson plan can be found here: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/database_views_replication_clustering.markdown
+
+We'll be working through a tutorial on using SQL views: http://tutorials.jumpstartlab.com/topics/sql/sql_views.html
+
+and if we get there one on backing up Postgres: http://tutorials.jumpstartlab.com/topics/devops/backing_up_and_restoring_a_database.html
 
 ### Project Work Time (1:00 - 3:00)
 
@@ -33,13 +37,16 @@ Rachel and Josh Cheek are ready and waiting to help.
 
 ## 1407
 
-### Automating Deployment (9:00 - 10:30)
+### Automating Development Processes (9:00 - 10:30)
 
-Meet with Jeff in Classroom B to talk about streamlining the deployment process.
+Meet with Jeff in Classroom B to talk about automation.
+
+* First up, [we'll work with Rake](http://tutorials.jumpstartlab.com/topics/systems/automation.html)
+* Then [talk a bit about Capistrano](http://tutorials.jumpstartlab.com/topics/deploying_with_capistrano.html)
 
 ### Building a Wrapper Gem (10:30 - 12:00)
 
-Stick around in Classroom B as Josh Mejia stops by to talk about building a wrapper gem.
+Stick around in Classroom B as Josh Mejia stops by to talk about building a [wrapper gem](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/writing_a_wrapper_gem.markdown).
 
 ### Project Work Time (1:00 - 3:00)
 
@@ -102,4 +109,4 @@ Join Josh Mejia in Classroom A to talk about effective models in Rails.
 
 ### SalesEngine Work Time (1:00 - 3:00)
 
-Rachel and Josh Cheek are on hand for questions.
+Josh Cheek is on hand for questions from 1-3 and Rachel will be available from 1-2:30. 
