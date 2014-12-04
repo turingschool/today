@@ -3,10 +3,27 @@ title: 141205
 layout: outline
 ---
 
-### Guest Speaker: Zach Simms from Codecademy
+### Code Retreat (9:00 - 11:30)
+
+This morning we'll do a code retreat. The only things you need to do ahead of time are:
+
+* Clone this repository:[https://github.com/turingschool/code_retreat](https://github.com/turingschool/code_retreat)
+* Read the Robot README in `code_retreat/robot/README.md`
+
+### Guest Speaker: Zach Simms from Codecademy (11:30 - 12:30)
 
 Zach is the co-founder of [Codecademy](http://www.codecademy.com/).
 
 * [Zach's About.me page](http://about.me/zach)
 * [Zach on Twitter](http://twitter.com/zsims)
 * [Zach on LinkedIn](https://www.linkedin.com/in/zacharysims)
+
+### School-wide Chat (1:30 - 2:30)
+
+Join Jeff in the Big Workspace.
+
+### Group Retrospectives (2:30 - 3:30)
+
+* 1410 in Classroom A
+* 1409 in Classroom C
+* 1407 in Classroom B
