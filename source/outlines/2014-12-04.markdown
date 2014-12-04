@@ -46,21 +46,21 @@ A variation on a famous interview question intended to weed out the obviously in
 
 ##### Python
 
-https://www.python.org/about/gettingstarted/
-http://www.codecademy.com/en/tracks/python
+* [Getting Started](https://www.python.org/about/gettingstarted/)
+* [Codecademy Python](http://www.codecademy.com/en/tracks/python)
 
 ##### Go
 
-http://tour.golang.org/welcome/1
-http://www.golang-book.com/
-https://golang.org/doc/
+* [Language Tour](http://tour.golang.org/welcome/1)
+* [Go Book](http://www.golang-book.com/)
+* [Docs](https://golang.org/doc/)
 
 ##### Swift
 
-https://developer.apple.com/swift/resources/
-http://www.appcoda.com/swift-programming-language-intro/
-http://www.slideshare.net/giordano/a-swift-introduction-to-swift
-http://teamtreehouse.com/learn-swift
+* [Resources](https://developer.apple.com/swift/resources/)
+* [Introduction](http://www.appcoda.com/swift-programming-language-intro/)
+* [Language Intro Presentation](http://www.slideshare.net/giordano/a-swift-introduction-to-swift)
+* [Treehouse Swift](http://teamtreehouse.com/learn-swift)
 
 ## 1406
 
