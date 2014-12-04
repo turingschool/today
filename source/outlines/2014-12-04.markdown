@@ -17,7 +17,7 @@ Zach is the co-founder of [Codecademy](http://www.codecademy.com/).
 
 ### Project Evaluations (9:00 - 12:00)
 
-#### With Jeff and Jorge
+#### With Jeff
 
 * 9:00 - 9:45: Job Basket
 * 9:45 - 10:30: Tiny Retrospective
