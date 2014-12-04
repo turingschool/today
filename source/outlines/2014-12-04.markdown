@@ -5,13 +5,62 @@ layout: outline
 
 ## All
 
-### Guest Speaker: Zach Simms from Codecademy
+Please do not use or walk through Classroom B this afternoon.
 
-Zach is the co-founder of [Codecademy](http://www.codecademy.com/).
+### Raindrops
 
-* [Zach's About.me page](http://about.me/zach)
-* [Zach on Twitter](http://twitter.com/zsims)
-* [Zach on LinkedIn](https://www.linkedin.com/in/zacharysims)
+Write a program that converts a number to a string, the contents of which depends on the number's prime factors.
+
+- If the number contains 3 as a prime factor, output 'Pling'.
+- If the number contains 5 as a prime factor, output 'Plang'.
+- If the number contains 7 as a prime factor, output 'Plong'.
+- If the number does not contain 3, 5, or 7 as a prime factor,
+  just pass the number's digits straight through.
+
+#### Examples
+- 28's prime-factorization is 2, 2, 7.
+  - In raindrop-speak, this would be a simple "Plong".
+- 1755 prime-factorization is 3, 3, 3, 5, 13.
+  - In raindrop-speak, this would be a "PlingPlang".
+- The prime factors of 34 are 2 and 17.
+  - Raindrop-speak doesn't know what to make of that,
+    so it just goes with the straightforward "34".
+
+#### Source
+
+A variation on a famous interview question intended to weed out the obviously incompetent. ([View source](http://jumpstartlab.com))
+
+#### Groups
+
+* Konr Josef Larson & Laura Whalin & Chris Luhring & Timothy Mee working with **Go**.
+* Dustin Gault & Herbert Joseph & Bhargavi Satpathy & Victoria Harrod working with **Python**.
+* Chandra Carney & Krista A Nelson & Andrew Overby & Orion Osborn with **Swift**.
+* Jeffrey Wan & Kit Pearson & Scott Crawford & Manny Navarro working with **Go**.
+* Lori Culberson & Bryce Holcomb & David Bayendor & Zachary Routhier with **Python**.
+* Michael Dao & Kate Lane & Emily Berkeley & Danny Glunz with **Swift**.
+* Travis Yoder & Sam Kuhlmann & Gregory Narajka & Edward McCarthy working with **Go**.
+* Alex Jensen & Alexandra Robinson & Nathan Owsiany & Lydia Shafer with **Python**.
+* Rich Shea & Chase van Hekken & Adam Smith & Brandon Mrsny with **Swift**.
+
+#### Setup
+
+##### Python
+
+https://www.python.org/about/gettingstarted/
+http://www.codecademy.com/en/tracks/python
+
+##### Go
+
+http://tour.golang.org/welcome/1
+http://www.golang-book.com/
+https://golang.org/doc/
+
+##### Swift
+
+https://developer.apple.com/swift/resources/
+http://www.appcoda.com/swift-programming-language-intro/
+http://www.slideshare.net/giordano/a-swift-introduction-to-swift
+http://teamtreehouse.com/learn-swift
 
 ## 1406
 
