@@ -1,0 +1,172 @@
+---
+title: 141215
+layout: outline
+---
+
+## All
+
+### Meet and Greet (8:00 - 9:00)
+
+We'll skip warm ups today because 1412 will be meeting the instructors at 8:30. Please take some time to introduce yourselves to anyone and everyone from the new cohort.
+
+### Posse Meeting Time (3:00 - 4:00)
+
+Today, you'll meet in your new posses. Every posse will have a least one new member in it. So, you'll have to update some things and reintroduce yourselves.
+
+#### Introduce yourself to your posse by answering the following questions
+
+* Name and cohort?
+* Where are you from originally?
+* What brought you to Turing?
+* What excites you most about the next six weeks at Turing?
+* What do you think you dream job would be after graduating from Turing?
+* What non-programming experience in your life do you think has best prepared you for being a developer?
+
+#### Take care of administrative affairs
+
+* Create/share a Google Calendar for your posse. You can use this calendar to request pairing sessions, set posse meet-ups, etc.
+* Invite all posse members (students and mentors) to the calendar.
+* Create and share a Google Doc to store contact info for your posse: name, email, Twitter, Github, phone, blog…
+* Join the Slack channel for your posse
+
+#### Find some common ground
+
+* Your posse is named after a well known computer scientist. Who is this person and why are their contributions significant?
+* What is a core value of your posse? Some examples: grit, perseverance. Why is this value important to being a developer?
+
+#### Gather some intelligence
+
+* Use Google, Github, Twitter, etc. to research your posse mentors. Even if your mentors haven't changed from last module, they might be up to something new and interesting.
+
+#### Pass down some wisdom
+
+* What should 1412 know about life at Turing? (e.g. time management, the extra set of bathrooms on the first floor and in the new space, the waffle truck)
+* What should 1410 know about module two?
+* What should 1409 know about module three?
+* What are some habits you wish you formed early on? (e.g. technical blogging, warm-ups, reading)
+
+### Lightning Talk Preparation (4:05 - 4:45)
+
+If Jorge hasn't approved your lightning talk topic just yet, Steve will be available to help you brain storm topics and ideas.
+
+You should [review the lightning talks instructions here](https://github.com/turingschool/lightning_talks).
+
+## 1407
+
+### Consuming APIs (9:00 - 10:30)
+
+Join Horace in the Big Workspace to consume some APIs.
+
+### Mocking & Doubling APIs (10:30 - 12:00)
+
+Stick around with Horace in the Big Workspace to talk about mocking and testing third-party API.
+
+### Feed Engine Kick-off (1:00 - 3:00)
+
+Join Steve in Classroom A to receive pertinent information about your next project: FeedEngine.
+
+* [Assignment](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html)
+* [Concepts](http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine_concepts.html)
+
+You'll work in the following groups:
+
+* Sara Simon & Aaron Paul Wortham & Jim Sutton & Ian Andersen
+* Kavita Sachdeva & Glen Egbert & Rolando Navarrete & Luke Aiken
+
+## 1409
+
+### Understanding Multi-tenancy
+
+Meet with Jorge in Classroom C to talk multi-tenancy.
+
+### Kickoff: The Pivot
+
+Stick around with Jorge in Classroom C as he introduces your next project: [The Pivot](http://tutorials.jumpstartlab.com/projects/the_pivot.html).
+
+This project will be completed in teams of three with a final due date of Thursday, January 8.
+
+You'll work in the following groups:
+
+* Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith working with [ExpressGo](https://github.com/dglunz/dinner_dash)
+* Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz working with [Crossroads Lodge](https://github.com/larsonkonr/dinner_dash)
+* Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor working with [Los Amigos Gordos](https://github.com/Tmee/Dinner-Dash)
+* Timothy Mee & Konr Josef Larson & Zachary Routhier working with [Nokogiri Sushi](https://github.com/chandracarney/dinner-dash)
+
+### Pivot Work Time (1:00 - 3:00)
+
+Horace will be on hand for all your pivoting needs.
+
+## 1410
+
+### HTML & CSS Basics (9:00 - 10:30)
+
+Join Josh Mejia in Classroom B to cover the basics of HTML and CSS.
+
+### HTML & CSS Workshop (10:30 - 12:00)
+
+Stick around with Josh to add some pizazz to [the Turing Bistro](https://github.com/turingschool-examples/turing-bistro).
+
+You'll work in the following pairs:
+
+* Brandon Mrsny & Rich Shea
+* Chris Luhring & Bhargavi Satpathy
+* Emily Berkeley & Lydia Shafer
+* Laura Whalin & Jeffrey Wan
+* Orion Osborn & Bryce Holcomb
+* Michael Dao & Nathan Owsiany
+* Kit Pearson & Alexandra Robinson
+* Scott Crawford & Krista A Nelson
+
+### Introduction to Sinatra (1:00 - 1:30)
+
+Meet with Rachel in Classroom C to review Sinatra.
+
+### WebGuesser (1:30 - 2:30)
+
+Stick around with Rachel in Classroom C to work on your first Sinatra app, [WebGuesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html).
+
+### Kickoff: IdeaBox (2:30 - 3:00)
+
+Then Rachel will help you kick off the [IdeaBox](http://tutorials.jumpstartlab.com/projects/idea_box.html) project in Classroom C.
+
+This is an individual project that's due this Thursday 12/18 at 2pm. It starts with a guided tutorial, then you'll build a handful of extensions on your own.
+
+## 1412
+
+### Staff Introductions (8:30 - 9:00)
+
+Gather in Classroom A to meet the staff:
+
+* Jeff Casimir
+* Jorge Téllez
+* Rachel Warbelow
+* Steve Kinney
+* Raissa Shafer
+* Josh Mejia
+* Horace Williams
+
+### Building Your Workspace (9:00 - 11:00)
+
+Join Jeff in Classroom A to build your workspace and your team.
+
+### Beginning Machine Setup (11:00 - 12:00)
+
+Every developer needs to setup their own development environment. Please join Jeff in Classroom A and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop.
+
+Don't worry about PostgreSQL yet. We'll also install dotfiles, [here](https://github.com/turingschool/bootstrap_new_students).
+
+We have [dotfiles (configuration files)](https://github.com/turingschool/bootstrap_new_students) you can use to get a better environment (colored prompt, convenient shortcuts aliases, etc).
+
+If the terminal is new for you, we have a [terminal introduction](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html).
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+Get to know the staff and your fellow students at a group lunch.
+
+### Finishing Machine Setup (12:00 - 1:00)
+
+We'll pick up from where we left off, but in Classroom B.
+
+### How to Learn at Turing (2:00 - 3:00)
+
+Our program is a collaborative project-based learning environment. Join Jeff in Classroom B to get some advice on how to get the most out of the program.
