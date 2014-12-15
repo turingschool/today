@@ -9,6 +9,11 @@ layout: outline
 
 We'll skip warm ups today because 1412 will be meeting the instructors at 8:30. Please take some time to introduce yourselves to anyone and everyone from the new cohort.
 
+1412 is going to work on Classroom A and the workspace on that
+side today. We'd like to break down all the tables and so they
+can be reorganized and re-leveled. We'd love a little help before
+class starts.
+
 ### Posse Meeting Time (3:00 - 4:00)
 
 Today, you'll meet in your new posses. Every posse will have a least one new member in it. So, you'll have to update some things and reintroduce yourselves.
@@ -153,15 +158,11 @@ Join Jeff in Classroom A to build your workspace and your team.
 
 Every developer needs to setup their own development environment. Please join Jeff in Classroom A and follow [this tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html) to configure your laptop.
 
-Don't worry about PostgreSQL yet. We'll also install dotfiles, [here](https://github.com/turingschool/bootstrap_new_students).
-
-We have [dotfiles (configuration files)](https://github.com/turingschool/bootstrap_new_students) you can use to get a better environment (colored prompt, convenient shortcuts aliases, etc).
-
-If the terminal is new for you, we have a [terminal introduction](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html).
+When your machine is setup, work through our [terminal introduction](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html).
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-Get to know the staff and your fellow students at a group lunch.
+Get to know the staff and your fellow students at a group lunch in Classroom A and the workspace.
 
 ### Finishing Machine Setup (12:00 - 1:00)
 
@@ -170,3 +171,26 @@ We'll pick up from where we left off, but in Classroom B.
 ### How to Learn at Turing (2:00 - 3:00)
 
 Our program is a collaborative project-based learning environment. Join Jeff in Classroom B to get some advice on how to get the most out of the program.
+
+Key Ideas:
+
+* Paint-by-Numbers and Baking
+* Have-To and Want-To
+* Be Ridiculous
+* Weekly Structure
+* Getting the Most from Class Sessions
+* Work Time during the Day
+* Evaluations & Assessments
+* Posse Time
+* Fridays: Retro, 1-on-1s, Guests
+* Your Cohort is Different
+
+### Homework
+
+Tonight you need to build a solution to the [99 Bottles Challenge](https://github.com/turingschool/challenges/blob/master/99_bottles.markdown).
+
+* You'll reference your solution in class tomorrow, so make sure it's done and works correctly.
+* This is meant to be an independent exercise, but it's better to get a little help then to not complete it.
+* Keep your solution simplistic -- use the most basic tools you can based on what you learned in the prag studio materials.
+
+**Submission**: Create a [gist](http://gist.github.com) and add the URL for your Gist to [this MoPad document](https://etherpad.mozilla.org/4gMPgXQ7Oe).

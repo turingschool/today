@@ -1,5 +1,5 @@
 ---
-title: 141215
+title: 141216
 layout: outline
 ---
 
@@ -83,13 +83,28 @@ Josh will be on hand for questions.
 
 ## 1412
 
-### Strings, Integers, and Control Flow (9:00 - 10:30)
+### Variables, Strings, Integers, and Control Flow (9:00 - 10:30)
 
-Join Jeff in Classroom A to talk about some the basic building blocks in Ruby.
+Join Jeff in Classroom A to talk about some the basic building blocks in Ruby. We'll cherry-pick material from Ruby in 100 Minutes:
+
+* [Variables](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#2.-variables)
+* [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings)
+* [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers)
+* [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals)
 
 ### Problems, Solutions, Algorithms (10:30 - 12:00)
 
-Stay with Jeff in Classroom A has he covers problems, solutions, and algorithms.
+Stay with Jeff in Classroom A to [work on problem solving](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
+
+### Homework
+
+Tonight you need to build a solution to the [Credit Check Challenge](https://github.com/turingschool/challenges/blob/master/credit_check.markdown).
+
+* You'll use your solution in class tomorrow, so make sure it's done and works correctly.
+* This is meant to be an independent exercise, but it's better to get a little help then to not complete it.
+* Don't overreach by using tools/techniques we haven't covered yet. Building a simplistic solution is the point of the exercise.
+
+**Submission**: Create a [gist](http://gist.github.com) and add the URL for your Gist to [this MoPad document](https://etherpad.mozilla.org/X8BxB5ir08).
 
 ### Scavenger Hunt (1:00 - 4:00)
 
