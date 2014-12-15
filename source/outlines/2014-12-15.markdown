@@ -184,3 +184,13 @@ Key Ideas:
 * Posse Time
 * Fridays: Retro, 1-on-1s, Guests
 * Your Cohort is Different
+
+### Homework
+
+Tonight you need to build a solution to the [99 Bottles Challenge](https://github.com/turingschool/challenges/blob/master/99_bottles.markdown).
+
+* You'll reference your solution in class tomorrow, so make sure it's done and works correctly.
+* This is meant to be an independent exercise, but it's better to get a little help then to not complete it.
+* Keep your solution simplistic -- use the most basic tools you can based on what you learned in the prag studio materials.
+
+**Submission**: Create a [gist](http://gist.github.com) and add the URL for your Gist to [this MoPad document](https://etherpad.mozilla.org/4gMPgXQ7Oe).
