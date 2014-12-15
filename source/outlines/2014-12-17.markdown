@@ -1,0 +1,78 @@
+---
+title: 141217
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+Let's try to solve [this logic problem](http://cl.ly/2e42381b1O3G) in our posses.
+
+## 1407
+
+### Personas for UX (9:00 - 10:00)
+
+Join Jorge in Classroom A to talk about his multiple personas.
+
+### Wireframing for UX (10:00 - 11:00)
+
+Stick around with Jorge in Classroom A to discuss wireframing.
+
+### Generating Sample Data (11:00 - 12:00)
+
+Join Steve in Classroom A to generate some fake data for your applications.
+
+### Project Work Time (1:00 - 4:00)
+
+Steve is on hand for questions.
+
+## 1409
+
+### Agile Stories & Project Planning (9:00 - 10:30)
+
+Join Horace in Classroom B to tell some stories and plan some projects.
+
+### Revisiting Git Workflow (10:30 - 12:00)
+
+Revisit your Git workflow with Horace in Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace is on hand for questions.
+
+## 1410
+
+### IdeaBox Work Time (9:00 - 12:00)
+
+Rachel will be on hand for questions and ideas for you to box.
+
+### Testing Sinatra Applications (1:00 - 3:00)
+
+Join Rachel in Classroom B to talk about testing Sinatra applications.
+
+### IdeaBox Work Time (3:00 - 4:00)
+
+It's time to apply some of the lessons learned today.
+
+## 1412
+
+### Arrays and Hashes (9:00 - 10:30)
+
+Join Jeff in Classroom C to talk about arrays and hashes.
+
+### Object-Oriented Programming (10:30 - 12:00)
+
+Stick around with Jeff in Classroom C to discuss Object-Oriented Programming.
+
+### Spiraling Design and Tests (1:00 - 2:00)
+
+Meet back up with Jeff in Classroom A to talk about spiraling the design of your applications.
+
+### How Testing Works (2:00 - 3:00)
+
+How does testing even work? Find out with Jeff in Classroom A.
+
+### Building Software with Tests (2:00 - 3:00)
+
+Write some tests; build some software; Jeff; Classroom A.

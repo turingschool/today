@@ -1,0 +1,93 @@
+---
+title: 141218
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+This morning for warmup let's try a little code challenge in our posses:
+
+**Can you write a program that "sings" the classic "100 Bottles of Beer on the Wall"?**
+
+Some things to think about:
+
+* "One bottles" is incorrect.
+* Can you actually [make it sing](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/say.1.html)?
+
+## 1407
+
+### FeedEngine: Client Meetings and Work Time (9:00 - 12:00)
+
+This morning, you'll be meeting with Steve to discuss your projects.
+
+* 9:00: Sara Simon & Aaron Paul Wortham & Jim Sutton & Ian Andersen
+* 9:45: Kavita Sachdeva & Glen Egbert & Rolando Navarrete & Luke Aiken
+
+Horace is on hand for questions and code review.
+
+Steve is on hand for questions and code review from 10:30 to 12:00.
+
+### FeedEngine: Work Time and Code Review (1:00 - 4:00)
+
+Steve is available for questions.
+
+Horace is available for code review. Shoot him a message on Slack if you'd like to schedule a 45 minute session. Please come with a specific piece of your project you'd like to look at together.
+
+## 1409
+
+### The Pivot: Client Meetings and Work Time (9:00 - 12:00)
+
+This morning, you'll be meeting with Jorge to discuss your projects.
+
+* 9:00: Timothy Mee & Konr Josef Larson & Zachary Routhier
+* 9:45: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+* 10:30: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith
+* 11:15: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+
+Horace is on hand for questions and code review.
+
+Steve is on hand for questions and code review from 10:30 to 12:00.
+
+### The Pivot: Work Time and Code Review (1:00 - 4:00)
+
+Jorge is available for questions.
+
+Horace is available for code review. Shoot him a message on Slack if you'd like to schedule a 45 minute session. Please come with a specific piece of your project you'd like to look at together.
+
+## 1410
+
+### View Templating (9:00 - 10:30)
+
+Join Josh in Classroom B to discuss templating in Sinatra with ERB.
+
+### IdeaBox Work Time (10:30 - 12:00)
+
+Box some ideas. Rachel is on hand for questions.
+
+### IdeaBox Work Time (1:00 - 2:00)
+
+Time to put the finishing touches on your freshly boxed ideas.
+
+### IdeaBox Recap and Refactor (2:00 - 4:00)
+
+Meet up with Rachel in Classroom C to take a look at how you can refactor your IdeaBox projects.
+
+## 1412
+
+### Using Source Control (9:00 - 10:30)
+
+Meet with Jeff in Classroom A to discuss using source control.
+
+### Understanding Values, References, Scopes, and Stacks (10:30 - 12:00)
+
+Meet with Jeff in Classroom A to discuss using values, references, scopes, and stacks.
+
+### Mythical Creatures Workshop (1:00 - 2:30)
+
+Josh will kick off the Mythical Creatures workshop in Classroom B.
+
+### Mythical Creates Questions and Explorations (2:30 - 4:00)
+
+Meet back up with Josh in Classroom B. He'll be answering your questions and exploring concepts.
