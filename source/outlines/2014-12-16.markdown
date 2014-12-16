@@ -48,6 +48,15 @@ Meet back up with Horace in Classroom B to continue the discussion from yesterda
 
 ### Pivot Work Time (9:00 - 12:00)
 
+This morning, you'll be meeting with Jorge to discuss your first iteration plan.
+
+* 9:00 - EmployMe: Timothy Mee & Konr Josef Larson & Zachary Routhier
+* 9:30 - Keevah: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+* 10:00 - Airlift: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith
+* 10:30 - TravelHome: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+
+When you are not reviewing your iteration plan, please work on your project. 
+
 Horace is on hand for questions.
 
 ### Fundamental Rails Security (1:00 - 4:00)
@@ -68,11 +77,7 @@ Stick with Josh in Classroom B to discuss Rack and how it works.
 
 ### IdeaBox Work Time (1:00 - 4:00)
 
-Box those ideas. Rachel will be on hand for questions.
-
-### IdeaBox Work Time (1:00 - 4:00)
-
-Josh will be on hand for questions.
+Box those ideas. Rachel and Josh will be on hand for questions.
 
 ## 1412
 
