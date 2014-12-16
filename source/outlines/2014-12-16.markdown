@@ -60,6 +60,15 @@ Steve will stop by Classroom B to talk about JavaScript libraries design to make
 
 ### Pivot Work Time (9:00 - 12:00)
 
+This morning, you'll be meeting with Jorge to discuss your first iteration plan.
+
+* 9:00 - EmployMe: Timothy Mee & Konr Josef Larson & Zachary Routhier
+* 9:30 - Keevah: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+* 10:00 - Airlift: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith
+* 10:30 - TravelHome: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+
+When you are not reviewing your iteration plan, please work on your project. 
+
 Horace is on hand for questions.
 
 ### Fundamental Rails Security (1:00 - 4:00)
