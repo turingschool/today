@@ -42,7 +42,7 @@ Meet in Classroom B to talk about [Workers at Scale](https://github.com/turingsc
 
 ### Third-Party JavaScript (3:00 - 4:00)
 
-Steve will stop by Classroom B to talk about three JavaScript libraries design to make your life easier:
+Steve will stop by Classroom B to talk about JavaScript libraries design to make your life easier:
 
 * [Underscore.js][underscore], [Lo-dash][ld], [Underscore.String.js][underscore-string]
 * [Moment.js][moment]
