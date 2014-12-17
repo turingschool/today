@@ -96,3 +96,9 @@ How does testing even work? Josh Mejia will take over in Classroom A to introduc
 ### Spiraling Design and Tests (3:00 - 4:00)
 
 Then Jeff will finish things up with, guess what? If you said "CREDIT CARD NUMBERS" then you are the BIGGEST WINNER!!
+
+### Homework
+
+Say what? I can't understand you! Perhaps [your message is encrypted](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+
+Get it ready for tomorrow!
