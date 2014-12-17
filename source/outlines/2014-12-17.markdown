@@ -111,7 +111,9 @@ You need to complete the [Car exercise from our afternoon Object-Oriented Progra
 
 #### 3. Testing Luhn
 
-<img src='http://timoelliott.com/blog/wp-content/uploads/2014/01/hans-peter-luhn_8b9a8546-48b2-4bf2-9a87-bb7207d93634.jpg' style:"float:right; margin: 10px"/>
+<div style="float:right; margin: 10px">
+![Hans Peter Luhn](http://timoelliott.com/blog/wp-content/uploads/2014/01/hans-peter-luhn_8b9a8546-48b2-4bf2-9a87-bb7207d93634.jpg)
+</div>
 
 Lastly, look at that disapproving smirk from Hans Peter Luhn over there. Who would approve of an implementation of the Luhn algorithm that's not verified by automated tests? Nobody!
 
