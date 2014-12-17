@@ -13,6 +13,8 @@ layout: outline
 * Bryce and Orion are running a Hackathon planning and brainstorming meeting.
 * Zach is running a study session on concurrency.
 * Will (yes, Will) is running a session on building a Etch-a-Sketch in JavaScript.
+* Laura will be running a session on CSS.
+* Ian will be available for one-on-one pairing.
 
 ### One-on-Ones (9:00 - 11:00)
 
