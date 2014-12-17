@@ -91,3 +91,9 @@ Josh will kick off the Mythical Creatures workshop in Classroom B.
 ### Mythical Creates Questions and Explorations (2:30 - 4:00)
 
 Meet back up with Josh in Classroom B. He'll be answering your questions and exploring concepts.
+
+### Homework
+
+Say what? I can't understand you! Perhaps [your message is encrypted](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+
+Get it ready for tomorrow!

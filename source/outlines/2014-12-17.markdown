@@ -85,7 +85,7 @@ Now that you've had an introduction to Arrays, try putting them to use. Get toge
 
 For the last segment of the morning, Josh will walk through how he'd build a solution using the tools you've been exposed to so far.
 
-### Object-Oriented Programming (12:00 - 1:00)
+### Object-Oriented Programming (1:00 - 2:00)
 
 Meet up with Jeff in Classroom A to [work on understanding Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
 
@@ -99,6 +99,22 @@ Then Jeff will finish things up with, guess what? If you said "CREDIT CARD NUMBE
 
 ### Homework
 
-Say what? I can't understand you! Perhaps [your message is encrypted](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+Change of plans on homework. Let's push cryptography off for a day.
 
-Get it ready for tomorrow!
+#### 1. Arrays & Hashes
+
+You need to finish the short exercise from our [morning Arrays & Hashes session](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown) (~10 minutes)
+
+#### 2. Building a Car
+
+You need to complete the [Car exercise from our afternoon Object-Oriented Programming session](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) (~30 minutes)
+
+#### 3. Testing Luhn
+
+<img src='http://timoelliott.com/blog/wp-content/uploads/2014/01/hans-peter-luhn_8b9a8546-48b2-4bf2-9a87-bb7207d93634.jpg' style:"float:right; margin: 10px"/>
+
+Lastly, look at that disapproving smirk from Hans Peter Luhn over there. Who would approve of an implementation of the Luhn algorithm that's not verified by automated tests? Nobody!
+
+Build *a new implementation of the algorithm*, from scratch, using the ideas of *classes* and *tests* you worked on this afternoon. Use the spiraling test cases that we discussed in the final session of the day.
+
+**Submission**: Create a [gist](http://gist.github.com) and add the URL for your Gist to [this MoPad document](https://etherpad.mozilla.org/vTl9MXkatz).
