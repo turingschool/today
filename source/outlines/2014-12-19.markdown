@@ -90,8 +90,8 @@ Andy is a developer evangelist for Esri. He lives in Colorado.
 
 * Rachel is running a session on hardware hacking with Arduino.
 * Horace is running a session on data structures and algorithms.
-* Josh is running a session on making music with Ruby.
-* Steve is running a session on Swift.
+* Josh is running a session on debugging Ruby with pry.
+* Steve is running a session on iOS Development.
 * Raissa is running a session on eels.
 * Jeff is running a session on all of computer science.
 
