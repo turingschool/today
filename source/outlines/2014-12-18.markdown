@@ -81,9 +81,9 @@ Starting with Jeff in Classroom A: Chris Luhring, Alexandra Robinson, Bhargavi S
 
 Meet with Jeff in Classroom A to recap your homework and revisit ideas from yesterday.
 
-### Using Source Control (9:00 - 10:30)
+### Using Source Control with Git and Github (9:00 - 10:30)
 
-Meet with Rachel in Classroom A to discuss using source control.
+Meet with Rachel in Classroom A to discuss using source control. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown).
 
 ### Mythical Creatures Workshop (1:00 - 3:00)
 
