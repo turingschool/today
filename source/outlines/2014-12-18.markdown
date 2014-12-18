@@ -11,6 +11,8 @@ This morning for warmup let's try a little code challenge in our posses:
 
 **Can you write a program that "sings" the classic "100 Bottles of Beer on the Wall"?**
 
+For 1412ers, please start from scratch.
+
 Some things to think about:
 
 * "One bottles" is incorrect.
