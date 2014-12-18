@@ -95,7 +95,9 @@ Andy is a developer evangelist for Esri. He lives in Colorado.
 * Josh is running a session on debugging Ruby with pry.
 * Steve is running a session on iOS Development.
 * Raissa is running a session on eels.
-* Jeff is running a session on all of computer science.
+* Jeff is running a session on state machines. This is a good fit for you if you're
+interested in applying some core CS concepts to your Ruby. You should be very comfortable
+with classes, instances, and object lifecycle (scoping) to participate in the session.
 
 ### Group Retrospectives (2:30 - 3:30)
 
