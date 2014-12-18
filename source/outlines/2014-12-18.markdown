@@ -99,4 +99,5 @@ Meet back up with Rachel in Classroom C. She'll be answering your questions and 
 
 Say what? I can't understand you! Perhaps [your message is encrypted](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
 
-Get it ready for tomorrow!
+Get it ready for tomorrow. Now that you're masters of Git we can stop with the Etherpad
+documents and [add your Gist URL to this submissions file](https://github.com/turingschool/ruby-submissions/blob/master/1412/challenges/cryptographer.markdown).
