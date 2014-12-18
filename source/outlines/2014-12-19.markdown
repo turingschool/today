@@ -1,0 +1,109 @@
+---
+title: 141218
+layout: outline
+---
+
+## All
+
+### Study Groups (9:00 - 11:00)
+
+* Luke is running a study group on Angular.js.
+* Jeff Wan is running an _Eloquent JavaScript_ reading group.
+* Travis and David are running a session on setting up a development environment.
+* Bryce and Orion are running a Hackathon planning and brainstorming meeting.
+* Zach is running a study session on concurrency.
+* Will (yes, Will) is running a session on building a Etch-a-Sketch in JavaScript.
+* Laura will be running a session on CSS.
+* Ian will be available for one-on-one pairing.
+
+### One-on-Ones (9:00 - 11:00)
+
+We're going to adjust one-on-ones to every other week. We'll be doing them every week (and for a little longer), but you'll meet with a faculty member every other week.
+
+#### With Steve
+
+* 9:00:  Glen Egbert
+* 9:20:  Ian Andersen
+* 9:40:  Kavita Sachdeva
+* 10:00: Jim Sutton
+* 10:20: Stanley Siudzinski
+* 10:40: Charles Valentino Espinoza
+
+#### With Jorge
+
+* 9:00:  David Bayendor
+* 9:20:  Adam Smith
+* 9:40:  Travis Yoder
+* 10:00: Sam Kuhlmann
+* 10:20: Kate Lane
+* 10:40: Victoria Harrod
+
+#### With Josh
+
+* 9:00:  DJ Greenfield
+* 9:20:  Trey Tomlinson
+* 9:40:  Austin Wood
+* 10:00: Jack Yeh
+* 10:20: Jeffrey Wan
+* 10:40: Kit Pearson
+
+#### With Rachel
+
+* 9:00:  Alexandra Robinson
+* 9:20:  Bhargavi Satpathy
+* 9:40:  Brandon Mrsny
+* 10:00: Bryce Holcomb
+* 10:20: Chris Luhring
+* 10:40: Emily Berkeley
+
+#### With Jeff
+
+* 9:00:  Miriam Moser
+* 9:20:  Kyra Weber
+* 9:40:  Jeffrey Gu
+* 10:00: Paul Grever
+* 10:20: Markus Olsen
+* 10:40: Kyle Henson
+
+#### With Horace
+
+* 9:00:  Thomas Randell
+* 9:20:  Teresa Finn
+* 9:40:  David E Maurer
+* 10:00: Fred Block
+* 10:20: Chase van Hekken
+* 10:40: Konr Josef Larson
+
+#### With Raissa
+
+* 9:00:  Andrew Overby
+* 9:20:  Edward McCarthy
+* 9:40:  Juan Manuel Navarro
+* 10:00: Lori Culberson
+
+### Guest Speaker: Andy Gup from ESRI (11:00)
+
+Andy is a developer evangelist for Esri. He lives in Colorado.
+
+* [Twitter](https://twitter.com/agup)
+* [Blog](http://www.andygup.net)
+
+### Electives (1:00 - 2:30)
+
+* Rachel is running a session on hardware hacking with Arduino.
+* Horace is running a session on data structures and algorithms.
+* Josh is running a session on debugging Ruby with pry.
+* Steve is running a session on iOS Development.
+* Raissa is running a session on eels.
+* Jeff is running a session on state machines. This is a good fit for you if you're
+interested in applying some core CS concepts to your Ruby. You should be very comfortable
+with classes, instances, and object lifecycle (scoping) to participate in the session.
+
+### Group Retrospectives (2:30 - 3:30)
+
+* 1407 will be in Classroom A with Steve
+* 1409 will be in Classroom B with Jorge and Horace
+* 1410 will be in the Big Workspace with Rachel and Josh
+* 1412 will be in Classroom C with Jeff
+
+### Feedback Surveys (3:30 - 4:00)

@@ -11,6 +11,8 @@ This morning for warmup let's try a little code challenge in our posses:
 
 **Can you write a program that "sings" the classic "100 Bottles of Beer on the Wall"?**
 
+For 1412ers, please start from scratch.
+
 Some things to think about:
 
 * "One bottles" is incorrect.
@@ -60,32 +62,40 @@ Horace is available for code review. Shoot him a message on Slack if you'd like 
 
 Join Josh in Classroom B to discuss templating in Sinatra with ERB.
 
-### IdeaBox Work Time (10:30 - 12:00)
+### IdeaBox Work Time (10:30 - 12:00, 1:00 - 2:00)
 
-Box some ideas. Rachel is on hand for questions.
-
-### IdeaBox Work Time (1:00 - 2:00)
-
-Time to put the finishing touches on your freshly boxed ideas.
+Box some ideas. Josh is on hand for questions.
 
 ### IdeaBox Recap and Refactor (2:00 - 4:00)
 
-Meet up with Rachel in Classroom C to take a look at how you can refactor your IdeaBox projects.
+Jeff and Josh will each lead Recap & Refactor sessions with your ideabox projects.
+Each session will run an hour in groups of eight and you'll swap at 3:00.
+
+Starting with Josh in Classroom B: Brandon Mrsny, Lydia Shafer, Orion Osborn, Kit Pearson, Krista A Nelson, Nathan Owsiany, Michael Dao, Rich Shea
+
+Starting with Jeff in Classroom A: Chris Luhring, Alexandra Robinson, Bhargavi Satpathy, Scott Crawford, Jeffrey Wan, Laura Whalin, Emily Berkeley, Bryce Holcomb
 
 ## 1412
 
+### Practicing Classes, Instances, Methods, and Tests (9:00 - 10:30)
+
+Meet with Jeff in Classroom A to recap your homework and revisit ideas from yesterday.
+
 ### Using Source Control (9:00 - 10:30)
 
-Meet with Jeff in Classroom A to discuss using source control.
+Meet with Rachel in Classroom A to discuss using source control.
 
-### Understanding Values, References, Scopes, and Stacks (10:30 - 12:00)
+### Mythical Creatures Workshop (1:00 - 3:00)
 
-Meet with Jeff in Classroom A to discuss using values, references, scopes, and stacks.
+Rachel will kick off the Mythical Creatures workshop in Classroom C.
 
-### Mythical Creatures Workshop (1:00 - 2:30)
+### Mythical Creates Questions and Explorations (3:00 - 4:00)
 
-Josh will kick off the Mythical Creatures workshop in Classroom B.
+Meet back up with Rachel in Classroom C. She'll be answering your questions and exploring concepts.
 
-### Mythical Creates Questions and Explorations (2:30 - 4:00)
+### Homework
 
-Meet back up with Josh in Classroom B. He'll be answering your questions and exploring concepts.
+Say what? I can't understand you! Perhaps [your message is encrypted](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+
+Get it ready for tomorrow. Now that you're masters of Git we can stop with the Etherpad
+documents and [add your Gist URL to this submissions file](https://github.com/turingschool/ruby-submissions/blob/master/1412/challenges/cryptographer.markdown).

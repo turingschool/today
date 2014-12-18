@@ -40,21 +40,9 @@ Meet with Horace in Classroom B to talk about scaling your workers.
 
 Meet in Classroom B to talk about [Workers at Scale](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown) with Horace.
 
-### Third-Party JavaScript (3:00 - 4:00)
+### Mocking and Doubling APIs (Continued)
 
-Steve will stop by Classroom B to talk about JavaScript libraries design to make your life easier:
-
-* [Underscore.js][underscore], [Lo-dash][ld], [Underscore.String.js][underscore-string]
-* [Moment.js][moment]
-* [Numeral.js][numeral]
-* [Modernizr.js][modernizr]
-
-[underscore]: http://underscorejs.org
-[ld]: https://lodash.com
-[underscore-string]: https://github.com/epeli/underscore.string#readme
-[moment]: http://momentjs.com
-[numeral]: http://numeraljs.com
-[modernizr]: http://modernizr.com
+Meet back up with Horace in Classroom B to continue the discussion from yesterday.
 
 ## 1409
 
@@ -89,11 +77,7 @@ Stick with Josh in Classroom B to discuss Rack and how it works.
 
 ### IdeaBox Work Time (1:00 - 4:00)
 
-Box those ideas. Rachel will be on hand for questions.
-
-### IdeaBox Work Time (1:00 - 4:00)
-
-Josh will be on hand for questions.
+Box those ideas. Rachel and Josh will be on hand for questions.
 
 ## 1412
 
