@@ -8,11 +8,10 @@ layout: outline
 ### Study Groups (9:00 - 11:00)
 
 * Luke is running a study group on Angular.js.
-* Jeff Wan is running an _Eloquent JavaScript_ reading group.
 * Travis and David are running a session on setting up a development environment.
 * Bryce and Orion are running a Hackathon planning and brainstorming meeting.
 * Zach is running a study session on concurrency.
-* Will (yes, Will) is running a session on building a Etch-a-Sketch in JavaScript.
+* Will and Tan are running a session on building a Etch-a-Sketch in JavaScript.
 * Laura will be running a session on CSS.
 * Ian will be available for one-on-one pairing.
 
