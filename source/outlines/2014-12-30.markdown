@@ -1,0 +1,23 @@
+---
+title: 141230
+layout: outline
+---
+
+## All
+
+## 1409
+
+### Auditing and Improving Rails Security (1:00 - 2:30)
+
+We'll be working through a pair exercise to exploit vulnerabilities
+and improve one another's code. We'll use these pairs for the exercise:
+
+Pairs for Security Hacking and Code Reviewing
+
+* Alex & Greg
+* David & Konr
+* Sam & Chandra
+* Chase & Tim
+* Viki & Adam
+* Kate & Zach
+* Danny & Travis
