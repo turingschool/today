@@ -7,8 +7,87 @@ layout: outline
 
 ## 1407
 
+### Performance Metrics Services (9:00 - 10:30)
+
+Join Steve in the Big Workspace to talk about [Skylight](http://skylight.io).
+
+We'll be trying to figure out all of the things that are wrong with the [World's Worst Gradebook](https://polar-inlet-5855.herokuapp.com/) application.
+
+And then we'll use Skylight to analyze the performance of our FeedEngine projects.
+
+### Simulating Load (10:30 - 12:00)
+
+Stick around in the Big Workspace as Horace drops by to talk about simulating load on your applications.
+
+### Key/Value Stores (1:00 - 3:00)
+
+Meet back up with Steve in Classroom B to talk about [key/value stores](http://tutorials.jumpstartlab.com/topics/performance/caching_data.html) in Rails.
+
 ## 1409
+
+### Revisiting Authorization Strategies (9:00 - 10:30)
+
+Revisit authorization strategies with Horace in Classroom B.
+
+Resources:
+
+* [Slides](https://www.dropbox.com/sh/iwlgfajecdr3bt1/AAAgVD8WrTvcQMbuLBsNyuApa?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/revisiting_authorization_for_multitenant_applications.markdown)
+* [Tutorial Activity](http://tutorials.jumpstartlab.com/academy/workshops/revisiting_authentication_and_authorization.html)
+
+### ActiveRecord Scopes and Queries (10:30 - 12:00)
+
+Sit tight as Steve swings by to talk about some advanced ActiveRecord query techniques (including scopes).
+
+We'll cover the following topics:
+
+* Recap of the basic query methods (`.where`, `.limit`, `.order`)
+* Chaining and composing Active Record Queries
+* Creating and overriding `default_scope`
+* Creating scopes with lamdas and creating scopes that take parameters
+* Emulating scopes with class methods
+
+### Project Work Time (1:00 - 3:00)
+
+Horace is waiting with bated breath for your questions. He lives to answer your questions. Just try and stop him from answering your questions. It can't be done.
 
 ## 1410
 
+### Introduction to SQL (9:00 - 10:15)
+
+Meet up with Rachel in Classroom C to talk working with relational databases with SQL.
+Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+
+### Intro to Sequel (10:15 - 11:30)
+
+Now that you know all about SQL, let's add a few more letters in Classroom C.
+
+Next we'll move on to the Sequel library. Find the
+[lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+
+### TrafficSpy Kick-off (11:30 - 12:00)
+
+Let's kick off our next project, [TrafficSpy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
+### Acceptance Testing with Capybara (1:00 - 2:30)
+
+Meet in Classroom B, Rachel will introduce you to the world's largest rodent: [The Capybara](http://en.wikipedia.org/wiki/Capybara).
+
+### Capybara Work Time (2:30 - 3:00)
+
+Bring a net.
+
 ## 1412
+
+### Recapping LinkLister (9:00 - 10:30)
+
+Meet with Josh in Classroom A.
+
+### Introducing Enumerables (10:30 - 12:00)
+
+Stick around with Josh in Classroom A.
+
+### Practicing with Enumerables (1:00 - 3:00)
+
+Meet back up with Josh in Classroom C.
