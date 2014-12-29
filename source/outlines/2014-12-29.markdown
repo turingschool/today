@@ -11,4 +11,20 @@ layout: outline
 
 ## 1410
 
+### Introduction to SQL (9:00 - 10:15)
+
+Meet with Rachel in Classroom C to talk about SQL. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown).
+
+### Introduction to Sequel (10:15 - 11:30)
+
+Stick around in Classroom C to learn about something that is pronounced slighly different. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown).
+
+### Traffic Spy Kickoff (11:30 - 12:00)
+
+Clone Wars was so last cohort. Join Rachel in Classroom C to kickoff [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
+### Feature Testing with Capybara (1:00 - 2:30)
+
+Did you know that the Capybara is the largeset rodent in the world? Learn how to test your features using Capybara in Classroom C this afternoon. Find the slides [here](https://www.dropbox.com/s/djzqkdyfyh6jdjz/Feature%20Testing%20with%20Capybara.key?dl=0).
+
 ## 1412
