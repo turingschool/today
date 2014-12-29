@@ -21,10 +21,10 @@ Stick around in Classroom C to learn about something that is pronounced slighly 
 
 ### Traffic Spy Kickoff (11:30 - 12:00)
 
-Clone Wars was so last cohort. Join Rachel in Classroom C to kickoff [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+Clone Wars is SO last season. Join Rachel in Classroom C to kickoff [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
 
 ### Feature Testing with Capybara (1:00 - 2:30)
 
-Did you know that the Capybara is the largeset rodent in the world? Learn how to test your features using Capybara in Classroom C this afternoon. Find the slides [here](https://www.dropbox.com/s/djzqkdyfyh6jdjz/Feature%20Testing%20with%20Capybara.key?dl=0).
+Did you know that the Capybara is the largest rodent in the world? Learn how to test your features using Capybara in Classroom C this afternoon. Find the slides [here](https://www.dropbox.com/s/djzqkdyfyh6jdjz/Feature%20Testing%20with%20Capybara.key?dl=0).
 
 ## 1412
