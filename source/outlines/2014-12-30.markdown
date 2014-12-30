@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+### Warm Up (8:30 - 8:50)
+
+It's cold outside! Time to warm up. Can you solve [this problem from Project Euler](https://projecteuler.net/problem=46)?
+
 ## 1407
 
 ### FeedEngine Work Time (9:00 - 12:00)
