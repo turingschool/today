@@ -7,7 +7,7 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
-It's cold outside! Time to warm up. Can you solve [this problem from Project Euler](https://projecteuler.net/problem=46)?
+It's cold outside! Time to warm up. Can you solve [this problem from Project Euler](https://projecteuler.net/problem=10)?
 
 ## 1407
 
