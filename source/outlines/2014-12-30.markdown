@@ -145,7 +145,7 @@ Iteration 1 Pairs:
 * Edward McCarthy & Juan Manuel Navarro
 * Jack Yeh & Kyra Weber
 * Trey Tomlinson & Teresa Finn
-* Markus Olsen & Miriam Moser
+* Markus Olsen & 
 * Fred Block & Kyle Henson
 * Charles Valentino Espinoza & DJ Greenfield & Stanley Siudzinski
 
@@ -169,19 +169,19 @@ Iteration 3 Pairs:
 * DJ Greenfield & Jack Yeh
 * Teresa Finn & Charles Valentino Espinoza
 * Jeffrey Gu & Austin Wood
-* Paul Grever & Kyle Henson & Fred Block
-* Markus Olsen & Miriam Moser
+* Paul Grever & Kyle Henson & Miriam Moser
+* Markus Olsen & Fred Block
 * Trey Tomlinson & Stanley Siudzinski
 
 Iteration 4 Pairs:
 
 * Jack Yeh & Lori Culberson
 * Trey Tomlinson & Kyle Henson
-* Teresa Finn & David E Maurer
+* Teresa Finn & Markus Olsen 
 * Charles Valentino Espinoza & Paul Grever
 * Kyra Weber & Jeffrey Gu
 * DJ Greenfield & Fred Block
-* Miriam Moser & Markus Olsen
+* Miriam Moser & David E Maurer
 * Austin Wood & Juan Manuel Navarro
 * Stanley Siudzinski & Andrew Overby & Edward McCarthy
 
