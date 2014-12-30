@@ -83,9 +83,107 @@ After we talk about pairs, we'll work in pairs:
 
 Stick around in the Classroom C as Steve kicks off your first [code retreat](http://www.tablexi.com/blog/2013/05/what-is-a-code-retreat-anyway-and-how-to-persuade-the-big-cheese-to-sponsor-one/developers/).
 
+Iteration 1: 
+
+* Jack Yeh & Kyle Henson
+* Markus Olsen & Paul Grever
+* Austin Wood & David E Maurer
+* Lori Culberson & Jeffrey Gu
+* Andrew Overby & Fred Block
+* Trey Tomlinson & Charles Valentino Espinoza
+* DJ Greenfield & Stanley Siudzinski
+* Kyra Weber & Edward McCarthy
+* Miriam Moser & Juan Manuel Navarro & Teresa Finn
+
+Iteration 2:
+
+* Trey Tomlinson & Stanley Siudzinski
+* Teresa Finn & Kyra Weber
+* Paul Grever & Kyle Henson & Fred Block
+* DJ Greenfield & Lori Culberson
+* Juan Manuel Navarro & Markus Olsen
+* David E Maurer & Jeffrey Gu
+* Austin Wood & Jack Yeh
+* Charles Valentino Espinoza & Andrew Overby
+* Edward McCarthy & Miriam Moser
+
+Iteration 3:
+
+* Trey Tomlinson & Edward McCarthy
+* Lori Culberson & Juan Manuel Navarro
+* Andrew Overby & Kyra Weber
+* Teresa Finn & Fred Block
+* Kyle Henson & DJ Greenfield
+* Markus Olsen & Jack Yeh
+* Jeffrey Gu & David E Maurer
+* Stanley Siudzinski & Miriam Moser
+* Paul Grever & Austin Wood & Charles Valentino Espinoza
+
+Iteration 4: 
+
+* Trey Tomlinson & Lori Culberson
+* Charles Valentino Espinoza & Miriam Moser
+* Edward McCarthy & Markus Olsen
+* Paul Grever & David E Maurer
+* Austin Wood & Stanley Siudzinski
+* Kyle Henson & Fred Block
+* Juan Manuel Navarro & Teresa Finn
+* Jack Yeh & Andrew Overby
+* Jeffrey Gu & Kyra Weber & DJ Greenfield
+
 ### Code Retreat: Part Two (1:00 - 3:00)
 
-Finish off your code retreat with Rachel in Classroom C.
+Join Rachel in Classroom C as we finish off your code retreat with some [robots](https://github.com/turingschool/code_retreat).
+
+Iteration 1 Pairs:
+
+* Paul Grever & Jeffrey Gu
+* David E Maurer & Andrew Overby
+* Lori Culberson & Austin Wood
+* Edward McCarthy & Juan Manuel Navarro
+* Jack Yeh & Kyra Weber
+* Trey Tomlinson & Teresa Finn
+* Markus Olsen & Miriam Moser
+* Fred Block & Kyle Henson
+* Charles Valentino Espinoza & DJ Greenfield
+* Stanley Siudzinski
+
+Iteration 2 Pairs:
+
+* Teresa Finn & Trey Tomlinson
+* Andrew Overby & Juan Manuel Navarro
+* Jack Yeh & Markus Olsen
+* David E Maurer & Paul Grever
+* Lori Culberson & Kyra Weber
+* Kyle Henson & Austin Wood & Jeffrey Gu 
+* Stanley Siudzinski & DJ Greenfield
+* Fred Block & Charles Valentino Espinoza
+* Edward McCarthy & Miriam Moser
+
+Iteration 3 Pairs:
+
+* Juan Manuel Navarro & Kyra Weber
+* Andrew Overby & Edward McCarthy
+* Lori Culberson & David E Maurer
+* DJ Greenfield & Jack Yeh
+* Teresa Finn & Charles Valentino Espinoza
+* Jeffrey Gu & Austin Wood
+* Paul Grever & Kyle Henson
+* Markus Olsen & Miriam Moser
+* Trey Tomlinson & Stanley Siudzinski
+* Fred Block
+
+Iteration 4 Pairs:
+
+* Jack Yeh & Lori Culberson
+* Trey Tomlinson & Kyle Henson
+* Teresa Finn & David E Maurer
+* Charles Valentino Espinoza & Paul Grever
+* Kyra Weber & Jeffrey Gu
+* DJ Greenfield & Fred Block
+* Miriam Moser & Markus Olsen
+* Austin Wood & Juan Manuel Navarro
+* Stanley Siudzinski & Andrew Overby & Edward McCarthy
 
 ### Retreat Reflection and Open Q&A (3:00 - 4:00)
 
