@@ -33,7 +33,9 @@ Horace is on hand for questions and code review.
 
 Meet up with Horace in Classroom B.
 
-We'll be working through a pair exercise to exploit vulnerabilities and improve one another's code. We'll use these pairs for the exercise:
+We'll be working through a pair exercise to exploit vulnerabilities and improve one another's code. The lesson plan is here: [https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/auditing_and_improving_rails_security.markdown](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/auditing_and_improving_rails_security.markdown)
+
+We'll use these pairs for the exercise:
 
 * Alex & Greg
 * David & Tim
