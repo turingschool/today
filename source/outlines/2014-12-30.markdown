@@ -67,6 +67,19 @@ Josh is waiting in the wings to answer your questions.
 
 Meet with Steve in Classroom C to talk about pair programming.
 
+After we talk about pairs, we'll work in pairs:
+
+* Jack Yeh & Paul Grever
+* Austin Wood & Stanley Siudzinski
+* Markus Olsen & Teresa Finn
+* David E Maurer & Kyle Henson
+* Juan Manuel Navarro & DJ Greenfield
+* Lori Culberson & Trey Tomlinson
+* Andrew Overby & Kyra Weber
+* Miriam Moser & Thomas Randell
+* Jeffrey Gu & Charles Valentino Espinoza
+* Fred Block & Edward McCarthy
+
 ### Code Retreat: Part One (10:00 - 12:00)
 
 Stick around in the Classroom C as Steve kicks off your first [code retreat](http://www.tablexi.com/blog/2013/05/what-is-a-code-retreat-anyway-and-how-to-persuade-the-big-cheese-to-sponsor-one/developers/).
