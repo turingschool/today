@@ -5,14 +5,31 @@ layout: outline
 
 ## All
 
+## 1407
+
+### FeedEngine Work Time (9:00 - 12:00)
+
+Horace is on hand for questions and code review.
+
+### Key-Based Caching (1:00 - 2:30)
+
+Haven't had enough caching? Meet back up with Steve in Classroom A to talk about [digest-based caching](http://tutorials.jumpstartlab.com/topics/performance/digest_based_caching.html).
+
+### Improving Query Performance (2:30 - 4:00)
+
+Meet with Horace to improve your query performance with [counter caches, serializing data, and fetching less of it](http://tutorials.jumpstartlab.com/topics/performance/queries.html) in Classroom A.
+
 ## 1409
+
+### Pivot Work Time (9:00 - 12:00)
+
+Horace is on hand for questions and code review.
 
 ### Auditing and Improving Rails Security (1:00 - 2:30)
 
-We'll be working through a pair exercise to exploit vulnerabilities
-and improve one another's code. We'll use these pairs for the exercise:
+Meet up with Horace in Classroom B.
 
-Pairs for Security Hacking and Code Reviewing
+We'll be working through a pair exercise to exploit vulnerabilities and improve one another's code. We'll use these pairs for the exercise:
 
 * Alex & Greg
 * David & Konr
@@ -21,3 +38,39 @@ Pairs for Security Hacking and Code Reviewing
 * Viki & Adam
 * Kate & Zach
 * Danny & Travis
+
+### Revisiting ActiveRecord Relationships (2:30 - 4:00)
+
+Stick around in Classroom B as Steve drops by talk about some of the finer points of ActiveRecord Relationships.
+
+## 1410
+
+### TrafficSpy Work Time (9:00 - 12:00)
+
+Rachel is on hand for questions.
+
+### HTTP Basic Authentication & Testing (1:00 - 2:00)
+
+Meet with Josh in the Big Workspace to talk about [HTTP basic authentication in Sinatra](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/http_auth.markdown).
+
+### TrafficSpy Work Time (2:00 - 4:00)
+
+Josh is waiting in the wings to answer your questions.
+
+## 1412
+
+### How Pairing Works (9:00 - 10:00)
+
+Meet with Steve in Classroom C to talk about pair programming.
+
+### Code Retreat: Part One (10:00 - 12:00)
+
+Stick around in the Classroom C as Steve kicks off your first [code retreat](http://www.tablexi.com/blog/2013/05/what-is-a-code-retreat-anyway-and-how-to-persuade-the-big-cheese-to-sponsor-one/developers/).
+
+### Code Retreat: Part Two (1:00 - 3:00)
+
+Finish off your code retreat with Rachel in Classroom C.
+
+### Retreat Reflection and Open Q&A (3:00 - 4:00)
+
+Let's reflect on our code retreat with Rachel in Classroom C.
