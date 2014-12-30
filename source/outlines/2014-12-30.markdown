@@ -36,12 +36,11 @@ Meet up with Horace in Classroom B.
 We'll be working through a pair exercise to exploit vulnerabilities and improve one another's code. We'll use these pairs for the exercise:
 
 * Alex & Greg
-* David & Konr
+* David & Tim
 * Sam & Chandra
-* Chase & Tim
-* Viki & Adam
-* Kate & Zach
-* Danny & Travis
+* Chase & Zach
+* Danny & Adam
+* Viki & Kate & Travis
 
 ### Revisiting ActiveRecord Relationships (2:30 - 4:00)
 
