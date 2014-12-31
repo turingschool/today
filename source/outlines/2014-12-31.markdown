@@ -1,0 +1,72 @@
+---
+title: 141231
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+I had the other day in my possession a label bearing the number 3 0 2 5 in large figures. This got accidentally torn in half, so that 3 0 was on one piece and 2 5 on the other. On looking at these pieces I began to make a calculation, when I discovered this little peculiarity. If we add the 3 0 and the 2 5 together and square the sum we get as the result, the complete original number on the label! Thus, 30 added to 25 is 55, and 55 multiplied by 55 is 3025. Curious, is it not?
+
+Now, the challenge is to find two or more other numbers, composed of four figures, all different, which may be divided in the middle and produce the same result.
+
+## 1407
+
+### Pub/Sub on the Back End (9:00 - 11:00)
+
+Meet with Steve in Classroom A to talk about pub/sub on the back end. (We'll cover the front end next week.)
+
+### jQuery III: AJAX (11:00 - 12:00)
+
+Stick around with Steve in Classroom A to talk a bit about making AJAX calls with jQuery.
+
+### FeedEngine Check-ins and Work Time (1:00 - 4:00)
+
+#### With Steve
+
+* 2:00: Social Smarts
+* 2:45: Habit Rabbit
+
+## 1409
+
+### Pivot Work Time (9:00 - 12:00)
+
+Horace is on hand for questions and code review.
+
+### Pivot Check-ins (1:00 - 4:00)
+
+#### With Horace
+
+* 1:00: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+* 1:45: Timothy Mee & Konr Josef Larson & Zachary Routhier
+* 2:30: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+* 3:15: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith
+
+## 1410
+
+### TrafficSpy Work Time (9:00 - 12:00)
+
+Josh is on hand for questions.
+
+### TrafficSpy Work Time (1:00 - 4:00)
+
+Josh and Rachel are on hand for questions.
+
+## 1412
+
+### How to Not Test a REPL (9:00 - 10:30)
+
+Meet up with Rachel in Classroom C to talk about not testing a REPL.
+
+### NumberMind (10:30 - 12:00)
+
+Don't go anywhere. Rachel has some things she wants to tell you about [Numbermind](https://github.com/turingschool-examples/numbermind).
+
+### MasterMind/Battleship Kick-off (1:00 - 2:00)
+
+Steve will kick off your first project, [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html), in Classroom A.
+
+### MasterMind/Battleship Work Time (2:00 - 4:00)
+
+With Mastermind and Battleship kicked off, let's get to work.
