@@ -18,7 +18,7 @@ Now, the challenge is to find two or more other numbers, composed of four figure
 Meet with Steve in Classroom A to talk about pub/sub on the back end. (We'll cover the front end next week.)
 
 * [Repository](https://github.com/turingschool-examples/slacker)
-* [Lesson Plan](https://github.com/turingschool-examples/slacker)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
 
 ### jQuery III: AJAX (11:00 - 12:00)
 
@@ -50,11 +50,11 @@ Horace is on hand for questions and code review.
 
 ### TrafficSpy Work Time (9:00 - 12:00)
 
-Josh is on hand for questions.
+It's time to spy on some traffic.
 
 ### TrafficSpy Work Time (1:00 - 4:00)
 
-Josh and Rachel are on hand for questions.
+Rachel is on hand for questions.
 
 ## 1412
 
