@@ -66,6 +66,18 @@ Meet up with Rachel in Classroom C to talk about not testing a REPL. Find the re
 
 Don't go anywhere. Rachel has some things she wants to tell you about [Numberguesser](https://github.com/rwarbelow/numberguesser).
 
+Pairs:
+
+* Kyra Weber & Paul Grever
+* Teresa Finn & Jeffrey Gu
+* Austin Wood & Fred Block
+* Trey Tomlinson & Andrew Overby
+* Miriam Moser & Stanley Siudzinski
+* Lori Culberson & DJ Greenfield
+* David E Maurer & Charles Valentino Espinoza
+* Kyle Henson & Juan Manuel Navarro
+* Edward McCarthy & Markus Olsen & Jack Yeh
+
 ### MasterMind/Battleship Kick-off (1:00 - 2:00)
 
 Steve will kick off your first project, [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html), in Classroom A.
