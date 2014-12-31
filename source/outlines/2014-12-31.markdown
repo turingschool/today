@@ -17,6 +17,9 @@ Now, the challenge is to find two or more other numbers, composed of four figure
 
 Meet with Steve in Classroom A to talk about pub/sub on the back end. (We'll cover the front end next week.)
 
+* [Repository](https://github.com/turingschool-examples/slacker)
+* [Lesson Plan](https://github.com/turingschool-examples/slacker)
+
 ### jQuery III: AJAX (11:00 - 12:00)
 
 Stick around with Steve in Classroom A to talk a bit about making AJAX calls with jQuery.
