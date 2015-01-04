@@ -60,11 +60,23 @@ Rachel is on hand for questions.
 
 ### How to Not Test a REPL (9:00 - 10:30)
 
-Meet up with Rachel in Classroom C to talk about not testing a REPL.
+Meet up with Rachel in Classroom C to talk about not testing a REPL. Find the repo [here](https://github.com/rwarbelow/polish-notation-calc).
 
 ### NumberMind (10:30 - 12:00)
 
-Don't go anywhere. Rachel has some things she wants to tell you about [Numbermind](https://github.com/turingschool-examples/numbermind).
+Don't go anywhere. Rachel has some things she wants to tell you about [Numberguesser](https://github.com/rwarbelow/numberguesser).
+
+Pairs:
+
+* Kyra Weber & Paul Grever
+* Teresa Finn & Jeffrey Gu
+* Austin Wood & Fred Block
+* Trey Tomlinson & Andrew Overby
+* Miriam Moser & Stanley Siudzinski
+* Lori Culberson & DJ Greenfield
+* David E Maurer & Charles Valentino Espinoza
+* Kyle Henson & Juan Manuel Navarro
+* Edward McCarthy & Markus Olsen & Jack Yeh
 
 ### MasterMind/Battleship Kick-off (1:00 - 2:00)
 
