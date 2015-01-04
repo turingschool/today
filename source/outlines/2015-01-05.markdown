@@ -1,0 +1,106 @@
+---
+title: 150105
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Today, let's talk about real estate:
+
+http://cl.ly/2K1Y082i350U
+
+## 1407
+
+### Pub/Sub in the Browser (9:00 - 10:30)
+
+Assemble in Classroom A to sling some web sockets with Steve.
+
+We'll work in the following pairs:
+
+* Jim Sutton & Aaron Paul Wortham
+* Sara Simon & Luke Aiken
+* Rolando Navarrete & Kavita Sachdeva
+* Ian Andersen & Glen Egbert
+
+### Client-side Testing (10:30 - 9:00)
+
+We've been writing a bit of JavaScript. How's about we test some of it in Classroom A.
+
+We'll work in the following pairs:
+
+* Jim Sutton & Sara Simon
+* Rolando Navarrete & Ian Andersen
+* Kavita Sachdeva & Glen Egbert
+* Luke Aiken & Aaron Paul Wortham
+
+### FeedEngine Work Time (1:00 - 3:00)
+
+## 1409
+
+### Getting Started with Workers (9:00 - 12:00)
+
+Meet up with Jorge in Classroom C to get to work.
+
+### Sending Email (1:00 - 3:00)
+
+Join Jorge in Classroom B to send some emails.
+
+## 1410
+
+### Sinatra Assessment and Project Evaluations (9:00 - 12:00)
+
+#### With Rachel
+
+* 9:00: Chris Luhring
+* 9:20: Orion Osborn
+* 9:40: Michael Dao
+* 10:00: Rich Shea
+* 10:40: Krista A Nelson
+* 11:00: Kit Pearson
+* 11:20: Laura Whalin
+* 11:40: Scott Crawford
+
+#### With Josh
+
+* 9:00: Alexandra Robinson
+* 9:20: Nathan Owsiany
+* 9:40: Bhargavi Satpathy
+* 10:00: Lydia Shafer
+* 10:40: Jeffrey Wan
+* 11:00: Bryce Holcomb
+* 11:20: Brandon Mrsny
+* 11:40: Emily Berkeley
+
+### Understanding MVC (1:00 - 2:00)
+
+Meet with Rachel in Classroom C to talk about models, views, and controllers.
+
+### Understanding REST (2:00 - 3:00)
+
+Stick around with Rachel to talk about representational state transfer in Classroom C.
+
+## 1412
+
+### Mastermind Q&A (9:00 - 10:00)
+
+Ask Jeff some questions about Mastermind in Classroom B.
+
+### Mastermind Pairing (10:00 - 12:00)
+
+This morning, you'll be working in pairs on your mastermind projects. Spend the first hour pairing on one project and then switch to the other project at 11am—except for the the triplet; please switch every 40 minutes.
+
+* DJ Greenfield & Juan Manuel Navarro
+* Stanley Siudzinski & Fred Block
+* Kyra Weber & Kyle Henson
+* Paul Grever & Jack Yeh
+* Markus Olsen & Teresa Finn
+* Trey Tomlinson & Charles Valentino Espinoza
+* Andrew Overby & Lori Culberson
+* Miriam Moser & David E Maurer
+* Jeffrey Gu & Austin Wood & Edward McCarthy
+
+### Encapsulation and Separation of Responsibilities (1:00 - 3:00)
+
+Join Jeff in Classroom A to talk about encapsulation and separation of responsibilities.
