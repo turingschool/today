@@ -7,7 +7,7 @@ layout: outline
 
 ### Welcome Ben Orenstein
 
-Please welcome [Ben Orenstein](http://codeulate.com/about/) ([Twitter](http://codeulate.com/about/)), who will be joining us on loan from thoughtbot for the month of January. He's super excited to be here with us and we're super excited to have him.
+Please welcome [Ben Orenstein](http://benorenstein.com) ([Twitter](http://twitter.com/r00k)), who will be joining us on loan from thoughtbot for the month of January. He's super excited to be here with us and we're super excited to have him.
 
 ### Warm Up (8:30 - 8:50)
 
