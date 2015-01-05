@@ -17,7 +17,20 @@ http://cl.ly/2K1Y082i350U
 
 ## 1407
 
-### Pub/Sub in the Browser (9:00 - 10:30)
+### Client-side Testing (9:00 - 10:30)
+
+We've been writing a bit of JavaScript. How's about we test some of it in Classroom A.
+
+* [Practice Repository](https://github.com/turingschool-examples/testing-javascript)
+
+We'll work in the following pairs:
+
+* Jim Sutton & Sara Simon
+* Rolando Navarrete & Ian Andersen
+* Kavita Sachdeva & Glen Egbert
+* Luke Aiken & Aaron Paul Wortham
+
+### Pub/Sub in the Browser (10:30 - 12:00)
 
 Assemble in Classroom A to sling some web sockets with Steve.
 
@@ -31,18 +44,6 @@ We'll work in the following pairs:
 * Rolando Navarrete & Kavita Sachdeva
 * Ian Andersen & Glen Egbert
 
-### Client-side Testing (10:30 - 9:00)
-
-We've been writing a bit of JavaScript. How's about we test some of it in Classroom A.
-
-* [Practice Repository](https://github.com/turingschool-examples/testing-javascript)
-
-We'll work in the following pairs:
-
-* Jim Sutton & Sara Simon
-* Rolando Navarrete & Ian Andersen
-* Kavita Sachdeva & Glen Egbert
-* Luke Aiken & Aaron Paul Wortham
 
 ### FeedEngine Work Time (1:00 - 3:00)
 
