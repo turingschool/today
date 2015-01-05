@@ -51,27 +51,21 @@ Join Jorge in Classroom B to send some emails.
 
 ### Sinatra Assessment and Project Evaluations (9:00 - 12:00)
 
+The assessment process is a little unusual for this second module because we split time between Sinatra and Rails. This morning please work in a pair to complete the three challenges in the Sinatra self-assessment to find your weak points and gauge your understanding.
+
+[Sinatra Self-Assessment](http://tutorials.jumpstartlab.com/academy/assessments/sinatra_cms.html)
+
 #### With Rachel
 
-* 9:00: Chris Luhring
-* 9:20: Orion Osborn
-* 9:40: Michael Dao
-* 10:00: Rich Shea
-* 10:40: Krista A Nelson
-* 11:00: Kit Pearson
-* 11:20: Laura Whalin
-* 11:40: Scott Crawford
+* 9:00 Laura Whalin & Kit Pearson & Lydia Shafer
+* 10:00 Rich Shea & Jeffrey Wan & Brandon Mrsny
+* 11:00 Bhargavi Satpathy & Alexandra Robinson & Michael Dao
 
 #### With Josh
 
-* 9:00: Alexandra Robinson
-* 9:20: Nathan Owsiany
-* 9:40: Bhargavi Satpathy
-* 10:00: Lydia Shafer
-* 10:40: Jeffrey Wan
-* 11:00: Bryce Holcomb
-* 11:20: Brandon Mrsny
-* 11:40: Emily Berkeley
+* 9:00 Nathan Owsiany & Chris Luhring
+* 10:00 Scott Crawford & Emily Berkeley
+* 11:00 Orion Osborn & Bryce Holcomb & Krista A Nelson
 
 ### Understanding MVC (1:00 - 2:00)
 
