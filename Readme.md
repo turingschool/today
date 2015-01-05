@@ -28,6 +28,10 @@ The site uses:
 * Sass for stylesheets, links: [guide](http://sass-lang.com/guide), [docs](http://sass-lang.com/documentation/).
 * Haml for content, links: [tutorial](http://haml.info/tutorial.html) , [docs](http://haml.info/docs.html).
 
+## Deploying
+
+When new commits are pushed to master, the site will automatically be built and deployed.
+
 ## License
 
 Unless otherwise noted, all materials licensed <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0</a>&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
