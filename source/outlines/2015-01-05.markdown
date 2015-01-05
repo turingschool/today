@@ -69,11 +69,15 @@ The assessment process is a little unusual for this second module because we spl
 
 ### Understanding MVC (1:00 - 2:00)
 
-Meet with Rachel in Classroom C to talk about models, views, and controllers.
+Meet with Rachel in Classroom C to talk about models, views, and controllers. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_mvc.markdown).
 
 ### Understanding REST (2:00 - 3:00)
 
-Stick around with Rachel to talk about representational state transfer in Classroom C.
+Stick around with Rachel to talk about representational state transfer in Classroom C. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/understanding_REST.markdown).
+
+### Homework
+
+Complete the [MVC-RESTful Routes Challenge](https://github.com/turingschool/challenges/blob/master/mvc-routes.markdown). 
 
 ## 1412
 
