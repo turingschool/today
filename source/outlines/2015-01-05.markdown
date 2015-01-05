@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+### Welcome Ben Orenstein
+
+Please welcome [Ben Orenstein](http://codeulate.com/about/) ([Twitter](http://codeulate.com/about/)), who will be joining us on loan from Thoughtbot for the month of January. He's super excited to be here with us and we're super excited to have him.
+
 ### Warm Up (8:30 - 8:50)
 
 Today, let's talk about real estate:
@@ -17,6 +21,9 @@ http://cl.ly/2K1Y082i350U
 
 Assemble in Classroom A to sling some web sockets with Steve.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_in_the_browser.markdown)
+* [Practice Repository](https://github.com/turingschool-examples/slacker-web)
+
 We'll work in the following pairs:
 
 * Jim Sutton & Aaron Paul Wortham
@@ -27,6 +34,8 @@ We'll work in the following pairs:
 ### Client-side Testing (10:30 - 9:00)
 
 We've been writing a bit of JavaScript. How's about we test some of it in Classroom A.
+
+* [Practice Repository](https://github.com/turingschool-examples/testing-javascript)
 
 We'll work in the following pairs:
 
@@ -81,7 +90,7 @@ Stick around with Rachel to talk about representational state transfer in Classr
 
 ### Homework
 
-Complete the [MVC-RESTful Routes Challenge](https://github.com/turingschool/challenges/blob/master/mvc-routes.markdown). 
+Complete the [MVC-RESTful Routes Challenge](https://github.com/turingschool/challenges/blob/master/mvc-routes.markdown).
 
 ## 1412
 
