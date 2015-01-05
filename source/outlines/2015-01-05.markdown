@@ -98,3 +98,6 @@ This morning, you'll be working in pairs on your mastermind projects. Spend the 
 ### Encapsulation and Separation of Responsibilities (1:00 - 3:00)
 
 Join Jeff in Classroom A to talk about encapsulation and separation of responsibilities.
+
+While it won't be the focus of our session, you might put [PhoneBook - Level 1](http://tutorials.jumpstartlab.com/academy/workshops/phonebook-csv-tdd/phone_book_i.html)
+on your to-do list to reinforce these concepts.
