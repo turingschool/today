@@ -37,6 +37,10 @@ We'll work in the following pairs:
 
 ### FeedEngine Work Time (1:00 - 3:00)
 
+Horace is available for code review in 40 minute blocks.
+
+Steve is available for questions in 10 minute blocks and client meetings in 20 minute blocks.
+
 ## 1409
 
 ### Getting Started with Workers (9:00 - 12:00)
