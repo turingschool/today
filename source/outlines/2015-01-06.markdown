@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+### Warm Up (8:30 - 8:50)
+
+Find words in a word list that contain all the vowels in alphabetical order, non-repeated, where vowels are defined as A E I O U Y. Use this [word list](https://gist.github.com/stevekinney/c0b7cd61d6c1ecd727ca).
+
 ## 1407
 
 ### FeedEngine Check-ins (9:00 - 10:30)
