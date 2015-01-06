@@ -11,7 +11,7 @@ The breakfast train pulls out of the station at 9:30. We'll be headed to [the De
 
 ### Guest Speaker: Sean Griffin (11:00 - 12:00)
 
-Sean is a developer at [Thoughtbot][tb] and a Rails issues team member.
+Sean is a developer at [thoughtbot][tb] and a Rails issues team member.
 
 Sean is a fanatic about Vim, Rails, and TDD. After spending far too long with PHP and ASP.NET, he's never looked back since joining the Ruby community. When he's not writing code, he enjoys fedoras, fine cigars, and blogging about the games industry.
 
