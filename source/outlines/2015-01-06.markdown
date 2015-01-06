@@ -18,7 +18,7 @@ Meet with Ben and Steve to check in on your FeedEngine projects. We'll be lookin
 * 9:00 - 9:40: Habit Rabbit
 * 9:45 - 9:25: SocialSmarts
 
-Take a look below:
+For our second session this morning, please have `ember-cli` installed: `sudo npm install -g ember-cli`. Also: the [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en).
 
 ### Ember Fundamentals (10:30 - 12:00)
 
