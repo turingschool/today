@@ -1,0 +1,85 @@
+---
+title: 150106
+layout: outline
+---
+
+## All
+
+## 1407
+
+### FeedEngine Check-ins (9:00 - 10:30)
+
+Meet with Ben and Steve to check in on your FeedEngine projects. We'll be looking at code and product.
+
+* 9:00 - 9:40: Habit Rabbit
+* 9:45 - 9:25: SocialSmarts
+
+Take a look below:
+
+### Ember Fundamentals (10:30 - 12:00)
+
+Meet with Steve in Classroom A to dip our toes into Ember. We'll be working with a sample repository: [Good Tipper][gt].
+
+[gt]: https://github.com/turingschool-examples/good-tipper
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/ember_fundementals.markdown)
+* [Playing with Arrays in Ember](http://jsbin.com/xakuso)
+
+### Building Notifications (1:00 - 4:00)
+
+Meet with Horace in Classroom B to work on extracting [a notification service][not] in Rails.
+
+[not]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
+
+## 1409
+
+### Advanced ActiveRecord Features (9:00 - 12:00)
+
+Join Jorge in Classroom C to talk about callbacks in ActiveRecord.
+
+### The Pivot Check-ins (1:00 - 4:00)
+
+You'll be meeting with Jorge to check in before the final sprint:
+
+* 1:00: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith
+* 1:45: Timothy Mee & Konr Josef Larson & Zachary Routhier
+* 2:30: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+* 3:15: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+
+## 1410
+
+### Models, Databases, and Relationships (9:00 - 12:00)
+
+Meet with Rachel in Classroom B to talk about models, databases, and relationships.
+
+### Starting Contact Manager (1:00 - 4:00)
+
+Join Jeff in Classroom A to kick off [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
+
+## 1412
+
+### Mastermind Small-Group Check-ins (9:00 - 11:00)
+
+This morning, you'll be meeting with Jeff and Josh in small groups.
+
+### Planning the Finish (11:00 - 12:00)
+
+Meet with Jeff in the Big Workspace to plan the finish.
+
+### Debugging Techniques (1:00 - 2:30)
+
+Meet with Josh in Classroom C to talk about bugs and how to squash them.
+
+### Debugging Exercises (2:30 - 4:00)
+
+You'll be working in the following pairs:
+
+* Austin Wood & Kyle Henson
+* Miriam Moser & Andrew Overby
+* Teresa Finn & Markus Olsen
+* David E Maurer & Jack Yeh
+* Charles Valentino Espinoza & Paul Grever
+* Lori Culberson & Edward McCarthy
+* DJ Greenfield & Stanley Siudzinski
+* Fred Block & Jeffrey Gu
+* Trey Tomlinson & Juan Manuel Navarro & Kyra Weber
