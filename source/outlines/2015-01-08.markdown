@@ -1,0 +1,116 @@
+---
+title: 150108
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+Three out of four cohorts have projects due today. Get shipping.
+
+## 1407
+
+### Feed Engine Evaluations (9:00 - 11:00)
+
+Meet with Steve and Ben (times are tentative; we reserve the right to go over a little bit):
+
+* 9:00-9:45: Habit Rabbit
+* 9:45-10:30: Social Smarts
+
+### Demonstration Preparation (10:30 - 12:00)
+
+Spend this time to get your applications ready for demo night.
+
+### Final Project Brainstorm (1:00 - 2:30)
+
+Meet with Steve in Classroom B to kick off your final project.
+
+### Cross-Cohort Pairing (2:30 - 4:00)
+
+* With Glen Egbert: Laura Whalin and Bryce Holcomb
+* With Ian Andersen: Krista A Nelson and Michael Dao
+* With Kavita Sachdeva: Orion Osborn and Rich Shea
+* With Jim Sutton: Chris Luhring and Nathan Owsiany
+* With Aaron Paul Wortham: Alexandra Robinson and Scott Crawford
+* With Luke Aiken: Lydia Shafer and Emily Berkeley
+* With Sara Simon: Brandon Mrsny and Kit Pearson
+* With Rolando Navarrete: Bhargavi Satpathy and Jeffrey Wan
+
+## 1409
+
+### Pivot Evaluations (9:00 - 12:00)
+
+Meet with Jorge to review your projects:
+
+* 9:00: Sam Kuhlmann & Victoria Harrod & Alex Jensen & Danny Glunz
+* 9:45: Travis Yoder & Chase van Hekken & Kate Lane & David Bayendor
+* 10:30: Herbert Joseph & Gregory Narajka & Chandra Carney & Adam Smith (with Jorge and Ben)
+* 11:15: Timothy Mee & Konr Josef Larson & Zachary Routhier (with Jorge and Ben)
+
+### Personas for UX (1:00 - 2:00)
+
+Join Jorge in Classroom C to talk about his persona.
+
+### Wireframes for UX (2:00 - 3:00)
+
+Create some wireframes with Jorge in Classroom C.
+
+## 1410
+
+### ContactManager Work Time (9:00 - 11:00)
+
+Those contacts aren't going to manage themselves.
+
+### ContactManager Review (11:00 - 12:00)
+
+Join Josh in Classroom B to review Contact Manager.
+
+### Cross-Cohort Pairing (2:30 - 4:00)
+
+Check under 1407's schedule for your groups.
+
+## 1412
+
+### Robodoku (9:00 - 10:00)
+
+Join Jeff in Classroom A to talk about Roboduku.
+
+### Sudoku Algorithm Practice (10:00 - 12:00)
+
+[Do Stanley's Sudoku](https://www.youtube.com/watch?v=PuUNB4HPlO8).
+
+### Mastermind Evaluations (10:00 - 4:00)
+
+Evaluations sessions will be 25 minutes in length. When you're not in your evaluation, you'll be working on **Robodoku**.
+
+### With Jeff
+
+* 1:00: Stanley Siudzinski
+* 1:30: Jeffrey Gu
+* 2:00: Juan Manuel Navarro
+* 3:00: Paul Grever
+* 3:30: Austin Wood
+
+### With Josh
+
+* 1:00: Jack Yeh
+* 1:30: Trey Tomlinson
+* 2:00: Andrew Overby
+* 3:00: Teresa Finn
+* 3:30: Miriam Moser
+
+### With Horace
+
+* 1:00: Markus Olsen
+* 1:30: David E Maurer
+* 2:00: Fred Block
+* 3:00: Kyra Weber
+* 3:30: DJ Greenfield
+
+### With Ben
+
+* 1:00: Charles Valentino Espinoza
+* 1:30: Edward McCarthy
+* 2:00: Lori Culberson
+* 2:30: Kyle Henson
