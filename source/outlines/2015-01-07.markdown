@@ -56,11 +56,27 @@ Rachel, Josh, and Ben are available for questions.
 
 ### Unit Testing in Rails (1:00 - 2:30)
 
-Join Rachel in Classroom C to test your units.
+Join Rachel in Classroom C to test your units. Here is the [lesson outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/unit_testing_in_rails.markdown).
 
 ### Acceptance Testing in Rails (1:00 - 2:30)
 
 Are you ready for acceptance? If so, join Josh in Classroom C.
+
+### Homework
+
+Create a Fans controller and build the tests for that controller. They should cover the following actions:
+
+* index
+* show
+* new
+* create
+* edit
+* update
+* delete
+
+Remember that a good controller test checks for the type of response, the assignment of instance variable, the correct redirection and the display of flash messages if there are any. Use the example from the lesson outline if you are stuck.
+
+Also using the Belieber app, finish implementing the `managing_fans_spec` feature using Poltergeist and Phantom.js. Be sure to set `js: true` on line 3 (`describe 'the company view', js: true, type: :feature do`). NOTE: You will need to checkout the `phantom` branch.
 
 ## 1412
 
