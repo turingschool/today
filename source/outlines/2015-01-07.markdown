@@ -62,6 +62,20 @@ Join Rachel in Classroom C to test your units. Here is the [lesson outline](http
 
 Are you ready for acceptance? If so, join Josh in Classroom C.
 
+### Homework
+
+Create a Fans controller and build the tests for that controller. They should cover the following actions:
+
+* index
+* show
+* new
+* create
+* edit
+* update
+* delete
+
+Remember that a good controller test checks for the type of response, the assignment of instance variable, the correct redirection and the display of flash messages if there are any. Use the example from the lesson outline if you are stuck. 
+
 ## 1412
 
 ### Work Time (9:00 - 12:00)
