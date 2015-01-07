@@ -74,7 +74,9 @@ Create a Fans controller and build the tests for that controller. They should co
 * update
 * delete
 
-Remember that a good controller test checks for the type of response, the assignment of instance variable, the correct redirection and the display of flash messages if there are any. Use the example from the lesson outline if you are stuck. 
+Remember that a good controller test checks for the type of response, the assignment of instance variable, the correct redirection and the display of flash messages if there are any. Use the example from the lesson outline if you are stuck.
+
+Also using the Belieber app, finish implementing the `managing_fans_spec` feature using Poltergeist and Phantom.js. Be sure to set `js: true` on line 3 (`describe 'the company view', js: true, type: :feature do`). NOTE: You will need to checkout the `phantom` branch.
 
 ## 1412
 
