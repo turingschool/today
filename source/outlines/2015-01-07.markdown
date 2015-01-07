@@ -56,7 +56,7 @@ Rachel, Josh, and Ben are available for questions.
 
 ### Unit Testing in Rails (1:00 - 2:30)
 
-Join Rachel in Classroom C to test your units.
+Join Rachel in Classroom C to test your units. Here is the [lesson outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/unit_testing_in_rails.markdown).
 
 ### Acceptance Testing in Rails (1:00 - 2:30)
 
