@@ -1,0 +1,75 @@
+---
+title: 150107
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Alright. Let's assume that every letter is worth some amount of points based on it's order in the alphabet.
+
+We've got eight people on staff these days:
+
+* Jeff Casimir
+* Jorge Téllez
+* Rachel Warbelow
+* Steve Kinney
+* Raissa Shafer
+* Josh Mejia
+* Horace Williams
+* Ben Orenstein
+
+Assuming you multiply the value of each letter in a faculty members name, who has the greatest value?
+
+`A` is worth 1 point. `Z` is worth 26. So far; so good.
+
+**Example**: `hello` is `h * e * l * l * o`—which ends up being `8 * 5 * 12 * 12 * 15`. If you multiply them all together, that's 86400.
+
+**TESTS OR IT DIDN'T HAPPEN.**
+
+## 1407
+
+### Project Work Time (All Day)
+
+We did pretty in depth check-ins yesterday. It's time for the final push.
+
+Steve, Horace, and Ben are on hand all day to help in any way possible.
+
+## 1409
+
+### Project Work Time (All Day)
+
+First of all, if you haven't seen [this clip](https://www.youtube.com/watch?v=w5DHU8SwYJ0) from _Friends_, watch it.
+
+Jorge is available from 9:00–11:00 and 3:00-4:00.
+
+Horace and Ben are available all day.
+
+Steve is totally willing to make himself available as well. Bring him your JavaScript (or any other) questions.
+
+## 1410
+
+### Contact Manager Work Time (9:00 - 12:00)
+
+Rachel, Josh, and Ben are available for questions.
+
+### Unit Testing in Rails (1:00 - 2:30)
+
+Join Rachel in Classroom C to test your units.
+
+### Acceptance Testing in Rails (1:00 - 2:30)
+
+Are you ready for acceptance? If so, join Josh in Classroom C.
+
+## 1412
+
+### Work Time (9:00 - 12:00)
+
+Josh and Ben waiting in the wings to help you.
+
+Jeff is available between 11:00-12:00.
+
+### NumberMind Redux (1:00 - 4:00)
+
+Join Jeff in Classroom A to talk about running numbers.
