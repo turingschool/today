@@ -34,7 +34,7 @@ Use TDD to create a Rails Flash Card app using the following specifications:
   * they see a list of sets
 * `GET /sets/1`
   * they see all the cards in a set
-* `GET /sets/1/cards/11
+* `GET /sets/1/cards/1`
   * they see the first card in the set
   * a div with the answer is hidden
   * show the answer when user clicks "Show Answer"
