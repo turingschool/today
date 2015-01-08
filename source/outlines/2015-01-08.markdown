@@ -58,13 +58,13 @@ Create some wireframes with Jorge in Classroom C.
 
 ## 1410
 
-### ContactManager Work Time (9:00 - 11:00)
+### ContactManager Work Time (9:00 - 12:00)
 
 Those contacts aren't going to manage themselves.
 
-### ContactManager Review (11:00 - 12:00)
+### ContactManager Review and Questions (1:00 - 2:30)
 
-Join Josh in Classroom B to review Contact Manager.
+Join Josh in Classroom B to review Contact Manager and ask Rails-y questions.
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
