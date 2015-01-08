@@ -1,0 +1,75 @@
+---
+title: 150108
+layout: outline
+---
+
+## All
+
+### Study Groups (9:00 - 11:00)
+
+* Join Ben to discuss the fine art of running your test suite from your editor. After this session, you'll think of our life in two major segments: before you learned to run tests from your editor and after.
+* Alex will be running a Battleship AI tournament of champions. Only the strong will survive.
+
+### One-on-Ones (9:00 - 11:00)
+
+#### With Horace
+
+* 9:00:  Sara Simon
+* 9:20:  Luke Aiken
+* 9:40:  Rolando Navarrete
+* 10:00: Aaron Paul Wortham
+* 10:20: Herbert Joseph
+
+#### With Rachel
+
+* 9:00:  Krista A Nelson
+* 9:20:  Laura Whalin
+* 9:40:  Lydia Shafer
+* 10:00: Michael Dao
+* 10:20: Nathan Owsiany
+* 10:40: Orion Osborn
+
+#### With Josh
+
+* 9:00: Rich Shea
+* 9:20: Scott Crawford
+* 9:40:  Miriam Moser
+* 10:00: Kyra Weber
+* 10:20: Jeffrey Gu
+* 10:40: Paul Grever
+
+#### With Jorge
+
+* 9:00:  Chandra Carney
+* 9:20:  Zachary Routhier
+* 9:40:  Alex Jensen
+* 10:00: Gregory Narajka
+* 10:20: Timothy Mee
+* 10:40: Danny Glunz
+
+#### With Jeff
+
+* 9:00:  Markus Olsen
+* 9:20:  Kyle Henson
+* 9:40:  Fred Block
+* 10:00: David E Maurer
+* 10:20: Stanley Siudzinski
+* 10:40: Charles Valentino Espinoza
+
+### Guest Speaker: Ben Orenstein (11:00 - 12:00)
+
+Ben is from a little company called [thoughtbot](http://thoughtbot.com) out in Boston. He is the host of [Giant Robots Smashing into Other Giant Robots_](http://giantrobots.fm)—a podcast on development, design, and the business of software development. He runs [Upcase](http://upcase.com/) and co-created [Trailmix](https://www.trailmix.life/).
+
+* [Blog](http://www.benorenstein.com/blog)
+* [Twitter](http://twitter.com/r00k)
+
+### Lightning Talks (1:00 - 2:00)
+
+### Group Retrospectives (2:00 - 3:00)
+
+* 1407 in Classroom C with Horace
+* 1409 in Classroom A with Jorge
+* 1410 in the Big Workspace with Rachel
+* 1412 in Classroom B with Jeff
+
+### Surveys (3:00 - 4:00)
