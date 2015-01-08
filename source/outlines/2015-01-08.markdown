@@ -28,6 +28,15 @@ Meet with Steve in Classroom B to kick off your final project.
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
+Create a Flash Card Rails app using the following specifications:
+
+* a user sees a list of flashcard sets
+* when a set is chosen, the game starts by displaying the first card and a place to enter an answer
+* the application loops through the set and displays each card once
+* at the end of the set, the application shows the user how many correct and incorrect guesses were made
+
+Groups:
+
 * With Glen Egbert: Laura Whalin and Bryce Holcomb
 * With Ian Andersen: Krista A Nelson and Michael Dao
 * With Kavita Sachdeva: Orion Osborn and Rich Shea
@@ -58,13 +67,17 @@ Create some wireframes with Jorge in Classroom C.
 
 ## 1410
 
-### ContactManager Work Time (9:00 - 12:00)
+### ContactManager Work Time (9:00 - 11:00)
 
 Those contacts aren't going to manage themselves.
 
-### ContactManager Review and Questions (1:00 - 2:30)
+### ContactManager Q&A (11:00 - 12:00)
 
-Join Josh in Classroom B to review Contact Manager and ask Rails-y questions.
+Join Josh in classroom B to talk about ContactManager. 
+
+### ContactManager Refactoring (1:00 - 2:30)
+
+Use what you learned in Josh's Q&A session this morning to continue working on Contact Manager. 
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
