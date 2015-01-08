@@ -26,6 +26,20 @@ Spend this time to get your applications ready for demo night.
 
 Meet with Steve in Classroom B to kick off your final project.
 
+Groups One:
+
+* Luke Aiken
+* Ian Andersen
+* Aaron Paul Wortham
+* Glen Egbert
+
+Group Two:
+
+* Kavita Sachdeva
+* Rolando Navarrete
+* Jim Sutton
+* Sara Simon
+
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
 Use TDD to create a Rails Flash Card app using the following specifications:
@@ -78,11 +92,11 @@ Those contacts aren't going to manage themselves.
 
 ### ContactManager Q&A (11:00 - 12:00)
 
-Join Josh in classroom B to talk about ContactManager. 
+Join Josh in classroom B to talk about ContactManager.
 
 ### ContactManager Refactoring (1:00 - 2:30)
 
-Use what you learned in Josh's Q&A session this morning to continue working on Contact Manager. 
+Use what you learned in Josh's Q&A session this morning to continue working on Contact Manager.
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
