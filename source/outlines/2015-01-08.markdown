@@ -28,12 +28,17 @@ Meet with Steve in Classroom B to kick off your final project.
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
-Create a Flash Card Rails app using the following specifications:
+Use TDD to create a Rails Flash Card app using the following specifications:
 
-* a user sees a list of flashcard sets
-* when a set is chosen, the game starts by displaying the first card and a place to enter an answer
-* the application loops through the set and displays each card once
-* at the end of the set, the application shows the user how many correct and incorrect guesses were made
+* `GET /sets`
+  * they see a list of sets
+* `GET /sets/1`
+  * they see all the cards in a set
+* `GET /sets/1/cards/11
+  * they see the first card in the set
+  * a div with the answer is hidden
+  * show the answer when user clicks "Show Answer"
+  * there is a link to the next card
 
 Groups:
 
