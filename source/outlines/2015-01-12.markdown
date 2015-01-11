@@ -1,0 +1,88 @@
+---
+title: 20150112
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Today's date is January 12, 2015. If we formatted the date as `YYYYMMDD`, it would be 20150112.
+
+If we added up all of the digits in the data, we'd get 11.
+
+1. What if we added together all of the days in 2015? What value would we get?
+2. What if we only added together all of the Fridays in 2015?
+3. What's the highest value day of the week?
+
+Tests or it didn't happen.
+
+### Posse Time (3:00 - 4:00)
+
+From 3:00 - 3:15, handle your normal posse business (e.g. updating mentors, schedule intra-posse pairing, etc.).
+
+1407 is begging work on their final projects, which are targeted at the Turing the community.
+
+In order to make the best possible applications, they need your feedback. If your posse does not have a 1407 member, please seek out someone from 1407.
+
+* [Skill Inventory](https://github.com/turingschool-projects/skill-inventory)
+* [Jobs](https://github.com/turingschool-projects/skill-inventory)
+
+Please open issues or add to the wiki if you have any feature requests or ideas.
+
+### The Daily Iteration (9:00 - 11:00)
+
+Ben will be running a series of workshops each morning this week. Steve has named it the Daily Iteration without consulting him.
+
+## 1407
+
+### General Notes
+
+By 6:00 today, you should have the following done:
+
+* Add a comment to [this gist](https://gist.github.com/stevekinney/b0dd7497107aefc4dc1a). (Slack mangled the previous version. My apologies.)
+* Wireframes and initial user stories should be added to the wiki and issues respectively. You should have access to the repositories. Let Steve know if there are any issues.
+
+### Templating with Handlebars (9:00 - 10:00)
+
+Meet with Steve in Classroom C to add some additional functionality to [Good Tipper](https://github.com/turingschool-examples/good-tipper).
+
+### MVC in Ember (10:00 - 12:00)
+
+Stick around with Steve in Classroom C to talk about MVC in Ember and how it differs from Rails.
+
+We'll be building a clone of the iOS/OS X notes application, called [Bartleby](https://github.com/turingschool-examples/bartleby).
+
+### Technical Interviewing (1:00 - 3:00)
+
+Join Jeff and Ben in Classroom A to discuss the finer points of technical interviewing.
+
+## 1409
+
+### Handling Errors and Failure (9:00 - 10:30)
+
+Meet up with Jorge in the Big Workspace to discuss failure.
+
+### Getting Started with OAuth (10:30 - 12:00)
+
+Join Jorge in the Big Workspace to log in with Twitter.
+
+## 1410
+
+### Database Schema Design (9:00 - 12:00)
+
+Join Rachel in Classroom B to talk about setting up a database schema to solve a given problem.
+
+### Authentication (1:00 - 3:00)
+
+Meet with Rachel in Classroom C to talk about authentication in Rails.
+
+## 1412
+
+### Chisel += Features (9:00 - 12:00)
+
+Join Josh in Classroom A to add some features to your Markdown processors.
+
+### Ruby in Ruby (1:00 - 3:00)
+
+Join Jeff in Classroom B to talk about implenting Ruby in—umm—Ruby.
