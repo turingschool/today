@@ -71,7 +71,7 @@ Meet up with Jorge in the Big Workspace to discuss failure.
 
 ### Getting Started with OAuth (10:30 - 12:00)
 
-Join Jorge in the Big Workspace to log in with Twitter.
+Join Horace in the Big Workspace to discuss Oauth.
 
 ## 1410
 
