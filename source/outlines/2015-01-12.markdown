@@ -79,7 +79,7 @@ Join Horace in the Classroom A to discuss Oauth.
 
 ### Database Schema Design (9:00 - 12:00)
 
-Join Rachel in Classroom B to talk about setting up a database schema to solve a given problem.
+Join Rachel in Classroom B to talk about setting up a database schema to solve a given problem. The lesson outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
 
 ### Authentication (1:00 - 3:00)
 
