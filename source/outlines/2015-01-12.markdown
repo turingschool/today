@@ -43,15 +43,19 @@ By 6:00 today, you should have the following done:
 * Add a comment to [this gist](https://gist.github.com/stevekinney/b0dd7497107aefc4dc1a). (Slack mangled the previous version. My apologies.)
 * Wireframes and initial user stories should be added to the wiki and issues respectively. You should have access to the repositories. Let Steve know if there are any issues.
 
-### Templating with Handlebars (9:00 - 10:00)
+### Refactoring Good Tipper (9:00 - 10:00)
 
 Meet with Steve in Classroom C to add some additional functionality to [Good Tipper](https://github.com/turingschool-examples/good-tipper).
+
+* [Lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/refactoring_good_tipper.md)
 
 ### MVC in Ember (10:00 - 12:00)
 
 Stick around with Steve in Classroom C to talk about MVC in Ember and how it differs from Rails.
 
 We'll be building a clone of the iOS/OS X notes application, called [Bartleby](https://github.com/turingschool-examples/bartleby).
+
+* [Lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mvc_in_ember.markdown)
 
 ### Technical Interviewing (1:00 - 3:00)
 
