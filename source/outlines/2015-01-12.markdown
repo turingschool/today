@@ -92,3 +92,12 @@ Join Josh in Classroom A to add some features to your Markdown processors.
 ### Ruby in Ruby (1:00 - 3:00)
 
 Join Horace in Classroom B to talk about implementing Ruby in—umm—Ruby.
+
+We'll be discussing some of our solutions in these small groups:
+
+* Trey Tomlinson, Charles Valentino Espinoza, Jeffrey Gu
+* Markus Olsen, David E Maurer, Stanley Siudzinski
+* Edward McCarthy, Lori Culberson, DJ Greenfield
+* Austin Wood, Kyra Weber, Kyle Henson
+* Fred Block, Juan Manuel Navarro, Paul Grever
+* Miriam Moser, Teresa Finn, Jack Yeh
