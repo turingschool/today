@@ -21,7 +21,7 @@ Tests or it didn't happen.
 
 From 3:00 - 3:15, handle your normal posse business (e.g. updating mentors, schedule intra-posse pairing, etc.).
 
-1407 is begging work on their final projects, which are targeted at the Turing the community.
+1407 is beginning work on their final projects, which are targeted at the Turing the community.
 
 In order to make the best possible applications, they need your feedback. If your posse does not have a 1407 member, please seek out someone from 1407.
 
@@ -55,7 +55,9 @@ We'll be building a clone of the iOS/OS X notes application, called [Bartleby](h
 
 ### Technical Interviewing (1:00 - 3:00)
 
-Join Jeff and Ben in Classroom A to discuss the finer points of technical interviewing.
+Jeff's home on quarantine today, so this session will happen through
+a Google Hangout. Please use an external mic/headphones, not the ones
+built into your laptop. The hangout link will be in your Slack channel about 12:50.
 
 ## 1409
 
