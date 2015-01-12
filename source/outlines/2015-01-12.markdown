@@ -67,11 +67,13 @@ built into your laptop. The hangout link will be in your Slack channel about 12:
 
 ### Handling Errors and Failure (9:00 - 10:30)
 
-Meet up with Jorge in the Big Workspace to discuss failure.
+Meet up with Jorge in the Classroom A to discuss failure.
 
 ### Getting Started with OAuth (10:30 - 12:00)
 
-Join Horace in the Big Workspace to discuss Oauth.
+Join Horace in the Classroom A to discuss Oauth.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
 
 ## 1410
 
@@ -87,7 +89,7 @@ Meet with Rachel in Classroom C to talk about authentication in Rails.
 
 ### Chisel += Features (9:00 - 12:00)
 
-Join Josh in Classroom A to add some features to your Markdown processors.
+Join Josh in the Big Workspace to add some features to your Markdown processors.
 
 ### Ruby in Ruby (1:00 - 3:00)
 
