@@ -85,4 +85,4 @@ Join Josh in Classroom A to add some features to your Markdown processors.
 
 ### Ruby in Ruby (1:00 - 3:00)
 
-Join Jeff in Classroom B to talk about implementing Ruby in—umm—Ruby.
+Join Horace in Classroom B to talk about implementing Ruby in—umm—Ruby.
