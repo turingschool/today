@@ -9,7 +9,7 @@ layout: outline
 
 Today's date is January 12, 2015. If we formatted the date as `YYYYMMDD`, it would be 20150112.
 
-If we added up all of the digits in the data, we'd get 11.
+If we added up all of the digits in the data, we'd get 12.
 
 1. What if we added together all of the days in 2015? What value would we get?
 2. What if we only added together all of the Fridays in 2015?
@@ -67,17 +67,19 @@ built into your laptop. The hangout link will be in your Slack channel about 12:
 
 ### Handling Errors and Failure (9:00 - 10:30)
 
-Meet up with Jorge in the Big Workspace to discuss failure.
+Meet up with Jorge in the Classroom A to discuss failure.
 
 ### Getting Started with OAuth (10:30 - 12:00)
 
-Join Jorge in the Big Workspace to log in with Twitter.
+Join Horace in the Classroom A to discuss Oauth.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
 
 ## 1410
 
 ### Database Schema Design (9:00 - 12:00)
 
-Join Rachel in Classroom B to talk about setting up a database schema to solve a given problem.
+Join Rachel in Classroom B to talk about setting up a database schema to solve a given problem. The lesson outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
 
 ### Authentication (1:00 - 3:00)
 
@@ -87,8 +89,17 @@ Meet with Rachel in Classroom C to talk about authentication in Rails.
 
 ### Chisel += Features (9:00 - 12:00)
 
-Join Josh in Classroom A to add some features to your Markdown processors.
+Join Josh in the Big Workspace to add some features to your Markdown processors.
 
 ### Ruby in Ruby (1:00 - 3:00)
 
 Join Horace in Classroom B to talk about implementing Ruby in—umm—Ruby.
+
+We'll be discussing some of our solutions in these small groups:
+
+* Trey Tomlinson, Charles Valentino Espinoza, Jeffrey Gu
+* Markus Olsen, David E Maurer, Stanley Siudzinski
+* Edward McCarthy, Lori Culberson, DJ Greenfield
+* Austin Wood, Kyra Weber, Kyle Henson
+* Fred Block, Juan Manuel Navarro, Paul Grever
+* Miriam Moser, Teresa Finn, Jack Yeh
