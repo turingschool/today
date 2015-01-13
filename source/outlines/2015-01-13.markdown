@@ -59,6 +59,8 @@ Join Josh in Classroom A to talk about authorization and privileges.
 
 Meet with Josh in the Big Workspace. You'll be working in the following pairs/triplets. Keep in mind that some members of 1412 will have to step out for their diagnostics. We tried to put as many of these people into triplets as possible.
 
+[The Challenge](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+
 * Alexandra Robinson and Miriam Moser
 * Bhargavi Satpathy and Kyra Weber
 * Brandon Mrsny and Jeffrey Gu
