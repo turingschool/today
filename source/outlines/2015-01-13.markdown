@@ -57,7 +57,24 @@ Join Josh in Classroom A to talk about authorization and privileges.
 
 ### Code Retreat (1:00 - 4:00)
 
-Meet with Josh in the Big Workspace.
+Meet with Josh in the Big Workspace. You'll be working in the following pairs/triplets. Keep in mind that some members of 1412 will have to step out for their diagnostics. We tried to put as many of these people into triplets as possible.
+
+* Alexandra Robinson and Miriam Moser
+* Bhargavi Satpathy and Kyra Weber
+* Brandon Mrsny and Jeffrey Gu
+* Bryce Holcomb and Paul Grever
+* Chris Luhring and Markus Olsen and Lori Culberson
+* Emily Berkeley and Kyle Henson
+* Jeffrey Wan and Fred Block
+* Kit Pearson and David E Maurer
+* Krista A Nelson and Stanley Siudzinski
+* Laura Whalin and Charles Valentino Espinoza
+* Lydia Shafer and Teresa Finn
+* Michael Dao and Juan Manuel Navarro and DJ Greenfield
+* Nathan Owsiany and Trey Tomlinson
+* Orion Osborn and Austin Wood
+* Rich Shea and Edward McCarthy and Jack Yeh
+* Scott Crawford and Andrew Overby
 
 ## 1412
 
@@ -97,4 +114,4 @@ Join Jeff in the Big Workspace to talk about Robodoku.
 
 ### Code Retreat (1:00 - 4:00)
 
-Meet with Josh in the Big Workspace.
+Meet with Josh in the Big Workspace. (See 1410's schedule for more details.)
