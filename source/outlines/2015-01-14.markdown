@@ -60,7 +60,29 @@ Horace will be on hand for code review (30-45 minutes).
 
 ## 1410
 
-### Pushing Logic Down the Stack (9:00 - 12:00)
+### Authenticated IdeaBox in Rails (9:00 - 10:00)
+
+In the pairs listed below, use TDD to build an app based on the following features:
+
+* a user sees a form to log in on the root page
+* when a unregistered user logs in, a flash message is displayed saying that the attempt was invalid
+* when a registered user logs in, a list of ideas associated with that user are displayed
+* when a user clicks the logout button, a flash message is displayed on the root page saying that logout was successful
+
+Don't worry about building functionality to add new ideas right now. If you want to, you can add users and and ideas from `rails console`. 
+
+Pairs:
+ 
+* Alexandra Robinson & Rich Shea
+* Scott Crawford & Orion Osborn
+* Kit Pearson & Krista A Nelson
+* Brandon Mrsny & Michael Dao
+* Bhargavi Satpathy & Lydia Shafer
+* Bryce Holcomb & Emily Berkeley
+* Jeffrey Wan & Chris Luhring
+* Nathan Owsiany & Laura Whalin
+
+### Pushing Logic Down the Stack (10:00 - 12:00)
 
 Push that logic where it belongs with Rachel in Classroom C.
 
