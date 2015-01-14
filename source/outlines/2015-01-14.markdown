@@ -73,7 +73,7 @@ In the pairs listed below, use TDD to build an app based on the following featur
 * when a registered user logs in, a list of ideas associated with that user are displayed
 * when a user clicks the logout button, a flash message is displayed on the root page saying that logout was successful
 
-Don't worry about building functionality to add new ideas right now. If you want to, you can add users and and ideas from `rails console`. 
+Don't worry about building functionality to add new ideas right now. If you want to, you can add users and and ideas from `rails console`. You'll continue working on this project for homework tonight. 
 
 Pairs:
  
