@@ -34,7 +34,9 @@ Horace is on hand for 10 minute questions.
 
 ### The Daily Iteration (1:00 - 3:00)
 
-Ben will be doing a special session on getting a Rails project started right.
+Ben will be developing a Rails app from scratch using TDD.
+
+You'll learn about outside-in development, when to use integration vs. unit tests, and possibly some new and interesting profanity.
 
 ### Ember and WebSockets (3:00 - 4:00)
 
