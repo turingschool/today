@@ -1,0 +1,105 @@
+---
+title: 150114
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Okay, it's a special day in the module. It's time to take a 20 minute dip into a language you've never played with before.
+
+Head over to [this site](http://learnxinyminutes.com/) and try out a language you've never used before. You might have to do some installation and setup, so we'll give you some time on Friday to experiment as well.
+
+Some suggestions:
+
+* Clojure
+* Rust
+* Elixir
+* Nim
+
+In `#warmup-answers`, please post your reflections: What stuck you as "Oh, that's cool?" and what made you think "Huh?"
+
+## 1407
+
+### Project Work Time (9:00 - 12:00)
+
+You've got plenty of help this morning.
+
+Steve is on hand the entire time to help get your projects off the ground. He's be doing some setup, merging some pull requests, and helping you structure some code.
+
+Ben will also be on hand for questions and code review.
+
+Horace is on hand for 10 minute questions.
+
+### The Daily Iteration (1:00 - 3:00)
+
+Ben will be doing a special session on getting a Rails project started right.
+
+### Ember and WebSockets (3:00 - 4:00)
+
+Join Steve in Classroom C to talk about building real-time applications in Ember.
+
+## 1409
+
+### Project Work Time (9:00 - 12:00)
+
+Horace is on hand for Rails questions.
+
+Steve might answer your JavaScript questions, but not your CSS questions.
+
+Ben will be around for code review.
+
+### The Daily Iteration (1:00 - 3:00)
+
+Ben will be doing a special session on getting a Rails project started right.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace will be on hand for code review (30-45 minutes).
+
+## 1410
+
+### Pushing Logic Down the Stack (9:00 - 12:00)
+
+Push that logic where it belongs with Rachel in Classroom C.
+
+### Not Writing Class Methods (and Other Thoughts) (1:00 - 4:00)
+
+Meet up with Josh in Classroom B to talk about some best practices for structuring web applications.
+
+## 1412
+
+### Robodoku Peer Review (9:00 - 11:00)
+
+You likely have some different approaches to Robodoku. Let's meet up in pairs and review each other's code.
+
+* David E Maurer & Teresa Finn
+* Jeffrey Gu & Paul Grever
+* Fred Block & Jack Yeh
+* Lori Culberson & DJ Greenfield
+* Juan Manuel Navarro & Austin Wood
+* Markus Olsen & Stanley Siudzinski
+* Miriam Moser & Edward McCarthy
+* Andrew Overby & Trey Tomlinson
+* Kyra Weber & Charles Valentino Espinoza & Kyle Henson
+
+Please spend 60 minutes on each project (40 minutes if you're in a triplet).
+
+Focus on the following topics:
+
+* Are methods do more than one thing?
+* Are you making the best use of Ruby's enumerable methods?
+* Do you have unnecessary conditionals?
+* Are you making the best use of what Ruby has to offer?
+* Best practices for refining your algorithms.
+
+### Robodoku: Ninja Style (11:00 - 12:00)
+
+Have your considered approaching Robodoku in a ninja-like fashion?
+
+Well, prepare to flip out with Jeff in Classroom A.
+
+### Robodoku Work Time (1:00 - 4:00)
+
+Take what you've learned this morning and apply it. Steve would really appreciate it if you all could finish this project up, because he hates spelling Robodoku—to date, he has not gotten it correct on the first try.
