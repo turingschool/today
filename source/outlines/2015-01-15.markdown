@@ -1,0 +1,84 @@
+---
+title: 150115
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+There hasn't been a lot of Thursdays in this module—so may you have forgotten about **JavaScript Thursday**.
+
+As a posse, choose one of the following challenges to complete in JavaScript:
+
+* Bob on Exercism
+* FizzBuzz
+* Implement Ruby's `flatten`
+
+## 1407
+
+### Project Work Time (9:00 - 4:00)
+
+Steve is available all day (except when he is checking in).
+
+Ben is available from 10:30 - 4:00 (except when he is checking in).
+
+Horace is available all day.
+
+### Project Check-ins (1:00 - 2:30)
+
+Join Ben and Steve (we reserve the right to go up to 60 minutes):
+
+* 2:00: Jobs
+* 2:45: Skill Inventory
+
+## 1409
+
+### Iteration 1: Check-ins (9:00 - 12:00)
+
+* 9:00: Herbert Joseph
+* 9:10: Zachary Routhier
+* 9:20: Chase van Hekken
+* 9:30: Sam Kuhlmann
+* 9:40: Timothy Mee
+* 9:50: Chandra Carney
+* 10:10: Kate Lane
+* 10:20: Danny Glunz
+* 10:30: Gregory Narajka
+* 10:40: Travis Yoder
+* 10:50: Konr Josef Larson
+* 11:10: Alex Jensen
+* 11:20: Victoria Harrod
+* 11:30: David Bayendor
+
+### Project Work Time (9:00 - 4:00)
+
+Ben is available from 10:30 - 12:00.
+
+Horace is available all day. We encourage you to schedule code review to supplement your check in with Jorge.
+
+## 1410
+
+### Improving Your Workflow (9:00 - 10:30)
+
+Join Ben in Classroom C to add some flow to your work.
+
+### Git Workflow (10:30 - 12:00)
+
+Join Josh in Classroom C to talk about Git workflows.
+
+### Mini-Project: Putting It All Together (1:00 - 4:00)
+
+Join Rachel in Classroom C to put it all together.
+
+## 1412
+
+### Robodoku (9:00 - 12:00)
+
+### EventManager Introduction (1:00 - 2:00)
+
+Join Jeff in Classroom B to kick off [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+### EventManager Work Time (2:00 - 4:00)
+
+Those events aren't going to manage themselves.
