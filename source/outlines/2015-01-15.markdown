@@ -69,7 +69,7 @@ Join Josh in Classroom C to talk about Git workflows.
 
 ### Mini-Project: Putting It All Together (1:00 - 4:00)
 
-Join Rachel in Classroom C to put it all together.
+Join Rachel in Classroom C to [put it all together](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown).
 
 ## 1412
 
