@@ -34,6 +34,10 @@ Konr is running two classes this morning:
 * 9:00: Blogging with Ghost and Github
 * 10:00: Storing Your Dotfiles on Github
 
+#### With Alex
+
+Alex will be running a study group on getting the most out of your bash shell.
+
 ### One-on-Ones (9:00 - 11:00)
 
 #### With Steve
