@@ -1,0 +1,99 @@
+---
+title: 150115
+layout: outline
+---
+
+## All
+
+### A Case for Vim (9:00 - 11:00)
+
+Ben is doing a session on Vim, switching to it, and why you should consider it.
+
+### Study Groups, Self-Study, Pairing (9:00 - 11:00)
+
+#### With Ian
+
+Ian is available for pairing at the following times:
+
+* 9:00 - 9:35
+* 9:40 - 10:15
+* 10:20 - 11:00
+
+#### With Konr
+
+Konr is running two classes this morning:
+
+* 9:00: Blogging with Ghost and Github
+* 10:00: Storing Your Dotfiles on Github
+
+### One-on-Ones (9:00 - 11:00)
+
+#### With Steve
+
+* 9:00:  Glen Egbert
+* 9:20:  Ian Andersen
+* 9:40:  Kavita Sachdeva
+* 10:00: Jim Sutton
+
+#### With Jorge
+
+* 9:00: David Bayendor
+* 9:20: Sam Kuhlmann
+* 9:40: Kate Lane
+* 10:00: Victoria Harrod
+
+#### With Josh
+
+* 9:00: DJ Greenfield
+* 9:20: Trey Tomlinson
+* 9:40: Austin Wood
+* 10:00: Jack Yeh
+* 10:20: Jeffrey Wan
+* 10:40:  Alexandra Robinson
+
+#### With Rachel
+
+* 9:00: Emily Berkeley
+* 9:20: Bhargavi Satpathy
+* 9:40: Brandon Mrsny
+* 10:00: Bryce Holcomb
+* 10:20: Chris Luhring
+* 10:40: Kit Pearson
+
+#### With Jeff
+
+* 9:00: Andrew Overby
+* 9:20: Teresa Finn
+* 9:40: David E Maurer
+* 10:00: Edward McCarthy
+* 10:20: Juan Manuel Navarro
+* 10:40: Lori Culberson
+
+#### With Horace
+
+* 9:00: Chase van Hekken
+* 9:20: Konr Josef Larson
+* 9:40: Travis Yoder
+
+### Guest Speaker: Joanne Cheng (11:00 - 12:00)
+
+Joanne works at the thoughtbot office in Denver but is originally from the single greatest state in the union. She even went to the best college in the world.
+
+* [Twitter](https://twitter.com/joannecheng)
+* [Website](http://joannecheng.me/)
+* [Github](https://github.com/joannecheng)
+
+### Lightning Talks ⚡️ (1:00 - 2:00)
+
+(We're going to split between rules. Jorge will give you the rundown.)
+
+### Group Retrospectives (2:00 - 3:00)
+
+* 1407 in the Big Workspace with Steve.
+* 1409 in Classroom C with Jorge.
+* 1410 in Classroom B with Rachel.
+* 1412 in Classroom A with Jeff.
+
+### Weekly Surveys (3:00 - 4:00)
+
+Take your time. Steve and Rachel aren't going to read them immediately or anything.
