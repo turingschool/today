@@ -11,6 +11,14 @@ Ben is doing a session on Vim, switching to it, and why you should consider it.
 
 ### Study Groups, Self-Study, Pairing (9:00 - 11:00)
 
+Respect the Friday. Here are a few activities to consider:
+
+* What are the common time sinks in your workflow? Develop shortcuts to limit their negative impact
+* Get better at your editor
+* Wrap your head around the difference between `git rebase` and `git merge`
+* Make some art in [Processing](http://processing.org)
+* Make some music in Ruby with [Sonic Pi](http://sonic-pi.net/)
+
 #### With Ian
 
 Ian is available for pairing at the following times:
@@ -85,7 +93,7 @@ Joanne works at the thoughtbot office in Denver but is originally from the singl
 
 ### Lightning Talks ⚡️ (1:00 - 2:00)
 
-(We're going to split between rules. Jorge will give you the rundown.)
+(We're going to split between rooms. Jorge will give you the rundown.)
 
 ### Group Retrospectives (2:00 - 3:00)
 
