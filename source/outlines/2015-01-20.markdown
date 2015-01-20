@@ -78,6 +78,11 @@ Join Rachel in the Big Workspace to kick off [Dinner Dash][dd] and get to work.
 
 [dd]: http://tutorials.jumpstartlab.com/projects/dinner_dash.html
 
+* Laura Whalin & Brandon Mrsny & Bhargavi Satpathy & Scott Crawford
+* Krista A Nelson & Nathan Owsiany & Michael Dao & Emily Berkeley
+* Orion Osborn & Jeffrey Wan & Lydia Shafer & Chris Luhring
+* Kit Pearson & Bryce Holcomb & Rich Shea & Alexandra Robinson
+
 ### Cart and Order Lifecycles (1:00 - 3:00)
 
 Join Josh in Classroom B to talk about the circle of life.
