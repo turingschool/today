@@ -30,6 +30,13 @@ Steve is going to be doing a session on Ember.js. Volunteers needed (especially 
 
 Join Horace in Classroom A to get started with services.
 
+For part of the session, we'll be doing a short pair-discussion exercise in the following pairs:
+
+* Ian Andersen, Glen Egbert
+* Rolando Navarrete, Kavita Sachdeva
+* Aaron Paul Wortham, Sara Simon
+* Jim Sutton, Luke Aiken
+
 ### Testing in Ember (10:30 - 12:00)
 
 Stick around in Classroom A as Steve shows you how to do a TDD with an Ember.
