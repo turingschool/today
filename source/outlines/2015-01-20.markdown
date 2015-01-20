@@ -5,6 +5,12 @@ layout: outline
 
 ## All
 
+### Warm Up (8:30 - 8:50)
+
+This week, we're going to dig deep into one Exercism and iterate on it for two days.
+
+`exercism fetch ruby/roman-numerals`
+
 ### The Daily Iteration (1:00 - 2:00)
 
 Join Ben in Classroom C to discuss a grab bag of topics including but not limited to:
@@ -13,6 +19,10 @@ Join Ben in Classroom C to discuss a grab bag of topics including but not limite
 * What is tmux?
 * How to create your own collection class that is enumerable
 * How to write a method that takes a block
+
+### Community Night (6:00 - 7:30)
+
+Steve is going to be doing a session on Ember.js. Volunteers needed (especially if you've installed Ember CLI before). If you planning on coming (volunteering or not) make sure you RSVP on the [Meetup page] so we know how much food we need.
 
 ## 1407
 
@@ -29,6 +39,8 @@ Stick around in Classroom A as Steve shows you how to do a TDD with an Ember.
 Steve and Horace are available for questions.
 
 Ben will be available for code review from 2:00 - 4:00.
+
+You should a working version of your application deployed to Heroku in time for your client meeting on Thursday.
 
 ## 1409
 

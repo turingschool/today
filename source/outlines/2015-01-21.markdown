@@ -1,0 +1,68 @@
+---
+title: 150121
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Continue pushing forward on the Roman Numerals Exercism.
+
+Share your solution at 8:50.
+
+## 1407
+
+### Building a Service in Sinatra (9:00 - 12:00)
+
+Join Horace in Classroom C to build a service in our old friend, Sinatra.
+
+### Project Work Time (1:00 - 4:00)
+
+Steve and Ben are available for questions. You'll have both code review and a client meeting tomorrow. Get ready!
+
+## 1409
+
+### SRP Controllers for APIs (9:00 - 10:30)
+
+Join Jorge in Classroom A to talk a little bit about responsibility.
+
+### Securing an API with Authorization (10:30 - 12:00)
+
+Stay put in Classroom A let's talk about securing an API with authorization.
+
+## 1410
+
+### Dealing with Merge Conflicts (9:00 - 10:00)
+
+Let's do some conflict resolution with Josh in the Big Workspace.
+
+### Dinner Dash Work Time (10:00 - 12:00)
+
+Dash some dinners.
+
+### Rails Views Tips and Techniques (1:00 - 2:30)
+
+Join Rachel in Classroom C to talk about Rails views.
+
+### Dinner Dash Work Time (2:30 - 4:00)
+
+These dinners aren't going to dash themselves.
+
+## 1412
+
+### Pairing and Collaboration Techniques (9:00 - 10:30)
+
+Join Jeff in Classroom B.
+
+### Work Time (10:30 - 12:00)
+
+Jeff is on hand for questions.
+
+### Smart Testing with Minitest (1:00 - 2:30)
+
+Meet with Jeff in Classroom A to talk about Minitest.
+
+### Work Time (2:30 - 4:00)
+
+Get to work.
