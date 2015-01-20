@@ -98,7 +98,7 @@ Join Josh in Classroom B to talk about the circle of life.
 
 ### File I/O and Introduction to CSVs (9:00 - 10:30)
 
-Join Jeff in Classroom B to talk about files full of values separated by commas.
+Join Jeff in Classroom B to [talk about files full of data](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
 
 ### Planning and Starting SalesEngine (10:30 - 12:00)
 
@@ -112,9 +112,10 @@ You'll be working in the following pairs:
 * DJ Greenfield & Juan Manuel Navarro
 * Teresa Finn & Fred Block
 * Trey Tomlinson & Markus Olsen
-* Austin Wood & Stanley Siudzinski
-* David E Maurer & Jeffrey Gu
-* Lori Culberson & Kyra Weber & Edward McCarthy
+* Austin Wood & Edward McCarthy
+* David E Maurer & Stanley Siudzinski
+* Lori Culberson & Kyra Weber
+* Jeffrey Gu
 
 ### Project Work Time (1:00 - 3:00)
 
