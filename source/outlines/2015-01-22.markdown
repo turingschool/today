@@ -1,0 +1,68 @@
+---
+title: 012215
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+## 1407
+
+### Code Review (9:00 - 11:00)
+
+Meet with Ben to review your code thus far.
+
+* 9:00 - 10:00: Jobs
+* 10:00 - 11:00: Skill Inventory
+
+### Client Meetings (11:00 - 12:00)
+
+Meet with Steve for client check-ins. If your site isn't in production, it doesn't exist.
+
+* 11:00 - 11:00: Jobs
+* 11:30 - 12:00: Skill Inventory
+
+### Building a Service with Rails API (1:00 - 4:00)
+
+Meet with Horace in Classroom C to build a service with Rails API.
+
+## 1409
+
+### Project Work Time (9:00 - 12:00)
+
+Get your VPS deployments up and running.
+
+Get your code cleaned up.
+
+Get your UI polished.
+
+Horace is on hand for questions and code review.
+
+## 1410
+
+### Introduction to JavaScript (9:00 - 10:30)
+
+Meet with Steve in Classroom B to talk about the world's most popular programming language.
+
+### Introduction to the Asset Pipeline (10:30 - 12:00)
+
+Get those assets into the pipeline with Rachel in Classroom B.
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Rachel and Josh are on hand for questions.
+
+## 1412
+
+### Refactoring Patterns (9:00 - 10:30)
+
+Join Josh in Classroom A to talk about patterns for refactoring code.
+
+### Refactoring Patterns Practice (10:30 - 12:00)
+
+Josh will be around for questions as you put your new refactoring moves into practice.
+
+### SalesEngine Work Time (1:00 - 4:00)
+
+Rachel and Josh are on hand for questions.
