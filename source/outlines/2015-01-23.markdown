@@ -1,0 +1,89 @@
+---
+title: 012315
+layout: outline
+---
+
+## All
+
+### Group Surveys (8:30 - 8:50)
+
+(Rachel will post the links shortly.)
+
+### Group Retros (9:00 - 10:00)
+
+* 1407 in Classroom A with Steve
+* 1409 in Classroom B with Jorge and Horace
+* 1410 in Classroom C with Rachel and Ben
+* 1412 in the Big Workspace with Jeff and Josh
+
+### 1-on-1s and Self-Study (10:00 - 12:00)
+
+* Greg is running a session on harvesting git-coin for fun and profit.
+* Ian is available for pairing in 40 minute sessions (10:00, 10:40, 11:20), reach out to him over slack to schedule a session.
+* Luke is available for pairing in 40 minute sessions (10:00, 10:40, 11:20), reach out to him over slack to schedule a session.
+
+### Guest Speaker: Jeff Casimir (1:00 - 2:00)
+
+Jeff Casimir is an alumni of [Teach for America][tfa], a former Washington D.C. public school teacher and vice principal, the proprietor of [Jumpstart Lab][jsl], co-creator of [Hungry Academy][ha], founding director of gSchool, and the executive director of the [Turing School of Software and Design][ts]. He has spoken at a wide [range of conferences](http://www.confreaks.com/presenters/9-jeff-casimir) of conferences including [RailsConf][rc] and [Madison Ruby][mr].
+
+Our moderator will be Ben Orenstein.
+
+[ha]: http://www.hungryacademy.com/
+[jsl]: http://jumpstartlab.com/
+[ts]: http://turing.io
+[tfa]: https://www.teachforamerica.org/
+[mr]: http://madisonpl.us/ruby/
+[rc]: http://railsconf.com/
+
+### Read/Write/Listen (2:00 - 3:00)
+
+During this time, please form small groups to do one of the following
+
+* Read and discuss a technical blog post
+* Write a technical blog post about something you're struggling with or have recently conquored.
+* Watch a conference talk
+* Apply to speak at a conference
+
+#### Read and Discuss
+
+Jim is running a group to discuss [Sandi Metz's five rules for developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
+
+* [Sandi on Ruby Rogues](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
+* [Sean Griffin and Derek Prior from thoughbot discussing their experience applying Sandi's rules](http://bikeshed.fm/1)
+
+Nathan will be leading a group to read through the [Trailmix](https://github.com/codecation/trailmix) code base.
+
+Here is some inspiration for items to read:
+
+* [Anything by Reginald Braithwaite](http://raganwald.com/#words)
+* Something from the most recent issue of [Ruby Weekly](http://rubyweekly.com/issues/230)
+
+#### Watch
+
+* [Yehuda Katz: A Tale of Two MVCs](http://www.confreaks.com/videos/2674-gogaruco2013-a-tale-of-two-mvc-s)
+* [Ben Orenstein: Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
+* [Sandi Metz: All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
+* [Jenn Schiffer: Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
+
+#### Apply to Speak at a Conference
+
+You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
+
+Here are a few conferences with open calls for proposals:
+
+* [RailsConf][rc]
+* [JSConf][jsconf]
+* [Madison+ Ruby][mr]
+* [Front Porch][fp]
+
+[fp]: http://frontporch.io/
+[jsconf]: http://2015.jsconf.us/
+
+### Lightning Talks and Side Hustles (3:00 - 4:00)
+
+(Jorge will update this section.)
+
+We're also trying a new segment called "Side Hustles." Have a cool side project or something you're working on? Show it off.
+
+* Danny Glunz
+* Alex Jensen
