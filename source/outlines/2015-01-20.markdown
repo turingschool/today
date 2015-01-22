@@ -30,6 +30,13 @@ Steve is going to be doing a session on Ember.js. Volunteers needed (especially 
 
 Join Horace in Classroom A to get started with services.
 
+For part of the session, we'll be doing a short pair-discussion exercise in the following pairs:
+
+* Ian Andersen, Glen Egbert
+* Rolando Navarrete, Kavita Sachdeva
+* Aaron Paul Wortham, Sara Simon
+* Jim Sutton, Luke Aiken
+
 ### Testing in Ember (10:30 - 12:00)
 
 Stick around in Classroom A as Steve shows you how to do a TDD with an Ember.
@@ -78,6 +85,11 @@ Join Rachel in the Big Workspace to kick off [Dinner Dash][dd] and get to work.
 
 [dd]: http://tutorials.jumpstartlab.com/projects/dinner_dash.html
 
+* Laura Whalin & Brandon Mrsny & Bhargavi Satpathy & Chris Luhring
+* Krista A Nelson & Nathan Owsiany & Michael Dao & Emily Berkeley
+* Orion Osborn & Jeffrey Wan & Lydia Shafer & Scott Crawford
+* Kit Pearson & Bryce Holcomb & Rich Shea & Alexandra Robinson
+
 ### Cart and Order Lifecycles (1:00 - 3:00)
 
 Join Josh in Classroom B to talk about the circle of life.
@@ -86,7 +98,7 @@ Join Josh in Classroom B to talk about the circle of life.
 
 ### File I/O and Introduction to CSVs (9:00 - 10:30)
 
-Join Jeff in Classroom B to talk about files full of values separated by commas.
+Join Jeff in Classroom B to [talk about files full of data](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
 
 ### Planning and Starting SalesEngine (10:30 - 12:00)
 
@@ -100,9 +112,10 @@ You'll be working in the following pairs:
 * DJ Greenfield & Juan Manuel Navarro
 * Teresa Finn & Fred Block
 * Trey Tomlinson & Markus Olsen
-* Austin Wood & Stanley Siudzinski
-* David E Maurer & Jeffrey Gu
-* Lori Culberson & Kyra Weber & Edward McCarthy
+* Austin Wood & Edward McCarthy
+* David E Maurer & Stanley Siudzinski
+* Lori Culberson & Kyra Weber
+* Jeffrey Gu
 
 ### Project Work Time (1:00 - 3:00)
 
