@@ -7,6 +7,12 @@ layout: outline
 
 ### Warm-Up (8:30 - 8:50)
 
+It's everyone's favorite day of the week: **JavaScript Thursday**.
+
+Can you begin to implement this week's Roman numeral challenge in JavaScript?
+
+You can't monkey-patch Integer in JavaScript, so try just defining a `romanNumeral` function that takes a number and returns a string with the Roman numeral.
+
 ## 1407
 
 ### Code Review (9:00 - 11:00)
@@ -38,6 +44,23 @@ Get your code cleaned up.
 Get your UI polished.
 
 Horace is on hand for questions and code review.
+
+### Project Check-ins (1:00 - 4:00)
+
+* 1:00: Danny Glunz
+* 1:10: Herbert Joseph
+* 1:20: Travis Yoder
+* 1:30: Sam Kuhlmann
+* 1:40: Alex Jensen
+* 1:50: Konr Josef Larson
+* 2:10: Chase van Hekken
+* 2:20: David Bayendor
+* 2:30: Victoria Harrod
+* 2:40: Kate Lane
+* 2:50: Zachary Routhier
+* 3:10: Chandra Carney
+* 3:20: Timothy Mee
+* 3:30: Gregory Narajka
 
 ## 1410
 
