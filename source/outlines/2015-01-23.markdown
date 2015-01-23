@@ -29,7 +29,7 @@ Put a burrito in your face while you fill out your survey.
 * Ian is available for pairing in 40 minute sessions (10:00, 10:40, 11:20), reach out to him over slack to schedule a session.
 * Mike is available for pairing in 40 minute sessions (10:40, 11:20), reach out to him over slack to schedule a session.
 
-### With Steve
+#### With Steve
 
 * 10:00:  Sara Simon
 * 10:20:  Rolando Navarrete
