@@ -103,6 +103,14 @@ Jim is running a group to discuss [Sandi Metz's five rules for developers](http:
 
 Nathan will be leading a group to read through the [Trailmix](https://github.com/codecation/trailmix) code base.
 
+##### With Sara
+
+Sara is leading a discussion entitled "Getting Over the Fear of Calling Yourself a Technical Person When You've Spent Your Entire Life Terrified of Computers."
+
+##### On Your Own
+
+If you read about it, please blog about it.
+
 Here is some inspiration for items to read:
 
 * [Anything by Reginald Braithwaite](http://raganwald.com/#words)
