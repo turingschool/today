@@ -99,22 +99,22 @@ During this time, please form small groups to do one of the following
 
 #### Read and Discuss
 
-#### With Jim
+**With Jim**
 
 Jim is running a group to discuss [Sandi Metz's five rules for developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
 * [Sandi on Ruby Rogues](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
 * [Sean Griffin and Derek Prior from thoughbot discussing their experience applying Sandi's rules](http://bikeshed.fm/1)
 
-##### With Nathan
+**With Nathan**
 
 Nathan will be leading a group to read through the [Trailmix](https://github.com/codecation/trailmix) code base.
 
-##### With Sara
+**With Sara**
 
 Sara is leading a discussion entitled "Getting Over the Fear of Calling Yourself a Technical Person When You've Spent Your Entire Life Terrified of Computers."
 
-##### On Your Own
+**On Your Own**
 
 If you read about it, please blog about it.
 
