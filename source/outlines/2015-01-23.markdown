@@ -201,3 +201,7 @@ We're also trying a new segment called "Side Hustles." Have a cool side project 
 
 * Danny Glunz
 * Alex Jensen
+
+#### Turing Outreach Event (3:30 - 4:30)
+
+If you're a part of the high school outreach event this afternoon, make sure that you're watching the `#turing-outreach` Slack channel (we'll coordinate rides there). Plan on being ready to leave Turing at 2:50pm. We will be back around 4:50pm. 
