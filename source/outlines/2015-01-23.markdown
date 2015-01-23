@@ -146,7 +146,54 @@ Here are a few conferences with open calls for proposals:
 
 ### Lightning Talks and Side Hustles (3:00 - 4:00)
 
-(Jorge will update this section.)
+#### Big Workspace
+
+**Posses**
+
+* Brooks
+* Knuth
+* Lovelace
+* Von Neumann
+* Goldberg
+* Matsumoto
+* Ingalis
+* Spärck Jones
+* Hopper
+
+**Presenters**
+
+* Zach Routhier - Humans Need Not Apply
+* Chandra Carney - Art and Technology
+* Nathan Owsiany - Tor, Virtual Anonymity
+* Rolando Navarrete - Native Advertising
+* Danny Glunz - Sudoku with Genetic Algorithms
+* Glen Egbert - React.js
+* Herbert Joseph - SASS
+
+#### Classroom A
+
+**Posses**
+
+* Kay
+* Berners-Lee
+* Borg
+* Ritchie
+* McCarthy
+* Van Rossum
+* Backus
+* McNulty
+* Holberton
+
+**Presenters**
+
+* Rich Shea - Nanotechnology
+* Laura Whalin - Farmbot, a 3d Food Printer
+* Kit Pearson - NAND to Tetris
+* Tim Mee - Navigating Nokogiri:XML with xpath
+* Scott Crawford - Tracking and Preventing a Stolen Computer
+* Kavita Sachdeva - Betty Holberton
+
+#### Side Hustles
 
 We're also trying a new segment called "Side Hustles." Have a cool side project or something you're working on? Show it off.
 
