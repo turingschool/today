@@ -188,6 +188,7 @@ Here are a few conferences with open calls for proposals:
 ##### Presenters
 
 * Rich Shea - Nanotechnology
+* Lydia Shafer - Beacons
 * Laura Whalin - Farmbot, a 3d Food Printer
 * Kit Pearson - NAND to Tetris
 * Tim Mee - Navigating Nokogiri:XML with xpath
