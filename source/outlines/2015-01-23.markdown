@@ -1,6 +1,6 @@
 ---
-title: 012315
-layout: outline
+title:  012315
+layout:  outline
 ---
 
 ## All
@@ -20,20 +20,66 @@ layout: outline
 
 * Greg is running a session on harvesting git-coin for fun and profit.
 * Ian is available for pairing in 40 minute sessions (10:00, 10:40, 11:20), reach out to him over slack to schedule a session.
-* Luke is available for pairing in 40 minute sessions (10:00, 10:40, 11:20), reach out to him over slack to schedule a session.
+* Mike is available for pairing in 40 minute sessions (10:40, 11:20), reach out to him over slack to schedule a session.
 
-### Guest Speaker: Jeff Casimir (1:00 - 2:00)
+### With Steve
+
+* 10:00:  Sara Simon
+* 10:20:  Rolando Navarrete
+* 10:40:  Danny Glunz
+* 11:00:  Paul Grever
+
+#### With Horace
+
+* 10:00:  Aaron Paul Wortham
+* 10:20:  Herbert Joseph
+* 10:40:  Charles Valentino Espinoza
+* 11:00:  Orion Osborn
+
+#### With Rachel
+
+* 10:00:  Mike Dao
+* 10:20:  Laura Whalin
+* 10:40:  Lydia Shafer
+* 11:00:  Krista A Nelson
+* 11:20:  Nathan Owsiany
+
+#### With Josh
+
+* 10:00:  Rich Shea
+* 10:20:  Scott Crawford
+* 10:40:  Miriam Moser
+* 11:00:  Kyra Weber
+* 11:20:  Jeffrey Gu
+
+#### With Jorge
+
+* 10:00:  Zachary Routhier
+* 10:20:  Chandra Carney
+* 10:40:  Alex Jensen
+* 11:00:  Gregory Narajka
+* 11:20:  Timothy Mee
+
+#### With Jeff
+
+* 10:00:  Markus Olsen
+* 10:20:  Kyle Henson
+* 10:40:  Fred Block
+* 11:00:  David E Maurer
+* 11:20:  Stanley Siudzinski
+
+### Guest Speaker:  Jeff Casimir (1:00 - 2:00)
 
 Jeff Casimir is an alumni of [Teach for America][tfa], a former Washington D.C. public school teacher and vice principal, the proprietor of [Jumpstart Lab][jsl], co-creator of [Hungry Academy][ha], founding director of gSchool, and the executive director of the [Turing School of Software and Design][ts]. He has spoken at a wide [range of conferences](http://www.confreaks.com/presenters/9-jeff-casimir) of conferences including [RailsConf][rc] and [Madison Ruby][mr].
 
 Our moderator will be Ben Orenstein.
 
-[ha]: http://www.hungryacademy.com/
-[jsl]: http://jumpstartlab.com/
-[ts]: http://turing.io
-[tfa]: https://www.teachforamerica.org/
-[mr]: http://madisonpl.us/ruby/
-[rc]: http://railsconf.com/
+[ha]:  http://www.hungryacademy.com/
+[jsl]:  http://jumpstartlab.com/
+[ts]:  http://turing.io
+[tfa]:  https://www.teachforamerica.org/
+[mr]:  http://madisonpl.us/ruby/
+[rc]:  http://railsconf.com/
 
 ### Read/Write/Listen (2:00 - 3:00)
 
@@ -46,10 +92,14 @@ During this time, please form small groups to do one of the following
 
 #### Read and Discuss
 
+#### With Jim
+
 Jim is running a group to discuss [Sandi Metz's five rules for developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
 * [Sandi on Ruby Rogues](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
 * [Sean Griffin and Derek Prior from thoughbot discussing their experience applying Sandi's rules](http://bikeshed.fm/1)
+
+##### With Nathan
 
 Nathan will be leading a group to read through the [Trailmix](https://github.com/codecation/trailmix) code base.
 
@@ -60,10 +110,10 @@ Here is some inspiration for items to read:
 
 #### Watch
 
-* [Yehuda Katz: A Tale of Two MVCs](http://www.confreaks.com/videos/2674-gogaruco2013-a-tale-of-two-mvc-s)
-* [Ben Orenstein: Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
-* [Sandi Metz: All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
-* [Jenn Schiffer: Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
+* [Yehuda Katz:  A Tale of Two MVCs](http://www.confreaks.com/videos/2674-gogaruco2013-a-tale-of-two-mvc-s)
+* [Ben Orenstein:  Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
+* [Sandi Metz:  All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
+* [Jenn Schiffer:  Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
 
 #### Apply to Speak at a Conference
 
@@ -76,8 +126,8 @@ Here are a few conferences with open calls for proposals:
 * [Madison+ Ruby][mr]
 * [Front Porch][fp]
 
-[fp]: http://frontporch.io/
-[jsconf]: http://2015.jsconf.us/
+[fp]:  http://frontporch.io/
+[jsconf]:  http://2015.jsconf.us/
 
 ### Lightning Talks and Side Hustles (3:00 - 4:00)
 
