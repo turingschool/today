@@ -1,0 +1,85 @@
+---
+title:  150126
+layout:  outline
+---
+
+## 1407
+
+### Database Views, Replication, and Clustering (9:00 - 12:00)
+
+Meet with Horace in Classroom C to discuss some advanced database techniques.
+
+### Project Work Time (1:00 - 3:00)
+
+Horace and Ben are available for questions. Steve is available from 1:45 onward.
+
+## 1409
+
+### Task Automation (9:00 - 9:30)
+
+Automate some tasks with Jorge in Classroom B.
+
+### Automating Deployment (9:30 - 10:30)
+
+Automate some deployment with Jorge in Classroom B.
+
+### Understand the Asset Pipeline (10:30 - 12:00)
+
+Understand the asset pipeline with guess who and guess where.
+
+### Project Work Time (1:00 - 3:00)
+
+Horace, Ben, and Jorge are available for questions.
+
+## 1410
+
+### Dinner Dash Work Time and Check-ins (9:00 - 12:00)
+
+* 9:00 - 9:45: Kit Pearson & Bryce Holcomb & Rich Shea & Alexandra Robinson
+* 9:45 - 10:30: Orion Osborn & Jeffrey Wan & Lydia Shafer & Scott Crawford
+* 10:30 - 11:15: Laura Whalin & Brandon Mrsny & Bhargavi Satpathy & Chris Luhring
+* 11:15 - 12:00: Krista A Nelson & Nathan Owsiany & Michael Dao & Emily Berkeley
+
+### Project Work Time (1:00 - 3:00)
+
+Horace, Ben, and Rachel are available for questions.
+
+## 1412
+
+### Assessments (9:00 - 12:00)
+
+#### With Josh
+
+* 9:00 - 9:30: Kyra Weber
+* 9:30 - 10:00: Jack Yeh
+* 10:00 - 10:30: Markus Olsen
+* 11:00 - 11:30: Paul Grever
+* 11:30 - 12:00: Austin Wood
+
+#### With Jeff
+
+* 9:00 - 9:30: David E Maurer
+* 9:30 - 10:00: Edward McCarthy
+* 10:00 - 10:30: Kyle Henson
+* 11:00 - 11:30: Lori Culberson
+* 11:30 - 12:00: Trey Tomlinson
+
+### Assessments (12:00 - 3:00)
+
+#### With Josh
+
+* 1:00 - 1:30: Stanley Siudzinski
+* 1:30 - 2:00: Teresa Finn
+* 2:00 - 2:30: Charles Valentino Espinoza
+* 2:30 - 3:00: DJ Greenfield
+
+#### With Jeff
+
+* 1:00 - 1:30: Fred Block
+* 1:30 - 2:00: Andrew Overby
+* 2:00 - 2:30: Miriam Moser
+* 2:30 - 3:00: Juan Manuel Navarro
+
+#### With Steve
+
+* 1:00 - 1:30: Jeffrey Gu
