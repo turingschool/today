@@ -11,12 +11,14 @@ layout: outline
 
 ### Client Meetings (9:00 - 10:00)
 
-#### With Skill Inventory
+Meet with your real clients.
+
+#### With Ian, Jim, Kavita, and Luke
 
 9:00 - 9:30: Paul Grever & Andrew Overby & Trey Tomlinson & Markus Olsen
 9:30 - 10:00: Charles Valentino Espinoza & Jack Yeh & DJ Greenfield & Juan Manuel Navarro & Jeffrey Gu
 
-#### With Jobs
+#### With Glen, Rolando, Aaron, and Sara
 
 9:00 - 9:30: Miriam Moser & Kyle Henson & Lori Culberson & Kyra Weber
 9:30 - 10:00: David E Maurer & Stanley Siudzinski & Austin Wood & Edward McCarthy & Teresa Finn & Fred Block
@@ -93,3 +95,17 @@ layout: outline
 * 3:15 - 4:00: Michael Dao
 
 ## 1412
+
+### Final Project Client Meetings (9:00 - 10:00)
+
+You're the clients.
+
+#### With Ian, Jim, Kavita, and Luke
+
+9:00 - 9:30: Paul Grever & Andrew Overby & Trey Tomlinson & Markus Olsen
+9:30 - 10:00: Charles Valentino Espinoza & Jack Yeh & DJ Greenfield & Juan Manuel Navarro & Jeffrey Gu
+
+#### With Glen, Rolando, Aaron, and Sara
+
+9:00 - 9:30: Miriam Moser & Kyle Henson & Lori Culberson & Kyra Weber
+9:30 - 10:00: David E Maurer & Stanley Siudzinski & Austin Wood & Edward McCarthy & Teresa Finn & Fred Block
