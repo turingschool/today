@@ -9,6 +9,10 @@ layout: outline
 
 ## 1407
 
+### Project Work Time (9:00-4:00)
+
+Work them projects.
+
 ## 1409
 
 #### With Jorge
@@ -72,8 +76,36 @@ layout: outline
 
 ### Pairing and Collaboration Techniques (9:00 - 10:00)
 
-Join Jeff in Classroom A to talk about pairing and collaboration.
+Join Ben in Classroom A to talk about pairing and collaboration.
 
 ### Credit Recheck (10:00 - 12:00)
 
-Recheck your credit with Jeff in Classroom A.
+Recheck your credit with Josh in Classroom A.
+
+[Here's the credit check assignment](https://github.com/turingschool/challenges/blob/master/credit_check.markdown).
+
+#### Session A (10:00-10:55)
+
+* Jack Yeh & Fred Block
+* Edward McCarthy & Kyra Weber
+* Trey Tomlinson & Andrew Overby
+* DJ Greenfield & Teresa Finn
+* Stanley Siudzinski & Austin Wood
+* Paul Grever & Kyle Henson
+* Miriam Moser & Markus Olsen
+* Juan Manuel Navarro & Lori Culberson
+* Jeffrey Gu & David E Maurer
+* Tino Espinoza & Josh Mejia
+
+#### Session B (11:00-11:55)
+
+* Trey Tomlinson & Austin Wood
+* Jeffrey Gu & Tino Espinoza
+* Lori Culberson & David E Maurer
+* Jack Yeh & Miriam Moser
+* Paul Grever & Markus Olsen
+* Kyle Henson & Edward McCarthy
+* Andrew Overby & Fred Block
+* Stanley Siudzinski & DJ Greenfield
+* Kyra Weber & Teresa Finn
+* Juan Manuel Navarro & Josh Mejia
