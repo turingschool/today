@@ -111,3 +111,8 @@ Recheck your credit with Josh in Classroom A.
 * Stanley Siudzinski & DJ Greenfield
 * Kyra Weber & Teresa Finn
 * Juan Manuel Navarro & Josh Mejia
+
+### SalesEngine Small-Group Refactoring
+
+Join Jeff in Classroom A to check out and improve the structures of your
+SalesEngine projects.
