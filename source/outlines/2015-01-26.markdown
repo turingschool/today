@@ -3,6 +3,29 @@ title:  150126
 layout:  outline
 ---
 
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+Let's do two days on this one again. No spoiler alerts in `#warmup-answers`—okay, Alex?
+
+You are given the following information, but you may prefer to do some research for yourself.
+
+* 1 Jan 1900 was a Monday.
+* Thirty days has September,
+* April, June and November.
+* All the rest have thirty-one,
+* Saving February alone,
+* Which has twenty-eight, rain or shine.
+* And on leap years, twenty-nine.
+
+A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
+How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+
+### Posse Time (3:00 - 4:00)
+
+It's 1407's last posse time. Make it count.
+
 ## 1407
 
 ### Database Views, Replication, and Clustering (9:00 - 12:00)
@@ -29,7 +52,7 @@ Understand the asset pipeline with guess who and guess where.
 
 ### Project Work Time (1:00 - 3:00)
 
-Horace, Ben, and Jorge are available for questions.
+Jorge is available for questions.
 
 ## 1410
 
@@ -40,11 +63,19 @@ Horace, Ben, and Jorge are available for questions.
 * 10:30 - 11:15: Laura Whalin & Brandon Mrsny & Bhargavi Satpathy & Chris Luhring
 * 11:15 - 12:00: Krista A Nelson & Nathan Owsiany & Michael Dao & Emily Berkeley
 
-### Project Work Time (1:00 - 3:00)
+### Effective Rails Models (1:00 - 3:00)
 
-Horace, Ben, and Rachel are available for questions.
+Join Josh in Classroom C to talk about effective Rails models.
 
 ## 1412
+
+### Pairing and Collaboration Techniques (9:00 - 10:00)
+
+Join Jeff in Classroom A to talk about pairing and collaboration.
+
+### Credit Recheck (10:00 - 12:00)
+
+Recheck your credit with Jeff in Classroom A.
 
 ### Assessments (9:00 - 12:00)
 
@@ -56,17 +87,9 @@ Horace, Ben, and Rachel are available for questions.
 * 11:00 - 11:30: Paul Grever
 * 11:30 - 12:00: Austin Wood
 
-#### With Jeff
+### Assessments (1:00 - 3:00)
 
-* 9:00 - 9:30: David E Maurer
-* 9:30 - 10:00: Edward McCarthy
-* 10:00 - 10:30: Kyle Henson
-* 11:00 - 11:30: Lori Culberson
-* 11:30 - 12:00: Trey Tomlinson
-
-### Assessments (12:00 - 3:00)
-
-#### With Josh
+#### With Horace
 
 * 1:00 - 1:30: Stanley Siudzinski
 * 1:30 - 2:00: Teresa Finn
