@@ -69,14 +69,6 @@ Join Josh in Classroom C to talk about effective Rails models.
 
 ## 1412
 
-### Pairing and Collaboration Techniques (9:00 - 10:00)
-
-Join Jeff in Classroom A to talk about pairing and collaboration.
-
-### Credit Recheck (10:00 - 12:00)
-
-Recheck your credit with Jeff in Classroom A.
-
 ### Assessments (9:00 - 12:00)
 
 #### With Josh
@@ -86,6 +78,14 @@ Recheck your credit with Jeff in Classroom A.
 * 10:00 - 10:30: Markus Olsen
 * 11:00 - 11:30: Paul Grever
 * 11:30 - 12:00: Austin Wood
+
+#### With Jeff
+
+* 9:00 - 9:30: David E Maurer
+* 9:30 - 10:00: Edward McCarthy
+* 10:00 - 10:30: Kyle Henson
+* 11:00 - 11:30: Lori Culberson
+* 11:30 - 12:00: Trey Tomlinson
 
 ### Assessments (1:00 - 3:00)
 
