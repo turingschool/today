@@ -112,6 +112,7 @@ Join Rachel in Classroom B to talk about [jQuery](https://github.com/turingschoo
 
 Join Ben in Classroom A to talk about pairing and collaboration.
 
+
 ### Credit Recheck (10:00 - 12:00)
 
 Recheck your credit with Josh in Classroom A.
@@ -119,17 +120,16 @@ Recheck your credit with Josh in Classroom A.
 [Here's the credit check assignment](https://github.com/turingschool/challenges/blob/master/credit_check.markdown).
 
 #### Session A (10:00-10:55)
-
-* Jack Yeh & Fred Block
-* Edward McCarthy & Kyra Weber
+* Paul Grever & Miriam Moser
+* Fred Block & Jeffrey Gu
+* Stanley Siudzinski & Kyle Henson
+* DJ Greenfield & David E Maurer
+* Austin Wood & Thomas Randell
 * Trey Tomlinson & Andrew Overby
-* DJ Greenfield & Teresa Finn
-* Stanley Siudzinski & Austin Wood
-* Paul Grever & Kyle Henson
-* Miriam Moser & Markus Olsen
-* Juan Manuel Navarro & Lori Culberson
-* Jeffrey Gu & David E Maurer
-* Tino Espinoza & Josh Mejia
+* Teresa Finn & Edward McCarthy
+* Kyra Weber & Charles Valentino Espinoza
+* Juan Manuel Navarro & Jack Yeh
+* Markus Olsen & Lori Culberson
 
 #### Session B (11:00-11:55)
 
