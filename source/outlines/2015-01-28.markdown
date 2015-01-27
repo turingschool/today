@@ -3,10 +3,6 @@ title: 150128
 layout: outline
 ---
 
-## All
-
-### Warm Up (8:30 - 8:50)
-
 ## 1407
 
 ### Client Meetings (9:00 - 10:00)
@@ -22,6 +18,14 @@ Meet with your real clients.
 
 9:00 - 9:30: Miriam Moser & Kyle Henson & Lori Culberson & Kyra Weber
 9:30 - 10:00: David E Maurer & Stanley Siudzinski & Austin Wood & Edward McCarthy & Teresa Finn & Fred Block
+
+### Project Work Time (10:00 - 4:00)
+
+Implement changes based on your client feedback.
+
+Ben is available from 1:00 on.
+
+Steve is available from 2:00 onwards.
 
 ### Assessments (10:00 - 12:00)
 
@@ -52,6 +56,10 @@ Meet with your real clients.
 
 ## 1409
 
+### Project Work Time (9:00 - 4:00)
+
+Don't get fired. Jorge is available when he's not doing assessments.
+
 ### Assessments (9:00 - 12:00)
 
 #### With Jorge
@@ -72,7 +80,11 @@ Meet with your real clients.
 
 ## 1410
 
-#### Assessments (1:00 - 4:00)
+### Dinner Dash Work Time (9:00 - 4:00)
+
+Rachel and Josh are available when they're not doing assessments.
+
+### Assessments (1:00 - 4:00)
 
 #### With Rachel
 
@@ -103,3 +115,7 @@ You're the clients.
 
 9:00 - 9:30: Miriam Moser & Kyle Henson & Lori Culberson & Kyra Weber
 9:30 - 10:00: David E Maurer & Stanley Siudzinski & Austin Wood & Edward McCarthy & Teresa Finn & Fred Block
+
+### Project Work Time (9:00 - 4:00)
+
+Sell those engines.
