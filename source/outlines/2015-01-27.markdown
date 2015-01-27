@@ -86,6 +86,10 @@ We'll use these pairings for an exercise at the end of the session:
 
 ## 1410
 
+### Introduction to jQuery (9:00 - 10:30)
+
+Join Rachel in Classroom B to talk about [jQuery](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
+
 ### Assessments (1:00 - 4:00)
 
 #### With Rachel
