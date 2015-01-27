@@ -9,23 +9,39 @@ layout: outline
 
 ## 1407
 
-### Decorators and Presenters
-
-Join Horace in classroom C to talk about presenters and decorators. We'll use these pairings for an exercise during the morning:
-
-* Timothy Mee, Kate Lane
-* Adam Smith, Chandra Carney
-* Alex Jensen, Danny Glunz
-* Gregory Narajka, Zachary Routhier
-* Konr Josef Larson, Sam Kuhlmann
-* Victoria Harrod, Herbert Joseph
-* David Bayendor, Chase van Hekken, Travis Yoder
-
 ### Project Work Time (9:00-4:00)
 
 Work them projects.
 
 ## 1409
+
+### Decorators and Presenters (9:00 - 10:30)
+
+Join Horace in classroom C to talk about presenters and decorators. We'll use these pairings for an exercise during the morning:
+
+* Timothy Mee, Kate Lane
+* Chandra Carney, Travis Yoder
+* Alex Jensen, Danny Glunz
+* Gregory Narajka, Zachary Routhier
+* Konr Josef Larson, Sam Kuhlmann
+* Victoria Harrod, Herbert Joseph
+* David Bayendor, Chase van Hekken
+
+
+### Building a wrapper gem
+
+Join Horace in classroom C to talk about wrapper gems.
+
+We'll use these pairings for an exercise at the end of the session:
+
+* Konr Josef Larson, Alex Jensen
+* Chandra Carney, Victoria Harrod
+* Chase van Hekken, Travis Yoder
+* Gregory Narajka, Danny Glunz
+* David Bayendor, Zachary Routhier
+* Herbert Joseph, Timothy Mee
+* Sam Kuhlmann, Kate Lane
+
 
 ### Assessments (9:00 - 12:00)
 
