@@ -122,8 +122,7 @@ Join Ben in Classroom A to talk about pairing and collaboration.
 * Paul Grever & Kyle Henson
 * Miriam Moser & Markus Olsen
 * Juan Manuel Navarro & Lori Culberson
-* Jeffrey Gu & David E Maurer
-* Tino Espinoza & Josh Mejia
+* Tino Espinoza & David E Maurer
 
 ### Credit Recheck (10:00 - 12:00)
 
@@ -145,7 +144,6 @@ Recheck your credit with Josh in Classroom A.
 #### Session B (11:00-11:55)
 
 * Trey Tomlinson & Austin Wood
-* Jeffrey Gu & Tino Espinoza
 * Lori Culberson & David E Maurer
 * Jack Yeh & Miriam Moser
 * Paul Grever & Markus Olsen
@@ -153,7 +151,7 @@ Recheck your credit with Josh in Classroom A.
 * Andrew Overby & Fred Block
 * Stanley Siudzinski & DJ Greenfield
 * Kyra Weber & Teresa Finn
-* Juan Manuel Navarro & Josh Mejia
+* Juan Manuel Navarro & Tino Espinoza
 
 ### SalesEngine Small-Group Refactoring
 
