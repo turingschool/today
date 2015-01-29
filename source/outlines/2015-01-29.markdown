@@ -12,9 +12,15 @@ layout: outline
 * 9:00: Skill Inventory
 * 10:00: Jobs
 
+### Refactoring (11:00 - 12:00)
+
+You're not done yet. It's time to make one last push based on your project evaluations.
+
 ## 1409
 
 ### Project Assessments (9:00 - 12:00)
+
+When you're not in an evaluation you should be working on getting your application ready for demo night.
 
 #### With Jorge
 
