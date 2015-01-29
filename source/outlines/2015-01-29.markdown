@@ -131,6 +131,23 @@ See 1407's schedule.
 * 11:00 - 11:30: DJ Greenfield & Juan Manuel Navarro
 * 11:30 - 12:00: Jeffrey Gu
 
-### RTanque Dojo (1:00 - 4:00)
+### JavaScripting! (1:00 - 4:00)
 
-Join Horace in Dojo B.
+You've probably heard a little something about a language called JavaScript.
+
+It's the world's most popular programming language.
+
+You'll be working in pairs. Work on your own, but discuss with your pair if you hit a bump.
+
+* Austin Wood & Jack Yeh
+* Kyra Weber & Andrew Overby
+* Lori Culberson & Thomas Randell
+* Markus Olsen & Stanley Siudzinski
+* Charles Valentino Espinoza & DJ Greenfield
+* Trey Tomlinson & Miriam Moser
+* David E Maurer & Juan Manuel Navarro
+* Jeffrey Gu & Kyle Henson
+* Teresa Finn & Paul Grever
+* Fred Block & Edward McCarthy
+
+[JavaScript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
