@@ -85,6 +85,12 @@ When you're not in an evaluation you should be working on getting your applicati
 
 Members of 1409 may have to step out for a moment for their project evaluations.
 
+Try to implement one of more of the following challenges in JavaScript:
+
+1. Fizzbuzz (alternatively: Raindrops on Exercism)
+2. Exercism: Bob
+3. [Project Euler: Even Fibonacci Numbers](https://projecteuler.net/problem=2)
+
 * With David Bayendor: Markus Olsen
 * With Travis Yoder: Kyle Henson
 * With Chase van Hekken: David E Maurer
@@ -141,3 +147,7 @@ See 1407's schedule.
 * 10:00 - 10:30: Charles Valentino Espinoza & Jack Yeh (with just Rachel)
 * 10:30 - 11:00: DJ Greenfield & Juan Manuel Navarro
 * 11:00 - 11:30: Jeffrey Gu
+
+### Cross-Cohort Pairing (1:00 - 3:00)
+
+See 1409's schedule.
