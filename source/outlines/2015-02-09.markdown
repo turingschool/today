@@ -1,0 +1,62 @@
+---
+title: 150209
+layout: outline
+---
+
+## All
+
+### Welcome 1502 (8:00 - 8:40)
+
+Please take some time this morning to welcome and introduce yourself to our newest group of students: 1502.
+
+## 1409
+
+### Jet Fuel: Recap and Refactor (9:00 - 10:45)
+
+#### Phase One: Pair Code Review
+
+(15 minutes: 9:00 - 9:15)
+
+Spend 15 minutes reviewing your partners code.
+
+* Are any methods unclear to you?
+* Can any methods be refactored? Do they seem overly verbose?
+* Are there any private methods that could be extracted?
+* Are there any opportunities to push logic down the stack?
+
+You can find everyone's repositories [here](https://github.com/turingschool/intermission-assignments/issues/1).
+
+Open issues on your partners repository pointing to the exact lines you believe could/should be refactored.
+
+#### Phase Two: Refactor
+
+(45 minutes: 9:15 - 10:00)
+
+As a pair, choose a method to refactor based on the issues you opened earlier.
+
+* Does this method have a test? If not, write one first.
+* Refactor the method, ensuring the test passes.
+
+#### Phase Three: Instructor Discussion
+
+(45 minutes: 10:00 - 10:45)
+
+##### With Horace
+
+Join Horace in the Big Workspace to discuss challenges using background workers or creating a wrapper gem.
+
+##### With Steve
+
+Join Steve by the 3D printer to discuss challenges implementing sorting and filtering with jQuery.
+
+### Mocking and Stubbing (10:45 - 12:00)
+
+Meet up with Horace in Classroom B to discuss the finer points of testing things that seem hard to test.
+
+### JavaScript Book Club and General Discussion (1:00 - 2:00)
+
+Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Allongé_. We'll also have a general discussion about any JavaScript questions you might have.
+
+### Game Time Kick Off (2:00 - 3:00)
+
+Stick around with Steve in Classroom A to talk about your first project for the module: Game Time.
