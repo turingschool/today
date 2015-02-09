@@ -192,7 +192,7 @@ Stick around with Rachel in Classroom A to talk about managing some tasks.
 
 ### HTML/CSS Review (11:00 - 12:00)
 
-Rachel isn't going anywhere and neither should you: let's review some hyper-text markup language and cascading style sheets.
+Josh will review some hyper-text markup language and cascading style sheets.
 
 ### Taskmanager HTML/CSS Workshop (1:00 - 2:30)
 
