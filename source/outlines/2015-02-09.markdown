@@ -144,6 +144,7 @@ As a pair, choose a method to refactor based on the issues you opened earlier.
 * Does this method have a test? If not, write one first.
 * Refactor the method, ensuring the test passes.
 
+Pairs (meet in Classroom B):
 
 * Timothy Mee & Danny Glunz
 * Chandra Carney & Alex Jensen
@@ -171,6 +172,14 @@ Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Al
 ### Game Time Kick Off (1:45 - 2:30)
 
 Stick around with Steve in Classroom C to talk about your first project for the module: Game Time.
+
+
+* Herbert Joseph & Alex Jensen
+* Zachary Routhier & Sam Kuhlmann
+* Gregory Narajka & Victoria Harrod
+* Chase van Hekken & Kate Lane
+* Chandra Carney & Travis Yoder
+* Timothy Mee & David Bayendor
 
 ## 1410
 
