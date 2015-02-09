@@ -41,9 +41,17 @@ need improvement. The first session will focus on ruby's built-in Benchmark libr
 the powerful ruby-prof gem. The second session will look at some more extensive
 "all-in-one" application profiling tools which can be useful for web apps.
 
-#### Mystery Elective with Jorge
+#### Mastermind in Go with Jorge
 
-(Somewhere)
+(Somewhere over the rainbow)
+
+Go is cool. Let's learn it together. In this session we will install Go, try to get familiar with the syntax, and then rule the world. `import "ftw"`.
+
+Resources:
+
+* Install Go via [GVM](https://github.com/moovweb/gvm).
+* [Golang](https://golang.org).
+* [Go Book](http://www.golang-book.com).
 
 #### Building a Gem with Josh Cheek
 
