@@ -144,6 +144,14 @@ As a pair, choose a method to refactor based on the issues you opened earlier.
 * Does this method have a test? If not, write one first.
 * Refactor the method, ensuring the test passes.
 
+
+* Timothy Mee & Danny Glunz
+* Chandra Carney & Alex Jensen
+* Chase van Hekken & David Bayendor
+* Zachary Routhier & Sam Kuhlmann
+* Herbert Joseph & Gregory Narajka
+* Kate Lane & Victoria Harrod & Travis Yoder
+
 #### Phase Three: Instructor Discussion
 
 (45 minutes: 10:00 - 10:45)
