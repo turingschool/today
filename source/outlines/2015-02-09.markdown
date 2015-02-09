@@ -57,6 +57,8 @@ Resources:
 
 (The Big Workspace)
 
+Material is [here](https://github.com/JoshCheek/elective-building-a-gem).
+
 We're going to make a gem that has a program you can invoke on the commandline.
 You'll give it a git repository and it will tell you how many non-blank lines
 are in each file, as well as the total for the whole repository.
