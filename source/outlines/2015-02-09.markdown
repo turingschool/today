@@ -228,7 +228,7 @@ Clone the Turing Bistro [repo](https://github.com/turingschool-examples/turing-b
 
 ### Taskmanager HTML/CSS Workshop (1:00 - 2:30)
 
-It's like the two morning sessions combined. Dig it in Classroom C.
+It's like the two morning sessions combined. Dig it in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown).
 
 ### Homework
 
