@@ -9,21 +9,11 @@ layout: outline
 
 Please take some time this morning to welcome and introduce yourself to our newest group of students: 1502.
 
-### Welcome Erika Carlson
-
-This week we'll be joined by Erika Carlson: software developer, program director at [Detroit Labs][dl], and co-founder of [Girl Develop It Detroit][gdid].
-
-* [Twitter](https://twitter.com/eacarlson)
-* [LinkedIn](https://www.linkedin.com/in/erikaacarlson)
-
-[dl]: http://www.detroitlabs.com/
-[gdid]: http://www.girldevelopit.com/chapters/detroit
-
-### Electives
+### Electives (2:30 - 4:00)
 
 This module, we're starting something new: electives. Each elective lasts three weeks.
 
-### Building a Binary Search Tree with Jeff
+#### Building a Binary Search Tree with Jeff
 
 (Classroom C)
 
@@ -33,13 +23,13 @@ complexity. In the first session we'll briefly go over how BSTs work, then creat
 working pairs to begin building. In the second session we'll check-in on progress
 and experiment with the best and worst case scenarios for input data.
 
-### iOS Fundamentals with Steve
+#### iOS Fundamentals with Steve
 
 (Classroom A)
 
 In this session, we'll cover the fundamentals of the Swift programming language as well as some of the very basics of building a application using Apple's frameworks. If you're planning on attending this session—make sure you install Xcode at lunch—you can find it on the Mac App Store.
 
-### Profiling the Performance of Ruby Code with Horace
+#### Profiling the Performance of Ruby Code with Horace
 
 (Classroom B)
 
@@ -51,11 +41,11 @@ need improvement. The first session will focus on ruby's built-in Benchmark libr
 the powerful ruby-prof gem. The second session will look at some more extensive
 "all-in-one" application profiling tools which can be useful for web apps.
 
-### XYZ with Jorge
+#### Mystery Elective with Jorge
 
 (Somewhere)
 
-### Building a Gem with Josh Cheek
+#### Building a Gem with Josh Cheek
 
 (The Big Workspace)
 
@@ -102,7 +92,7 @@ You will need to be comfortable working with basic Ruby classes like
 arrays, enumerables, and strings -- I don't want our time to be eaten up
 tripping over Ruby.
 
-### Fun with Hue Bulbs with Josh Mejia
+#### Fun with Hue Bulbs with Josh Mejia
 
 (Staff Workspace)
 
