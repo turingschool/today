@@ -131,6 +131,15 @@ Spend 15 minutes reviewing your partners code.
 * Are there any private methods that could be extracted?
 * Are there any opportunities to push logic down the stack?
 
+Pairs (meet in Classroom B):
+
+* Timothy Mee & Danny Glunz
+* Chandra Carney & Alex Jensen
+* Chase van Hekken & David Bayendor
+* Zachary Routhier & Sam Kuhlmann
+* Herbert Joseph & Gregory Narajka
+* Kate Lane & Victoria Harrod & Travis Yoder
+
 You can find everyone's repositories [here](https://github.com/turingschool/intermission-assignments/issues/1).
 
 Open issues on your partners repository pointing to the exact lines you believe could/should be refactored.
@@ -171,8 +180,7 @@ Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Al
 
 ### Game Time Kick Off (1:45 - 2:30)
 
-Stick around with Steve in Classroom C to talk about your first project for the module: Game Time.
-
+Stick around with Steve in Classroom C to talk about your first project for the module: [Game Time](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown).
 
 * Herbert Joseph & Alex Jensen
 * Zachary Routhier & Sam Kuhlmann
