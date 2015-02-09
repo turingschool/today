@@ -230,6 +230,11 @@ Clone the Turing Bistro [repo](https://github.com/turingschool-examples/turing-b
 
 It's like the two morning sessions combined. Dig it in Classroom C.
 
+### Homework
+
+* Finish styling TaskManager `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+
 ## 1502
 
 ### Classroom Building (9:00 - 11:00)
