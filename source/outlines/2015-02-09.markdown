@@ -131,6 +131,15 @@ Spend 15 minutes reviewing your partners code.
 * Are there any private methods that could be extracted?
 * Are there any opportunities to push logic down the stack?
 
+Pairs (meet in Classroom B):
+
+* Timothy Mee & Danny Glunz
+* Chandra Carney & Alex Jensen
+* Chase van Hekken & David Bayendor
+* Zachary Routhier & Sam Kuhlmann
+* Herbert Joseph & Gregory Narajka
+* Kate Lane & Victoria Harrod & Travis Yoder
+
 You can find everyone's repositories [here](https://github.com/turingschool/intermission-assignments/issues/1).
 
 Open issues on your partners repository pointing to the exact lines you believe could/should be refactored.
@@ -143,6 +152,15 @@ As a pair, choose a method to refactor based on the issues you opened earlier.
 
 * Does this method have a test? If not, write one first.
 * Refactor the method, ensuring the test passes.
+
+Pairs (meet in Classroom B):
+
+* Timothy Mee & Danny Glunz
+* Chandra Carney & Alex Jensen
+* Chase van Hekken & David Bayendor
+* Zachary Routhier & Sam Kuhlmann
+* Herbert Joseph & Gregory Narajka
+* Kate Lane & Victoria Harrod & Travis Yoder
 
 #### Phase Three: Instructor Discussion
 
@@ -162,7 +180,14 @@ Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Al
 
 ### Game Time Kick Off (1:45 - 2:30)
 
-Stick around with Steve in Classroom C to talk about your first project for the module: Game Time.
+Stick around with Steve in Classroom C to talk about your first project for the module: [Game Time](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown).
+
+* Herbert Joseph & Alex Jensen
+* Zachary Routhier & Sam Kuhlmann
+* Gregory Narajka & Victoria Harrod
+* Chase van Hekken & Kate Lane
+* Chandra Carney & Travis Yoder
+* Timothy Mee & David Bayendor
 
 ## 1410
 
@@ -199,9 +224,17 @@ Stick around with Rachel in Classroom A to talk about managing some tasks.
 
 Josh will review some hyper-text markup language and cascading style sheets.
 
+Clone the Turing Bistro [repo](https://github.com/turingschool-examples/turing-bistro)
+
 ### Taskmanager HTML/CSS Workshop (1:00 - 2:30)
 
-It's like the two morning sessions combined. Dig it in Classroom C.
+It's like the two morning sessions combined. Dig it in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown).
+
+### Homework
+
+* Finish styling TaskManager `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+* Finish styling the Turing Bistro
+* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
 
 ## 1502
 
