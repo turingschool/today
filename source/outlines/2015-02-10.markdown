@@ -1,0 +1,105 @@
+---
+title: 150210
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 8:50)
+
+This will normally happen on Monday mornings, but we'll try it out today.
+
+Every posse will have a least one new member in it. So, you'll have to update some things and reintroduce yourselves.
+
+## 1409
+
+### Testing JavaScript (9:00 - 12:00)
+
+Join Steve in the Big Workspace to test some of the world's most popular programming language.
+
+(If you're still working on Jet Fuel, you'll be working on that during this time. Horace will be around from 10:30 - 12:00 for code review.)
+
+You'll work in the following pairs:
+
+* Alexandra Robinson and David Bayendor
+* Bhargavi Satpathy and Sam Kuhlmann
+* Brandon Mrsny and Kate Lane
+* Bryce Holcomb and Victoria Harrod
+* Chris Luhring and Chandra Carney
+* Emily Berkeley and Alex Jensen
+* Jeffrey Wan and Gregory Narajka
+* Kit Pearson and Timothy Mee
+* Krista A Nelson and Danny Glunz
+* Laura Whalin and Herbert Joseph
+* Lydia Shafer and Scott Crawford
+* Michael Dao and Rich Shea
+* Nathan Owsiany and Orion Osborn and and Konr Josef Larson
+
+### Project Work Time (1:00 - 4:00)
+
+It's time to get your game on. Horace is available for questions all afternoon.
+
+## 1410
+
+### Testing JavaScript (9:00 - 12:00)
+
+Join Steve in the Big Workspace to test some of the world's most popular programming language.
+
+You'll work in the following pairs:
+
+* Alexandra Robinson and David Bayendor
+* Bhargavi Satpathy and Sam Kuhlmann
+* Brandon Mrsny and Kate Lane
+* Bryce Holcomb and Victoria Harrod
+* Chris Luhring and Chandra Carney
+* Emily Berkeley and Alex Jensen
+* Jeffrey Wan and Gregory Narajka
+* Kit Pearson and Timothy Mee
+* Krista A Nelson and Danny Glunz
+* Laura Whalin and Herbert Joseph
+* Lydia Shafer and Scott Crawford
+* Michael Dao and Rich Shea
+* Nathan Owsiany and Orion Osborn and and Konr Josef Larson
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+#### With Jorge
+
+* 1:00: Laura Whalin, Brandon Mrsny, Rich Shea, Alexandra Robinson, Konr Josef Larson
+* 1:30: Krista A Nelson, Nathan Owsiany, Bhargavi Satpathy, Scott Crawford
+* 2:00: Orion Osborn, Jeffrey Wan, Michael Dao, Emily Berkeley, Adam Smith
+* 2:30: Kit Pearson, Bryce Holcomb, Lydia Shafer, Chris Luhring
+
+Josh Mejia is around for questions.
+
+## 1412
+
+### Homework Review (9:00 - 10:00)
+
+Join Rachel in Classroom B to review the homework.
+
+### How the Web Works (9:30 - 11:00)
+
+So, the Web. It's kind of a big deal. How does it work? Find out with Rachel in Classroom B.
+
+### What is Rack? (11:00 - 12:00)
+
+What is Rack? Find out with Rachel in Classroom B.
+
+### CRUD in Sinatra (1:00 - 4:00)
+
+Rachel is on hand for questions.
+
+## 1502
+
+### Strings, Integers, and Control Flow (9:00 - 10:30)
+
+Meet with Horace in Classroom A to learn the building blocks of Ruby.
+
+### Problems, Solutions, and Algorithms (10:30 - 12:00)
+
+Stick around in Classroom A as Erika stops by to causes problems and creates solutions.
+
+### Scavenger Hunt (1:00 - 4:00)
+
+Meet with Raissa in the Big Workspace to kick off your scavenger hunt.
