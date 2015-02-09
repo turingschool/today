@@ -43,20 +43,66 @@ As a pair, choose a method to refactor based on the issues you opened earlier.
 
 ##### With Horace
 
-Join Horace in the Big Workspace to discuss challenges using background workers or creating a wrapper gem.
-
-##### With Steve
-
-Join Steve by the 3D printer to discuss challenges implementing sorting and filtering with jQuery.
+Join Horace in Classroom B to discuss challenges using background workers or creating a wrapper gem.
 
 ### Mocking and Stubbing (10:45 - 12:00)
 
 Meet up with Horace in Classroom B to discuss the finer points of testing things that seem hard to test.
 
-### JavaScript Book Club and General Discussion (1:00 - 2:00)
+### JavaScript Book Club and General Discussion (1:00 - 1:45)
 
 Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Allongé_. We'll also have a general discussion about any JavaScript questions you might have.
 
-### Game Time Kick Off (2:00 - 3:00)
+### Game Time Kick Off (1:45 - 2:30)
 
-Stick around with Steve in Classroom A to talk about your first project for the module: Game Time.
+Stick around with Steve in Classroom C to talk about your first project for the module: Game Time.
+
+## 1410
+
+### Understanding Multi-tenancy (9:00 - 12:00)
+
+Join Jorge in Classroom C to talk about being a Rails landlord.
+
+### Kickoff: The Pivot (1:00 - 1:45)
+
+Join Jorge in Big Workspace to kick off your new—and kind of old—project: The Pivot.
+
+### The Weekly Iteration (1:45 - 2:30)
+
+Stick around with Josh in the Big Workspace to build some skills.
+
+## 1412
+
+### Introduction to Sinatra (9:00 - 9:30)
+
+Join Rachel in Classroom A to meet Hoboken, NJ's _second_-most famous former-resident.
+
+### Taskmanager Q&A and Review (9:30 - 11:00)
+
+Stick around with Rachel in Classroom A to talk about managing some tasks.
+
+### HTML/CSS Review (11:00 - 12:00)
+
+Rachel isn't going anywhere and neither should you: let's review some hyper-text markup language and cascading style sheets.
+
+### Taskmanager HTML/CSS Workshop (1:00 - 2:30)
+
+It's like the two morning sessions combined. Dig it in Classroom C.
+
+## 1502
+
+### Classroom Building (9:00 - 11:00)
+
+Meet with Jeff in the Big Workspace.
+
+### Machine Setup (11:00 - 12:00)
+
+Stick around with Jeff in the Big Workspace to get yourself ready to program all the things.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+Meet up with the staff and your fellow students in the Big Workspace to meet, greet, and eat.
+
+### How to Learn at Turing (1:00 - 2:30)
+
+Ideally, you came to Turing to learn—Join Jeff in Classroom B to learn how to learn at Turing.
