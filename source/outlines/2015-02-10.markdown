@@ -17,6 +17,8 @@ Every posse will have a least one new member in it. So, you'll have to update so
 
 Join Steve in the Big Workspace to test some of the world's most popular programming language.
 
+[Clone this repository and follow the setup instructions.](https://github.com/turingschool-examples/testing-javascript)
+
 (If you're still working on Jet Fuel, you'll be working on that during this time. Horace will be around from 10:30 - 12:00 for code review.)
 
 You'll work in the following pairs:
@@ -44,6 +46,8 @@ It's time to get your game on. Horace is available for questions all afternoon.
 ### Testing JavaScript (9:00 - 12:00)
 
 Join Steve in the Big Workspace to test some of the world's most popular programming language.
+
+[Clone this repository and follow the setup instructions.](https://github.com/turingschool-examples/testing-javascript)
 
 You'll work in the following pairs:
 
@@ -76,30 +80,36 @@ Josh Mejia is around for questions.
 
 ### Homework Review (9:00 - 10:00)
 
-Join Rachel in Classroom B to review the homework.
+Join Josh in Classroom B to review the homework.
 
 ### How the Web Works (9:30 - 11:00)
 
-So, the Web. It's kind of a big deal. How does it work? Find out with Rachel in Classroom B.
+So, the Web. It's kind of a big deal. How does it work? Find out with Josh in Classroom B.
 
 ### What is Rack? (11:00 - 12:00)
 
-What is Rack? Find out with Rachel in Classroom B.
+What is Rack? Find out with Josh in Classroom B.
 
 ### CRUD in Sinatra (1:00 - 4:00)
 
-Rachel is on hand for questions.
+Join Rachel in Classroom C to CRUD some stuff.
 
 ## 1502
 
 ### Strings, Integers, and Control Flow (9:00 - 10:30)
 
-Meet with Horace in Classroom A to learn the building blocks of Ruby.
+Meet with Horace in Classroom A to [learn the building blocks of Ruby](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/string_integers_and_control_flow.markdown).
 
 ### Problems, Solutions, and Algorithms (10:30 - 12:00)
 
-Stick around in Classroom A as Erika stops by to cause problems and create solutions.
+Stick around in Classroom A as Erika stops by to [cause problems and creates solutions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
 
 ### Scavenger Hunt (1:00 - 4:00)
 
 Meet with Raissa in the Big Workspace to kick off your scavenger hunt.
+
+### Homework
+
+This evening please create a solution to the [Fibber ](https://github.com/turingschool/challenges/blob/master/fibber.markdown), at least
+solving Challenge 1 and attempting Challenge 2. See if you can get all the way through
+Challenge 3. Bring your solutions to class on Wednesday.
