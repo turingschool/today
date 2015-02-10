@@ -94,12 +94,18 @@ Rachel is on hand for questions.
 
 ### Strings, Integers, and Control Flow (9:00 - 10:30)
 
-Meet with Horace in Classroom A to learn the building blocks of Ruby.
+Meet with Horace in Classroom A to [learn the building blocks of Ruby](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/string_integers_and_control_flow.markdown).
 
 ### Problems, Solutions, and Algorithms (10:30 - 12:00)
 
-Stick around in Classroom A as Erika stops by to causes problems and creates solutions.
+Stick around in Classroom A as Erika stops by to [cause problems and creates solutions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
 
 ### Scavenger Hunt (1:00 - 4:00)
 
 Meet with Raissa in the Big Workspace to kick off your scavenger hunt.
+
+### Homework
+
+This evening please create a solution to the [Fibber ](https://github.com/turingschool/challenges/blob/master/fibber.markdown), at least
+solving Challenge 1 and attempting Challenge 2. See if you can get all the way through
+Challenge 3. Bring your solutions to class on Wednesday.
