@@ -112,4 +112,5 @@ Meet with Raissa in the Big Workspace to kick off your scavenger hunt.
 
 This evening please create a solution to the [Fibber ](https://github.com/turingschool/challenges/blob/master/fibber.markdown), at least
 solving Challenge 1 and attempting Challenge 2. See if you can get all the way through
+
 Challenge 3. Bring your solutions to class on Wednesday.
