@@ -104,6 +104,10 @@ You'll work in the following pairs during worktime:
 * Austin Wood & Edward McCarthy
 * Trey Tomlinson & Fred Block
 
+### Homework
+
+Finish CRUD-ing out your Skill Inventory app. 
+
 ## 1502
 
 ### Strings, Integers, and Control Flow (9:00 - 10:30)
