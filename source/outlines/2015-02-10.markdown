@@ -76,19 +76,19 @@ Josh Mejia is around for questions.
 
 ### Homework Review (9:00 - 10:00)
 
-Join Rachel in Classroom B to review the homework.
+Join Josh in Classroom B to review the homework.
 
 ### How the Web Works (9:30 - 11:00)
 
-So, the Web. It's kind of a big deal. How does it work? Find out with Rachel in Classroom B.
+So, the Web. It's kind of a big deal. How does it work? Find out with Hosh in Classroom B.
 
 ### What is Rack? (11:00 - 12:00)
 
-What is Rack? Find out with Rachel in Classroom B.
+What is Rack? Find out with Josh in Classroom B.
 
 ### CRUD in Sinatra (1:00 - 4:00)
 
-Rachel is on hand for questions.
+Join Rachel in Classroom C to CRUD some stuff. 
 
 ## 1502
 
