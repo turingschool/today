@@ -92,7 +92,7 @@ What is Rack? Find out with Josh in Classroom B.
 
 ### CRUD in Sinatra (1:00 - 4:00)
 
-Join Rachel in Classroom C to CRUD some stuff.
+Join Rachel in Classroom C to CRUD some stuff. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
 
 ## 1502
 
