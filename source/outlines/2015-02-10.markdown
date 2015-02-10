@@ -92,7 +92,17 @@ What is Rack? Find out with Josh in Classroom B.
 
 ### CRUD in Sinatra (1:00 - 4:00)
 
-Join Rachel in Classroom C to CRUD some stuff. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+Join Rachel in Classroom C to finish CRUD-ing out TaskManager. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+
+You'll work in the following pairs during worktime:
+
+* Paul Grever & DJ Greenfield
+* Jeffrey Gu & Kyra Weber
+* Lori Culberson & Miriam Moser
+* Teresa Finn & Stanley Siudzinski
+* Charles Valentino Espinoza & Markus Olsen
+* Austin Wood & Edward McCarthy
+* Trey Tomlinson & Fred Block
 
 ## 1502
 
