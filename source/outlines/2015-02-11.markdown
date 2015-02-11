@@ -167,14 +167,14 @@ $ ruby core-types/array_test.rb
 
 While you're working on that, Jeff's going to pull you out for headshots.
 
-### Object-Oriented Programming (1:00 - 2:00)
-
-Meet up with Jeff in Classroom B to [work on understanding Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
-
-### How Testing Works (2:00 - 3:00)
-
-How does testing work? Jeff answers your questions in Classroom B.
-
-### Spiral Design and Testing (3:00 - 4:00)
+### Spiral Design and Testing (1:00 - 2:00)
 
 Spiral your tests with Erika in Classroom B.
+
+### Iterating on Fibber (2:00-3:30)
+
+Work with Jeff in Classroom B on your Fibber from last night.
+
+### Intro to Credit Check (3:30-4:00)
+
+Then let's wrap up by discussing your Credit Check assignment for tonight.
