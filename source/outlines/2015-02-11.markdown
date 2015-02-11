@@ -171,7 +171,7 @@ Spiral your tests with Erika in Classroom B.
 
 ### Iterating on Fibber (2:00-3:30)
 
-Work with Jeff in Classroom B on your Fibber from last night.
+Work with Jeff in Classroom B on your [Fibber from last night](https://github.com/turingschool/challenges/blob/master/fibber.markdown).
 
 ### Intro to Credit Check (3:30-4:00)
 
