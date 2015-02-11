@@ -157,13 +157,11 @@ Work with Horace in Classroom C on some array and hash exercises.
 
 Start in the directory where you keep your work and...
 
-```
-$ git clone git@github.com:turingschool/ruby-exercises.git
-$ cd ruby-exercises
-$ bundle
-$ ruby core-types/array_test.rb
-$ ruby core-types/array_test.rb
-```
+`$ git clone git@github.com:turingschool/ruby-exercises.git`
+`$ cd ruby-exercises`
+`$ bundle`
+`$ ruby core-types/array_test.rb`
+`$ ruby core-types/array_test.rb`
 
 While you're working on that, Jeff's going to pull you out for headshots.
 
@@ -177,4 +175,4 @@ Work with Jeff in Classroom B on your Fibber from last night.
 
 ### Intro to Credit Check (3:30-4:00)
 
-Then let's wrap up by discussing your Credit Check assignment for tonight.
+Then let's wrap up by discussing your [Credit Check assignment](https://github.com/turingschool/challenges/blob/master/credit_check.markdown) for tonight.
