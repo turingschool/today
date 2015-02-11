@@ -146,9 +146,21 @@ Join Rachel in Classroom C to talk about the world's largest robot.
 
 Join Jeff in Classroom C to [talk about arrays and hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
-### Fibber Dojo (10:30 - 12:00)
+### Exploring Arrays & Hashes (10:30-12:00)
 
-Horace will be counting numbers in Classroom C
+Work with Horace in Classroom C on some array and hash exercises.
+
+Start in the directory where you keep your work and...
+
+```
+$ git clone git@github.com:turingschool/ruby-exercises.git
+$ cd ruby-exercises
+$ bundle
+$ ruby core-types/array_test.rb
+$ ruby core-types/array_test.rb
+```
+
+While you're working on that, Jeff's going to pull you out for headshots.
 
 ### Object-Oriented Programming (1:00 - 2:00)
 
