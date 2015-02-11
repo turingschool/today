@@ -185,9 +185,9 @@ Meet Steve in Classroom C to talk about _Speaking JavaScript_ and _JavaScript Al
 Stick around with Steve in Classroom C to talk about your first project for the module: [Game Time](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown).
 
 * Herbert Joseph & Alex Jensen
-* Zachary Routhier & Sam Kuhlmann
+* Kate Lane & Sam Kuhlmann
 * Gregory Narajka & Victoria Harrod
-* Chase van Hekken & Kate Lane
+* Chase van Hekken & Zachary Routhier
 * Chandra Carney & Travis Yoder
 * Timothy Mee & David Bayendor
 

@@ -1,0 +1,127 @@
+---
+title: 150211
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 9:00)
+
+**Meet in your posses to solve the following problem:**
+
+After a local art theft, six suspects were being interviewed.
+
+Below is a summary of their statements.
+
+Police know that exactly four of them told one lie each and all of the other statements are true.
+
+From this information can you tell who committed the crime?
+
+Jeff said:
+
+  * It wasn't Rachel
+  * It wasn't Jorge
+  * It wasn't Erika
+
+Rachel said:
+
+  * It wasn't Jeff
+  * It wasn't Steve
+  * It wasn't Erika
+
+Steve said:
+
+  * It wasn't Rachel
+  * It wasn't Horace
+  * It wasn't Erika
+
+Jorge said:
+
+  * It wasn't Jeff
+  * It wasn't Horace
+  * It wasn't Steve
+
+Erika said:
+
+  * It wasn't Steve
+  * It wasn't Jorge
+  * It wasn't Horace
+
+Horace said:
+
+  * It wasn't Steve
+  * It wasn't Jorge
+  * It wasn't Jeff
+
+## 1409
+
+### (Re)introduction to jQuery (9:00 - 12:00)
+
+Join Steve in the Big Workspace to discuss traversing and manipulating the DOM with jQuery.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/jquery_dom_traversal_and_manipulation.md)
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+#### With Steve
+
+* 1:00: Timothy Mee & David Bayendor
+* 1:30: Gregory Narajka & Victoria Harrod
+* 2:00: Kate Lane & Sam Kuhlmann
+* 2:30: Herbert Joseph & Alex Jensen
+* 3:00: Chandra Carney & Travis Yoder
+* 3:30: Chase van Hekken & Zachary Routhier
+
+Horace is on hand for questions.
+
+## 1410
+
+### (Re)introduction to jQuery (9:00 - 12:00)
+
+Join Steve in the Big Workspace to discuss traversing and manipulating the DOM with jQuery.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/jquery_dom_traversal_and_manipulation.md)
+
+### Pivot Work Time (1:00 - 4:00)
+
+Josh is on hand for questions.
+
+## 1412
+
+### Homework Review (9:00 - 9:30)
+
+Review some homework with Rachel in Classroom B.
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+Meet with Rachel in Classroom B to test Sinatra.
+
+### Nokogiri Challenge (1:00 - 1:30)
+
+Saw apart up XML/HTML with Nokogiri with Rachel in Classroom C.
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
+
+Join Rachel in Classroom C to talk about the world's largest robot.
+
+## 1502
+
+### Arrays and Hashes (9:00 - 10:30)
+
+Join Jeff in Classroom C to talk about collecting things.
+
+### Deaf Grandma Dojo (10:30 - 12:00)
+
+What? Huh? Horace? Classroom C?
+
+### Object-Oriented Programming (1:00 - 2:00)
+
+Meet up with Jeff in Classroom B to orient yourself around some objects.
+
+### How Testing Works (2:00 - 3:00)
+
+How does testing work? Jeff answers your questions in Classroom B.
+
+### Spiral Design and Testing (3:00 - 4:00)
+
+Spiral your tests with Jeff in Classroom B.
