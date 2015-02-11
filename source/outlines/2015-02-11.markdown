@@ -140,6 +140,11 @@ Saw apart up XML/HTML with Nokogiri with Rachel in Classroom C. Find the assignm
 
 Join Rachel in Classroom C to talk about the world's largest rodent. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
+### Homework
+
+* add model tests to Skill Inventory
+* add feature tests to Skill Inventory
+
 ## 1502
 
 ### Arrays and Hashes (9:00 - 10:30)
