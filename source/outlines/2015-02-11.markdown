@@ -157,11 +157,11 @@ Work with Horace in Classroom C on some array and hash exercises.
 
 Start in the directory where you keep your work and...
 
-`$ git clone git@github.com:turingschool/ruby-exercises.git`
-`$ cd ruby-exercises`
-`$ bundle`
-`$ ruby core-types/array_test.rb`
-`$ ruby core-types/array_test.rb`
+* `$ git clone git@github.com:turingschool/ruby-exercises.git`
+* `$ cd ruby-exercises`
+* `$ bundle`
+* `$ ruby core-types/array_test.rb`
+* `$ ruby core-types/array_test.rb`
 
 While you're working on that, Jeff's going to pull you out for headshots.
 
