@@ -161,7 +161,7 @@ Start in the directory where you keep your work and...
 * `$ cd ruby-exercises`
 * `$ bundle`
 * `$ ruby core-types/array_test.rb`
-* `$ ruby core-types/array_test.rb`
+* `$ ruby core-types/hash_test.rb`
 
 While you're working on that, Jeff's going to pull you out for headshots.
 
