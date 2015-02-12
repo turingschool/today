@@ -1,0 +1,71 @@
+---
+title: 150212
+layout: outline
+---
+
+## All
+
+## 1409
+
+### Introduction to Underscore.js (9:00 - 9:30)
+
+Meet with Steve in Classroom B to put some Ruby in your JavaScript.
+
+### Underscore Challenges (9:30 - 12:00)
+
+We'll be working through some old friends on the `underscore-challenges` branch of these [challenges](https://github.com/turingschool-examples/enumerable-challenges/tree/underscore-challenges).
+
+Steve is on hand for any and all questions.
+
+### Project Work Time (1:00 - 4:00)
+
+Steve and Horace are both on hand for questions.
+
+## 1410
+
+### Iteration 1 Check-ins and Project Work Time (9:00 - 12:00)
+
+#### With Jorge
+
+* 9:00: Kit Pearson, Bryce Holcomb, Lydia Shafer, Chris Luhring
+* 9:45: Laura Whalin, Brandon Mrsny, Rich Shea, Alexandra Robinson, Konr Josef Larson
+* 10:30: Orion Osborn, Jeffrey Wan, Michael Dao, Emily Berkeley, Adam Smith
+* 11:15: Krista A Nelson, Nathan Owsiany, Bhargavi Satpathy, Scott Crawford
+
+### Project Work Time (1:00 - 4:00)
+
+Pivot those Dinner Dashes.
+
+## 1412
+
+### Homework Review (9:00 - 9:30)
+
+### SQL (9:30 - 10:30)
+
+Talk the language of structured queries with Josh Mejia in Classroom C.
+
+### Sequel (10:30 - 12:00)
+
+SQL is cool, but let's get it into our Ruby applications with Josh in Classroom C.
+
+### TaskManager Transformation (1:00 - 4:00)
+
+Josh is on hand for questions as your transform your TaskManagers.
+
+## 1502
+
+### Object-Oriented Programming (9:00 - 10:30)
+
+Orient yourself around some objects with Jeff in Classroom A.
+
+### Dojo: OOP with a Deaf Grandma (10:30 - 12:00)
+
+Huh? What? Say that again? Horace? Classroom A?
+
+### How Testing Works (1:00 - 2:30)
+
+Find out how testing works with Jeff in Classroom A.
+
+### Using Source Control (2:30 - 4:00)
+
+Ever get like half-way through your term paper and then Microsoft Word crashed? Yea? Well, let's talk about source control with Erika in Classroom A.
