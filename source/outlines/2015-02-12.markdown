@@ -5,6 +5,12 @@ layout: outline
 
 ## All
 
+### Posse Time (8:30 - 9:00)
+
+Let's get 1502 set up with [Exercism](http://exercism.io).
+
+Can you help them though Raindrops?
+
 ## 1409
 
 ### Introduction to Underscore.js (9:00 - 9:30)
