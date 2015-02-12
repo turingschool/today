@@ -130,34 +130,49 @@ Review some homework with Rachel in Classroom B.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Meet with Rachel in Classroom B to test Sinatra.
+Meet with Rachel in Classroom B to test Sinatra. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown).
 
 ### Nokogiri Challenge (1:00 - 1:30)
 
-Saw apart up XML/HTML with Nokogiri with Rachel in Classroom C.
+Saw apart up XML/HTML with Nokogiri with Rachel in Classroom C. Find the assignment [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown).
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Join Rachel in Classroom C to talk about the world's largest robot.
+Join Rachel in Classroom C to talk about the world's largest rodent. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
+
+### Homework
+
+* add model tests to Skill Inventory
+* add feature tests to Skill Inventory
 
 ## 1502
 
 ### Arrays and Hashes (9:00 - 10:30)
 
-Join Jeff in Classroom C to talk about collecting things.
+Join Jeff in Classroom C to [talk about arrays and hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
-### Deaf Grandma Dojo (10:30 - 12:00)
+### Exploring Arrays & Hashes (10:30-12:00)
 
-What? Huh? Horace? Classroom C?
+Work with Horace in Classroom C on some array and hash exercises.
 
-### Object-Oriented Programming (1:00 - 2:00)
+Start in the directory where you keep your work and...
 
-Meet up with Jeff in Classroom B to orient yourself around some objects.
+* `$ git clone git@github.com:turingschool/ruby-exercises.git`
+* `$ cd ruby-exercises`
+* `$ bundle`
+* `$ ruby core-types/array_test.rb`
+* `$ ruby core-types/hash_test.rb`
 
-### How Testing Works (2:00 - 3:00)
+While you're working on that, Jeff's going to pull you out for headshots.
 
-How does testing work? Jeff answers your questions in Classroom B.
+### Spiral Design and Testing (1:00 - 2:00)
 
-### Spiral Design and Testing (3:00 - 4:00)
+Spiral your tests with Erika in Classroom B.
 
-Spiral your tests with Jeff in Classroom B.
+### Iterating on Fibber (2:00-3:30)
+
+Work with Jeff in Classroom B on your [Fibber from last night](https://github.com/turingschool/challenges/blob/master/fibber.markdown).
+
+### Intro to Credit Check (3:30-4:00)
+
+Then let's wrap up by discussing your [Credit Check assignment](https://github.com/turingschool/challenges/blob/master/credit_check.markdown) for tonight.
