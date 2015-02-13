@@ -151,3 +151,50 @@ Here are a few conferences with open calls for proposals:
 [wcr]: http://www.windycityrails.org/
 
 ### Lightning Talks (3:00 - 4:00)
+
+#### Big Workspace
+
+##### Posses
+
+* Berners-Lee
+* Ritchie
+* Kay
+* McNulty
+* Backus
+* Knuth
+* Matsumoto
+* Hopper
+* Holberton
+
+##### Presenters
+
+* David Bayendor - Surprise Talk
+* Travis Yoder - Operating on Ruby Operators
+* Sam Kuhlmann - Web Audio API
+* Greg Narajka - Django
+* Brandon Mrsny - Chrome Debugger
+* Michael Dao - Software Disasters
+* Miriam Moser - Accessibility
+
+#### Classroom A
+
+##### Posses
+
+* Ingalis
+* Brooks
+* Spärck Jones
+* Von Neumann
+* Lovelace
+* Goldberg
+* Borg
+* McCarthy
+* Van Rossum
+
+##### Presenters
+
+* Krista Nelson - NFC/Mobile Wallets
+* Adam Smith - The Haskell Programming Language
+* Bhargavi Satpathy - Evolutionary Analysis in Bioinformatics
+* Kyra Steenbock - Bourbon
+* Jeffrey Gu - ENIAC
+* Paul Grever - Running a Productive Scrum
