@@ -1,0 +1,145 @@
+---
+title: 150213
+layout: outline
+---
+
+## All
+
+### Surveys (8:30 - 8:50)
+
+### Group Retrospectives (9:00 - 10:00)
+
+* 1409 in Classroom C with Steve and Horace..
+* 1410 in Classroom A with Jorge and Josh Cheek.
+* 1412 in Classroom B with Rachel and Josh Mejia.
+* 1502 in the Big Workspace with Jeff and Erika.
+
+### Study Groups and Pairing (10:00 - 12:00)
+
+#### Study Groups
+
+* Jeff Wan is running a session on beginning JavaScript for the curious.
+* Laura is running a session on food and technology.
+
+#### Pairing
+
+* Mike Dao is running some pairing sessions at 10:00, 10:40, and 11:20. DM him on Slack to set up a time.
+
+### One-on-Ones (10:00 - 12:00)
+
+#### With Steve
+
+* 10:00: Chandra Carney
+* 10:20: Timothy Mee
+* 10:40: Sam Kuhlmann
+* 11:00: Herbert Joseph
+* 11:20: Michael Dao
+
+#### With Horace
+
+* 10:00: Travis Yoder
+* 10:20: Thomas Leskin
+* 10:40: Tony DiNitto
+* 11:00: Tracy Caruso
+* 11:20: Tyler Graham
+
+#### With Josh Cheek
+
+* 10:00: David Bayendor
+* 10:20: Jack Yeh
+* 10:40: Kyle Henson
+* 11:00: Chase van Hekken
+* 11:20: Jeffrey Gu
+
+#### With Jorge
+
+* 10:00: Laura Whalin
+* 10:20: Alexandra Robinson
+* 10:40: Scott Crawford
+* 11:00: Jeffrey Wan
+* 11:20: Kit Pearson
+
+#### With Rachel
+
+* 10:00: Miriam Moser
+* 10:20: Kyra Steenbock
+* 10:40: Paul Grever
+* 11:00: Markus Olsen
+* 11:20: Fred Block
+
+#### With Josh Mejia
+
+* 10:00: Rich Shea
+* 10:20: Krista A Nelson
+* 10:40: Lydia Shafer
+* 11:00: Stanley Siudzinski
+* 11:20: Andrew Carmer
+
+#### With Jeff
+
+* 10:00: Chelsea Worrel
+* 10:20: David Daniel
+* 10:40: Dmitry Vizersky
+* 11:00: Eric Dowty
+* 11:20: Eugene Khanutin
+
+#### With Erika
+
+* 10:00: Fumei Kenny Chen
+* 10:20: Kristina Brown
+* 10:40: Michael Merrill
+* 11:00: Robert M. Cornell
+* 11:20: Tess Griffin
+
+#### With Raissa
+
+* 10:00: Michelle Golle
+* 10:20: Mihir Parikh
+* 10:40: Minnie Lee
+* 11:00: Patrick Medaugh
+* 11:20: Jamie Kawahara
+
+### Guest Speaker: Jenn Schiffer (1:00 - 2:00)
+
+Jenn is an open web engineer at [Bocoup][], [open web satirist][ccp], and the creator of [make 8-bit art][8b], and [vart.institute][vart].
+
+[Bocoup]: http://bocoup.com
+[ccp]: https://medium.com/cool-code-pal
+[8b]: http://make8bitart.com/
+[vart]: http://vart.institute/
+
+### Read-Write-Listen (2:00 - 3:00)
+
+If you read about it, please blog about it.
+
+Here is some inspiration for items to read:
+
+* Something from the most recent issue of [Ruby Weekly](http://rubyweekly.com/issues/233)
+* [Anything by Reginald Braithwaite](http://raganwald.com/#words)
+* [Introducing Sandi Metz's TRUE](http://designisrefactoring.com/2015/02/08/introducing-sandi-metz-true/)
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+
+#### Watch
+
+* [Ben Orenstein:  Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
+* [Sandi Metz:  All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
+* [Jenn Schiffer:  Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
+* [Chris Hunt: Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Michael Hartl: Enumerable for Fun and Profit](http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit)
+* [Anmol Agarwal: Fun with Ruby and Arduino](http://confreaks.tv/videos/gardencityrb2015-fun-with-ruby-and-arduino)
+
+#### Apply to Speak at a Conference
+
+You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
+
+Here are a few conferences with open calls for proposals:
+
+* [Madison+ Ruby][mr]
+* [Front Porch][fp]
+* [Windy City Rails][wcr]
+
+[fp]:  http://frontporch.io/
+[mr]: http://madisonpl.us/ruby/
+[wcr]: http://www.windycityrails.org/
+
+### Lightning Talks (3:00 - 4:00)
