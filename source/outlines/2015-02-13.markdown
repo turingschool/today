@@ -87,7 +87,6 @@ layout: outline
 * 10:20: David Daniel
 * 10:40: Dmitry Vizersky
 * 11:00: Eric Dowty
-* 11:20: Eugene Khanutin
 
 #### With Erika
 
@@ -104,6 +103,7 @@ layout: outline
 * 10:40: Minnie Lee
 * 11:00: Patrick Medaugh
 * 11:20: Robert M. Cornell
+* 11:40: Eugene Khanutin
 
 ### Guest Speaker: Jenn Schiffer (1:00 - 2:00)
 
