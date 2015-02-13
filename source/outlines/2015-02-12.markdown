@@ -46,6 +46,8 @@ Pivot those Dinner Dashes.
 
 ### Homework Review (9:00 - 9:30)
 
+Join Rachel in Classroom C.
+
 ### SQL (9:30 - 10:30)
 
 Talk the language of structured queries with Josh Mejia in Classroom C.
@@ -62,7 +64,7 @@ Josh is on hand for questions as your transform your TaskManagers.
 
 ### Object-Oriented Programming (9:00 - 10:30)
 
-Orient yourself around some objects with Jeff in Classroom A.
+Meet up with Jeff in Classroom A to [work on understanding Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
 
 ### Dojo: OOP with a Deaf Grandma (10:30 - 12:00)
 
@@ -70,7 +72,7 @@ Huh? What? Say that again? Horace? Classroom A?
 
 ### How Testing Works (1:00 - 2:30)
 
-Find out how testing works with Jeff in Classroom A.
+Find out [how testing works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) with Jeff in Classroom A.
 
 ### Using Source Control (2:30 - 4:00)
 
