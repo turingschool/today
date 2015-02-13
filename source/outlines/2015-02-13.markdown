@@ -28,7 +28,8 @@ layout: outline
 
 #### Pairing
 
-* Mike Dao is running some pairing sessions at 10:00, 10:40, and 11:20. DM him on Slack to set up a time.
+* Mike Dao is running some pairing sessions at 10:00 and 10:40. DM him on Slack to set up a time.
+* Orion is running some pairing session at 10:00, 10:40, and 11:20. DM him on Slack to set up a time.
 
 ### One-on-Ones (10:00 - 12:00)
 
