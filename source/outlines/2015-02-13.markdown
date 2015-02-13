@@ -88,7 +88,7 @@ layout: outline
 * 10:00: Fumei Kenny Chen
 * 10:20: Kristina Brown
 * 10:40: Michael Merrill
-* 11:00: Robert M. Cornell
+* 11:00: Jamie Kawahara
 * 11:20: Tess Griffin
 
 #### With Raissa
@@ -97,16 +97,18 @@ layout: outline
 * 10:20: Mihir Parikh
 * 10:40: Minnie Lee
 * 11:00: Patrick Medaugh
-* 11:20: Jamie Kawahara
+* 11:20: Robert M. Cornell
 
 ### Guest Speaker: Jenn Schiffer (1:00 - 2:00)
 
 Jenn is an open web engineer at [Bocoup][], [open web satirist][ccp], and the creator of [make 8-bit art][8b], and [vart.institute][vart].
 
+Jenn hails from the greatest state in the country—and possibly the world. She also runs the monthly [JerseyScript meetup](https://twitter.com/jerseyscriptusa) in Jersey City.
+
 [Bocoup]: http://bocoup.com
 [ccp]: https://medium.com/cool-code-pal
-[8b]: http://make8bitart.com/
-[vart]: http://vart.institute/
+[8b]: http://make8bitart.com
+[vart]: http://vart.institute
 
 ### Read-Write-Listen (2:00 - 3:00)
 
