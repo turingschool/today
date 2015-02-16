@@ -29,6 +29,14 @@ Meet with Horace in Clasroom A to review [your homework][hw]. Leave a comment on
 
 Meet with Steve in Classroom A to learn some of the basics of using Ember.js.
 
+Please have the following installed before arriving:
+
+* [Node.js](http://nodejs.org) (preferably version 0.10)
+* [Bower](http://bower.io/)
+* [Ember CLI](http://ember-cli.com)
+
+If you’re having any issues, find Steve _before_ class starts and he’ll help you out.
+
 ### Project Work Time (1:00 - 2:30)
 
 Game on. Horace and Steve are both available for questions.
