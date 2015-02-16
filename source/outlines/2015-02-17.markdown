@@ -1,0 +1,62 @@
+---
+title: 150217
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time && Warm-Up (8:30 - 9:00)
+
+Normally, we'll be meeting with our posse's to dicuss—umm–posse business (scheduling intra-posse pairing sessions, reaching out to mentors, etc.).
+
+If you finish early and can’t wait to begin hacking, you can start on this week’s warm-up challenge. We'll be working on [this problem][wu].
+
+### Electives (2:30 - 3:00)
+
+We'll me in our elective groups from last week. Same place, same time.
+
+## 1409
+
+### Homework Review: ActiveRecord Challenges (9:00 - 9:30)
+
+Meet with Horace in Clasroom A to review [your homework][hw]. Leave a comment on the gist with a link to your solutions and we'll review some solutions as a group.
+
+[hw]: https://gist.github.com/stevekinney/7bd5f77f87be12bd7cc6
+
+### Ember Fundementals (9:30 - 12:00)
+
+Meet with Steve in Classroom A to learn some of the basics of using Ember.js.
+
+### Project Work Time (1:00 - 2:30)
+
+Game on. Horace and Steve are both available for questions.
+
+## 1410
+
+### Multitenancy Authorization Strategies (9:00 - 10:30)
+
+Join Jorge in Classroom B to discuss some authorization strategies for multitenant applications.
+
+### JavaScript in Rails (10:30 - 12:00)
+
+Stick around with Jorge in Classroom B to talk about using JavaScript within the cozy confines of your Rails application.
+
+### The Weekly Iteration (1:00 - 2:30)
+
+Meet up Josh in Classroom A.
+
+## 1412
+
+### Project Review / Q&A (9:00 - 10:00)
+
+Meet with Rachel in Classroom C to review you projects and answer some burning questions.
+
+### Database Design and Data Modeling (10:00 - 12:00)
+
+Stick around in Classroom C as Josh comes by to talk about modeling data in your web applications.
+
+### Introduction to ActiveRecord in Sinatra (1:00 - 2:30)
+
+Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra.
+
+## 1502
