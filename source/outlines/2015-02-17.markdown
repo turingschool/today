@@ -11,6 +11,8 @@ Normally, we'll be meeting with our posse's to dicuss—umm–posse business (sc
 
 If you finish early and can’t wait to begin hacking, you can start on this week’s warm-up challenge. We'll be working on [this problem][wu].
 
+[wu]: http://www.reddit.com/r/dailyprogrammer/comments/2ug3hx/20150202_challenge_200_easy_floodfill/
+
 ### Electives (2:30 - 3:00)
 
 We'll me in our elective groups from last week. Same place, same time.
