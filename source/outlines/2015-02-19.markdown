@@ -1,0 +1,56 @@
+---
+title: 150219
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+Continue pushing forward on the [warm-up we introduced yesterday][wu]. We'll show off our implementations on Friday.
+
+[wu]: http://www.reddit.com/r/dailyprogrammer/comments/2ug3hx/20150202_challenge_200_easy_floodfill/
+
+## 1409
+
+### Ember Data (9:00 - 10:30)
+
+Meet with Steve in Classroom B.
+
+### Testing with Ember (10:30 - 12:00)
+
+Stick around with Steve in Classroom B.
+
+## 1410
+
+### Advanced ActiveRecord Querying (9:00 - 10:30)
+
+Join Josh Mejia in Classroom A.
+
+### Auditing and Improving Rails Performance (10:30 - 12:00)
+
+Stick around with Josh in Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Jorge is on hand for questions.
+
+## 1412
+
+### Project Work Time (9:00 - 12:00)
+
+Rachel is on hand for questions.
+
+### Traffic Spy Q&A (1:00 - 2:00)
+
+Join Josh in Classroom C.
+
+### View Templating (2:00 - 3:00)
+
+Keep hanging out with Josh in Classroom C.
+
+### Project Work Time (3:00 - 4:00)
+
+Josh Mejia is on hand for questions.
+
+## 1502
