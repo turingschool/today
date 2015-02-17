@@ -46,7 +46,7 @@ You’ll be working in the following pairs:
 * Sam Kuhlmann & Chandra Carney
 * Alex Jensen
 
-### Homework Review: ActiveRecord Challenges (9:00 - 9:30)
+### Homework Review: ActiveRecord Challenges (1:00 - 2:30)
 
 Meet with Horace in Clasroom A to review [your homework][hw]. Leave a comment on the gist with a link to your solutions and we'll review some solutions as a group.
 
