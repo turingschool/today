@@ -23,6 +23,8 @@ We'll me in our elective groups from last week. Same place, same time.
 
 Meet with Steve in Classroom A to learn some of the basics of using Ember.js.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/ember_fundementals.markdown)
+
 Please have the following installed before arriving:
 
 * [Node.js](http://nodejs.org) (preferably version 0.10)
