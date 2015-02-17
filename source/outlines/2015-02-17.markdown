@@ -62,17 +62,17 @@ Meet up Josh in Classroom A.
 
 ## 1412
 
-### Project Review / Q&A (9:00 - 10:00)
+### Project Review / Q&A (9:00 - 9:30)
 
 Meet with Rachel in Classroom C to review you projects and answer some burning questions.
 
-### Database Design and Data Modeling (10:00 - 12:00)
+### Database Design and Data Modeling (9:30 - 12:00)
 
 Stick around in Classroom C as Josh comes by to talk about modeling data in your web applications.
 
 ### Introduction to ActiveRecord in Sinatra (1:00 - 2:30)
 
-Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra.
+Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ### Homework
 
