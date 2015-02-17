@@ -76,7 +76,7 @@ Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra. 
 
 ### Homework
 
-Complete the [ActiveRecord and Database Design](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown) assignment. 
+Complete the [ActiveRecord and Database Design](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown) assignment.
 
 ### TrafficSpy
 
@@ -89,3 +89,29 @@ Find the guidelines for Traffic Spy [here](http://tutorials.jumpstartlab.com/pro
 * Austin Wood & Kyra Steenbock & Lori Culberson
 
 ## 1502
+
+### Cryptographer (9:00-10:30)
+
+First up this morning, meet with Horace in the Big Workspace. You'll break into pairs to [work on the Cryptographer exercise](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+
+#### Pairings
+
+* Dmitry Vizersky & Kristina Brown
+* Mihir Parikh & Eugene Khanutin
+* Patrick Medaugh & Andrew Carmer
+* Jack Yeh & Chelsea Worrel
+* Michael Merrill & Kenny Chen
+* Michelle Golle & Tony DiNitto
+* Kyle Henson & Jamie Kawahara
+* Tyler Graham & Rob Cornell
+* Eric Dowty & Tracy Caruso
+* Minnie Lee & Tess Griffin
+* David Daniel & Thomas Leskin
+
+### Introducing Enumerables (10:30-12:00)
+
+Continue in the big workspace as Jeff [introduces you to the wide world of enumerables](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown).
+
+### BubbleSort (1:00-2:30)
+
+Then let's get together in Classroom C to discuss [how a bubble sort works](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown) and get a jumpstart on implementing it. Finish your implementation for homework.
