@@ -19,13 +19,7 @@ We'll me in our elective groups from last week. Same place, same time.
 
 ## 1409
 
-### Homework Review: ActiveRecord Challenges (9:00 - 9:30)
-
-Meet with Horace in Clasroom A to review [your homework][hw]. Leave a comment on the gist with a link to your solutions and we'll review some solutions as a group.
-
-[hw]: https://gist.github.com/stevekinney/7bd5f77f87be12bd7cc6
-
-### Ember Fundementals (9:30 - 12:00)
+### Ember Fundementals (9:00 - 12:00)
 
 Meet with Steve in Classroom A to learn some of the basics of using Ember.js.
 
@@ -42,9 +36,13 @@ We’ll be working with the following code this morning:
 * [Taco Lovers Club of Denver](http://jsbin.com/gutiza)
 * [Good Tipper](https://github.com/turingschool-examples/good-tipper)
 
-### Project Work Time (1:00 - 2:30)
+### Homework Review: ActiveRecord Challenges (9:00 - 9:30)
 
-Game on. Horace and Steve are both available for questions.
+Meet with Horace in Clasroom A to review [your homework][hw]. Leave a comment on the gist with a link to your solutions and we'll review some solutions as a group.
+
+If we wrap up homework review early, Horace and Steve will be on hand for questions and project code review.
+
+[hw]: https://gist.github.com/stevekinney/7bd5f77f87be12bd7cc6
 
 ## 1410
 
