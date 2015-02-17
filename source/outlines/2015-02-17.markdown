@@ -76,6 +76,8 @@ Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra.
 
 ### TrafficSpy
 
+Find the guidelines for Traffic Spy [here](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
 * Miriam Moser & Edward McCarthy & Jeffrey Gu
 * Paul Grever & Markus Olsen & Dustin Gault
 * Fred Block & Stanley Siudzinski & Charles Valentino Espinoza
