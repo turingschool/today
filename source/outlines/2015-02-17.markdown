@@ -37,6 +37,11 @@ Please have the following installed before arriving:
 
 If you’re having any issues, find Steve _before_ class starts and he’ll help you out.
 
+We’ll be working with the following code this morning:
+
+* [Taco Lovers Club of Denver](http://jsbin.com/gutiza)
+* [Good Tipper](https://github.com/turingschool-examples/good-tipper)
+
 ### Project Work Time (1:00 - 2:30)
 
 Game on. Horace and Steve are both available for questions.

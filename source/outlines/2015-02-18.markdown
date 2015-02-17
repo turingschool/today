@@ -1,0 +1,52 @@
+---
+title: 150218
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 9:00)
+
+Continue pushing forward on the [warm-up we introduced yesterday][wu]. We'll show off our implementations on Friday.
+
+[wu]: http://www.reddit.com/r/dailyprogrammer/comments/2ug3hx/20150202_challenge_200_easy_floodfill/
+
+## 1409
+
+### MVC in Ember (9:00 - 10:30)
+
+Join Steve in Classroom B.
+
+### Ember Routing (10:30 - 12:00)
+
+Stick around with Steve in Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace is on hand for questions.
+
+## 1410
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Join Jorge in Classroom C.
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+Jorge and Josh are on hand for questions.
+
+## 1412
+
+### ActiveRecord from the Console with Tux (9:00 - 10:00)
+
+Join Josh in Classroom A.
+
+### Setting Up Rack::Test in a Sinatra Project (10:00 - 11:00)
+
+Stick around in Classroom A as Rachel comes by to talk about testing a Sinatra application.
+
+### Rack::Test Code-Along (11:00 - 12:00)
+
+Code along with Rachel in Classroom A.
+
+## 1502
