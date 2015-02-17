@@ -74,6 +74,10 @@ Stick around in Classroom C as Josh comes by to talk about modeling data in your
 
 Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra.
 
+### Homework
+
+Complete the [ActiveRecord and Database Design](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown) assignment. 
+
 ### TrafficSpy
 
 Find the guidelines for Traffic Spy [here](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
