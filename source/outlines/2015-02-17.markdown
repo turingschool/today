@@ -74,4 +74,12 @@ Stick around in Classroom C as Josh comes by to talk about modeling data in your
 
 Join Rachel in Classroom B to learn how to integrate ActiveRecord with Sinatra.
 
+### TrafficSpy
+
+* Miriam Moser & Edward McCarthy & Jeffrey Gu
+* Paul Grever & Markus Olsen & Dustin Gault
+* Fred Block & Stanley Siudzinski & Charles Valentino Espinoza
+* Teresa Finn & DJ Greenfield & Trey Tomlinson
+* Austin Wood & Kyra Steenbock & Lori Culberson
+
 ## 1502
