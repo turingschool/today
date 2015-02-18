@@ -65,3 +65,7 @@ Work on Traffic Spy with your group. Rachel and Josh will come around in the aft
 Continue working on Traffic Spy. Make sure that you're using a project management tool (Waffle.io, Github issues, etc.). 
 
 ## 1502
+
+### Code Retreat (9:00 - 12:00)
+
+Meet with Jeff in the Big Workspace.
