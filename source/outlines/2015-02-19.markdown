@@ -15,25 +15,38 @@ Continue pushing forward on the [warm-up we introduced yesterday][wu]. We'll sho
 
 ### Ember Data (9:00 - 10:30)
 
-Meet with Steve in Classroom B.
+Meet with Steve in Classroom A. Let’s can that fake server and swap in some Rails.
 
-### Testing with Ember (10:30 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/ember_data.markdown)
 
-Stick around with Steve in Classroom B.
+### Auditing and Improving Rails Performance (10:30 - 12:00)
+
+Join Josh Mejia in the Big Workspace to talk about figuring out why your Rails application is slow.
+
+### Game Time Evaluations and Work Time (1:00 - 4:00)
+
+Steve will be on hand for questions from 1:00 - 2:30.
+
+* 2:30: Herbert Joseph & Alex Jensen
+* 2:45: Timothy Mee & David Bayendor
+* 3:00: Gregory Narajka & Victoria Harrod
+* 3:15: Kate Lane & Sam Kuhlmann
+* 3:30: Chandra Carney & Travis Yoder
+* 3:45: Chase van Hekken & Zachary Routhier
 
 ## 1410
 
 ### Advanced ActiveRecord Querying (9:00 - 10:30)
 
-Join Josh Mejia in Classroom A.
+Join Josh Mejia in Classroom B.
 
 ### Auditing and Improving Rails Performance (10:30 - 12:00)
 
-Stick around with Josh in Classroom A.
+Join Josh Mejia in the Big Workspace to talk about figuring out why your Rails application is slow.
 
 ### Project Work Time (1:00 - 4:00)
 
-Jorge is on hand for questions.
+Jorge is on hand for questions about pivots and goats.
 
 ## 1412
 
@@ -54,3 +67,15 @@ Keep hanging out with Josh in Classroom C.
 Josh Mejia is on hand for questions.
 
 ## 1502
+
+### Enumerable Exercises (9:00 - 10:30)
+
+Meet with Horace in Classroom C.
+
+### Fibber with TDD (10:30 - 12:00)
+
+Meet with Jeff in Classroom C to tell some fibs with TDD.
+
+### Work Time: All Projects (1:00 - 4:00)
+
+Josh Cheek is on hand for all your questions.
