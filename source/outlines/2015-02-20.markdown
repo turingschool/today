@@ -23,7 +23,7 @@ Steve's background is in researching the design, construction and management of 
 
 When Steve is not teaching Ruby at Rally, wrangling Clojure code or pushing data around Cassandra clusters you can find him rock climbing with his team or skiing the powdered slopes of Colorado.
 
-### Lightning Talks
+### Lightning Talks (3:00 - 3:40)
 
 (Jorge will update this with the room assignments and talk topics.)
 
