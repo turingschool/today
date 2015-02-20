@@ -9,7 +9,10 @@ layout: outline
 
 It's time for the weekly surveys.
 
-(Rachel will put the links here—we promise.)
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1qk2p2PVxTCKi9b8ShPiVMVrZEM5M9DutLJLU1MA60Co/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1-_UAIrBj80NmJmcyFeLZmyDH3C_5zAuD2mM2hWAbNMo/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1Hnz-LeTG-hF4g62IJWioIg_w4YyRtLaGH_NQD-mXnAM/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1tnN0dCaOHK1GXg4OnCwgfwTsV0BKNBTK_pCoNqY4QSg/viewform)
 
 Put the finishing touches on your warm-ups and submit your code in `#warmup-answers`.
 
