@@ -5,24 +5,88 @@ layout: outline
 
 ## All
 
-### Warm-Up and Demonstrations (8:30 - 8:50)
+### Warm-Up and Weekly Surveys (8:30 - 8:50)
+
+It's time for the weekly surveys.
+
+(Rachel will put the links here—we promise.)
+
+Put the finishing touches on your warm-ups and submit your code in `#warmup-answers`.
+
+If you'd like to demo your implementation, let Steve know.
 
 ### Guest Speaker: Steve Neely (1:00 - 2:00)
 
+Steve Neely is officially a software engineer at Rally. In reality, he gets to play with a broad range of technologies and systems, attend and present at conferences, and write about all the cool stuff he discovers along the way. His current focus is on continuous delivery, big data, service-oriented architectures and software craftsmanship.
+
+Steve's background is in researching the design, construction and management of globally distributed systems. He has worked at top-ranked universities across the UK and Ireland as a researcher and teacher. Steve has produced a broad corpus of research publications and organized conferences at an international level.
+
+When Steve is not teaching Ruby at Rally, wrangling Clojure code or pushing data around Cassandra clusters you can find him rock climbing with his team or skiing the powdered slopes of Colorado.
+
+### Lightning Talks
+
+(Jorge will update this with the room assignments and talk topics.)
+
 ## 1409
 
-### Performance Metrics Services (9:00 - 10:00)
+### Game Time Code Share (9:00 - 10:00)
+
+Let's spend some time this morning in Classroom B discussing the trials, tribulations, and victories in implementing our games. The focus will be less on demonstrating features and more about discussing code.
+
+It would be great if you came prepared with a piece of code you wanted to talk about (e.g. refactor).
 
 ### Building a Wrapper Gem (10:00 - 12:00)
 
-### FeedEngine Kick-Off (2:00: - 4:00)
+Horace drop by to wrap some gems with you.
+
+### FeedEngine Kick-Off (2:00: - 3:00)
+
+Meet with Steve in Classroom C to kick off your next project: Feed Engine.
 
 ## 1410
 
-### Project Work Time and Check-in (9:00 - 12:00)
+### Project Work Time and Check-ins (9:00 - 12:00)
+
+* 9:00: Laura Whalin, Brandon Mrsny, Rich Shea, Alexandra Robinson, Konr Josef Larson
+* 9:40: Orion Osborn, Jeffrey Wan, Michael Dao, Emily Berkeley, Adam Smith
+* 10:40: Kit Pearson, Bryce Holcomb, Lydia Shafer, Chris Luhring
+* 11:20: Krista A Nelson, Nathan Owsiany, Bhargavi Satpathy, Scott Crawford
+
+### Project Work Time (2:00 - 3:00)
+
+Jorge is around for questions.
 
 ## 1412
 
 ### Project Check-ins (9:00 - 12:00)
 
+#### With Josh
+
+* 9:00: Paul Grever & Markus Olsen & Dustin Gault
+* 9:30: Miriam Moser & Edward McCarthy & Jeffrey Gu
+* 10:00: Teresa Finn & DJ Greenfield & Trey Tomlinson
+
+### With Rachel
+
+* 9:00: Austin Wood & Kyra Steenbock & Lori Culberson
+* 9:30: Fred Block & Stanley Siudzinski & Charles Valentino Espinoza
+
+After 10:30, Rachel and Josh are both available for questions.
+
+### Project Work Time (2:00 - 3:00)
+
+Josh and Rachel are around for questions.
+
 ## 1502
+
+### Linked Lists (9:00 - 10:00)
+
+Join Horace in Classroom A to link some lists.
+
+### Chisel Review and Refactor (10:00 - 12:00)
+
+Stick around in Classroom A as Jeff drops by to help you parse your Markdown markup.
+
+### Project Work Time (2:00 - 3:00)
+
+Jeff and Horace are around for questions.
