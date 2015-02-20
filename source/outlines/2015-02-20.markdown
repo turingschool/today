@@ -23,9 +23,54 @@ Steve's background is in researching the design, construction and management of 
 
 When Steve is not teaching Ruby at Rally, wrangling Clojure code or pushing data around Cassandra clusters you can find him rock climbing with his team or skiing the powdered slopes of Colorado.
 
-### Lightning Talks
+### Lightning Talks (3:00 - 4:00)
 
-(Jorge will update this with the room assignments and talk topics.)
+#### Big Workspace
+
+##### Posses
+
+* McCarthy
+* Von Neumann
+* McNulty
+* Goldberg
+* Matsumoto
+* Spärck Jones
+* Berners-Lee
+* Ritchie
+* Kay
+
+##### Presenters
+
+* Markus Olsen - Coding Bootcamps (We are not a Bootcamp™)
+* Fred Block - Search Inside Yourself
+* Stanley Siudzinski - The Mind of Musically Gifted Programmers
+* Valentino Espinoza - What Rooting an Android Phone does
+* Chandra Carney - Talking Signs
+* Alex Jensen - Algorithmically Generated Art
+* Zachary Routhier - Game Night at Some Bar
+
+#### Classroom A
+
+##### Posses
+
+* Holberton
+* Lovelace
+* Hopper
+* Borg
+* Brooks
+* Ingalis
+* Van Rossum
+* Knuth
+* Backus
+
+##### Presenters
+
+* Alexandra Robinson - The Evolution of the Military Exoskeleton
+* Bryce Holcomb - IFTTT and the Internet of Things
+* Chris Luhring - Leaflet
+* Emily Berkeley - Karen Spärck Jones
+* Jeffrey Wan - What Makes You Happy in Programming?
+* Victoria Harrod - Ada Lovelace
 
 ## 1409
 
@@ -54,7 +99,7 @@ Meet with Steve in Classroom C to kick off your next project: Feed Engine.
 
 ### Project Work Time (2:00 - 3:00)
 
-Jorge is around for questions.
+Work on your projects for an hour. Yes, for an hour.
 
 ## 1412
 
