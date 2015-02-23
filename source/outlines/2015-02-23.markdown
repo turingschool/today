@@ -1,0 +1,71 @@
+---
+title: 20150223
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 8:50)
+
+Schedule peer sessions with each other (can you each pair with one another this week?); reach out to mentors; update each other on your projects.
+
+### Electives (2:30 - 4:00)
+
+Same bat time, same bat channel. We'll switch electives next week.
+
+## 1409
+
+### Mocking and Doubling an API (9:00 - 12:00)
+
+Join Horace in Classroom C to talk about mocking and doubling APIs in that other framework—Rails.
+
+### Project Work Time (1:00 - 2:30)
+
+Time to get feeding those engines.
+
+If you haven't watched [Steve's screencast on using fixtures in Ember][fx], please do that now.
+
+Steve is on hand to help you get started.
+
+[fx]: https://vimeo.com/120318565
+
+## 1410
+
+### Fundamental Rails Security (9:00 - 12:00)
+
+Learn how not to be the person who leaves a giant security hole in your Rails application with Jorge in Classroom B.
+
+### Weekly Iteration (1:00 - 2:30)
+
+Josh is going to iterate on the week in Classroom C.
+
+## 1412
+
+### Project Evaluations (9:00 - 12:00)
+
+* 9:00 - 9:30: Paul Grever & Markus Olsen & Dustin Gault
+* 9:30 - 10:00: Miriam Moser & Edward McCarthy & Jeffrey Gu
+* 10:00 - 10:30: Austin Wood & Kyra Steenbock & Lori Culberson
+* 11:00 - 11:30: Teresa Finn & DJ Greenfield & Trey Tomlinson
+* 11:30 - 12:00: Fred Block & Stanley Siudzinski & Charles Valentino Espinoza
+
+### REST, Routing, and Controllers in Rails (1:00 - 2:30)
+
+Get some rest with with Rachel in Classroom C.
+
+## 1502
+
+### How _Not_ to Test A REPL (9:00 - 10:30)
+
+Learn how to not test a REPL in Classroom A.
+
+### Numbermind (10:30 - 12:00)
+
+Mind your numbers with Jeff in Classroom A.
+
+### Mastermind/Battleship Kickoff (1:00 - 2:30)
+
+Join Horace in Classroom B to kickoff two new projects: [Mastermind][mm] and [Battleship][bs].
+
+[mm]: http://tutorials.jumpstartlab.com/projects/mastermind.html
+[bs]: http://tutorials.jumpstartlab.com/projects/battleship.html
