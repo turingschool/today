@@ -70,7 +70,7 @@ Stick around with Rachel in Classroom B. Find the outline [here](https://github.
 
 ### Forms and Route Helpers in Rails (1:00 - 4:00)
 
-We've talked about routes, controllers, migrations, databases, relationships, and models in Rails. How do we add the view layer? Spend some more time with Rachel in Classroom C where we'll talk about views, route helpers, and forms.
+We've talked about routes, controllers, migrations, databases, relationships, and models in Rails. How do we add the view layer? Spend some more time with Rachel in Classroom C where we'll talk about views, route helpers, and forms. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
 ## 1502
 
