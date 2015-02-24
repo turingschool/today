@@ -72,6 +72,10 @@ Stick around with Rachel in Classroom B. Find the outline [here](https://github.
 
 We've talked about routes, controllers, migrations, databases, relationships, and models in Rails. How do we add the view layer? Spend some more time with Rachel in Classroom C where we'll talk about views, route helpers, and forms. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
+### Homework
+
+Start the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). To be on track, you should get through I0 and I1. 
+
 ## 1502
 
 ### The Ruby Object Model (9:00 - 12:00)
