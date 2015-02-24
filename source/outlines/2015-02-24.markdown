@@ -76,7 +76,7 @@ Spend some more time with Rachel in Classroom C.
 
 ### The Ruby Object Model (9:00 - 12:00)
 
-Meet with Josh Cheek in Classroom C to discuss the Ruby object model.
+Meet with Josh Cheek in Classroom C to discuss the Ruby object model.  Clone this repo [https://github.com/JoshCheek/ruby-object-model](https://github.com/JoshCheek/ruby-object-model)
 
 ### Linked List Peer Evaluations (1:00 - 2:30)
 
