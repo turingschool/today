@@ -51,17 +51,21 @@ Josh is going to iterate on the week in Classroom C.
 
 ### REST, Routing, and Controllers in Rails (1:00 - 2:30)
 
-Get some rest with with Rachel in Classroom C.
+Get some rest with with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
+
+### Homework
+
+Complete the [Routing in Rails](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) challenge. 
 
 ## 1502
 
-### How _Not_ to Test A REPL (9:00 - 10:30)
+### How to _Not_ Test A REPL (9:00 - 10:30)
 
-Learn how to not test a REPL in Classroom A.
+Learn [how to not test a REPL](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/not_testing_a_repl.markdown) with Jeff in Classroom A.
 
 ### Numbermind (10:30 - 12:00)
 
-Mind your numbers with Jeff in Classroom A.
+[Mind your numbers](https://github.com/turingschool-examples/numberguesser) with Jeff in Classroom A.
 
 ### Mastermind/Battleship Kickoff (1:00 - 2:30)
 
