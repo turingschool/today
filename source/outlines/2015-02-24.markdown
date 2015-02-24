@@ -30,10 +30,10 @@ The focus of this session will be Ember Data relations and filtering.
 
 The focus of this session will be designing and testing an API.
 
-* 9:00: Timothy Mee & Gregory Narajka & Chase van Hekken
-* 9:45: Zachary Routhier & Herbert Joseph & Victoria Harrod
-* 10:30: David Bayendor & Kate Lane & Alex Jensen
-* 11:15: Sam Kuhlmann & Chandra Carney & Travis Yoder
+* 9:00: Sam Kuhlmann & Chandra Carney & Travis Yoder
+* 9:45: Timothy Mee & Gregory Narajka & Chase van Hekken
+* 10:30: Zachary Routhier & Herbert Joseph & Victoria Harrod
+* 11:15: David Bayendor & Kate Lane & Alex Jensen
 
 ### Project Work Time (1:00 - 4:00)
 
