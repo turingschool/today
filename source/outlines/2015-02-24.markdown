@@ -1,0 +1,103 @@
+---
+title:
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Make a square display in your terminal.
+
+Cool. Now, make a square where you can pass in the width and the height.
+
+## 1409
+
+### Instructor Pairing and Work Time (9:00 - 12:00)
+
+This morning, we'll be doing focused pairing session. Please send one to two group members to each session.
+
+### With Steve
+
+The focus of this session will be Ember Data relations and filtering.
+
+* 9:00: Sam Kuhlmann & Chandra Carney & Travis Yoder
+* 9:45: Timothy Mee & Gregory Narajka & Chase van Hekken
+* 10:30: Zachary Routhier & Herbert Joseph & Victoria Harrod
+* 11:15: David Bayendor & Kate Lane & Alex Jensen
+
+### With Horace
+
+The focus of this session will be designing and testing an API.
+
+* 9:00: Timothy Mee & Gregory Narajka & Chase van Hekken
+* 9:45: Zachary Routhier & Herbert Joseph & Victoria Harrod
+* 10:30: David Bayendor & Kate Lane & Alex Jensen
+* 11:15: Sam Kuhlmann & Chandra Carney & Travis Yoder
+
+### Project Work Time (1:00 - 4:00)
+
+Steve and Horace on hand for questions and code review.
+
+## 1410
+
+### Getting Started with Workers (9:00 - 10:30)
+
+Get to work with Josh in Classroom A.
+
+### Sending Email (10:30 - 12:00)
+
+Send some emails with Josh in Classroom A.
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+#### With Jorge
+
+* 1:00: Laura Whalin, Brandon Mrsny, Rich Shea, Alexandra Robinson, Konr Josef Larson
+* 1:30: Krista A Nelson, Nathan Owsiany, Bhargavi Satpathy, Scott Crawford
+* 2:00: Orion Osborn, Jeffrey Wan, Michael Dao, Emily Berkeley, Adam Smith
+* 2:30: Kit Pearson, Bryce Holcomb, Lydia Shafer, Chris Luhring
+
+## 1412
+
+### Homework Review (9:00 - 9:30)
+
+Join Rachel in Classroom B.
+
+### Migrations, Databases, Relationships, and Models (9:30 - 12:00)
+
+Stick around with Rachel in Classroom B.
+
+### Forms and Route Helpers in Rails (1:00 - 4:00)
+
+Spend some more time with Rachel in Classroom C.
+
+## 1502
+
+### The Ruby Object Model (9:00 - 12:00)
+
+Meet with Josh Cheek in Classroom C to discuss the Ruby object model.
+
+### Linked List Peer Evaluations (1:00 - 2:30)
+
+Get back into the zone with linked lists.
+
+* David Daniel & Rob Cornell
+* Eric Dowty & Jamie Kawahara
+* Tracy Caruso & Mihir Parikh
+* Tess Griffin & Thomas Leskin
+* Eugene Khanutin & Kenny Chen
+* Tyler Graham & Jack Yeh
+* Andrew Carmer & Michelle Golle
+* Chelsea Worrel & Minnie Lee
+* Tony DiNitto & Kristina Brown
+* Michael Merrill & Dmitry Vizersky
+* Kyle Henson & Patrick Medaugh
+
+### Building a Recursive Linked List (2:30 - 4:00)
+
+Recursion is pretty much the best. Meet with Jeff in Classroom B.
+
+### Games Work Time (2:30 - 4:00)
+
+If you're too good for recursion, Horace is available for questions.
