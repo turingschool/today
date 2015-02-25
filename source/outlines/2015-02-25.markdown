@@ -72,3 +72,5 @@ Join Horace in Classroom C to revisit git and avoid a gitastrophy.
 ### Pairing Workshop with Alex Harms (1:00 - 4:00)
 
 Join Alex in Classroom A to work on your pairing.
+
+You'll use [this 99 bottles of beer on the wall](https://github.com/exercism/x-common/blob/master/beer-song.md) challenge.
