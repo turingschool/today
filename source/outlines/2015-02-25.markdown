@@ -1,0 +1,72 @@
+---
+title: 20150225
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Remember your squares from yesterday?
+
+You did do yesterday's warm-up, right?
+
+Oh, yea? Great!
+
+Today, let's pass in a third argument: a color.
+
+Tim's favorite color is cyan. If you pass in "cyan" you should be able to draw a cyan square in your terminal.
+
+## 1409
+
+### Advanced Routing with Ember (9:00 - 10:00)
+
+Join Steve in Classroom A.
+
+### Standalone Controllers and Services in Ember (10:00 - 11:00)
+
+Stand alone with Steve in Classroom A.
+
+### Ember Testing (11:00 - 12:00)
+
+Learn how to do integration tests with Steve in Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Steve is available for questions.
+
+## 1410
+
+### Project Work Time (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+Josh is available for questions.
+
+## 1412
+
+### Blogger Work Time (9:00 - 12:00)
+
+Continue working on Blogger. Rachel is available for questions.
+
+### Feature Testing in Rails (1:00 - 2:30)
+
+Testing in Rails—featuring Rachel in Classroom C.
+
+### Blogger Work Time (2:30 - 4:00)
+
+Rachel is available for questions.
+
+## 1502
+
+### Encapsulation and Separation of Responsibilities (9:00 - 10:30)
+
+Encapsulate your in Classroom C with Jeff to separate some responsibilities.
+
+### Revisiting Git (10:30 - 12:00)
+
+Join Jeff in Classroom C to revisit git and avoid a gitastrophy.
+
+### Pairing Workshop with Alex Harms (1:00 - 4:00)
+
+Join Alex in Classroom A to discuss pairing.
