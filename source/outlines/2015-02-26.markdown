@@ -52,6 +52,30 @@ Join Rachel in Classroom B to wax nostalgia on your previous project.
 
 Work with Alex in Classroom B on improving your pairing.
 
+**Challenge**
+
+1) Write a program that can convert Arabic numbers 1-3000 to Roman numerals. For example:
+
+```ruby
+converter = RomanConverter.new
+converter.to_roman(6)
+=> "VI"
+
+converter.to_roman(14)
+=> "XIV"
+```
+
+2) Write a program that can convert Roman numerals I-MMM to Arabic numbers. For examples:
+
+```ruby
+converter = RomanConverter.new
+converter.to_arabic("X")
+=> 10
+
+converter.to_arabic("XXIX")
+=> 29
+```
+
 ### ContactManager Kickoff (3:30 - 4:00)
 
 Stick around in Classroom B as Josh Mejia drops by to kick off [ContactManager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
