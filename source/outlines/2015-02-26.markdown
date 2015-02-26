@@ -48,7 +48,11 @@ Join Josh Mejia in Classroom C to test some models and validate all the things.
 
 Join Rachel in Classroom B to wax nostalgia on your previous project.
 
-### ContactManager Kickoff (1:30 - 4:00)
+### Pairing Work (1:30-3:30)
+
+Work with Alex in Classroom B on improving your pairing.
+
+### ContactManager Kickoff (3:30 - 4:00)
 
 Stick around in Classroom B as Josh Mejia drops by to kick off [ContactManager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
 
