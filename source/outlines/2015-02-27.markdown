@@ -1,0 +1,135 @@
+## All
+
+### Surveys and Posse Time (8:30 - 9:00)
+
+(Rachel will post the survey links here.)
+
+When Slack acquired ScreenHero, they shut down registrations—but existing users can still invite new users. Please invite the 1502 members in your posse. After they have registered, they can fill out the form below to have us pay for their account.
+
+* [How to invite people to ScreenHero](http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite)
+* [1502: Fill out this form once you have your account](https://docs.google.com/a/casimircreative.com/forms/d/1wJUbwB0doGgeyp9rGDt14aHtNE8nGlRueoSe_qpVRr4/viewform)
+
+### Group Retrospectives (9:00 - 10:00)
+
+* 1409: In Classroom A with Steve and Horace
+* 1410: In Classroom B with Jorge and Josh Cheek
+* 1412: In Classroom C with Rachel and Josh Mejia
+* 1502: In the Big Workspace with Jeff and Alex
+
+### Self-Study Time (10:00 - 12:00)
+
+#### Study Sessions
+
+* David is holding a DevOps seminar: learn the finer points of setting up servers and databases.
+* Joanne is stopping by to do a workshop on Paper.js in Classroom B.
+* Laura's Garden Techies group will be meeting by the kitchen table in the Big Workspace.
+* Tim will be running a session on scraping the web for fun and profit with Nokogiri.
+* Jeff is running a JavaScript study group. He'll be covering Ruby's Enumerable in JavaScript.
+* DJ will be running a session on getting the most out of iTerm and your shell.
+
+#### Pairing
+
+* The incomparable Mike Dao is available for pairing in 45 minute increments from 10:00 to noon. Let him know your time preferences and he'll work out the details with you.
+
+### One on Ones (10:00 - 12:00)
+
+##### With Jeff
+
+* 10:00: Minnie Lee
+* 10:20: Patrick Medaugh
+* 10:40: Robert M. Cornell
+* 11:00: Tess Griffin
+
+#### With Horace
+
+* 10:00: Thomas Leskin
+* 10:20: Tony DiNitto
+* 10:40: Tracy Caruso
+* 11:00: Tyler Graham
+
+#### With Alex
+
+* 10:00: Mihir Parikh
+* 10:20: Zachary Routhier
+* 10:40: Lori Culberson
+* 11:00: Victoria Harrod
+
+#### With Rachel
+
+* 10:00: Valentino Espinoza
+* 10:20: Teresa Finn
+* 10:40: DJ Greenfield
+* 11:00: Trey Tomlinson
+
+#### With Josh Mejia
+
+* 10:00: Austin Wood
+* 10:20: Edward McCarthy
+* 10:40: Michelle Golle
+* 11:00: Bryce Holcomb
+
+#### With Josh Cheek
+
+* 10:00: Konr Josef Larson
+* 10:20: Nathan Owsiany
+* 10:40: Orion Osborn
+* 11:00: Chris Luhring
+
+#### With Jorge
+
+* 10:00: Emily Berkeley
+* 10:20: Adam Smith
+* 10:40: Brandon Mrsny
+* 11:00: Bhargavi Satpathy
+
+#### With Steve
+
+* 10:00: Kate Lane
+* 10:20: Alex Jensen
+* 10:40: Tim Mee
+* 11:00: Gregory Narajka
+
+### Guest Speaker: Alex Harms (1:00 - 2:00)
+
+Our guest speaker this week will be Alex Harms, who you may have already met. Alex hails from Columbus, Ohio.
+
+* [Maitria](http://maitria.com/)
+* [Twitter](https://twitter.com/onealexharms)
+
+### Read-Write-Listen (2:00 - 3:00)
+
+#### Apply to Speak at a Conference
+
+You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
+
+Here are a few conferences with open calls for proposals:
+
+* [Madison+ Ruby][mr]
+* [GoRuCo][go]
+* [Windy City Rails][wcr]
+
+[go]: http://goruco.com/
+[mr]: http://madisonpl.us/ruby/
+[wcr]: http://www.windycityrails.org/
+
+If you read about it, please blog about it.
+
+Here is some inspiration for items to read:
+
+* Something from the most recent issue of [Ruby Weekly](http://rubyweekly.com/issues/233)
+* [Anything by Reginald Braithwaite](http://raganwald.com/#words)
+* [Introducing Sandi Metz's TRUE](http://designisrefactoring.com/2015/02/08/introducing-sandi-metz-true/)
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+
+#### Watch
+
+* [Ben Orenstein:  Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
+* [Sandi Metz:  All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
+* [Jenn Schiffer:  Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
+* [Chris Hunt: Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Michael Hartl: Enumerable for Fun and Profit](http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit)
+* [Anmol Agarwal: Fun with Ruby and Arduino](http://confreaks.tv/videos/gardencityrb2015-fun-with-ruby-and-arduino)
+
+### Lightning Talks (3:00 - 4:00)
+
+(Jorge will fill this in shortly.)
