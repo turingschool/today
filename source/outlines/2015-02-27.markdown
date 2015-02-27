@@ -1,3 +1,8 @@
+---
+title: 20150227
+layout: outline
+---
+
 ## All
 
 ### Surveys and Posse Time (8:30 - 9:00)
