@@ -117,6 +117,8 @@ Here are a few conferences with open calls for proposals:
 [mr]: http://madisonpl.us/ruby/
 [wcr]: http://www.windycityrails.org/
 
+#### Read
+
 If you read about it, please blog about it.
 
 Here is some inspiration for items to read:
