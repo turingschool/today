@@ -86,33 +86,41 @@ You'll work in the following pairs:
 #### With Jeff
 
 * 10:00: Kyle Henson
-* 10:20: Thomas Leskin
-* 10:40: Dmitry Vizersky
-* 11:00: Tess Griffin
-* 11:20: Tracy Caruso
-* 11:40: Eugene Khanutin
+* 10:30: Thomas Leskin
+* 11:00: Dmitry Vizersky
+* 11:30: Tess Griffin
 
-#### With Alex
+#### With Josh Cheek
 
 * 10:00: Tyler Graham
-* 10:20: Mihir Parikh
-* 10:40: Jamie Kawahara
-* 11:00: Kenny Chen
-* 11:20: Jack Yeh
-* 11:40: Andrew Carmer
+* 10:30: Mihir Parikh
+* 11:00: Jamie Kawahara
+* 11:30: Kenny Chen
 
 #### With Josh
 
 * 10:00: Rob Cornell
-* 10:20: Tony DiNitto
-* 10:40: Michael Merrill
-* 11:00: Patrick Medaugh
-* 11:20: Michelle Golle
-* 11:40: Chelsea Worrel
+* 10:30: Tony DiNitto
+* 11:00: Michael Merrill
+* 11:30: Patrick Medaugh
 
 #### With Jorge
 
 * 10:00: Minnie Lee
-* 10:20: Eric Dowty
-* 10:40: Kristina Brown
-* 11:00: David Daniel
+* 10:30: Eric Dowty
+* 11:00: Kristina Brown
+* 11:30: David Daniel
+
+### Event Manager Work Time and MasterMind Evaluations (1:00 - 2:30)
+
+#### With Jeff
+
+* 1:00: Tracy Caruso
+* 1:30: Eugene Khanutin
+* 2:00: Jack Yeh
+
+#### With Josh
+
+* 1:00: Andrew Carmer
+* 1:30: Michelle Golle
+* 2:00: Chelsea Worrel
