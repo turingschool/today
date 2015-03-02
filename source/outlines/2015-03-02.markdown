@@ -14,7 +14,7 @@ When Slack acquired ScreenHero, they shut down registrations—but existing user
 
 ### Lightning Talks (2:15 - 3:10)
 
-Gather in the big workspace for lightning talks. 
+Gather in the big workspace for lightning talks.
 
 * Nathan Owsiany: Ruby Microframeworks
 * Teresa Finn: Gardening & Technology
@@ -30,6 +30,8 @@ Gather in the big workspace for lightning talks.
 We'll stay in the workspace right after lightning talks to introduce the next round of electives.
 
 #### Build a Web Server with Josh Cheek
+
+The material is [here](https://github.com/turingschool/lesson_plans/tree/master/electives/building-a-webserver).
 
 In this class, we will understand the web and HTTP by building a webs erver.
 
@@ -57,7 +59,7 @@ For this elective I'd like to have no more than *eight people*.
 
 #### Using Jekyll to Create a Blog Hosted on Github Pages with Rachel
 
-Jekyll is a Ruby gem that provides a (relatively) simple way to build a blog using templates, partials, markdown, code snippets, etc. In this elective, we'll learn how to generate a Jekyll project, preview content on localhost, and use Github Pages to host and publish your blog. 
+Jekyll is a Ruby gem that provides a (relatively) simple way to build a blog using templates, partials, markdown, code snippets, etc. In this elective, we'll learn how to generate a Jekyll project, preview content on localhost, and use Github Pages to host and publish your blog.
 
 We'll treat this elective more like a workshop than a class.
 
@@ -78,7 +80,7 @@ By the end of the three weeks you should have a solid understanding of:
 
 #### Intro to Clojure ####
 
-Clojure is a Lisp implemented on top of the Java Virtual Machine. It offers some powerful tools for functional programming 
+Clojure is a Lisp implemented on top of the Java Virtual Machine. It offers some powerful tools for functional programming
 
 In the first session we'll get set up with the language, review some basic syntax, and look at some common tools. In later sessions we'll pair up and work through some exercises to get comfortable with clojure's syntax and functional approach to solving problems. Throughout the elective we'll discuss some of the history of Lisp as a family of languages and the ideas behind functional programming in general.
 
@@ -122,7 +124,7 @@ Ask your questions of the the Contact Manager himself, Josh Mejia, in Classroom 
 
 ### Database Schema Design (10:30 - 12:00)
 
-Stick around in Classroom B as Rachel drops by to talk about schema design. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
+Stick around in Classroom B as Rachel drops by to talk about schema design. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
 
 ### Sessions, Cookies, and Flashes (1:00 - 2:30)
 
