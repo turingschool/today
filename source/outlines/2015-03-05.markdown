@@ -1,0 +1,44 @@
+---
+title: 20150305
+layout: outline
+---
+
+## All
+
+## 1409
+
+### Project Work Time (9:00 - 12:00)
+
+Horace and Josh are available for questions.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace is available for interrogation.
+
+## 1410
+
+### Iteration One Check-ins and Work Time (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+Jorge is on hand your questions.
+
+## 1412
+
+### Homework Review (9:00 - 9:30)
+
+### Pushing Logic Down the Stack (9:30 - 12:00)
+
+Push that logic where it belongs with Rachel in Classroom C.
+
+### Git Workflow (1:00 - 2:30)
+
+### Work Time: Mini-Project (2:30 - 4:00)
+
+## 1502
+
+### SalesEngine Work Time (9:00 - 12:00)
+
+Horace is on hand for questions.
+
+### Cross-Cohort Code Retreat (1:00 - 4:00)
