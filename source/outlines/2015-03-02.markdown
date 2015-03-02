@@ -131,6 +131,7 @@ evaluation appointment:
 * 11:00: Kenny Chen
 * 11:20: Michael Merrill
 * 11:40: Patrick Medaugh
+* 1:00: Mihir Parikh
 
 #### With Jorge
 
@@ -146,7 +147,3 @@ evaluation appointment:
 * 11:00: Tony DiNitto
 * 11:20: Andrew Carmer
 * 11:40: Michelle Golle
-
-#### With Horace
-
-* 1:00: Mihir Parikh
