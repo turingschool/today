@@ -12,9 +12,9 @@ When Slack acquired ScreenHero, they shut down registrations—but existing user
 * [How to invite people to ScreenHero](http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite)
 * [1502: Fill out this form once you have your account](https://docs.google.com/a/casimircreative.com/forms/d/1wJUbwB0doGgeyp9rGDt14aHtNE8nGlRueoSe_qpVRr4/viewform)
 
-### Electives (2:30 - 4:00)
+### Electives (3:00 - 4:00)
 
-Let's *all* meet in the workspace at 2:30 to introduce the next round of electives.
+Let's *all* meet in the workspace at 3:00 to introduce the next round of electives.
 
 #### Build a Web Server with Josh Cheek
 
@@ -117,44 +117,33 @@ evaluation appointment:
 #### With Jeff
 
 * 10:00: Kyle Henson
-* 10:30: Thomas Leskin
-* 11:00: Dmitry Vizersky
-* 11:30: Tess Griffin
+* 10:20: Thomas Leskin
+* 10:40: Dmitry Vizersky
+* 11:00 Tess Griffin
+* 11:20: Rob Cornell
+* 11:40: Jack Yeh
 
 #### With Josh Cheek
 
 * 10:00: Tyler Graham
-* 10:30: Eric Dowty
-* 11:00: Jamie Kawahara
-* 11:30: Kenny Chen
-
-#### With Josh Mejia
-
-* 10:00: Rob Cornell
-* 10:30: Jack Yeh
-* 11:00: Michael Merrill
-* 11:30: Patrick Medaugh
+* 10:20: Eric Dowty
+* 10:40: Jamie Kawahara
+* 11:00: Kenny Chen
+* 11:20: Michael Merrill
+* 11:40: Patrick Medaugh
 
 #### With Jorge
 
 * 10:00: Minnie Lee
-* 10:30: Mihir Parikh
+* 10:20: Mihir Parikh
+* 10:40: David Daniel
 * 11:00: Kristina Brown
-* 11:30: David Daniel
+* 11:20: Tracy Caruso
+* 11:40: Eugene Khanutin
 
 #### With Alex
 
-* 11:00: Chelsea Worrel
-* 11:30: Tony DiNitto
-
-### Event Manager Work Time and MasterMind Evaluations (1:00 - 2:30)
-
-#### With Jeff
-
-* 1:00: Tracy Caruso
-* 1:30: Eugene Khanutin
-
-#### With Josh Cheek
-
-* 1:00: Andrew Carmer
-* 1:30: Michelle Golle
+* 10:40: Chelsea Worrel
+* 11:00: Tony DiNitto
+* 11:20: Andrew Carmer
+* 11:40: Michelle Golle
