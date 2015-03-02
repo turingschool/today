@@ -134,8 +134,6 @@ evaluation appointment:
 
 #### With Jorge
 
-* 10:00: Minnie Lee
-* 10:20: Mihir Parikh
 * 10:40: David Daniel
 * 11:00: Kristina Brown
 * 11:20: Tracy Caruso
@@ -143,7 +141,12 @@ evaluation appointment:
 
 #### With Alex
 
+* 10:20: Minnie Lee
 * 10:40: Chelsea Worrel
 * 11:00: Tony DiNitto
 * 11:20: Andrew Carmer
 * 11:40: Michelle Golle
+
+#### With Horace
+
+* 1:00: Mihir Parikh
