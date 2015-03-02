@@ -63,11 +63,13 @@ These are real things. Seriously. Join Josh in Classroom A.
 
 ## 1502
 
-### Event Manager Kickoff (9:00 - 10:00)
+### Event Manager Kickoff (9:00 - 9:30)
 
 Join Jeff in the Big Workspace to kick off [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
 
-You'll work in the following pairs:
+While you work today please keep in touch with the following partner to discuss
+what you're doing and ask each other questions. But you should each build your
+own implementation.
 
 * Thomas Leskin & Tracy Caruso
 * Dmitry Vizersky & Eugene Khanutin
@@ -80,3 +82,42 @@ You'll work in the following pairs:
 * David Daniel & Tyler Graham
 * Kyle Henson & Kenny Chen
 * Michael Merrill & Kristina Brown
+
+### Mastermind/Battleship Evaluations (9:30 - 2:30)
+
+Please come with your Mastermind/Battleship implementation to the following
+evaluation appointment:
+
+#### With Jeff
+
+* Dmitry Vizersky: 9:30
+* Tony DiNitto: 10:00
+* Jamie Kawahara: 10:30
+* Thomas Leskin: 11:00
+* Kyle Henson: 11:30
+* Chelsea Worrel: 1:00
+* Mihir Parikh: 1:30
+* Patrick Medaugh: 2:00
+
+#### With Josh
+
+* Eric Dowty: 9:30
+* Kenny Chen: 10:00
+* Rob Cornell: 10:30
+* Tracy Caruso: 11:00
+* Kristina Brown: 11:30
+* Michelle Golle: 1:00
+* Tess Griffin: 1:30
+* Michael Merrill: 2:00
+
+#### With Horace
+
+* Minnie Lee: 1:00
+* Jack Yeh: 1:30
+* David Daniel: 2:00
+
+#### With Rachel
+
+* Tyler Graham: 1:00
+* Andrew Carmer: 1:30
+* Eugene Khanutin: 2:00
