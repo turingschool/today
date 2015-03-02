@@ -12,7 +12,20 @@ When Slack acquired ScreenHero, they shut down registrations—but existing user
 * [How to invite people to ScreenHero](http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite)
 * [1502: Fill out this form once you have your account](https://docs.google.com/a/casimircreative.com/forms/d/1wJUbwB0doGgeyp9rGDt14aHtNE8nGlRueoSe_qpVRr4/viewform)
 
-### Electives (3:00 - 4:00)
+### Lightning Talks (2:15 - 3:10)
+
+Gather in the big workspace for lightning talks. 
+
+* Nathan Owsiany: Ruby Microframeworks
+* Teresa Finn: Gardening & Technology
+* Timothy Mee: Who Is John Backus?
+* Laura Whalin: How to Make Awesome Wireframes
+* Kate Lane: Breaking the Grid
+* DJ Greenfield: Portrait of a Language as a Young Program
+* Lydia Shafer: 3D Printing
+* Trey Tomlinson: LAME MP3
+
+### Electives (3:10 - 4:00)
 
 Let's *all* meet in the workspace at 3:00 to introduce the next round of electives.
 
