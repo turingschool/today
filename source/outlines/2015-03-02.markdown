@@ -85,7 +85,7 @@ own implementation.
 
 ### Mastermind/Battleship Evaluations (9:30 - 2:30)
 
-Please come with your Mastermind/Battleship implementation to the following
+Please come with your [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html)/[Battleship](http://tutorials.jumpstartlab.com/projects/battleship.html) implementation to the following
 evaluation appointment:
 
 #### With Jeff
