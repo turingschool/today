@@ -16,7 +16,7 @@ When Slack acquired ScreenHero, they shut down registrations—but existing user
 
 Let's *all* meet in the workspace at 2:30 to introduce the next round of electives.
 
-#### Build a web server with Josh Cheek
+#### Build a Web Server with Josh Cheek
 
 In this class, we will understand the web and HTTP by building a webs erver.
 
@@ -25,6 +25,22 @@ You will need to have familiarity with classes, methods, and string manipulation
 We will see what makes a request a GET or POST request, what headers and cookies actually are, where HTML fits into all of this, how a redirect works, etc.
 
 As usual, you'll get my flavor of TDD and design.
+
+#### Resuscitating an Open Source Project with Jeff
+
+A few years ago I wrote [a gem named Draper](https://github.com/drapergem/draper). Since then it's
+fallen into a bit of disrepair. For this three-class elective we'll try to get it
+back on track.
+
+Coming in to this elective you need to:
+
+* Understand the basics of Rails applications (1409 yes, 1410 yes, 1412 maybe)
+* Be comfortable with TDD
+* Be ready for a lot of unguided work (aka this is not a follow-along-with-what-I-tell-you kind of class)
+* Have a desire to dig into to some fucked up parts of Rails
+* Be up for writing documentation
+
+For this elective I'd like to have no more than *eight people*.
 
 ## 1409
 
