@@ -7,6 +7,8 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
+### Guest Speakers: Sarah Mei and Sam Phippen (11:00 - 12:00)
+
 ## 1409
 
 ### Improving Query Performance (9:00 - 12:00)
@@ -19,11 +21,11 @@ Horace is on hand for questions and possibly some answers.
 
 ## 1410
 
-### Understanding the Asset Pipeline (9:00 - 10:30)
+### Understanding the Asset Pipeline (9:00 - 10:00)
 
 Understand that which cannot be understood with Josh in Classroom B.
 
-### Handling Errors and Failure (10:30 - 12:00)
+### Handling Errors and Failure (10:00 - 11:00)
 
 Handle some failure with Jorge in the Big Workspace.
 
@@ -52,7 +54,7 @@ Handle some failure with Jorge in the Big Workspace.
 
 ## 1412
 
-### Authentication (9:00 - 12:00)
+### Authentication (9:00 - 11:00)
 
 Keep out unauthorized users with Rachel in Classroom C.
 
@@ -66,7 +68,7 @@ Get your jam on. Rachel is on call to answer all of your questions.
 
 Input some files; output some files; learn about Jeff, Rachel, and Steve's former bread and butter: CSVs in Classroom B.
 
-### SalesEngine Kick-Off (10:30 - 12:00)
+### SalesEngine Kick-Off (10:30 - 11:00)
 
 It's time to tackle the legendary [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
 
