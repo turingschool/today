@@ -27,7 +27,7 @@ Gather in the big workspace for lightning talks.
 
 ### Electives (3:10 - 4:00)
 
-Let's *all* meet in the workspace at 3:00 to introduce the next round of electives.
+We'll stay in the workspace right after lightning talks to introduce the next round of electives.
 
 #### Build a Web Server with Josh Cheek
 
