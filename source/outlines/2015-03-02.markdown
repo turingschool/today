@@ -59,7 +59,22 @@ For this elective I'd like to have no more than *eight people*.
 
 Jekyll is a Ruby gem that provides a (relatively) simple way to build a blog using templates, partials, markdown, code snippets, etc. In this elective, we'll learn how to generate a Jekyll project, preview content on localhost, and use Github Pages to host and publish your blog. 
 
-We'll treat this elective more like a workshop than a class. 
+We'll treat this elective more like a workshop than a class.
+
+#### ActiveRecord Golf ####
+See how efficiently you can filter data using ActiveRecord queries.
+
+Each week we will have three 'holes' (like holes on a golf course). These holes will be bits of code that are filtering data using Ruby, but can be improved by using ActiveRecord.
+
+We will use different tools and gems to measure the performance of the original code and the refactored code.
+
+We'll keep a running score that will carry across all three weeks.
+
+By the end of the three weeks you should have a solid understanding of:
+
+* `has_many :through`
+* polymorphism
+* self-referential associations
 
 ## 1409
 
