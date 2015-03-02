@@ -1,0 +1,45 @@
+---
+title: 20150304
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+## 1409
+
+### Workers at Scale (9:00 - 10:30)
+
+Join Horace in Classroom C to scale your workers.
+
+### Full Stack Integration Testing (10:30 - 12:00)
+
+It's the holy grail—you earned this. Stick around with Horace in Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+Josh Cheek is on hand for questions.
+
+## 1410
+
+### Project Work Time (9:00 - 12:00)
+
+Jorge is around for questions.
+
+### Project Work Time (1:00 - 4:00)
+
+This afternoon you'll have some time to work on your projects.
+
+## 1412
+
+### Homework Review (9:00 - 9:30)
+
+### Authorization and Privileges (9:30 - 10:30)
+
+### Authorization Live-Coding (10:30 - 12:00)
+
+### Work Time: Authorization Mini-Project (1:00 - 4:00)
+
+## 1502
+
