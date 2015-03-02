@@ -83,41 +83,41 @@ own implementation.
 * Kyle Henson & Kenny Chen
 * Michael Merrill & Kristina Brown
 
-### Mastermind/Battleship Evaluations (9:30 - 2:30)
+### Mastermind/Battleship Evaluations (10:00 - 2:30)
 
 Please come with your [Mastermind](http://tutorials.jumpstartlab.com/projects/mastermind.html)/[Battleship](http://tutorials.jumpstartlab.com/projects/battleship.html) implementation to the following
 evaluation appointment:
 
 #### With Jeff
 
-* Dmitry Vizersky: 9:30
-* Tony DiNitto: 10:00
-* Jamie Kawahara: 10:30
-* Thomas Leskin: 11:00
-* Kyle Henson: 11:30
-* Chelsea Worrel: 1:00
-* Mihir Parikh: 1:30
-* Patrick Medaugh: 2:00
+* 10:00: Kyle Henson
+* 10:20: Thomas Leskin
+* 10:40: Dmitry Vizersky
+* 11:00: Jack Yeh
+* 11:20: Tracy Caruso
+* 11:40: Eugene Khanutin
+
+#### With Alex
+
+* 10:40: Jamie Kawahara
+* 11:00: Kenny Chen
+* 11:20: Chelsea Worrel
+* 11:40: Andrew Carmer
 
 #### With Josh
 
-* Eric Dowty: 9:30
-* Kenny Chen: 10:00
-* Rob Cornell: 10:30
-* Tracy Caruso: 11:00
-* Kristina Brown: 11:30
-* Michelle Golle: 1:00
-* Tess Griffin: 1:30
-* Michael Merrill: 2:00
+* 10:00: Rob Cornell
+* 10:20: Tony DiNitto
+* 10:40: Michael Merrill
+* 11:00: Patrick Medaugh
+* 11:20: Michelle Golle
+* 11:40: Tess Griffin
 
-#### With Horace
+#### With Jorge
 
-* Minnie Lee: 1:00
-* Jack Yeh: 1:30
-* David Daniel: 2:00
-
-#### With Rachel
-
-* Tyler Graham: 1:00
-* Andrew Carmer: 1:30
-* Eugene Khanutin: 2:00
+* 10:00: Minnie Lee
+* 10:20: Eric Dowty
+* 10:40: Kristina Brown
+* 11:00: David Daniel
+* 11:20: Tyler Graham
+* 11:40: Mihir Parikh
