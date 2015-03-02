@@ -1,0 +1,85 @@
+---
+title: 20150303
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+## 1409
+
+### Improving Query Performance (9:00 - 12:00)
+
+Learn this one weird trick to improve your queries with Horace in Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Horace is on hand for questions and possibly some answers.
+
+## 1410
+
+### Understanding the Asset Pipeline (9:00 - 10:30)
+
+Understand that which cannot be understood with Josh in Classroom B.
+
+### Handling Errors and Failure (10:30 - 12:00)
+
+Handle some failure with Jorge in the Big Workspace.
+
+### Check-ins and Project Work Time (1:00 - 4:00)
+
+#### With Jorge
+
+* 1:00: Bryce Holcomb
+* 1:10: Krista A Nelson
+* 1:20: Bhargavi Satpathy
+* 1:30: Nathan Owsiany
+* 1:40: Scott Crawford
+* 1:50: Rich Shea
+* 2:00: Michael Dao
+* 2:10: Adam Smith
+* 2:20: Jeffrey Wan
+* 2:30: Emily Berkeley
+* 2:40: Orion Osborn
+* 2:50: Alexandra Robinson
+* 3:00: Konr Josef Larson
+* 3:10: Lydia Shafer
+* 3:20: Laura Whalin
+* 3:30: Chris Luhring
+* 3:40: Kit Pearson
+* 3:50: Brandon Mrsny
+
+## 1412
+
+### Authentication (9:00 - 12:00)
+
+Keep out unauthorized users with Rachel in Classroom C.
+
+### Work Time Authentication in My Jams (1:00 - 4:00)
+
+Get your jam on. Rachel is on call to answer all of your questions.
+
+## 1502
+
+### File I/O and CSVs (9:00 - 10:30)
+
+Input some files; output some files; learn about Jeff, Rachel, and Steve's former bread and butter: CSVs in Classroom B.
+
+### SalesEngine Kick-Off (10:30 - 12:00)
+
+It's time to tackle the legendary [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+
+You'll be working in the following pairs:
+
+* Dmitry Vizersky & Thomas Leskin
+* Eric Dowty & Tyler Graham
+* David Daniel & Kyle Henson
+* Minnie Lee & Jack Yeh
+* Tess Griffin & Michael Merrill
+* Eugene Khanutin & Mihir Parikh
+* Tony DiNitto & Andrew Carmer
+* Tracy Caruso & Kenny Chen
+* Chelsea Worrel & Michelle Golle
+* Jamie Kawahara & Patrick Medaugh
+* Rob Cornell & Kristina Brown
