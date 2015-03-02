@@ -16,6 +16,16 @@ When Slack acquired ScreenHero, they shut down registrations—but existing user
 
 (Instructors will put their electives here.)
 
+#### Build a web server with Josh Cheek
+
+In this class, we will understand the web and HTTP by building a webs erver.
+
+You will need to have familiarity with classes, methods, and string manipulation. You might get to work with blocks, unless I can think of an elegant way to avoid them.
+
+We will see what makes a request a GET or POST request, what headers and cookies actually are, where HTML fits into all of this, how a redirect works, etc.
+
+As usual, you'll get my flavor of TDD and design.
+
 ## 1409
 
 ### Extracting a Notification Service (9:00 - 12:00)
