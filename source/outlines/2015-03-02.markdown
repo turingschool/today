@@ -76,6 +76,13 @@ By the end of the three weeks you should have a solid understanding of:
 * polymorphism
 * self-referential associations
 
+#### Intro to Clojure ####
+
+Clojure is a Lisp implemented on top of the Java Virtual Machine. It offers some powerful tools for functional programming 
+
+In the first session we'll get set up with the language, review some basic syntax, and look at some common tools. In later sessions we'll pair up and work through some exercises to get comfortable with clojure's syntax and functional approach to solving problems. Throughout the elective we'll discuss some of the history of Lisp as a family of languages and the ideas behind functional programming in general.
+
+
 ## 1409
 
 ### Extracting a Notification Service (9:00 - 12:00)
