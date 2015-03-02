@@ -55,6 +55,12 @@ Coming in to this elective you need to:
 
 For this elective I'd like to have no more than *eight people*.
 
+#### Using Jekyll to Create a Blog Hosted on Github Pages with Rachel
+
+Jekyll is a Ruby gem that provides a (relatively) simple way to build a blog using templates, partials, markdown, code snippets, etc. In this elective, we'll learn how to generate a Jekyll project, preview content on localhost, and use Github Pages to host and publish your blog. 
+
+We'll treat this elective more like a workshop than a class. 
+
 ## 1409
 
 ### Extracting a Notification Service (9:00 - 12:00)
