@@ -1,0 +1,77 @@
+---
+title: 20150302
+layout: outline
+---
+
+## All
+
+### Posse Time (8:30 - 9:00)
+
+When Slack acquired ScreenHero, they shut down registrations—but existing users can still invite new users. Please invite the 1502 members in your posse. After they have registered, they can fill out the form below to have us pay for their account.
+
+* [How to invite people to ScreenHero](http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite)
+* [1502: Fill out this form once you have your account](https://docs.google.com/a/casimircreative.com/forms/d/1wJUbwB0doGgeyp9rGDt14aHtNE8nGlRueoSe_qpVRr4/viewform)
+
+### Electives (2:30 - 4:00)
+
+(Instructors will put their electives here.)
+
+## 1409
+
+### Extracting a Notification Service (9:00 - 12:00)
+
+This morning, you'll be working through the following tutorial on [extracting a notification service][not].
+
+Horace will kick things off in Classroom B and then be on hand for questions.
+
+[not]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
+
+### Project Work Time (1:00 - 2:30)
+
+Horace and Josh Cheek are on hand for questions.
+
+Add Steve on Screenhero. If he's online, then he's probably available for questions as well.
+
+## 1410
+
+### Getting Started with OAuth (9:00 - 10:30)
+
+Join Jorge in Classroom A to offload your authentication onto someone else.
+
+### Presenters and Decorators (10:30 - 12:00)
+
+Present and decorate with Josh in Classroom A.
+
+## 1412
+
+### Contact Manager Q&A (9:00 - 10:30)
+
+Ask your questions of the the Contact Manager himself, Josh Mejia, in Classroom C.
+
+### Database Schema Design (10:30 - 12:00)
+
+Stick around in Classroom B as Rachel drops by to talk about schema design.
+
+### Sessions, Cookies, and Flashes (1:00 - 2:30)
+
+These are real things. Seriously. Join Josh in Classroom A.
+
+## 1502
+
+### Event Manager Kickoff (9:00 - 10:00)
+
+Join Jeff in the Big Workspace to kick off [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+You'll work in the following pairs:
+
+* Thomas Leskin & Tracy Caruso
+* Dmitry Vizersky & Eugene Khanutin
+* Michelle Golle & Tess Griffin
+* Mihir Parikh & Jamie Kawahara
+* Andrew Carmer & Jack Yeh
+* Patrick Medaugh & Rob Cornell
+* Chelsea Worrel & Tony DiNitto
+* Minnie Lee & Eric Dowty
+* David Daniel & Tyler Graham
+* Kyle Henson & Kenny Chen
+* Michael Merrill & Kristina Brown
