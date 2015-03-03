@@ -66,22 +66,66 @@ Get your jam on. Rachel is on call to answer all of your questions.
 
 ### File I/O and CSVs (9:00 - 10:30)
 
-Input some files; output some files; learn about Jeff, Rachel, and Steve's former bread and butter: CSVs in Classroom B.
+Input some files; output some files; learn about Jeff, Rachel, and Steve's former bread and butter: [Files and CSVs in Classroom B](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
 
-### SalesEngine Kick-Off (10:30 - 11:00)
+### Project Kick-Off (10:30-11:00)
 
-It's time to tackle the legendary [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+#### SalesEngine
+
+If you passed Mastermind then you're ready for the legendary [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
 
 You'll be working in the following pairs:
 
-* Dmitry Vizersky & Thomas Leskin
-* Eric Dowty & Tyler Graham
-* David Daniel & Kyle Henson
-* Minnie Lee & Jack Yeh
-* Tess Griffin & Michael Merrill
-* Eugene Khanutin & Mihir Parikh
-* Tony DiNitto & Andrew Carmer
-* Tracy Caruso & Kenny Chen
-* Chelsea Worrel & Michelle Golle
-* Jamie Kawahara & Patrick Medaugh
-* Rob Cornell & Kristina Brown
+* Chelsea & Kristina
+* Tyler & Tess
+* Tony & Eric
+* Mike & Michelle
+
+Your SalesEngine is due and expected to be *complete* on Thursday, March 12th.
+
+#### Enigma
+
+Everyone else will be working on a new project, [Enigma](http://tutorials.jumpstartlab.com/projects/enigma.html).
+
+You're working solo. That's Andrew, Minnie, Jamie, Mihir, Patrick, David, Dmitry, Eugene, Kyle, Rob, Tom, Tracy,
+Jack, and Kenny.
+
+Your Enigma is due and expected to be *complete* on Monday, March 9th.
+
+### Work Time & Diagnostics
+
+This afternoon you'll dig into your projects except for your diagnostic assessment below:
+
+#### With Alex
+
+* 1:00: Eric Dowty
+* 1:30: Jamie Kawahara
+* 2:00: Kenny Chen
+* 2:30: Michael Merrill
+* 3:00: Patrick Medaugh
+
+#### With Jeff
+
+* 11:30: Tony DiNitto
+* 1:00: Minnie Lee
+* 1:30: Chelsea Worrel
+* 3:00: Michelle Golle
+* 3:30: Mihir Parikh
+
+#### With Josh Cheek
+
+* 1:00: David Daniel
+* 1:30: Kristina Brown
+* 2:00: Tracy Caruso
+* 2:30: Eugene Khanutin
+* 3:00: Tyler Graham
+* 3:30: Andrew Carmer
+
+#### With Horace
+
+* 1:00: Kyle Henson
+* 1:30: Thomas Leskin
+* 2:00: Dmitry Vizersky
+* 2:30 Tess Griffin
+* 3:00: Rob Cornell
+* 3:30: Jack Yeh
