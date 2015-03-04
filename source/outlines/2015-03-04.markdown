@@ -73,6 +73,7 @@ This afternoon complete a short project focused on authorization in Classroom C.
 
 Add the following user stories to your MyJams projects:
 
+```gherkin
 As an exisiting user
 When I visit '/songs'
 Then I should see only songs associated with my account
@@ -89,6 +90,7 @@ And I should see a flash alert saying "Not authorized."
 As an admin user
 When I visit a users profile
 Then I should see the profile information for that user
+```
 
 ## 1502
 
