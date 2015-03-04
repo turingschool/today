@@ -11,13 +11,24 @@ Get together with your posse and [solve this logic problem](http://cl.ly/0X353Q2
 
 ## 1409
 
-### Workers at Scale (9:00 - 10:30)
+### Workers at Scale (9:00 - 10:00)
 
 Join Horace in Classroom C to scale your workers.
 
-### Full Stack Integration Testing (10:30 - 12:00)
+We'll have some brief discussion based on this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown) and then work through the tutorial [here](http://tutorials.jumpstartlab.com/topics/performance/small_background_jobs.html) in the following pairs:
 
-It's the holy grail—you earned this. Stick around with Horace in Classroom C.
+* Chase van Hekken & Sam Kuhlmann
+* Travis Yoder & Timothy Mee
+* David Bayendor & Victoria Harrod
+* Gregory Narajka & Kate Lane
+* Zachary Routhier & Alex Jensen
+* Chandra Carney & Herbert Joseph
+
+### Group Ember Login BugSmash (10:00 - 12:00)
+
+Ember login can be a bit of a PITA. We can open more browser tabs at
+once with 13 of us, so let's get together and see what we can come up
+with.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -25,7 +36,11 @@ Josh Cheek is on hand for questions.
 
 ## 1410
 
-### Project Work Time (9:00 - 12:00)
+### Handling Errors and Failure (9:00 - 10:30)
+
+Handle some failure with Jorge in Classroom B.
+
+### Project Work Time (10:30 - 12:00)
 
 Jorge is around for questions.
 
@@ -69,6 +84,24 @@ with Rachel.
 If you're working on *Enigma*, this is your work time. You can use the workspace
 or the side areas of A.
 
-### Debugging Your Code (1:00-3:00)
+### Debugging Your Code -- Class Session (1:00-3:00)
 
-Join Horace in Classroom B to work on your debugging skills.
+Join Horace in Classroom B to discuss some useful techniques for debugging code.
+
+### Debugging exercise
+
+Get together with your pair in classroom B and get some practice [debugging your old friend the linked list](https://github.com/turingschool-examples/data_structures_and_algorithms/tree/master/linked_lists).
+
+Pairs:
+
+* Chelsea Worrel & Kristina Brown
+* Mihir Parikh & Dmitry Vizersky
+* David Daniel & Andrew Carmer
+* Kenny Chen & Tracy Caruso
+* Eric Dowty & Tony DiNitto
+* Thomas Leskin & Michael Merrill
+* Eugene Khanutin & Jamie Kawahara
+* Tyler Graham & Tess Griffin
+* Jack Yeh & Kyle Henson
+* Patrick Medaugh & Minnie Lee
+* Michelle Golle & Rob Cornell
