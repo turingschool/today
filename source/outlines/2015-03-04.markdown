@@ -11,13 +11,29 @@ Get together with your posse and [solve this logic problem](http://cl.ly/0X353Q2
 
 ## 1409
 
-### Workers at Scale (9:00 - 10:30)
+### Workers at Scale (9:00 - 10:00)
 
 Join Horace in Classroom C to scale your workers.
 
-### Full Stack Integration Testing (10:30 - 12:00)
+We'll have some brief discussion based on this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown) and then work through the tutorial [here](http://tutorials.jumpstartlab.com/topics/performance/small_background_jobs.html) in the following pairs:
 
-It's the holy grail—you earned this. Stick around with Horace in Classroom C.
+* Chase van Hekken & Sam Kuhlmann
+* Travis Yoder & Timothy Mee
+* David Bayendor & Victoria Harrod
+* Gregory Narajka & Kate Lane
+* Zachary Routhier & Alex Jensen
+* Chandra Carney & Herbert Joseph
+
+### Full Stack Integration Testing (10:00 - 10:30)
+
+Let's discuss full stack integration testing and how the challenges of
+testing change in an SoA environment.
+
+### Group Ember Login BugSmash (10:30 - 12:00)
+
+Ember login can be a bit of a PITA. We can open more browser tabs at
+once with 13 of us, so let's get together and see what we can come up
+with.
 
 ### Project Work Time (1:00 - 4:00)
 
