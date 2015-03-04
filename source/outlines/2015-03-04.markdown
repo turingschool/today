@@ -24,12 +24,7 @@ We'll have some brief discussion based on this [lesson plan](https://github.com/
 * Zachary Routhier & Alex Jensen
 * Chandra Carney & Herbert Joseph
 
-### Full Stack Integration Testing (10:00 - 10:30)
-
-Let's discuss full stack integration testing and how the challenges of
-testing change in an SoA environment.
-
-### Group Ember Login BugSmash (10:30 - 12:00)
+### Group Ember Login BugSmash (10:00 - 12:00)
 
 Ember login can be a bit of a PITA. We can open more browser tabs at
 once with 13 of us, so let's get together and see what we can come up
