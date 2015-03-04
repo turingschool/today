@@ -52,28 +52,36 @@ This afternoon you'll have some time to work on your projects.
 
 ### Homework Review (9:00 - 9:30)
 
+Join Rachel in Classroom B to go over your homework.
+
 ### Authorization and Privileges (9:30 - 10:30)
+
+Join Josh in Classroom B to get authorized.
 
 ### Authorization Live-Coding (10:30 - 12:00)
 
+Continue with Josh in B for the live codes.
+
 ### Work Time: Authorization Mini-Project (1:00 - 4:00)
+
+This afternoon complete a short project focused on authorization.
 
 ## 1502
 
-### Session 1: Decomposing SalesEngine (9:00-10:30)
-
-If you're working on *SalesEngine*, report to Classroom A to break down the problem
-with Rachel.
-
-If you're working on *Enigma*, this is your work time. You can use the workspace
-or the side areas of A.
-
-### Session 2: Decomposing Enigma (10:30-12:00)
+### Session 1: Decomposing Enigma (9:00-10:30)
 
 If you're working on *Enigma*, report to Classroom A to break down the problem
 with Jeff.
 
 If you're working on *SalesEngine*, this is your work time. You can use the workspace
+or the side areas of A.
+
+### Session 2: Decomposing SalesEngine (10:30-12:00)
+
+If you're working on *SalesEngine*, report to Classroom A to break down the problem
+with Rachel.
+
+If you're working on *Enigma*, this is your work time. You can use the workspace
 or the side areas of A.
 
 ### Debugging Your Code -- Class Session (1:00-3:00)
