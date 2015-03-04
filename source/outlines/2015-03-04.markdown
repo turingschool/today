@@ -40,7 +40,7 @@ Josh Cheek is on hand for questions.
 
 ### Handling Errors and Failure (9:00 - 10:30)
 
-Handle some failure with Jorge in Classroom B.
+Handle some failure with Jorge in Classroom B. Slides for the lesson are [here](https://www.dropbox.com/s/gadq54bdh8arew7/Turing%20-%20Handling%20Errors%20in%20Rails.key?dl=0).
 
 ### Project Work Time (10:30 - 12:00)
 
