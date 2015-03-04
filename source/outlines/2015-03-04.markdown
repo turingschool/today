@@ -84,7 +84,7 @@ or the side areas of A.
 ### Session 2: Decomposing SalesEngine (10:30-12:00)
 
 If you're working on *SalesEngine*, report to the workspace to break down the problem
-with Rachel.
+with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/sales_engine_decomposition.markdown). 
 
 If you're working on *Enigma*, this is your work time. You can use the workspace
 or the side areas of A.
