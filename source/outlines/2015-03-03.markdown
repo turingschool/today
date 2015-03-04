@@ -27,10 +27,6 @@ We'll read through the [tutorial here](http://tutorials.jumpstartlab.com/topics/
 
 Understand that which cannot be understood with Josh in Classroom B.
 
-### Handling Errors and Failure (10:00 - 11:00)
-
-Handle some failure with Jorge in the Big Workspace.
-
 ### Check-ins and Project Work Time (1:00 - 4:00)
 
 #### With Jorge

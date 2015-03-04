@@ -25,7 +25,11 @@ Josh Cheek is on hand for questions.
 
 ## 1410
 
-### Project Work Time (9:00 - 12:00)
+### Handling Errors and Failure (9:00 - 10:30)
+
+Handle some failure with Jorge in Classroom B.
+
+### Project Work Time (10:30 - 12:00)
 
 Jorge is around for questions.
 
