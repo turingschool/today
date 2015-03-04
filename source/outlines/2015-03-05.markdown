@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+### Warmup (8:30 - 9:00)
+
+Meet with your posses to solve [the blue and brown eyes](https://xkcd.com/blue_eyes.html) puzzle. 
+
 ## 1409
 
 ### Project Work Time (9:00 - 12:00)
@@ -29,11 +33,13 @@ Jorge is on hand your questions.
 
 ### Pushing Logic Down the Stack (9:30 - 12:00)
 
-Push that logic where it belongs with Rachel in Classroom C.
+Push that logic where it belongs with Rachel in Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html). 
 
 ### Git Workflow (1:00 - 2:30)
 
 ### Work Time: Mini-Project (2:30 - 4:00)
+
+Get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend. 
 
 ## 1502
 
