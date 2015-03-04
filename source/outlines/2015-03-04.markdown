@@ -71,6 +71,25 @@ Clone the auth-bcrypt [repo](https://github.com/turingschool-examples/auth-bcryp
 
 This afternoon complete a short project focused on authorization in Classroom C.
 
+Add the following user stories to your MyJams projects:
+
+As an exisiting user
+When I visit '/songs'
+Then I should see only songs associated with my account
+
+As an existing user
+When I visit my profile
+Then I should my profile
+
+As a non-exisiting user
+When I visit a users profile
+Then I should be redirected to the home page
+And I should see a flash alert saying "Not authorized."
+
+As an admin user
+When I visit a users profile
+Then I should see the profile information for that user
+
 ## 1502
 
 ### Session 1: Decomposing Enigma (9:00-10:30)
