@@ -40,7 +40,7 @@ Josh Cheek is on hand for questions.
 
 ### Handling Errors and Failure (9:00 - 10:30)
 
-Handle some failure with Jorge in Classroom B. Slides for the lesson are [here](https://www.dropbox.com/s/gadq54bdh8arew7/Turing%20-%20Handling%20Errors%20in%20Rails.key?dl=0).
+Handle some failure with Jorge in Classroom A. Slides for the lesson are [here](https://www.dropbox.com/s/gadq54bdh8arew7/Turing%20-%20Handling%20Errors%20in%20Rails.key?dl=0).
 
 ### Project Work Time (10:30 - 12:00)
 
@@ -72,7 +72,7 @@ This afternoon complete a short project focused on authorization.
 
 ### Session 1: Decomposing Enigma (9:00-10:30)
 
-If you're working on *Enigma*, report to Classroom A to break down the problem
+If you're working on *Enigma*, report to the workspace to break down the problem
 with Jeff.
 
 If you're working on *SalesEngine*, this is your work time. You can use the workspace
@@ -80,7 +80,7 @@ or the side areas of A.
 
 ### Session 2: Decomposing SalesEngine (10:30-12:00)
 
-If you're working on *SalesEngine*, report to Classroom A to break down the problem
+If you're working on *SalesEngine*, report to the workspace to break down the problem
 with Rachel.
 
 If you're working on *Enigma*, this is your work time. You can use the workspace
