@@ -73,14 +73,14 @@ This afternoon complete a short project focused on authorization in Classroom C.
 
 Add the following user stories to your MyJams projects:
 
-```gherkin
+```
 As an exisiting user
 When I visit '/songs'
 Then I should see only songs associated with my account
 
 As an existing user
 When I visit my profile
-Then I should my profile
+Then I should see my profile
 
 As a non-exisiting user
 When I visit a users profile
