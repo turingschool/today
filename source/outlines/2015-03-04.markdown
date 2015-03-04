@@ -7,6 +7,8 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
+Get together with your posse and [solve this logic problem](http://cl.ly/0X353Q2X2H0f).
+
 ## 1409
 
 ### Workers at Scale (9:00 - 10:30)
