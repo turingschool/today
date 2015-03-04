@@ -26,6 +26,8 @@ We'll have some brief discussion based on this [lesson plan](https://github.com/
 
 ### Group Ember Login BugSmash (10:00 - 12:00)
 
+Continue with Horace in C for the rest of the morning.
+
 Ember login can be a bit of a PITA. We can open more browser tabs at
 once with 13 of us, so let's get together and see what we can come up
 with.
@@ -88,7 +90,7 @@ or the side areas of A.
 
 Join Horace in Classroom B to discuss some useful techniques for debugging code.
 
-### Debugging exercise
+#### Debugging Exercise
 
 Get together with your pair in classroom B and get some practice [debugging your old friend the linked list](https://github.com/turingschool-examples/data_structures_and_algorithms/tree/master/linked_lists).
 
