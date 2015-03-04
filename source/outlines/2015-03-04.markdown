@@ -61,9 +61,9 @@ with Jeff.
 If you're working on *SalesEngine*, this is your work time. You can use the workspace
 or the side areas of A.
 
-### Debugging Your Code (1:00-3:00)
+### Debugging Your Code -- Class Session (1:00-3:00)
 
-Join Horace in Classroom B to work on your debugging skills.
+Join Horace in Classroom B to discuss some useful techniques for debugging code.
 
 ### Debugging exercise
 
