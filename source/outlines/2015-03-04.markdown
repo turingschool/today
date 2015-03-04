@@ -64,6 +64,9 @@ Join Josh in Classroom B to get authorized.
 
 Continue with Josh in B for the live codes.
 
+[Slides](https://www.dropbox.com/s/8rtbyt0o1m446mo/Authorization%20and%20Privileges.key?dl=0)
+Clone the auth-bcrypt [repo](https://github.com/turingschool-examples/auth-bcrypt) and checkout the `authorization-start` branch.
+
 ### Work Time: Authorization Mini-Project (1:00 - 4:00)
 
 This afternoon complete a short project focused on authorization.
