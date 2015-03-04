@@ -64,3 +64,21 @@ or the side areas of A.
 ### Debugging Your Code (1:00-3:00)
 
 Join Horace in Classroom B to work on your debugging skills.
+
+### Debugging exercise
+
+Get together with your pair in classroom B and get some practice [debugging your old friend the linked list](https://github.com/turingschool-examples/data_structures_and_algorithms/tree/master/linked_lists).
+
+Pairs:
+
+* Chelsea Worrel & Kristina Brown
+* Mihir Parikh & Dmitry Vizersky
+* David Daniel & Andrew Carmer
+* Kenny Chen & Tracy Caruso
+* Eric Dowty & Tony DiNitto
+* Thomas Leskin & Michael Merrill
+* Eugene Khanutin & Jamie Kawahara
+* Tyler Graham & Tess Griffin
+* Jack Yeh & Kyle Henson
+* Patrick Medaugh & Minnie Lee
+* Michelle Golle & Rob Cornell
