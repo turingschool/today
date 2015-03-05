@@ -7,7 +7,7 @@ layout: outline
 
 ### Warmup (8:30 - 9:00)
 
-Meet with your posse to solve [the blue and brown eyes](https://xkcd.com/blue_eyes.html) puzzle. 
+Meet with your posse to solve [the blue and brown eyes](https://xkcd.com/blue_eyes.html) puzzle.
 
 ## 1409
 
@@ -33,18 +33,25 @@ Jorge is on hand your questions.
 
 ### Pushing Logic Down the Stack (9:30 - 12:00)
 
-Push that logic where it belongs with Rachel in Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html). 
+Push that logic where it belongs with Rachel in Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Git Workflow (1:00 - 2:30)
 
 ### Work Time: Mini-Project (2:30 - 4:00)
 
-Get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend. 
+Get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend.
 
 ## 1502
 
-### SalesEngine Work Time (9:00 - 12:00)
+### Measuring Test Coverage (9:00 - 10:00)
 
-Horace is on hand for questions.
+First up, meet with Jeff in Classroom B to experiment with the test coverage tool
+SimpleCov.
 
-### Cross-Cohort Code Retreat (1:00 - 4:00)
+### Cross-Cohort Code Retreat (10:00 - 11:00)
+
+Get to the workspace where we'll do two hours of code retreat with the 1412 cohort.
+
+### Project Work Time (1:00 - 4:00)
+
+Then this afternoon it's back to project work. Horace and Josh are on hand for questions.
