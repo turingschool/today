@@ -57,6 +57,9 @@ Continue with Rachel in Classroom B. You'll get started on [IdeaBox in Rails](ht
 First up, meet with Jeff in Classroom B to experiment with the test coverage tool
 SimpleCov.
 
+* [SimpleCov Documentation](https://github.com/colszowka/simplecov)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/measuring_improving_test_coverage.markdown)
+
 ### Cross-Cohort Code Retreat (10:00 - 11:00)
 
 Get to the workspace where we'll do two hours of code retreat with the 1412 cohort.
