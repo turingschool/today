@@ -28,6 +28,7 @@ layout: outline
 * Tim will be running a session on scraping the web for fun and profit with Nokogiri.
 * Jeff is running a JavaScript study group. He'll be covering Ruby's Enumerable in JavaScript.
 * DJ will be running a session on getting the most out of iTerm and your shell.
+* Konr will be running a session on blogging with Ghost.
 
 #### Pairing
 
