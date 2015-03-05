@@ -49,9 +49,21 @@ Jorge is on hand for your questions in the big workspace.
 
 ## 1412
 
-### Homework Review (9:00 - 10:00)
+### Homework Review (9:00 - 9:30)
 
 Join Josh Mejia in Classroom C to review your homework from yesterday.
+
+### MiniProject Kick-Off (9:30 - 10:00)
+
+* Trey Tomlinson & Dustin Gault
+* Markus Olsen & Stanley Siudzinski
+* Teresa Finn & Jeffrey Gu 
+* Austin Wood & Kyra Steenbock
+* Fred Block & DJ Greenfield & Miriam Moser
+* Edward McCarthy & Charles Valentino Espinoza
+* Lori Culberson & Paul Grever
+
+Stick around in Classroom C where Rachel will kick off a tiny project. You'll get started on one of the [Rails MiniProjects](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will finish over the weekend.
 
 ### Cross-Cohort Code Retreat (10:00 - 11:00)
 
@@ -76,7 +88,7 @@ Have one person in your pair fork the [gitastrophy](https://github.com/turingsch
 
 ### Work Time: Mini-Project (2:30 - 4:00)
 
-Continue with Rachel in Classroom B. You'll get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend.
+Continue working with your pair on the Rails MiniProject.
 
 ## 1502
 
