@@ -20,7 +20,7 @@ Horace and Josh are available for questions.
 
 ### Project Work Time (1:00 - 4:00)
 
-Horace is available for interrogation.
+Horace is available for interrogation in the work space.
 
 ## 1410
 
@@ -30,7 +30,7 @@ Please work in Classroom A and the surrounding work spaces.
 
 ### Project Work Time (1:00 - 4:00)
 
-Jorge is on hand your questions.
+Jorge is on hand for your questions in the big workspace.
 
 ## 1412
 
@@ -44,9 +44,11 @@ Get to the big workspace where we'll do two hours of code retreat with the 1502 
 
 ### Git Workflow (1:00 - 2:30)
 
+Meet with Josh Mejia in Classroom B to revisit Git.
+
 ### Work Time: Mini-Project (2:30 - 4:00)
 
-Get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend.
+Continue with Rachel in Classroom B. You'll get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend.
 
 ## 1502
 
@@ -61,4 +63,4 @@ Get to the workspace where we'll do two hours of code retreat with the 1412 coho
 
 ### Project Work Time (1:00 - 4:00)
 
-Then this afternoon it's back to project work. Horace and Josh are on hand for questions.
+Then this afternoon it's back to project work. Horace and Josh are on hand for questions in the big workspace.
