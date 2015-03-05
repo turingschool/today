@@ -42,7 +42,7 @@ Join Josh Mejia in Classroom C to review your homework from yesterday.
 
 Get to the big workspace where we'll do two hours of code retreat with the 1502 cohort.
 
-Have a fresh clone of [the code retreat repo](https://github.com/turingschool/code_retreat) ready.
+We're going to use [Challenge 2 of the BubbleSort Challenge](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown).
 
 ### Git Workflow (1:00 - 2:30)
 
@@ -76,7 +76,7 @@ SimpleCov.
 
 Get to the workspace where we'll do two hours of code retreat with the 1412 cohort.
 
-Have a fresh clone of [the code retreat repo](https://github.com/turingschool/code_retreat) ready.
+We're going to use [Challenge 2 of the BubbleSort Challenge](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown).
 
 ### Project Work Time (1:00 - 4:00)
 
