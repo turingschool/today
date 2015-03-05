@@ -46,6 +46,16 @@ Get to the big workspace where we'll do two hours of code retreat with the 1502 
 
 Meet with Josh Mejia in Classroom B to revisit Git.
 
+Have one person in your pair fork the [gitastrophy](https://github.com/turingschool-examples/gitastrophy) repo.
+
+* Stanley Siudzinski & Edward McCarthy
+* Austin Wood & Miriam Moser
+* Kyra Weber & Lori Culberson
+* Fred Block & DJ Greenfield
+* Jeffrey Gu & Trey Tomlinson
+* Paul Grever & Markus Olsen 
+* Charles Valentino Espinoza & Teresa Finn
+
 ### Work Time: Mini-Project (2:30 - 4:00)
 
 Continue with Rachel in Classroom B. You'll get started on [IdeaBox in Rails](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) which you will continue working on over the weekend.
