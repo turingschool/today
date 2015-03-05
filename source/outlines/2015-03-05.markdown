@@ -65,13 +65,14 @@ Meet with Josh Mejia in Classroom B to revisit Git.
 
 Have one person in your pair fork the [gitastrophy](https://github.com/turingschool-examples/gitastrophy) repo.
 
-* Stanley Siudzinski & Edward McCarthy
-* Austin Wood & Miriam Moser
-* Kyra Weber & Lori Culberson
-* Fred Block & DJ Greenfield
-* Jeffrey Gu & Trey Tomlinson
-* Paul Grever & Markus Olsen
-* Charles Valentino Espinoza & Teresa Finn
+* Paul Grever & Trey Tomlinson
+* Markus Olsen & DJ Greenfield
+* Miriam Moser & Stanley Siudzinski
+* Jeffrey Gu & Dustin Gault
+* Austin Wood & Edward McCarthy
+* Fred Block & Kyra Steenbock
+* Teresa Finn & Charles Valentino Espinoza
+* Lori Culberson
 
 ### Work Time: Mini-Project (2:30 - 4:00)
 
