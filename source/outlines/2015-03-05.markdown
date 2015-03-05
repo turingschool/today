@@ -11,16 +11,31 @@ Meet with your posse to solve [the blue and brown eyes](https://xkcd.com/blue_ey
 
 ## 1409
 
-### Project Work Time (9:00 - 12:00)
+### Big Group Checkin (9:00)
+
+Let's meet briefly in Classroom A to take a pulse on these ember beasts and see where people are at.
+
+### Project Work Time and Pairing Sessions (9:30 - 12:00)
+
+We'll have work time all day today. In addition, Horace would like to spend some longer chunks of time with each group to assess progress and try to troubleshoot sticky issues.
+
+__9:30 - 10:45__: Timothy Mee & Gregory Narajka & Chase van Hekken
+
+__10:45 - 12:00__: Zachary Routhier & Herbert Joseph & Victoria Harrod
 
 For the first hour you can use Classroom A, the A workspace, and the big workspace.
+
 From 10-12 you can use Classroom A, the A workspace, and Classroom B.
 
-Horace and Josh are available for questions.
+Josh will be available for questions.
 
 ### Project Work Time (1:00 - 4:00)
 
-Horace is available for interrogation in the work space.
+__1:00 - 2:15__: David Bayendor & Kate Lane & Alex Jensen
+
+__2:15 - 3:30__: Sam Kuhlmann & Chandra Carney & Travis Yoder
+
+Classroom A should be available for working. Possibly also C.
 
 ## 1410
 
@@ -50,13 +65,14 @@ Meet with Josh Mejia in Classroom B to revisit Git.
 
 Have one person in your pair fork the [gitastrophy](https://github.com/turingschool-examples/gitastrophy) repo.
 
-* Stanley Siudzinski & Edward McCarthy
-* Austin Wood & Miriam Moser
-* Kyra Weber & Lori Culberson
-* Fred Block & DJ Greenfield
-* Jeffrey Gu & Trey Tomlinson
-* Paul Grever & Markus Olsen
-* Charles Valentino Espinoza & Teresa Finn
+* Paul Grever & Trey Tomlinson
+* Markus Olsen & DJ Greenfield
+* Miriam Moser & Stanley Siudzinski
+* Jeffrey Gu & Dustin Gault
+* Austin Wood & Edward McCarthy
+* Fred Block & Kyra Steenbock
+* Teresa Finn & Charles Valentino Espinoza
+* Lori Culberson
 
 ### Work Time: Mini-Project (2:30 - 4:00)
 
@@ -80,4 +96,4 @@ We're going to use [Challenge 2 of the BubbleSort Challenge](https://github.com/
 
 ### Project Work Time (1:00 - 4:00)
 
-Then this afternoon it's back to project work. Horace and Josh are on hand for questions in the big workspace.
+Then this afternoon it's back to project work. Josh is on hand for questions in the big workspace.
