@@ -63,6 +63,7 @@ from our second Denver class who went to work at thoughtbot in SF.
 * 10:40: DJ Greenfield
 * 11:00: Trey Tomlinson
 * 11:20: Gregory Narajka
+* 11:40: Kate Lane
 
 #### With Josh Mejia
 
@@ -83,10 +84,11 @@ from our second Denver class who went to work at thoughtbot in SF.
 #### With Jorge
 
 * 10:00: Emily Berkeley
-* 10:20: Adam Smith
-* 10:40: Brandon Mrsny
-* 11:00: Bhargavi Satpathy
-* 11:20: Kate Lane
+* 10:20: Laura Whalin
+* 10:40: Kit Pearson
+* 11:00: Brandon Mrsny
+* 11:20: Adam Smith
+* 11:40: Bhargavi Satpathy
 
 ### Guest Speaker: Alex Payne (1:00 - 2:00)
 
@@ -106,4 +108,11 @@ Alex is visiting us from Portland while Steve is out in Portland. Alex was an en
 
 ### Lightning Talks (3:00 - 4:00)
 
-(Jorge will fill this in shortly.)
+Let's meet at the Big Workspace for an afternoon full of lightning (:zap:).
+
+* Kate Lane - Breaking the Grid
+* Kit Pearson - The Indie Web
+* Teresa Finn - Gardening & Technology
+* Herbert Joseph - Working with APIs
+* Austin Wood - How to Homebrew
+* Scott Crawford - The Power of Positive Thinking
