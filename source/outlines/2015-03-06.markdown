@@ -90,7 +90,7 @@ from our second Denver class who went to work at thoughtbot in SF.
 
 ### Guest Speaker: Alex Payne (1:00 - 2:00)
 
-Alex is visiting us from Portland while Steve is out in Portland. Alex was an engineer at [Twitter][], the CTO of [Simple][], mentored at [Hacker School][js] in New York City, and worked with the [Department of Better Technology][dbt].
+Alex is visiting us from Portland while Steve is out in Portland. Alex was an engineer at [Twitter][], the CTO of [Simple][], mentored at [Hacker School][hs] in New York City, and worked with the [Department of Better Technology][dbt].
 
 [Twitter]: http://twitter.com/
 [Simple]: https://www.simple.com/
