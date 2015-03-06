@@ -12,12 +12,14 @@ layout: outline
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/1Ey7A1ka3cuZoxZcbyWAx3c7CUyxzdCfCUVFOq0bh00Y/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1xzLnfkL9QlhhrkTGdIADRWMiR9T3hFnIbCYyptbrj4c/viewform)
 
-### Group Retrospectives (9:00 - 10:00)
+### Guest: Simon Taranto (9:00 - 10:00)
 
-* 1409: In Classroom A with Horace
-* 1410: In Classroom B with Jorge and Josh Cheek
-* 1412: In Classroom C with Rachel and Josh Mejia
-* 1502: In the Big Workspace with Jeff and Alex
+We're going to start the day off with a visit from Simon Taranto, an alumnus
+from our second Denver class who went to work at thoughtbot in SF.
+
+* [GitHub](https://github.com/srt32)
+* [Twitter](https://twitter.com/simontaranto)
+* [LinkedIn](https://www.linkedin.com/in/simontaranto)
 
 ### Self-Study Time (10:00 - 12:00)
 
@@ -95,41 +97,12 @@ Alex is visiting us from Portland while Steve is out in Portland. Alex was an en
 [dbt]: http://dobt.co/
 [hs]: https://www.hackerschool.com/
 
-### Read-Write-Listen (2:00 - 3:00)
+### Group Retrospectives (2:00 - 3:00)
 
-#### Apply to Speak at a Conference
-
-You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
-
-Here are a few conferences with open calls for proposals:
-
-* [Madison+ Ruby][mr]
-* [GoRuCo][go]
-* [Windy City Rails][wcr]
-
-[go]: http://goruco.com/
-[mr]: http://madisonpl.us/ruby/
-[wcr]: http://www.windycityrails.org/
-
-#### Read
-
-If you read about it, please blog about it.
-
-Here is some inspiration for items to read:
-
-* Something from the most recent issue of [Ruby Weekly](http://rubyweekly.com/issues/233)
-* [Anything by Reginald Braithwaite](http://raganwald.com/#words)
-* [Introducing Sandi Metz's TRUE](http://designisrefactoring.com/2015/02/08/introducing-sandi-metz-true/)
-* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
-
-#### Watch
-
-* [Ben Orenstein:  Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
-* [Sandi Metz:  All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
-* [Jenn Schiffer:  Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
-* [Chris Hunt: Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
-* [Michael Hartl: Enumerable for Fun and Profit](http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit)
-* [Anmol Agarwal: Fun with Ruby and Arduino](http://confreaks.tv/videos/gardencityrb2015-fun-with-ruby-and-arduino)
+* 1409: In Classroom A with Horace & Raissa
+* 1410: In Classroom B with Jorge and Josh Cheek
+* 1412: In Classroom C with Rachel and Josh Mejia
+* 1502: In the Big Workspace with Jeff and Alex
 
 ### Lightning Talks (3:00 - 4:00)
 
