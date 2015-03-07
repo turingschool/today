@@ -94,9 +94,25 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 
 ### Refactoring Patterns (9:00 - 12:00)
 
+Either:
+
 Red - Green - Refactor! Refactoring is one of the most important steps
 to creating quality software. Join (Jeff/Horace TBD: WHO??) in Classroom
 B to talk about some common approaches.
+
+Or:
+
+[Object Model 2](https://github.com/JoshCheek/ruby-object-model)
+with Josh Cheek.
+Solve problems using solutions you've never been taught.
+Understand code that uses patterns you've never heard of.
+This is how Ruby works. All the complexity you see boils down
+to a few relationships.
+
+![Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
+
+Object Model 2 will recap Object Model 1 and build on it to
+show you how modules and singleton classes work.
 
 ### Project Work Time (1:00 - 2:30)
 
