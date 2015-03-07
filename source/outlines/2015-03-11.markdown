@@ -3,6 +3,22 @@ title: 20150311
 layout: outline
 ---
 
+<!--- Classroom Usage
+A
+9 to 10:30:1412
+10:30 to 12:00:1412
+
+B
+9 to 12:1410
+
+C
+9 to 10:30:1409
+10:30 to 12:00:1409
+
+WS
+
+-->
+
 ## All
 
 ### Warm Up (8:30 - 8:50)
@@ -11,10 +27,57 @@ TBD WARMUP GOES HERE
 
 ## 1409
 
+### Pub/Sub on the Server (9:00 - 10:30)
+
+Pub/Sub is an architectural pattern useful for building real-time web
+apps. Join Steve in Classroom C to talk about the server-side
+implications of pubsub.
+
+### Pub/Sub on the Client (10:30 - 12:00)
+
+Now let's jump over to the Client side and see what this looks like.
+Stick with Steve in Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+Keep working on those community projects.
+
+(Steve TBD -- anything else that should go here?)
+
 ## 1410
+
+### Consuming APIs (9:00 - 12:00)
+
+Public or Semi-Public APIs are ubiquitous on the web these days -- if
+your startup isn't platform-atized via it's sweet REST API, what are you
+even doing with your life? Join Jorge in Classroom B to talk about
+accessing the wonderful world of APIs.
+
+### Project Work Time (1:00 - 4:00)
+
+Your individual projects miss you. Get back to work on
+tinder-for-beekeepers or whatever it is you are doing.
 
 ## 1412
 
+### Pushing Logic Down the Stack (9:00 - 10:30)
+
+Join Rachel in Classroom A to talk about keeping complicated logic out
+of your views and controllers.
+
+### Rails Views Tips & Tricks (10:30 - 12:00)
+
+Stay with Rachel in Classroom A to talk about some sweet tactics for
+tidying up your rails views and making them look oh so rad.
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Don your hairnets and latex gloves -- Order up!
+
 ## 1502
 
+### (Jeff TBD -- what's going on this morning) (9:00 - 12:00)
 
+### Work Time
+
+Sales Engine for everyone!
