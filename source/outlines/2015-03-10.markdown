@@ -2,20 +2,92 @@
 title: 20150310
 layout: outline
 ---
+<!--- Classroom Usage
+A
+9 to 12: 1409
+
+B
+9 to 1030: 1410
+
+C
+9 to 1030:1412
+10:30 to 12:1412
+
+WS
+Code reviews, checkins, work time etc.
+
+-->
 
 ## All
 
 ### Warm Up (8:30 - 8:50)
 
-TBD WARMUP GOES HERE
+(Steve TBD WARMUP GOES HERE)
 
 ## 1409
 
+### Ruby Object Model Revisited (9:00 - 12:00)
+
+You thought ruby had forsaken you, but it is not the case. Join Josh in
+Classroom A for a blast-from-the-past with some Ruby Object Model
+discussion.
+
+### (Steve TBD) (1:00 - 4:00)
+
 ## 1410
+
+### Building an API (9:00 - 10:30)
+
+WebServers are good for more than just serving HTML pages. Discuss APIs
+with Jorge in Classroom B.
+
+### Securing an API with authorization (10:30 - 12:00)
+
+And our APIs wouldn't be so great if anyone could just waltz in and snag
+the data. Stick with Jorge in Classroom B to talk about securing APIs
+
+### Project Check-Ins and Work Time (1:00 - 3:00)
+
+Meet with Jorge to evaluate your product progress and Josh M to
+evaluate your code. (Josh/Jorge TBD - set times)
 
 ## 1412
 
+### Routing in Rails (9:00 - 10:30)
+
+How do those nonsensical web urls translate into request routing anyway?
+Join Josh M. in Classroom C to discuss routing in rails.
+
+### Factory Girl (10:30 - 12)
+
+Factory Girl is a tool for generating test data programmatically. Let's
+learn how it works with Rachel in Classroom C
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Rachel is on hand to answer questions.
+
 ## 1502
 
+### SalesEngine Check-Ins / Code Reviews (9:00 to 12:00)
 
+Meet with Steve to go over your sales engine progress and get some code
+review.
 
+(Jeff/Steve TBD is this actually happening? If so what is the schedule?)
+
+### Enigma Work Time (1:00 to 4:00)
+
+If you aren't doing sales engine, use this time to put the finishing
+touches on your Enigmas.
+
+### Enigma Evals (1:00 to 4:00)
+
+Did our intrepid heroes crack the code and foil those Nazi U-Boats? All
+hands on deck as we go through your enigma projects and find out.
+
+(Jeff/Steve TBD Schedule for this)
+
+### Sales Engine Work Time (1:00 to 4:00)
+
+If you aren't doing enigma, keep on chugging.
