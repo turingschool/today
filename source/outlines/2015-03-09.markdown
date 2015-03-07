@@ -3,6 +3,21 @@ title: 20150309
 layout: outline
 ---
 
+<!--- Classroom Usage
+
+-- A --
+9 - 10 -- 1410
+10 - 12 -- 1410
+1 - 2:30 -- 1410
+
+-- B --
+1 - 2:30 1409
+
+-- C --
+9 - 10 -- 1412
+1 - 2:30 -- 1412
+-->
+
 ## All
 
 ### Warm Up (8:30 - 8:50)
@@ -88,3 +103,7 @@ B to talk about some common approaches.
 
 Let's finish up those Enigmas. Josh Cheek will be available for
 questions.
+
+### Electives (2:30 - 4:00)
+
+Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
