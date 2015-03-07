@@ -3,6 +3,22 @@ title: 20150312
 layout: outline
 ---
 
+<!--- Classroom Usage
+A
+
+B
+9 to 1030: 1409
+
+C
+9 to 1030:1412
+10:30 to 12:1412
+1 to 4:1502
+
+WS
+Code reviews, checkins, work time etc.
+
+-->
+
 ## All
 
 ### Warm Up (8:30 - 8:50)
@@ -11,9 +27,56 @@ TBD WARMUP GOES HERE
 
 ## 1409
 
+### Building a Real-Time Application with Ember (9:00 to 10:30)
+
+Join Steve in Classroom B to talk about ember and real-time apps.
+
+(Steve TBD -- anything for 10:30 - 12 and 1:00 - 4:00?)
+
 ## 1410
+
+### Individual Project I2 Checkins and Work Time (9:00 - 12:00)
+
+Meet with Jorge to see how your individual projects are progressing.
+
+(Jorge TBD -- Schedule for this)
+
+### Individual Project Work Time (9:00 - 12:00)
+
+Coming into the home-stretch on your turing snapstagrams. Let's finish
+the week strong with some muchos productive work time.
 
 ## 1412
 
+### Intro to the Asset Pipeline (9:00 - 10:30)
+
+The Asset Manager we love to hate and hate to love. But underneath its
+crusty exterior it's just a loveable little teddy bear. Join Rachel in
+Classroom C to find out why.
+
+### Transactions, Callbacks, and Scopes -- OH MY (10:30 - 12:00)
+
+Join 3-time ActiveRecord Golf Masters Champion Josh Mejia in Classroom C to talk about some more advanced features of
+active record.
+
+### Dinner Dash Checkins and Work Time (1:00 - 4:00)
+
+Work on your projects and meet with Josh and Rachel to assess your
+progress.
+
+(TBD Josh M/Rachel add schedule for this)
+
 ## 1502
 
+### Sales Engine Evaluations (9:00 - 12:00)
+
+Exemplars of Ecommerce or Retail Riffraff -- let's find out what these
+Sales Engines are made of. Meet with Jeff to go over your project.
+
+(Jeff TBD add schedule for this)
+(Jeff TBD what do non-sales enginers do during this time)
+
+### Rtanque Battle Dojo (1:00 - 4:00)
+
+What's an Rtanque anway? Join Jeff in Classroom C to find out about
+ruby's hottest tank simulator.
