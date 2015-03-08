@@ -19,23 +19,20 @@ C
 
 ## All
 
-### Warm Up (8:30 - 8:50)
+### Posse Meeting Time (8:30 - 8:50)
 
-TBD WARMUP GOES HERE
+Schedule peer sessions with each other (can you each pair with one another this week?); reach out to mentors; update each other on your projects.
 
 ## 1409
 
-### Feed Engine Evals / Ember Therapy Sessions (9:00 - 12:00)
+### Feed Engine Code Review and Project Evaluation (9:00 - 12:00)
 
 The time has come. Let's show Steve what we've got.
 
-__9:00 - 9:45__: Timothy Mee & Gregory Narajka & Chase van Hekken
-
-__9:45 - 10:30__: Zachary Routhier & Herbert Joseph & Victoria Harrod
-
-__10:30 - 11:15__: David Bayendor & Kate Lane & Alex Jensen
-
-__11:15 - 12:00__: Sam Kuhlmann & Chandra Carney & Travis Yoder
+* __9:00 - 9:45__: Timothy Mee & Gregory Narajka & Chase van Hekken
+* __9:45 - 10:30__: Zachary Routhier & Herbert Joseph & Victoria Harrod
+* __10:30 - 11:15__: David Bayendor & Kate Lane & Alex Jensen
+* __11:15 - 12:00__: Sam Kuhlmann & Chandra Carney & Travis Yoder
 
 ### Community Project Kickoff and Work time (1:00 - 2:30)
 
