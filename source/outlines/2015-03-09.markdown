@@ -69,15 +69,34 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 
 Do you have what it takes to join the elite company of Burrito Bombers,
 Crossroads Lodge, etc. etc.? Join Rachel in Classroom C to kick off your
-first rails project.
+first big rails project.
 
 ### Mini-Project Individual Reviews (10:00 - 12:00)
 
 Meet with Josh and Rachel in the Workspace to check out your
 mini-projects.
 
-(Josh/Rachel TBD Times go here)
+With Josh:
 
+* 10:00 Trey Tomlinson 
+* 10:15 Edward McCarthy
+* 10:30 Dustin Gault
+* 10:45 Jeffrey Gu
+* 11:00 Austin Wood
+* 11:15 Markus Olsen
+* 11:30 Lori Culberson 
+
+With Rachel:
+
+* 10:00 Stanley Siudzinski
+* 10:15 Teresa Finn
+* 10:30 Kyra Steenbock
+* 10:45 DJ Greenfield
+* 11:00 Fred Block
+* 11:15 Charles Valentino Espinoza
+* 11:30 Paul Grever
+* 11:45 Miriam Moser
+ 
 ### Cart and Order Life Cycles (1:00 - 2:30)
 
 Ecommerce sites tend to struggle if users can't actually buy stuff. Join
@@ -90,14 +109,6 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 ## 1502
 
 ### Refactoring Patterns (9:00 - 12:00)
-
-Either:
-
-Red - Green - Refactor! Refactoring is one of the most important steps
-to creating quality software. Join (Jeff/Horace TBD: WHO??) in Classroom
-B to talk about some common approaches.
-
-Or:
 
 [Object Model 2](https://github.com/JoshCheek/ruby-object-model)
 with Josh Cheek.
