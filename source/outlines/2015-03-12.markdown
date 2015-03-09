@@ -23,8 +23,8 @@ Code reviews, checkins, work time etc.
 
 ### Warm Up (8:30 - 8:50)
 
-TBD WARMUP GOES HERE
-
+Continue working on the [Blue Hawaii](http://www.puzzlenode.com/puzzles/7-blue-hawaii) puzzle.
+ 
 ## 1409
 
 ### Building a Real-Time Application with Ember (9:00 to 10:30)
