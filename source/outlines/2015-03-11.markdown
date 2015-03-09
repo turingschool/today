@@ -76,7 +76,18 @@ Don your hairnets and latex gloves -- Order up!
 
 ## 1502
 
-### (Jeff TBD -- what's going on this morning) (9:00 - 12:00)
+### [Object Model 2](https://github.com/JoshCheek/ruby-object-model)
+
+with Josh Cheek.
+Solve problems using solutions you've never been taught.
+Understand code that uses patterns you've never heard of.
+This is how Ruby works. All the complexity you see boils down
+to a few relationships.
+
+![Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
+
+Object Model 2 will recap Object Model 1 and build on it to
+show you how modules and singleton classes work.
 
 ### Work Time
 
