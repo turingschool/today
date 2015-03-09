@@ -84,6 +84,10 @@ Rachel will be on hand for questions.
 Ecommerce sites tend to struggle if users can't actually buy stuff. Join
 Josh in Classroom C to talk about what makes the order cycle go round.
 
+### Homework
+
+What is a gemset? Why would you use one? Can you create and use one for your Dinner Dash project? 
+
 ### Electives (2:30 - 4:00)
 
 Clojure and Webservers and [Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) and Draper and ActiveRecord, Oh My!
