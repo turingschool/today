@@ -49,15 +49,11 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 JSON is ubiquitous on the web these days. Let's join Josh M. in
 Classroom A to learn how it works.
 
-### AJAX with Jquery (10:00 - 12:00)
+### Weekly Iteration (10:00 - 12:00)
 
-AJAX is one of the key building blocks of modern web experiences. Let's
-check it out with Jorge in Classroom A.
+All aboard the ActiveRecord refactor tractor! Join Josh M in Classroom A.
 
-### Weekly Iteration (1:00 - 2:30)
-
-Don't hate, iterate. Join Jorge in Classroom A for some weekly iteration
-practice.
+### Project Worktime (1:00 - 2:30)
 
 ### Electives (2:30 - 4:00)
 
@@ -65,7 +61,7 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 
 ## 1412
 
-### Dinner Dash Kickoff (9:00 - 10:00)
+### Dinner Dash Kickoff (9:00 - 9:30)
 
 Do you have what it takes to join the elite company of Burrito Bombers,
 Crossroads Lodge, etc. etc.? Join Rachel in Classroom C to kick off your
@@ -79,29 +75,8 @@ first big rails project.
 
 ### Mini-Project Individual Reviews (10:00 - 12:00)
 
-Meet with Josh and Rachel in the Workspace to check out your
+Meet with Rachel in the Workspace to check out your
 mini-projects.
-
-With Josh:
-
-* 10:00 Trey Tomlinson
-* 10:15 Edward McCarthy
-* 10:30 Dustin Gault
-* 10:45 Jeffrey Gu
-* 11:00 Austin Wood
-* 11:15 Markus Olsen
-* 11:30 Lori Culberson
-
-With Rachel:
-
-* 10:00 Stanley Siudzinski
-* 10:15 Teresa Finn
-* 10:30 Kyra Steenbock
-* 10:45 DJ Greenfield
-* 11:00 Fred Block
-* 11:15 Charles Valentino Espinoza
-* 11:30 Paul Grever
-* 11:45 Miriam Moser
 
 ### Cart and Order Life Cycles (1:00 - 2:30)
 
