@@ -120,6 +120,8 @@ Red - Green - Refactor! Refactoring is one of the most important steps
 to creating quality software. Join Josh Cheek in Classroom
 B to go through some common situations and solutions.
 
+https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_part_two.markdown
+
 ### Project Work Time (1:00 - 2:30)
 
 Let's finish up those Enigmas. Josh Cheek will be available for
