@@ -40,7 +40,7 @@ Time to give back to Turing. Join Steve in Classroom B to kick off the Community
 
 ### Electives (2:30 - 4:00)
 
-Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
+Clojure and Webservers and [Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) and Draper and ActiveRecord, Oh My!
 
 ## 1410
 
@@ -57,7 +57,7 @@ All aboard the ActiveRecord refactor tractor! Join Josh M in Classroom A.
 
 ### Electives (2:30 - 4:00)
 
-Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
+Clojure and Webservers and [Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) and Draper and ActiveRecord, Oh My!
 
 ## 1412
 
@@ -65,7 +65,7 @@ Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
 
 Do you have what it takes to join the elite company of Burrito Bombers,
 Crossroads Lodge, etc. etc.? Join Rachel in Classroom C to kick off your
-first big rails project.
+[first big Rails project](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
 
 * Edward McCarthy & Markus Olsen & Kyra Steenbock
 * Dustin Gault & Stanley Siudzinski & Trey Tomlinson
@@ -73,10 +73,11 @@ first big rails project.
 * Teresa Finn & Miriam Moser & Austin Wood
 * Paul Grever & Jeffrey Gu & Lori Culberson
 
-### Mini-Project Individual Reviews (10:00 - 12:00)
+### Dinner Dash Worktime (9:30 - 12:00)
 
-Meet with Rachel in the Workspace to check out your
-mini-projects.
+Read through the [Dinner Dash assignment](http://tutorials.jumpstartlab.com/projects/dinner_dash.html), create a repository on Github, and start creating issues on [waffle.io](https://waffle.io/). 
+
+Rachel will be on hand for questions. 
 
 ### Cart and Order Life Cycles (1:00 - 2:30)
 
@@ -85,7 +86,7 @@ Josh in Classroom C to talk about what makes the order cycle go round.
 
 ### Electives (2:30 - 4:00)
 
-Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
+Clojure and Webservers and [Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) and Draper and ActiveRecord, Oh My!
 
 ## 1502
 
@@ -104,4 +105,4 @@ questions.
 
 ### Electives (2:30 - 4:00)
 
-Clojure and Webservers and Jekyll and Draper and ActiveRecord, Oh My!
+Clojure and Webservers and [Jekyll](https://github.com/turingschool/lesson_plans/blob/master/electives/jekyll-blog-github-pages/pushing-project-to-gh-pages.markdown) and Draper and ActiveRecord, Oh My!
