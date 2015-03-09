@@ -22,7 +22,23 @@ Code reviews, checkins, work time etc.
 
 ### Warm Up (8:30 - 8:50)
 
-(Steve TBD WARMUP GOES HERE)
+With your posse, TDD the following based on a problem from [rubyquiz.com](http://rubyquiz.com/). 
+
+Create a spam filter that accepts a list of any number of banned words and functions like this:
+
+filter = SpamFilter.new("vim", "tdd")
+
+filter.clean?("Vim is the best text editor.") # => false
+
+filter.clean?("TDD is dead.") # => false (check for case-insensitivity)
+
+filter.clean?("Richard.") # => true
+
+filter.clean_count # => 1
+
+filter.clean?("JavaScript needs semicolons.") # => true
+
+filter.clean_count # => 2
 
 ## 1409
 
