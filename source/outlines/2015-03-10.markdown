@@ -88,11 +88,9 @@ Join Josh M. in Classroom C to discuss routing in rails.
 ### Factory Girl (10:30 - 12)
 
 Factory Girl is a tool for generating test data programmatically. Let's
-learn how it works with Rachel in Classroom C
+learn how it works with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/factory_girl.markdown). 
 
 ### Dinner Dash Work Time (1:00 - 4:00)
-
-Rachel is on hand to answer questions.
 
 ## 1502
 
