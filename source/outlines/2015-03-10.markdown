@@ -26,7 +26,7 @@ With your posse, TDD the following based on a problem from [rubyquiz.com](http:/
 
 Create a spam filter that accepts a list of any number of banned words and functions like this:
 
-```rb
+<code><pre>
 filter = SpamFilter.new("vim", "tdd")
 
 filter.clean?("Vim is the best text editor.") # => false
@@ -40,7 +40,7 @@ filter.clean_count # => 1
 filter.clean?("JavaScript needs semicolons.") # => true
 
 filter.clean_count # => 2
-```
+</pre></code>
 
 ## 1409
 
