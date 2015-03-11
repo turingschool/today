@@ -60,8 +60,8 @@ tinder-for-beekeepers or whatever it is you are doing.
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
-Join Rachel in Classroom A to talk about keeping complicated logic out
-of your views and controllers.
+Join Jeff in Classroom A to [talk about keeping complicated logic out
+of your views and controllers](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Rails Views Tips & Tricks (10:30 - 12:00)
 
@@ -87,6 +87,12 @@ to a few relationships.
 Object Model 2 will recap Object Model 1 and build on it to
 show you how modules and singleton classes work.
 
+### Decomposing SalesEngine (1:00 - 2:30)
+
+If you just started SalesEngine yesterday, then join Rachel in Classroom C
+to discuss a strategy for breaking the problem down into manageable components.
+
 ### Work Time
 
-Sales Engine for everyone!
+If you're not in the Decomposing Sales Engine session then you're in the final
+push to get your project done.
