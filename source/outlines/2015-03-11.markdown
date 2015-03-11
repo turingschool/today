@@ -96,7 +96,7 @@ show you how modules and singleton classes work.
 ### Decomposing SalesEngine (1:00 - 2:30)
 
 If you just started SalesEngine yesterday, then join Rachel in Classroom C
-to discuss a strategy for breaking the problem down into manageable components.
+to discuss a strategy for breaking the problem down into manageable components. Want to look at the outline? Click [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/sales_engine_decomposition.markdown). 
 
 ### Work Time
 
