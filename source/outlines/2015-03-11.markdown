@@ -60,7 +60,7 @@ tinder-for-beekeepers or whatever it is you are doing.
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
-Join Jeff in Classroom A to [talk about keeping complicated logic out
+Join Jeff in the workspace to [talk about keeping complicated logic out
 of your views and controllers](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Rails Views Tips & Tricks (10:30 - 12:00)
@@ -76,7 +76,7 @@ Don your hairnets and latex gloves -- Order up!
 
 ### [Object Model 2](https://github.com/JoshCheek/ruby-object-model)
 
-with Josh Cheek.
+with Josh Cheek in Classroom A.
 Solve problems using solutions you've never been taught.
 Understand code that uses patterns you've never heard of.
 This is how Ruby works. All the complexity you see boils down
