@@ -31,12 +31,18 @@ With your posse, start working on the [Blue Hawaii](http://www.puzzlenode.com/pu
 
 Pub/Sub is an architectural pattern useful for building real-time web
 apps. Join Steve in Classroom C to talk about the server-side
-implications of pubsub.
+implications of pub/sub.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [Slacker](https://github.com/turingschool-examples/slacker)
 
 ### Pub/Sub on the Client (10:30 - 12:00)
 
-Now let's jump over to the Client side and see what this looks like.
+Now let's jump over to the client-side and see what this looks like.
 Stick with Steve in Classroom C.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_in_the_browser.markdown)
+* [Slacker Web](https://github.com/turingschool-examples/slacker-web)
 
 ### Project Work Time (1:00 - 4:00)
 
