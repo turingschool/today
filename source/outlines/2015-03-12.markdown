@@ -24,14 +24,18 @@ Code reviews, checkins, work time etc.
 ### Warm Up (8:30 - 8:50)
 
 Continue working on the [Blue Hawaii](http://www.puzzlenode.com/puzzles/7-blue-hawaii) puzzle.
- 
+
 ## 1409
 
-### Building a Real-Time Application with Ember (9:00 to 10:30)
+### Project Check-ins and Work Time (9:00 to 12:00)
 
-Join Steve in Classroom B to talk about ember and real-time apps.
+* 9:00: Big Brother
+* 9:30: Skill Inventory
+* 10:00: Scavenger Hunter
 
-(Steve TBD -- anything for 10:30 - 12 and 1:00 - 4:00?)
+### Project Work Time (1:00 - 4:00)
+
+Josh Cheek is on hand for questions.
 
 ## 1410
 
@@ -39,30 +43,42 @@ Join Steve in Classroom B to talk about ember and real-time apps.
 
 Meet with Jorge to see how your individual projects are progressing.
 
-(Jorge TBD -- Schedule for this)
+* 9:00: Orion Osborn
+* 9:10: Michael Dao
+* 9:20: Kit Pearson
+* 9:30: Jeffrey Wan
+* 9:40: Konr Josef Larson
+* 9:50: Rich Shea
+* 10:00: Brandon Mrsny
+* 10:10: Emily Berkeley
+* 10:20: Adam Smith
+* 10:30: Chris Luhring
+* 10:40: Bhargavi Satpathy
+* 10:50: Bryce Holcomb
+* 11:00: Laura Whalin
+* 11:10: Lydia Shafer
+* 11:20: Nathan Owsiany
+* 11:30: Krista A Nelson
+* 11:40: Alexandra Robinson
+* 11:50: Scott Crawford
 
 ### Individual Project Work Time (9:00 - 12:00)
 
-Coming into the home-stretch on your turing snapstagrams. Let's finish
-the week strong with some muchos productive work time.
+Keep self-directing yourselves on your projects.
 
 ## 1412
 
 ### Intro to the Asset Pipeline (9:00 - 10:30)
 
-The Asset Manager we love to hate and hate to love. But underneath its
-crusty exterior it's just a loveable little teddy bear. Join Rachel in
-Classroom C to find out why.
+Join Rachel in Classroom C to unwrap the mysteries of the Asset Pipeline.
 
-### Transactions, Callbacks, and Scopes -- OH MY (10:30 - 12:00)
+### Transactions, Callbacks, and Scopes (10:30 - 12:00)
 
-Join 3-time ActiveRecord Golf Masters Champion Josh Mejia in Classroom C to talk about some more advanced features of
-active record.
+Join 3-time ActiveRecord Golf Masters Champion Josh Mejia in Classroom C to talk about some more advanced features of active record.
 
 ### Dinner Dash Checkins and Work Time (1:00 - 4:00)
 
-Work on your projects and meet with Josh and Rachel to assess your
-progress.
+Work on your projects and meet with Josh and Rachel to assess your progress.
 
 (TBD Josh M/Rachel add schedule for this)
 
@@ -70,13 +86,8 @@ progress.
 
 ### Sales Engine Evaluations (9:00 - 12:00)
 
-Exemplars of Ecommerce or Retail Riffraff -- let's find out what these
-Sales Engines are made of. Meet with Jeff to go over your project.
-
-(Jeff TBD add schedule for this)
-(Jeff TBD what do non-sales enginers do during this time)
+Exemplars of e-commerce—let's find out what these Sales Engines are made of. Meet with Jeff to go over your project.
 
 ### Rtanque Battle Dojo (1:00 - 4:00)
 
-What's an Rtanque anway? Join Jeff in Classroom C to find out about
-ruby's hottest tank simulator.
+What's an Rtanque anyway? Join Jeff in Classroom C to find out about Ruby's hottest tank simulator.
