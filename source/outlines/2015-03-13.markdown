@@ -3,7 +3,21 @@ title: 20150313
 layout: outline
 ---
 
-### Read-Write-Listen (2:00 - 3:00)
+## All
+
+### Group Retrospectives (9:00 - 10:00)
+
+* 1409 in Classroom A with Steve and Raissa.
+* 1410 in Classroom B with Jorge and Josh Mejia.
+* 1412 in the Big Workspace with Rachel and Josh Cheek.
+* 1502 in Classroom C with Jeff and Daisha.
+
+### Self-Study (10:00 - 11:00)
+
+#### Study Sessions
+
+* Zach and the Jeffs will be running a session on algorithms and advanced mathematics.
+* Mike Dao will be running pairing sessions in 30 minutes intervals.
 
 #### Apply to Speak at a Conference
 
@@ -14,27 +28,19 @@ Here are a few conferences with open calls for proposals:
 * [Madison+ Ruby][mr]
 * [GoRuCo][go]
 * [Windy City Rails][wcr]
+* [Burlington Ruby][br]
 
 [go]: http://goruco.com/
 [mr]: http://madisonpl.us/ruby/
 [wcr]: http://www.windycityrails.org/
+[br]: http://www.burlingtonrubyconference.com
 
-#### Read
+### Guest Speakers: Johanna & Lauren from NREL (11:00 - 12:00)
 
-If you read about it, please blog about it.
+Let's meet in the Big Workspace to chat with Johanna and Lauren from the [National Renewable Energy Laboratory](http://www.nrel.gov).
 
-Here is some inspiration for items to read:
+### Guest Speaker: Marty Haught
 
-* Something from the most recent issue of [Ruby Weekly](http://rubyweekly.com/issues/233)
-* [Anything by Reginald Braithwaite](http://raganwald.com/#words)
-* [Introducing Sandi Metz's TRUE](http://designisrefactoring.com/2015/02/08/introducing-sandi-metz-true/)
-* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+Marty is a software developer at Haught Codeworks, organizer at Boulder Ruby, and director at Ruby Central.
 
-#### Watch
-
-* [Ben Orenstein:  Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
-* [Sandi Metz:  All the Small Things](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things)
-* [Jenn Schiffer:  Sorting Algorithms](https://www.youtube.com/watch?v=uRyqlhjXYQI)
-* [Chris Hunt: Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
-* [Michael Hartl: Enumerable for Fun and Profit](http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit)
-* [Anmol Agarwal: Fun with Ruby and Arduino](http://confreaks.tv/videos/gardencityrb2015-fun-with-ruby-and-arduino)
+* [Twitter](https://twitter.com/mghaught)
