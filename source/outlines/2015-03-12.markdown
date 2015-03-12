@@ -5,9 +5,12 @@ layout: outline
 
 <!--- Classroom Usage
 A
+11 to 12: 1502
+1 to 230: 1502
 
 B
 9 to 1030: 1409
+1 to 130: 1412
 
 C
 9 to 1030:1412
@@ -76,6 +79,10 @@ Join Rachel in Classroom C to unwrap the mysteries of the Asset Pipeline.
 
 Join 3-time ActiveRecord Golf Masters Champion Josh Mejia in Classroom C to talk about some more advanced features of active record.
 
+### Pushing Logic Down the Stack Redux (1:00 - 2:00)
+
+Let's take [another stab at this in Classroom B](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
+
 ### Dinner Dash Checkins and Work Time (1:00 - 4:00)
 
 Work on your projects and meet with Josh and Rachel to assess your progress.
@@ -110,7 +117,7 @@ After evals let's meet in Classroom A to kickoff Robodoku.
 ### All: SE Knowledge Transfer (1:00 - 2:30)
 
 This afternoon we'll do a bit a group programming to share knowledge about
-SalesEngine.
+SalesEngine. Meet up in Classroom A.
 
 ### Independent Work Time (2:30 - 4:00)
 
