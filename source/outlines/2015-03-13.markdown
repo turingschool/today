@@ -5,6 +5,13 @@ layout: outline
 
 ## All
 
+### Surveys (8:30 - 9:00)
+
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1_lSssq3wxqepdadUMAiA4rszq5uwbovhCXyOPlFiumQ/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1WApANeICfrb7CROvhXlCgnt5c_NrOfO7kz1X9FbJdRA/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1bwPZi9uhyFEjhT0vHRc2SiEBXXiui-LIcM9VM0BflB4/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1QNHlQCIxn97BKEbX2L-q0ZndlkZzsbnY76saHrgRtIc/viewform)
+
 ### Group Retrospectives (9:00 - 10:00)
 
 * 1409 in Classroom A with Steve and Raissa.
