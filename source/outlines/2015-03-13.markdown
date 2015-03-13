@@ -22,7 +22,6 @@ Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing br
 
 * Zach and the Jeffs will be running a session on algorithms and advanced mathematics.
 * DJ is running a session on lightning talks.
-* Kate is running a session on design.
 
 #### Pairings
 
@@ -35,6 +34,7 @@ The following students are available for pairing: DM on Slack them with your tim
 * Sam
 * Alex
 * Mike Dao
+* Kate (especially design)
 
 #### Apply to Speak at a Conference
 
