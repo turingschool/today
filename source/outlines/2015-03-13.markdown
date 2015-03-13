@@ -5,7 +5,11 @@ layout: outline
 
 ## All
 
-### Surveys (8:30 - 9:00)
+### Surveys and Breakfast (8:30 - 9:00)
+
+Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing breakfast.
+
+**Made up rule**: You don't breakfast unless you fill out a survey. You think that's unenforceable, but Rachel and Steve are crazy.
 
 * [1409](https://docs.google.com/a/casimircreative.com/forms/d/1_lSssq3wxqepdadUMAiA4rszq5uwbovhCXyOPlFiumQ/viewform)
 * [1410](https://docs.google.com/a/casimircreative.com/forms/d/1WApANeICfrb7CROvhXlCgnt5c_NrOfO7kz1X9FbJdRA/viewform)
@@ -24,7 +28,9 @@ layout: outline
 #### Study Sessions
 
 * Zach and the Jeffs will be running a session on algorithms and advanced mathematics.
-* Mike Dao will be running pairing sessions in 30 minutes intervals.
+* DJ is running a session on lightning talks.
+
+#### Pairings
 
 #### Apply to Speak at a Conference
 
