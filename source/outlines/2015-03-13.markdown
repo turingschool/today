@@ -32,6 +32,17 @@ Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing br
 
 #### Pairings
 
+The following students are available for pairing: DM on Slack them with your time preferences.
+
+* Greg
+* Travis
+* Kate
+* Tim
+* Chase
+* Sam
+* Alex
+* Mike Dao
+
 #### Apply to Speak at a Conference
 
 You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
