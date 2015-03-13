@@ -126,4 +126,10 @@ Marty is a software developer at Haught Codeworks, organizer at Boulder Ruby, an
 
 ### Lightning Talks (3:00 - 4:00)
 
-(Jorge will fill this in—we promise.)
+Let's all meet in the Big Workspace.
+
+* Dustin Gault - Introduction to Medical Technology
+* Edward McCarthy - Anonymous and Tech
+* Lori Culberson - Randy Pauch
+* Rich Shea - Implantable Technologies
+* Orion Osborn - Technology and the Future of Employment
