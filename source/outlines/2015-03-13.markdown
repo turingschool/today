@@ -22,6 +22,7 @@ Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing br
 
 * Zach and the Jeffs will be running a session on algorithms and advanced mathematics.
 * DJ is running a session on lightning talks.
+* Kate is running a session on design.
 
 #### Pairings
 
@@ -29,7 +30,6 @@ The following students are available for pairing: DM on Slack them with your tim
 
 * Greg
 * Travis
-* Kate
 * Tim
 * Chase
 * Sam
@@ -68,7 +68,7 @@ Here are a few conferences with open calls for proposals:
 * 9:20:  Alexandra Robinson
 * 9:40:  Jeffrey Wan
 * 10:00: Kit Pearson
-* 10:20: Michael Dao
+* 10:20:  Dmitry Vizersky
 
 #### With Josh Mejia
 
@@ -88,9 +88,9 @@ Here are a few conferences with open calls for proposals:
 #### With Jeff
 
 * 9:00:  David Daniel
-* 9:20:  Dmitry Vizersky
-* 9:40:  Fumei Kenny Chen
-* 10:00: Jamie Kawahara
+* 9:20:  Fumei Kenny Chen
+* 9:40: Jamie Kawahara
+* 10:00: Michael Dao
 
 #### With Josh Cheek
 
