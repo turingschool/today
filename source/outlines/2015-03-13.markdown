@@ -16,14 +16,7 @@ Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing br
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/1bwPZi9uhyFEjhT0vHRc2SiEBXXiui-LIcM9VM0BflB4/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1QNHlQCIxn97BKEbX2L-q0ZndlkZzsbnY76saHrgRtIc/viewform)
 
-### Group Retrospectives (9:00 - 10:00)
-
-* 1409 in Classroom A with Steve and Raissa.
-* 1410 in Classroom B with Jorge and Josh Mejia.
-* 1412 in the Big Workspace with Rachel and Josh Cheek.
-* 1502 in Classroom C with Jeff and Daisha.
-
-### Self-Study (10:00 - 11:00)
+### Self-Study (9:00 - 11:00)
 
 #### Study Sessions
 
@@ -59,12 +52,78 @@ Here are a few conferences with open calls for proposals:
 [wcr]: http://www.windycityrails.org/
 [br]: http://www.burlingtonrubyconference.com
 
+### One-on-Ones (9:00 - 11:00)
+
+#### With Steve
+
+* 9:00:  Travis Yoder
+* 9:20:  David Bayendor
+* 9:40:  Chandra Carney
+* 10:00: Sam Kuhlmann
+* 10:20: Herbert Joseph
+
+#### With Jorge
+
+* 9:00:  Laura Whalin
+* 9:20:  Alexandra Robinson
+* 9:40:  Jeffrey Wan
+* 10:00: Kit Pearson
+* 10:20: Michael Dao
+
+#### With Josh Mejia
+
+* 9:00:  Rich Shea
+* 9:20:  Lydia Shafer
+* 9:40:  Miriam Moser
+* 10:00: Kyra Steenbock
+* 10:20: Jeffrey Gu
+
+#### With Rachel
+
+* 9:00:  Paul Grever
+* 9:20:  Markus Olsen
+* 9:40:  Fred Block
+* 10:00: Chelsea Worrel
+
+#### With Jeff
+
+* 9:00:  David Daniel
+* 9:20:  Dmitry Vizersky
+* 9:40:  Fumei Kenny Chen
+* 10:00: Jamie Kawahara
+
+#### With Josh Cheek
+
+* 9:00:  Eugene Khanutin
+* 9:20:  Eric Dowty
+* 9:40:  Stanley Siudzinski
+* 10:00: Andrew Carmer
+* 10:20: Chase van Hekken
+
+#### With Daisha
+
+* 9:00:  Kristina Brown
+* 9:20:  Michael Merrill
+* 9:40:  Scott Crawford
+* 10:00: Krista A Nelson
+
 ### Guest Speakers: Johanna & Lauren from NREL (11:00 - 12:00)
 
 Let's meet in the Big Workspace to chat with Johanna and Lauren from the [National Renewable Energy Laboratory](http://www.nrel.gov).
 
-### Guest Speaker: Marty Haught
+### Guest Speaker: Marty Haught (1:00 - 2:00)
 
 Marty is a software developer at Haught Codeworks, organizer at Boulder Ruby, and director at Ruby Central.
 
 * [Twitter](https://twitter.com/mghaught)
+
+### Group Retrospectives (2:00 - 3:00)
+
+* 1409 in Classroom A with Steve and Raissa.
+* 1410 in Classroom B with Jorge and Josh Mejia.
+* 1412 in the Big Workspace with Rachel and Josh Cheek.
+* 1502 in Classroom C with Jeff and Daisha.
+
+### Lightning Talks (3:00 - 4:00)
+
+(Jorge will fill this in—we promise.)
