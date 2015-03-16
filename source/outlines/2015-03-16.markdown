@@ -27,13 +27,13 @@ Only a few days left. Let's ship some code.
 
 ## 1410
 
-### Task Automation with Rake (9:00 - 10:30)
+### Testing an Internal API (9:00 - 10:30)
 
-Automate some tasks with Jorge in Classroom C.
+Learn how to test your own APIs with Jorge in Classroom C.
 
-### AJAX with jQuery (10:30 - 12:00)
+### Testing an External API (10:30 - 12:00)
 
-If Jorge tells you in Classroom C that you can omit semi-colons. Please ignore him. Steve taught your better than that.
+Learn how to test a service object that consumes an API, and dust your VCR rewinders, in Classroom C. 
 
 ## 1412
 
