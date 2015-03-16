@@ -97,6 +97,9 @@ not doing assessments (as listed below).
 
 ### Assessments (1:00 - 2:30)
 
+* Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+* When you start your assessment you should already have implemented the *score* functionality
+
 #### With Jeff
 
 * 1:00 - 1:30: Eugene Khanutin
