@@ -13,6 +13,11 @@ Meet up with your posses. Can you find time to pair with each other? Any advice 
 
 Same bat time; same bat locations.
 
+#### Active Record Challenges
+
+* Josh Mejia is out today—he advises that you finish working through your ActiveRecord golf challenges on Storedom.
+* If you finish—[take a look at Arel](http://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html), the SQL manager for Ruby.
+
 ## 1409
 
 ### Advanced Queries and Relationships with Arel and ActiveRecord (9:00 - 12:00)
