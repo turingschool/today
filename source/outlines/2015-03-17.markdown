@@ -56,16 +56,16 @@ layout: outline
 
 #### With Jeff
 
-Jack Yeh
-Thomas Leskin
-Andrew Carmer
-Chelsea Worrel
-Tyler Graham
+* Jack Yeh
+* Thomas Leskin
+* Andrew Carmer
+* Chelsea Worrel
+* Tyler Graham
 
 #### With Josh Cheek
 
-Michael Merrill
-Patrick Medaugh
-Tony DiNitto
-Tracy Caruso
-Kenny Chen
+* Michael Merrill
+* Patrick Medaugh
+* Tony DiNitto
+* Tracy Caruso
+* Kenny Chen

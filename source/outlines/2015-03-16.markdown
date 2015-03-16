@@ -13,11 +13,19 @@ Meet up with your posses. Can you find time to pair with each other? Any advice 
 
 Same bat time; same bat locations.
 
+If you're in the webserver class, be sure to show up in the big room!
+We're going to finish the server today and get it hosting a Sinatra application!
+All the material is at https://github.com/turingschool/lesson_plans/blob/66b7e98ac20d850a8530f36996a836c8a5654483/electives/building-a-webserver/Day3.md
+And if you're interested in learning more about blocks, be sure to check out the block challenges I made for you over at
+http://104.131.24.233/blocks/new-kids-on-the-block (they could use an eye for editing... if that's you, then submit pull requests to https://github.com/JoshCheek/block_challenges)
+
 ## 1409
 
 ### Advanced Queries and Relationships with Arel and ActiveRecord (9:00 - 12:00)
 
 Join some tables; make some queries. You're in the big leagues now with Horace in Classroom B.
+
+We'll be working through this lesson on advanced active record queries: [https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown).
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -27,13 +35,13 @@ Only a few days left. Let's ship some code.
 
 ## 1410
 
-### Task Automation with Rake (9:00 - 10:30)
+### Testing an Internal API (9:00 - 10:30)
 
-Automate some tasks with Jorge in Classroom C.
+Learn how to test your own APIs with Jorge in Classroom C.
 
-### AJAX with jQuery (10:30 - 12:00)
+### Testing an External API (10:30 - 12:00)
 
-If Jorge tells you in Classroom C that you can omit semi-colons. Please ignore him. Steve taught your better than that.
+Learn how to test a service object that consumes an API, and dust your VCR rewinders, in Classroom C.
 
 ## 1412
 
@@ -64,7 +72,48 @@ Rachel is on hand for questions and possibly some answers.
 
 ## 1502
 
-### Evaluations (1:00 - 2:30)
+### Ruby in Ruby (9:00 - 10:30)
+
+Join Jeff in the Workspace this morning to explore implementing [basic Ruby
+methods in Ruby](https://github.com/turingschool/challenges/blob/master/ruby_in_ruby.markdown).
+
+#### Pairing Set 1
+
+* Minnie Lee & Tony DiNitto
+* Chelsea Worrel & Rob Cornell
+* Kyle Henson & Kristina Brown
+* Kenny Chen & Tracy Caruso
+* Tyler Graham & Andrew Carmer
+* Mihir Parikh & Patrick Medaugh
+* Eric Dowty & Jack Yeh
+* Michelle Golle & David Daniel
+* Thomas Leskin & Dmitry Vizersky
+* Jamie Kawahara & Tess Griffin
+* Eugene Khanutin & Michael Merrill
+
+#### Pairing Set 2
+
+* Mihir Parikh & Patrick Medaugh
+* Chelsea Worrel & Kristina Brown
+* Tony DiNitto & Michelle Golle
+* Thomas Leskin & Eugene Khanutin
+* Dmitry Vizersky & Kenny Chen
+* Rob Cornell & Tess Griffin
+* Andrew Carmer & Tracy Caruso
+* Eric Dowty & David Daniel
+* Michael Merrill & Kyle Henson
+* Tyler Graham & Jamie Kawahara
+* Jack Yeh & Minnie Lee
+
+### Project Work Time (10:30 - 2:30)
+
+From 10:30 until electives, you have time to work on your projects when you're
+not doing assessments (as listed below).
+
+### Assessments (1:00 - 2:30)
+
+* Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+* When you start your assessment you should already have implemented the *score* functionality
 
 #### With Jeff
 
