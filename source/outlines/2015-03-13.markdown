@@ -22,6 +22,7 @@ Our thanks to Chandra (1409), Mike (1502), and Michelle (1502) for organizing br
 
 * Zach and the Jeffs will be running a session on algorithms and advanced mathematics.
 * DJ is running a session on lightning talks.
+* Kate is running an informal session on CSS—bring your questions.
 
 #### Pairings
 
@@ -126,4 +127,14 @@ Marty is a software developer at Haught Codeworks, organizer at Boulder Ruby, an
 
 ### Lightning Talks (3:00 - 4:00)
 
+<<<<<<< HEAD
 (Jorge will fill this in—we promise.)
+=======
+Let's all meet in the Big Workspace.
+
+* Dustin Gault - Introduction to Medical Technology
+* Edward McCarthy - Anonymous and Tech
+* Lori Culberson - Randy Pauch
+* Rich Shea - Implantable Technologies
+* Orion Osborn - Technology and the Future of Employment
+>>>>>>> b7d6bda1400ae1aa41d2aa9c09cd5b9558266798
