@@ -25,6 +25,8 @@ http://104.131.24.233/blocks/new-kids-on-the-block (they could use an eye for ed
 
 Join some tables; make some queries. You're in the big leagues now with Horace in Classroom B.
 
+We'll be working through this lesson on advanced active record queries: [https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown).
+
 ### Project Work Time (1:00 - 4:00)
 
 Only a few days left. Let's ship some code.
