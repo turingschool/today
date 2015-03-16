@@ -62,6 +62,34 @@ Rachel is on hand for questions and possibly some answers.
 Join Jeff in the Workspace this morning to explore implementing [basic Ruby
 methods in Ruby](https://github.com/turingschool/challenges/blob/master/ruby_in_ruby.markdown).
 
+#### Pairing Set 1
+
+* Minnie Lee & Tony DiNitto
+* Chelsea Worrel & Rob Cornell
+* Kyle Henson & Kristina Brown
+* Kenny Chen & Tracy Caruso
+* Tyler Graham & Andrew Carmer
+* Mihir Parikh & Patrick Medaugh
+* Eric Dowty & Jack Yeh
+* Michelle Golle & David Daniel
+* Thomas Leskin & Dmitry Vizersky
+* Jamie Kawahara & Tess Griffin
+* Eugene Khanutin & Michael Merrill
+
+#### Pairing Set 2
+
+* Mihir Parikh & Patrick Medaugh
+* Chelsea Worrel & Kristina Brown
+* Tony DiNitto & Michelle Golle
+* Thomas Leskin & Eugene Khanutin
+* Dmitry Vizersky & Kenny Chen
+* Rob Cornell & Tess Griffin
+* Andrew Carmer & Tracy Caruso
+* Eric Dowty & David Daniel
+* Michael Merrill & Kyle Henson
+* Tyler Graham & Jamie Kawahara
+* Jack Yeh & Minnie Lee
+
 ### Project Work Time (10:30 - 2:30)
 
 From 10:30 until electives, you have time to work on your projects when you're
