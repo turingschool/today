@@ -41,6 +41,19 @@ If Jorge tells you in Classroom C that you can omit semi-colons. Please ignore h
 
 Join Steve in Classroom A to talk about the world's most popular programming language.
 
+#### Resources
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+* [Jumpstart Lab JavaScript Resources](http://tutorials.jumpstartlab.com/projects/javascript/)
+* [JavaScript for Cats](http://jsforcats.com)
+
+#### Examples
+
+* [Three.js](http://threejs.org)
+* [p5.js](http://p5js.org)
+
+
+
 ### Dinner Dash Work Time (10:00 - 12:00)
 
 Dash some dinners. Rachel is on hand for questions.
