@@ -13,6 +13,12 @@ Meet up with your posses. Can you find time to pair with each other? Any advice 
 
 Same bat time; same bat locations.
 
+If you're in the webserver class, be sure to show up in the big room!
+We're going to finish the server today and get it hosting a Sinatra application!
+All the material is at https://github.com/turingschool/lesson_plans/blob/66b7e98ac20d850a8530f36996a836c8a5654483/electives/building-a-webserver/Day3.md
+And if you're interested in learning more about blocks, be sure to check out the block challenges I made for you over at
+http://104.131.24.233/blocks/new-kids-on-the-block (they could use an eye for editing... if that's you, then submit pull requests to https://github.com/JoshCheek/block_challenges)
+
 #### Active Record Challenges
 
 * Josh Mejia is out today—he advises that you finish working through your ActiveRecord golf challenges on Storedom.
