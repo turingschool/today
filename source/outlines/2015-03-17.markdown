@@ -67,7 +67,7 @@ Do some relationship building with Josh Mejia in Classroom C.
 
 Part two of Steve’s two-part series on the world’s most popular programming language.
 
-### Dinner Dash Work Time (9:00 - 12:00)
+### Dinner Dash Work Time (10:00 - 12:00)
 
 48 hours left. No pressure.
 
@@ -103,3 +103,11 @@ Calculate some revenue; solve some sudokus.
 * Tony DiNitto
 * Tracy Caruso
 * Kenny Chen
+
+### Cross Project Pairing Time (1:00 - 2:30)
+
+(Coming soon...)
+
+### Project Work Time (2:30 - 4:00)
+
+Take the knowledge from your pairings and bring them back to your group.
