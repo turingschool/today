@@ -67,6 +67,8 @@ Do some relationship building with Josh Mejia in Classroom C.
 
 Part two of Steve’s two-part series on the world’s most popular programming language.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+
 ### Dinner Dash Work Time (10:00 - 12:00)
 
 48 hours left. No pressure.
