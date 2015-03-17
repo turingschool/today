@@ -104,10 +104,21 @@ Calculate some revenue; solve some sudokus.
 * Tracy Caruso
 * Kenny Chen
 
-### Cross Project Pairing Time (1:00 - 2:30)
+### Cross Project Pairing Time (1:00 - 4:00)
 
-(Coming soon...)
+This afternoon you need to get together with the person listed below and
+pair. The first hour should be spent on the left person's project, the second
+hour on the right person's project. This isn't a "code tour", you should be doing
+work to push the project forward.
 
-### Project Work Time (2:30 - 4:00)
-
-Take the knowledge from your pairings and bring them back to your group.
+* Chelsea with Tony
+* Kristina with Tess
+* Tyler with Eric
+* Kyle with Mihir
+* Kenny with Tracy
+* Dmitry with Minnie
+* Jack with Andrew
+* Jamie with Rob
+* Tom with Michelle
+* Michael with David
+* Eugene with Patrick
