@@ -74,3 +74,23 @@ layout: outline
 * 1:00 - 1:45: Austin Wood
 * 1:45 - 2:30: Fred Block
 * 2:30 - 3:15: Stanley Siudzinski
+
+## 1502
+
+### Project Feedback - Session 1 (9:00-10:15)
+
+If you're a *SalesEngine* person, meet with Jeff in Classroom B.
+
+If you're a *Robodoku* person, get together with the person below. Take the
+[project rubric](https://github.com/turingschool/challenges/blob/master/robodoku.markdown) and, together, spend 30 minutes collaboratively grading one
+project. Make a list of the weaknesses and strengths. Then do the same with the
+other project.
+
+### Project Feedback - Session 2 (10:15-11:30)
+
+If you're a *Robodoku* person, meet with Jeff in Classroom B.
+
+If you're a *SalesEngine* person, get together with the person below. Take the
+[project rubric](http://tutorials.jumpstartlab.com/projects/sales_engine.html) and, together, spend 30 minutes collaboratively grading one
+project. Make a list of the weaknesses and strengths. Then do the same with the
+other project.
