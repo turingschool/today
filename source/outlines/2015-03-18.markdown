@@ -7,6 +7,8 @@ layout: outline
 
 ### Assessments (9:00 - 12:00)
 
+If you’re not in an assessment, then you’re working on your community project.
+
 #### With Horace
 
 * 9:00 - 10:00:  Sam Kuhlmann
@@ -74,3 +76,7 @@ layout: outline
 * 1:00 - 1:45: Austin Wood
 * 1:45 - 2:30: Fred Block
 * 2:30 - 3:15: Stanley Siudzinski
+
+
+## 1502
+
