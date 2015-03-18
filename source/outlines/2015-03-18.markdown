@@ -57,7 +57,7 @@ If you’re not in an assessment, then you’re working on your community projec
 
 ### Introduction to jQuery (9:00 - 10:00)
 
-It’s used on 94.9% of all websites that use JavaScript and 62.7% of all websites on the Internet. Meet with Rachel in Classroom C to talk about jQuery. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown). 
+It’s used on 94.9% of all websites that use JavaScript and 62.7% of all websites on the Internet. Meet with Rachel in Classroom C to talk about jQuery. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Filtering with jQuery (10:00 - 12:00)
 
@@ -96,6 +96,10 @@ If you're a *Robodoku* person, get together with the person below. Take the
 project. Make a list of the weaknesses and strengths. Then do the same with the
 other project.
 
+* Chelsea / Eric
+* Kristina / Tony
+* Tyler / Tess
+
 ### Project Feedback - Session 2 (10:15-11:30)
 
 If you're a *Robodoku* person, meet with Jeff in Classroom B.
@@ -104,4 +108,3 @@ If you're a *SalesEngine* person, get together with the person below. Take the
 [project rubric](http://tutorials.jumpstartlab.com/projects/sales_engine.html) and, together, spend 30 minutes collaboratively grading one
 project. Make a list of the weaknesses and strengths. Then do the same with the
 other project.
-
