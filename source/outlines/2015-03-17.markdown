@@ -41,6 +41,10 @@ Join Josh Mejia in Classroom C learn about when and when not to use callbacks.
 
 Do some relationship building with Josh Mejia in Classroom C.
 
+* Use Storedom to create a Photo which can attach to either a user or an item (polymorphic). Include a column for a URL instead of uploading.
+* Use Storedom to implement a one-to-one with a user and an address.
+* Use Storedom to implement a friendships relationship between users (self-referential, self-joins).
+
 ### Assessments (1:00 - 4:00)
 
 #### With Jorge
