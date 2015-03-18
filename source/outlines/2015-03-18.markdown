@@ -57,7 +57,7 @@ If you’re not in an assessment, then you’re working on your community projec
 
 ### Introduction to jQuery (9:00 - 10:00)
 
-It’s used on 94.9% of all websites that use JavaScript and 62.7% of all websites on the Internet. Meet with Rachel in Classroom C to talk about jQuery.
+It’s used on 94.9% of all websites that use JavaScript and 62.7% of all websites on the Internet. Meet with Rachel in Classroom C to talk about jQuery. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown). 
 
 ### Filtering with jQuery (10:00 - 12:00)
 
