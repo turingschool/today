@@ -7,10 +7,10 @@ layout: outline
 
 ### Surveys (8:30 - 9:00)
 
-* [1409]()
-* [1410]()
-* [1412]()
-* [1502]()
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1Y7LIRgdzAcvUvRoUOspjjElm4Tmsk8iSAyqTLJlvVvY/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1awwS35aMxZ3Xj1a3e-VhgzfjbkVzFjsQVwOT5G4eunc/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1H0HqQOg5OnvwXj0KLTptzCjLyQgjcakTbIUSKfqfTts/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1Quyyf2Fnri_0bd2mGh8KYYzN5iyBPZglSCqWDJgRT50/viewform)
 
 ### Group Retrospectives (9:00 - 10:00)
 
