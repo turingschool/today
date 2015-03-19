@@ -5,9 +5,9 @@ layout: outline
 
 ## 1409
 
-### Community Project Evaluations (9:00 - 12:00)
+### Community Project Evaluations wit Steve (9:00 - 12:00)
 
-(TBD: If Steve has Wifi, he'll do them—otherwise Horace will take them.)
+Look for info on connecting with Steve in your Slack channel.
 
 * 9:00: Skill Inventory
 * 10:00: Big Brother
