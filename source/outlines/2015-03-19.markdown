@@ -17,31 +17,54 @@ layout: outline
 
 ### Self-Directed Project Evaluations (9:00 - 12:00)
 
-#### With Jorge
+#### Product Eval With Jorge
 
 * 9:00: Scott Crawford
-* 9:20: Krista A Nelson
-* 9:40: Adam Smith
-* 10:00: Emily Berkeley
-* 10:20: Konr Josef Larson
-* 10:40: Lydia Shafer
-* 11:00: Kit Pearson
-* 11:20: Jeffrey Wan
-* 11:40: Bryce Holcomb
+* 9:10: Krista A Nelson
+* 9:20: Adam Smith
+* 9:30: Emily Berkeley
+* 9:40: Konr Josef Larson
+* 9:50: Lydia Shafer
+* 10:00: Kit Pearson
+* 10:10: Jeffrey Wan
+* 10:20: Bryce Holcomb
+* 10:30: Chris Luhring
+* 10:40: Brandon Mrsny
+* 10:50: Orion Osborn
+* 11:00: Laura Whalin
+* 11:10: Michael Dao
+* 11:20: Rich Shea
+* 11:30: Alexandra Robinson
+* 11:40: Nathan Owsiany
+* 11:50: Bhargavi Satpathy
 
-### Self-Directed Project Evaluations (1:00 - 4:00)
+#### Code Eval with Josh Cheek
 
-#### With Jorge
+* 9:00 - Emily Berkeley
+* 9:20 - Scott Crawford
+* 9:40 - Krista A Nelson
+* 10:00 - Adam Smith
+* 10:20 - Konr Josef Larson
+* 10:40 - Lydia Shafer
+* 11:00 - Kit Pearson
+* 11:20 - Jeffrey Wan
+* 11:40 - Bryce Holcomb
+* 12:00 - Michael Dao
+* 12:20 - Rich Shea
 
-* 1:00: Chris Luhring
-* 1:20: Brandon Mrsny
-* 1:40: Orion Osborn
-* 2:00: Laura Whalin
-* 2:20: Michael Dao
-* 2:40: Rich Shea
-* 3:00: Alexandra Robinson
-* 3:20: Nathan Owsiany
-* 3:40: Bhargavi Satpathy
+#### Code Eval with Josh Mejia
+
+* 10:40 - Chris Luhring
+* 11:00 - Brandon Mrsny
+* 11:20 - Orion Osborn
+* 11:40 - Laura Whalin
+* 12:00 - Nathan Owsiany
+* 12:20 - Bhargavi Satpathy
+* 12:40 - Alexandra Robinson
+
+### How to Get a Job (1:00 - 4:00)
+
+Meet with Jeff in Classroom A to talk resumes, job hunting strategy, and expectations.
 
 ## 1412
 
@@ -50,13 +73,13 @@ layout: outline
 #### With Rachel
 
 * 9:00 - 9:45: Edward McCarthy & Markus Olsen & Kyra Steenbock
-* 10:00 - 10:45: Dustin Gault & Stanley Siudzinski & Trey Tomlinson
-* 11:00 - 11:45: DJ Greenfield & Charles Valentino Espinoza & Fred Block
+* 9:45 - 10:30: Dustin Gault & Stanley Siudzinski & Trey Tomlinson
+* 10:30 - 11:15: DJ Greenfield & Charles Valentino Espinoza & Fred Block
 
 #### With Josh Mejia
 
-* 9:00 - 9:45: Teresa Finn & Miriam Moser & Austin Wood
-* 10:00 - 10:45: Paul Grever & Jeffrey Gu & Lori Culberson
+* 9:00 - 9:40: Teresa Finn & Miriam Moser & Austin Wood
+* 9:45 - 10:30: Paul Grever & Jeffrey Gu & Lori Culberson
 
 ## 1502
 
