@@ -52,23 +52,44 @@ Here are a few conferences with open calls for proposals:
 
 #### With Raissa
 
-* 10:00:
+* 10:00: Emily Berkeley
+* 10:20: Chris Luhring
+* 10:40: Adam Smith
+* 11:00: Bryce Holcomb
+* 11:20: Brandon Mrsny
 
 #### With Daisha
 
-* 10:00:
+* 10:00: Bhargavi Satpathy
+* 10:20: Konr Josef Larson
+* 10:40: Nathan Owsiany
+* 11:00: Orion Osborn
+* 11:20: Valentino Espinoza
 
 #### With Jorge
 
-* 10:00: 
+* 10:00: Teresa Finn
+* 10:20: DJ Greenfield
+* 10:40: Trey Tomlinson
+* 11:00: Austin Wood
+* 11:20: Edward McCarthy
 
 #### With Josh M.
 
-* 10:00:
+* 10:00: Lori Culberson
+* 10:20: Michelle Golle
+* 10:40: Mihir Parikh
+* 11:00: Minnie Lee
+* 11:20: Patrick Medaugh
 
 #### With Josh C.
 
-* 10:00: 
+* 10:00: Robert M. Cornell
+* 10:20: Tess Griffin
+* 10:40: Thomas Leskin
+* 11:00: Tony DiNitto
+* 11:20: Tracy Caruso
+* 11:40: Tyler Graham
 
 ### Cross-Cohort Pairing (1:00 - 2:30)
 
@@ -76,9 +97,9 @@ Here are a few conferences with open calls for proposals:
 
 Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html). This is 1502's first stab at Sinatra!
 
-* Austin & Dmitry 
+* Austin & Dmitry
 * Dustin & Chelsea
-* Jeff & Jack 
+* Jeff & Jack
 * Kyra & Kristina
 * Markus & Michael
 * Paul & Mihir
