@@ -22,7 +22,7 @@ layout: outline
 
 #### Study Sessions
 
-* Miriam - Bootstrap and Responsive Design
+* Miriam - [Bootstrap and Responsive Design](https://github.com/mirjoy/responsive-design-demo)
 * JGu - VimGolf
 * Laura - Adding a map to your app
 
