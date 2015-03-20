@@ -26,17 +26,20 @@ Also, **1410**—please fill out [this Module 4 pre-survey][ps].
 
 #### Study Sessions
 
+Feel free to join one of these groups:
+
 * Miriam - [Bootstrap and Responsive Design](https://github.com/mirjoy/responsive-design-demo)
 * JGu - VimGolf
 * Laura - Adding a map to your app
+* Konr - Blogging with ghost and github
 
-#### Pairings
+Or... reach out to one of these awesome people to pair:
 
 * Mike
 * Trey
 * Emily
 
-#### Apply to Speak at a Conference
+Or... apply to speak at a conference!
 
 You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
 
