@@ -12,6 +12,10 @@ layout: outline
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/1H0HqQOg5OnvwXj0KLTptzCjLyQgjcakTbIUSKfqfTts/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1Quyyf2Fnri_0bd2mGh8KYYzN5iyBPZglSCqWDJgRT50/viewform)
 
+Also, **1410**—please fill out [this Module 4 pre-survey][ps].
+
+[ps]: https://docs.google.com/forms/d/1-VsqV9ZtOk-Ff5MLkwyNGwKEpHIOXEZ70CuznUY51SU/viewform
+
 ### Group Retrospectives (9:00 - 10:00)
 
 * 1410 in Classroom A with Jorge
