@@ -105,7 +105,6 @@ Here are a few conferences with open calls for proposals:
 Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html). This is 1502's first stab at Sinatra!
 
 * Austin & Dmitry
-* Dustin & Chelsea
 * Jeff & Jack
 * Kyra & Kristina
 * Markus & Michael
@@ -120,9 +119,10 @@ Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser
 * Laura & Dave
 * Kit & Michelle
 * Jeff & Patrick
-* Bhargavi & Jamie
+* Miriam & Jamie
 * Mike & Tony
 * Brandon & Kenny
+* Minnie & Alex
 
 #### Flashcard App
 
@@ -138,12 +138,11 @@ Use TDD to create a Rails Flash Card app using the following specifications:
   * show the answer when user clicks "Show Answer"
   * there is a link to the next card
 
-* Mac & Alex
 * Fred & Bryce
 * Lori & Emily
-* Stanley & Chris
 * Teresa & Krista
-* Miriam & Lydia
+* Mac & Lydia
+* Dustin & Stanley
 
 ### Ice Cream (2:30)
 
