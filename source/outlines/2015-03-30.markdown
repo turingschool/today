@@ -69,13 +69,13 @@ Meet with Jorge in the Big Workspace, and expect the unexpected.
 
 ### Introduction to Sinatra (1:00 - 1:30)
 
-Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey.
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0). 
 
 Meet with Rachel in Classroom C.
 
 ### TaskManager Q&A and Review (1:30 - 2:30)
 
-Stick around with Rachel in Classroom C to talk about TaskManager.
+Stick around with Rachel in Classroom C to talk about TaskManager. You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra. 
 
 ### HTML/CSS Review (2:30 - 3:30)
 
