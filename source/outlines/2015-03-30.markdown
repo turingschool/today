@@ -5,19 +5,25 @@ layout: outline
 
 ## All
 
+### Code Retreat (9:00 - 12:00)
+
+Let's sharpen our skills in preparation for the next six weeks.
+
+Meet with Steve in the big workspace.
+
+### Posse Time (3:30 - 4:00)
+
+Normally, we do posse time on Monday mornings, but the staff stole 1503 in order to talk about themselves. Take this time to meet your new posse members.
+
 ## 1410
 
-### Jet Fuel Recap and Refactor (1:00 - 2:30)
+### Jet Fuel Recap and Refactor (1:00 - 3:30)
 
 Meet with Horace in Classroom B review Jet Fuel.
 
-### Cross-Cohort Pairing (2:30 - 4:00)
-
-This afternoon, you'll be pairing with 1412.
-
 ## 1412
 
-### The Pivot Kickoff (1:00 - 2:30)
+### The Pivot Kickoff (1:00 - 3:30)
 
 Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](http://tutorials.jumpstartlab.com/projects/the_pivot.html) (aka "Oh my God, why?").
 
@@ -33,10 +39,6 @@ You will work in the following groups:
 * Paul Grever, Kit Pearson, Austin Wood (work on Paul's codebase)
 
 Meet with Jorge in the Big Workspace, and expect the unexpected.
-
-### Cross-Cohort Pairing (2:30 - 4:00)
-
-This afternoon, you'll be working with 1410.
 
 ## 1502
 
