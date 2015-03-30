@@ -15,6 +15,7 @@ We'll be working on the following challenges:
 
 * [Sieve](https://github.com/turingschool/code_retreat/tree/master/sieve)
 * [Robot](https://github.com/turingschool/code_retreat/tree/master/robot)
+* [Grains](https://github.com/turingschool/code_retreat/tree/master/grains)
 
 ### Posse Time (3:30 - 4:00)
 
