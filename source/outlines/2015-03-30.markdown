@@ -29,9 +29,20 @@ Meet with Steve in Classroom B to kick off your final module.
 
 ### The Pivot Kickoff (1:00 - 3:30)
 
-Time to turn your Dinner Dashes in "another direction."
+Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
 
-Meet with Jorge in the Big Workspace.
+This project will be completed in teams of three with a final due date of
+Thursday, April 16.
+
+You will work in the following groups:
+
+* Kyra Steenbock, Dustin Gault, Rich Shea (work on Kyra's codebase)
+* Trey Tomlinson, Markus Olsen, Charles Valentino Espinoza (work on Trey's codebase)
+* DJ Greenfield, Jeffrey Gu, Stanley Siudzinski (work on DJ's codebase)
+* Miriam Moser, Lori Culberson, Edward McCarthy (work on Miriam's codebase)
+* Paul Grever, Kit Pearson, Austin Wood (work on Paul's codebase)
+
+Meet with Jorge in the Big Workspace, and expect the unexpected.
 
 ## 1502
 
