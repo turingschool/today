@@ -26,17 +26,20 @@ Also, **1410**—please fill out [this Module 4 pre-survey][ps].
 
 #### Study Sessions
 
+Feel free to join one of these groups:
+
 * Miriam - [Bootstrap and Responsive Design](https://github.com/mirjoy/responsive-design-demo)
 * JGu - VimGolf
 * Laura - Adding a map to your app
+* Konr - Blogging with ghost and github
 
-#### Pairings
+Or... reach out to one of these awesome people to pair:
 
 * Mike
 * Trey
 * Emily
 
-#### Apply to Speak at a Conference
+Or... apply to speak at a conference!
 
 You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
 
@@ -102,7 +105,6 @@ Here are a few conferences with open calls for proposals:
 Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html). This is 1502's first stab at Sinatra!
 
 * Austin & Dmitry
-* Dustin & Chelsea
 * Jeff & Jack
 * Kyra & Kristina
 * Markus & Michael
@@ -117,9 +119,10 @@ Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser
 * Laura & Dave
 * Kit & Michelle
 * Jeff & Patrick
-* Bhargavi & Jamie
+* Miriam & Jamie
 * Mike & Tony
 * Brandon & Kenny
+* Minnie & Alex
 
 #### Flashcard App
 
@@ -135,12 +138,11 @@ Use TDD to create a Rails Flash Card app using the following specifications:
   * show the answer when user clicks "Show Answer"
   * there is a link to the next card
 
-* Mac & Alex
 * Fred & Bryce
 * Lori & Emily
-* Stanley & Chris
 * Teresa & Krista
-* Miriam & Lydia
+* Mac & Lydia
+* Dustin & Stanley
 
 ### Ice Cream (2:30)
 
