@@ -11,17 +11,22 @@ Let's sharpen our skills in preparation for the next six weeks.
 
 Meet with Steve in the big workspace.
 
+We'll be working on the following challenges:
+
+* [Sieve](https://github.com/turingschool/code_retreat/tree/master/sieve)
+* [Robot](https://github.com/turingschool/code_retreat/tree/master/robot)
+
 ### Posse Time (3:30 - 4:00)
 
 Normally, we do posse time on Monday mornings, but the staff stole 1503 in order to talk about themselves. Take this time to meet your new posse members.
 
 ## 1410
 
-### Jet Fuel Recap and Refactor (1:00 - 3:00)
+### Jet Fuel Recap and Refactor (1:00 - 2:30)
 
 Meet with Horace in Classroom B review Jet Fuel.
 
-### Module 4 Kickoff (3:00 - 3:30)
+### Module 4 Kickoff (2:30 - 3:30)
 
 Meet with Steve in Classroom B to kick off your final module.
 
