@@ -1,0 +1,148 @@
+---
+title: 20150320
+layout: outline
+---
+
+## All
+
+### Surveys (8:30 - 9:00)
+
+* [1409](https://docs.google.com/a/casimircreative.com/forms/d/1Y7LIRgdzAcvUvRoUOspjjElm4Tmsk8iSAyqTLJlvVvY/viewform)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1awwS35aMxZ3Xj1a3e-VhgzfjbkVzFjsQVwOT5G4eunc/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1H0HqQOg5OnvwXj0KLTptzCjLyQgjcakTbIUSKfqfTts/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1Quyyf2Fnri_0bd2mGh8KYYzN5iyBPZglSCqWDJgRT50/viewform)
+
+Also, **1410**—please fill out [this Module 4 pre-survey][ps].
+
+[ps]: https://docs.google.com/forms/d/1-VsqV9ZtOk-Ff5MLkwyNGwKEpHIOXEZ70CuznUY51SU/viewform
+
+### Group Retrospectives (9:00 - 10:00)
+
+* 1410 in Classroom A with Jorge
+* 1412 in Classroom B with Rachel
+* 1502 in Classroom C with Josh M.
+
+### Self-Study and One-on-Ones (9:00 - 11:00)
+
+#### Study Sessions
+
+* Miriam - [Bootstrap and Responsive Design](https://github.com/mirjoy/responsive-design-demo)
+* JGu - VimGolf
+* Laura - Adding a map to your app
+
+#### Pairings
+
+* Mike
+* Trey
+* Emily
+
+#### Apply to Speak at a Conference
+
+You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
+
+Here are a few conferences with open calls for proposals:
+
+* [Madison+ Ruby][mr]
+* [GoRuCo][go]
+* [Windy City Rails][wcr]
+* [Burlington Ruby][br]
+
+[go]: http://goruco.com/
+[mr]: http://madisonpl.us/ruby/
+[wcr]: http://www.windycityrails.org/
+[br]: http://www.burlingtonrubyconference.com
+
+### One-on-Ones (10:00 - 12:00)
+
+#### With Raissa
+
+* 10:00: Emily Berkeley
+* 10:20: Chris Luhring
+* 10:40: Adam Smith
+* 11:00: Bryce Holcomb
+* 11:20: Brandon Mrsny
+
+#### With Daisha
+
+* 10:00: Bhargavi Satpathy
+* 10:20: Konr Josef Larson
+* 10:40: Nathan Owsiany
+* 11:00: Orion Osborn
+* 11:20: Valentino Espinoza
+
+#### With Jorge
+
+* 10:00: Teresa Finn
+* 10:20: DJ Greenfield
+* 10:40: Trey Tomlinson
+* 11:00: Austin Wood
+* 11:20: Edward McCarthy
+
+#### With Josh M.
+
+* 10:00: Lori Culberson
+* 10:20: Michelle Golle
+* 10:40: Mihir Parikh
+* 11:00: Minnie Lee
+* 11:20: Patrick Medaugh
+
+#### With Josh C.
+
+* 10:00: Robert M. Cornell
+* 10:20: Tess Griffin
+* 10:40: Thomas Leskin
+* 11:00: Tony DiNitto
+* 11:20: Tracy Caruso
+* 11:40: Tyler Graham
+
+### Cross-Cohort Pairing (1:00 - 2:30)
+
+#### Webguesser
+
+Work through [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html). This is 1502's first stab at Sinatra!
+
+* Austin & Dmitry
+* Dustin & Chelsea
+* Jeff & Jack
+* Kyra & Kristina
+* Markus & Michael
+* Paul & Mihir
+* Tino & Rob
+* Trey & Tom
+* DJ & Tyler
+* Scott & Tracy
+* Rich & Tess
+* Orion & Kyle
+* Nathan & Andrew
+* Laura & Dave
+* Kit & Michelle
+* Jeff & Patrick
+* Bhargavi & Jamie
+* Mike & Tony
+* Brandon & Kenny
+
+#### Flashcard App
+
+Use TDD to create a Rails Flash Card app using the following specifications:
+
+* `GET /sets`
+  * they see a list of sets
+* `GET /sets/1`
+  * they see all the cards in a set
+* `GET /sets/1/cards/1`
+  * they see the first card in the set
+  * a div with the answer is hidden
+  * show the answer when user clicks "Show Answer"
+  * there is a link to the next card
+
+* Mac & Alex
+* Fred & Bryce
+* Lori & Emily
+* Stanley & Chris
+* Teresa & Krista
+* Miriam & Lydia
+
+### Ice Cream (2:30)
+
+Let's go on a field trip to get ice cream.
+

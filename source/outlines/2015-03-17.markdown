@@ -1,130 +1,66 @@
 ---
-title: 20150317
+title: 20150330
 layout: outline
 ---
 
-## 1409
-
-### Ruby and Rails in Review (9:00 - 10:30)
-
-Join Horace in Classroom B to talk about a little known framework called Ruby on Rails.
-
-### JavaScript in Review (10:30 - 11:30)
-
-Question and answer format: you bring the questions and Steve will bring the answers.
-
-### Community Project Check-ins (11:30 - 12:00)
-
-#### With Steve
-
-* 11:30: Skill Inventory
-* 11:40: Scavenger Hunter
-* 11:50: Big Brother
-
-### Assessments (1:00 - 4:00)
-
-When you’re not in an assessment you are expected to be working with your group.
-
-#### With Horace
-
-* 1:00 - 2:00: Victoria Harrod
-* 2:00 - 3:00: Chandra Carney
-* 3:00 - 4:00: Zachary Routhier
+## All
 
 ## 1410
 
-### Advanced ActiveRecord Features: Callbacks & Transactions (9:00 - 10:30)
+### Jet Fuel Recap and Refactor (1:00 - 2:30)
 
-Join Josh Mejia in Classroom C learn about when and when not to use callbacks.
+Meet with Horace in Classroom B review Jet Fuel.
 
-### Advanced ActiveRecord Relationships (10:30 - 12:00)
+### Cross-Cohort Pairing (2:30 - 4:00)
 
-Do some relationship building with Josh Mejia in Classroom C.
-
-* Use Storedom to create a Photo which can attach to either a user or an item (polymorphic). Include a column for a URL instead of uploading.
-* Use Storedom to implement a one-to-one with a user and an address.
-* Use Storedom to implement a friendships relationship between users (self-referential, self-joins).
-
-### Assessments (1:00 - 4:00)
-
-#### With Jorge
-
-* 1:00 - 2:00: Orion Osborn
-* 2:00 - 3:00: Konr Josef Larson
-* 3:00 - 4:00: Scott Crawford
-
-#### With Josh Mejia
-
-* 1:00 - 2:00: Chris Luhring
-* 2:00 - 3:00: Rich Shea
-* 3:00 - 4:00: Adam Smith
-
-#### With Josh Cheek
-
-* 1:00 - 2:00: Bryce Holcomb
-* 2:00 - 3:00: Lydia Shafer
-* 3:00 - 4:00: Krista A Nelson
+This afternoon, you'll be pairing with 1412.
 
 ## 1412
 
-### JavaScript, Part Two (9:00 - 10:00)
+### The Pivot Kickoff (1:00 - 2:30)
 
-Part two of Steve’s two-part series on the world’s most popular programming language.
+Time to turn your Dinner Dashes in "another direction."
 
-* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+Meet with Jorge in the Big Workspace.
 
-### Dinner Dash Work Time (10:00 - 12:00)
+### Cross-Cohort Pairing (2:30 - 4:00)
 
-48 hours left. No pressure.
-
-### Assessments (1:00 - 4:00)
-
-#### With Rachel
-
-* 1:00 - 1:45: Miriam Moser
-* 1:45 - 2:30: Kyra Steenbock
-* 2:30 - 3:15: Jeffrey Gu
-* 3:15 - 4:00: Paul Grever
+This afternoon, you'll be working with 1410.
 
 ## 1502
 
-### Project Work Time (9:00 - 12:00)
+### Introduction to Sinatra (1:00 - 1:30)
 
-Calculate some revenue; solve some sudokus.
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey.
 
-### Assessments (9:00 - 12:00)
+Meet with Rachel in Classroom C.
 
-#### With Jeff
+### TaskManager Q&A and Review (1:30 - 2:30)
 
-* 9:00: Jack Yeh
-* 9:30: Thomas Leskin
-* 10:00: Andrew Carmer
-* 10:30: Chelsea Worrel
-* 11:00: Tyler Graham
+Stick around with Rachel in Classroom C to talk about TaskManager.
 
-#### With Josh Cheek
+### HTML/CSS Review (2:30 - 3:30)
 
-* 9:00: Michael Merrill
-* 9:30: Patrick Medaugh
-* 10:00: Tony DiNitto
-* 11:00: Tracy Caruso
-* 11:30: Kenny Chen
+Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
-### Cross Project Pairing Time (1:00 - 4:00)
+## 1503
 
-This afternoon you need to get together with the person listed below and
-pair. The first hour should be spent on the left person's project, the second
-hour on the right person's project. This isn't a "code tour", you should be doing
-work to push the project forward.
+### Staff Introductions (8:30 - 9:00)
 
-* Chelsea with Tony
-* Kristina with Tess
-* Tyler with Eric
-* Kyle with Mihir
-* Kenny with Tracy
-* Dmitry with Minnie
-* Jack with Andrew
-* Jamie with Rob
-* Tom with Michelle
-* Michael with David
-* Eugene with Patrick
+Meet the fine faculty of the Turing School of Software and Design.
+
+### Welcome to Turing (9:00 - 12:00)
+
+Meet with Jeff to get yourself acclimated to your new home for the next seven months.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You met the staff. Now, it's time to get to know each other. Lunch is on us.
+
+### How to Learn at Turing (1:00 - 2:30)
+
+Join Jeff in Classroom A to talk about how to get the most out of your time at Turing.
+
+### Computer Setup (2:30 - 4:00)
+
+You are developers now. Let's get your MacBooks setup accordingly.
