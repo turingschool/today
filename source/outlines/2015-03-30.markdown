@@ -80,4 +80,10 @@ Join Jeff in Classroom A to talk about how to get the most out of your time at T
 
 ### Computer Setup (2:30 - 4:00)
 
-You are developers now. Let's get your MacBooks setup accordingly.
+You are developers now. [Let's get your MacBooks setup accordingly.](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+
+In addition lets make sure you setup:
+
+* Slack desktop app
+* Your correct name on your GitHub account
+* A twitter account if you don't have one
