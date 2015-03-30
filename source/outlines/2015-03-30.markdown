@@ -25,7 +25,7 @@ Meet with Horace in Classroom B review Jet Fuel.
 
 ### The Pivot Kickoff (1:00 - 3:30)
 
-Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](http://tutorials.jumpstartlab.com/projects/the_pivot.html) (aka "Oh my God, why?").
+Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
 
 This project will be completed in teams of three with a final due date of
 Thursday, April 16.
