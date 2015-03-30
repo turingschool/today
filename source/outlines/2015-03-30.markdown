@@ -27,9 +27,24 @@ Normally, we do posse time on Monday mornings, but the staff stole 1503 in order
 
 Meet with Horace in Classroom B review Jet Fuel.
 
-### Module 4 Kickoff (2:30 - 3:30)
+### Module 4 and FeedEngine Kickoff (2:30 - 3:30)
 
-Meet with Steve in Classroom B to kick off your final module.
+Meet with Steve in Classroom B to kick off the first project of your final module: [FeedEngine][fe].
+
+We'll start by reviewing the calendar for the module and talk about what we're going to cover.
+
+[fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+
+You'll be working in the following groups:
+
+* Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+* Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
+
+By the end of the session, you should have an idea to pitch Steve.
+
+**Homework**: Do some further investigation on your approved idea. Look at the APIs. Will you be able to build your project with the APIs available? If not, you'll need to let Steve know in the morning if you need to pivot.
 
 ## 1412
 
