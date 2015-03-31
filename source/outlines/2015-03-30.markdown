@@ -19,6 +19,17 @@ In fact, neither Isaac nor Albert had given a correct report of the results of t
 
 Meet with Steve in Classroom B to discuss APIs in all of their glory.
 
+You'll be working in the following pairs:
+
+* Jeffrey Wan & Lydia Shafer will be looking at the Twitter API
+* Konr Josef Larson & Chris Luhring will be looking at the Github API
+* Krista A Nelson & Michael Dao will be looking at the Foursquare API
+* Adam Smith & Laura Whalin will be looking at the Instagram API
+* Emily Berkeley & Brandon Mrsny will be looking at the Facebook API
+* Bhargavi Satpathy & Nathan Owsiany will be looking at the LinkedIn API
+* Alexandra Robinson & Orion Osborn will be looking at the Slack API
+* Scott Crawford & Bryce Holcomb will be looking at the Trello API
+
 ### Mocking and Doubling APIs (1:00 - 4:00)
 
 Don't blow past your rate limits. Mock your APIs with Horace in Classroom C.
