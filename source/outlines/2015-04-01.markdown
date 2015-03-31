@@ -5,6 +5,10 @@ layout: outline
 
 ## All
 
+### Warm-Up (8:30 - 8:50)
+
+**In your posses**, get 1503 set up with Exercism. In pairs, 1502 and 1503 students should work on Ruby challenge. 1410 and 1412 should work on a JavaScript challenge.
+
 ## 1410
 
 ### Working with APIs in Rails (9:00 - 10:30)
