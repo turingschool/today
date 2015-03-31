@@ -81,6 +81,11 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
+### Homework
+
+* Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+
 ## 1503
 
 ### Staff Introductions (8:30 - 9:00)
