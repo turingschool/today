@@ -1,0 +1,65 @@
+---
+title: 20150402
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+##### Turing Struct
+
+Let's create a Turing Struct ruby class which wraps a hash and exposes
+its keys as methods.
+
+A Turing Struct accepts a hash when it's initialized, e.g.:
+
+```ruby
+TuringStruct.new({my: "hash"})
+```
+
+When we provide a hash to a TuringStruct, we can then ask it for the
+keys of that hash as if they were methods:
+
+```ruby
+struct = TuringStruct.new({some: "value", another: "thing"})
+struct.some
+# => "value"
+struct.another
+# => "thing"
+```
+
+__Extension:__ Once you have a working struct, see what it would take to allow
+method-chaining to retrieve nested hash data:
+
+```ruby
+struct = TuringStruct.new({nested: {another: "hash"})
+struct.nested.another
+# => "hash"
+```
+
+## 1410
+
+## 1412
+
+## 1502
+
+## 1503
+
+### Object-Oriented Programming (9:00 - 10:30)
+
+Join Horace in Classroom A to discuss the concepts behind [Object Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
+
+### Deaf Grandma with OOP (10:30 - 12:00)
+
+Stay with Horace in Classroom A to walk through an implementation of
+Deaf Grandma using your new Object-Oriented Programming techniques.
+
+### Spiraling Design & Tests (1:00 - 2:30)
+
+Join Horace in Classroom A to talk about applying iterative problem solving
+to designing software tests.
+
+### Fibber Project Kick-Off and Work Time (2:30 - 3:00)
+
+Join Horace in Classroom A to get started on the new Fibber project.
