@@ -41,6 +41,11 @@ Meet with the one and only Josh Mejia in Classroom C.
 
 Meet with Josh Mejia in Classroom C to meet the Rack Lobster.
 
+### Homework
+
+* Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+
 ## 1503
 
 ### String, Integers, and Control Flow (9:00 - 10:30)
