@@ -5,78 +5,106 @@ layout: outline
 
 ## All
 
-### Warm-Up (8:30 - 9:00)
+### Code Retreat (9:00 - 12:00)
 
-**Meet in your posses.**
+Let's sharpen our skills in preparation for the next six weeks.
 
-Isaac and Albert were excitedly describing the result of the Third Annual International Science Fair Extravaganza in Sweden. There were three contestants, Louis, Rene, and Johannes. Isaac reported that Louis won the fair, while Rene came in second. Albert, on the other hand, reported that Johannes won the fair, while Louis came in second.
+Meet with Steve in the big workspace.
 
-In fact, neither Isaac nor Albert had given a correct report of the results of the science fair. Each of them had given one correct statement and one false statement. What was the actual placing of the three contestants?
+We'll be working on the following challenges:
+
+* [Sieve](https://github.com/turingschool/code_retreat/tree/master/sieve)
+* [Robot](https://github.com/turingschool/code_retreat/tree/master/robot)
+* [Grains](https://github.com/turingschool/code_retreat/tree/master/grains)
+
+### Posse Time (3:30 - 4:00)
+
+Normally, we do posse time on Monday mornings, but the staff stole 1503 in order to talk about themselves. Take this time to meet your new posse members.
 
 ## 1410
 
-### Designing an API (9:00 - 12:00)
+### Jet Fuel Recap and Refactor (1:00 - 2:30)
 
-Meet with Steve in Classroom B to discuss APIs in all of their glory.
+Meet with Horace in Classroom B review Jet Fuel.
 
-You'll be working in the following pairs:
+### Module 4 and FeedEngine Kickoff (2:30 - 3:30)
 
-* Jeffrey Wan & Lydia Shafer will be looking at the Twitter API
-* Konr Josef Larson & Chris Luhring will be looking at the Github API
-* Krista A Nelson & Michael Dao will be looking at the Foursquare API
-* Adam Smith & Laura Whalin will be looking at the Instagram API
-* Emily Berkeley & Brandon Mrsny will be looking at the Facebook API
-* Bhargavi Satpathy & Nathan Owsiany will be looking at the LinkedIn API
-* Alexandra Robinson & Orion Osborn will be looking at the Slack API
-* Scott Crawford & Bryce Holcomb will be looking at the Trello API
+Meet with Steve in Classroom B to kick off the first project of your final module: [FeedEngine][fe].
 
-### Mocking and Doubling APIs (1:00 - 4:00)
+We'll start by reviewing the calendar for the module and talk about what we're going to cover.
 
-Don't blow past your rate limits. Mock your APIs with Horace in Classroom C.
+[fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+
+You'll be working in the following groups:
+
+* Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+* Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
+
+By the end of the session, you should have an idea to pitch Steve.
+
+**Homework**: Do some further investigation on your approved idea. Look at the APIs. Will you be able to build your project with the APIs available? If not, you'll need to let Steve know in the morning if you need to pivot.
 
 ## 1412
 
-### Understanding Multitenancy (9:00 - 12:00)
+### The Pivot Kickoff (1:00 - 3:30)
 
-Can it even be done? Meet with Jorge in Classroom A.
+Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
 
-### Project Check-ins and Work Time (1:00 - 4:00)
+This project will be completed in teams of three with a final due date of
+Thursday, April 16.
 
-Pivot those Dinner Dashes.
+You will work in the following groups:
+
+* Kyra Steenbock, Dustin Gault, Rich Shea (work on Kyra's codebase)
+* Trey Tomlinson, Markus Olsen, Charles Valentino Espinoza (work on Trey's codebase)
+* DJ Greenfield, Jeffrey Gu, Stanley Siudzinski (work on DJ's codebase)
+* Miriam Moser, Lori Culberson, Edward McCarthy (work on Miriam's codebase)
+* Paul Grever, Kit Pearson, Austin Wood (work on Paul's codebase)
+
+Meet with Jorge in the Big Workspace, and expect the unexpected.
 
 ## 1502
 
-### Homework Review (9:00 - 9:30)
+### Introduction to Sinatra (1:00 - 1:30)
 
-Let's review our homework with Rachel in Classroom C.
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
 
-### How the Web Works (9:30 - 11:00)
+Meet with Rachel in Classroom C.
 
-So, we're going to build web applications in this module. We should probably get to know a little more about how the web works, right?
+### TaskManager Q&A and Review (1:30 - 2:30)
 
-Meet with the one and only Josh Mejia in Classroom C.
+Stick around with Rachel in Classroom C to talk about TaskManager. You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra.
 
-### What is Rack? (11:00 - 12:00)
+### HTML/CSS Review (2:30 - 3:30)
 
-Meet with Josh Mejia in Classroom C to meet the Rack Lobster.
-
-### Homework
-
-* Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
-* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
 ## 1503
 
-### String, Integers, and Control Flow (9:00 - 10:30)
+### Staff Introductions (8:30 - 9:00)
 
-String, integers, and control flow are the building blocks of pretty much everything.
+Meet the fine faculty of the Turing School of Software and Design.
 
-Meet with Jeff in the Big Workspace.
+### Welcome to Turing (9:00 - 12:00)
 
-### Problems, Solutions, and Algorithms (10:30 - 12:00)
+Meet with Jeff to get yourself acclimated to your new home for the next seven months.
 
-Got problems? Horace has solutions (and algorithms) in the Big Workspace.
+### Student Introduction Lunch (12:00 - 1:00)
 
-### Scavenger Hunt (1:00 - 4:00)
+You met the staff. Now, it's time to get to know each other. Lunch is on us.
 
-Meet with Raissa in the big workspace to get to know Denver a little better.
+### How to Learn at Turing (1:00 - 2:30)
+
+Join Jeff in Classroom A to talk about how to get the most out of your time at Turing.
+
+### Computer Setup (2:30 - 4:00)
+
+You are developers now. [Let's get your MacBooks setup accordingly.](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+
+In addition lets make sure you setup:
+
+* Slack desktop app
+* Your correct name on your GitHub account
+* A twitter account if you don't have one
