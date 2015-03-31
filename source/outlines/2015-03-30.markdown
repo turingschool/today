@@ -5,6 +5,14 @@ layout: outline
 
 ## All
 
+### Warm-Up (8:30 - 9:00)
+
+**Meet in your posses.**
+
+Isaac and Albert were excitedly describing the result of the Third Annual International Science Fair Extravaganza in Sweden. There were three contestants, Louis, Rene, and Johannes. Isaac reported that Louis won the fair, while Rene came in second. Albert, on the other hand, reported that Johannes won the fair, while Louis came in second.
+
+In fact, neither Isaac nor Albert had given a correct report of the results of the science fair. Each of them had given one correct statement and one false statement. What was the actual placing of the three contestants?
+
 ## 1410
 
 ### Designing an API (9:00 - 12:00)
