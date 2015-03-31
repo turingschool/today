@@ -15,7 +15,11 @@ In fact, neither Isaac nor Albert had given a correct report of the results of t
 
 ## 1410
 
-### Designing an API (9:00 - 12:00)
+### Daily JavaScript (9:00 - 9:30)
+
+This morning we'll spend a few minutes looking at `apply`, `call`, and `bind` with Steve in Classroom B.
+
+### Designing an API (9:30 - 12:00)
 
 Meet with Steve in Classroom B to discuss APIs in all of their glory.
 
