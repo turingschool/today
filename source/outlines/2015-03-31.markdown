@@ -23,6 +23,11 @@ This morning we'll spend a few minutes looking at `apply`, `call`, and `bind` wi
 
 Meet with Steve in Classroom B to discuss APIs in all of their glory.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/designing_an_api.markdown)
+* [Parse REST API](https://parse.com/docs/rest)
+* [JSON API](http://jsonapi.org)
+* [Ember Data's ActiveModel Adapter](http://emberjs.com/api/data/classes/DS.ActiveModelAdapter.html)
+
 You'll be working in the following pairs:
 
 * Jeffrey Wan & Lydia Shafer will be looking at the Twitter API
