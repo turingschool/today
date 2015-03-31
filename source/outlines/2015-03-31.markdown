@@ -1,0 +1,110 @@
+---
+title: 20150330
+layout: outline
+---
+
+## All
+
+### Code Retreat (9:00 - 12:00)
+
+Let's sharpen our skills in preparation for the next six weeks.
+
+Meet with Steve in the big workspace.
+
+We'll be working on the following challenges:
+
+* [Sieve](https://github.com/turingschool/code_retreat/tree/master/sieve)
+* [Robot](https://github.com/turingschool/code_retreat/tree/master/robot)
+* [Grains](https://github.com/turingschool/code_retreat/tree/master/grains)
+
+### Posse Time (3:30 - 4:00)
+
+Normally, we do posse time on Monday mornings, but the staff stole 1503 in order to talk about themselves. Take this time to meet your new posse members.
+
+## 1410
+
+### Jet Fuel Recap and Refactor (1:00 - 2:30)
+
+Meet with Horace in Classroom B review Jet Fuel.
+
+### Module 4 and FeedEngine Kickoff (2:30 - 3:30)
+
+Meet with Steve in Classroom B to kick off the first project of your final module: [FeedEngine][fe].
+
+We'll start by reviewing the calendar for the module and talk about what we're going to cover.
+
+[fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+
+You'll be working in the following groups:
+
+* Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+* Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
+
+By the end of the session, you should have an idea to pitch Steve.
+
+**Homework**: Do some further investigation on your approved idea. Look at the APIs. Will you be able to build your project with the APIs available? If not, you'll need to let Steve know in the morning if you need to pivot.
+
+## 1412
+
+### The Pivot Kickoff (1:00 - 3:30)
+
+Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
+
+This project will be completed in teams of three with a final due date of
+Thursday, April 16.
+
+You will work in the following groups:
+
+* Kyra Steenbock, Dustin Gault, Rich Shea (work on Kyra's codebase)
+* Trey Tomlinson, Markus Olsen, Charles Valentino Espinoza (work on Trey's codebase)
+* DJ Greenfield, Jeffrey Gu, Stanley Siudzinski (work on DJ's codebase)
+* Miriam Moser, Lori Culberson, Edward McCarthy (work on Miriam's codebase)
+* Paul Grever, Kit Pearson, Austin Wood (work on Paul's codebase)
+
+Meet with Jorge in the Big Workspace, and expect the unexpected.
+
+## 1502
+
+### Introduction to Sinatra (1:00 - 1:30)
+
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0). 
+
+Meet with Rachel in Classroom C.
+
+### TaskManager Q&A and Review (1:30 - 2:30)
+
+Stick around with Rachel in Classroom C to talk about TaskManager. You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra. 
+
+### HTML/CSS Review (2:30 - 3:30)
+
+Brush up on your HTML and CSS with Josh Mejia in Classroom C.
+
+## 1503
+
+### Staff Introductions (8:30 - 9:00)
+
+Meet the fine faculty of the Turing School of Software and Design.
+
+### Welcome to Turing (9:00 - 12:00)
+
+Meet with Jeff to get yourself acclimated to your new home for the next seven months.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You met the staff. Now, it's time to get to know each other. Lunch is on us.
+
+### How to Learn at Turing (1:00 - 2:30)
+
+Join Jeff in Classroom A to talk about how to get the most out of your time at Turing.
+
+### Computer Setup (2:30 - 4:00)
+
+You are developers now. [Let's get your MacBooks setup accordingly.](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+
+In addition lets make sure you setup:
+
+* Slack desktop app
+* Your correct name on your GitHub account
+* A twitter account if you don't have one
