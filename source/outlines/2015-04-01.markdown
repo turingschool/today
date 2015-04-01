@@ -43,11 +43,11 @@ Josh is on hand for questions and code review.
 
 ### Homework Review (9:00 - 9:30)
 
-Meet with Rachel in Classroom A to review your homework.
+Meet with Rachel in Classroom C to review your homework.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Test some models in Sinatra with Rachel in Classroom A. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
+Test some models in Sinatra with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
 ### Nokogiri (1:00 - 1:30)
 
