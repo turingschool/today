@@ -61,6 +61,10 @@ Let's meet with [world's largest rodent](https://www.google.com/search?q=nokogir
 
 Meet with Sam in Classroom C to learn some SQL.
 
+### Homework
+
+Continue working on Skill Inventory or Robot World. Add feature tests using Capybara that hit each route in your controller. 
+
 ## 1503
 
 ### Arrays and Hash (9:00 - 12:00)
