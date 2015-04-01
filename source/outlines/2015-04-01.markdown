@@ -63,22 +63,32 @@ Meet with Sam in Classroom C to learn some SQL.
 
 ## 1503
 
-### Reviewing Deaf Grandma (9:00 - 10:00)
+### Arrays and Hash (9:00 - 12:00)
 
-Meet with Jeff in Classroom A to review Deaf Grandma.
+Join Jeff in Classroom A to talk all about Arrays and Hashes.
 
-### Arrays and Hash (10:00 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
+* [Collection Challenges](https://github.com/turingschool/challenges/blob/master/collections.markdown)
 
-Stick around with Jeff in Classroom A to collect all the things.
+### Deaf Grandma Workshop (1:00 - 2:00)
 
-### Exploring Arrays and Hashes (1:00 - 2:00)
+Meet with Horace in Classroom A to work on the [Deaf Grandma](https://github.com/turingschool/challenges/blob/master/deaf_grandma.markdown) challenge in the following pairs:
 
-Explore some arrays and hashes with Horace in Classroom B.
+* Josh Cass & Dmitry Vizersky
+* Andrew Fink & Michael Merrill
+* Margarett Ly & Morgan Miller
+* Lev Kravinsky & Vanessa Gomez
+* Whitney Hiemstra & Drew Reynolds
+* Justin Holmes & Chelsea Worrel
+* Max Tedford & Rick Bacci
+* Eugene Khanutin & Dave Maurer
+* Brett Grigsby & Sally MacNicholas
+* Erik Butcher & Rob Cornell
 
-### How Testing Works (2:00 - 3:30)
+### How Testing Works (2:00 - 3:45)
 
-It would be super nice if you felt confident that your code actually worked, right? Well, Horace will show you how.
+It would be super nice if you felt confident that your code actually worked, right? Well, Horace will show you how in Classroom A. Learn about [How Testing Works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown).
 
-### Starting Fibber (3:30 - 4:00)
+### Starting Fibber (3:45 - 4:00)
 
-Meet with Jeff in Classroom B to tell some fibs.
+Finally Horace will kickoff your small [Fibber](https://github.com/turingschool/challenges/blob/master/fibber.markdown) project in Classroom A. It's due at 9AM on Monday the 6th.
