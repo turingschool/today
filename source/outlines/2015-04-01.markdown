@@ -89,6 +89,6 @@ Meet with Horace in Classroom A to work on the [Deaf Grandma](https://github.com
 
 It would be super nice if you felt confident that your code actually worked, right? Well, Horace will show you how in Classroom A. Learn about [How Testing Works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown).
 
-### Starting Fibber (3:45 - 4:00)
+### Intro to TDD (3:45 - 4:00)
 
-Finally Horace will kickoff your small [Fibber](https://github.com/turingschool/challenges/blob/master/fibber.markdown) project in Classroom A. It's due at 9AM on Monday the 6th.
+Horace will kickoff your homework for tonight, [Intro to TDD](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).

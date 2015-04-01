@@ -62,4 +62,4 @@ to designing software tests.
 
 ### Fibber Project Kick-Off and Work Time (2:30 - 3:00)
 
-Join Horace in Classroom A to get started on the new Fibber project.
+Join Horace in Classroom A to get started on the new [Fibber](https://github.com/turingschool/challenges/blob/master/fibber.markdown) project in Classroom A. It's due at 9AM on Monday the 6th.
