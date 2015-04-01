@@ -47,15 +47,15 @@ Meet with Rachel in Classroom A to review your homework.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Test some models in Sinatra with Rachel in Classroom A.
+Test some models in Sinatra with Rachel in Classroom A. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
 ### Nokogiri (1:00 - 1:30)
 
-Rachel will be showing you how to use a Japanese wood saw in Classroom C.
+Rachel will be showing you how to use a [Japanese wood saw](https://www.google.com/search?q=nokogiri&es_sm=91&source=lnms&tbm=isch&sa=X&ei=WwQcVciIFoe0oQTQzILoBw&ved=0CAgQ_AUoAg&biw=1430&bih=778) in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Let's meet with world's largest rodent and find acceptance in Classroom C.
+Let's meet with [world's largest rodent](https://www.google.com/search?q=nokogiri&es_sm=91&source=lnms&tbm=isch&sa=X&ei=WwQcVciIFoe0oQTQzILoBw&ved=0CAgQ_AUoAg&biw=1430&bih=778#tbm=isch&q=capybara) and find acceptance in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown). 
 
 ### Introduction to SQL (4:00 - 5:30)
 
