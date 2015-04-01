@@ -13,7 +13,7 @@ layout: outline
 
 ### Working with APIs in Rails (9:00 - 10:30)
 
-Meet with Horace in Classroom B.
+Join Horace in classroom B to talk about [writing and testing JSON APIs in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/active_model_serializers_and_api_controller_tests.markdown).
 
 ### Working with APIs with jQuery (10:30 - 12:00)
 
