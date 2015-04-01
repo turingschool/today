@@ -63,7 +63,9 @@ Meet with Sam in Classroom C to learn some SQL.
 
 ### Homework
 
-Continue working on Skill Inventory or Robot World. Add feature tests using Capybara that hit each route in your controller. 
+Continue working on Skill Inventory or Robot World. Add feature tests using Capybara that hit each route in your controller.
+
+Work through the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) in preparation for tomorrow.
 
 ## 1503
 
