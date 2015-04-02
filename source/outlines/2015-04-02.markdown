@@ -11,9 +11,6 @@ layout: outline
 
 <script src="https://gist.github.com/worace/561fba1b5eef00652b11.js"></script>
 
-__Extension:__ Once you have a working struct, see what it would take to allow
-method-chaining to retrieve nested hash data:
-
 ## 1410
 
 ### Daily JavaScript (9:00 - 9:30)
