@@ -14,14 +14,14 @@ its keys as methods.
 
 A Turing Struct accepts a hash when it's initialized, e.g.:
 
-```ruby
+```
 TuringStruct.new({my: "hash"})
 ```
 
 When we provide a hash to a TuringStruct, we can then ask it for the
 keys of that hash as if they were methods:
 
-```ruby
+```
 struct = TuringStruct.new({some: "value", another: "thing"})
 struct.some
 # => "value"
@@ -32,7 +32,7 @@ struct.another
 __Extension:__ Once you have a working struct, see what it would take to allow
 method-chaining to retrieve nested hash data:
 
-```ruby
+```
 struct = TuringStruct.new({nested: {another: "hash"})
 struct.nested.another
 # => "hash"
