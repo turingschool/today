@@ -23,9 +23,13 @@ keys of that hash as if they were methods:
 
 ```
 struct = TuringStruct.new({some: "value", another: "thing"})
+
 struct.some
+
 # => "value"
+
 struct.another
+
 # => "thing"
 ```
 
@@ -34,7 +38,9 @@ method-chaining to retrieve nested hash data:
 
 ```
 struct = TuringStruct.new({nested: {another: "hash"})
+
 struct.nested.another
+
 # => "hash"
 ```
 
