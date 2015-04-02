@@ -9,40 +9,10 @@ layout: outline
 
 #### Turing Struct
 
-Let's create a Turing Struct ruby class which wraps a hash and exposes
-its keys as methods.
-
-A Turing Struct accepts a hash when it's initialized, e.g.:
-
-```
-TuringStruct.new({my: "hash"})
-```
-
-When we provide a hash to a TuringStruct, we can then ask it for the
-keys of that hash as if they were methods:
-
-```
-struct = TuringStruct.new({some: "value", another: "thing"})
-
-struct.some
-
-# => "value"
-
-struct.another
-
-# => "thing"
-```
+<script src="https://gist.github.com/worace/561fba1b5eef00652b11.js"></script>
 
 __Extension:__ Once you have a working struct, see what it would take to allow
 method-chaining to retrieve nested hash data:
-
-```
-struct = TuringStruct.new({nested: {another: "hash"})
-
-struct.nested.another
-
-# => "hash"
-```
 
 ## 1410
 
