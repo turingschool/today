@@ -46,20 +46,27 @@ struct.nested.another
 
 ## 1503
 
-### Object-Oriented Programming (9:00 - 10:30)
+### Recap Collections Exercises (9:00 - 9:30)
+
+Classroom A is your new home. Join Horace to recap the collections exercises from yesterday.
+
+### Recap Deaf Grandma (9:30 - 10:00)
+
+WHAT'S THAT!? YOU LOVE WRITING RUBY? SO DOES GRANDMA. let's talk about it in Classroom A.
+
+### Object-Oriented Programming (10:00 - 12:00)
 
 Join Horace in Classroom A to discuss the concepts behind [Object Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
 
-### Deaf Grandma with OOP (10:30 - 12:00)
+### Deaf Grandma with OOP (1:00 - 2:00)
 
-Stay with Horace in Classroom A to walk through an implementation of
-Deaf Grandma using your new Object-Oriented Programming techniques.
+Stay with Horace in Classroom A to practice applying your new Object-Oriented Programming techniques to Deaf Grandma.
 
-### Spiraling Design & Tests (1:00 - 2:30)
+### Spiraling Design & Tests (2:00 - 3:30)
 
 Join Horace in Classroom A to talk about applying iterative problem solving
 to designing software tests.
 
-### Fibber Project Kick-Off and Work Time (2:30 - 3:00)
+### Fibber Project Kick-Off and Work Time (3:30 - 4:00)
 
 Join Horace in Classroom A to get started on the new [Fibber](https://github.com/turingschool/challenges/blob/master/fibber.markdown) project in Classroom A. It's due at 9AM on Monday the 6th.
