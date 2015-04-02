@@ -1,0 +1,60 @@
+---
+title: 20150402
+layout: outline
+---
+
+## All
+
+### Warm-Up (8:30 - 8:50)
+
+## 1410
+
+### Daily JavaScript (9:00 - 9:30)
+
+This morning, we'll talk about closures.
+
+* [JS Bin](http://jsbin.com/pokulu/1/edit?js,console)
+
+### Ember Fundamentals (9:30 - 11:00)
+
+Let's get started with Ember, shall we?
+
+* [Taco Lovers Club of Denver](http://jsbin.com/gutiza/3/edit?html,js,output)
+* [IdeaBox with Ember](https://github.com/turingschool-examples/ideabox-ember)
+* [Good Tipper](https://github.com/turingschool-examples/good-tipper)
+
+### Ember Routing (11:00 - 12:00)
+
+Routing in Ember *can* be confusing, but it really doesn't have to be.
+
+Let's step slowly and deliberately though a collection of nested routes.
+
+* [Beard Beats](https://github.com/turingschool-examples/beard-beats)
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+## 1412
+
+### Multi-tenancy Authorization (9:00 - 12:00)
+
+### Iteration One Check-ins and Project Work Time (1:00 - 4:00)
+
+## 1502
+
+### Homework Review (9:00 - 9:30)
+
+### Sequel (9:30 - 12:00)
+
+### TaskManager SQL/Sequel Transformation (1:00 - 4:00)
+
+## 1503
+
+### Reviewing Deaf Grandma (9:00 - 9:30)
+
+### Object-Oriented Programming (9:30 - 11:00)
+
+### Deaf Grandma with OOP (11:00 - 12:00)
+
+### Spiraling Design and Tests (1:00 - 2:30)
+
+### Starting Fibber (2:30 - 4:00)

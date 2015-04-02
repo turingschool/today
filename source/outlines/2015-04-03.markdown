@@ -1,0 +1,81 @@
+---
+title: 20150402
+layout: outline
+---
+
+## All
+
+### Surveys (8:30 - 9:00)
+
+(Rachel will put some links here.)
+
+### Group Retrospective (9:00 - 9:30)
+
+### One-on-Ones (9:30 - 11:00)
+
+#### With Steve
+
+Bryce Holcomb
+Brandon Mrsny
+Alexandra Robinson
+Jeffrey Wan
+Krista A Nelson
+Bhargavi Satpathy
+
+#### With Horace
+
+Emily Berkeley
+Chris Luhring
+Andrew Fink
+Justin Pease
+Morgan Miller
+Justin Holmes
+
+#### With Jorge
+
+Miriam Moser
+Kyra Steenbock
+Jeffrey Gu
+Paul Grever
+Markus Olsen
+Dustin Gault
+
+#### With Josh
+
+Stanley Siudzinski
+Andrew Carmer
+David Daniel
+Eric Dowty
+Eugene Khanutin
+Jack Yeh
+
+#### With Rachel
+
+Jamie Kawahara
+Kenny Chen
+Kristina Brown
+Melody Lin
+Kim Murphy
+Brett Grigsby
+
+#### With Raissa
+
+Max Tedford
+Rick Bacci
+
+#### With Daisha
+
+Sally MacNicholas
+Vanessa Gomez
+
+### Lightning Talks (11:00 - 12:00)
+
+(To be announced…)
+
+### Guest Speaker: Rachel Scott (1:00 - 2:00)
+
+### Electives (2:30 - 4:00)
+
+## 1502
+
+### Building CRUD Applications (2:00 - 4:00)
