@@ -9,34 +9,7 @@ layout: outline
 
 #### Turing Struct
 
-Let's create a Turing Struct ruby class which wraps a hash and exposes
-its keys as methods.
-
-A Turing Struct accepts a hash when it's initialized, e.g.:
-
-```
-TuringStruct.new({my: "hash"})
-```
-
-When we provide a hash to a TuringStruct, we can then ask it for the
-keys of that hash as if they were methods:
-
-```
-struct = TuringStruct.new({some: "value", another: "thing"})
-struct.some
-# => "value"
-struct.another
-# => "thing"
-```
-
-__Extension:__ Once you have a working struct, see what it would take to allow
-method-chaining to retrieve nested hash data:
-
-```
-struct = TuringStruct.new({nested: {another: "hash"})
-struct.nested.another
-# => "hash"
-```
+<script src="https://gist.github.com/worace/561fba1b5eef00652b11.js"></script>
 
 ## 1410
 
@@ -68,11 +41,17 @@ Let's step slowly and deliberately though a collection of nested routes.
 
 ### Multitenancy Authorization (9:00 - 12:00)
 
-Meet with Jorge in Classroom C to talk about making sure the wrong people don't get access to the wrong things.
+Meet with Jorge in Classroom C to talk about making sure the wrong people don't get access to the wrong things. You can download the notes [here](https://www.dropbox.com/s/2b1zpyj8qm8acdu/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0).
 
 ### Iteration One Check-ins and Project Work Time (1:00 - 4:00)
 
-Time to meet with your client.
+Time to meet with your client at the conference table next the to the Instructors' Den.
+
+* 1:00 - 1:30 Gallery
+* 1:30 - 2:00 FreshThreads
+* 2:00 - 2:30 TravelHome
+* 2:30 - 3:00 Airlift
+* 3:00 - 3:30 Keevah
 
 ## 1502
 
@@ -102,14 +81,17 @@ WHAT'S THAT!? YOU LOVE WRITING RUBY? SO DOES GRANDMA. Let's talk about it in Cla
 
 Join Horace in Classroom A to discuss the concepts behind [Object Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
 
-### Deaf Grandma with OOP (1:00 - 2:00)
+### Deaf Grandma Recap (1:00 - 1:30)
 
-Stay with Horace in Classroom A to practice applying your new Object-Oriented Programming techniques to Deaf Grandma.
+Let's not leave grandma hanging. Since we didn't get to it this morning, let's check out some of our solutions for the Grandma exercise from yesterday and see if we can pick up any insights. (Classroom A)
 
-### Spiraling Design & Tests (2:00 - 3:30)
+### Deaf Grandma with OOP (1:30 - 2:30)
 
-Join Horace in Classroom A to talk about applying iterative problem solving
-to designing software tests.
+These Grandmas are pretty cool but they'd be a lot cooler if they used OOP. Let's practice applying some of our new Object-Oriented-Programming techniques to Deaf Grandma. (Classroom A)
+
+### Spiraling Design & Tests (2:30 - 3:30)
+
+Now that we've got an OO Grandma, let's put it all together with some tests. Stay put in Classroom A to walk through a test-driven implementation of Grandma.
 
 ### Fibber Project Kick-Off and Work Time (3:30 - 4:00)
 
