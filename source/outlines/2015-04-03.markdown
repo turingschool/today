@@ -18,7 +18,8 @@ layout: outline
 
 ### Self-Study Sessions (9:30 - 11:00)
 
-* Konr is running a session on blogging with Ghost and Github
+* Konr is running a session on blogging with Ghost and Github.
+* Eric will be running a session Ruby procs, blocks, and lambdas—if you've ever been confused by them or just want to know more, seek him out.
 
 ### One-on-Ones (9:30 - 11:00)
 
@@ -54,9 +55,9 @@ layout: outline
 * 9:30: Stanley Siudzinski
 * 9:45: Andrew Carmer
 * 10:00: David Daniel
-* 10:15: Eric Dowty
+* 10:15: Jack Yeh
 * 10:30: Eugene Khanutin
-* 10:45: Jack Yeh
+* 10:45: Eric Dowty
 
 #### With Rachel
 
