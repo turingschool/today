@@ -42,15 +42,6 @@ layout: outline
 * 10:30: Morgan Miller
 * 10:45: Justin Holmes
 
-#### With Jorge
-
-* 9:30: Miriam Moser
-* 9:45: Kyra Steenbock
-* 10:00: Jeffrey Gu
-* 10:15: Paul Grever
-* 10:30: Markus Olsen
-* 10:45: Dustin Gault
-
 #### With Josh
 
 * 9:30: Stanley Siudzinski
@@ -71,13 +62,19 @@ layout: outline
 
 #### With Raissa
 
-* 10:30: Max Tedford
-* 10:45: Rick Bacci
+* 9:30: Paul Grever
+* 9:45: Markus Olsen
+* 10:00: Dustin Gault
+* 10:15: Max Tedford
+* 10:30: Rick Bacci
 
 #### With Daisha
 
-* 10:30: Sally MacNicholas
-* 10:45: Vanessa Gomez
+* 9:30: Miriam Moser
+* 9:45: Kyra Steenbock
+* 10:00: Jeffrey Gu
+* 10:15: Sally MacNicholas
+* 10:30: Vanessa Gomez
 
 ### Lightning Talks (11:00 - 12:00)
 
@@ -117,9 +114,9 @@ Avoid gitastrophy with Horace in Classroom B.
 
 Build awesome front-ends with Rachel in Classroom A.
 
-#### Being Jorge with Jorge
+#### PHP with Jorge (for real)
 
-What is there to say that hasn't already been said?
+Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
 
 #### Side Hustles with Steve
 
