@@ -11,62 +11,71 @@ layout: outline
 
 ### Group Retrospective (9:00 - 9:30)
 
+* 1410 in Classroom B with Steve, Raissa, and Wes.
+* 1412 in Classroom C with Jorge.
+* 1502 in the Big Workspace with Rachel and Josh.
+* 1503 in Classroom A with Horace and Daisha.
+
+### Self-Study Sessions (9:30 - 11:00)
+
+* Konr is running a session on blogging with Ghost and Github
+
 ### One-on-Ones (9:30 - 11:00)
 
 #### With Steve
 
-Bryce Holcomb
-Brandon Mrsny
-Alexandra Robinson
-Jeffrey Wan
-Krista A Nelson
-Bhargavi Satpathy
+* 9:30: Bryce Holcomb
+* 9:45: Brandon Mrsny
+* 10:00: Alexandra Robinson
+* 10:15: Jeffrey Wan
+* 10:30: Krista A Nelson
+* 10:45: Bhargavi Satpathy
 
 #### With Horace
 
-Emily Berkeley
-Chris Luhring
-Andrew Fink
-Justin Pease
-Morgan Miller
-Justin Holmes
+* 9:30: Emily Berkeley
+* 9:45: Chris Luhring
+* 10:00: Andrew Fink
+* 10:15: Justin Pease
+* 10:30: Morgan Miller
+* 10:45: Justin Holmes
 
 #### With Jorge
 
-Miriam Moser
-Kyra Steenbock
-Jeffrey Gu
-Paul Grever
-Markus Olsen
-Dustin Gault
+* 9:30: Miriam Moser
+* 9:45: Kyra Steenbock
+* 10:00: Jeffrey Gu
+* 10:15: Paul Grever
+* 10:30: Markus Olsen
+* 10:45: Dustin Gault
 
 #### With Josh
 
-Stanley Siudzinski
-Andrew Carmer
-David Daniel
-Eric Dowty
-Eugene Khanutin
-Jack Yeh
+* 9:30: Stanley Siudzinski
+* 9:45: Andrew Carmer
+* 10:00: David Daniel
+* 10:15: Eric Dowty
+* 10:30: Eugene Khanutin
+* 10:45: Jack Yeh
 
 #### With Rachel
 
-Jamie Kawahara
-Kenny Chen
-Kristina Brown
-Melody Lin
-Kim Murphy
-Brett Grigsby
+* 9:30: Jamie Kawahara
+* 9:45: Kenny Chen
+* 10:00: Kristina Brown
+* 10:15: Melody Lin
+* 10:30: Kim Murphy
+* 10:45: Brett Grigsby
 
 #### With Raissa
 
-Max Tedford
-Rick Bacci
+* 9:30: Max Tedford
+* 9:45: Rick Bacci
 
 #### With Daisha
 
-Sally MacNicholas
-Vanessa Gomez
+* 9:30: Sally MacNicholas
+* 9:45: Vanessa Gomez
 
 ### Lightning Talks (11:00 - 12:00)
 
@@ -74,8 +83,58 @@ Vanessa Gomez
 
 ### Guest Speaker: Rachel Scott (1:00 - 2:00)
 
+Rachel is the VP of Marketing Communications at a little consultancy called QuickLeft up in Boulder, Colorado.
+
+* [rachel.bike](http://rachel.bike)
+* [Twitter](http://twitter.com/missbikesalot)
+* [LinkedIn](http://www.linkedin.com/in/rachelscottworks/)
+
+### Film Club (2:00 - 2:30)
+
+Choose your own adventure:
+
+* [Refactoring from Good to Great][ben] by Ben Orenstein in the Big Workspace with Steve.
+* [Ruby Objects: A Walkabout][obj] by Terence Lee in Classroom B with Josh.
+* [Enumerable for Fun and Profit][enum] by Michael Hartl in Classroom A with Rachel.
+
+[ben]: http://confreaks.tv/videos/rubyconfau2013-refactoring-from-good-to-great-a-live-coding-odyssey
+[obj]: http://confreaks.tv/videos/roa2015-ruby-objects-a-walkabout
+[enum]: http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit
+
 ### Electives (2:30 - 4:00)
+
+#### Learn Python the Hard Way with Josh
+
+Interested in learning another language? Join Josh to work through Zed Shaw's _Learn Python the Hard Way_ in the Big Workspace.
+
+#### Git for the Brave of Heart with Horace
+
+Avoid gitastrophy with Horace in Classroom B.
+
+#### Angular: The Other Ember with Rachel
+
+Build awesome front-ends with Rachel in Classroom A.
+
+#### Being Jorge with Jorge
+
+What is there to say that hasn't already been said?
+
+#### Side Hustles with Steve
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+* We'll share some details about our projects
+* We'll set deadlines for shipping features
+* We'll pair and write some code
+
+Meet with Steve in the Big Workspace.
+
+#### Team Draper
+
+Meet with Mike Dao by the couches where the 3D printer used to be in Classroom A.
 
 ## 1502
 
 ### Building CRUD Applications (2:00 - 4:00)
+
+This afternoon you'll be working with Jason Noble from Comverge and talking about building CRUD applications in Sinatra.
