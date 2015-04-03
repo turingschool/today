@@ -81,7 +81,16 @@ layout: outline
 
 ### Lightning Talks (11:00 - 12:00)
 
-(To be announced…)
+Gather in the big workspace. 
+
+* Konr Larson: 3d Printing Humans
+* Laura Whalin: Mad About Hashes
+* Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
+* DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags
+* Bryce Holcomb: Streaming APIs: Surviving the Firehose 
+* Dustin Gault: The Dark Web: an exploration of unsearchable URLs
+* Andrew Carmer: Names: Remember them to be remembered.
+* Austin Wood: A Lightning Talk on Lightning Talks.
 
 ### Guest Speaker: Rachel Scott (1:00 - 2:00)
 
