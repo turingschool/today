@@ -81,13 +81,13 @@ layout: outline
 
 ### Lightning Talks (11:00 - 12:00)
 
-Gather in the big workspace. 
+Gather in the big workspace.
 
 * Konr Larson: 3d Printing Humans
 * Laura Whalin: Mad About Hashes
 * Jack Yeh: Burning Man and Tech: The unlikely marriage of two vastly different cultures.
 * DJ Greenfield: Technology & Ethics or Design / User Experience: Dark Patterns, When Programmers are Scumbags
-* Bryce Holcomb: Streaming APIs: Surviving the Firehose 
+* Bryce Holcomb: Streaming APIs: Surviving the Firehose
 * Dustin Gault: The Dark Web: an exploration of unsearchable URLs
 * Andrew Carmer: Names: Remember them to be remembered.
 * Austin Wood: A Lightning Talk on Lightning Talks.
@@ -100,19 +100,16 @@ Rachel is the VP of Marketing Communications at a little consultancy called Quic
 * [Twitter](http://twitter.com/missbikesalot)
 * [LinkedIn](http://www.linkedin.com/in/rachelscottworks/)
 
-### Film Club (2:00 - 2:30)
 
-Choose your own adventure:
+### Guest Speaker: Becky Boone (2:00 - 3:00)
 
-* [Refactoring from Good to Great][ben] by Ben Orenstein in the Big Workspace with Steve.
-* [Ruby Objects: A Walkabout][obj] by Terence Lee in Classroom B with Josh.
-* [Enumerable for Fun and Profit][enum] by Michael Hartl in Classroom A with Rachel.
+Becky is a software developer from Anchorage, AK. She enjoys volunteering her technical skills locally. This past year she taught free programming classes to women, as well as managed the city's commuter challenge open source project. Becky stays outside in Alaska year round through biking, hiking, and cross-country skiing.
 
-[ben]: http://confreaks.tv/videos/rubyconfau2013-refactoring-from-good-to-great-a-live-coding-odyssey
-[obj]: http://confreaks.tv/videos/roa2015-ruby-objects-a-walkabout
-[enum]: http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit
+* [Twitter](https://twitter.com/boonrs)
+* [Github](http://github.com/boonrs)
+* [LinkedIn](http://www.linkedin.com/in/rebeccaboone/)
 
-### Electives (2:30 - 4:00)
+### Electives (2:00 - 4:00)
 
 #### Learn Python the Hard Way with Josh
 
@@ -124,7 +121,7 @@ Avoid gitastrophy with Horace in Classroom B.
 
 #### Turing Outreach
 
-Interested in teaching programming to 5th and 6th graders? Join Rachel by the staff table to plan out four lessons based on [Scratch](https://scratch.mit.edu/) that we'll use starting on Saturday, April 11 with students at [KIPP Sunshine Peak Academy](http://www.kipp.org/school-content/kipp-sunshine-peak-academy). 
+Interested in teaching programming to 5th and 6th graders? Join Rachel by the staff table to plan out four lessons based on [Scratch](https://scratch.mit.edu/) that we'll use starting on Saturday, April 11 with students at [KIPP Sunshine Peak Academy](http://www.kipp.org/school-content/kipp-sunshine-peak-academy).
 
 #### PHP with Jorge (for real)
 
