@@ -20,6 +20,7 @@ layout: outline
 
 * Konr is running a session on blogging with Ghost and Github.
 * Eric will be running a session Ruby procs, blocks, and lambdas—if you've ever been confused by them or just want to know more, seek him out.
+* Mike will be running two pairing sessions, 9:30 and 10:15. Shoot him a message on Slack.
 
 ### One-on-Ones (9:30 - 11:00)
 
