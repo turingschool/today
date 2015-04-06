@@ -1,0 +1,88 @@
+---
+title: 20150406
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 9:00)
+
+Meet with you posses:
+
+* Schedule cross-cohor pairing/mentoring sessions
+* Update mentors with the projects you're currently working on
+* Schedule pairing sessions with mentors
+
+### Cross-Cohort Pairing (2:30 - 4:00)
+
+It's time to sharped our skills. We'll be working with colleagues from assorted cohorts.
+
+### Outreach Elective (4:00 - 5:00)
+
+If you're interested in doing outreach in local public schools, meet with Rachel in Classroom C.
+
+## 1410
+
+### Daily JavaScript (9:00 - 9:30)
+
+This morning, we'll discuss importing and exporting in Node in Classroom A.
+
+### Ember Routing (9:30 - 11:00)
+
+This morning, we're going to get knee deep in Ember routing with Steve in Classroom A.
+
+* [Beard Beats](https://github.com/turingschool-examples/beard-beats)
+
+### Building a Wrapper Gem (11:00 - 12:00)
+
+Horace will drop by Classroom A to talk about building a wrapper gem for your application.
+
+### Background Workers Revisited (1:00 - 2:30)
+
+Let's review background workers with Horace in Classroom C.
+
+## 1412
+
+### JavaScript in Rails (9:00 - 10:30)
+
+So, you want to do some trickery in the browser, eh? Josh will show you how in Classroom B.
+
+### Testing JavaScript (10:30 - 12:00)
+
+Now that you're writing JavaScript in your Rails applications, let's put a test on it with Josh in Classroom B.
+
+### The Weekly Iteration (1:00 - 2:30)
+
+Join Josh in the Big Workspace to level up for the week.
+
+## 1502
+
+### Project Review Q&A (9:00 - 10:00)
+
+If you've got questions, Rachel's got answers in Classroom C.
+
+### Database Design and Modeling (10:00 - 12:00)
+
+Stick around with Rachel in Classroom C to design some databases and model some—er, stuff.
+
+### ActiveRecord in Sinatra (1:00 - 2:00)
+
+With SalesEngine behind you, it's time to tackles ActiveRecord with Rachel in Classroom B.
+
+### Traffic Spy Kickoff (2:00 - 2:30)
+
+Let's kick off your newest project: Traffic Spy in Classroom B.
+
+## 1503
+
+### Fibber Recap (9:00 - 10:30)
+
+Reflect on some of the fibs you've told with Horace in the Big Workspace.
+
+### Introducing Enumerables (10:30 - 12:00)
+
+Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel of the Ruby programming language.
+
+### How to Pair Program (1:00 - 2:30)
+
+Let's talk about pair programming with Jeff in Classroom A.
