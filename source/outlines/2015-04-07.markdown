@@ -1,0 +1,72 @@
+---
+title: 20150407
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+## 1410
+
+### Getting Started with Services (9:00 - 10:30)
+
+Join Horace in Classroom B to get started with services.
+
+### Daily JavaScript (10:30 - 11:00)
+
+Stick around in Classroom B as Steve drops by to talk about JavaScript.
+
+### Social Butterfly (11:00 - 12:00)
+
+We'll review the homework and talk a little bit about TDD in Classroom B with Steve.
+
+### Project Work Time (1:00 - 4:00)
+
+Steve will be on hand for questions and brief check-ins.
+
+## 1412
+
+### Traversing the DOM with jQuery (9:00 - 10:30)
+
+Meet with Jorge in the Big Workspace to traverse the DOM.
+
+### DOM Events with jQuery (10:30 - 12:00)
+
+`$('#jorge').on('click', function () { console.log('Big Workspace') });`
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+This afternoon, you'll meet with your client to check in on your progress.
+
+## 1502
+
+### Homework Review (9:00 - 9:30)
+
+Meet with Rachel in Classroom C to review the homework.
+
+### Using Rack: Testing in a Sinatra Application (9:30 - 10:00)
+
+Rachel will put Sinatra to the test in Classroom C.
+
+### Project Work Time (11:00 - 12:00)
+
+It's time to spy on some traffic. Rachel is on hand for questions.
+
+### Project Work Time (1:00 - 4:00)
+
+Continue spying on traffic. Rachel is on hand for questions.
+
+## 1503
+
+### How Git Works (9:00 - 10:30)
+
+Learn the basics of Git with Jeff in Classroom A.
+
+### Using Source Control (10:30 - 12:00)
+
+Stick around in Classroom as Horace drops by to talk about using source control.
+
+### Work Time Enumerables and Git (1:00 - 4:00)
+
+Horace will be on hand for questions.
