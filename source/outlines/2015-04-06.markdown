@@ -84,7 +84,7 @@ Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/ma
 
 ### Introducing Enumerables (10:30 - 12:00)
 
-Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel of the Ruby programming language.
+Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel of the Ruby programming language. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) and you'll work on [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises).
 
 ### How to Pair Program (1:00 - 2:30)
 
