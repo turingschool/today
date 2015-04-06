@@ -88,4 +88,4 @@ Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel
 
 ### How to Pair Program (1:00 - 2:30)
 
-Let's talk about pair programming with Jeff in Classroom A.
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
