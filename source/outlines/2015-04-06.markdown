@@ -27,6 +27,8 @@ If you're interested in doing outreach in local public schools, meet with Rachel
 
 This morning, we'll discuss importing and exporting in Node in Classroom A.
 
+* [Modular](https://github.com/turingschool-examples/modular)
+
 ### Ember Routing (9:30 - 11:00)
 
 This morning, we're going to get knee deep in Ember routing with Steve in Classroom A.
