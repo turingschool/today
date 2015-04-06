@@ -62,7 +62,11 @@ Join Josh in the Big Workspace to level up for the week.
 
 ### Project Peer Review (9:00 - 9:30)
 
-In classroom C, work in the following pairs to review Skill Inventory or Robot World: 
+In classroom C, work in the following pairs to review Skill Inventory or Robot World. Things to look at:
+
+* What changes needed to be made to the methods inside of the "manager" class when you switched to Sequel?
+* Did model testing change? What about feature testing?
+* How were the extensions implemented? (Need a reminder of what the extensions were? Check the bottom of this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).)
 
 * Kristina Brown & Mihir Parikh
 * Patrick Medaugh & Kenny Chen
