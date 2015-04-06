@@ -175,15 +175,15 @@ In classroom C, work in the following pairs to review Skill Inventory or Robot W
 
 ### Project Q&A / Recap (9:30 - 10:00)
 
-Join Rachel in Classroom C for project recap and Q&A. 
+Join Rachel in Classroom C for project recap and Q&A.
 
 ### Database Design and Modeling (10:00 - 11:00)
 
-Stick around with Rachel in Classroom C to design some databases and model some—er, stuff. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_design_modeling.markdown). 
+Stick around with Rachel in Classroom C to design some databases and model some—er, stuff. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_design_modeling.markdown).
 
 ### ActiveRecord in Sinatra (11:00 - 12:00 & 1:00 - 2:00)
 
-With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
+With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
@@ -197,7 +197,7 @@ Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.
 
 ### Homework
 
-Take a look at the Traffic Spy assignment and play with Active Record. Check out the assignment [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown). 
+Take a look at the Traffic Spy assignment and play with Active Record. Check out the assignment [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).
 
 ## 1503
 
@@ -212,6 +212,11 @@ Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel
 ### How to Pair Program (1:00 - 2:30)
 
 Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
+
+We'll make use of these exercises:
+
+* [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
+* [Change](https://github.com/exercism/x-common/blob/master/change.md)
 
 ### Homework
 
