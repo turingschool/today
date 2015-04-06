@@ -9,13 +9,102 @@ layout: outline
 
 Meet with you posses:
 
-* Schedule cross-cohor pairing/mentoring sessions
+* Schedule student-to-student pairing/mentoring sessions
 * Update mentors with the projects you're currently working on
 * Schedule pairing sessions with mentors
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
 It's time to sharped our skills. We'll be working with colleagues from assorted cohorts.
+Everyone needs to meet in the big workspace at 2:30.
+
+Today we're going to run two 40-minute sessions experimenting with the [Game of
+Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). You should read that
+Wikipedia page beforehand. It's very unlikely that you'll succeed in implementing
+the game, the point is to practice your programming and pairing. Consider focusing
+on the "Still Lifes" and "Oscillators" demonstrated in the article.
+
+Please work with the following randomly-generated pairings. You should use one
+computer and an external keyboard. If your pair is MIA or you're not listed, come
+up to the front of the room.
+
+#### Session 1 - Top-Down
+
+In this first session, approach the problem "top-down" starting with a board
+and working towards cells.
+
+* Minnie Lee & Kyra Steenbock
+* Morgan Miller & Michael Merrill
+* Nathan Owsiany & Kristina Brown
+* Markus Olsen & Chelsea Worrel
+* Eric Dowty & Kit Pearson
+* Justin Holmes & Konr Josef Larson
+* Austin Wood & Edward McCarthy
+* Dave Maurer & Chris Luhring
+* Bhargavi Satpathy & Brett Grigsby
+* Patrick Medaugh & Paul Grever
+* Jeffrey Wan & Dustin Gault
+* Adam Smith & Josh Cass
+* Orion Osborn & Rob Cornell
+* Drew Reynolds & Andrew Carmer
+* DJ Greenfield & Michelle Golle
+* Trey Tomlinson & Tracy Caruso
+* Mihir Parikh & Sally MacNicholas
+* Rich Shea & Charles Valentino Espinoza
+* Lydia Shafer & Stanley Siudzinski
+* Kyle Henson & Krista A Nelson
+* Jack Yeh & Max Tedford
+* Vanessa Gomez & Scott Crawford
+* David Daniel & Thomas Leskin
+* Laura Whalin & Erik Butcher
+* Andrew Fink & Jeffrey Gu
+* Kenny Chen & Tess Griffin
+* Rick Bacci & Dmitry Vizersky
+* Miriam Moser & Emily Berkeley
+* Jamie Kawahara & Alexandra Robinson
+* Michael Dao & Lev Kravinsky
+* Brandon Mrsny & Bryce Holcomb
+* Lori Culberson & Eugene Khanutin
+* Margarett Ly & Whitney Hiemstra
+
+#### Session 2
+
+In the second session, approach the problem "bottom-up" starting with a cell
+and working towards a board.
+
+* Margarett Ly & Emily Berkeley
+* Rob Cornell & Eugene Khanutin
+* Lori Culberson & Kyle Henson
+* Brett Grigsby & Konr Josef Larson
+* Dave Maurer & Chris Luhring
+* Josh Cass & Rick Bacci
+* Scott Crawford & Brandon Mrsny
+* Stanley Siudzinski & Adam Smith
+* Edward McCarthy & Kristina Brown
+* Nathan Owsiany & Alexandra Robinson
+* Markus Olsen & Sally MacNicholas
+* Thomas Leskin & David Daniel
+* Andrew Fink & Michael Merrill
+* Mihir Parikh & Michelle Golle
+* Kyra Steenbock & DJ Greenfield
+* Jamie Kawahara & Laura Whalin
+* Miriam Moser & Rich Shea
+* Bhargavi Satpathy & Tracy Caruso
+* Orion Osborn & Erik Butcher
+* Austin Wood & Chelsea Worrel
+* Whitney Hiemstra & Dustin Gault
+* Jeffrey Wan & Eric Dowty
+* Andrew Carmer & Jack Yeh
+* Max Tedford & Lydia Shafer
+* Dmitry Vizersky & Patrick Medaugh
+* Kit Pearson & Charles Valentino Espinoza
+* Michael Dao & Trey Tomlinson
+* Lev Kravinsky & Bryce Holcomb
+* Minnie Lee & Justin Holmes
+* Krista A Nelson & Drew Reynolds
+* Tess Griffin & Jeffrey Gu
+* Vanessa Gomez & Kenny Chen
+* Morgan Miller & Paul Grever
 
 ### Outreach Elective (4:00 - 5:00)
 
@@ -53,38 +142,84 @@ So, you want to do some trickery in the browser, eh? Josh will show you how in C
 
 Now that you're writing JavaScript in your Rails applications, let's put a test on it with Josh in Classroom B.
 
-### The Weekly Iteration (1:00 - 2:30)
+Work through the steps in this Capybara, Poltergeist, and Phantom.js [tutorial](http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html).
 
-Join Josh in the Big Workspace to level up for the week.
+### Project Worktime (1:00 - 4:00)
+
+Focus on implementing an AJAX feature into your Pivots.
+
+### Resources
+
+* jQuery AJAX [docs](https://api.jquery.com/jQuery.ajax/)
+* [Working with JavaScript in Rails](http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html)
+* [form_for docs](http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_for)
+* Ask yourself: What would Richard do? Then, don't do that thing.
 
 ## 1502
 
-### Project Review Q&A (9:00 - 10:00)
+### Project Peer Review (9:00 - 9:30)
 
-If you've got questions, Rachel's got answers in Classroom C.
+In classroom C, work in the following pairs to review Skill Inventory or Robot World. Things to look at:
 
-### Database Design and Modeling (10:00 - 12:00)
+* What changes needed to be made to the methods inside of the "manager" class when you switched to Sequel?
+* Did model testing change? What about feature testing?
+* How were the extensions implemented? (Need a reminder of what the extensions were? Check the bottom of this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).)
 
-Stick around with Rachel in Classroom C to design some databases and model some—er, stuff.
+* Kristina Brown & Mihir Parikh
+* Patrick Medaugh & Kenny Chen
+* Jack Yeh & Andrew Carmer
+* Michelle Golle & Jamie Kawahara
+* Kyle Henson & Eric Dowty & Tracy Caruso
+* Minnie Lee & Tess Griffin
+* David Daniel & Thomas Leskin
 
-### ActiveRecord in Sinatra (1:00 - 2:00)
+### Project Q&A / Recap (9:30 - 10:00)
 
-With SalesEngine behind you, it's time to tackles ActiveRecord with Rachel in Classroom B.
+Join Rachel in Classroom C for project recap and Q&A.
+
+### Database Design and Modeling (10:00 - 11:00)
+
+Stick around with Rachel in Classroom C to design some databases and model some—er, stuff. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_design_modeling.markdown).
+
+### ActiveRecord in Sinatra (11:00 - 12:00 & 1:00 - 2:00)
+
+With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
-Let's kick off your newest project: Traffic Spy in Classroom B.
+Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom B.
+
+* Andrew Carmer & David Daniel & Eric Dowty
+* Jack Yeh & Jamie Kawahara & Kenny Chen
+* Kristina Brown & Kyle Henson & Michelle Golle
+* Mihir Parikh & Minnie Lee & Patrick Medaugh
+* Tess Griffin & Thomas Leskin & Tracy Caruso
+
+### Homework
+
+Take a look at the Traffic Spy assignment and play with Active Record. Check out the assignment [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).
 
 ## 1503
 
 ### Fibber Recap (9:00 - 10:30)
 
-Reflect on some of the fibs you've told with Horace in the Big Workspace.
+Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Horace in the Big Workspace.
 
 ### Introducing Enumerables (10:30 - 12:00)
 
-Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel of the Ruby programming language.
+Stick around as Jeff drops by in the Big Workspace to talk about the crown jewel of the Ruby programming language. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) and you'll work on [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises).
 
 ### How to Pair Program (1:00 - 2:30)
 
-Let's talk about pair programming with Jeff in Classroom A.
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
+
+We'll make use of these exercises:
+
+* [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
+* [Change](https://github.com/exercism/x-common/blob/master/change.md)
+
+### Homework
+
+* Spend about 2 hours pushing forward on your [Enumerables exercises](https://github.com/turingschool/enums-exercises)
+* Spend about 90 minutes on [Sandi Metz' POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown) Part 1,
+reading the specified pages and completing the exercise
