@@ -142,9 +142,18 @@ So, you want to do some trickery in the browser, eh? Josh will show you how in C
 
 Now that you're writing JavaScript in your Rails applications, let's put a test on it with Josh in Classroom B.
 
-### The Weekly Iteration (1:00 - 2:30)
+Work through the steps in this Capybara, Poltergeist, and Phantom.js (tutorial)[http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html].
 
-Join Josh in the Big Workspace to level up for the week.
+### Project Worktime (1:00 - 4:00)
+
+Focus on implementing an AJAX feature into your Pivots.
+
+### Resources
+
+* jQuery AJAX (docs)[https://api.jquery.com/jQuery.ajax/]
+* (Working with JavaScript in Rails)[http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html]
+* (form_for docs)[http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_for]
+* Ask yourself: What would Richard do? Then, don't do that thing.
 
 ## 1502
 
