@@ -9,13 +9,14 @@ layout: outline
 
 Meet with you posses:
 
-* Schedule cross-cohor pairing/mentoring sessions
+* Schedule student-to-student pairing/mentoring sessions
 * Update mentors with the projects you're currently working on
 * Schedule pairing sessions with mentors
 
 ### Cross-Cohort Pairing (2:30 - 4:00)
 
 It's time to sharped our skills. We'll be working with colleagues from assorted cohorts.
+Everyone needs to meet in the big workspace at 2:30.
 
 ### Outreach Elective (4:00 - 5:00)
 
@@ -79,7 +80,7 @@ Let's kick off your newest project: Traffic Spy in Classroom B.
 
 ### Fibber Recap (9:00 - 10:30)
 
-Reflect on some of the fibs you've told with Horace in the Big Workspace.
+Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Horace in the Big Workspace.
 
 ### Introducing Enumerables (10:30 - 12:00)
 
