@@ -189,6 +189,12 @@ With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Cla
 
 Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom B.
 
+* Andrew Carmer & David Daniel & Eric Dowty
+* Jack Yeh & Jamie Kawahara & Kenny Chen
+* Kristina Brown & Kyle Henson & Michelle Golle
+* Mihir Parikh & Minnie Lee & Patrick Medaugh
+* Tess Griffin & Thomas Leskin & Tracy Caruso
+
 ### Homework
 
 Take a look at the Traffic Spy assignment and play with Active Record. Check out the assignment [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown). 
