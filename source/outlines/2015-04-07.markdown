@@ -79,7 +79,7 @@ Meet with Rachel in Classroom C to review the homework.
 
 ### Using Rack: Testing in a Sinatra Application (9:30 - 10:00)
 
-Rachel will put Sinatra to the test in Classroom C.
+Rachel will put Sinatra to the test in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown). 
 
 ### Project Work Time (11:00 - 12:00)
 
