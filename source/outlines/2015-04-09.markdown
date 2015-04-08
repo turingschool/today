@@ -7,6 +7,8 @@ layout: outline
 
 ### Warm Up (8:30 - 8:50)
 
+It's JavaScript Thursday! As a posse, choose an JavaScript Exercism. Let's share our published solutions for nitpicking on the Exercism website.
+
 ## 1410
 
 ### Daily JavaScript (9:00 - 9:30)
