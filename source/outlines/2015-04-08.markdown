@@ -22,6 +22,8 @@ Can you write tests and implementations for the following?
 
 A JavaScript a day keeps Jorge away.
 
+Today, we'll be focusing on `reduce` with [these challenges](https://gist.github.com/stevekinney/2b24ec29ce0142c4497f).
+
 (Meet with Steve in the Big Workspace.)
 
 ### Project Work Time (9:30 - 12:00)
