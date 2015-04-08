@@ -34,13 +34,16 @@ Steve will be around for questions.
 
 Steve is still around for questions.
 
-### FeedEngine API Release Candidates Check-ins (2:00 - 3:30)
+### FeedEngine API Release Candidates Check-ins (2:00 - 4:00)
 
 Yes, we checked in yesterday, but let's do it again today with a focus on wire framing and planning out our client applications.
 
-### FeedEngine Client Kickoff (3:30 - 4:00)
+#### With Horace and Steve
 
-With our APIs on soft lockdown, let's turn our attention to the client-side of things. Meet with Steve in the Big Workspace.
+* 2:00: Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+* 2:30: Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* 3:00: Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* 3:30: Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
 
 ## 1412
 
