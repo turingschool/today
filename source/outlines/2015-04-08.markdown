@@ -1,0 +1,93 @@
+---
+title: 20150408
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 8:50)
+
+Let's revisit our allergy algorithm from yesterday.
+
+Can you write tests and implementations for the following?
+
+* If they have all of the allergies, they should have a score of 255.
+* If they are allergic to strawberries, tomatoes, chocolate, pollen, and cats, they their score should be 248.
+
+**Important**: The idea is that you pass in the number (e.g. 248) and the algorithm can return an array with all the things the patient is allergic to.
+
+## 1410
+
+### Daily JavaScript (9:00 - 9:30)
+
+A JavaScript a day keeps Jorge away.
+
+(Meet with Steve in the Big Workspace.)
+
+### Project Work Time (9:30 - 12:00)
+
+Steve will be around for questions.
+
+### Project Work Time (1:00 - 2:00)
+
+Steve is still around for questions.
+
+### FeedEngine API Release Candidates Check-ins (2:00 - 3:30)
+
+Yes, we checked in yesterday, but let's do it again today with a focus on wire framing and planning out our client applications.
+
+### FeedEngine Client Kickoff (3:30 - 4:00)
+
+With our APIs on soft lockdown, let's turn our attention to the client-side of things. Meet with Steve in the Big Workspace.
+
+## 1412
+
+### Fundamental Rails Security (9:00 - 12:00)
+
+Don't be the person who leaves a giant security hole in your Rails application.
+
+Meet with Jorge in Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Watch [this video](https://www.youtube.com/watch?v=n67RYI_0sc0) and then get to work on your pivots.
+
+## 1502
+
+### Traffic Spy Questions and Answers (9:00 - 10:00)
+
+If you have questions—Josh has answers. Those answers are waiting for you in Classroom C.
+
+Find them. Go. Find them.
+
+### View Templating (10:00 - 11:00)
+
+You want to render your awesome content in the best possible way, don't you?
+
+Yes? Meet Josh in Classroom C.
+
+### Project Work Time (11:00 - 12:00)
+
+Rachel is on hand for questions.
+
+### Project Work Time (1:00 - 4:00)
+
+Rachel is still on hand for questions.
+
+## 1503
+
+### Pairing on Cryptographer (9:00 - 12:00)
+
+Join Horace in Classroom B to kick off pairing with on cracking the code—and coding the code.
+
+(Pro-tip: You'll also be getting your head shots.)
+
+### Introduction to the Bubble Sort (1:00 - 2:00)
+
+"The bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems" — Donald Knuth.
+
+Join Jeff in Classroom C in to discuss the finer points of the bubble sort.
+
+### Work Time (2:00 - 4:00)
+
+Let's get to work.
