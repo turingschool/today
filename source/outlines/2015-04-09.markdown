@@ -23,9 +23,13 @@ We'll work on some of [these challenges](https://github.com/turingschool-example
 
 This morning, we'll work on wireframes and doing a first spike on our client-side applications. Steve will be stopping on each group to help you nail down your approach.
 
-### Project Work Time (1:00 - 4:00)
+### Testing in Ember (1:00 - 2:30)
 
-Steve is still around for questions.
+Let's meet in Classroom B to talk about how to test your new Ember applications.
+
+### Project Work Time (2:30 - 4:00)
+
+Steve is around for questions.
 
 ## 1412
 
