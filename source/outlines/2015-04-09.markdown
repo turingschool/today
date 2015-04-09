@@ -15,9 +15,13 @@ It's JavaScript Thursday! As a posse, choose an JavaScript Exercism. Let's share
 
 Another day, another JavaScript challenge. Today, let's talk a little bit about Underscore and Lodash.
 
+Let's meet in Classroom B.
+
+We'll work on some of [these challenges](https://github.com/turingschool-examples/enumerable-challenges/tree/underscore-challenges).
+
 ### Client-Side Wire-framing and Design Check-ins (9:30 - 12:00)
 
-Steve will be meeting with each group. The schedule is forthcoming.
+This morning, we'll work on wireframes and doing a first spike on our client-side applications. Steve will be stopping on each group to help you nail down your approach.
 
 ### Project Work Time (1:00 - 4:00)
 
