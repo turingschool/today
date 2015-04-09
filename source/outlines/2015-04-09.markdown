@@ -64,14 +64,14 @@ Rachel is on hand for questions.
 
 ## 1503
 
-### Minitest with Bubble Scope (9:00 - 10:30)
+### Minitest with Bubble Sort (9:00 - 10:30)
 
 Join Jeff to put a test on your bubble sort in Classroom A. [Here's the original
 assignment](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown).
 
 ### Arguments and Scope (10:30 - 12:00)
 
-Horace will help you argue about scope in Classroom A.
+Horace will help you argue about [scope](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/methods_arguments_and_scopes.markdown) in Classroom A.
 
 ### Credit Check Introduction (1:00 - 2:00)
 
