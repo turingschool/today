@@ -13,6 +13,8 @@ It's JavaScript Thursday! As a posse, choose an JavaScript Exercism. Let's share
 
 ### Daily JavaScript (9:00 - 9:30)
 
+Another day, another JavaScript challenge. Today, let's talk a little bit about Underscore and Lodash.
+
 ### Client-Side Wire-framing and Design Check-ins (9:30 - 12:00)
 
 Steve will be meeting with each group. The schedule is forthcoming.
@@ -29,7 +31,7 @@ Those pivots aren't going to pivot themselves.
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
-This afternoon be working on your client.
+This afternoon be working with your client.
 
 ## 1502
 
