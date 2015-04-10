@@ -26,7 +26,7 @@ layout: outline
 
 ### Posse Team-Activity (10:40 - 11:00)
 
-Meet with Lori in the Big Workspace for a surprise.
+Meet with Lori in the Big Workspace for a surprise. Lori will start her lightning talk around 10:55 and recap the activity. 
 
 ### One on Ones (9:30 - 11:00)
 
@@ -87,7 +87,6 @@ Meet with Lori in the Big Workspace for a surprise.
 
 Lots of lightning talks today! Make sure to be in the big workspace before 11am so that we can get started right away. 
 
-* Lori Culberson: The Marshmallow Challenge and Effective Software Design
 * Jeffrey Wan: Something about Postgres? 
 * Chris Luhring: No API, No Problem: How to find the data you need from OSM and render it using Mapbox Studio.
 * DJ Greenfield: Technology & Society: Trollin' Ain't Easy
