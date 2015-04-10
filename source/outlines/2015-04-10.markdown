@@ -126,9 +126,9 @@ Interested in learning another language? Join Josh to work through Zed Shaw's _L
 
 Avoid gitastrophy with Horace in Classroom B.
 
-#### Turing Outreach
+#### Real Client Work
 
-Interested in teaching programming to 5th and 6th graders? Join Rachel by the staff table to plan out four lessons based on [Scratch](https://scratch.mit.edu/) that we'll use starting on Saturday, April 11 with students at [KIPP Sunshine Peak Academy](http://www.kipp.org/school-content/kipp-sunshine-peak-academy).
+If you're interested in adding actual client work to your resume, join Rachel at that table by the staff area. We'll be planning out and starting an app for [Leaders In Training](http://leaders-in-training.org/), a non-profit organization whose mission it is to support high school students in their quest to become the first in their family to attend college. 
 
 #### PHP with Jorge
 
