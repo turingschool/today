@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-### Surveys (8:30 - 9:00)
+### Surveys and Breakfast (8:30 - 9:00)
 
 (Rachel will add these in shortly…)
 
@@ -15,6 +15,15 @@ layout: outline
 * 1412 in Classroom A with Josh and Jorge.
 * 1502 in the Classroom C with Rachel and Raissa.
 * 1503 in the Big Workspace with Jeff and Daisha.
+
+### Self-Study Sessions (9:30 - 10:40)
+
+* Eric will be exploring the inner workings of Rake.
+* Mike will be running two pairing sessions, 9:30 and 10:05. Shoot him a message on Slack.
+
+### Posse Team-Activity (10:40 - 11:00)
+
+Meet with Lori in the Big Workspace for a surprise.
 
 ### One on Ones (9:30 - 11:00)
 
