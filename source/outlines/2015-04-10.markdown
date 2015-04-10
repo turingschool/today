@@ -82,7 +82,19 @@ Meet with Lori in the Big Workspace for a surprise.
 
 ### Lightning Talks (11:00 - 12:00)
 
-(Rachel will add these in shortly…)
+Lots of lightning talks today! Make sure to be in the big workspace before 11am so that we can get started right away. 
+
+* Lori Culberson: The Marshmallow Challenge and Effective Software Design
+* Jeffrey Wan: Something about Postgres? 
+* Chris Luhring: No API, No Problem: How to find the data you need from OSM and render it using Mapbox Studio.
+* DJ Greenfield: Technology & Society: Trollin' Ain't Easy
+* Nathan Owsiany: Flexible Data Storage: Polymorphism, and Serialization, and HStore, oh my!
+* Michelle Golle: Contributions of James Golick to the Ruby community
+* Emily Berkeley: Technology in Modern Poultry. 
+* Konr Larson: Human Augmentation 
+* Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF
+* Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby
+* Kenny Chen: Don't Break Down on the Way - Healthy Habits
 
 ### Guest: Laura Weidman Powers (1:00 - 2:00)
 
