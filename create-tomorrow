@@ -1,0 +1,30 @@
+#!/bin/sh
+
+# run from this dir
+cd "$(dirname "$0")"
+
+# find today's file
+date="$(date -v+1d "+%Y-%m-%d")"
+file="source/outlines/$date.markdown"
+
+# display the command
+echo "Creating:" "$file"
+
+touch $file
+
+echo "---
+title: $(date -v+1d "+%Y%m%d")
+layout: outline
+---
+
+## All
+
+## 1410
+
+## 1412
+
+## 1502
+
+## 1503
+
+" > $file
