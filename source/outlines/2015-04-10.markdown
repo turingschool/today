@@ -128,7 +128,7 @@ Avoid gitastrophy with Horace in Classroom B.
 
 #### Real Client Work
 
-If you're interested in adding actual client work to your resume, join Rachel at that table by the staff area. We'll be planning out and starting an app for [Leaders In Training](http://leaders-in-training.org/), a non-profit organization whose mission it is to support high school students in their quest to become the first in their family to attend college. 
+If you're interested in adding actual client work to your resume, join Rachel at that table by the staff area. We'll be planning out and starting an app for [Leaders In Training](http://leaders-in-training.org/), a non-profit organization whose mission it is to support high school students in their quest to become the first in their family to attend college. We'll build the app using Rails. We'll also need someone to work on the HTML & CSS. 
 
 #### PHP with Jorge
 
