@@ -83,7 +83,8 @@ Complete the [Routes & Controllers](https://github.com/turingschool/challenges/b
 
 ### Credit Check Peer Review (9:00 - 12:00)
 
-Meet in the following pairs to discuss your Credit Check assignments:
+When you're not having your diagnostic this morning,
+meet in the following pairs to discuss your Credit Check assignments:
 
 * Josh Cass & Andrew Fink
 * Lev Kravinsky & Eugene Khanutin
@@ -95,6 +96,37 @@ Meet in the following pairs to discuss your Credit Check assignments:
 * Drew Reynolds & Max Tedford
 * Brett Grigsby & Morgan Miller
 * Whitney Hiemstra & Erik Butcher
+
+__60 minutes: Code Review__
+
+Spend the first 30 minutes reviewing one partner's code, then switch and
+review the other partner's code for 30 minutes.
+
+Here are some things we'd especially like to look for:
+
+* Does the solution work?
+* Is there evidence of iterative development toward a solution?
+* Are there tests included?
+* Do the tests exercise multiple layers of complexity and functionality?
+(simple to harder cases; covering all the methods or components of the
+problem, etc.)
+* If the solution uses an object-oriented approach, is it divided into
+granular methods and classes with clear responsibility?
+* Are the objects and methods well-named? Do they actually do the things
+described by their names?
+
+__120 minutes: Applying what you've learned__
+
+Now that we've had a chance to recap the assignment and see another
+person's solution, let's rework credit check
+and see if we can come up with any new approaches to the problem.
+
+Spend the next 120-ish minutes working with your pair on a new credit
+check solution (from scratch). Keep in mind the same principles we
+discussed when first presenting the assignment — work iteratively from a
+small/naive solution toward something more sophisticated.
+
+Don't forget to take Pomodoros.
 
 ### Diagnostics (9:00 - 12:00)
 
