@@ -1,0 +1,127 @@
+---
+title: 20150413
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 9:00)
+
+Meet with you posses:
+
+* Schedule student-to-student pairing/mentoring sessions
+* Update mentors (and each other) with the projects you're currently working on
+* Schedule pairing sessions with mentors
+
+### Full Group Meeting (9:00 - 10:00)
+
+Let's talk about our unexpected guests and put the space back together.
+
+Meet in the Big Workspace with the full staff.
+
+### Code Retreat (2:30 - 4:00)
+
+Meet in the Big Workspace for this week's code retreat.
+
+## 1410
+
+### Daily JavaScript (9:00 - 9:30)
+
+Let's talk a little bit about object-oriented JavaScript.
+
+We'll be building a little thing in [p5.js](http://p5js.org/).
+
+### Project Check-ins (9:30 - 10:30)
+
+#### With Steve
+
+* 9:30:  Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* 9:45:  Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
+* 10:00: Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* 10:15: Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+
+### Project Work Time and Instructor Pairing (10:30 - 2:30)
+
+#### With Steve
+
+* 10:30:  Bhargavi Satpathy & Lydia Shafer & Emily Berkeley & Chris Luhring
+* 11:15:  Krista A Nelson & Laura Whalin & Scott Crawford & Konr Josef Larson
+* 1:00: Jeffrey Wan & Alexandra Robinson & Nathan Owsiany & Adam Smith
+* 1:45: Orion Osborn & Brandon Mrsny & Michael Dao & Bryce Holcomb
+
+## 1412
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Talk about cache with Jorge in Classroom A.
+
+### The Weekly Iteration (1:00 - 2:30)
+
+Let's review some skills from last week with Josh in Classroom B.
+
+## 1502
+
+### Traffic Spy Evaluations (9:00 - 12:00)
+
+#### With Rachel
+
+* 9:00: Andrew Carmer & David Daniel & Eric Dowty
+* 9:30: Jack Yeh & Jamie Kawahara & Kenny Chen
+* 10:00: Kristina Brown & Kyle Henson & Michelle Golle
+* 11:00: Mihir Parikh & Minnie Lee & Patrick Medaugh
+* 11:30: Tess Griffin & Thomas Leskin & Tracy Caruso
+
+### REST, Routing, and Controllers (1:00 - 2:30)
+
+Get some REST with Rachel in Classroom C.
+
+## 1503
+
+### Credit Check Peer Review (9:00 - 12:00)
+
+Meet in the following pairs to discuss your Credit Check assignments:
+
+* Josh Cass & Andrew Fink
+* Lev Kravinsky & Eugene Khanutin
+* Rick Bacci & Dave Maurer
+* Sally MacNicholas & Margarett Ly
+* Dmitry Vizersky & Rob Cornell
+* Chelsea Worrel & Vanessa Gomez
+* Michael Merrill & Justin Holmes
+* Drew Reynolds & Max Tedford
+* Brett Grigsby & Morgan Miller
+* Whitney Hiemstra & Erik Butcher
+
+### Diagnostics (9:00 - 12:00)
+
+#### With Jeff
+
+* 9:00: Morgan Miller
+* 9:30: Max Tedford
+* 10:00: Dmitry Vizersky
+* 10:30: Rick Bacci
+* 11:00: Margarett Ly
+* 11:30: Brett Grigsby
+
+#### With Horace
+
+* 9:00: Rob Cornell
+* 9:30: Sally MacNicholas
+* 10:00: Drew Reynolds
+* 10:30: Lev Kravinsky
+* 11:00: Chelsea Worrel
+* 11:30: Whitney Hiemstra
+
+#### With Josh
+
+* 9:00: Andrew Fink
+* 9:30: Eugene Khanutin
+* 10:00: Vanessa Gomez
+* 10:30: Dave Maurer
+* 11:00: Erik Butcher
+* 11:30: Justin Holmes
+
+### Diagnostics (1:00 - 2:00)
+
+* 1:00: Michael Merrill
+* 1:30: Josh Cass
