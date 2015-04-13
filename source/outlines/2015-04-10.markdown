@@ -7,7 +7,10 @@ layout: outline
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-(Rachel will add these in shortly…)
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1edZnYMGMXEFMxnketwFhObR9I3pUJuNblssOu-A7GWc/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1Z3aN72bsJZrI9oWUHgP8JoAak1mLmOjCbmeBFgsZL_E/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1xLxHXFJKNYql4w2sZPQ9MMLNO86YfSwjavplONb3m14/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1eG6XjL1apUzp1gJH-n1GsObzFZ91CRzwsKmHIq3YrXI/viewform)
 
 ### Group Retrospectives (9:00 - 10:00)
 
@@ -23,7 +26,7 @@ layout: outline
 
 ### Posse Team-Activity (10:40 - 11:00)
 
-Meet with Lori in the Big Workspace for a surprise.
+Meet with Lori in the Big Workspace for a surprise. Lori will start her lightning talk around 10:55 and recap the activity. 
 
 ### One on Ones (9:30 - 11:00)
 
@@ -57,7 +60,7 @@ Meet with Lori in the Big Workspace for a surprise.
 #### With Josh Mejia
 
 * 9:30: Rich Shea
-* 9:45: Kit Pearson
+* 9:45: Minnie Lee
 * 10:00: Kyle Henson
 * 10:15: Michelle Golle
 * 10:30: Mihir Parikh
@@ -65,7 +68,7 @@ Meet with Lori in the Big Workspace for a surprise.
 #### With Rachel
 
 * 9:30: Thomas Leskin
-* 9:45: Minnie Lee
+* 9:45: Kit Pearson
 * 10:00: Patrick Medaugh
 * 10:15: Tess Griffin
 * 10:30: Tracy Caruso
@@ -82,7 +85,18 @@ Meet with Lori in the Big Workspace for a surprise.
 
 ### Lightning Talks (11:00 - 12:00)
 
-(Rachel will add these in shortly…)
+Lots of lightning talks today! Make sure to be in the big workspace before 11am so that we can get started right away. 
+
+* Jeffrey Wan: Something about Postgres? 
+* Chris Luhring: No API, No Problem: How to find the data you need from OSM and render it using Mapbox Studio.
+* DJ Greenfield: Technology & Society: Trollin' Ain't Easy
+* Nathan Owsiany: Flexible Data Storage: Polymorphism, and Serialization, and HStore, oh my!
+* Michelle Golle: Contributions of James Golick to the Ruby community
+* Emily Berkeley: Technology in Modern Poultry. 
+* Konr Larson: Human Augmentation 
+* Bhargavi Satpathy: What you don't know CAN hurt you! Rails Security - CSRF
+* Jeffrey Gu: Prisoner's Dilemma and Strategy vs Strategy in Ruby
+* Kenny Chen: Don't Break Down on the Way - Healthy Habits
 
 ### Guest: Laura Weidman Powers (1:00 - 2:00)
 
@@ -114,9 +128,9 @@ Interested in learning another language? Join Josh to work through Zed Shaw's _L
 
 Avoid gitastrophy with Horace in Classroom B.
 
-#### Turing Outreach
+#### Real Client Work
 
-Interested in teaching programming to 5th and 6th graders? Join Rachel by the staff table to plan out four lessons based on [Scratch](https://scratch.mit.edu/) that we'll use starting on Saturday, April 11 with students at [KIPP Sunshine Peak Academy](http://www.kipp.org/school-content/kipp-sunshine-peak-academy).
+If you're interested in adding actual client work to your resume, join Rachel at that table by the staff area. We'll be planning out and starting an app for [Leaders In Training](http://leaders-in-training.org/), a non-profit organization whose mission it is to support high school students in their quest to become the first in their family to attend college. We'll build the app using Rails. We'll also need someone to work on the HTML & CSS. 
 
 #### PHP with Jorge
 
@@ -133,4 +147,4 @@ Meet with Steve in the Big Workspace.
 
 #### Team Draper
 
-Meet with Mike Dao by the couches where the 3D printer used to be in Classroom A.
+Meet with Jeff & Mike Dao at the big table by the instructor desks.
