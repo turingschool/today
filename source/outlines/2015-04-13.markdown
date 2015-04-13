@@ -23,6 +23,8 @@ Meet in the Big Workspace for this week's code retreat.
 
 Let's talk a little bit about object-oriented JavaScript in Classroom B.
 
+Let's use this [repository](https://github.com/turingschool-examples/falling-circles).
+
 We'll be building a little thing in [p5.js](http://p5js.org/).
 
 ### Project Check-ins (9:30 - 10:30)
