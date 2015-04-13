@@ -13,12 +13,6 @@ Meet with you posses:
 * Update mentors (and each other) with the projects you're currently working on
 * Schedule pairing sessions with mentors
 
-### Full Group Meeting (9:00 - 10:00)
-
-Let's talk about our unexpected guests and put the space back together.
-
-Meet in the Big Workspace with the full staff.
-
 ### Code Retreat (2:30 - 4:00)
 
 Meet in the Big Workspace for this week's code retreat.
@@ -27,7 +21,7 @@ Meet in the Big Workspace for this week's code retreat.
 
 ### Daily JavaScript (9:00 - 9:30)
 
-Let's talk a little bit about object-oriented JavaScript.
+Let's talk a little bit about object-oriented JavaScript in Classroom B.
 
 We'll be building a little thing in [p5.js](http://p5js.org/).
 
