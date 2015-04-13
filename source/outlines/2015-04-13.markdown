@@ -75,6 +75,10 @@ Let's review some skills from last week with Josh in Classroom B.
 
 Get some REST with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown). 
 
+### Homework
+
+Complete the [Routes & Controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) challenge. 
+
 ## 1503
 
 ### Credit Check Peer Review (9:00 - 12:00)
