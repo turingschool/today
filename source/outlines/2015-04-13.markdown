@@ -155,3 +155,8 @@ Don't forget to take Pomodoros.
 
 * 1:00: Michael Merrill
 * 1:30: Josh Cass
+ 
+### Enigma Kickoff and Discussion (1:00 - 2:30)
+
+Join Horace in classroom A to kickoff the [Enigma project](http://tutorials.jumpstartlab.com/projects/enigma.html) and brainstorm some ideas for breaking down the problem.
+
