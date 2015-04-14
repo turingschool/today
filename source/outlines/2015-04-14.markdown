@@ -75,6 +75,10 @@ Meet with Rachel in Classroom B to talk about some data. Find the outline [here]
 
 Let's get started with forms and routes with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
+### Homework
+
+Complete I0 and I1 of the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). 
+
 ## 1503
 
 ### Mystery Class (9:00 - 10:30)
