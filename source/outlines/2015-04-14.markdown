@@ -85,14 +85,14 @@ Meet with Horace in Classroom A.
 
 ### Work Time (10:30 - 12:00)
 
-Get to work.
+Get to work on your Enigmas.
 
 ### File I/O (1:00 - 2:30)
 
-Get some stuff out of files. Put some stuff in files.
-
 Meet with Jeff in Classroom A.
+
+Input some files; output some files; learn about Jeff, Rachel, and Steve's former bread and butter: [Files and CSVs in Classroom B](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
 
 ### Work Time (2:30 - 4:00)
 
-Get to work.
+More codes, more Enigmas.
