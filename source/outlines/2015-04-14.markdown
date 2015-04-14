@@ -20,6 +20,10 @@ Meet with you posses:
 * Update mentors (and each other) with the projects you're currently working on
 * Schedule pairing sessions with mentors
 
+### Denver.rb (6:00 - 9:00)
+
+Eric is going to give his first ever talk for the beginner's track. Please go an support them. Some other people will probably be talking, but who cares—Eric is going to be talking.
+
 ## 1410
 
 ### Daily JavaScript (9:00 - 10:00)
