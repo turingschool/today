@@ -58,17 +58,15 @@ You must be the one to pivot them.
 
 ### Feature Testing in Rails (9:00 - 10:30)
 
-So, you wrote a feature for your new application. That's cool How do you know it works.
+So, you wrote a feature for your new application. That's cool. How do you know it works?
 
 More importantly, when you to change something later—how do you know you haven't broken something?
 
-Rachel will know in Classroom C.
+Rachel will know in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_minitest_rspec.markdown).
 
 ### Blogger (10:30 - 4:00)
 
-This morning and afternoon you'll work on [Blogger][], a Rails application. Rachel is on hand for questions.
-
-[Blogger]: http://tutorials.jumpstartlab.com/projects/blogger.html
+This morning and afternoon you'll work on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html), a Rails application. Rachel is on hand for questions.
 
 ## 1503
 
