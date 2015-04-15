@@ -66,7 +66,7 @@ Rachel will know in Classroom C. Find the outline [here](https://github.com/turi
 
 ### Blogger (10:30 - 4:00)
 
-This morning and afternoon you'll work on [Blogger][http://tutorials.jumpstartlab.com/projects/blogger.html], a Rails application. Rachel is on hand for questions.
+This morning and afternoon you'll work on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html), a Rails application. Rachel is on hand for questions.
 
 ## 1503
 
