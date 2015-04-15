@@ -20,7 +20,7 @@ This morning, let's talk about JavaScript. We'll do [a gentle introduction to No
 * Steve will answer general questions about JavaScript that have emerged in your projects.
 * We'll discuss [JavaScript outside the browser][node].
 
-[node](http://tutorials.jumpstartlab.com/topics/javascript/outside_the_browser.html)
+[node]: http://tutorials.jumpstartlab.com/topics/javascript/outside_the_browser.html
 
 ### Project Work Time (10:30 - 1:00)
 
