@@ -1,0 +1,85 @@
+---
+title: 20150415
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+It's time to put your logic to the test. [Can you solve this set of LSAT questions][lsat]?
+
+[lsat]: https://dl.dropboxusercontent.com/u/505445/lsat_blog_-_preptest_50.pdf
+
+## 1410
+
+### Daily JavaScript: Introduction to Node.js (9:00 - 10:30)
+
+This morning, let's talk about JavaScript. We'll do [a gentle introduction to Node][node] in Classroom A.
+
+* Steve will answer general questions about JavaScript that have emerged in your projects.
+* We'll discuss [JavaScript outside the browser][node].
+
+[node](http://tutorials.jumpstartlab.com/topics/javascript/outside_the_browser.html)
+
+### Project Work Time (10:30 - 1:00)
+
+Mike Dao will be talking about deployment in the morning.
+
+Steve will be available in the afternoon. [Let's schedule 45 minute sessions with him again][pair].
+
+[pair]: https://etherpad.mozilla.org/L5p8nXaU39
+
+## 1412
+
+### Advanced ActiveRecord Queries (9:00 - 10:30)
+
+Join Horace in Classroom B to go deep into ActiveRecord.
+
+### Performance Metrics Services in Rails (10:30 - 11:15)
+
+Why is your app slow? It turns out that there are services out there to answer this very question. Meet up with Steve in Classroom B to talk about [Skylight](http://skylight.io).
+
+We'll be trying to figure out all of the things that are wrong with the [World's Worst Gradebook](https://polar-inlet-5855.herokuapp.com/) application.
+
+And then we'll use Skylight to analyze the performance of our Pivot projects.
+
+### Intermediate JavaScript (11:15 - 12:00)
+
+So, we've heard you've been playing with JavaScript in Pivot projects. Let's tackle some common issues with Steve in Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Those pivots aren't going to pivot themselves.
+
+You must be the one to pivot them.
+
+## 1502
+
+### Feature Testing in Rails (9:00 - 10:30)
+
+So, you wrote a feature for your new application. That's cool How do you know it works.
+
+More importantly, when you to change something later—how do you know you haven't broken something?
+
+Rachel will know in Classroom C.
+
+### Blogger (10:30 - 4:00)
+
+This morning and afternoon you'll work on [Blogger][], a Rails application. Rachel is on hand for questions.
+
+[Blogger]: http://tutorials.jumpstartlab.com/projects/blogger.html
+
+## 1503
+
+### Enigma Check-ins (9:00 - 12:00)
+
+Keep pushing forward on your Enigmas.
+
+### Debugging Techniques (1:00 - 2:30)
+
+Something has gone wrong. Let's fix it. Oh, wait—how do we fix it. Find out with Horace in Classroom A.
+
+### Debugging Exercises (2:30 - 4:00)
+
+Horace has taught you well. It's time to cut your teeth on some debugging exercises. He will be waiting in the wings if you need help.
