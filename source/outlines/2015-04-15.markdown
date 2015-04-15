@@ -80,6 +80,8 @@ Keep pushing forward on your Enigmas.
 
 Something has gone wrong. Let's fix it. Oh, wait—how do we fix it. Find out with Horace in Classroom A.
 
-### Debugging Exercises (2:30 - 4:00)
+### Linked Lists (2:30 - 4:00)
 
-Horace has taught you well. It's time to cut your teeth on some debugging exercises. He will be waiting in the wings if you need help.
+[Link up some lists][link] with Horace in Classroom A.
+
+[link]: https://github.com/turingschool/challenges/blob/master/linked_lists.markdown
