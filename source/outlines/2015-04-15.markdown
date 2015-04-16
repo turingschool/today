@@ -68,6 +68,13 @@ Rachel will know in Classroom C. Find the outline [here](https://github.com/turi
 
 This morning and afternoon you'll work on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html), a Rails application. Rachel is on hand for questions.
 
+### Homework
+
+Read the following articles about testing:
+
+* [Four Phase Test - Thoughtbot](https://robots.thoughtbot.com/four-phase-test)
+* [Unit Testing Your Models - Rails Guides](http://guides.rubyonrails.org/testing.html#unit-testing-your-models)
+
 ## 1503
 
 ### Enigma Check-ins (9:00 - 12:00)
