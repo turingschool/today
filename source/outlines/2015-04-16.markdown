@@ -1,0 +1,106 @@
+---
+title: 20150416
+layout: outline
+---
+
+## All
+
+### Demo Night (5:30 - 7:00)
+
+> Teams in 1410 created data aggregator services that pull data and activity from other applications and publishes it through both a web interface and an API.
+>
+> After their last project—Dinner Dash—the groups in 1412 were split up and reassembled. Each group inherited another group's project and told that their business had to pivot.
+
+Make sure you RSVP so that Rachel and Steve can accurately overthink how much pizza to buy.
+
+## 1410
+
+### FeedEngine Evaluations (9:00 - 12:00)
+
+Bring your production applications. When you're not in an evaluation, you should be putting the finishing on your application for Demo Night.
+
+Meet with Steve at the table in Classroom A.
+
+* 9:00 - 9:45: Up to the Tweet
+* 9:45 - 10:30: Truth Seekers
+* 10:30 - 11:15: Usa Usa
+* 11:15 - 12:00: Wonder Ways
+
+### Final Project Kickoff (1:00 - 2:00)
+
+Meet with Jeff and Steve in Classroom B.
+
+### Project Work Time and Demo Preparations (2:00 - 4:00)
+
+Time to draw up some wireframes and begin planning your first iteration.
+
+## 1412
+
+### Project Evaluations (9:00 - 12:00)
+
+Meet with Jorge in the Big Workspace at the table by the entrance to Classroom C.
+
+* 9:00 - 9:30: TravelHome
+* 9:40 - 10:10: Keevah
+* 10:10 - 10:40: Airlift
+* 10:50 - 11:20: Gallery
+* 11:20 - 11:30: FreshThreads
+
+### Self-Directed Project Kickoff (1:00 - 2:00)
+
+Meet with Jorge in Classroom C to kick off your self-directed projects.
+
+### Personals for UX (2:00 - 3:00)
+
+### Wireframes for UX (3:00 - 4:00)
+
+## 1502
+
+### Project Recap (9:00 - 9:30)
+
+### Model Testing in Rails, Custom and Built-in Validations (9:30 - 12:00)
+
+Your models aren't going to test themselves. As it turns out, they're also not going to validate themselves. Life is hard. Meet with Rachel in Classroom C to talk more about it.
+
+### Contact Manager Kickoff and Work Time (1:00 - 4:00)
+
+It's time to tackle the legendary [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
+
+## 1503
+
+### Enigma Evaluations (9:00 - 12:00)
+
+#### With Jeff
+
+* 9:00 - 9:20: Dave Maurer
+* 9:25 - 9:45: Eugene Khanutin
+* 9:50 - 10:10: Whitney Hiemstra
+* 10:15 - 10:35: Justin Holmes
+* 10:40 - 11:00: Morgan Miller
+* 11:05 - 11:25: Max Tedford
+
+#### With Horace
+
+* 9:00 - 9:20: Vanessa Gomez
+* 9:25 - 9:45: Margarett Ly
+* 9:50 - 10:10: Sally MacNicholas
+* 10:15 - 10:35: Dmitry Vizersky
+* 10:40 - 11:00: Andrew Fink
+* 11:05 - 11:25: Erik Butcher
+* 11:30 - 11:50: Josh Cass
+
+#### With Josh Cheek
+
+* 9:00 - 9:20: Drew Reynolds
+* 9:25 - 9:45: Chelsea Worrel
+* 9:50 - 10:10: Rick Bacci
+* 10:15 - 10:35: Rob Cornell
+* 10:40 - 11:00: Lev Kravinsky
+* 11:05 - 11:25: Brett Grigsby
+* 11:30 - 11:50: Michael Merrill
+
+### Ruby Processing (1:00 - 4:00)
+
+So, it turns out coding can be fun. Meet with Steve to explore Ruby Processing.
+
+We'll be working with this [lesson plan](https://github.com/stevekinney/ruby-processing-session).
