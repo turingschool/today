@@ -19,9 +19,10 @@ layout: outline
 * 1502 in Classroom A with Rachel and Raissa.
 * 1503 in Classroom C with Jeff.
 
-### Self-Study Sessions (9:30 - 10:40)
+### Self-Study Sessions (9:30 - 11:00)
 
-* 
+* DM Emily on Slack to grab one of her 30-minute pairing sessions
+* DM Mike on Slack to reserve a pairing session
 
 ### One on Ones (9:30 - 11:00)
 
@@ -70,9 +71,12 @@ layout: outline
 * 10:30:
 * 10:45:
 
-### Lightning Talks (11:00 - 12:00)
+### Guest: Mike Clark from Pragmatic Studio (11:00 - 12:00)
 
-Gather in the Big Workspace at 11am sharp!
+
+### Lightning Talks (1:00 - 2:15)
+
+Gather in the Big Workspace at 1pm sharp!
 
 * Michael Dao: Finite State Machines
 * Orion Osborn: Why you should write more methods that take blocks
@@ -83,16 +87,6 @@ Gather in the Big Workspace at 11am sharp!
 * Thomas Leskin: How to get free sh*t 
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job 
 * Miriam Moser: Fun with Paper.js
-
-### Film Club (1:00 - 1:25)
-
-Choose your own adventure:
-
-* 
-
-### Guest: Rachel Cope from thoughtbot (1:30 - 2:30)
-
-* [Twitter](https://twitter.com/rachelcope)
 
 ### Electives (2:30 - 4:00)
 
@@ -107,7 +101,7 @@ Avoid gitastrophy with Horace in Classroom B.
 #### Real Client Work with Rachel
 
 We'll continue building out the Leaders In Training app. Gather at the large table in the staff area.
-
+`
 #### PHP with Jorge
 
 Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
