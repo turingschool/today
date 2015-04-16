@@ -50,9 +50,13 @@ Meet with Jorge in the Big Workspace at the table by the entrance to Classroom C
 
 Meet with Jorge in Classroom C to kick off your self-directed projects.
 
-### Personals for UX (2:00 - 3:00)
+### Personas for UX (2:00 - 3:00)
+
+Meet with Jorge in Classroom C to learn how to design products for real people.
 
 ### Wireframes for UX (3:00 - 4:00)
+
+Meet with Jorge in Classroom C to do some wireframes for your product..
 
 ## 1502
 
@@ -60,7 +64,7 @@ Meet with Jorge in Classroom C to kick off your self-directed projects.
 
 ### Model Testing in Rails, Custom and Built-in Validations (9:30 - 12:00)
 
-Your models aren't going to test themselves. As it turns out, they're also not going to validate themselves. Life is hard. Meet with Rachel in Classroom C to talk more about it. Here's the [outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
+Your models aren't going to test themselves. As it turns out, they're also not going to validate themselves. Life is hard. Meet with Rachel in Classroom C to talk more about it. Here's the [outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
 ### Contact Manager Kickoff and Work Time (1:00 - 4:00)
 
