@@ -70,6 +70,10 @@ It's time to tackle the legendary [Contact Manager](http://tutorials.jumpstartla
 
 ### Enigma Evaluations (9:00 - 12:00)
 
+* When you're not in your evaluation, please work on your Linked List assignment.
+* Before your evaluation, add your [GitHub project URL here](https://github.com/turingschool/ruby-submissions/blob/master/1503/01_enigma.markdown)
+* Review [the evaluation rubric](http://tutorials.jumpstartlab.com/projects/enigma.html)
+
 #### With Jeff
 
 * 9:00 - 9:20: Dave Maurer
