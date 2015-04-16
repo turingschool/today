@@ -1,0 +1,126 @@
+---
+title: 20150417
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1sq3BgFPRV-ULz0QPAutD6z3rSJEpfq_Qk-P9XZCTOBk/viewform)
+* [1412]()
+* [1502]()
+* [1503]()
+
+### Group Retrospectives (9:00 - 10:00)
+
+* 1410 in the Big Workspace with Steve and  Daisha.
+* 1412 in Classroom B with Jorge.
+* 1502 in Classroom A with Rachel and Raissa.
+* 1503 in Classroom C with Jeff.
+
+### Self-Study Sessions (9:30 - 10:40)
+
+* 
+
+### One on Ones (9:30 - 11:00)
+
+#### With Steve
+
+* 9:30:
+* 9:45:
+* 10:00:
+* 10:15:
+* 10:30:
+* 10:45:
+
+#### With Horace
+
+* 9:30:
+* 9:45:
+* 10:00:
+* 10:15:
+* 10:30:
+* 10:45:
+
+#### With Jorge
+
+* 9:30:
+* 9:45:
+* 10:00:
+* 10:15:
+* 10:30:
+* 10:45:
+
+#### With Rachel
+
+* 9:30:
+* 9:45:
+* 10:00:
+* 10:15:
+* 10:30:
+* 10:45:
+
+#### With Jeff
+
+* 9:30:
+* 9:45:
+* 10:00:
+* 10:15:
+* 10:30:
+* 10:45:
+
+### Lightning Talks (11:00 - 12:00)
+
+Gather in the Big Workspace at 11am sharp!
+
+* Michael Dao: Finite State Machines
+* Orion Osborn: Why you should write more methods that take blocks
+* Rich Shea: Pair Programming: Is it worth it? 
+* Paul Grever: Native vs Mobile Web Applications
+* Edward McCarthy: Farming/Agriculture and Open Data
+* Kristina Brown: Providing Great Service: The second most important skill you will learn. 
+* Thomas Leskin: How to get free sh*t 
+* David Daniel: What the Staffing Industry Taught Me About Getting a Job 
+* Miriam Moser: Fun with Paper.js
+
+### Film Club (1:00 - 1:25)
+
+Choose your own adventure:
+
+* 
+
+### Guest: Rachel Cope from thoughtbot (1:30 - 2:30)
+
+* [Twitter](https://twitter.com/rachelcope)
+
+### Electives (2:30 - 4:00)
+
+#### Learn Python the Hard Way with Josh
+
+Interested in learning another language? Join Josh to work through Zed Shaw's _Learn Python the Hard Way_ in the Big Workspace.
+
+#### Git for the Brave of Heart with Horace
+
+Avoid gitastrophy with Horace in Classroom B.
+
+#### Real Client Work with Rachel
+
+We'll continue building out the Leaders In Training app. Gather at the large table in the staff area.
+
+#### PHP with Jorge
+
+Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
+
+#### Side Hustles with Steve
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+* We'll share some details about the status of our projects from last week
+* We'll pair and write some code
+
+Meet with Steve in the Big Workspace.
+
+#### Team Draper
+
+Meet with Jeff & Mike Dao at the big table by the instructor desks.
