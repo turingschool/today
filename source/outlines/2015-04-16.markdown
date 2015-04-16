@@ -60,11 +60,20 @@ Meet with Jorge in Classroom C to kick off your self-directed projects.
 
 ### Model Testing in Rails, Custom and Built-in Validations (9:30 - 12:00)
 
-Your models aren't going to test themselves. As it turns out, they're also not going to validate themselves. Life is hard. Meet with Rachel in Classroom C to talk more about it.
+Your models aren't going to test themselves. As it turns out, they're also not going to validate themselves. Life is hard. Meet with Rachel in Classroom C to talk more about it. Here's the [outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Contact Manager Kickoff and Work Time (1:00 - 4:00)
 
-It's time to tackle the legendary [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
+It's time to tackle the legendary [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Join Rachel in the big workspace to talk about some things you should know before you begin:
+
+* The database: Postgresql vs. Sqlite3
+* What is Heroku?
+* Why are we using scaffolding?
+* RSpec
+* Controller testing
+* What is polymorphism?
+* READ the tutorial and TYPE the code; don't skip and copy.
+* Iterations and extensions
 
 ## 1503
 
@@ -105,6 +114,6 @@ It's time to tackle the legendary [Contact Manager](http://tutorials.jumpstartla
 
 ### Ruby Processing (1:00 - 4:00)
 
-So, it turns out coding can be fun. Meet with Steve to explore Ruby Processing.
+So, it turns out coding can be fun. Meet with Steve in classroom A to explore Ruby Processing.
 
 We'll be working with this [lesson plan](https://github.com/stevekinney/ruby-processing-session).
