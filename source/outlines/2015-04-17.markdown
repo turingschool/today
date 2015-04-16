@@ -8,9 +8,9 @@ layout: outline
 ### Surveys and Breakfast (8:30 - 9:00)
 
 * [1410](https://docs.google.com/a/casimircreative.com/forms/d/1sq3BgFPRV-ULz0QPAutD6z3rSJEpfq_Qk-P9XZCTOBk/viewform)
-* [1412]()
-* [1502]()
-* [1503]()
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1jSr4QiaCt43gxq7NZqJBE-_8CYT35pQwQeo0BWqc7M4/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1coB0S_vsaZ8iXQg8wgSZt8Yv1atnjS9ZPzdzF5IuRyg/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1sWowk3tBrJuVouNp0x3clObiU6ozYDblViR2dVbl280/viewform)
 
 ### Group Retrospectives (9:00 - 10:00)
 
