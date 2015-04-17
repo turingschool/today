@@ -14,7 +14,7 @@ layout: outline
 
 ### Lightning Talks (9:00 - 10:00)
 
-Gather in the Big Workspace at 1pm sharp!
+Gather in the Big Workspace at 9am sharp!
 
 * Michael Dao: Finite State Machines
 * Orion Osborn: Why you should write more methods that take blocks
