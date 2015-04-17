@@ -14,9 +14,9 @@ layout: outline
 
 ### Group Retrospectives (9:00 - 10:00)
 
-* 1410 in the Big Workspace with Steve and  Daisha.
+* 1410 in the Big Workspace with Steve and Daisha.
 * 1412 in Classroom B with Jorge.
-* 1502 in Classroom A with Rachel and Raissa.
+* 1502 in Classroom A with Rachel.
 * 1503 in Classroom C with Jeff.
 
 ### Self-Study Sessions (9:30 - 11:00)
@@ -24,55 +24,13 @@ layout: outline
 * DM Emily on Slack to grab one of her 30-minute pairing sessions
 * DM Mike on Slack to reserve a pairing session
 
-### One on Ones (9:30 - 11:00)
-
-#### With Steve
-
-* 9:30:
-* 9:45:
-* 10:00:
-* 10:15:
-* 10:30:
-* 10:45:
-
-#### With Horace
-
-* 9:30:
-* 9:45:
-* 10:00:
-* 10:15:
-* 10:30:
-* 10:45:
-
-#### With Jorge
-
-* 9:30:
-* 9:45:
-* 10:00:
-* 10:15:
-* 10:30:
-* 10:45:
-
-#### With Rachel
-
-* 9:30:
-* 9:45:
-* 10:00:
-* 10:15:
-* 10:30:
-* 10:45:
-
-#### With Jeff
-
-* 9:30:
-* 9:45:
-* 10:00:
-* 10:15:
-* 10:30:
-* 10:45:
-
 ### Guest: Mike Clark from Pragmatic Studio (11:00 - 12:00)
 
+We all know and love Mike and Nicole Clark from [Pragmatic Studios](https://pragmaticstudio.com/) (remember your prework for Turing?)
+
+Join us in the big workspace to chat with Mike.
+
+Find Mike on Twitter [here](https://twitter.com/clarkware). 
 
 ### Lightning Talks (1:00 - 2:15)
 
@@ -90,18 +48,10 @@ Gather in the Big Workspace at 1pm sharp!
 
 ### Electives (2:30 - 4:00)
 
-#### Learn Python the Hard Way with Josh
-
-Interested in learning another language? Join Josh to work through Zed Shaw's _Learn Python the Hard Way_ in the Big Workspace.
-
-#### Git for the Brave of Heart with Horace
-
-Avoid gitastrophy with Horace in Classroom B.
-
 #### Real Client Work with Rachel
 
-We'll continue building out the Leaders In Training app. Gather at the large table in the staff area.
-`
+We'll continue building out the Leaders In Training app.
+
 #### PHP with Jorge
 
 Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
@@ -118,3 +68,7 @@ Meet with Steve in the Big Workspace.
 #### Team Draper
 
 Meet with Jeff & Mike Dao at the big table by the instructor desks.
+
+#### Something with Josh Cheek
+
+Join Josh Cheek to do something awesome. 
