@@ -14,13 +14,15 @@ layout: outline
 
 ### Group Retrospectives (9:00 - 10:00)
 
-* 1410 in the Big Workspace with Steve and Daisha.
+* 1410 in the Big Workspace with Steve.
 * 1412 in Classroom B with Jorge.
 * 1502 in Classroom A with Rachel.
-* 1503 in Classroom C with Jeff.
+* 1503 in Classroom C with Josh C. and Dasha.
 
 ### Self-Study Sessions (10:00 - 11:00)
 
+* Chris will be running a session on Mapbox Studio, OSM and Overpass API
+* Tom will be running a session on Pry in Classroom C
 * DM Emily on Slack to grab one of her 30-minute pairing sessions
 * DM Mike on Slack to reserve a pairing session
 
