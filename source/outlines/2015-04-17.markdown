@@ -19,7 +19,7 @@ layout: outline
 * 1502 in Classroom A with Rachel.
 * 1503 in Classroom C with Jeff.
 
-### Self-Study Sessions (9:30 - 11:00)
+### Self-Study Sessions (10:00 - 11:00)
 
 * DM Emily on Slack to grab one of her 30-minute pairing sessions
 * DM Mike on Slack to reserve a pairing session
@@ -30,7 +30,7 @@ We all know and love Mike and Nicole Clark from [Pragmatic Studios](https://prag
 
 Join us in the big workspace to chat with Mike.
 
-Find Mike on Twitter [here](https://twitter.com/clarkware). 
+Find Mike on Twitter [here](https://twitter.com/clarkware).
 
 ### Lightning Talks (1:00 - 2:15)
 
@@ -38,12 +38,12 @@ Gather in the Big Workspace at 1pm sharp!
 
 * Michael Dao: Finite State Machines
 * Orion Osborn: Why you should write more methods that take blocks
-* Rich Shea: Pair Programming: Is it worth it? 
+* Rich Shea: Pair Programming: Is it worth it?
 * Paul Grever: Native vs Mobile Web Applications
 * Edward McCarthy: Farming/Agriculture and Open Data
-* Kristina Brown: Providing Great Service: The second most important skill you will learn. 
-* Thomas Leskin: How to get free sh*t 
-* David Daniel: What the Staffing Industry Taught Me About Getting a Job 
+* Kristina Brown: Providing Great Service: The second most important skill you will learn.
+* Thomas Leskin: How to get free sh*t
+* David Daniel: What the Staffing Industry Taught Me About Getting a Job
 * Miriam Moser: Fun with Paper.js
 
 ### Electives (2:30 - 4:00)
@@ -71,4 +71,4 @@ Meet with Jeff & Mike Dao at the big table by the instructor desks.
 
 #### Something with Josh Cheek
 
-Join Josh Cheek to do something awesome. 
+Join Josh Cheek to do something awesome.
