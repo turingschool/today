@@ -12,29 +12,7 @@ layout: outline
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1coB0S_vsaZ8iXQg8wgSZt8Yv1atnjS9ZPzdzF5IuRyg/viewform)
 * [1503](https://docs.google.com/a/casimircreative.com/forms/d/1sWowk3tBrJuVouNp0x3clObiU6ozYDblViR2dVbl280/viewform)
 
-### Group Retrospectives (9:00 - 10:00)
-
-* 1410 in the Big Workspace with Steve.
-* 1412 in Classroom B with Jorge.
-* 1502 in Classroom A with Rachel.
-* 1503 in Classroom C with Josh C. and Dasha.
-
-### Self-Study Sessions (10:00 - 11:00)
-
-* Chris will be running a session on Mapbox Studio, OSM and Overpass API
-* Tom will be running a session on Pry in Classroom C
-* DM Emily on Slack to grab one of her 30-minute pairing sessions
-* DM Mike on Slack to reserve a pairing session
-
-### Guest: Mike Clark from Pragmatic Studio (11:00 - 12:00)
-
-We all know and love Mike and Nicole Clark from [Pragmatic Studios](https://pragmaticstudio.com/) (remember your prework for Turing?)
-
-Join us in the big workspace to chat with Mike.
-
-Find Mike on Twitter [here](https://twitter.com/clarkware).
-
-### Lightning Talks (1:00 - 2:15)
+### Lightning Talks (9:00 - 10:00)
 
 Gather in the Big Workspace at 1pm sharp!
 
@@ -47,6 +25,28 @@ Gather in the Big Workspace at 1pm sharp!
 * Thomas Leskin: How to get free sh*t
 * David Daniel: What the Staffing Industry Taught Me About Getting a Job
 * Miriam Moser: Fun with Paper.js
+
+### Group Retrospectives (10:00 - 11:00)
+
+* 1410 in the Big Workspace with Steve and Daisha.
+* 1412 in Classroom B with Jorge.
+* 1502 in Classroom A with Rachel.
+* 1503 in Classroom C with Josh C. and Jeff.
+
+### Guest: Mike Clark from Pragmatic Studio (11:00 - 12:00)
+
+We all know and love Mike and Nicole Clark from [Pragmatic Studios](https://pragmaticstudio.com/) (remember your prework for Turing?)
+
+Join us in the big workspace to chat with Mike.
+
+Find Mike on Twitter [here](https://twitter.com/clarkware).
+
+### Self-Study Sessions (1:00 - 2:30)
+
+* Chris will be running a session on Mapbox Studio, OSM and Overpass API
+* Tom will be running a session on Pry in Classroom C
+* DM Emily on Slack to grab one of her 30-minute pairing sessions
+* DM Mike on Slack to reserve a pairing session
 
 ### Electives (2:30 - 4:00)
 
