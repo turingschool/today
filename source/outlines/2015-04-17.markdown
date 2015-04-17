@@ -71,6 +71,17 @@ Meet with Steve in the Big Workspace.
 
 Meet with Jeff & Mike Dao at the big table by the instructor desks.
 
-#### Something with Josh Cheek
+#### Omg, students, lets go exploring!
 
-Join Josh Cheek to do something awesome.
+Ask all the questions, everything you want to know.
+We'll meander wherever curiousity has us go.
+Let intrigue be our guide, fascination our divining rod,
+we'll question all the rules and challenge all the gods.
+Is it methodology? Is it code?
+Is it C? Is it Node?
+We'll devise experiments, the laboratory is our shell,
+dabbling in the source code, our doubt will be dispelled.
+Burn all the maps, dash the compass on the rocks,
+This description was written during your lightning talks :P
+
+-- Josh Cheek
