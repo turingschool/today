@@ -87,3 +87,7 @@ Burn all the maps, dash the compass on the rocks,
 This description was written during your lightning talks :P
 
 -- Josh Cheek
+
+In the end, we decided to do blocks... and things!
+Here are the notes from everything we explored:
+[https://gist.github.com/JoshCheek/cadcd0857496659f13d5](https://gist.github.com/JoshCheek/cadcd0857496659f13d5)
