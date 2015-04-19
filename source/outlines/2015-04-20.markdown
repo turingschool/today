@@ -19,17 +19,17 @@ Meet in the Big Workspace for this week's code retreat.
 
 ## 1410
 
-### Review: ActiveRecord Challenges (9:00 - 10:30)
+### Work Time: ActiveRecord Challenges (9:00 - 10:30)
 
-Meet with Horace in the big workspace.
+Meet with Horace in the big workspace to work on some [ActiveRecord Challenges](https://gist.github.com/worace/79c93b87da1a232fb2f7)
 
 ### Caching: Part I (10:30 - 12:00)
 
-Meet with Horace in the big workspace.
+Meet with Horace in the big workspace to discuss [Key-based Caching](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
 
 ### Caching: Part II (1:00 - 2:30)
 
-Meet with Horace in Classroom C.
+Meet with Horace in Classroom C to finish up our work on key-based caches from this morning. If we finish this section we'll move on to data-caching.
 
 ## 1412
 
