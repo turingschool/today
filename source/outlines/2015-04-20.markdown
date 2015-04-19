@@ -49,15 +49,19 @@ Meet with Jorge in the Big Workspace.
 
 ### Contact Manager Recap (9:00 - 10:00)
 
-Meet with Rachel in Classroom B.
+Meet with Rachel in Classroom B to review [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). 
 
 ### Database Schema Design (10:00 - 12:00)
 
-Meet with Rachel in Classroom B.
+Meet with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
 
 ### Sessions, Cookies, and Flashes (1:00 - 2:30)
 
-Meet with Rachel in Classroom B. 
+Meet with Rachel in Classroom B. Here's the [repo](https://github.com/rwarbelow/sessions-cookies-flashes). 
+
+### Homework
+
+See [this challenge](https://github.com/turingschool/challenges/blob/master/sessions_flashes_cookies.markdown).
 
 ## 1503
 
