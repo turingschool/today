@@ -1,0 +1,70 @@
+---
+title: 20150420
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 9:00)
+
+Meet with you posses:
+
+* Schedule pairing sessions with mentors
+* Schedule student-to-student pairing/mentoring sessions
+* Update mentors (and each other) with the projects you're currently working on
+
+### Code Retreat (2:30 - 4:00)
+
+Meet in the Big Workspace for this week's code retreat.
+
+## 1410
+
+### Review: ActiveRecord Challenges (9:00 - 10:30)
+
+Meet with Horace in the big workspace.
+
+### Caching: Part I (10:30 - 12:00)
+
+Meet with Horace in the big workspace.
+
+### Caching: Part II (1:00 - 2:30)
+
+Meet with Horace in Classroom C.
+
+## 1412
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Meet with Jorge in Classroom C.
+
+### Presenters and Decorators (10:30 - 12:00)
+
+Meet with Jorge in Classroom C.
+
+### Weekly Iteration (1:00 - 2:30)
+
+Meet with Jorge in the Big Workspace.
+
+## 1502
+
+### Contact Manager Recap (9:00 - 10:00)
+
+Meet with Rachel in Classroom B.
+
+### Database Schema Design (10:00 - 12:00)
+
+Meet with Rachel in Classroom B.
+
+### Sessions, Cookies, and Flashes (1:00 - 2:30)
+
+Meet with Rachel in Classroom B. 
+
+## 1503
+
+### Ruby's Object Model (9:00 - 12:00)
+
+Meet with Josh Cheek in Classroom A.  
+
+### Event Manager Worktime (1:00 - 2:30)
+
+Meet with Josh Cheek in Classroom A to kickoff Event Manager.
