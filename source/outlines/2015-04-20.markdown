@@ -15,7 +15,63 @@ Meet with you posses:
 
 ### Code Retreat (2:30 - 4:00)
 
-Meet in the Big Workspace for this week's code retreat.
+Meet in the Big Workspace for this week's code retreat. 1503 will
+be out, so it's 1410, 1412, and 1502.
+
+You'll use the [String Games](https://github.com/turingschool/code_retreat/tree/master/string_games)
+exercises for these sessions.
+
+#### Pairings - Session 1
+
+* Markus Olsen & Kristina Brown
+* Jeffrey Gu & Bhargavi Satpathy
+* Eric Dowty & Lydia Shafer
+* Mihir Parikh & Austin Wood
+* Rich Shea & Dustin Gault
+* Jack Yeh & Orion Osborn
+* Laura Whalin & Edward McCarthy
+* Lori Culberson & Minnie Lee
+* Andrew Carmer & Charles Valentino Espinoza
+* Stanley Siudzinski & Scott Crawford
+* Trey Tomlinson & Paul Grever
+* Nathan Owsiany & Brandon Mrsny
+* Konr Josef Larson & Kit Pearson
+* Krista A Nelson & Tracy Caruso
+* Michelle Golle & Jamie Kawahara
+* Kyle Henson & Adam Smith
+* Michael Dao & Jeffrey Wan
+* David Daniel & Patrick Medaugh
+* DJ Greenfield & Miriam Moser
+* Emily Berkeley & Tess Griffin
+* Chris Luhring & Kenny Chen
+* Alexandra Robinson & Bryce Holcomb
+* Thomas Leskin & Kyra Steenbock
+
+#### Pairings - Session 2
+
+* Brandon Mrsny & Trey Tomlinson
+* Jamie Kawahara & Charles Valentino Espinoza
+* Paul Grever & Kenny Chen
+* David Daniel & Kit Pearson
+* DJ Greenfield & Michelle Golle
+* Stanley Siudzinski & Kristina Brown
+* Jeffrey Gu & Bhargavi Satpathy
+* Jack Yeh & Kyra Steenbock
+* Kyle Henson & Jeffrey Wan
+* Thomas Leskin & Lori Culberson
+* Tess Griffin & Chris Luhring
+* Markus Olsen & Mihir Parikh
+* Orion Osborn & Miriam Moser
+* Konr Josef Larson & Laura Whalin
+* Bryce Holcomb & Rich Shea
+* Adam Smith & Patrick Medaugh
+* Krista A Nelson & Lydia Shafer
+* Scott Crawford & Eric Dowty
+* Andrew Carmer & Dustin Gault
+* Alexandra Robinson & Edward McCarthy
+* Emily Berkeley & Nathan Owsiany
+* Minnie Lee & Tracy Caruso
+* Austin Wood & Michael Dao
 
 ## 1410
 
