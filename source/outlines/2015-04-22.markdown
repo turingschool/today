@@ -1,0 +1,52 @@
+---
+title: 20150422
+layout: outline
+---
+
+## All
+
+### Posse Warmup (8:30 - 9:00)
+
+## 1410
+
+### Improving Query Performance (9:00 - 12:00)
+
+Horace will show you how to make those queries faster in classroom A.
+
+### Project Worktime (1:00 - 4:00)
+
+Build good things. We're all counting on you.  
+
+## 1412
+
+### Project Worktime (9:00 - 4:00)
+
+All day, erryday.
+
+## 1502
+
+### Routing in Rails (9:00 - 10:30)
+
+Meet with Rachel in Classroom B to talk about the places you'll go with `routes.rb`. 
+
+### Authorization (10:30 - 12:00)
+
+Stick around to add admin functionality to your applications. 
+
+### Authorization Worktime (1:00 - 4:00)
+
+TBA
+
+## 1503
+
+### Seeing is Believing (9:00 - 10:00)
+
+Meet with Josh C. in the big workspace to believe. 
+
+### Project Worktime (10:00 - 12:00)
+
+Keep on chiselin' (or sales engine...ing?)
+
+### Refactoring Patterns (1:00 - 4:00)
+
+Meet with Horace in Classroom B to learn some tips and tricks for refactoring your code. 
