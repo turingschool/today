@@ -69,10 +69,18 @@ See [this challenge](https://github.com/turingschool/challenges/blob/master/sess
 
 Meet with Josh Cheek in Classroom A.  
 
-### Event Manager Worktime (1:00 - 2:30)
+### Chisel Kickoff / Event Manager (1:00 - 2:30)
 
-Meet with Josh Cheek in Classroom A to kickoff Event Manager.
+This week we'll break into two different groups when working on projects. You may not change groups.
+
+* SalesEngine: Erik, Josh, Andrew, Brett, Whitney, Justin, Sally, Morgan, Drew, Max, Dmitry, Chelsea
+* Chisel: Ricky, Rob, Vanessa, Eugene, Lev, Margarett, Dave, Michael
+
+If you're working on Chisel this week, meet with Josh in Classroom A to [discuss the assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown).
+
+If you're starting into SalesEngine tomorrow, please work independently on [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html) and have it done by 9AM tomorrow. You'll get your pairing and begin SE tomorrow.
 
 ### Linked List Recap & Refactor (2:30 - 4:00)
 
-Meet with Josh Cheek and Horace in Classroom A. 
+Meet with Josh Cheek and Horace in Classroom A. You'll divide up into two groups and dig into your Linked List solutions
+from the weekend. [Here's the project spec](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown).
