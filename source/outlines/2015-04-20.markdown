@@ -72,3 +72,7 @@ Meet with Josh Cheek in Classroom A.
 ### Event Manager Worktime (1:00 - 2:30)
 
 Meet with Josh Cheek in Classroom A to kickoff Event Manager.
+
+### Linked List Recap & Refactor (2:30 - 4:00)
+
+Meet with Josh Cheek and Horace in Classroom A. 
