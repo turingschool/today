@@ -41,11 +41,21 @@ TBA
 
 ### Authentication (9:00 - 12:00)
 
-Don't let creepers into your application. Learn how to authenticate your users with Rachel in Classroom C. 
+Don't let creepers into your application. Learn how to authenticate your users with Rachel in Classroom C. You'll need [this repo](https://github.com/turingschool-examples/authentication) and you might want [these slides](https://www.dropbox.com/sh/k8jsy5i9wgwk52x/AADpCVwnRuZThsmTVfFU2i3na?dl=0). 
 
 ### Worktime: Authentication (1:00 - 4:00)
 
-Add users and authentication to your My Jams app. 
+Add users and authentication to your My Jams app:
+
+* Add gem ‘bcrypt’ to Gemfile
+* Create migration for User with password_digest column
+* Add has_secure_password to User model
+* Create routes, views, and controller for to allow user accounts to be created.
+* Permit :password and :password_confirmation in strong params
+* Add routes for login and logout
+* Create a sessions controller with new, create, and destroy methods
+* Create a view for sessions new that includes a field for username and password
+* Try logging in and out!
 
 ## 1503
 
