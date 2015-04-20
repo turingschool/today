@@ -49,7 +49,7 @@ Meet with Jorge in the Big Workspace.
 
 ### Contact Manager Recap (9:00 - 10:00)
 
-Spend the first 20 minutes in the pairs listed below to review questions and points of confusion in the [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html) tutorial. Meet in Classroom B at 9:20 to go over any lingering questions. 
+Spend the first 20 minutes in the pairs listed below to review questions and points of confusion in the [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html) tutorial. Meet in Classroom B at 9:20 to go over any lingering questions.
 
 * Andrew Carmer & Kristina Brown
 * David Daniel & Thomas Leskin
@@ -60,20 +60,20 @@ Spend the first 20 minutes in the pairs listed below to review questions and poi
 
 ### Database Schema Design (10:00 - 12:00)
 
-Meet with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
+Meet with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
 
 Work in the following pairs:
 
 * David Daniel & Kristina Brown
 * Minnie Lee & Kenny Chen
 * Patrick Medaugh & Thomas Leskin
-* Kyle Henson & Mihir Parikh 
-* Tracy Caruso & Andrew Carmer 
+* Kyle Henson & Mihir Parikh
+* Tracy Caruso & Andrew Carmer
 * Eric Dowty & Michelle Golle
 
 ### Sessions, Cookies, and Flashes (1:00 - 2:30)
 
-Meet with Rachel in Classroom B. Here's the [repo](https://github.com/rwarbelow/sessions-cookies-flashes). 
+Meet with Rachel in Classroom B. Here's the [repo](https://github.com/rwarbelow/sessions-cookies-flashes).
 
 ### Homework
 
@@ -83,9 +83,16 @@ See [this challenge](https://github.com/turingschool/challenges/blob/master/sess
 
 ### Ruby's Object Model (9:00 - 12:00)
 
-Meet with Josh Cheek in Classroom A.  
+Meet with Josh Cheek in Classroom A.
 
-### Chisel Kickoff / Event Manager (1:00 - 2:30)
+Our notes from class are at [https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98](https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98).
+They cover Bindings, Classes, Instances, and our code sample that we drew and executed :)
+
+### Install Seeing Is Believing
+
+We're going to approximately follow this code: [https://gist.github.com/JoshCheek/09465cb70f5351cc0faa](https://gist.github.com/JoshCheek/09465cb70f5351cc0faa).
+
+### Chisel Kickoff / Event Manager (1:20 - 2:30)
 
 This week we'll break into two different groups when working on projects. You may not change groups.
 
