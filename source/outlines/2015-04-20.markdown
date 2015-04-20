@@ -19,17 +19,17 @@ Meet in the Big Workspace for this week's code retreat.
 
 ## 1410
 
-### Review: ActiveRecord Challenges (9:00 - 10:30)
+### Work Time: ActiveRecord Challenges (9:00 - 10:30)
 
-Meet with Horace in the big workspace.
+Meet with Horace in the big workspace to work on some [ActiveRecord Challenges](https://gist.github.com/worace/79c93b87da1a232fb2f7)
 
 ### Caching: Part I (10:30 - 12:00)
 
-Meet with Horace in the big workspace.
+Meet with Horace in the big workspace to discuss [Key-based Caching](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
 
 ### Caching: Part II (1:00 - 2:30)
 
-Meet with Horace in Classroom C.
+Meet with Horace in Classroom C to finish up our work on key-based caches from this morning. If we finish this section we'll move on to data-caching.
 
 ## 1412
 
@@ -49,15 +49,35 @@ Meet with Jorge in the Big Workspace.
 
 ### Contact Manager Recap (9:00 - 10:00)
 
-Meet with Rachel in Classroom B.
+Spend the first 20 minutes in the pairs listed below to review questions and points of confusion in the [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html) tutorial. Meet in Classroom B at 9:20 to go over any lingering questions. 
+
+* Andrew Carmer & Kristina Brown
+* David Daniel & Thomas Leskin
+* Patrick Medaugh & Kyle Henson
+* Mihir Parikh & Kenny Chen
+* Minnie Lee & Eric Dowty
+* Tracy Caruso & Michelle Golle
 
 ### Database Schema Design (10:00 - 12:00)
 
-Meet with Rachel in Classroom B.
+Meet with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
+
+Work in the following pairs:
+
+* David Daniel & Kristina Brown
+* Minnie Lee & Kenny Chen
+* Patrick Medaugh & Thomas Leskin
+* Kyle Henson & Mihir Parikh 
+* Tracy Caruso & Andrew Carmer 
+* Eric Dowty & Michelle Golle
 
 ### Sessions, Cookies, and Flashes (1:00 - 2:30)
 
-Meet with Rachel in Classroom B. 
+Meet with Rachel in Classroom B. Here's the [repo](https://github.com/rwarbelow/sessions-cookies-flashes). 
+
+### Homework
+
+See [this challenge](https://github.com/turingschool/challenges/blob/master/sessions_flashes_cookies.markdown).
 
 ## 1503
 
@@ -65,6 +85,18 @@ Meet with Rachel in Classroom B.
 
 Meet with Josh Cheek in Classroom A.  
 
-### Event Manager Worktime (1:00 - 2:30)
+### Chisel Kickoff / Event Manager (1:00 - 2:30)
 
-Meet with Josh Cheek in Classroom A to kickoff Event Manager.
+This week we'll break into two different groups when working on projects. You may not change groups.
+
+* SalesEngine: Erik, Josh, Andrew, Brett, Whitney, Justin, Sally, Morgan, Drew, Max, Dmitry, Chelsea
+* Chisel: Ricky, Rob, Vanessa, Eugene, Lev, Margarett, Dave, Michael
+
+If you're working on Chisel this week, meet with Josh in Classroom A to [discuss the assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown).
+
+If you're starting into SalesEngine tomorrow, please work independently on [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html) and have it done by 9AM tomorrow. You'll get your pairing and begin SE tomorrow.
+
+### Linked List Recap & Refactor (2:30 - 4:00)
+
+Meet with Josh Cheek and Horace in Classroom A. You'll divide up into two groups and dig into your Linked List solutions
+from the weekend. [Here's the project spec](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown).
