@@ -74,21 +74,45 @@ Add users and authentication to your My Jams app:
 * Create a view for sessions new that includes a field for username and password
 * Try logging in and out!
 
-## 1503
+## 1503 - Chiselers
 
-### Chisel Worktime (9:00 - 4:00)
+### Open Work Time (9:00-4:00)
 
-If you're working on Chisel, keep doing that.
+For most of the day you have work time. This is your biggest
+chunk of time to push towards your deadline on Thursday.
+
+### Check-Ins (1:00-2:30)
+
+This afternoon you'll meet with Josh C or Horace for
+a brief check in to see how you're doing and answer any questions.
+
+#### With Horace
+
+* 1:00 - Ricky
+* 1:20 - Rob
+* 1:40 - Vanessa
+* 2:00 - Eugene
+
+#### With Josh
+
+* 1:00 - Lev
+* 1:20 - Margarett
+* 1:40 - Dave
+* 2:00 - Michael
+
+## 1503 - SalesEngineers
 
 ### EventManager Recap & Refactor (9:00 - 10:30)
 
-Meet with Josh in the Big Workspace.
+Meet with Josh in the Big Workspace to go over EventManager and
+answer any questions.
 
 ### Kickoff SalesEngine (10:30 - 12:00)
 
-Stay with Josh in the Big Workspace.
+Stay with Josh in the Big Workspace to start into [SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+Your project is due at 9AM on Thursday, April 30th.
 
-Pairs:
+You'll build the project in the following teams:
 
 * Dmitry Vizersky & Drew Reynolds
 * Chelsea Worrel & Morgan Miller
@@ -97,10 +121,22 @@ Pairs:
 * Max Tedford & Andrew Fink
 * Josh Cass & Erik Butcher
 
+The first things you should do are:
+
+* Read the assignment
+* Re-read the assignment and make notes/highlights
+* Discuss each person's schedule constraints
+* Make a plan for what hours/days you're going to work
+* Discuss your personal learning goals and what you're looking to get better at
+* Setup your repo on both machines
+
+### Getting Started (1:00 - 2:30)
+
+Start actually writing some code. How do you deal with these CSV
+files? What do they contain? Get your hands dirty.
+
 ### Decomposing SalesEngine (1:00 - 2:30)
 
-How do you build this thing? Meet with Horace in Classroom C.
+Now that you have a little feeling for the data and project,
+meet with Horace in Classroom C to talk about an architecture.
 
-### SalesEngine Worktime (2:30 - 4:00)
-
-Now build it.
