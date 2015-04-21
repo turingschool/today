@@ -76,15 +76,12 @@ Don't let creepers into your application. Learn how to authenticate your users w
 
 Add users and authentication to your My Jams app:
 
-* Add gem ‘bcrypt’ to Gemfile
-* Create migration for User with password_digest column
-* Add has_secure_password to User model
-* Create routes, views, and controller for to allow user accounts to be created.
-* Permit :password and :password_confirmation in strong params
-* Add routes for login and logout
-* Create a sessions controller with new, create, and destroy methods
-* Create a view for sessions new that includes a field for username and password
-* Try logging in and out!
+* User should be able to create accounts with a unique username
+* User should be able to log into their account
+* User should be able to log out of their account
+* Extension: Associate songs with users. When a user logs in, they should see only their songs when they navigate to `/songs`. When they create a song through the web interface, that song should be associated with the user. 
+
+Remember to use the app we created in this morning's lesson and the slides (linked above) for reference. 
 
 ## 1503 - Chiselers
 
