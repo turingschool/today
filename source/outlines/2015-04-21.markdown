@@ -150,5 +150,5 @@ files? What do they contain? Get your hands dirty.
 ### Decomposing SalesEngine (2:30 - 4:00)
 
 Now that you have a little feeling for the data and project,
-meet with Horace in Classroom C to talk about an architecture.
+meet with Horace in Classroom C to talk about a [possible SalesEngine architecture](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/sales_engine_decomposition.markdown).
 
