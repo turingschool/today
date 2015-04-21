@@ -7,13 +7,13 @@ layout: outline
 
 ### Posse Warmup (8:30 - 9:00)
 
-Work on the [Word Rotation](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/word_rotation.markdown) with your posse. 
+Work on the [Word Rotation](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/word_rotation.markdown) with your posse.
 
 ## 1410
 
 ### Workers at Scale (9:00 - 10:30)
 
-Meet with Horace in Classroom A to discuss [background workers at scale](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown). 
+Meet with Horace in Classroom A to discuss [background workers at scale](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/workers_at_scale.markdown).
 
 ### Data Caching (10:30 - 12:00)
 
@@ -41,7 +41,7 @@ TBA
 
 ### Authentication (9:00 - 12:00)
 
-Don't let creepers into your application. Learn how to authenticate your users with Rachel in Classroom C. You'll need [this repo](https://github.com/turingschool-examples/authentication) and you might want [these slides](https://www.dropbox.com/sh/k8jsy5i9wgwk52x/AADpCVwnRuZThsmTVfFU2i3na?dl=0). 
+Don't let creepers into your application. Learn how to authenticate your users with Rachel in Classroom C. You'll need [this repo](https://github.com/turingschool-examples/authentication) and you might want [these slides](https://www.dropbox.com/sh/k8jsy5i9wgwk52x/AADpCVwnRuZThsmTVfFU2i3na?dl=0).
 
 ### Worktime: Authentication (1:00 - 4:00)
 
@@ -61,15 +61,24 @@ Add users and authentication to your My Jams app:
 
 ### Chisel Worktime (9:00 - 4:00)
 
-If you're working on Chisel, keep doing that. 
+If you're working on Chisel, keep doing that.
 
 ### EventManager Recap & Refactor (9:00 - 10:30)
 
-Meet with Josh in the Big Workspace. 
+Meet with Josh in the Big Workspace.
 
 ### Kickoff SalesEngine (10:30 - 12:00)
 
 Stay with Josh in the Big Workspace.
+
+Pairs:
+
+* Dmitry Vizersky & Drew Reynolds
+* Chelsea Worrel & Morgan Miller
+* Sally MacNicholas & Justin Holmes
+* Whitney Hiemstra & Brett Grigsby
+* Max Tedford & Andrew Fink
+* Josh Cass & Erik Butcher
 
 ### Decomposing SalesEngine (1:00 - 2:30)
 
@@ -77,4 +86,4 @@ How do you build this thing? Meet with Horace in Classroom C.
 
 ### SalesEngine Worktime (2:30 - 4:00)
 
-Now build it. 
+Now build it.
