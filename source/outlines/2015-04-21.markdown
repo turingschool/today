@@ -70,6 +70,8 @@ Meet with Josh in the Big Workspace.
 ### Kickoff SalesEngine (10:30 - 12:00)
 
 Stay with Josh in the Big Workspace.
+Here are our notes showing examples of how to use it:
+[https://gist.github.com/JoshCheek/92139e977808062b0a81](https://gist.github.com/JoshCheek/92139e977808062b0a81)
 
 Pairs:
 
