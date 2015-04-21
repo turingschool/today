@@ -135,7 +135,7 @@ The first things you should do are:
 Start actually writing some code. How do you deal with these CSV
 files? What do they contain? Get your hands dirty.
 
-### Decomposing SalesEngine (1:00 - 2:30)
+### Decomposing SalesEngine (2:30 - 4:00)
 
 Now that you have a little feeling for the data and project,
 meet with Horace in Classroom C to talk about an architecture.
