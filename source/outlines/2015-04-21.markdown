@@ -25,17 +25,34 @@ TBA
 
 ## 1412
 
-### Understanding the Asset Pipeline OR Project Worktime (9:00 - 10:30)
+### Understanding the Asset Pipeline (9:00 - 10:30)
 
-It's a suprise! Stay tuned...
+Meet with Jorge in Classroom B to learn about the asset pipeline and understand why "that thing is not rendering on Heroku"™.
 
 ### Handling Errors and Failures (10:30 - 12:00)
 
-Meet with Jorge in Classroom B.
+Meet with Jorge in Classroom B to learn how to create a staging environment, create custom error pages, and handle ActiveRecord errors in Rails.
 
 ### Project Check-ins and Worktime (1:00 - 4:00)
 
-TBA
+Meet with Jorge at the conference table next to the instructors' den. For this check-in, we will review that you have your views, and that your app is deployed to Heroku.
+
+* 1:00 - Miriam Moser
+* 1:10 - Edward McCarthy
+* 1:20 - Jeffrey Gu
+* 1:30 - Paul Grever
+* 1:40 - Markus Olsen
+* 1:50 - Break
+* 2:00 - Lori Culberson
+* 2:10 - Tino Espinoza
+* 2:20 - DJ Greenfield
+* 3:30 - Kit Pearson
+* 2:40 - Austin Wood
+* 2:50 - Break
+* 3:00 - Kyra Steenbock
+* 3:10 - Dustin Gault
+* 3:20 - Rich Shea
+* 3:30 - Trey Tomlinson
 
 ## 1502
 
