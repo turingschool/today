@@ -29,11 +29,11 @@ All day, erryday.
 
 ### Routing in Rails (9:00 - 10:30)
 
-Meet with Rachel in Classroom B to talk about the places you'll go with `routes.rb`.
+Meet with Rachel in Classroom B to talk about the places you'll go with `routes.rb`. Want the [slides](https://www.dropbox.com/s/qj6ud22t32f5u11/routing_in_rails.key?dl=0)?
 
 ### Authorization (10:30 - 12:00)
 
-Stick around to add admin functionality to your applications.
+Stick around to add admin functionality to your applications. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). 
 
 ### Authorization Worktime (1:00 - 4:00)
 
