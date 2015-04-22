@@ -15,7 +15,7 @@ Horace will show you how to make those queries faster in classroom A.
 
 ### Project Worktime (1:00 - 4:00)
 
-Build good things. We're all counting on you.  
+Build good things. We're all counting on you.
 
 ## 1412
 
@@ -27,11 +27,11 @@ All day, erryday.
 
 ### Routing in Rails (9:00 - 10:30)
 
-Meet with Rachel in Classroom B to talk about the places you'll go with `routes.rb`. 
+Meet with Rachel in Classroom B to talk about the places you'll go with `routes.rb`.
 
 ### Authorization (10:30 - 12:00)
 
-Stick around to add admin functionality to your applications. 
+Stick around to add admin functionality to your applications.
 
 ### Authorization Worktime (1:00 - 4:00)
 
@@ -39,9 +39,14 @@ TBA
 
 ## 1503
 
-### Seeing is Believing (9:00 - 10:00)
+### Lets Object Model some more! (9:00 - 10:00)
 
-Meet with Josh C. in the big workspace to believe. 
+This was scheduled for SiB, but we already got it installed, so.... lets Object Model!
+
+I invited Sam to join us.
+Lets try a quick recap, and then see if we can't get all the way through our code sample :)
+[https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98](https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98)
+
 
 ### Project Worktime (10:00 - 12:00)
 
@@ -49,4 +54,4 @@ Keep on chiselin' (or sales engine...ing?)
 
 ### Refactoring Patterns (1:00 - 4:00)
 
-Meet with Horace in Classroom B to learn some tips and tricks for refactoring your code. 
+Meet with Horace in Classroom B to learn some tips and tricks for refactoring your code.
