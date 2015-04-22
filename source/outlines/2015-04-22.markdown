@@ -7,6 +7,8 @@ layout: outline
 
 ### Posse Warmup (8:30 - 9:00)
 
+Pick an exercism in JavaScript to complete with your posse. 
+
 ## 1410
 
 ### Improving Query Performance (9:00 - 12:00)
