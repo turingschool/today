@@ -1,0 +1,77 @@
+---
+title: 20150423
+layout: outline
+---
+
+## All
+
+### Posse Warmup (8:30 - 9:00)
+
+## 1410
+
+### Introduction to AngularJS (9:00 - 12:00)
+
+While Steve is away, it's safe to learn some AngularJS! Join Sam in Classroom B. 
+
+### Project Worktime (1:00 - 4:00)
+
+Get the jobs into that basket. 
+
+## 1412
+
+### Project Worktime (9:00 - 12:00)
+
+Two weeks until demo night. 
+
+### Introduction to AngularJS (1:00 - 4:00)
+
+Don't tell Steve, but you're learning AngularJS today. Join Sam in Classroom B. 
+
+## 1502
+
+### Git Workflow for Teams (9:00 - 12:00)
+
+Join Horace in Classroom C and learn how to avoid a gitastrophy. 
+
+### Rails Mini-Project (1:00 - 4:00)
+
+Join Rachel in Classroom C to kick off your [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown).
+
+* David Daniel & Kenny Chen
+* Eric Dowty & Tracy Caruso
+* Thomas Leskin & Patrick Medaugh
+* Mihir Parikh & Michelle Golle
+* Kyle Henson & Minnie Lee
+* Kristina Brown & Andrew Carmer
+* Tess Griffin
+* Jack Yeh
+
+## 1503
+
+### Working with Ruby's Modules (9:00 - 10:30)
+
+Join Josh Cheek in Classroom A to talk about Ruby's Modules.
+
+### Sales Engine / Chisel Worktime (10:30 - 12:00)
+
+You can do it!
+
+### Chisel Evaluations (1:00 - 4:00)
+
+With Josh:
+
+1:00 Ricky
+1:30 Margarett
+2:00 Vanessa
+2:30 Eugene
+3:00 Lev
+3:30 Rob
+
+With Horace: 
+
+1:00 Dave
+1:30 Michael
+
+### Sales Engine Worktime (1:00 - 4:00)
+
+Rachel will be on hand for questions. 
