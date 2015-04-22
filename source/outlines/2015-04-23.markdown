@@ -7,6 +7,8 @@ layout: outline
 
 ### Posse Warmup (8:30 - 9:00)
 
+Become a [RubyWarrior](https://www.bloc.io/ruby-warrior/) and fight your way through slugs and archers. You can complete individually or with a pair at your option.
+
 ## 1410
 
 ### Introduction to AngularJS (9:00 - 12:00)
@@ -60,17 +62,17 @@ You can do it!
 
 With Josh:
 
-1:00 Ricky
-1:30 Margarett
-2:00 Vanessa
-2:30 Eugene
-3:00 Lev
-3:30 Rob
+* 1:00 Ricky
+* 1:30 Margarett
+* 2:00 Vanessa
+* 2:30 Eugene
+* 3:00 Lev
+* 3:30 Rob
 
 With Horace: 
 
-1:00 Dave
-1:30 Michael
+* 1:00 Dave
+* 1:30 Michael
 
 ### Sales Engine Worktime (1:00 - 4:00)
 
