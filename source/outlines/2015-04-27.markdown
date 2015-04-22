@@ -1,0 +1,62 @@
+---
+title: 20150427
+layout: outline
+---
+
+## All
+
+### Posse Meeting Time (8:30 - 9:00)
+
+Meet with you posses:
+
+* Schedule pairing sessions with mentors
+* Schedule student-to-student pairing/mentoring sessions
+* Update mentors (and each other) with the projects you're currently working on
+
+### Code Retreat (2:30 - 4:00)
+
+Meet in the Big Workspace for this week's code retreat.
+
+## 1410
+
+### Advanced Querying with ActiveRecord & Arel (9:00 - 12:00)
+
+This is Horace's favorite lesson. Join him in Classroom B. 
+
+### Project Worktime (1:00 - 2:30)
+
+Work, work, work. 
+
+## 1412
+
+### Fundamental JSON (9:00 - 10:00)
+
+As you will find out with Jorge in Classroom C, JSON is FUNdamental. 
+
+### Revisiting ActiveRecord (10:00 - 12:00)
+
+Stick with Jorge in Classroom C to pay a visit to your good friend, ActiveRecord. 
+
+### Weekly Iteration (1:00 - 2:30)
+
+Join Jorge in Classroom C. 
+
+## 1502
+
+### Dinner Dash Kickoff and Worktime (9:00 - 12:00)
+
+Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html). 
+
+### Cart & Order Lifecycles (1:00 - 2:30)
+
+Let's talk about the Circle of Life (for carts and orders). Join Rachel in Classroom B.
+
+## 1503
+
+### Ruby's Object Model, Part Two and a Half (9:00 - 12:00)
+
+Get classy in Classroom A with Josh. 
+
+### Business Logic & Encapsulation (1:00 - 2:30)
+
+It's business time with Horace in Classroom A. 
