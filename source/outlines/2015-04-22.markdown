@@ -37,7 +37,13 @@ Stick around to add admin functionality to your applications. Find the outline [
 
 ### Authorization Worktime (1:00 - 4:00)
 
-TBA
+Add authorization in your My Jams project so that only an admin can create tags. 
+
+* Admin should be able to CRUD tags.
+* Default users should NOT be able to add new tags, but they should be able to tag their songs (modify your song creation form). 
+* Songs should be automatically associated with the logged in user when they are created. 
+* Change `resources :users` to be a singular resource route (ie - when a user logs in and sees their dashboard, the route should be `localhost:3000/user`. 
+* Extension: admin should be able to CRUD images and users should be able to select an image 
 
 ## 1503
 
