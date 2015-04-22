@@ -1,0 +1,89 @@
+---
+title: 20150424
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/1YSeu9ucvRz_2VDNJfUPOO19IJqUr1Zzd_cIlL7Ip6ic/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/124zMYKhHVyN9r6t3WYN0iwMk4y4vYuoYxugIMb3jJCo/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1nAcGut11_7dr9wLt4vH2_uWKXmhR8WEprl-gjrhwhD4/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/19tCNqWEXyfI-zwX9slC593D43OYQfFA2dhT0KeWFyuM/viewform)
+
+### Lightning Talks (9:00 - 10:00)
+
+Gather in the Big Workspace at 9am sharp!
+
+* Brandon Mrsny: Service Oriented Architecture! What is it?
+* DJ Greenfield: Online Advertising is F*cky
+* Kyle Henson: Who is Jim Weirich?
+* Tino Espinoza: The Sisterhood of the Traveling Genetic Algorithm
+* Patrick Medaugh: Logical Fallacies or How Not to Sell a Vacuum
+* Eric Dowty: Nuclear Weapons -- They're the Bomb.
+* Krista Nelson: Data Structures and Algorithms for Ruby Newbies
+* Trey Tomlinson: The Boy Who Pry'ed Wolf
+* Lydia Shafer: Languages -- How to remember them.
+
+### Self-Study Sessions (10:00 - 12:00)
+
+* DM Mike to grab a pairing session. 
+
+### One-on-Ones (10:00 - 12:00)
+
+With Josh C.: 
+
+With Jorge: 
+
+With Rachel: 
+
+With Sam: 
+
+With Horace: 
+
+With Raissa: 
+
+With Daisha: 
+
+### Group Retrospectives (1:00 - 1:30)
+
+* 1410 in Classroom C with Horace.
+* 1412 in the Big Workspace with Jorge.
+* 1502 in Classroom B with Rachel.
+* 1503 in Classroom A with Josh C.
+
+### Guest: Rachel Cope from thoughtbot (1:30 - 2:30)
+
+From Rachel's [personal site](http://rachelcope.io/):
+
+*I am a UX and product designer at thoughtbot in Denver who loves human psychology (typical “INFJ”), beauty, and rendering the abstract concrete. Prior to thoughtbot, I did freelance interactive design, co-founded a web startup to combat child malnutrition, and spent 2 years teaching in Guatemala. I’m inspired by the mountains, stimulating conversation, delicious food, and spending time with good friends and family. Currently on my playlist: Mozart, The Kinks, Andrew Bird, Gregorian Chants, Lorde. Currently reading: "Human Centered Design" by IDEO and "On Looking" by Alexandra Horowitz"*
+
+Find Rachel on [Twitter](https://twitter.com/rachelcope)
+
+### Electives (2:30 - 4:00)
+
+#### Client Work with Rachel
+
+We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
+
+#### PHP with Jorge
+
+Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
+
+#### Side Hustles 
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+* We'll share some details about the status of our projects from last week
+* We'll pair and write some code
+
+Meet near the large kitchen table. Steve will be with you in spirit. 
+
+#### Team Draper
+
+Meet with Mike Dao. 
+
+#### Play and Explore
+
+Meet with Josh C. in Classroom A. 
