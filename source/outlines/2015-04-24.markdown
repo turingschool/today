@@ -32,6 +32,7 @@ Use this time to either join a session below or do some self-study (build a side
 
 * Austin will lead a session on how to test OmniAuth in Classroom A.
 * Bhargavi will lead a session on how of make a Ruby gem in Classroom B.
+* Rich will lead a session on Arrays in Classroom C. 
 
 * DM Mike to grab a pairing session. 
 
