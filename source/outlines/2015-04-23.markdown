@@ -33,7 +33,7 @@ Don't tell Steve, but you're learning AngularJS today. Join Sam in Classroom B.
 
 ### Git Workflow for Teams (9:00 - 12:00)
 
-Join Horace in Classroom C and learn how to avoid a gitastrophy. 
+Join Horace in Classroom C and learn [how to avoid a gitastrophy](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown).
 
 ### Rails Mini-Project (1:00 - 4:00)
 
