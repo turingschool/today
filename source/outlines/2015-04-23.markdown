@@ -13,21 +13,21 @@ Become a [RubyWarrior](https://www.bloc.io/ruby-warrior/) and fight your way thr
 
 ### Introduction to AngularJS (9:00 - 12:00)
 
-While Steve is away, it's safe to learn some AngularJS! Join Sam in Classroom B. 
+While Steve is away, it's safe to learn some AngularJS! Join Sam in Classroom B.
 
 ### Project Worktime (1:00 - 4:00)
 
-Get the jobs into that basket. 
+Get the jobs into that basket.
 
 ## 1412
 
 ### Project Worktime (9:00 - 12:00)
 
-Two weeks until demo night. 
+Two weeks until demo night.
 
 ### Introduction to AngularJS (1:00 - 4:00)
 
-Don't tell Steve, but you're learning AngularJS today. Join Sam in Classroom B. 
+Don't tell Steve, but you're learning AngularJS today. Join Sam in Classroom B.
 
 ## 1502
 
@@ -54,6 +54,10 @@ Join Rachel in Classroom C to kick off your [Rails Mini-Project](https://github.
 
 Join Josh Cheek in Classroom A to talk about Ruby's Modules.
 
+The Object Model notes are updated to include the code example from class,
+and a picture of the structure we arrived at.
+[https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98#modules](https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98#modules)
+
 ### Sales Engine / Chisel Worktime (10:30 - 12:00)
 
 You can do it!
@@ -69,11 +73,11 @@ With Josh:
 * 3:00 Lev
 * 3:30 Rob
 
-With Horace: 
+With Horace:
 
 * 1:00 Dave
 * 1:30 Michael
 
 ### Sales Engine Worktime (1:00 - 4:00)
 
-Rachel will be on hand for questions. 
+Rachel will be on hand for questions.
