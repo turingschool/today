@@ -26,7 +26,12 @@ Gather in the Big Workspace at 9am sharp!
 * Trey Tomlinson: The Boy Who Pry'ed Wolf
 * Lydia Shafer: Languages -- How to remember them.
 
-### Self-Study Sessions (10:00 - 12:00)
+### Self-Study and Student-Led Sessions (10:00 - 12:00)
+
+Use this time to either join a session below or do some self-study (build a side-project, learn a new language, read a book from Turing's "library", watch a video tutorial, etc). 
+
+* Austin will lead a session on how to test OmniAuth in Classroom A.
+* Bhargavi will lead a session on how of make a Ruby gem in Classroom B.
 
 * DM Mike to grab a pairing session. 
 
@@ -37,6 +42,8 @@ With Josh C.:
 With Jorge: 
 
 With Rachel: 
+
+With Jeff:
 
 With Sam: 
 
@@ -63,13 +70,17 @@ Find Rachel on [Twitter](https://twitter.com/rachelcope)
 
 ### Electives (2:30 - 4:00)
 
-#### Client Work with Rachel
-
-We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
-
 #### PHP with Jorge
 
 Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
+
+#### Play and Explore
+
+Meet with Josh C. in Classroom A. 
+
+#### NodeJS with Sam
+
+Meet with Sam to explore something. 
 
 #### Side Hustles 
 
@@ -84,6 +95,6 @@ Meet near the large kitchen table. Steve will be with you in spirit.
 
 Meet with Mike Dao. 
 
-#### Play and Explore
+#### Client Work with Rachel
 
-Meet with Josh C. in Classroom A. 
+We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
