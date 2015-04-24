@@ -32,7 +32,9 @@ Use this time to either join a session below or do some self-study (build a side
 
 * Austin will lead a session on how to test OmniAuth in Classroom A.
 * Bhargavi will lead a session on how of make a Ruby gem in Classroom B.
-* Rich will lead a session on Arrays in Classroom C. 
+* Rich will lead a session on Arrays near the couches of Classroom A. 
+* Tracy will lead a session to build an interface for a My Jams app from start to finish. We will start by designing the application in [Affinity Photo](https://affinity.serif.com/en-us/beta-download/), and then build out the HTML and CSS using [Skeleton](http://getskeleton.com/). Find her in Classroom C. 
+* Krista will lead a white boarding practice session tomorrow in the big workspace. 
 
 * DM Mike to grab a pairing session. 
 
@@ -45,6 +47,8 @@ With Jorge:
 With Rachel: 
 
 With Jeff:
+
+* 10:00 Alex Robinson
 
 With Sam: 
 
