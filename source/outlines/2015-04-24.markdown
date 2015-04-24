@@ -44,8 +44,7 @@ Use this time to either join a session below or do some self-study (build a side
 
 * 10:00: Kenny Chen
 * 10:20: Kristina Brown
-* 10:40: Melody Lin
-* 11:00: Kim Murphy
+* 10:40: Eugene Khanutin
 
 #### With Jorge
 
@@ -59,7 +58,6 @@ Use this time to either join a session below or do some self-study (build a side
 * 10:00: Andrew Carmer
 * 10:20: David Daniel
 * 10:40: Eric Dowty
-* 11:00: Eugene Khanutin
 
 #### With Jeff
 
@@ -80,11 +78,10 @@ Use this time to either join a session below or do some self-study (build a side
 * 10:00: Bhargavi Satpathy
 * 10:20: Brandon Mrsny
 * 10:40: Bryce Holcomb
-* 11:00: Chris Luhring
 
 #### With Raissa
 
-* 10:00: Justin Pease
+* 10:00: Chris Luhring
 * 10:20: Markus Olsen
 * 10:40: Dustin Gault
 
