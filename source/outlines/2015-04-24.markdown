@@ -143,3 +143,8 @@ This will be good for 1410 and 1412.
 #### Client Work with Rachel
 
 We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended.
+
+#### Ruby Metaprogramming with Horace
+
+Ruby is a dynamic and flexible language out of the gate, but when you account for all of its metaprogramming capabilities, things really start to get interesting. Let's look at some of these features and see how ruby allows us to write code that writes code.
+
