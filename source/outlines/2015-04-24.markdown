@@ -28,35 +28,35 @@ Gather in the Big Workspace at 9am sharp!
 
 ### Self-Study and Student-Led Sessions (10:00 - 12:00)
 
-Use this time to either join a session below or do some self-study (build a side-project, learn a new language, read a book from Turing's "library", watch a video tutorial, etc). 
+Use this time to either join a session below or do some self-study (build a side-project, learn a new language, read a book from Turing's "library", watch a video tutorial, etc).
 
 * Austin will lead a session on how to test OmniAuth in Classroom A.
 * Bhargavi will lead a session on how of make a Ruby gem in Classroom B.
-* Rich will lead a session on Arrays near the couches of Classroom A. 
-* Tracy will lead a session to build an interface for a My Jams app from start to finish. We will start by designing the application in [Affinity Photo](https://affinity.serif.com/en-us/beta-download/), and then build out the HTML and CSS using [Skeleton](http://getskeleton.com/). Find her in Classroom C. 
-* Krista will lead a white boarding practice session tomorrow in the big workspace. 
+* Rich will lead a session on Arrays near the couches of Classroom A.
+* Tracy will lead a session to build an interface for a My Jams app from start to finish. We will start by designing the application in [Affinity Photo](https://affinity.serif.com/en-us/beta-download/), and then build out the HTML and CSS using [Skeleton](http://getskeleton.com/). Find her in Classroom C.
+* Krista will lead a white boarding practice session tomorrow in the big workspace.
 
-* DM Mike to grab a pairing session. 
+* DM Mike to grab a pairing session.
 
 ### One-on-Ones (10:00 - 12:00)
 
-With Josh C.: 
+With Josh C.:
 
-With Jorge: 
+With Jorge:
 
-With Rachel: 
+With Rachel:
 
 With Jeff:
 
 * 10:00 Alex Robinson
 
-With Sam: 
+With Sam:
 
-With Horace: 
+With Horace:
 
-With Raissa: 
+With Raissa:
 
-With Daisha: 
+With Daisha:
 
 ### Group Retrospectives (1:00 - 1:30)
 
@@ -81,24 +81,26 @@ Yes, you read it right. Let's understand all those jokes that cool Ruby kids tel
 
 #### Play and Explore
 
-Meet with Josh C. in Classroom A. 
+Meet with Josh C. in Classroom A.
+What kind of a world do we want to live in?
+Lets storm the gates of heaven and be our own gods.
 
 #### NodeJS with Sam
 
-Meet with Sam to explore [NodeJS](https://nodejs.org/). 
+Meet with Sam to explore [NodeJS](https://nodejs.org/).
 
-#### Side Hustles 
+#### Side Hustles
 
 Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
 
 * We'll share some details about the status of our projects from last week
 * We'll pair and write some code
 
-Meet near the large kitchen table. Steve will be with you in spirit. 
+Meet near the large kitchen table. Steve will be with you in spirit.
 
 #### Team Draper
 
-Meet with Mike Dao. 
+Meet with Mike Dao.
 
 Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
 
@@ -106,4 +108,4 @@ This will be good for 1410 and 1412.
 
 #### Client Work with Rachel
 
-We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
+We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended.
