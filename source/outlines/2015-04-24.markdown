@@ -63,7 +63,7 @@ With Daisha:
 * 1410 in Classroom C with Horace.
 * 1412 in the Big Workspace with Jorge.
 * 1502 in Classroom B with Rachel.
-* 1503 in Classroom A with Josh C.
+* 1503 in Classroom A with Josh C. and Jeff.
 
 ### Guest: Rachel Cope from thoughtbot (1:30 - 2:30)
 
@@ -85,7 +85,7 @@ Meet with Josh C. in Classroom A.
 
 #### NodeJS with Sam
 
-Meet with Sam to explore something. 
+Meet with Sam to explore [NodeJS](https://nodejs.org/). 
 
 #### Side Hustles 
 
@@ -99,8 +99,8 @@ Meet near the large kitchen table. Steve will be with you in spirit.
 #### Team Draper
 
 Meet with Mike Dao. 
-Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon
-will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
+
+Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
 
 This will be good for 1410 and 1412.
 
