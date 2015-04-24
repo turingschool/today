@@ -110,21 +110,21 @@ Find Rachel on [Twitter](https://twitter.com/rachelcope)
 
 ### Electives (2:30 - 4:00)
 
-#### PHP with Jorge
+#### PHP with Jorge (Big Workspace)
 
 Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
 
-#### Play and Explore
+#### Play and Explore (Classroom A)
 
 Meet with Josh C. in Classroom A.
 What kind of a world do we want to live in?
 Lets storm the gates of heaven and be our own gods.
 
-#### NodeJS with Sam
+#### NodeJS with Sam (Classroom B)
 
 Meet with Sam to explore [NodeJS](https://nodejs.org/).
 
-#### Side Hustles
+#### Side Hustles (Classroom C)
 
 Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
 
@@ -133,7 +133,7 @@ Working on an awesome side project and need some accountability? Want to work on
 
 Meet near the large kitchen table. Steve will be with you in spirit.
 
-#### Team Draper
+#### Team Draper (Instructors' Conference Table)
 
 Meet with Mike Dao.
 
@@ -141,11 +141,11 @@ Draper is a gem that adds an object-oriented layer of presentation logic to your
 
 This will be good for 1410 and 1412.
 
-#### Client Work with Rachel
+#### Client Work with Rachel (Kitchen Table)
 
 We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended.
 
-#### Ruby Metaprogramming with Horace
+#### Ruby Metaprogramming with Horace (Big Workspace Couch)
 
 Ruby is a dynamic and flexible language out of the gate, but when you account for all of its metaprogramming capabilities, things really start to get interesting. Let's look at some of these features and see how ruby allows us to write code that writes code.
 
