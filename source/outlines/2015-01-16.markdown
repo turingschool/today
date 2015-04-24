@@ -27,6 +27,15 @@ Ian is available for pairing at the following times:
 * 9:40 - 10:15
 * 10:20 - 11:00
 
+#### With Robert Gu
+
+Robert is available for pairing at the following times:
+
+* 9:00 - 9:35
+* 9:40 - 10:15
+* 10:20 - 11:00
+
+
 #### With Konr
 
 Konr is running two classes this morning:
@@ -37,6 +46,7 @@ Konr is running two classes this morning:
 #### With Alex
 
 Alex will be running a study group on getting the most out of your bash shell.
+
 
 ### One-on-Ones (9:00 - 11:00)
 
