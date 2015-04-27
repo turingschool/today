@@ -47,9 +47,9 @@ Join Jorge in Classroom C.
 
 Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html). 
 
-### Cart & Order Lifecycles (1:00 - 2:30)
+### Catch 'Em All! (1:00 - 2:30)
 
-Let's talk about the Circle of Life (for carts and orders). Join Rachel in Classroom B.
+Learn how to catch pokemon and store them in your backpack. Join Rachel in Classroom B. You'll  want [this repo](https://github.com/rwarbelow/catch-em-all).
 
 ## 1503
 
