@@ -15,7 +15,86 @@ Meet with you posses:
 
 ### Code Retreat (2:30 - 4:00)
 
-Meet in the Big Workspace for this week's code retreat.
+Meet in the Big Workspace for this week's code retreat. Horace and Sam will be facilitating.
+
+For this week we'll return to our original Code Retreat exercise, [the robots](https://github.com/turingschool/code_retreat/tree/master/robot)
+
+* In the first session, let's use *Constraint B - Short Methods/Functions*.
+* In the second session, use *Constraint G - Functional Planes*
+
+Use the following pairings:
+
+#### Session 1 (2:35 - 3:15)
+
+* Margarett Ly & Erik Butcher
+* Jack Yeh & Kristina Brown
+* Edward McCarthy & Austin Wood
+* Chris Luhring & Kyra Steenbock
+* Brandon Mrsny & Thomas Leskin
+* Konr Josef Larson & Bhargavi Satpathy
+* Jeffrey Wan & Mihir Parikh
+* Justin Holmes & Bryce Holcomb
+* Lydia Shafer & David Daniel
+* Emily Berkeley & Dmitry Vizersky
+* Josh Cass & Paul Grever
+* Jamie Kawahara & Charles Valentino Espinoza
+* Andrew Carmer & Rich Shea
+* Andrew Fink & Scott Crawford
+* Brett Grigsby & Tess Griffin
+* Whitney Hiemstra & Michael Dao
+* Lev Kravinsky & Dustin Gault
+* Michael Merrill & Max Tedford
+* Morgan Miller & Drew Reynolds
+* Chelsea Worrel & Orion Osborn
+* Minnie Lee & Laura Whalin
+* Eric Dowty & Trey Tomlinson
+* Nathan Owsiany & Vanessa Gomez
+* Michelle Golle & Kenny Chen
+* Eugene Khanutin & Alexandra Robinson
+* Krista A Nelson & Rick Bacci
+* Dave Maurer & Kit Pearson
+* Tracy Caruso & Markus Olsen
+* Rob Cornell & Miriam Moser
+* Sally MacNicholas & Adam Smith
+* Jeffrey Gu & Patrick Medaugh
+* Kyle Henson & Lori Culberson
+* DJ Greenfield is the WILDCARD
+
+#### Session 2 (3:20 - 4:00)
+
+* Erik Butcher & Kit Pearson
+* Kristina Brown & Michelle Golle
+* Adam Smith & Trey Tomlinson
+* Whitney Hiemstra & Morgan Miller
+* Justin Holmes & Miriam Moser
+* Margarett Ly & Brandon Mrsny
+* Thomas Leskin & Mihir Parikh
+* Tess Griffin & Emily Berkeley
+* Josh Cass & Charles Valentino Espinoza
+* Kenny Chen & Sally MacNicholas
+* Bhargavi Satpathy & Dmitry Vizersky
+* Brett Grigsby & Chris Luhring
+* Rick Bacci & Max Tedford
+* Jeffrey Gu & Eric Dowty
+* Kyle Henson & Edward McCarthy
+* Dave Maurer & Andrew Carmer
+* Paul Grever & David Daniel
+* Jack Yeh & Lydia Shafer
+* Laura Whalin & Alexandra Robinson
+* Kyra Steenbock & Drew Reynolds
+* Patrick Medaugh & Dustin Gault
+* Michael Dao & Rich Shea
+* Konr Josef Larson & Tracy Caruso
+* Jamie Kawahara & Michael Merrill
+* Eugene Khanutin & Lev Kravinsky
+* Orion Osborn & Rob Cornell
+* Bryce Holcomb & Krista A Nelson
+* Markus Olsen & DJ Greenfield
+* Lori Culberson & Scott Crawford
+* Vanessa Gomez & Jeffrey Wan
+* Austin Wood & Minnie Lee
+* Andrew Fink & Chelsea Worrel
+* Nathan Owsiany is the WILDCARD
 
 ## 1410
 
