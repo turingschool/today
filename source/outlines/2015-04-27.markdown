@@ -47,6 +47,11 @@ Join Jorge in the workspace.
 
 Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html). 
 
+* Andrew, Kenny, Mihir, Tom
+* Dave, Kristina, Minnie, Tracy
+* Eric, Kyle, Tess
+* Jack, Michelle, Patrick
+
 ### Catch 'Em All! (1:00 - 2:30)
 
 Learn how to catch pokemon and store them in your backpack. Join Rachel in Classroom B. You'll  want [this repo](https://github.com/rwarbelow/catch-em-all).
