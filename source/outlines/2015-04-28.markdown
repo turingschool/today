@@ -1,0 +1,68 @@
+---
+title: 20150428
+layout: outline
+---
+
+## All
+
+### Posse Warmup (8:30 - 9:00)
+
+It's regex week! 
+
+Can your posse complete the [regex crossword tutorial levels](http://regexcrossword.com/challenges/tutorial/puzzles/1)? You might want to check out [rubular.com](http://rubular.com/) for help. 
+
+## 1410
+
+### Daily JavaScript (9:00 - 9:30)
+
+Steve in Classroom A for your once-a-day JavaScript multivitamin.
+
+### Real-Time Applications (9:30 - 11:00)
+
+Live in the present. Stick around with Steve in Classroom A.
+
+### Testing JavaScript, Revisited (11:00 - 12:00)
+
+... still with Steve in Classroom A.
+
+### Project Worktime (1:00 - 2:30)
+
+Continue working on your projects.
+
+### Technical Check-ins (2:30 - 4:00)
+
+Schedule TBA
+
+## 1412
+
+### Building an API (9:00 - 10:30)
+
+You've consumed them. Now let's build one. Join Jorge in Classroom B.
+
+### Securing an API with Authorization (10:30 - 12:00)
+
+Protect your API. Stick around with Jorge in Classroom B.
+
+### Project Check-ins and Worktime (1:00 - 4:00)
+
+Schedule TBA
+
+## 1502
+
+### Factory Girl and/or Fabrication (9:00 - 10:30)
+
+Create factories for your tests. Join Rachel in the big workspace. 
+
+### Dinner Dash Worktime (10:30 - 12:00 and 1:00 - 4:00)
+
+The people are hungry! Get to work dashing those dinners. 
+
+## 1503
+
+### Binary, Octal, and Hex (9:00 - 12:00)
+
+Learn how to count from 0 to 1 (and other things). Join Horace in the Classroom C. 
+
+### Sales Engine Check-ins (1:00 - 4:00)
+
+Schedule TBA
