@@ -13,18 +13,15 @@ Can your posse complete the [regex crossword tutorial levels](http://regexcrossw
 
 ## 1410
 
-### Daily JavaScript (9:00 - 9:30)
+### Object Model Revisited
+
+Now that you're all Rails ninjas/rockstars/gurus, let's take another look at the inner workings of you're favorite programming language with Josh Cheek in Classroom A.
+
+### Daily JavaScript (1:00 - 1:30)
 
 Steve in Classroom A for your once-a-day JavaScript multivitamin.
 
-### Real-Time Applications (9:30 - 12:00)
-
-Live in the present. Stick around with Steve in Classroom A.
-
-* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
-* [Repository](https://github.com/turingschool-examples/right-now)
-
-### Project Worktime (1:00 - 2:30)
+### Project Work Time (1:30 - 2:30)
 
 Continue working on your projects.
 
