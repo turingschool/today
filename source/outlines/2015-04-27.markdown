@@ -83,7 +83,7 @@ You can find the presentation [here](https://www.dropbox.com/s/z68rpgrrojqn96k/T
 
 ### Dinner Dash Kickoff and Worktime (9:00 - 12:00)
 
-Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
+Join Rachel in Classroom B to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
 
 * Andrew, Kenny, Mihir, Tom
 * Dave, Kristina, Minnie, Tracy
