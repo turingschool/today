@@ -73,3 +73,8 @@ Your pairs are:
 * Michael & Dave
 * Margarett & Eugene
 * Lev & Vanessa
+
+By the way, if you didn't pass [Chisel](http://tutorials.jumpstartlab.com/projects/chisel.html) then that still needs
+to happen, too. As the price for the extra time you *also*
+need to complete the Images extension in addition to cleaning up whatever your issues were. You must have everything
+completed and evaluated by 3pm on Tuesday, 5/12.
