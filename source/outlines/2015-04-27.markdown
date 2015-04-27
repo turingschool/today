@@ -101,6 +101,8 @@ Learn how to catch pokemon and store them in your backpack. Join Rachel in Class
 Get classy in Classroom A with Josh.
 Do these challenges! [https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d)
 
+Here are our notes from before: [https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98](https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98)
+
 ### SE1 - Business Logic & Encapsulation (1:00 - 2:30)
 
 If you've been working on SalesEngine for a week, then this week we're calling you "SE1". Join Horace in Classroom A
