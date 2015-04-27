@@ -7,9 +7,9 @@ layout: outline
 
 ### Posse Warmup (8:30 - 9:00)
 
-It's regex week! 
+It's regex week!
 
-Can your posse complete the [regex crossword tutorial levels](http://regexcrossword.com/challenges/tutorial/puzzles/1)? You might want to check out [rubular.com](http://rubular.com/) for help. 
+Can your posse complete the [regex crossword tutorial levels](http://regexcrossword.com/challenges/tutorial/puzzles/1)? You might want to check out [rubular.com](http://rubular.com/) for help.
 
 ## 1410
 
@@ -17,13 +17,12 @@ Can your posse complete the [regex crossword tutorial levels](http://regexcrossw
 
 Steve in Classroom A for your once-a-day JavaScript multivitamin.
 
-### Real-Time Applications (9:30 - 11:00)
+### Real-Time Applications (9:30 - 12:00)
 
 Live in the present. Stick around with Steve in Classroom A.
 
-### Testing JavaScript, Revisited (11:00 - 12:00)
-
-... still with Steve in Classroom A.
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+* [Repository](https://github.com/turingschool-examples/right-now)
 
 ### Project Worktime (1:00 - 2:30)
 
@@ -51,17 +50,17 @@ Schedule TBA
 
 ### Factory Girl and/or Fabrication (9:00 - 10:30)
 
-Create factories for your tests. Join Rachel in the big workspace. 
+Create factories for your tests. Join Rachel in the big workspace.
 
 ### Dinner Dash Worktime (10:30 - 12:00 and 1:00 - 4:00)
 
-The people are hungry! Get to work dashing those dinners. 
+The people are hungry! Get to work dashing those dinners.
 
 ## 1503
 
 ### Binary, Octal, and Hex (9:00 - 12:00)
 
-Learn how to count from 0 to 1 (and other things). Join Horace in the Classroom C. 
+Learn how to count from 0 to 1 (and other things). Join Horace in the Classroom C.
 
 ### Sales Engine Check-ins (1:00 - 4:00)
 
