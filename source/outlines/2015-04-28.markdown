@@ -19,15 +19,21 @@ Now that you're all Rails ninjas/rockstars/gurus, let's take another look at the
 
 ### Daily JavaScript (1:00 - 1:30)
 
-Steve in Classroom A for your once-a-day JavaScript multivitamin.
+Steve in Classroom A for your once-a-day JavaScript multivitamin. We'll be taking a look at the Chrome Developer tools. We'll cover the following topic.
 
-### Project Work Time (1:30 - 2:30)
+* Storing logged objects as global variables
+* `console.table`
+* `console.profile` and `console.profileEnd()`
+* Breakpoints and `debugger`; pause on exception
+
+### Project Work Time (1:30 - 3:00)
 
 Continue working on your projects.
 
-### Technical Check-ins (2:30 - 4:00)
+### Technical Check-ins (3:00 - 4:00)
 
-Schedule TBA
+* Job Hunt should meet with Steve.
+* Whitehouse TechHire should meet with Horace.
 
 ## 1412
 
