@@ -25,19 +25,33 @@ Join Horace as well as your comrades from 1412 in __Classroom B__ to finish up o
 
 Then, we'll step into the [JSBlogger Dojo](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown) to practice applying all of the caching and optimization techniques we've learned over the last week.
 
+For the Perf workshop, we'll work in these cross-cohort groups:
+
+* Alexandra Robinson, Kyra Steenbock
+* Nathan Owsiany, Lori Culberson
+* Michael Dao, Rich Shea
+* Chris Luhring, Jeffrey Gu
+* Bhargavi Satpathy, Austin Wood
+* Bryce Holcomb, DJ Greenfield
+* Lydia Shafer, Kit Pearson
+* Jeffrey Wan, Charles Valentino Espinoza
+* Krista A Nelson, Miriam Moser
+* Konr Josef Larson, Dustin Gault
+* Emily Berkeley, Stanley Siudzinski
+* Orion Osborn, Paul Grever
+* Brandon Mrsny, Trey Tomlinson
+* Scott Crawford, Edward McCarthy
+* Laura Whalin, Adam Smith, Markus Olsen
+
 ### Project Worktime (1:00 - 2:30)
 
 Work, work, work. 
 
 ## 1412
 
-### Fundamental JSON (9:00 - 10:00)
+### Advanced ActiveRecord and Perf Workshop (9:00 - 12:00)
 
-As you will find out with Jorge in Classroom C, JSON is FUNdamental. 
-
-### Revisiting ActiveRecord (10:00 - 12:00)
-
-Stick with Jorge in Classroom C to pay a visit to your good friend, ActiveRecord. 
+This will be a group session with 1410 to finish up some of the query topics we started last week and then work through a project to apply some of the performance topics we've been discussing. See the notes under 1410's section above for more info.
 
 ### Weekly Iteration (1:00 - 2:30)
 
