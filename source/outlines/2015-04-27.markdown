@@ -34,34 +34,56 @@ For the Perf workshop, we'll work in these cross-cohort groups:
 * Bhargavi Satpathy, Austin Wood
 * Bryce Holcomb, DJ Greenfield
 * Lydia Shafer, Kit Pearson
-* Jeffrey Wan, Charles Valentino Espinoza
+* Jeffrey Wan, Tino Espinoza
 * Krista A Nelson, Miriam Moser
 * Konr Josef Larson, Dustin Gault
-* Emily Berkeley, Stanley Siudzinski
+* Emily Berkeley, Markus Olsen
 * Orion Osborn, Paul Grever
 * Brandon Mrsny, Trey Tomlinson
 * Scott Crawford, Edward McCarthy
-* Laura Whalin, Adam Smith, Markus Olsen
+* Laura Whalin, Adam Smith
 
 ### Project Worktime (1:00 - 2:30)
 
-Work, work, work. 
+Work, work, work.
 
 ## 1412
 
-### Advanced ActiveRecord and Perf Workshop (9:00 - 12:00)
+### Advanced ActiveRecord and Performance Workshop (9:00 - 12:00)
 
-This will be a group session with 1410 to finish up some of the query topics we started last week and then work through a project to apply some of the performance topics we've been discussing. See the notes under 1410's section above for more info.
+Join Horace as well as your comrades from 1410 in __the workspace__ to learn about [advanced query techniques](http://tutorials.jumpstartlab.com/topics/performance/queries.html).
 
-### Weekly Iteration (1:00 - 2:30)
+Then, we'll step into the [JSBlogger Dojo](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown) to practice applying all of the caching and optimization techniques we've learned over the last week.
 
-Join Jorge in the workspace.
+For the Performance workshop, we'll work in these cross-cohort groups:
+
+* Alexandra Robinson, Kyra Steenbock
+* Nathan Owsiany, Lori Culberson
+* Michael Dao, Rich Shea
+* Chris Luhring, Jeffrey Gu
+* Bhargavi Satpathy, Austin Wood
+* Bryce Holcomb, DJ Greenfield
+* Lydia Shafer, Kit Pearson
+* Jeffrey Wan, Tino Espinoza
+* Krista A Nelson, Miriam Moser
+* Konr Josef Larson, Dustin Gault
+* Emily Berkeley, Markus Olsen
+* Orion Osborn, Paul Grever
+* Brandon Mrsny, Trey Tomlinson
+* Scott Crawford, Edward McCarthy
+* Laura Whalin, Adam Smith
+
+### Weekly Iteration: JSON Fundamentals (1:00 - 2:30)
+
+Join Jorge in the workspace to learn about JSON, a machine-human readable format that [Skynet](http://en.wikipedia.org/wiki/Skynet_(Terminator)) would probably use to issue its commands. Could Tino save us all?
+
+You can find the presentation [here](https://www.dropbox.com/s/z68rpgrrojqn96k/Turing%20-%20JSON%20Fundamentals.key?dl=0).
 
 ## 1502
 
 ### Dinner Dash Kickoff and Worktime (9:00 - 12:00)
 
-Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html). 
+Join Rachel in the big workspace to talk about your first big Rails project: [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html).
 
 * Andrew, Kenny, Mihir, Tom
 * Dave, Kristina, Minnie, Tracy
@@ -76,7 +98,7 @@ Learn how to catch pokemon and store them in your backpack. Join Rachel in Class
 
 ### Ruby's Object Model, Part Two and a Half (9:00 - 12:00)
 
-Get classy in Classroom A with Josh. 
+Get classy in Classroom A with Josh.
 
 ### SE1 - Business Logic & Encapsulation (1:00 - 2:30)
 
