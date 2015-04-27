@@ -99,6 +99,7 @@ Learn how to catch pokemon and store them in your backpack. Join Rachel in Class
 ### Ruby's Object Model, Part Two and a Half (9:00 - 12:00)
 
 Get classy in Classroom A with Josh.
+Do these challenges! [https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d)
 
 ### SE1 - Business Logic & Encapsulation (1:00 - 2:30)
 
