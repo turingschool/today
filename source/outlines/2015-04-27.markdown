@@ -124,3 +124,5 @@ By the way, if you didn't pass [Chisel](http://tutorials.jumpstartlab.com/projec
 to happen, too. As the price for the extra time you *also*
 need to complete the Images extension in addition to cleaning up whatever your issues were. You must have everything
 completed and evaluated by 3pm on Tuesday, 5/12.
+
+Here are the notes from when we went through it together: [https://gist.github.com/JoshCheek/8134d66f586ba83a6dbc](https://gist.github.com/JoshCheek/8134d66f586ba83a6dbc).
