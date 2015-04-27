@@ -21,7 +21,7 @@ Meet in the Big Workspace for this week's code retreat.
 
 ### Advanced ActiveRecord and Performance Workshop (9:00 - 12:00)
 
-Join Horace as well as your comrades from 1412 in __Classroom B__ to finish up our discussions from last week about [advanced query techniques](http://tutorials.jumpstartlab.com/topics/performance/queries.html).
+Join Horace as well as your comrades from 1412 in __the workspace__ to finish up our discussions from last week about [advanced query techniques](http://tutorials.jumpstartlab.com/topics/performance/queries.html).
 
 Then, we'll step into the [JSBlogger Dojo](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown) to practice applying all of the caching and optimization techniques we've learned over the last week.
 
