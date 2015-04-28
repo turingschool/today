@@ -1,0 +1,96 @@
+---
+title: 20150501
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1410](https://docs.google.com/a/casimircreative.com/forms/d/16Lw9waPY4GgDJu4Cx_0jB_qptZHR0qxGXUrnzDiPWTo/viewform)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1YCpIa-6fpBgtoSwSZKI0OGpZ5Jl35ZFUtci1aBTj_ZQ/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/16XSmGL0VBzSGdK3Z1Oscg0GzVQrcjU7eEAwMtMASvWo/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1a1oghylBUKmZf46EFoQBcAaYJfEOaByXMV5hOMnYKhY/viewform)
+
+### Lightning Talks (9:00 - 10:00)
+
+Gather in the Big Workspace at 9am sharp!
+
+* Scott Crawford: How to Make Yourself Desirable to a Mentor
+* Alexandra Robinson: Hashes, Structs, and OpenStructs.. Oh My!
+* Adam Smith: Mindfulness to Deal with Programming-Caused Stress
+* DJ Greenfield: ??
+* Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
+* Kit Pearson: ??
+
+### Student-Led & Self-Study Sessions (10:00 - 12:00)
+
+* Join Drew in Classroom C to talk about tech and startups. He'll go over some big names/companies to know, best news sites to follow, resources for keeping up with new products, and key terms that you’ll hear working at a startup. 
+
+### One-on-Ones (10:00 - 12:00)
+
+With Josh C.: 
+
+With Jorge: 
+
+With Rachel: 
+
+With Sam: 
+
+With Horace: 
+
+With Raissa: 
+
+With Daisha: 
+
+With Jeff:
+
+With Steve: 
+
+### Group Retrospectives (1:00 - 2:00)
+
+* 1410 in Classroom A with Steve and Horace.
+* 1412 in Classroom C with Jorge and Sam.
+* 1502 in the Big Workspace with Rachel and Raissa.
+* 1503 in Classroom B with Jeff and Josh C.
+
+### Guest: Sarah Cai and Derek Anderson from Puzzah (2:00 - 2:45)
+
+Sarah (graphic designer) and Derek (software developer) are the creators of [Puzzah!](https://www.puzzah.com/), a live escape room just down Blake Street. Check out a few articles about Puzzah [here](http://www.westword.com/arts/puzzah-takes-puzzle-gaming-off-the-screen-and-into-real-life-lodo-6048751) and [here](http://www.denverpost.com/entertainment/ci_27413726/growing-escape-room-scene-puts-puzzling-spin-group) and come with questions for Sarah and Derek. 
+
+### Electives (2:45 - 4:00)
+
+#### PHP with Jorge
+
+Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
+
+#### Play and Explore
+
+Meet with Josh C. in Classroom A. 
+
+#### NodeJS with Sam
+
+Meet with Sam to explore Node. 
+
+#### Side Hustles with Steve
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+* We'll share some details about the status of our projects from last week
+* We'll pair and write some code
+
+Meet near the large kitchen table.
+
+#### Team Draper
+
+Meet with Mike Dao and Jeff. 
+
+Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
+
+#### Ruby Metaprogramming with Horace (Big Workspace Couch)
+
+Ruby is a dynamic and flexible language out of the gate, but when you account for all of its metaprogramming capabilities, things really start to get interesting. Let's look at some of these features and see how ruby allows us to write code that writes code.
+
+#### Client Work with Rachel
+
+Let's ship something today! We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
