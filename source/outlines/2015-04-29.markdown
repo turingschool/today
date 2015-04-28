@@ -3,6 +3,12 @@ title: 20150429
 layout: outline
 ---
 
+## All
+
+### Posse Warmup (8:30 - 9:00)
+
+Alright, you've completed the regex crossword tutorial. Are you ready for the [beginner levels](http://regexcrossword.com/challenges/beginner/puzzles/1)? 
+
 ## 1410
 
 ### Real-Time Applications (9:30 - 12:00)
@@ -11,3 +17,41 @@ Live in the present. Stick around with Steve in Classroom A.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
 * [Repository](https://github.com/turingschool-examples/right-now)
+
+### Project Worktime (1:00 - 4:00)
+
+Continue working on your final projects. 
+
+## 1412
+
+### Consuming APIs (9:00 - 12:00)
+
+Join Jorge in Classroom B to learn how to use third-party APIs. 
+
+### Project Work Time (1:00 - 4:00)
+
+Keep working on your individual project. 
+
+## 1502
+
+### Rails Views: Tips and Tricks (9:00 - 10:30)
+
+Join Rachel in Classroom C.
+
+### Pushing Logic Down the Stack (10:30 - 12:00)
+
+Join Jeff in Classroom C.
+
+### Dinner Dash Worktime (1:00 - 4:00)
+
+How's your [waffle.io](http://waffle.io) looking? 
+
+## 1503
+
+### Big-O Notation (9:00 - 12:00)
+
+Join Sam in Classroom A.
+
+### Sales Engine Worktime (1:00 - 4:00)
+
+How's that spec harness? 
