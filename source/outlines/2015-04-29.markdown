@@ -50,7 +50,7 @@ How's your [waffle.io](http://waffle.io) looking?
 
 ### Big-O Notation (9:00 - 12:00)
 
-Join Sam in Classroom A.
+Join Sam in the Big Workspace.
 
 ### Sales Engine Worktime (1:00 - 4:00)
 
