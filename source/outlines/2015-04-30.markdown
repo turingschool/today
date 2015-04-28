@@ -1,0 +1,81 @@
+---
+title: 20150430
+layout: outline
+---
+
+## All
+
+### Posse Warmup (8:30 - 9:00)
+
+Let's try the [intermediate regex crossword puzzle levels](http://regexcrossword.com/challenges/intermediate/puzzles/1) today. 
+
+### Community Night: Lightning Talk Edition (5:30 - 7:00)
+
+Feel free to sick around for Turing's open house at 5:30 and mingle with visitors. Lightning talks start at 6:00. RSVP [here](http://www.meetup.com/Turing-Community-Events/events/222045202/) if you plan to eat pizza.
+
+## 1410
+
+### Testing JavaScript (9:00 - 10:00)
+
+TDD isn't dead. Join Steve in Classroom A. 
+
+### Project Worktime (10:00 - 12:00 & 1:00 - 2:00)
+
+One week until demo night. 
+
+### Client Meetings (2:00 - 4:00)
+
+Schedule TBA.
+
+## 1412
+
+### Project Worktime (9:00 - 12:00)
+
+Continue working on individual projects. 
+
+### Iteration 2 Check-ins and Work Time (1:00 - 4:00)
+
+Schedule TBA.
+
+## 1502
+
+### Introduction to the Asset Pipeline (9:00 - 10:30)
+
+It's magical and *never, ever* frustrating. Come learn about the asset pipeline with Rachel in Classroom B. 
+
+### Transactions, Callbacks, and Scopes (10:30 - 12:00)
+
+Let's talk about some fun things you can do with ActiveRecord. Stay in Classroom B with Rachel.
+
+### Check-ins and Work Time (1:00 - 4:00)
+
+* 1:00 - 1:40 Andrew, Kenny, Mihir, Tom
+* 1:45 - 2:25 Dave, Kristina, Minnie, Tracy
+* 2:30 - 3:10 Eric, Kyle, Tess
+* 3:15 - 4:00 Jack, Michelle, Patrick
+
+## 1503
+
+### Sales Engine Evaluations and Worktime (9:00 - 12:00)
+
+If you're in SE2, keep working. If you're in SE1, your evaluation schedule is as follows: 
+
+With Jeff and Sam:
+
+* 9:00 Dmitry Vizersky & Drew Reynolds
+* 9:45 Sally MacNicholas & Justin Holmes
+* 10:30 Josh Cass & Erik Butcher
+
+With Horace: 
+
+* 9:00 Chelsea Worrel & Morgan Miller
+* 9:45 Whitney Hiemstra & Brett Grigsby
+* 10:30 Max Tedford & Andrew Fink
+
+### Robodoku Kickoff (1:00 - 2:00)
+
+If you're finished with Sales Engine, Join Jeff in Classroom A to kickoff your final Module 1 projet: Robodoku. 
+
+### Worktime (1:00 - 4:00)
+
+Work on Sales Engine (SE2) or Robodoku (SE1). 
