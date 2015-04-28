@@ -47,13 +47,30 @@ Protect your API. Stick around with Jorge in Classroom B.
 
 ### Project Check-ins and Worktime (1:00 - 4:00)
 
-Schedule TBA
+Meet with Jorge at the kitchen table on the small workspace for your checkins.
+
+* 1:10 - Edward McCarthy
+* 1:20 - Jeffrey Gu
+* 1:30 - Paul Grever
+* 1:40 - Markus Olsen
+* 1:50 - Break
+* 2:00 - Lori Culberson
+* 2:10 - Tino Espinoza
+* 2:20 - DJ Greenfield
+* 2:30 - Kit Pearson
+* 2:40 - Austin Wood
+* 2:50 - Break
+* 3:00 - Kyra Steenbock
+* 3:10 - Dustin Gault
+* 3:20 - Rich Shea
+* 3:30 - Trey Tomlinson
+* 3:40 - Miriam Moser
 
 ## 1502
 
 ### Factory Girl (9:00 - 9:45)
 
-Create factories for your tests. Join Rachel in the big workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/factory_girl.markdown). 
+Create factories for your tests. Join Rachel in the big workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/factory_girl.markdown).
 
 ### Dinner Dash Worktime (9:45 - 12:00 and 1:00 - 4:00)
 
