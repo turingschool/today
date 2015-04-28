@@ -51,11 +51,11 @@ Schedule TBA
 
 ## 1502
 
-### Factory Girl and/or Fabrication (9:00 - 10:30)
+### Factory Girl (9:00 - 9:45)
 
-Create factories for your tests. Join Rachel in the big workspace.
+Create factories for your tests. Join Rachel in the big workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/factory_girl.markdown). 
 
-### Dinner Dash Worktime (10:30 - 12:00 and 1:00 - 4:00)
+### Dinner Dash Worktime (9:45 - 12:00 and 1:00 - 4:00)
 
 The people are hungry! Get to work dashing those dinners.
 
