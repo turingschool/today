@@ -63,7 +63,8 @@ The people are hungry! Get to work dashing those dinners.
 
 ### Binary, Octal, and Hex (9:00 - 12:00)
 
-Learn how to count from 0 to 1 (and other things). Join Horace in the Classroom C.
+Learn how to count from 0 to 1 (and other things). Join Horace in the Classroom C to work through
+the [Number Systems tutorial](http://tutorials.jumpstartlab.com/academy/workshops/number_systems.html).
 
 ### Sales Engine Check-ins (1:00 - 4:00)
 
