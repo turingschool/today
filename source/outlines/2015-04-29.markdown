@@ -40,7 +40,7 @@ Join Rachel in Classroom C.
 
 ### Pushing Logic Down the Stack (10:30 - 12:00)
 
-Join Horace in Classroom C.
+Join Horace in Classroom C to talk about [putting business logic where it belongs](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Dinner Dash Worktime (1:00 - 4:00)
 
