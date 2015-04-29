@@ -44,7 +44,7 @@ Join Rachel in Classroom C.
 
 ### Pushing Logic Down the Stack (10:30 - 12:00)
 
-Join Horace in Classroom C to talk about [putting business logic where it belongs](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
+Join Horace in Classroom C to talk about [putting business logic where it belongs](https://github.com/JumpstartLab/curriculum/blob/master/source/topics/architecture/pushing_logic_down_the_stack.markdown).
 
 For the small group exercise during this lesson, we'll use these groups:
 
