@@ -25,7 +25,7 @@ Gather in the Big Workspace at 9am sharp!
 
 ### Student-Led & Self-Study Sessions (10:00 - 12:00)
 
-* Join Drew in Classroom C to talk about tech and startups. He'll go over some big names/companies to know, best news sites to follow, resources for keeping up with new products, and key terms that you’ll hear working at a startup. 
+* Join Drew in Classroom C to talk about tech and startups. He'll go over some big names/companies to know, best news sites to follow, resources for keeping up with new products, and key terms that you’ll hear working at a startup.
 
 ### One-on-Ones (10:00 - 12:00)
 
@@ -33,21 +33,21 @@ Gather in the Big Workspace at 9am sharp!
 
 With Josh C.: 
 
-With Jorge: 
+With Jorge:
 
-With Rachel: 
+With Rachel:
 
-With Sam: 
+With Sam:
 
-With Horace: 
+With Horace:
 
-With Raissa: 
+With Raissa:
 
-With Daisha: 
+With Daisha:
 
 With Jeff:
 
-With Steve: 
+With Steve:
 
 ### Group Retrospectives (1:00 - 2:00)
 
@@ -58,7 +58,7 @@ With Steve:
 
 ### Guest: Sarah Cai and Derek Anderson from Puzzah (2:00 - 2:45)
 
-Sarah (graphic designer) and Derek (software developer) are the creators of [Puzzah!](https://www.puzzah.com/), a live escape room just down Blake Street. Check out a few articles about Puzzah [here](http://www.westword.com/arts/puzzah-takes-puzzle-gaming-off-the-screen-and-into-real-life-lodo-6048751) and [here](http://www.denverpost.com/entertainment/ci_27413726/growing-escape-room-scene-puts-puzzling-spin-group) and come with questions for Sarah and Derek. 
+Sarah (graphic designer) and Derek (software developer) are the creators of [Puzzah!](https://www.puzzah.com/), a live escape room just down Blake Street. Check out a few articles about Puzzah [here](http://www.westword.com/arts/puzzah-takes-puzzle-gaming-off-the-screen-and-into-real-life-lodo-6048751) and [here](http://www.denverpost.com/entertainment/ci_27413726/growing-escape-room-scene-puts-puzzling-spin-group) and come with questions for Sarah and Derek.
 
 ### Electives (2:45 - 4:00)
 
@@ -66,13 +66,41 @@ Sarah (graphic designer) and Derek (software developer) are the creators of [Puz
 
 Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
 
-#### Play and Explore
+#### Lets play!
 
-Meet with Josh C. in Classroom A. 
+Meet with Josh C. in Classroom A.
+
+Do you want to learn [a library](https://www.ruby-toolbox.com/)?
+Do you want to do [JavaScript](https://babeljs.io/)?
+[Lisp](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/lisp-games/hilo/hilo.lisp)?
+[Taxi](https://bigzaphod.github.io/Taxi/)?
+We can make [our own language](https://github.com/JoshCheek/day-dream-in-Ruby/blob/06053303907917bf695e6d1bdf0b0fb6cd5d4f3e/Readme.md#example)!
+We can figure out how to play with each piece of [Rails independently](https://github.com/JoshCheek/playgrounds)!
+We can [make a bot](https://github.com/JoshCheek/Play/tree/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/blackboardbot/) to navigate the web and text us when it finds interesting things!
+We can [automate](http://www.sikuli.org/) [all the things](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/sikulidraw/results.png)!
+Build a [DSL](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/land-of-lisp-itinerary/input/day_01.rb)!
+Use [Ruby instead](https://github.com/JoshCheek/Play/tree/master/ruby-one-liners/) of sed and awk!
+We can refactor some gnarly code! Take a project from empty directory to MVP!
+Make a [quote app](http://legit-quotes.com/A%20Turing%20student%20who%20is%20just%20like%20you/I%20attended%20Josh's%20unstructured%20elective...%20I%20laughed,%20I%20cried,%20I%20called%20my%20loved%20ones,%20learned%20about%20life,%20experienced%20existential%20crisis,%20came%20of%20age,%20found%20my%20qi.%0A%0AI%20became%20the%20person%20I%20am%20today.)!
+Have me do [one of your projects](https://github.com/JoshCheek/event_reporter)!
+We can make [our own Sinatra](https://gist.github.com/JoshCheek/298f542a576bfe960d1e/#file-http_stuffs-txt-L176)!
+Our own [ActiveRecord](https://gist.github.com/JoshCheek/f1cfb1ad6b8d67bb9629)!
+Our own [ERB processor](https://gist.github.com/JoshCheek/2b30b052560337522f94#file-procedural_oo_parser-rb)!
+[Draw pictures](https://github.com/JoshCheek/print-png/blob/master/screenshot-rainbow.png) in the terminal!
+[Fix bugs](https://github.com/rspec/rspec-core/pull/1950) in open source code!
+[Draw Coasters](https://gist.github.com/JoshCheek/a72f54412db272daee2e#file-screenshot-png) in Haskell!
+Make our code look like a [totem pole](https://gist.github.com/JoshCheek/d8986300e401dc2163d4/)!
+Write programs under the constraints of the [lambda calculus](https://gist.github.com/JoshCheek/eb22f9e91b9a7891ffea)!
+We can do whatever sounds fun :)
+
+Bring your inspiration.
+Bring your curiosity.
+Bring your daydreams.
+There are neither rules nor expectations, lets just play ^_^
 
 #### NodeJS with Sam
 
-Meet with Sam to explore Node. 
+Meet with Sam to explore Node.
 
 #### Side Hustles with Steve
 
@@ -85,7 +113,7 @@ Meet near the large kitchen table.
 
 #### Team Draper
 
-Meet with Mike Dao and Jeff. 
+Meet with Mike Dao and Jeff.
 
 Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
 
@@ -95,4 +123,4 @@ Ruby is a dynamic and flexible language out of the gate, but when you account fo
 
 #### Client Work with Rachel
 
-Let's ship something today! We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended. 
+Let's ship something today! We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended.
