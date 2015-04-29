@@ -46,6 +46,13 @@ Join Rachel in Classroom C.
 
 Join Horace in Classroom C to talk about [putting business logic where it belongs](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
+For the small group exercise during this lesson, we'll use these groups:
+
+* Andrew Carmer, Tracy Caruso, Eric Dowty
+* Tess Griffin, Thomas Leskin, Patrick Medaugh
+* Minnie Lee, Kenny Chen, David Daniel
+* Mihir Parikh, Kyle Henson, Kristina Brown, Michelle Golle
+
 ### Dinner Dash Worktime (1:00 - 4:00)
 
 How's your [waffle.io](http://waffle.io) looking? 
