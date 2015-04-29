@@ -1,0 +1,90 @@
+---
+title: 20150505
+layout: outline
+---
+
+## 1410
+
+### Assessments (9:00 - 4:00)
+
+THE WHOLE DAY.
+
+## 1412
+
+### Automating Tasks with Rake (9:00 - 10:30)
+
+Jorge in Classroom C.
+
+### jQuery and AJAX (10:30 - 12:00)
+
+Steve in Classroom C. 
+
+### Assessments and Work Time (11:00 - 12:00 and 1:00 - 4:00)
+
+With Jorge
+
+* 1:00 Edward McCarthy
+* 2:00 Jeffrey Gu
+* 3:00 Trey Tomlinson
+
+With Steve
+
+* 1:00 Dustin Gault
+* 2:00 Lori Culberson
+
+With Horace
+
+* 1:00 Kit Pearson
+* 2:00 Tino Espinoza
+* 3:00 Paul Grever
+
+With Jeff
+
+* 1:00 Kyra Steenbock
+* 2:00 Austin Wood
+* 3:00 Rich Shea
+
+## 1502
+
+### JavaScript, Part Two (9:00 - 10:00)
+
+More on semicolons with Sam in Classroom B.
+
+### Dinner Dash Work Time (10:00 - 12:00 and 1:00 - 4:00)
+
+Continue pushing forward with dinner dash. How many extensions can you implement? 
+
+### Assessments
+
+With Rachel
+
+* 10:15 Jack
+* 11:00 Kenny
+* 1:00 Mihir
+* 1:45 Minnie
+* 2:30 Tracy
+
+With Josh
+
+* 10:15 Tom
+* 11:00 Kristina
+* 1:00 Dave
+* 1:45 Andrew
+* 2:30 Kyle
+
+## 1503
+
+### The Performance of Code (9:00 - 12:00)
+
+Join Sam in Classroom A.
+
+### Small-Group Check-ins (1:00 - 4:00)
+
+With Sam
+
+* 1:00
+* 1:35
+* 2:05
+* 2:30
+* 3:00
+* 3:30 

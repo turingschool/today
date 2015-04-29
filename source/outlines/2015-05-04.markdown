@@ -1,0 +1,109 @@
+---
+title: 20150504
+layout: outline
+---
+
+## All
+
+### Posse Time (8:30 - 8:50)
+
+Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc. 
+
+## 1410
+
+### Ruby and Rails in Review (9:00 - 12:00)
+
+Join Horace in Classroom B to talk about all of the things you should have learned in the last seven months. 
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+Only a few days left. Let's ship some code.
+
+Check-in schedule TBA.
+
+## 1412
+
+### Testing an Internal API (9:00 - 10:30)
+
+Learn how to test an API with Jorge in Classroom C.
+
+### Testing an External API (10:30 - 12:00)
+
+Stick around in Classroom C with Jorge. 
+
+### Weekly Iteration (1:00 - 2:30)
+
+Join Jorge to iterate in Classroom C.
+
+## 1502
+
+### JavaScript, Part I (9:00 - 10:00)
+
+Join Steve in Classroom A to talk about semicolons.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+* [Jumpstart Lab JavaScript Resources](http://tutorials.jumpstartlab.com/projects/javascript/)
+* [JavaScript for Cats](http://jsforcats.com)
+* [Three.js](http://threejs.org)
+* [p5.js](http://p5js.org)
+* [d3.js](http://d3js.org)
+
+
+### Dinner Dash Worktime (10:00 - 12:00 and 1:00 - 4:00)
+
+Three days. The countdown begins!
+
+## 1503
+
+### OkCuGit (9:00 - 12:00)
+
+TBA
+
+### Project Work Time (1:00 - 4:00)
+
+You have time to work on your projects when you're not doing assessments (as listed below).
+
+### Assessments (All Day)
+
+* Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+* When you start your assessment you should already have implemented the *score* functionality
+
+### Evaluations (1:00 - 2:30)
+
+#### With Jeff (and Sam)
+
+* 11:00 - 11:30: Josh Cass
+* 11:30 - 12:00: Sally MacNicholas
+* 1:00 - 1:30: Morgan Miller
+* 1:30 - 2:00: Erik Butcher
+
+With Sam
+
+* 1:00 - 1:30: Michael Merrill
+* 1:30 - 2:00: Andrew Fink
+* 2:00 - 2:30: Whitney Hiemstra
+
+#### With Josh Cheek
+
+* 11:00 - 11:30: Rick Bacci
+* 11:30 - 12:00: David Maurer
+* 1:00 - 1:30: Dmitry Vizersky
+* 1:30 - 2:00: Eugene Khanutin
+
+#### With Steve
+
+* 1:00 - 1:30: Margarett Ly
+* 1:30 - 2:00: Drew Reynolds
+* 2:30 - 3:00: Rob Cornell
+
+#### With Horace
+
+* 1:00 - 1:30: Vanessa Gomez
+* 1:30 - 2:00: Lev Kravinsky
+* 2:00 - 2:30: Chelsea Worrel
+
+#### With Rachel
+
+* 1:00 - 1:30: Justin Holmes
+* 1:30 - 2:00: Max Tedford
+* 2:00 - 2:30: Brett Grigsby

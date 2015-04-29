@@ -1,0 +1,101 @@
+---
+title: 20150529
+layout: outline
+---
+
+## 1410
+
+### Community Project Evaluations wit Steve (9:00 - 12:00)
+
+With Steve
+
+* 9:00: Job Basket
+* 10:30: The Other Group
+
+### Robodoku Dojo (1:00 - 4:00)
+
+Join 1503 in the workspace to pair on some [Robodoku](https://github.com/turingschool/challenges/blob/master/robodoku.markdown) implementations.
+
+## 1412
+
+### Self-Directed Project Evaluations (9:00 - 12:00)
+
+#### Product Eval With Jorge
+
+* 9:00: Miriam Moser
+* 9:10: Edward McCarthy
+* 9:20: Austin Wood
+* 9:30: Kyra Steenbock
+* 9:40: Paul Grever
+* 9:50: Tino Espinoza
+* 10:00: DJ Greenfield
+* 10:10: Kit Pearson
+* 10:20: Markus Olsen
+* 10:30: Lori Culberson
+* 10:40: Dustin Gault
+* 10:50: Rich Shea
+* 11:00: Trey Tomlinson
+* 11:10: Jeffrey Gu
+
+#### Code Eval with Josh Cheek
+
+* 9:00: Jeffrey Gu
+* 9:20: Kit Pearson
+* 9:40: Dustin Gault
+* 10:00: Lori Culberson
+* 10:20: BREAK
+* 10:40: Miriam Moser
+* 11:00: Markus Olsen
+* 11:20: DJ Greenfield
+
+#### Code Eval with Horace
+
+* 9:00: Tino Espinoza
+* 9:20: Trey Tomlinson
+* 9:40: Rich Shea
+* 10:00: Kyra Steenbock
+* 10:20: Paul Grever
+* 10:40: Edward McCarthy
+* 11:00: Austin Wood
+
+### How to Get a Job (1:00 - 4:00)
+
+Meet with Jeff in Classroom A to talk resumes, job hunting strategy, and expectations.
+
+## 1412
+
+### Work Time (9:00 - 12:00)
+
+Make sure to `git push origin master -f` approximately 25 seconds before your evaluation this afternoon. It works every time. 
+
+### Dinner Dash Evaluations (1:00 - 4:00)
+
+#### With Rachel
+
+* 1:00: Andrew, Kenny, Mihir, Tom
+* 2:00: Eric, Kyle, Tess
+
+#### With Josh Cheek
+
+* 1:00: Dave, Kristina, Minnie, Tracy
+* 2:00: Jack, Michelle, Patrick
+
+## 1502
+
+### SalesEngine Evaluations (9:00 - 12:00)
+
+#### With Sam 
+
+* 9:00 Ricky & Rob
+* 9:30 Michael & Dave
+
+#### With Jeff
+
+* 9:00 Margarett & Eugene
+* 9:30 Lev & Vanessa
+
+### Robodoku Dojo (1:00 - 4:00)
+
+* If you have built Robodoku, meet with Horace in Classroom C to do some demos,
+head-to-head battling, and code review
+* If you have not built [Robodoku](https://github.com/turingschool/challenges/blob/master/robodoku.markdown), report to the big workspace where you'll join up with some of 1409 to pair and attempt to build an implementation
