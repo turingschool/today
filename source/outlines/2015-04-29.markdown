@@ -9,6 +9,10 @@ layout: outline
 
 Alright, you've completed the regex crossword tutorial. Are you ready for the [beginner levels](http://regexcrossword.com/challenges/beginner/puzzles/1)? 
 
+### DSA DSA DSA
+
+Reminder DSA returns this afternoon after wrap-up. Come learn about the ["Boids" algorithm](http://www.red3d.com/cwr/boids/) and build some [visualizations with processing](http://worace.github.io/birds-cljs/). 9/10 doctors agree DSA is the best cure for unemployment.
+
 ## 1410
 
 ### Real-Time Applications (9:30 - 12:00)
