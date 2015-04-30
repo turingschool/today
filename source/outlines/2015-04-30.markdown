@@ -60,7 +60,7 @@ Let's talk about some fun things you can do with ActiveRecord. Stay in Classroom
 
 If you're in SE2, keep working. If you're in SE1, your evaluation schedule is as follows: 
 
-With Jeff and Sam:
+With Josh and Sam:
 
 * 9:00 Dmitry Vizersky & Drew Reynolds
 * 9:45 Sally MacNicholas & Justin Holmes
@@ -74,7 +74,7 @@ With Horace:
 
 ### Robodoku Kickoff (1:00 - 2:00)
 
-If you're finished with Sales Engine, Join Jeff in Classroom A to kickoff your final Module 1 projet: Robodoku. 
+If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 projet: Robodoku. 
 
 ### Worktime (1:00 - 4:00)
 
