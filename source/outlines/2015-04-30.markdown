@@ -78,9 +78,14 @@ With Horace:
 
 If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 project: [Robodoku](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/robodoku.markdown)
 
-Robodoku will be completed in pairs and due next Thursday (5/7).
+Robodoku will be completed in pairs and due next Thursday (5/7). The pairs for this project will be:
 
-
+* Brett Grigsby, Drew Reynolds
+* Andrew Fink, Morgan Miller
+* Whitney Hiemstra, Chelsea Worrel
+* Josh Cass, Sally MacNicholas
+* Erik Butcher, Justin Holmes
+* Max Tedford, Dmitry Vizersky
 
 ### Worktime (1:00 - 4:00)
 
