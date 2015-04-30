@@ -17,7 +17,9 @@ Feel free to sick around for Turing's open house at 5:30 and mingle with visitor
 
 ### Testing JavaScript (9:00 - 10:00)
 
-TDD isn't dead. Join Steve in Classroom A. 
+TDD isn't dead. Join Steve in Classroom A.
+
+* [Testing JavaScript](https://github.com/turingschool-examples/testing-javascript) 
 
 ### Project Worktime (10:00 - 12:00 & 1:00 - 2:00)
 
