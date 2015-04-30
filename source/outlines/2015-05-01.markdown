@@ -27,6 +27,7 @@ Gather in the Big Workspace at 9am sharp!
 
 * Join Drew in Classroom C to talk about tech and startups. He'll go over some big names/companies to know, best news sites to follow, resources for keeping up with new products, and key terms that you’ll hear working at a startup.
 * Join Rich near the couches in Classroom A to explore hashes.
+* Meet up with Jeff Wan and Mike Dao in Classroom B as they take you on a magical journey to get you an O.W.L. in #inject, the best enumerable ever. With your new found knowledge, you'll be able to build strings, hashes, and arrays with ease.
 
 ### One-on-Ones (10:00 - 12:00)
 
