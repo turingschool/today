@@ -7,7 +7,7 @@ layout: outline
 
 ### Posse Warmup (8:30 - 9:00)
 
-Let's try the [intermediate regex crossword puzzle levels](http://regexcrossword.com/challenges/intermediate/puzzles/1) today. 
+Let's try the [intermediate regex crossword puzzle levels](http://regexcrossword.com/challenges/intermediate/puzzles/1) today.
 
 ### Community Night: Lightning Talk Edition (5:30 - 7:00)
 
@@ -17,11 +17,13 @@ Feel free to sick around for Turing's open house at 5:30 and mingle with visitor
 
 ### Testing JavaScript (9:00 - 10:00)
 
-TDD isn't dead. Join Steve in Classroom A. 
+TDD isn't dead. Join Steve in Classroom A.
+
+* [Testing JavaScript](https://github.com/turingschool-examples/testing-javascript)
 
 ### Project Worktime (10:00 - 12:00 & 1:00 - 2:00)
 
-One week until demo night. 
+One week until demo night.
 
 ### Client Meetings (2:00 - 4:00)
 
@@ -31,17 +33,33 @@ Schedule TBA.
 
 ### Project Worktime (9:00 - 12:00)
 
-Continue working on individual projects. 
+Continue working on individual projects.
 
 ### Iteration 2 Check-ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Meet with Jorge at his usual spot.
+
+* 1:30 - Paul Grever
+* 1:40 - Markus Olsen
+* 1:50 - Jeffrey Gu
+* 2:00 - Lori Culberson
+* 2:10 - Tino Espinoza
+* 2:20 - DJ Greenfield
+* 2:30 - Kit Pearson
+* 2:40 - Austin Wood
+* 2:50 - Break
+* 3:00 - Kyra Steenbock
+* 3:10 - Dustin Gault
+* 3:20 - Rich Shea
+* 3:30 - Trey Tomlinson
+* 3:40 - Miriam Moser
+* 3:50 - Edward McCarthy
 
 ## 1502
 
 ### Introduction to the Asset Pipeline (9:00 - 10:30)
 
-It's magical and *never, ever* frustrating. Come learn about the asset pipeline with Rachel in Classroom B. 
+It's magical and *never, ever* frustrating. Come learn about the asset pipeline with Rachel in Classroom B.
 
 ### Transactions, Callbacks, and Scopes (10:30 - 12:00)
 
@@ -58,7 +76,7 @@ Let's talk about some fun things you can do with ActiveRecord. Stay in Classroom
 
 ### Sales Engine Evaluations and Worktime (9:00 - 12:00)
 
-If you're in SE2, keep working. If you're in SE1, your evaluation schedule is as follows: 
+If you're in SE2, keep working. If you're in SE1, your evaluation schedule is as follows:
 
 With Josh and Sam:
 
@@ -66,7 +84,7 @@ With Josh and Sam:
 * 9:45 Sally MacNicholas & Justin Holmes
 * 10:30 Josh Cass & Erik Butcher
 
-With Horace: 
+With Horace:
 
 * 9:00 Chelsea Worrel & Morgan Miller
 * 9:45 Whitney Hiemstra & Brett Grigsby
@@ -74,8 +92,17 @@ With Horace:
 
 ### Robodoku Kickoff (1:00 - 2:00)
 
-If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 projet: Robodoku. 
+If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 project: [Robodoku](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/robodoku.markdown)
+
+Robodoku will be completed in pairs and due next Thursday (5/7). The pairs for this project will be:
+
+* Brett Grigsby, Drew Reynolds
+* Andrew Fink, Morgan Miller
+* Whitney Hiemstra, Chelsea Worrel
+* Josh Cass, Sally MacNicholas
+* Erik Butcher, Justin Holmes
+* Max Tedford, Dmitry Vizersky
 
 ### Worktime (1:00 - 4:00)
 
-Work on Sales Engine (SE2) or Robodoku (SE1). 
+Work on Sales Engine (SE2) or Robodoku (SE1).
