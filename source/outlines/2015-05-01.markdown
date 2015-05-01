@@ -151,9 +151,9 @@ Meet near the large kitchen table.
 
 Join Jeff in Classroom B to work through/talk through two technical interview challenges.
 
-#### Ruby Metaprogramming with Horace (Big Workspace Couch)
+#### DSA With Horace (Classroom C)
 
-Ruby is a dynamic and flexible language out of the gate, but when you account for all of its metaprogramming capabilities, things really start to get interesting. Let's look at some of these features and see how ruby allows us to write code that writes code.
+Missing your second weekly dose of DSA? Let's have one this afternoon! We've been working this week on implementing a visualization of an automata flocking algorithm called "Boids." If you were at the session on Wednesday, we'll continue with the work we started. Otherwise we can get you started with a fresh implementation.
 
 #### Client Work with Rachel
 
