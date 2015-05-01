@@ -16,11 +16,11 @@ layout: outline
 
 Gather in the Big Workspace at 9am sharp!
 
+* Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
 * Scott Crawford: How to Make Yourself Desirable to a Mentor
 * Alexandra Robinson: Hashes, Structs, and OpenStructs.. Oh My!
 * Adam Smith: Mindfulness to Deal with Programming-Caused Stress
 * DJ Greenfield: Big O and Benchmarking
-* Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
 * Kit Pearson: Mnemonic Devices for Programming
 
 ### Student-Led & Self-Study Sessions (10:00 - 12:00)
