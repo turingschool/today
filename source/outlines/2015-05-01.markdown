@@ -113,11 +113,9 @@ Working on an awesome side project and need some accountability? Want to work on
 
 Meet near the large kitchen table.
 
-#### Team Draper
+#### Technical Interview Prep with Jeff
 
-Meet with Mike Dao and Jeff.
-
-Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
+Join Jeff in Classroom B to work through/talk through two technical interview challenges.
 
 #### Ruby Metaprogramming with Horace (Big Workspace Couch)
 
