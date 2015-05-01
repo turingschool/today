@@ -26,6 +26,8 @@ Gather in the Big Workspace at 9am sharp!
 ### Student-Led & Self-Study Sessions (10:00 - 12:00)
 
 * Join Drew in Classroom C to talk about tech and startups. He'll go over some big names/companies to know, best news sites to follow, resources for keeping up with new products, and key terms that you’ll hear working at a startup.
+* Join Rich near the couches in Classroom A to explore hashes.
+* Meet up with Jeff Wan and Mike Dao in Classroom B as they take you on a magical journey to get you an O.W.L. in #inject, the best enumerable ever. With your new found knowledge, you'll be able to build strings, hashes, and arrays with ease.
 
 ### One-on-Ones (10:00 - 12:00)
 
@@ -145,11 +147,9 @@ Working on an awesome side project and need some accountability? Want to work on
 
 Meet near the large kitchen table.
 
-#### Team Draper
+#### Technical Interview Prep with Jeff
 
-Meet with Mike Dao and Jeff.
-
-Draper is a gem that adds an object-oriented layer of presentation logic to your rails application. This afternoon will be an introductory session to the Draper gem. We'll be watching a video from Draper's creator on why we should blow up your views. (In a good way.)
+Join Jeff in Classroom B to work through/talk through two technical interview challenges.
 
 #### Ruby Metaprogramming with Horace (Big Workspace Couch)
 

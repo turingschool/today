@@ -37,7 +37,23 @@ Continue working on individual projects.
 
 ### Iteration 2 Check-ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Meet with Jorge at his usual spot.
+
+* 1:30 - Paul Grever
+* 1:40 - Markus Olsen
+* 1:50 - Jeffrey Gu
+* 2:00 - Lori Culberson
+* 2:10 - Tino Espinoza
+* 2:20 - DJ Greenfield
+* 2:30 - Kit Pearson
+* 2:40 - Austin Wood
+* 2:50 - Break
+* 3:00 - Kyra Steenbock
+* 3:10 - Dustin Gault
+* 3:20 - Rich Shea
+* 3:30 - Trey Tomlinson
+* 3:40 - Miriam Moser
+* 3:50 - Edward McCarthy
 
 ## 1502
 
@@ -77,6 +93,21 @@ With Horace:
 ### Robodoku Kickoff (1:00 - 2:00)
 
 If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 projet: Robodoku.
+
+### Work Time (1:00 - 4:00)
+
+Work on Sales Engine (SE2) or Robodoku (SE1).
+
+If you're finished with Sales Engine, join Horace in Classroom A to kickoff your final Module 1 project: [Robodoku](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/robodoku.markdown)
+
+Robodoku will be completed in pairs and due next Thursday (5/7). The pairs for this project will be:
+
+* Brett Grigsby, Drew Reynolds
+* Andrew Fink, Morgan Miller
+* Whitney Hiemstra, Chelsea Worrel
+* Josh Cass, Sally MacNicholas
+* Erik Butcher, Justin Holmes
+* Max Tedford, Dmitry Vizersky
 
 ### Worktime (1:00 - 4:00)
 
