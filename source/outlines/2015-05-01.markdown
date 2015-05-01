@@ -19,9 +19,9 @@ Gather in the Big Workspace at 9am sharp!
 * Scott Crawford: How to Make Yourself Desirable to a Mentor
 * Alexandra Robinson: Hashes, Structs, and OpenStructs.. Oh My!
 * Adam Smith: Mindfulness to Deal with Programming-Caused Stress
-* DJ Greenfield: ??
+* DJ Greenfield: Big O and Benchmarking
 * Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
-* Kit Pearson: ??
+* Kit Pearson: Mnemonic Devices for Programming
 
 ### Student-Led & Self-Study Sessions (10:00 - 12:00)
 
@@ -29,25 +29,63 @@ Gather in the Big Workspace at 9am sharp!
 
 ### One-on-Ones (10:00 - 12:00)
 
-* Drew Reynolds is running a session and needs his one-on-one in the second hour. 
+#### With Steve
 
-With Josh C.: 
+* 10:00: Lydia Shafer
+* 10:20: Michael Dao
+* 10:40: Nathan Owsiany
+* 11:00: Scott Crawford
 
-With Jorge:
+#### With Josh C.
 
-With Rachel:
+* 10:00: Patrick Medaugh
+* 10:20: Tess Griffin
+* 10:40: Thomas Leskin
+* 11:00: Tracy Caruso
+* 11:20: Michael Merrill
 
-With Sam:
+#### With Jorge
 
-With Horace:
+* 10:00: Charles Valentino Espinoza
+* 10:20: DJ Greenfield
+* 10:40: Trey Tomlinson
+* 11:00: Austin Wood
 
-With Raissa:
+#### With Rachel
 
-With Daisha:
+* 10:00: Kyle Henson
+* 10:20: Michelle Golle
+* 10:40: Mihir Parikh
+* 11:00: Minnie Lee
 
-With Jeff:
+#### With Horace
 
-With Steve:
+* 10:00: Orion Osborn
+* 10:20: Laura Whalin
+* 10:40: Konr Josef Larson
+* 11:00: Adam Smith
+
+#### With Daisha
+
+* 10:00: Edward McCarthy
+* 10:20: Lori Culberson
+* 10:40: Rich Shea
+* 11:00: Kit Pearson
+
+#### With Jeff
+
+* 10:00: Drew Reynolds
+* 10:20: Josh Cass
+* 10:40: Lev Kravinsky
+* 11:00: Whitney Hiemstra
+* 11:20: Rob Cornell
+
+#### With Raissa
+
+* 10:00: Erik Butcher
+* 10:20: Margarett Ly
+* 10:40: Chelsea Worrel
+* 11:00: Dmitry Vizersky
 
 ### Group Retrospectives (1:00 - 2:00)
 
@@ -96,11 +134,7 @@ We can do whatever sounds fun :)
 Bring your inspiration.
 Bring your curiosity.
 Bring your daydreams.
-There are neither rules nor expectations, lets just play ^_^
-
-#### NodeJS with Sam
-
-Meet with Sam to explore Node.
+There are neither rules nor expectations, lets just play. ^_^
 
 #### Side Hustles with Steve
 
