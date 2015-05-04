@@ -66,13 +66,28 @@ Three days. The countdown begins!
 
 ## 1503
 
-### OkCuGit (9:00 - 12:00)
+### OkCuGit (9:00 - 11:00)
 
+This morning you're going to work on a microproject: [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown).
 
+Start with Jeff in the workspace at 9:00 for a few tips, then dive into the project in the following pairs:
 
 ### Project Work Time (1:00 - 2:30)
 
-You have time to work on your projects when you're not doing assessments (as listed below).
+* Margarett Ly & Dave Maurer
+* Dmitry Vizersky & Erik Butcher
+* Morgan Miller & Sally MacNicholas
+* Vanessa Gomez & Rob Cornell
+* Brett Grigsby & Lev Kravinsky
+* Rick Bacci & Max Tedford
+* Michael Merrill & Drew Reynolds
+* Andrew Fink & Eugene Khanutin
+* Whitney Hiemstra & Josh Cass
+* Chelsea Worrel & Justin Holmes
+
+### Project Work Time (11:00 - 4:00)
+
+Then you have time to work on your projects when you're not doing assessments (as listed below).
 
 ### Assessments (1:00 - 2:30)
 
