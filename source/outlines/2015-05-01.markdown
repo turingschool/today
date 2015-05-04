@@ -16,11 +16,11 @@ layout: outline
 
 Gather in the Big Workspace at 9am sharp!
 
+* Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
 * Scott Crawford: How to Make Yourself Desirable to a Mentor
 * Alexandra Robinson: Hashes, Structs, and OpenStructs.. Oh My!
 * Adam Smith: Mindfulness to Deal with Programming-Caused Stress
 * DJ Greenfield: Big O and Benchmarking
-* Tracy Caruso: How to Prevent Browser Inconsistencies From Ruining Your Life
 * Kit Pearson: Mnemonic Devices for Programming
 
 ### Student-Led & Self-Study Sessions (10:00 - 12:00)
@@ -151,9 +151,9 @@ Meet near the large kitchen table.
 
 Join Jeff in Classroom B to work through/talk through two technical interview challenges.
 
-#### Ruby Metaprogramming with Horace (Big Workspace Couch)
+#### DSA With Horace (Classroom C)
 
-Ruby is a dynamic and flexible language out of the gate, but when you account for all of its metaprogramming capabilities, things really start to get interesting. Let's look at some of these features and see how ruby allows us to write code that writes code.
+Missing your second weekly dose of DSA? Let's have one this afternoon! We've been working this week on implementing a visualization of an automata flocking algorithm called "Boids." If you were at the session on Wednesday, we'll continue with the work we started. Otherwise we can get you started with a fresh implementation.
 
 #### Client Work with Rachel
 
