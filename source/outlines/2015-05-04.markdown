@@ -7,13 +7,13 @@ layout: outline
 
 ### Posse Time (8:30 - 8:50)
 
-Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc. 
+Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc.
 
 ## 1410
 
 ### Ruby and Rails in Review (9:00 - 12:00)
 
-Join Horace in Classroom B to talk about [all of the things you should have learned in the last seven months](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/rails_in_review.markdown). 
+Join Horace in Classroom B to talk about [all of the things you should have learned in the last seven months](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/rails_in_review.markdown).
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
@@ -25,15 +25,25 @@ Check-in schedule TBA.
 
 ### Testing an Internal API (9:00 - 10:30)
 
-Learn how to test an API with Jorge in Classroom C.
+Learn how to test an Internal API with Jorge in Classroom C. You can find the notes [here](https://www.dropbox.com/s/zxftnls0at2eqtc/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0).
 
 ### Testing an External API (10:30 - 12:00)
 
-Stick around in Classroom C with Jorge. 
+Stick around in Classroom C with Jorge. You can find the notes [here](https://www.dropbox.com/s/3lca1a5nm7gkk35/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0).
 
-### Weekly Iteration (1:00 - 2:30)
+### Assessment Study Time (1:00 - 2:30)
 
-Join Jorge to iterate in Classroom C.
+Meet in Classroom C, share your questions and study for your assessment.
+
+Work in the following pairs:
+
+* Paul Grever & Kyra Steenbock
+* Markus Olsen & Dustin Gault
+* Edward McCarthy & Lori Culberson
+* Rich Shea & Kit Pearson
+* Jeffrey Gu & DJ Greenfield
+* Trey Tomlinson & Austin Wood
+* Tino Espinoza & Miriam Moser
 
 ## 1502
 
@@ -47,7 +57,6 @@ Join Steve in Classroom A to talk about semicolons.
 * [Three.js](http://threejs.org)
 * [p5.js](http://p5js.org)
 * [d3.js](http://d3js.org)
-
 
 ### Dinner Dash Worktime (10:00 - 12:00 and 1:00 - 4:00)
 
