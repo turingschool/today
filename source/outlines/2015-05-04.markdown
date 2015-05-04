@@ -85,12 +85,12 @@ Start with Jeff in the workspace at 9:00 for a few tips, then dive into the proj
 
 Then you have time to work on your projects when you're not doing assessments (as listed below).
 
-### Assessments (All Day)
+### Assessments (1:00 - 2:30)
+
+When you're not in assessments—you should be pushing forward on Sales Engine and Robodoku.
 
 * Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
 * When you start your assessment you should already have implemented the *score* functionality
-
-### Evaluations (1:00 - 2:30)
 
 #### With Jeff (and Sam)
 
@@ -99,7 +99,7 @@ Then you have time to work on your projects when you're not doing assessments (a
 * 1:00 - 1:30: Morgan Miller
 * 1:30 - 2:00: Erik Butcher
 
-With Sam
+#### With Sam
 
 * 1:00 - 1:30: Michael Merrill
 * 1:30 - 2:00: Andrew Fink
@@ -116,7 +116,7 @@ With Sam
 
 * 1:00 - 1:30: Margarett Ly
 * 1:30 - 2:00: Drew Reynolds
-* 2:30 - 3:00: Rob Cornell
+* 2:00 - 2:30: Rob Cornell
 
 #### With Horace
 
