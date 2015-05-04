@@ -19,14 +19,13 @@ Find your pair listed below and work on [this challenge](https://github.com/turi
 until 3:10.
 
 * Rob Cornell & Lydia Shafer
-* Whitney Hiemstra & Brett Grigsby
 * Nathan Owsiany & Jamie Kawahara
 * Trey Tomlinson & DJ Greenfield
 * Krista A Nelson & Laura Whalin
 * Justin Holmes & Brandon Mrsny
 * Kit Pearson & Charles Valentino Espinoza
 * Paul Grever & Edward McCarthy
-* Rich Shea & Andrew Fink
+* Rich Shea & Brett Grigsby
 * Kenny Chen & Lori Culberson
 * Kyle Henson & Kristina Brown
 * Michelle Golle & Morgan Miller
@@ -39,7 +38,7 @@ until 3:10.
 * Sally MacNicholas & Tess Griffin
 * Jack Yeh & Thomas Leskin
 * Rick Bacci & Dave Maurer
-* Andrew Carmer & Michael Merrill
+* Andrew Carmer & Dustin Gault
 * Jeffrey Gu & Max Tedford
 * Bhargavi Satpathy & Patrick Medaugh
 * Markus Olsen & Orion Osborn
@@ -51,7 +50,7 @@ until 3:10.
 * Kyra Steenbock & Bryce Holcomb
 * Miriam Moser & Michael Dao
 
-Dustin Gault is the wildcard.
+
 
 #### Round 2 - Character Count (3:15 - 3:45)
 
@@ -179,18 +178,20 @@ When you're not in assessments—you should be pushing forward on Sales Engine a
 * Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
 * When you start your assessment you should already have implemented the *score* functionality
 
-#### With Jeff (and Sam)
+#### With Jeff
 
 * 11:00 - 11:30: Josh Cass
 * 11:30 - 12:00: Sally MacNicholas
 * 1:00 - 1:30: Morgan Miller
 * 1:30 - 2:00: Erik Butcher
 
-#### With Sam
+#### Makeups
 
-* 1:00 - 1:30: Michael Merrill
-* 1:30 - 2:00: Andrew Fink
-* 2:00 - 2:30: Whitney Hiemstra
+We'll have three sessions later in the day since Sam is out. They'll all *start at 2:30*.
+
+* Michael Merrill with Rachel
+* Andrew Fink with Jeff
+* Whitney Hiemstra with Josh Cheek
 
 #### With Josh Cheek
 
