@@ -13,7 +13,7 @@ Meet up with your posses. 1503 will take their very first assessment today. Shar
 
 ### Ruby and Rails in Review (9:00 - 12:00)
 
-Join Horace in Classroom B to talk about all of the things you should have learned in the last seven months. 
+Join Horace in Classroom B to talk about [all of the things you should have learned in the last seven months](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/rails_in_review.markdown). 
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
