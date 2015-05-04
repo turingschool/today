@@ -9,7 +9,7 @@ layout: outline
 
 Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc.
 
-### Code Retreat (2:35 - 4:00)
+### Technical Interview Preparation (2:35 - 4:00)
 
 We'll change up a little bit of the format today. Please be in the room before 2:35 so we can start on time.
 
@@ -102,11 +102,9 @@ Finally we'll spend a few minutes all together discussing solutions.
 
 Join Horace in Classroom B to talk about [all of the things you should have learned in the last seven months](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/rails_in_review.markdown).
 
-### Project Work Time and Check-ins (1:00 - 4:00)
+### Project Work Time and Check-ins (1:00 - 2:30)
 
 Only a few days left. Let's ship some code.
-
-Check-in schedule TBA.
 
 ## 1412
 
@@ -145,7 +143,7 @@ Join Steve in Classroom A to talk about semicolons.
 * [p5.js](http://p5js.org)
 * [d3.js](http://d3js.org)
 
-### Dinner Dash Worktime (10:00 - 12:00 and 1:00 - 4:00)
+### Dinner Dash Worktime (10:00 - 12:00 and 1:00 - 2:30)
 
 Three days. The countdown begins!
 
@@ -156,6 +154,8 @@ Three days. The countdown begins!
 This morning you're going to work on a microproject: [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown).
 
 Start with Jeff in the workspace at 9:00 for a few tips, then dive into the project in the following pairs:
+
+### Project Work Time (1:00 - 2:30)
 
 * Margarett Ly & Dave Maurer
 * Dmitry Vizersky & Erik Butcher
