@@ -7,13 +7,13 @@ layout: outline
 
 ### Posse Time (8:30 - 8:50)
 
-Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc. 
+Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc.
 
 ## 1410
 
 ### Ruby and Rails in Review (9:00 - 12:00)
 
-Join Horace in Classroom B to talk about all of the things you should have learned in the last seven months. 
+Join Horace in Classroom B to talk about all of the things you should have learned in the last seven months.
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
@@ -29,7 +29,7 @@ Learn how to test an API with Jorge in Classroom C.
 
 ### Testing an External API (10:30 - 12:00)
 
-Stick around in Classroom C with Jorge. 
+Stick around in Classroom C with Jorge.
 
 ### Weekly Iteration (1:00 - 2:30)
 
@@ -57,18 +57,18 @@ Three days. The countdown begins!
 
 ### OkCuGit (9:00 - 12:00)
 
-TBA
+
 
 ### Project Work Time (1:00 - 4:00)
 
 You have time to work on your projects when you're not doing assessments (as listed below).
 
-### Assessments (All Day)
+### Assessments (1:00 - 2:30)
+
+When you're not in assessments—you should be pushing forward on Sales Engine and Robodoku.
 
 * Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
 * When you start your assessment you should already have implemented the *score* functionality
-
-### Evaluations (1:00 - 2:30)
 
 #### With Jeff (and Sam)
 
@@ -77,7 +77,7 @@ You have time to work on your projects when you're not doing assessments (as lis
 * 1:00 - 1:30: Morgan Miller
 * 1:30 - 2:00: Erik Butcher
 
-With Sam
+#### With Sam
 
 * 1:00 - 1:30: Michael Merrill
 * 1:30 - 2:00: Andrew Fink
@@ -94,7 +94,7 @@ With Sam
 
 * 1:00 - 1:30: Margarett Ly
 * 1:30 - 2:00: Drew Reynolds
-* 2:30 - 3:00: Rob Cornell
+* 2:00 - 2:30: Rob Cornell
 
 #### With Horace
 
