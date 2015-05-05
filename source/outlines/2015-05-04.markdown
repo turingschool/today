@@ -9,9 +9,91 @@ layout: outline
 
 Meet up with your posses. 1503 will take their very first assessment today. Share words of wisdom, pieces of advice, etc.
 
-### Technical Interview Preparation (2:30 - 4:00)
+### Technical Interview Preparation (2:35 - 4:00)
 
-Does a rose by any other name not smell just as sweet?
+We'll change up a little bit of the format today. Please be in the room before 2:35 so we can start on time.
+
+#### Round 1 -- Flattening (2:35 - 3:10)
+
+Find your pair listed below and work on [this challenge](https://github.com/turingschool/technical_puzzles/blob/master/flatten.markdown)
+until 3:10.
+
+* Rob Cornell & Lydia Shafer
+* Nathan Owsiany & Jamie Kawahara
+* Trey Tomlinson & DJ Greenfield
+* Krista A Nelson & Laura Whalin
+* Justin Holmes & Brandon Mrsny
+* Kit Pearson & Charles Valentino Espinoza
+* Paul Grever & Edward McCarthy
+* Rich Shea & Brett Grigsby
+* Kenny Chen & Lori Culberson
+* Kyle Henson & Kristina Brown
+* Michelle Golle & Morgan Miller
+* Erik Butcher & Drew Reynolds
+* Chris Luhring & Austin Wood
+* Chelsea Worrel & Vanessa Gomez
+* Josh Cass & Konr Josef Larson
+* Scott Crawford & Minnie Lee
+* Alexandra Robinson & Jeffrey Wan
+* Sally MacNicholas & Tess Griffin
+* Jack Yeh & Thomas Leskin
+* Rick Bacci & Dave Maurer
+* Andrew Carmer & Dustin Gault
+* Jeffrey Gu & Max Tedford
+* Bhargavi Satpathy & Patrick Medaugh
+* Markus Olsen & Orion Osborn
+* David Daniel & Eugene Khanutin
+* Mihir Parikh & Tracy Caruso
+* Dmitry Vizersky & Lev Kravinsky
+* Emily Berkeley & Margarett Ly
+* Eric Dowty & Adam Smith
+* Kyra Steenbock & Bryce Holcomb
+* Miriam Moser & Michael Dao
+
+
+
+#### Round 2 - Character Count (3:15 - 3:45)
+
+Then, in the second session, work through [this Character Count challenge](https://github.com/turingschool/technical_puzzles/blob/master/character_count.markdown).
+
+* Michelle Golle & Krista A Nelson
+* Lev Kravinsky & Markus Olsen
+* Adam Smith & Eugene Khanutin
+* David Daniel & Jamie Kawahara
+* Laura Whalin & Dave Maurer
+* Eric Dowty & Trey Tomlinson
+* Kit Pearson & Lori Culberson
+* Kenny Chen & Dustin Gault
+* Miriam Moser & Rick Bacci
+* Alexandra Robinson & Konr Josef Larson
+* Jack Yeh & Kristina Brown
+* Drew Reynolds & Bhargavi Satpathy
+* Mihir Parikh & Sally MacNicholas
+* Lydia Shafer & Rob Cornell
+* Nathan Owsiany & Andrew Fink
+* Chris Luhring & Kyle Henson
+* Brandon Mrsny & Thomas Leskin
+* DJ Greenfield & Michael Merrill
+* Josh Cass & Charles Valentino Espinoza
+* Jeffrey Gu & Andrew Carmer
+* Chelsea Worrel & Jeffrey Wan
+* Dmitry Vizersky & Michael Dao
+* Paul Grever & Emily Berkeley
+* Justin Holmes & Rich Shea
+* Whitney Hiemstra & Austin Wood
+* Kyra Steenbock & Vanessa Gomez
+* Brett Grigsby & Scott Crawford
+* Morgan Miller & Orion Osborn
+* Tess Griffin & Erik Butcher
+* Margarett Ly & Tracy Caruso
+* Patrick Medaugh & Max Tedford
+* Minnie Lee & Bryce Holcomb
+
+Edward McCarthy is the wildcard.
+
+#### Recap (3:45 - 4:00)
+
+Finally we'll spend a few minutes all together discussing solutions.
 
 ## 1410
 
@@ -96,18 +178,20 @@ When you're not in assessments—you should be pushing forward on Sales Engine a
 * Check out [Scrabble Assessment & Rubric](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
 * When you start your assessment you should already have implemented the *score* functionality
 
-#### With Jeff (and Sam)
+#### With Jeff
 
 * 11:00 - 11:30: Josh Cass
 * 11:30 - 12:00: Sally MacNicholas
 * 1:00 - 1:30: Morgan Miller
 * 1:30 - 2:00: Erik Butcher
 
-#### With Sam
+#### Makeups
 
-* 1:00 - 1:30: Michael Merrill
-* 1:30 - 2:00: Andrew Fink
-* 2:00 - 2:30: Whitney Hiemstra
+We'll have three sessions later in the day since Sam is out. They'll all *start at 2:30*.
+
+* Michael Merrill with Rachel
+* Andrew Fink with Jeff
+* Whitney Hiemstra with Josh Cheek
 
 #### With Josh Cheek
 
