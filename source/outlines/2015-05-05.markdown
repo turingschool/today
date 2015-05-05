@@ -74,17 +74,9 @@ With Josh
 
 ## 1503
 
-### The Performance of Code (9:00 - 11:00)
+### The Performance of Code (9:00 - 12:00)
 
 Join Horace in Classroom A to talk about [analyzing program performance](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
-
-### Project Work Time (11:00 - 12:00)
-
-Keep plugging on those projects.
-
-### SE1 -- Robodoku Office Hours / Optional Checkins (11:00 - 12:00)
-
-Horace will be available for short Robodoku code reviews or Q&A.
 
 ### Sales Engine Check-ins (1:00 - 4:00)
 
