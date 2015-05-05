@@ -86,9 +86,15 @@ With Josh
 
 * 10:15 Tom
 * 11:00 Kristina
-* 1:00 Dave
-* 1:45 Andrew
-* 2:30 Kyle
+
+With Steve
+
+* 3:00 Dave
+
+With Jeff
+
+* 10:15 Kyle
+* 11:00 Andrew
 
 ## 1503
 
@@ -96,14 +102,9 @@ With Josh
 
 Join Horace in Classroom A to talk about [analyzing program performance](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
 
-### Sales Engine Check-ins (1:00 - 4:00)
+### Sales Engine Work Time (1:00 - 4:00)
 
-With Sam
-
-* 1:00 Ricky & Rob
-* 1:45 Michael & Dave
-* 2:30 Margarett & Eugene
-* 3:15 Lev & Vanessa
+SalesEngineers keep cranking this afternoon.
 
 ### Robodoku Check-ins (1:00 - 4:00)
 
