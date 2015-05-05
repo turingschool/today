@@ -17,7 +17,21 @@ Jorge in Classroom C.
 
 ### jQuery and AJAX (10:30 - 12:00)
 
-Steve in Classroom C. 
+Meet with Steve in Classroom C to talk about jQuery and AJAX.
+
+We'll be using the [turingschool-examples/command-center][cc] repository, but you don't need to clone it.
+
+[cc]: https://github.com/turingschool-examples/command-center
+
+You'll be working in the following pairs:
+
+* Lori Culberson & Jeffrey Gu
+* Kyra Steenbock & Miriam Moser
+* Rich Shea & Paul Grever
+* Stanley Siudzinski & DJ Greenfield
+* Trey Tomlinson & Charles Valentino Espinoza
+* Dustin Gault & Austin Wood
+* Markus Olsen & Edward McCarthy & Kit Pearson
 
 ### Assessments and Work Time (1:00 - 4:00)
 
@@ -52,7 +66,7 @@ More on semicolons with Sam in Classroom B.
 
 ### Dinner Dash Work Time (10:00 - 12:00 and 1:00 - 4:00)
 
-Continue pushing forward with dinner dash. How many extensions can you implement? 
+Continue pushing forward with dinner dash. How many extensions can you implement?
 
 ### Assessments
 
