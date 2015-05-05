@@ -48,7 +48,7 @@ With Jorge
 
 ### Intro to jQuery (9:00 - 10:00)
 
-Meet with Rachel in Classroom B.
+Meet with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Filtering and Sorting with jQuery (10:00 - 12:00)
 
