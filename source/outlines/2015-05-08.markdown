@@ -19,8 +19,8 @@ Also, **1412**—please fill out [this Module 4 pre-survey][ps].
 
 ### Group Retrospectives (9:00 - 10:00)
 
-* 1412 in Classroom A with Steve
-* 1502 in Classroom B with Jorge
+* 1412 in Classroom A with Steve & Sam
+* 1502 in Classroom B with Jorge & Josh C.
 * 1503 in Classroom C with Jeff
 
 ### Self-Study and One-on-Ones (9:00 - 11:00)
@@ -48,6 +48,8 @@ Check out upcoming Ruby conferences [here](http://rubyconferences.org/).
 #### With Jeff.
 
 #### With Josh C.
+
+#### With Sam
 
 
 ### Lightning Talks (1:00 - 1:45)
