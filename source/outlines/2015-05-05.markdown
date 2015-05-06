@@ -13,11 +13,29 @@ THE WHOLE DAY.
 
 ### Automating Tasks with Rake (9:00 - 10:30)
 
-Jorge in Classroom C.
+Join Jorge in Classroom C to learn how to automate tasks with [Rake](https://github.com/ruby/rake), a Ruby library built by the late [Jim Weirich](http://en.wikipedia.org/wiki/Jim_Weirich), one of the most respected leaders in the Ruby community.
+
+You can download the notes from [here](https://www.dropbox.com/s/v0npx56isv5dcjm/Turing%20-%20Task%20Automation%20with%20Rake%20%28Notes%29.pages?dl=0).
 
 ### jQuery and AJAX (10:30 - 12:00)
 
-Steve in Classroom C. 
+Join Steve in Classroom C to learn how to send [AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) requests using JQuery.
+
+We'll be using the [turingschool-examples/command-center][cc] repository, but you don't need to clone it.
+
+[cc]: https://github.com/turingschool-examples/command-center
+
+You'll be working in the following pairs:
+
+* Lori Culberson & Jeffrey Gu
+* Kyra Steenbock & Miriam Moser
+* Rich Shea & Paul Grever
+* Kit Pearson & DJ Greenfield
+* Trey Tomlinson & Charles Valentino Espinoza
+* Dustin Gault & Austin Wood
+* Markus Olsen & Edward McCarthy
+
+You can reference the official documentation [here](http://api.jquery.com/jquery.ajax/).
 
 ### Assessments and Work Time (1:00 - 4:00)
 
@@ -48,11 +66,11 @@ With Jeff
 
 ### JavaScript, Part Two (9:00 - 10:00)
 
-More on semicolons with Steve in Classroom B.
+More on semicolons with Steve; in Classroom B.
 
 ### Dinner Dash Work Time (10:00 - 12:00 and 1:00 - 4:00)
 
-Continue pushing forward with dinner dash. How many extensions can you implement? 
+Continue pushing forward with Dinner Dash. How many extensions can you implement?
 
 ### Assessments
 
@@ -68,21 +86,33 @@ With Josh
 
 * 10:15 Tom
 * 11:00 Kristina
-* 1:00 Dave
-* 1:45 Andrew
-* 2:30 Kyle
+
+With Steve
+
+* 3:00 Dave
+
+With Jeff
+
+* 10:15 Kyle
+* 11:00 Andrew
 
 ## 1503
 
 ### The Performance of Code (9:00 - 12:00)
 
-Join Sam in Classroom A.
+Join Horace in Classroom A to talk about [analyzing program performance](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
 
-### Sales Engine Check-ins (1:00 - 4:00)
+### Sales Engine Work Time (1:00 - 4:00)
 
-With Sam
+SalesEngineers keep cranking this afternoon.
 
-* 1:00 Ricky & Rob
-* 1:45 Michael & Dave
-* 2:30 Margarett & Eugene
-* 3:15 Lev & Vanessa
+### Robodoku Check-ins (1:00 - 4:00)
+
+Meet with Josh Cheek for small-group review sessions. No, these are not project groups. It just makes more sense to do
+ a  group check-in for a longer period since you'll likely have similar issues and questions.
+
+* 1:00 - Dmitry, Sally, Josh, Chelsea
+* 2:00 - Whitney, Max, Drew, Justin
+* 3:00 - Erik, Morgan, Brett, Andrew
+
+[Here's a link to the original assignment](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/robodoku.markdown).
