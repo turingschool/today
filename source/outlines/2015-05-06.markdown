@@ -71,7 +71,7 @@ With Josh C.
 
 ### Frames, Call Stacks, and Exceptions (9:00 - 10:30)
 
-Join Josh C. in Classroom A.
+Join Josh C. in Classroom A. Material is at: https://github.com/JoshCheek/lesson-exceptions
 
 ### Regular Expressions (10:30 - 12:00)
 
