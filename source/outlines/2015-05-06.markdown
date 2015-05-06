@@ -35,7 +35,7 @@ With Horace
 
 ### Project Work Time and Assessments (9:00 - 4:00)
 
-While you're not in assessments, you should be working on your final project. 
+While you're not in assessments, you should be working on your final project. Remember that you should be working on polishing your project (fixing bugs, polishing UX, refactor and improving your test coverage). It is better to have less features that are well built than more functionality that is half-baked. Jorge will be available for questions in the afternoon.
 
 With Jorge
 
@@ -55,7 +55,7 @@ Stay in Classroom B with Rachel.
 
 ### Dinner Dash Work Time and Assessments (1:00 - 4:00)
 
-Work on extensions, refactor, etc. 
+Work on extensions, refactor, etc.
 
 With Rachel
 
