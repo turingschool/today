@@ -5,12 +5,15 @@ layout: outline
 
 ## 1410
 
-### Community Project Evaluations with Steve (9:00 - 12:00)
+### Community Project Client Meetings with Jeff (9:00 - 10:30)
 
-With Steve
+* 9:00 - 9:30: Job Basket
+* 10:00 - 10:30: TechHire
 
-* 9:00: Job Basket
-* 10:30: The Other Group
+### Community Project Code Review with Steve (9:00 - 10:30)
+
+* 9:00 - 9:45: TechHire
+* 9:45 - 10:30: Job Basket
 
 ### Robodoku Dojo (1:00 - 4:00)
 
@@ -66,7 +69,7 @@ Meet with Jeff in Classroom A to talk resumes, job hunting strategy, and expecta
 
 ### Work Time (9:00 - 12:00)
 
-Make sure to `git push origin master -f` approximately 25 seconds before your evaluation this afternoon. It works every time. 
+Make sure to `git push origin master -f` approximately 25 seconds before your evaluation this afternoon. It works every time.
 
 ### Dinner Dash Evaluations (1:00 - 4:00)
 
@@ -84,7 +87,7 @@ Make sure to `git push origin master -f` approximately 25 seconds before your ev
 
 ### SalesEngine Evaluations (9:00 - 12:00)
 
-#### With Sam 
+#### With Sam
 
 * 9:00 Ricky & Rob
 * 9:30 Michael & Dave
