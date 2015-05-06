@@ -19,9 +19,9 @@ Also, **1412**—please fill out [this Module 4 pre-survey][ps].
 
 ### Group Retrospectives (9:00 - 10:00)
 
-* 1412 in Classroom A with Jorge
-* 1502 in Classroom B with Rachel
-* 1503 in Classroom C with Josh M.
+* 1412 in Classroom A with Steve
+* 1502 in Classroom B with Jorge
+* 1503 in Classroom C with Jeff
 
 ### Self-Study and One-on-Ones (9:00 - 11:00)
 
@@ -33,17 +33,7 @@ Or... apply to speak at a conference!
 
 You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
 
-Here are a few conferences with open calls for proposals:
-
-* [Madison+ Ruby][mr]
-* [GoRuCo][go]
-* [Windy City Rails][wcr]
-* [Burlington Ruby][br]
-
-[go]: http://goruco.com/
-[mr]: http://madisonpl.us/ruby/
-[wcr]: http://www.windycityrails.org/
-[br]: http://www.burlingtonrubyconference.com
+Check out upcoming Ruby conferences [here](http://rubyconferences.org/). 
 
 ### One-on-Ones (10:00 - 12:00)
 
