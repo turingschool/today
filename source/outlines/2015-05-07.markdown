@@ -94,8 +94,8 @@ Make sure to `git push origin master -f` approximately 25 seconds before your ev
 
 #### With Rachel
 
-* 9:00 Margarett & Eugene
-* 9:30 Lev & Vanessa
+* 10:00 Margarett & Eugene
+* 10:30 Lev & Vanessa
 
 ### Robodoku Dojo (1:00 - 4:00)
 
