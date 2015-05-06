@@ -9,8 +9,8 @@ layout: outline
 
 With Jeff
 
-* 9:45 Lydia Shafer
-* 10:30 Scott Crawford
+* 9:45 Scott Crawford
+* 10:30 Lydia Shafer
 * 11:15 Konr Larson
 * 1:00 Michael Dao
 
