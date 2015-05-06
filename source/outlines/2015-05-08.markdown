@@ -51,7 +51,6 @@ Check out upcoming Ruby conferences [here](http://rubyconferences.org/).
 
 #### With Sam
 
-
 ### Lightning Talks (1:00 - 1:45)
 
 * Kyra Weber: Creative Control vs Usability
