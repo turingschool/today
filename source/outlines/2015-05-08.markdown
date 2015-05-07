@@ -23,19 +23,21 @@ Also, **1412**—please fill out [this Module 4 pre-survey][ps].
 * 1502 in Classroom B with Jorge & Josh C.
 * 1503 in Classroom C with Jeff
 
-### Self-Study and One-on-Ones (9:00 - 11:00)
+### Self-Study and One-on-Ones (10:00 - 11:00)
 
-#### Study Sessions
+#### 1503: Sinatra Sales Engine (10:00 - 11:00)
+
+Join Josh in Classroom A to turn sales engine into a Sinatra app. 
+
+#### Everyone Else: Study Sessions
 
 Feel free to join one of these groups:
 
-Or... apply to speak at a conference!
+* TBA
 
-You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
+Or... apply to speak at a conference! Check out upcoming Ruby conferences [here](http://rubyconferences.org/). You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
 
-Check out upcoming Ruby conferences [here](http://rubyconferences.org/). 
-
-### One-on-Ones (10:00 - 12:00)
+### One-on-Ones (10:00 - 11:00)
 
 #### With Raissa
 
@@ -45,21 +47,23 @@ Check out upcoming Ruby conferences [here](http://rubyconferences.org/).
 
 #### With Steve
 
-#### With Jeff.
-
-#### With Josh C.
+#### With Jeff
 
 #### With Sam
+
+### Guest Speaker: Cara Jo Miller (11:00 - 12:00)
+
+Gather in the big workspace at 11am sharp!
 
 ### Lightning Talks (1:00 - 1:45)
 
 * Kyra Weber: Creative Control vs Usability
-* Mihir Parikh: Tips on how to make the most of your time with your physician
 * Minnie Lee: How Music Affects Your Productivity
+* Mihir Parikh: Tips on how to make the most of your time with your physician
 * Tess Griffin: How 3D in Film Works, and How It's Done Right (Or Not)
 * Markus Olsen: The Economics of Open Source
 
-### Cross-Cohort Pairing (1:45 - 3:00)
+### Cross-Cohort Pairing (1:45 - 3:30)
 
 #### Webguesser
 
@@ -105,7 +109,7 @@ Use TDD to create a Rails Flash Card app using the following specifications:
 * Kyra Steenbock & Kyle Henson
 * Markus Olsen & Michelle Golle
 
-### Something Fun (3:00)
+### Something Fun (3:30)
 
 Ice cream, maybe? 
 
