@@ -83,6 +83,10 @@ Make sure to `git push origin master -f` approximately 25 seconds before your ev
 * 1:00: Dave, Kristina, Minnie, Tracy
 * 2:00: Jack, Michelle, Patrick
 
+### Demo Night Prep (3:00)
+
+Meet with Rachel in Classroom C. 
+
 ## 1503
 
 ### SalesEngine Evaluations (9:00 - 12:00)
