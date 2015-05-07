@@ -65,7 +65,7 @@ Join 1503 in the workspace to pair on some [Robodoku](https://github.com/turings
 
 Meet with Jeff in Classroom A to talk resumes, job hunting strategy, and expectations.
 
-## 1412
+## 1502
 
 ### Work Time (9:00 - 12:00)
 
@@ -83,7 +83,7 @@ Make sure to `git push origin master -f` approximately 25 seconds before your ev
 * 1:00: Dave, Kristina, Minnie, Tracy
 * 2:00: Jack, Michelle, Patrick
 
-## 1502
+## 1503
 
 ### SalesEngine Evaluations (9:00 - 12:00)
 
