@@ -7,7 +7,6 @@ layout: outline
 
 ### Surveys (8:30 - 9:00)
 
-
 * [A massive survey just for 1410](https://docs.google.com/a/casimircreative.com/forms/d/1Qg9iNYbD6T0rv_VSrUFl4DMW0mtyEVgIQjv7dBLLmRA/viewform)
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/1h6SnNPbpN8u3f9FXACyXUSrYDlmJy91l5-4p0SxmngA/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1EJHbKUVbOk7vq8rlNZmA9OsHQ-aSjfkI7m-RP5ZuZA0/viewform)
@@ -39,28 +38,13 @@ This is a coming of age story for our modest Sales Engine.
 And in many ways, for us also, as the sultry songs of Sinatra
 waft into our ears and ignite our imaginations for the very first time.
 
-
 #### Everyone Else: Study Sessions
 
-Feel free to join one of these groups:
+Check out upcoming Ruby conferences [here](http://rubyconferences.org/). You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
 
-* TBA
+### Optional One-on-Ones (10:00 - 11:00)
 
-Or... apply to speak at a conference! Check out upcoming Ruby conferences [here](http://rubyconferences.org/). You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
-
-### One-on-Ones (10:00 - 11:00)
-
-#### With Raissa
-
-#### With Daisha
-
-#### With Jorge
-
-#### With Steve
-
-#### With Jeff
-
-#### With Sam
+If you want to talk to a staff member during this time, just DM us via Slack.
 
 ### Guest Speaker: Cara Jo Miller (11:00 - 12:00)
 
