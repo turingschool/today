@@ -123,6 +123,7 @@ Use TDD to create a Rails Flash Card app using the following specifications:
 ### Something Fun (3:30)
 
 Ice cream, maybe?
+(hey, I just met you, this is crazy!)
 
 ### Intermission Week Assignmets
 
