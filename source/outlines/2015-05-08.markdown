@@ -25,9 +25,20 @@ Also, **1412**—please fill out [this Module 4 pre-survey][ps].
 
 ### Self-Study and One-on-Ones (10:00 - 11:00)
 
-#### 1503: Sinatra Sales Engine (10:00 - 11:00)
+#### 1503: The Sisterhoold of the Traveling Sales Engines (10:00 - 11:00)
 
-Join Josh in Classroom A to turn sales engine into a Sinatra app. 
+Join Josh, in Classroom A to laugh. Cry. Share the vision.
+
+Our ambitious Sales Engine daydreams of JSON.
+It daydreams of YAML.
+It daydreams of data unfettered by file systems.
+Consuming merchants and invoices from the farthest reaches of the internet.
+We'll give it's wish a foundation, discover the internet, raise servers, transform mime types,
+and ultimately, observe it grow up.
+This is a coming of age story for our modest Sales Engine.
+And in many ways, for us also, as the sultry songs of Sinatra
+waft into our ears and ignite our imaginations for the very first time.
+
 
 #### Everyone Else: Study Sessions
 
@@ -105,13 +116,13 @@ Use TDD to create a Rails Flash Card app using the following specifications:
   * there is a link to the next card
 
 * Miriam Moser & Thomas Leskin
-* Paul Grever & Tracy Caruso 
+* Paul Grever & Tracy Caruso
 * Kyra Steenbock & Kyle Henson
 * Markus Olsen & Michelle Golle
 
 ### Something Fun (3:30)
 
-Ice cream, maybe? 
+Ice cream, maybe?
 
 ### Intermission Week Assignmets
 
