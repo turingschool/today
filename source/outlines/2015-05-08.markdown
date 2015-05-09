@@ -38,6 +38,8 @@ This is a coming of age story for our modest Sales Engine.
 And in many ways, for us also, as the sultry songs of Sinatra
 waft into our ears and ignite our imaginations for the very first time.
 
+[https://github.com/JoshCheek/sales_engine-1#the-sisterhood-of-the-traveling-sales-engines](https://github.com/JoshCheek/sales_engine-1#the-sisterhood-of-the-traveling-sales-engines)
+
 #### Everyone Else: Study Sessions
 
 Check out upcoming Ruby conferences [here](http://rubyconferences.org/). You are allowed apply. Many conferences are looking for new speakers with no prior experience. You have a unique perspective as a newcomer to software development and your opinion is valuable.
