@@ -1,0 +1,96 @@
+---
+title: 20150518
+layout: outline
+---
+
+## All
+
+Welcome, 1505! We're glad you're here. 
+
+### How Posses Work (3:00 - 4:00)
+
+Join Rachel in the big workspace to talk about posses and mentors. 
+
+## 1412
+
+### Intermission Week Homework Review and Project Kickoff (9:00 - 10:30)
+
+Meet with Steve in Classroom B to talk about intermission week assignments and kick off the first project of your final module: [FeedEngine][fe].
+
+[fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+
+### Project Work Time (10:30 - 12:00 and 1:00 - 2:30)
+
+You'll be working in the following groups:
+
+TBA
+
+By the end of the session, you should have an idea to pitch Steve.
+
+**Homework**: Do some further investigation on your approved idea. Look at the APIs. Will you be able to build your project with the APIs available? If not, you'll need to let Steve know in the morning if you need to pivot.
+
+## 1502
+
+### Understanding Multi-Tenancy (9:00 - 12:00)
+
+Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
+
+You will work in the following groups:
+
+TBA
+
+Meet with Jorge in Classroom A, and expect the unexpected.
+
+## 1503
+
+### Introduction to Sinatra (9:00 - 9:30)
+
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
+
+Meet with Rachel in Classroom C.
+
+### TaskManager Q&A and Review (9:30 - 10:30)
+
+Stick around with Rachel in Classroom C to talk about TaskManager. You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra.
+
+### HTML/CSS Review (10:30 - 12:00)
+
+Brush up on your HTML and CSS with Josh Mejia in Classroom C.
+
+### HTML/CSS Practice and Homework (1:00 - 3:00)
+
+Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges. 
+
+### Homework
+
+* Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+* CSS Zen Garden
+* Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+
+## 1503
+
+### Staff Introductions (8:30 - 9:00)
+
+Meet the fine faculty of the Turing School of Software and Design.
+
+### Welcome to Turing (9:00 - 12:00)
+
+Meet with Jeff to get yourself acclimated to your new home for the next seven months.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You met the staff. Now, it's time to get to know each other. Lunch is on us.
+
+### How to Learn at Turing (1:00 - 1:30)
+
+Join Jeff in Classroom A to talk about how to get the most out of your time at Turing.
+
+### Computer Setup (1:30 - 3:00)
+
+You are developers now. [Let's get your MacBooks setup accordingly.](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+
+In addition lets make sure you setup:
+
+* Slack desktop app
+* Your correct name on your GitHub account
+* A twitter account if you don't have one
