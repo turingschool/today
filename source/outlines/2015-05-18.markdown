@@ -7,7 +7,7 @@ layout: outline
 
 Welcome, 1505! We're glad you're here. 
 
-### How Posses Work (1:00 - 1:30)
+### How Posses Work (2:00 - 2:30)
 
 Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
 
@@ -23,7 +23,7 @@ Meet with Steve in Classroom B to talk about intermission week assignments and k
 
 [fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
 
-### Project Work Time (10:30 - 12:00 and 1:00 - 2:30)
+### Project Work Time (10:30 - 12:00 and 1:00 - 2:00)
 
 You'll be working in the following groups:
 
@@ -45,7 +45,7 @@ You will work in the following groups:
 
 TBA
 
-### Class Session (1:30 - 2:30)
+### Class Session (1:00 - 2:00)
 
 ## 1503
 
@@ -63,7 +63,7 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
-### HTML/CSS Practice and Homework (1:30 - 2:30)
+### HTML/CSS Practice and Homework (1:00 - 2:00)
 
 Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges. 
 
@@ -91,13 +91,13 @@ Raissa and Daisha will put you to work improving the Turing classrooms & workspa
 
 You met the staff. Now, it's time to get to know each other. Let's meet in Classroom B.
 
-### Posse/Mentor Kickoff (1:00 - 1:30)
-
-Let's get back together in the Big Workspace where Rachel is going to introduce you to Posses.
-
-### How to Learn at Turing (1:30 - 2:30)
+### How to Learn at Turing (1:00 - 2:00)
 
 Join Steve and Jorge in Classroom A to talk about how to get the most out of your time at Turing.
+
+### Posse/Mentor Kickoff (2:00 - 2:30)
+
+Let's get back together in the Big Workspace where Rachel is going to introduce you to Posses.
 
 ### Setup for Work (2:30 - 4:00)
 
