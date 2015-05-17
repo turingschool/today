@@ -67,7 +67,7 @@ Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges
 * CSS Zen Garden
 * Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
 
-## 1503
+## 1505
 
 ### Staff Introductions (8:30 - 9:00)
 
