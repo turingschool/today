@@ -7,6 +7,10 @@ layout: outline
 
 Welcome, 1505! We're glad you're here. 
 
+### Gear Up (9:00 - 10:00)
+
+We'll start in the big workspace with the entire student body.
+
 ### How Posses Work (2:00 - 2:30)
 
 Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
@@ -17,13 +21,13 @@ Everyone should meet in the Big Workspace to talk a little about how Posses shou
 
 ## 1412
 
-### Intermission Week Homework Review and Project Kickoff (9:00 - 10:30)
+### Intermission Week Homework Review and Project Kickoff (10:00 - 11:30)
 
 Meet with Steve in Classroom B to talk about intermission week assignments and kick off the first project of your final module: [FeedEngine][fe].
 
 [fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
 
-### Project Work Time (10:30 - 12:00 and 1:00 - 2:00)
+### Project Work Time (11:30 - 12:00 and 1:00 - 2:00)
 
 You'll be working in the following groups:
 
@@ -35,7 +39,7 @@ By the end of the session, you should have an idea to pitch Steve.
 
 ## 1502
 
-### Understanding Multi-Tenancy (9:00 - 12:00)
+### Understanding Multi-Tenancy (10:00 - 12:00)
 
 Meet with Jorge in Classroom A, and expect the unexpected.
 
@@ -45,27 +49,29 @@ You will work in the following groups:
 
 TBA
 
-### Class Session (1:00 - 2:00)
+### Multi-Tenancy Continued (1:00 - 2:00)
+
+Meet in Classroom B to continue your work from the morning.
 
 ## 1503
 
-### Introduction to Sinatra (9:00 - 9:30)
+### Introduction to Sinatra (10:00 - 10:30)
 
 Meet with Rachel in Classroom C.
 
 Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
 
-### TaskManager Q&A and Review (9:30 - 10:30)
+### TaskManager Q&A and Review (10:30 - 11:00)
 
 Stick around with Rachel in Classroom C to talk about TaskManager. You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra.
 
-### HTML/CSS Review (10:30 - 12:00)
+### HTML/CSS Review (11:00 - 12:00)
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
 ### HTML/CSS Practice and Homework (1:00 - 2:00)
 
-Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges. 
+Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges.
 
 ### Homework
 
@@ -101,7 +107,7 @@ Let's get back together in the Big Workspace where Rachel is going to introduce 
 
 ### Setup for Work (2:30 - 4:00)
 
-Continue with Josh Mejia in Classroom A to work on the following:
+Continue with Mike in Classroom A to work on the following:
 
 * [Get your laptop setup to work](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
 * Install [RubyMine](https://www.jetbrains.com/ruby/)
