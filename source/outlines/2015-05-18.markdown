@@ -11,11 +11,11 @@ Welcome, 1505! We're glad you're here.
 
 We'll start in the big workspace with the entire student body.
 
-### How Posses Work (2:00 - 2:30)
+### How Posses Work (2:30 - 3:00)
 
 Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
 
-### Technical Interview Prep (2:30 - 4:00)
+### Technical Interview Prep (3:00 - 4:00)
 
 1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges.
 
@@ -27,7 +27,7 @@ Meet with Steve in Classroom B to talk about intermission week assignments and k
 
 [fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
 
-### Project Work Time (11:30 - 12:00 and 1:00 - 2:00)
+### Project Work Time (11:30 - 12:00 and 1:00 - 2:30)
 
 You'll be working in the following groups:
 
@@ -49,7 +49,7 @@ You will work in the following groups:
 
 TBA
 
-### Multi-Tenancy Continued (1:00 - 2:00)
+### Multi-Tenancy Continued (1:00 - 2:30)
 
 Meet in Classroom B to continue your work from the morning.
 
@@ -69,7 +69,7 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
-### HTML/CSS Practice and Homework (1:00 - 2:00)
+### HTML/CSS Practice and Homework (1:00 - 2:30)
 
 Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges.
 
@@ -97,15 +97,15 @@ Raissa and Daisha will put you to work improving the Turing classrooms & workspa
 
 You met the staff. Now, it's time to get to know each other. Let's meet in Classroom B.
 
-### How to Learn at Turing (1:00 - 2:00)
+### How to Learn at Turing (1:00 - 2:30)
 
 Join Steve and Mike in Classroom A to talk about how to get the most out of your time at Turing.
 
-### Posse/Mentor Kickoff (2:00 - 2:30)
+### Posse/Mentor Kickoff (2:30 - 3:00)
 
 Let's get back together in the Big Workspace where Rachel is going to introduce you to Posses.
 
-### Setup for Work (2:30 - 4:00)
+### Setup for Work (3:00 - 4:00)
 
 Continue with Mike in Classroom A to work on the following:
 
