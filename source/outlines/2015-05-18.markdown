@@ -7,9 +7,13 @@ layout: outline
 
 Welcome, 1505! We're glad you're here. 
 
-### How Posses Work (3:00 - 4:00)
+### How Posses Work (1:00 - 1:30)
 
-Join Rachel in the big workspace to meet your new posse members and talk about the mentoring process. 
+Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges.
 
 ## 1412
 
@@ -33,21 +37,23 @@ By the end of the session, you should have an idea to pitch Steve.
 
 ### Understanding Multi-Tenancy (9:00 - 12:00)
 
+Meet with Jorge in Classroom A, and expect the unexpected.
+
 Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
 
 You will work in the following groups:
 
 TBA
 
-Meet with Jorge in Classroom A, and expect the unexpected.
+### Class Session (1:30 - 2:30)
 
 ## 1503
 
 ### Introduction to Sinatra (9:00 - 9:30)
 
-Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
-
 Meet with Rachel in Classroom C.
+
+Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
 
 ### TaskManager Q&A and Review (9:30 - 10:30)
 
@@ -57,7 +63,7 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 
-### HTML/CSS Practice and Homework (1:00 - 3:00)
+### HTML/CSS Practice and Homework (1:30 - 2:30)
 
 Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges. 
 
@@ -73,24 +79,35 @@ Meet with Rachel briefly in Classroom C before tackling some HTML/CSS challenges
 
 Meet the fine faculty of the Turing School of Software and Design.
 
-### Welcome to Turing (9:00 - 12:00)
+### Gear Up (9:00 - 10:00)
 
-Meet with Jeff to get yourself acclimated to your new home for the next seven months.
+We'll start in the big workspace with the entire student body.
+
+### Building Turing (10:00 - 12:00)
+
+Raissa and Daisha will put you to work improving the Turing classrooms & workspaces.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-You met the staff. Now, it's time to get to know each other. Lunch is on us.
+You met the staff. Now, it's time to get to know each other. Let's meet in Classroom B.
 
-### How to Learn at Turing (1:00 - 1:30)
+### Posse/Mentor Kickoff (1:00 - 1:30)
 
-Join Jeff in Classroom A to talk about how to get the most out of your time at Turing.
+Let's get back together in the Big Workspace where Rachel is going to introduce you to Posses.
 
-### Computer Setup (1:30 - 3:00)
+### How to Learn at Turing (1:30 - 2:30)
 
-You are developers now. [Let's get your MacBooks setup accordingly.](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+Join Steve and Jorge in Classroom A to talk about how to get the most out of your time at Turing.
 
-In addition lets make sure you setup:
+### Setup for Work (2:30 - 4:00)
 
-* Slack desktop app
-* Your correct name on your GitHub account
+Continue with Josh Mejia in Classroom A to work on the following:
+
+* [Get your laptop setup to work](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+* Install [RubyMine](https://www.jetbrains.com/ruby/)
+* Install the [Slack desktop app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
+* Your full and correct name on your GitHub account
 * A twitter account if you don't have one
+* A linkedIn account if you don't have one
+
+Then finally [fill in this form](https://docs.google.com/forms/d/1Wq42xeg82ewXHye92TdCfDHRQrK-jmpIWIKi9kgInNk/viewform?usp=send_form).
