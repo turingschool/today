@@ -1,0 +1,91 @@
+---
+title: 20150519
+layout: outline
+---
+
+## All
+
+Today is Pete Townshend's birthday!
+
+### Warm Up (8:30 - 9:00)
+
+You have new posse members! Make sure to invite them to Screenhero. And then teach them how to use Screenhero.
+
+When you're done, show them [Exercism](http://exercism.io).
+
+
+
+## 1412
+
+### Test-Driven JavaScript (9:00 - 12:00)
+
+Join Steve in Le Big Workspace for Test-Driven JavaScript
+
+### jQuery Revisited (1:00 - 2:30)
+
+Steve has you in Classroom A to revisit jQuery. Don't forget to bring your semicolons.
+
+### IdeaBox Work Time (2:30 - 4:00)
+
+Work work.
+
+
+## 1502
+
+### Traversing the DOM with jQuery (9:00 - 10:30)
+
+Sam has you in Classroom B. You'll be working with the DOM. 
+
+### DOM Events with jQuery (10:30 - 12:00)
+
+Stay right where you are. Now that you can traverse the DOM, you'll be doing events. 
+
+### Project Check-ins and Work Time (10:30 - 12:00)
+
+If it's not in production, it didn't happen. 
+
+
+## 1503
+
+### HTML/CSS Homework Reviewed (9:00 - 9:30)
+
+Go over your styles and things with Josh in Classroom C.
+
+
+### How the Web Works (9:30 - 11:00)
+
+Learn about how this series of tubes called the Web works with Josh in Classroom C.
+
+### What is Rack? (11:00 - 12:00)
+
+Baby don't hurt me, don't hurt me, no more. 
+
+With your favoritest person ever. In your favoritest classroom ever.
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C is the place to be, as you learn how to C-R-U-D. 
+
+Nothing rhymes with Rachel.
+
+
+## 1505
+
+### Strings, Integers, and Control Flow (9:00 - 10:30)
+
+Mike will take you down a wonderful journey in Classroom A. 
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/string_integers_and_control_flow.markdown)
+
+
+### Problems, Solutions, and Algorithms (10:30 - 12:00)
+
+Horace and Mike will be talking about how to solve things with your brain. Again in classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown)
+
+### Scavenger Hunt (1:00 - 4:00)
+
+The first rule of the Scavenger Hunt is that we don't talk about the Scavenger Hunt.
+
+The second rule of the Scavenger Hunt is go find Raissa.
