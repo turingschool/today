@@ -23,6 +23,33 @@ Everyone should meet in the Big Workspace to talk a little about how Posses shou
 
 1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges. We'll be working on [this challenge](https://github.com/turingschool/technical_puzzles/blob/master/possible_sum_sequences.markdown) to find possible sum sequences for a set of numbers.
 
+We'll be using the following pairs for the exercise:
+
+* Kyra Steenbock, Rich Shea
+* Thomas Leskin, Brett Grigsby
+* Kyle Henson, Markus Olsen
+* Lev Kravinsky, Margarett Ly
+* Eugene Khanutin, Justin Holmes
+* Rob Cornell, Andrew Carmer
+* Tess Griffin, Patrick Medaugh
+* Sally MacNicholas, Andrew Fink
+* Josh Cass, Lori Culberson
+* Max Tedford, Tracy Caruso
+* Dave Maurer, Charles Valentino Espinoza
+* Drew Reynolds, David Daniel
+* DJ Greenfield, Michelle Golle
+* Miriam Moser, Mihir Parikh
+* Edward McCarthy, Dustin Gault
+* Erik Butcher, Dmitry Vizersky
+* Kit Pearson, Austin Wood
+* Eric Dowty, Jeffrey Gu
+* Whitney Hiemstra, Morgan Miller
+* Trey Tomlinson, Vanessa Gomez
+* Paul Grever, Kenny Chen
+* Kristina Brown, Chelsea Worrel
+* Minnie Lee, Michael Merrill
+* __wildcard__: Rick Bacci
+
 ## 1412
 
 ### Intermission Week Homework Review and Project Kickoff (10:00 - 12:00)
