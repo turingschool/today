@@ -11,6 +11,10 @@ Welcome, 1505! We're glad you're here.
 
 We'll start in the big workspace with the entire student body.
 
+After an opening conversation, we'll use the [Coding Don't Cut It Anymore](https://github.com/turingschool/gear-up/blob/master/coding_dont_cut_it_anymore.markdown) exercise.
+
+Then we'll wrap with a short wrap up all together.
+
 ### How Posses Work (2:30 - 3:00)
 
 Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
