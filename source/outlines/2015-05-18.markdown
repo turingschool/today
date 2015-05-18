@@ -49,6 +49,7 @@ Meet with Jorge in Classroom A and learn how to build a platform that handles mu
 
 * You can download the slides [here](https://www.dropbox.com/s/7so7sacihvoelfs/Turing%20-%20Understanding%20Multitenancy.key?dl=0).
 * You can download the notes [here](https://www.dropbox.com/s/kpm2ddj6k08hzrk/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0).
+* You can watch the session [here](https://vimeo.com/128198524).
 
 ### The Pivot Kickoff (1:00 - 2:00)
 
