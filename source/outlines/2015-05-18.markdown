@@ -61,9 +61,10 @@ Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ru
 You will work in the following groups:
 
 * Patrick's codebase - Eric, Patrick, Tom
-* Kristina's codebase - Kristina, Kenny, Andrew
-* Mihir's codebase - Mihir, Jack, Michelle, Tess
-* Kyle's codebase - Minnie, Tracy, Dave, Kyle
+* Kristina's codebase - Kristina, Kenny, Lori
+* Mihir's codebase - Mihir, Jack, Tess
+* Kyle's codebase - Minnie, Tracy, Kyle
+* Andrew's codebase - Andrew, Michelle, Dave
 
 ## 1503
 
