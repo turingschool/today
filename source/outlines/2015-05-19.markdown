@@ -29,7 +29,6 @@ Steve has you in Classroom A to revisit jQuery. Don't forget to bring your semic
 
 Work work.
 
-
 ## 1502
 
 ### Traversing the DOM with jQuery (9:00 - 10:30)
@@ -42,33 +41,23 @@ Stay right where you are. Now that you can traverse the DOM, you'll be doing eve
 
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
-If it's not in production, it didn't happen.
+For your project check-ins remember to bring your wireframes, your guest user stories, and have your app deployed on Heroku.
 
 Client Check Ins (with Jorge)
 
-* (1:00 - 1:30) - Eric, Patrick, Tom
-
-* (1:30 - 2:00) - Kristina, Kenny, Lori
- 
-* (2:00 - 2:30) - Mihir, Jack, Tess
-
-* (2:30 - 3:00) - Minnie, Tracy, Kyle
-
-* (3:00 - 3:30) - Andrew, Michelle, Dave
-
+* 1:00 - 1:30: Eric, Patrick, Tom
+* 1:30 - 2:00: Kristina, Kenny, Lori
+* 2:00 - 2:30: Mihir, Jack, Tess
+* 2:30 - 3:00: Minnie, Tracy, Kyle
+* 3:00 - 3:30: Andrew, Michelle, Dave, Fred
 
 Technical Check Ins (with Sam)
 
-* (1:30 - 2:00) - Eric, Patrick, Tom
-
-* (2:00 - 2:30) - Kristina, Kenny, Lori
- 
-* (2:30 - 3:00) - Mihir, Jack, Tess
-
-* (3:00 - 3:30) - Minnie, Tracy, Kyle
-
-* (3:30 - 4:00) - Andrew, Michelle, Dave
-
+* 1:30 - 2:00: Eric, Patrick, Tom
+* 2:00 - 2:30: Kristina, Kenny, Lori
+* 2:30 - 3:00: Mihir, Jack, Tess
+* 3:00 - 3:30: Minnie, Tracy, Kyle
+* 3:30 - 4:00: Andrew, Michelle, Dave, Fred
 
 ## 1503
 
