@@ -109,6 +109,17 @@ Horace and Mike will be talking about how to solve things with your brain. Again
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown)
 
+We'll be using the following small groups for an exercise during this lesson:
+
+* Justin Pease, Lovisa Svallingson, Max Millington
+* Justin Holzmann, Jerrod Paul Junker, Mike Reeves
+* David Shim, Mitch Ashby, Sebastian Abondano
+* Drew Conly, Rachel Parri, Jason Wright
+* Rebekah Sosa, Raymond Newby, David Stinnette
+* Tracy Contreras, Marla Brizel, Jai Misra
+* Adam Caron, Samson Brock, Michael Dorrance
+* Alex Tideman, Nicole Hall
+
 ### Scavenger Hunt (1:00 - 4:00)
 
 The first rule of the Scavenger Hunt is that we don't talk about the Scavenger Hunt.
