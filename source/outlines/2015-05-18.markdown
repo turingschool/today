@@ -68,8 +68,6 @@ You will work in the following groups:
 
 ## 1503
 
-### Introduction to Sinatra (10:00 - 10:30)
-
 ### HTML/CSS Review (10:00 - 12:00)
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
