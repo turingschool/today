@@ -64,7 +64,7 @@ You will work in the following groups:
 * Kristina's codebase - Kristina, Kenny, Lori
 * Mihir's codebase - Mihir, Jack, Tess
 * Kyle's codebase - Minnie, Tracy, Kyle
-* Andrew's codebase - Andrew, Michelle, Dave
+* Andrew's codebase - Andrew, Michelle, Dave, Fred
 
 ## 1503
 
