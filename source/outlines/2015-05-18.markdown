@@ -21,7 +21,7 @@ Everyone should meet in the Big Workspace to talk a little about how Posses shou
 
 ### Technical Interview Prep (3:00 - 4:00)
 
-1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges.
+1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges. We'll be working on [this challenge](https://github.com/turingschool/technical_puzzles/blob/master/possible_sum_sequences.markdown) to find possible sum sequences for a set of numbers.
 
 ## 1412
 
