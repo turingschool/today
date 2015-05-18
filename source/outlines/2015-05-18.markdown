@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-Welcome, 1505! We're glad you're here. 
+Welcome, 1505! We're glad you're here.
 
 ### Gear Up (9:00 - 10:00)
 
@@ -23,37 +23,42 @@ Everyone should meet in the Big Workspace to talk a little about how Posses shou
 
 ## 1412
 
-### Intermission Week Homework Review and Project Kickoff (10:00 - 11:30)
+### Intermission Week Homework Review and Project Kickoff (10:00 - 12:00)
 
-Meet with Steve in Classroom B to talk about intermission week assignments and kick off the first project of your final module: [FeedEngine][fe].
+Join Steve and Horace in Classroom B to kick off the module.
 
-[fe]: http://tutorials.jumpstartlab.com/projects/feed_engine/feed_engine.html
+We'll review the [intermission assignments](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown), most specifically:
 
-### Project Work Time (11:30 - 12:00 and 1:00 - 2:30)
+* [Rebecca Murphey's JavaScript Assessment](https://github.com/rmurphey/js-assessment)
+* [Sandi Metz's Rules for Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers)
+* [Speaking JavaScript](http://speakingjs.com/es5/)
 
-You'll be working in the following groups:
+After we bond over the intermission homework, we'll kick off our first mini-project: Idea Box 2.0.
 
-TBA
+### Project Work Time (1:00 - 2:30)
 
-By the end of the session, you should have an idea to pitch Steve.
-
-**Homework**: Do some further investigation on your approved idea. Look at the APIs. Will you be able to build your project with the APIs available? If not, you'll need to let Steve know in the morning if you need to pivot.
+Those ideas aren't going to box themselves. You must be the one to box them. Go on and box those ideas.
 
 ## 1502
 
 ### Understanding Multi-Tenancy (10:00 - 12:00)
 
-Meet with Jorge in Classroom A, and expect the unexpected.
+Meet with Jorge in Classroom A and learn how to build a platform that has multiple businesses or tenants.
 
-Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
+### The Pivot Kickoff (1:00 - 2:00)
+
+Meet with Jorge in Classroom B to kickoff `The Pivot`.
+
+Monday morning. Your client shows up. "We got some funding", he says while putting his MBA feet on the table. "The Dinner Dash was great, but we need to change the Business Model". Your eyes widen in terror. "You have two weeks before TechCrunch Disrupt". You remember the broken tests, the fat controllers, the logic in the views. Your heart beats faster. "Good luck". He gets up, puts on his designer hoodie, and leaves the pre-reqs on the table.
+
+Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown).
 
 You will work in the following groups:
 
-TBA
-
-### Multi-Tenancy Continued (1:00 - 2:30)
-
-Meet in Classroom B to continue your work from the morning.
+* Patrick's codebase - Eric, Patrick, Tom
+* Kristina's codebase - Kristina, Kenny, Andrew
+* Mihir's codebase - Mihir, Jack, Michelle, Tess
+* Kyle's codebase - Minnie, Tracy, Dave, Kyle
 
 ## 1503
 
@@ -70,6 +75,7 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 ### HTML/CSS Review (11:00 - 12:00)
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_and_css_recap.markdown).
 
 ### HTML/CSS Practice and Homework (1:00 - 2:30)
 
