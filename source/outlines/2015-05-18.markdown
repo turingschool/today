@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-Welcome, 1505! We're glad you're here. 
+Welcome, 1505! We're glad you're here.
 
 ### Gear Up (9:00 - 10:00)
 
@@ -41,17 +41,22 @@ By the end of the session, you should have an idea to pitch Steve.
 
 ### Understanding Multi-Tenancy (10:00 - 12:00)
 
-Meet with Jorge in Classroom A, and expect the unexpected.
+Meet with Jorge in Classroom A and learn how to build a platform that has multiple businesses or tenants.
 
-Time to turn your Dinner Dashes in "another direction." Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown) (aka "Oh my God, why?").
+### The Pivot Kickoff (1:00 - 2:00)
+
+Meet with Jorge in Classroom B to kickoff `The Pivot`.
+
+Monday morning. Your client shows up. "We got some funding", he says while putting his MBA feet on the table. "The Dinner Dash was great, but we need to change the Business Model". Your eyes widen in terror. "You have two weeks before TechCrunch Disrupt". You remember the broken tests, the fat controllers, the logic in the views. Your heart beats faster. "Good luck". He gets up, puts on his designer hoodie, and leaves the pre-reqs on the table.
+
+Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown).
 
 You will work in the following groups:
 
-TBA
-
-### Multi-Tenancy Continued (1:00 - 2:30)
-
-Meet in Classroom B to continue your work from the morning.
+* Eric, Patrick, Tom
+* Kristina, Kenny, Andrew
+* Mihir, Jack, Michelle, Tess
+* Minnie, Tracy, Dave, Kyle
 
 ## 1503
 
