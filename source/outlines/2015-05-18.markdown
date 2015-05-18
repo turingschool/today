@@ -68,6 +68,7 @@ Stick around with Rachel in Classroom C to talk about TaskManager. You need [thi
 ### HTML/CSS Review (11:00 - 12:00)
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_and_css_recap.markdown).
 
 ### HTML/CSS Practice and Homework (1:00 - 2:30)
 
