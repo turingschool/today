@@ -1,0 +1,105 @@
+---
+title: 20150520
+layout: outline
+---
+
+## All
+
+Today in History, Amelia Earhart takes off to start the world's first solo nonstop flight across the Atlantic Ocean by a female pilot.
+
+### Warm Up (8:30 - 9:00)
+
+In today's edition of the Warm Up, you'll be doing a logic problem as a change of place.
+Again, five Posse Points for a successful completion.
+
+[Clicky Click](http://cl.ly/3W390s2H2H0m)
+
+### Recitation - Strings, Integers and Control Flow (4:15 - 5:30ish)
+
+During the week, Mike will be reteaching a Module 1 class that occurred the day before after wrap-up.
+This will give students a second exposure to material, and possibly go further in depth in the topic. 
+Students from ALL COHORTS are welcome to keep those Ruby skills sharp. 
+
+## 1412
+
+### Seeding a Large Dataset (9:00 - 10:00)
+
+Small amounts of data is for chumps. Get ye to Classroom A where Horace takes you on a magic carpet ride.
+
+### Arel and Advanced ActiveRecord (10:00 - 12:00)
+
+Horace is going to show you how to bend ActiveRecord to your will in Classroom A.
+
+### Ideabox Work Time (1:00 - 4:00)
+
+Feel free to beatbox to yourself quietly as you ideabox.
+
+
+## 1502
+
+### JavaScript in Rails (9:00 - 10:30)
+
+Step 1: Something something Turbolinks.
+
+Step 2: Semicolons.
+
+Step 3: Profit.
+
+Get ready for Sam Time in Classroom B.
+
+### Testing in JavaScript (10:30 - 12:00)
+
+Continue with Sam in Classroom B as you learn to put a test on it.
+
+### Project Work Time (1:00 - 4:00)
+
+You should be almost done with your Pivot at this point. 
+
+
+## 1503
+
+### CRUD Homework Reviewed (9:00 - 9:30)
+
+Rachel will be going over the homework you did in Classroom C.
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+Stick with Rachel in Classroom C as you learn how to start model testing in Sinatra. 
+
+### Nokogiri (1:00 - 1:30)
+
+[Nokogiri](http://en.wikipedia.org/wiki/Japanese_saw) is a kind of Japanese saw. See how it applies to programming with Rachel in Classroom C.
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
+
+A [Capybara](http://en.wikipedia.org/wiki/Capybara) is the largest rodent in the world. You'll learn how to do some acceptance testing in it. This is how you 
+make sure that what you're building is actually what you set out to build.
+
+Rachel. Clasroom C. You know the routine.
+
+
+## 1505
+
+### Arrays and Hashes (9:00 - 11:00)
+
+Why are arrays and hashes important? Because you never stop using them. Ever. Jeff and Mike show you your first data structures in the Big Workspace.
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
+
+### Exploring Arrays and Hashes (11:00 - 11:00)
+
+Mike will stick around in the Big Workspace to work with you on [collections](https://github.com/turingschool/challenges/blob/master/collections.markdown)
+
+### How Testing Works (1:00 - 3:00)
+
+Testing is so important, and here's your first class on it. Learn how it works with Josh and Mike in Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+
+### Deaf Grandma (1:00 - 3:00)
+
+It's all about the [Deaf Grandma](https://github.com/turingschool/challenges/blob/master/deaf_grandma.markdown) Mike will be in Classroom A.
+
+You will be working in the following pairs:
+
+
+
