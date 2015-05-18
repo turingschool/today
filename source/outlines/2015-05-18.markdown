@@ -56,7 +56,7 @@ You will work in the following groups:
 * Eric's codebase - Eric, Patrick, Tom
 * Kristina's codebase - Kristina, Kenny, Andrew
 * Mihir's codebase - Mihir, Jack, Michelle, Tess
-* Minnie's codebase - Minnie, Tracy, Dave, Kyle
+* Patrick's codebase - Minnie, Tracy, Dave, Kyle
 
 ## 1503
 
