@@ -1,0 +1,113 @@
+---
+title: 20150520
+layout: outline
+---
+
+## All
+
+The Notorious B.I.G. was born today in 1972.
+
+### Warm Up (8:30 - 9:00)
+
+[Logic Problems](http://cl.ly/2e42381b1O3G) for DAYS.
+
+Submit your answers to #warmup-answers with the name of your posse to earn 20 points.
+
+Answers must be submitted by 9:00.
+
+### Recitation - Arrays and Hashes - (4:15 - 5:30)
+
+
+
+## 1412
+
+### IdeaBox 2.0 Peer Review (9:00 - 10:00)
+
+Meet in Classroom B and tell each other how awesome or how not awesome your code is.
+
+### IdeaBox 2.0 Recap and Refactor (10:00 - 11:30)
+
+Stay in Classroom B with Steve and go over what you've just done.
+
+### Re-Pivot Kickoff (11:30 - 12:00)
+
+Just you wait until you find out what the Re-Pivot is. It will be GLORIOUS.
+Steve will tell you what it's all about.
+
+### Re-Pivot Work Time (1:00 - 4:00)
+
+How many pivots could a pivot pivot if a pivot could pivot pivots?
+
+
+## 1502
+
+### Pivot Work Time (9:00 - 12:00)
+
+It's really confusing that there's a Pivot project and a Re-Pivot project happening
+at the very same time. Work on your pivot. You can do it. I believe in you.
+
+### Pivot Work Time and Check-Ins (1:00 - 4:00)
+
+Client Check Ins (with Jorge)
+
+* 1:00 - 1:30: Eric, Patrick, Tom
+* 1:30 - 2:00: Kristina, Kenny, Lori
+* 2:00 - 2:30: Mihir, Jack, Tess
+* 2:30 - 3:00: Minnie, Tracy, Kyle
+* 3:00 - 3:30: Andrew, Michelle, Dave, Fred
+
+Technical Check Ins (with Sam)
+
+* 1:30 - 2:00: Eric, Patrick, Tom
+* 2:00 - 2:30: Kristina, Kenny, Lori
+* 2:30 - 3:00: Mihir, Jack, Tess
+* 3:00 - 3:30: Minnie, Tracy, Kyle
+* 3:30 - 4:00: Andrew, Michelle, Dave, Fred
+
+## 1503
+
+### SQL (9:00 - 10:00)
+
+You're in Classroom C with Josh as you learn about SQL, Structured Query Language.
+
+### Sequel (10:00 - 12:00)
+
+Yes, there is a difference between SQL and Sequel. Stay in Classroom C and we'll let you in on the secret.
+
+### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+We're moving to Classroom B so you can learn all about how to take that Task Manager and make it something SPECIAL.
+
+
+## 1505
+
+### Collections Review (9:00 - 9:30)
+
+Hit Classroom A where you'll go over your homework with Mike.
+
+### Object-Oriented Programming (9:30 - 12:00)
+
+Stay in Classroom A. Jeff will be teaching you about classes, methods and all the things
+you need to know about Object Oriented Programming.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+
+Food for thought: If statements aren't object-oriented.
+
+### Week 1 Diagnostic (1:00 - 2:00)
+
+Details to Come. Hang around Classroom A, though.
+
+### Spiraling Design and Tests (2:00 - 3:30)
+
+You got a bit of this with Horace earlier in the week. Now we go further into depth. Classroom A.
+
+### Starting Fibber (3:30 - 4:00)
+
+This is your first project, due on Monday. Mike will kick it off for you in Classroom A.
+
+Bring all of your questions.
+
+Do great things.
+
+
