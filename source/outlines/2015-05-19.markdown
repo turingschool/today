@@ -31,7 +31,9 @@ Join Steve in Le Big Workspace for Test-Driven JavaScript.
 
 Steve has you in Classroom A to revisit jQuery. Don't forget to bring your semicolons.
 
-### IdeaBox Work Time (2:30 - 4:00)
+This class is optional.
+
+### IdeaBox Work Time (1:00 - 4:00)
 
 Work work. Box some ideas. Maybe even idea some boxes.
 
