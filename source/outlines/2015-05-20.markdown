@@ -101,14 +101,14 @@ It's all about the [Deaf Grandma](https://github.com/turingschool/challenges/blo
 
 You will be working in the following pairs:
 
-* Lovisa Svallingson & Nicole Hall
-* Mitch Ashby & Tracy Contreras
-* Raymond Newby & Mike Reeves
-* Jason Wright & Samson Brock
-* Justin Holzmann & Justin Pease
-* Michael Dorrance & Rachel Parri
-* David Shim & Jai Misra
-* Sebastian Abondano & Max Millington
-* Jerrod Paul Junker & Drew Conly
-* David Stinnette & Alex Tideman
-* Rebekah Sosa & Marla Brizel & Adam Caron
+* David Shim & Adam Caron
+* Alex Tideman & Michael Dorrance
+* Rachel Parri & Samson Brock
+* Drew Conly & Sebastian Abondano
+* Jai Misra & Jason Wright
+* Lovisa Svallingson & Jerrod Paul Junker
+* Tracy Contreras & Justin Pease
+* Rebekah Sosa & Mike Reeves
+* Nicole Hall & Max Millington
+* Mitch Ashby & David Stinnette
+* Justin Holzmann & Marla Brizel
