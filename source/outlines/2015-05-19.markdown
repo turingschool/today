@@ -11,17 +11,21 @@ Today is Pete Townshend's birthday!
 
 You have new posse members! Make sure to invite them to Screenhero. And then teach them how to use Screenhero.
 
-Get your new cohort members set up on [Exercism](http://exercism.io) and pair with them on the first one. 
+Get your new cohort members set up on [Exercism](http://exercism.io) and pair with them on the first one.
 
 Post your solutions along with your posse name in #warmup-answers in order to earn 20 Posse Points.
-
 
 
 ## 1412
 
 ### Test-Driven JavaScript (9:00 - 12:00)
 
-Join Steve in Le Big Workspace for Test-Driven JavaScript
+Join Steve in Le Big Workspace for Test-Driven JavaScript.
+
+* [Repository and Sample Exercises](https://github.com/turingschool-examples/testing-javascript)
+* [Mocha.js](http://mochajs.org/)
+* [Sinon.js](http://sinonjs.org/)
+* [Teaspoon](https://github.com/modeset/teaspoon)
 
 ### jQuery Revisited (1:00 - 2:30)
 
@@ -29,7 +33,7 @@ Steve has you in Classroom A to revisit jQuery. Don't forget to bring your semic
 
 ### IdeaBox Work Time (2:30 - 4:00)
 
-Work work.
+Work work. Box some ideas. Maybe even idea some boxes.
 
 ## 1502
 
