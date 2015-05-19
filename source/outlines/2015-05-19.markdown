@@ -92,7 +92,7 @@ Check out [this article](http://hawkins.io/2012/07/rack_from_the_beginning/) if 
 
 Classroom C is the place to be, as you learn how to C-R-U-D.
 
-Nothing rhymes with Rachel.
+Nothing rhymes with Rachel. But you can find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown). 
 
 
 ## 1505
