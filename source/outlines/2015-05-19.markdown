@@ -76,6 +76,8 @@ Baby don't hurt me, don't hurt me, no more.
 
 With your favoritest person ever. In your favoritest classroom ever.
 
+Let's hack [Rack Lobster](https://github.com/turingschool-examples/rack-lobster).
+
 ### CRUD in Sinatra Workshop (1:00 - 4:00)
 
 Classroom C is the place to be, as you learn how to C-R-U-D.
