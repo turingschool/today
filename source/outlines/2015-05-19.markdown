@@ -121,8 +121,24 @@ We'll be using the following small groups for an exercise during this lesson:
 * Adam Caron, Samson Brock, Michael Dorrance
 * Alex Tideman, Nicole Hall
 
-### Scavenger Hunt (1:00 - 4:00)
+### EventManager (1:00 - 4:00)
 
-The first rule of the Scavenger Hunt is that we don't talk about the Scavenger Hunt.
+The Scavenger Hunt will have to wait for another day.
 
-The second rule of the Scavenger Hunt is go find Raissa.
+This afternoon work through the introductory/exposure tutorial [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+You should write your own code, but you can use the following partner as a first-line-of-questioning when you run into problems:
+
+* Tracy Contreras & Jai Misra
+* Samson Brock & David Shim
+* Sebastian Abondano & David Stinnette
+* Michael Dorrance & Jerrod Paul Junker
+* Lovisa Svallingson & Rebekah Sosa
+* Drew Conly & Max Millington
+* Rachel Parri & Mitch Ashby
+* Nicole Hall & Adam Caron
+* Alex Tideman & Jason Wright
+* Mike Reeves & Justin Holzmann
+* Justin Pease & Marla Brizel
+
+Mike Dao will be in the kitchen area of Classroom A if you get really stuck.
