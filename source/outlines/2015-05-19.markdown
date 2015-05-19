@@ -78,6 +78,8 @@ With your favoritest person ever. In your favoritest classroom ever.
 
 Let's hack [Rack Lobster](https://github.com/turingschool-examples/rack-lobster).
 
+Check out [this article](http://hawkins.io/2012/07/rack_from_the_beginning/) if you are interested in diving deeper.
+
 ### CRUD in Sinatra Workshop (1:00 - 4:00)
 
 Classroom C is the place to be, as you learn how to C-R-U-D.
