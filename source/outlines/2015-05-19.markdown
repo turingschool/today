@@ -11,7 +11,9 @@ Today is Pete Townshend's birthday!
 
 You have new posse members! Make sure to invite them to Screenhero. And then teach them how to use Screenhero.
 
-Get your new cohort members set up on [Exercism](http://exercism.io) and pair with them on the first one. Five Posse Points for completing it.
+Get your new cohort members set up on [Exercism](http://exercism.io) and pair with them on the first one. 
+
+Post your solutions along with your posse name in #warmup-answers in order to earn 20 Posse Points.
 
 
 
