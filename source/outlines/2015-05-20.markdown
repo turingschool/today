@@ -28,9 +28,7 @@ Classroom A after Wrap-Up.
 
 ### Load Testing and Production Performance Analysis (9:00 - 12:00)
 
-Join Horace in Classroom A to look at some techniques for scaling up our apps.
-
-Horace is going to show you how to bend ActiveRecord to your will in Classroom A.
+Join Horace in Classroom A to look at some techniques for [scaling up our apps](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown).
 
 ### Ideabox Work Time (1:00 - 4:00)
 
