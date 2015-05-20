@@ -101,7 +101,7 @@ Testing is so important, and here's your first class on it. Learn how it works w
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-### Deaf Grandma (1:00 - 3:00)
+### Deaf Grandma (3:00 - 4:00)
 
 It's all about the [Deaf Grandma](https://github.com/turingschool/challenges/blob/master/deaf_grandma.markdown) Mike will be in Classroom A.
 
