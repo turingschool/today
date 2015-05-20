@@ -17,8 +17,8 @@ THIRTY Posse Points for a successful completion. Remember to post it in #warmup-
 ### Recitation - Strings, Integers and Control Flow (4:15 - 5:30ish)
 
 During the week, Mike will be reteaching a Module 1 class that occurred the day before after wrap-up.
-This will give students a second exposure to material, and possibly go further in depth in the topic. 
-Students from ALL COHORTS are welcome to attend to keep those Ruby skills sharp. 
+This will give students a second exposure to material, and possibly go further in depth in the topic.
+Students from ALL COHORTS are welcome to attend to keep those Ruby skills sharp.
 
 Today, we are doing a quick overview of strings and then going deep and exploring some of the methods available to Strings.
 
@@ -53,7 +53,7 @@ Continue with Sam in Classroom B as you learn to put a test on it.
 
 ### Project Work Time (1:00 - 4:00)
 
-You should be almost done with your Pivot at this point. 
+You should be almost done with your Pivot at this point.
 
 
 ## 1503
@@ -64,15 +64,15 @@ Rachel will be going over the homework you did in Classroom C.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Stick with Rachel in Classroom C as you learn how to start model testing in Sinatra. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
+Stick with Rachel in Classroom C as you learn how to start model testing in Sinatra. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown).
 
 ### Nokogiri (1:00 - 1:30)
 
-[Nokogiri](http://en.wikipedia.org/wiki/Japanese_saw) is a kind of Japanese saw. See how it applies to programming with Rachel in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
+[Nokogiri](http://en.wikipedia.org/wiki/Japanese_saw) is a kind of Japanese saw. See how it applies to programming with Rachel in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown).
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-A [Capybara](http://en.wikipedia.org/wiki/Capybara) is the largest rodent in the world. You'll learn how to do some acceptance testing in it. This is how you make sure that what you're building is actually what you set out to build. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown). 
+A [Capybara](http://en.wikipedia.org/wiki/Capybara) is the largest rodent in the world. You'll learn how to do some acceptance testing in it. This is how you make sure that what you're building is actually what you set out to build. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
 Rachel. Clasroom C. You know the routine.
 
@@ -90,7 +90,9 @@ Mike will stick around in the Big Workspace to work with you on [collections](ht
 
 ### How Testing Works (1:00 - 3:00)
 
-Testing is so important, and here's your first class on it. Learn how it works with Josh and Mike in Classroom A.
+Testing is so important, and here's your first class on it.
+Learn how it works with Josh and Mike in Classroom A.
+[Here](https://github.com/JoshCheek/how-to-test) is the material we went through!
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
