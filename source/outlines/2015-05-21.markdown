@@ -74,14 +74,21 @@ Technical Check Ins (with Sam)
 
 You're in Classroom C with Josh as you learn about SQL, Structured Query Language.
 
+Be sure to work through the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
+
 ### Sequel (10:00 - 12:00)
 
 Yes, there is a difference between SQL and Sequel. Stay in Classroom C and we'll let you in on the secret.
+
+Work through [Getting Started with Sequel](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
+
+Review and keep this [cheatsheet](http://sequel.jeremyevans.net/rdoc/files/doc/cheat_sheet_rdoc.html) handy.
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
 We're moving to Classroom B so you can learn all about how to take that Task Manager and make it something SPECIAL.
 
+Remember that cheatsheet from above? Get ready to put it to use as we introduce the Hot Seat where you will live code for points!
 
 ## 1505
 
