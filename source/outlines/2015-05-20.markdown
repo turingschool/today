@@ -64,16 +64,15 @@ Rachel will be going over the homework you did in Classroom C.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Stick with Rachel in Classroom C as you learn how to start model testing in Sinatra. 
+Stick with Rachel in Classroom C as you learn how to start model testing in Sinatra. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
 ### Nokogiri (1:00 - 1:30)
 
-[Nokogiri](http://en.wikipedia.org/wiki/Japanese_saw) is a kind of Japanese saw. See how it applies to programming with Rachel in Classroom C.
+[Nokogiri](http://en.wikipedia.org/wiki/Japanese_saw) is a kind of Japanese saw. See how it applies to programming with Rachel in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-A [Capybara](http://en.wikipedia.org/wiki/Capybara) is the largest rodent in the world. You'll learn how to do some acceptance testing in it. This is how you 
-make sure that what you're building is actually what you set out to build.
+A [Capybara](http://en.wikipedia.org/wiki/Capybara) is the largest rodent in the world. You'll learn how to do some acceptance testing in it. This is how you make sure that what you're building is actually what you set out to build. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown). 
 
 Rachel. Clasroom C. You know the routine.
 
