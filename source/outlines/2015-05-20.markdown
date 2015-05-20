@@ -26,13 +26,9 @@ Classroom A after Wrap-Up.
 
 ## 1412
 
-### Seeding a Large Dataset (9:00 - 10:00)
+### Load Testing and Production Performance Analysis (9:00 - 12:00)
 
-Small amounts of data is for chumps. Get ye to Classroom A where Horace takes you on a magic carpet ride.
-
-[Related](https://www.youtube.com/watch?v=2sB7_w9fCvA)
-
-### Arel and Advanced ActiveRecord (10:00 - 12:00)
+Join Horace in Classroom A to look at some techniques for scaling up our apps.
 
 Horace is going to show you how to bend ActiveRecord to your will in Classroom A.
 
