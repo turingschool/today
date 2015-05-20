@@ -85,7 +85,7 @@ Rachel. Clasroom C. You know the routine.
 Why are arrays and hashes important? Because you never stop using them. Ever. Jeff and Mike show you your first data structures in the Big Workspace.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
-### Exploring Arrays and Hashes (11:00 - 11:00)
+### Exploring Arrays and Hashes (11:00 - 12:00)
 
 Mike will stick around in the Big Workspace to work with you on [collections](https://github.com/turingschool/challenges/blob/master/collections.markdown)
 
