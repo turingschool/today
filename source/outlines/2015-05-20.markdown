@@ -20,6 +20,8 @@ During the week, Mike will be reteaching a Module 1 class that occurred the day 
 This will give students a second exposure to material, and possibly go further in depth in the topic. 
 Students from ALL COHORTS are welcome to attend to keep those Ruby skills sharp. 
 
+Today, we are doing a quick overview of strings and then going deep and exploring some of the methods available to Strings.
+
 Classroom A after Wrap-Up.
 
 ## 1412
