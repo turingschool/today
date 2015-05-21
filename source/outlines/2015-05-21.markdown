@@ -119,6 +119,6 @@ This is your first project, due on Monday. Mike will kick it off for you in Clas
 
 Bring all of your questions.
 
-Do great things.
+[Do great things.](https://github.com/turingschool/challenges/blob/master/fibber.markdown)
 
 
