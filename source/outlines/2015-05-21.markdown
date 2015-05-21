@@ -15,7 +15,8 @@ Submit your answers to #warmup-answers with the name of your posse to earn 20 po
 
 Answers must be submitted by 9:00.
 
-### Recitation - Arrays and Hashes - (4:15 - 5:30)
+### Recitation - Arrays and Hashes/OO Programming - (4:15 - 5:30)
+Classroom A.
 
 
 
@@ -33,6 +34,8 @@ Stay in Classroom B with Steve and go over what you've just done.
 
 Just you wait until you find out what the Re-Pivot is. It will be GLORIOUS.
 Steve will tell you what it's all about.
+
+Teams:
 
 * Markus Olsen & Jeffrey Gu & Austin Wood & Charles Valentino Espinoza
 * Dustin Gault & Edward McCarthy & DJ Greenfield & Rich Shea
