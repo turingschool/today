@@ -53,7 +53,7 @@ We'll begin covering them on a regular basis (as soon as Steve gets back from JS
 ### The Scale Up Kickoff (1:00 - 1:30)
 
 In this project, you'll be given a multi-tenant e-commerce site, and asked
-to Pivot it into an Online Ordering platform for a local restaurant. HA!
+to pivot it into an online ordering platform for a local restaurant. HA!
 
 [The Scale Up](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
 
