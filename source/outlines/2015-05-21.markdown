@@ -19,18 +19,38 @@ Answers must be submitted by 9:00.
 Classroom A.
 
 
-
 ## 1412
 
 ### IdeaBox 2.0 Peer Review (9:00 - 10:00)
 
 Meet in Classroom B and tell each other how awesome or how not awesome your code is.
 
+You'll be working in the following pairs:
+
+* Miriam Moser & Markus Olsen
+* DJ Greenfield & Paul Grever
+* Rich Shea & Kit Pearson & Trey Tomlinson
+* Edward McCarthy & Jeffrey Gu
+* Tino Espinoza & Kyra Steenbock
+* Dustin Gault & Austin Wood
+
+Spend 30 minutes reviewing and discussing each project (20 minutes if you're in the triplet).
+
+Use this document to share repository comments as well as record scores and comments: https://etherpad.mozilla.org/wZhIymiGgm
+
+The rubric is located [here](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown).
+
 ### IdeaBox 2.0 Recap and Refactor (10:00 - 11:30)
 
 Stay in Classroom B with Steve and go over what you've just done.
 
-### Re-Pivot Kickoff (11:30 - 12:00)
+### JS Assessment Review (11:30 - 12:00)
+
+Please submit your questions here: https://etherpad.mozilla.org/CEI43yWtKx
+
+We'll begin covering them on a regular basis (as soon as Steve gets back from JSConf).
+
+### The Scale Up Kickoff (1:00 - 1:30)
 
 Just you wait until you find out what the Re-Pivot is. It will be GLORIOUS.
 Steve will tell you what it's all about.
@@ -41,10 +61,9 @@ Teams:
 * Dustin Gault & Edward McCarthy & DJ Greenfield & Rich Shea
 * Kyra Steenbock & Paul Grever & Trey Tomlinson & Miriam Moser & Kit Pearson
 
-### Re-Pivot Work Time (1:00 - 4:00)
+### The Scale Up Work Time (1:30 - 4:00)
 
 How many pivots could a pivot pivot if a pivot could pivot pivots?
-
 
 ## 1502
 
