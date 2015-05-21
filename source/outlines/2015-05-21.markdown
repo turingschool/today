@@ -36,7 +36,7 @@ You'll be working in the following pairs:
 
 Spend 30 minutes reviewing and discussing each project (20 minutes if you're in the triplet).
 
-Use this document to share repository comments as well as record scores and comments: https://etherpad.mozilla.org/wZhIymiGgm
+Use [this document](https://etherpad.mozilla.org/wZhIymiGgm) to share repository comments as well as record scores and comments.
 
 The rubric is located [here](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown).
 
@@ -46,7 +46,7 @@ Stay in Classroom B with Steve and go over what you've just done.
 
 ### JS Assessment Review (11:30 - 12:00)
 
-Please submit your questions here: https://etherpad.mozilla.org/CEI43yWtKx
+Please submit your questions [here](https://etherpad.mozilla.org/CEI43yWtKx).
 
 We'll begin covering them on a regular basis (as soon as Steve gets back from JSConf).
 
