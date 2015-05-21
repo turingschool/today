@@ -52,14 +52,16 @@ We'll begin covering them on a regular basis (as soon as Steve gets back from JS
 
 ### The Scale Up Kickoff (1:00 - 1:30)
 
-Just you wait until you find out what the Re-Pivot is. It will be GLORIOUS.
-Steve will tell you what it's all about.
+In this project, you'll be given a multi-tenant e-commerce site, and asked
+to pivot it into an online ordering platform for a local restaurant. HA!
+
+[The Scale Up](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
 
 Teams:
 
-* Markus Olsen & Jeffrey Gu & Austin Wood & Charles Valentino Espinoza
-* Dustin Gault & Edward McCarthy & DJ Greenfield & Rich Shea
-* Kyra Steenbock & Paul Grever & Trey Tomlinson & Miriam Moser & Kit Pearson
+* Markus Olsen & Jeffrey Gu & Austin Wood & Charles Valentino Espinoza - [Keevah](https://github.com/turingschool-projects/keevah)
+* Dustin Gault & Edward McCarthy & DJ Greenfield & Rich Shea - [HubStub](https://github.com/turingschool-projects/hubstub)
+* Kyra Steenbock & Paul Grever & Trey Tomlinson & Miriam Moser & Kit Pearson - [HomeAway](https://github.com/turingschool-projects/HomeAway)
 
 ### The Scale Up Work Time (1:30 - 4:00)
 
