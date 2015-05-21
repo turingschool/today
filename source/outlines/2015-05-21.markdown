@@ -98,6 +98,8 @@ You're in Classroom C with Josh as you learn about SQL, Structured Query Languag
 
 Be sure to work through the [Fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
 
+Check out [this great post](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) to better understand SQL join statements.
+
 ### Sequel (10:00 - 12:00)
 
 Yes, there is a difference between SQL and Sequel. Stay in Classroom C and we'll let you in on the secret.
