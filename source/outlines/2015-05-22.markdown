@@ -1,0 +1,168 @@
+---
+title: 20150522
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+NO SURVEY, NO BREAKFAST.
+
+Surveys go HEAH.
+
+### Lightning Talks (9:00 - 10:00)
+
+Gather in the Big Workspace at 9am sharp!
+
+* Miriam Moser - Code like it's 1999
+* Kyra Steenbock - Animation with Snap.js!
+* Trey Tomlinson - China's Great Firewall
+* Jamie Kawahara - Imposter Syndrome
+* Andrew Carmer - Stuff, Things & the Internet of Things
+* Brett Grigsby - The Illusion of Free Will
+* Rick Bacci - Ruby Warrior (Debugging and Refactoring)
+* Sally MacNicholas - Learning how to Learn!
+* Max Tedford - Wine 101
+
+### Student-Led & Self-Study Sessions (10:00 - 12:00)
+
+* Join Trey in Classroom A to learn about your $SHELL and feel at $HOME in your terminal.
+* Join Eric Dowty in Classroom B to learn Responsive Bootstrap in Sinatra.
+* Join Kyra and Miriam in Classroom C and learn how to whiteboard. Whiteboard, not waterboard.
+
+### One-on-Ones (10:00 - 12:00)
+
+#### With Mike
+* 10:00: Rebekah Sosa
+* 10:20: Rachel Parri
+* 10:40: Mike Dorrance
+* 11:00: Josh Cass
+* 11:20: Dave Maurer
+
+#### With Steve
+
+* 10:00: Sebastian Abondano
+* 10:20: Alex Tideman
+* 10:40: Samson Brock
+* 11:00: Rick Bacci
+* 11:20: Lev Kravinsky
+
+
+#### With Jorge
+
+* 10:00: Tracy Contreras
+* 10:20: Jai Misra
+* 10:40: Mitch Ashby
+* 11:00: Sally MacNicholas
+* 11:20: Erik Butcher
+
+#### With Rachel
+
+* 10:00: Marla Brizel
+* 10:20: Lovisa Svallingson
+* 10:40: Mike Reeves
+* 11:00: Vanessa Gomez
+* 11:20: Margarett Ly
+
+#### With Horace
+
+* 10:00: David Stinette
+* 10:20: Justin Holzman
+* 10:40: Jerrod Junker
+* 11:00: Andrew Fink
+* 11:20: Chelsea Worrel
+
+#### With Daisha
+
+* 10:00: Justin Pease
+* 10:20: Adam Caron
+* 10:40: Jason Wright
+* 11:00: Morgan Miller
+* 11:20: Dmitry Vizersky
+
+#### With Jeff
+
+* 10:00: Max Millington
+* 10:20: Drew Conly
+* 10:40: Brett Grigsby
+* 11:00: Justin Holmes
+* 11:20: Michael Merrill
+
+#### With Raissa
+
+* 10:00: David Shim
+* 10:20: Nicole Hall
+* 10:40: Max Tedford
+* 11:00: Drew Reynolds
+* 11:20: Rob Cornell
+
+### Guest: Skookum (1:00 - 2:00)
+
+
+
+### Group Retrospectives (2:00 - 3:00)
+
+* 1412 in Classroom C with Jorge and Sam.
+* 1502 in the Big Workspace with Rachel and Raissa.
+* 1503 in Classroom B with Jeff and Josh C.
+* 1503 in Classroom B with Jeff and Josh C.
+
+### Electives (2:45 - 4:00)
+
+#### PHP with Jorge
+
+Yes, you read it right. Let's understand all those jokes that cool Ruby kids tell by learning PHP, the language from hell. We'll work through the [Codecademy](http://www.codecademy.com/en/tracks/php) PHP track. (Don't tell your mom.)
+
+#### Lets play!
+
+Meet with Josh C. in Classroom A.
+
+Do you want to learn [a library](https://www.ruby-toolbox.com/)?
+Do you want to do [JavaScript](https://babeljs.io/)?
+[Lisp](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/lisp-games/hilo/hilo.lisp)?
+[Taxi](https://bigzaphod.github.io/Taxi/)?
+We can make [our own language](https://github.com/JoshCheek/day-dream-in-Ruby/blob/06053303907917bf695e6d1bdf0b0fb6cd5d4f3e/Readme.md#example)!
+We can figure out how to play with each piece of [Rails independently](https://github.com/JoshCheek/playgrounds)!
+We can [make a bot](https://github.com/JoshCheek/Play/tree/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/blackboardbot/) to navigate the web and text us when it finds interesting things!
+We can [automate](http://www.sikuli.org/) [all the things](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/sikulidraw/results.png)!
+Build a [DSL](https://github.com/JoshCheek/Play/blob/78a7fd77da9dc8d46cfb0dad431f18abf6a06617/land-of-lisp-itinerary/input/day_01.rb)!
+Use [Ruby instead](https://github.com/JoshCheek/Play/tree/master/ruby-one-liners/) of sed and awk!
+We can refactor some gnarly code! Take a project from empty directory to MVP!
+Make a [quote app](http://legit-quotes.com/A%20Turing%20student%20who%20is%20just%20like%20you/I%20attended%20Josh's%20unstructured%20elective...%20I%20laughed,%20I%20cried,%20I%20called%20my%20loved%20ones,%20learned%20about%20life,%20experienced%20existential%20crisis,%20came%20of%20age,%20found%20my%20qi.%0A%0AI%20became%20the%20person%20I%20am%20today.)!
+Have me do [one of your projects](https://github.com/JoshCheek/event_reporter)!
+We can make [our own Sinatra](https://gist.github.com/JoshCheek/298f542a576bfe960d1e/#file-http_stuffs-txt-L176)!
+Our own [ActiveRecord](https://gist.github.com/JoshCheek/f1cfb1ad6b8d67bb9629)!
+Our own [ERB processor](https://gist.github.com/JoshCheek/2b30b052560337522f94#file-procedural_oo_parser-rb)!
+[Draw pictures](https://github.com/JoshCheek/print-png/blob/master/screenshot-rainbow.png) in the terminal!
+[Fix bugs](https://github.com/rspec/rspec-core/pull/1950) in open source code!
+[Draw Coasters](https://gist.github.com/JoshCheek/a72f54412db272daee2e#file-screenshot-png) in Haskell!
+Make our code look like a [totem pole](https://gist.github.com/JoshCheek/d8986300e401dc2163d4/)!
+Write programs under the constraints of the [lambda calculus](https://gist.github.com/JoshCheek/eb22f9e91b9a7891ffea)!
+We can do whatever sounds fun :)
+
+Bring your inspiration.
+Bring your curiosity.
+Bring your daydreams.
+There are neither rules nor expectations, lets just play. ^_^
+
+#### Side Hustles with Steve
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+* We'll share some details about the status of our projects from last week
+* We'll pair and write some code
+
+Meet near the large kitchen table.
+
+#### Technical Interview Prep with Jeff
+
+Join Jeff in Classroom B to work through/talk through two technical interview challenges.
+
+#### DSA With Horace (Classroom C)
+
+Missing your second weekly dose of DSA? Let's have one this afternoon! We've been working this week on implementing a visualization of an automata flocking algorithm called "Boids." If you were at the session on Wednesday, we'll continue with the work we started. Otherwise we can get you started with a fresh implementation.
+
+#### Client Work with Rachel
+
+Let's ship something today! We'll continue building out the Leaders In Training app. This elective is limited to students who have previously attended.
