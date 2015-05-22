@@ -15,7 +15,6 @@ Get your new cohort members set up on [Exercism](http://exercism.io) and pair wi
 
 Post your solutions along with your posse name in #warmup-answers in order to earn 20 Posse Points.
 
-
 ## 1412
 
 ### Test-Driven JavaScript (9:00 - 12:00)
@@ -92,7 +91,7 @@ Check out [this article](http://hawkins.io/2012/07/rack_from_the_beginning/) if 
 
 Classroom C is the place to be, as you learn how to C-R-U-D.
 
-Nothing rhymes with Rachel. But you can find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown). 
+Nothing rhymes with Rachel. But you can find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
 
 
 ## 1505
