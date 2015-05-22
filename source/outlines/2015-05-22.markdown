@@ -117,7 +117,7 @@ Gather in the Big Workspace at 9am sharp!
 #### GitCoins and Ruby Concurrency for Fun and Profit
 
 Join Horace in Classroom B to talk about the Dungeon's favorite crypto-currency,
-the GitCoin ([site](http://git-coin.turingapps.io/gitcoins) / [repo](https://github.com/worace/git-coin)).
+the __GitCoin__ ([site](http://git-coin.turingapps.io/gitcoins) / [repo](https://github.com/worace/git-coin)).
 We'll learn:
 
 * What is a GitCoin?
