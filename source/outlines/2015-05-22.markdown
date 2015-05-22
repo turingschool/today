@@ -134,7 +134,7 @@ making HTTP requests so it may not be suited for module 1 students.
 Join Josh to hack on sports related side projects.
 
 #### Quality Time with Jason Noble
-We have the privilege of having the current leader in the Mentor Cup join us this afternoon. Jason will be hanging out in Classroom A. 
+We have the privilege of having the current leader in the Mentor Cup join us this afternoon. Jason will be hanging out in Classroom A, and will be doing a session on pairing and TDD. 1505 is highly encouraged to attend this.
 
 #### Side Hustles with Not Steve
 
