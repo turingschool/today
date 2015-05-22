@@ -114,6 +114,21 @@ Gather in the Big Workspace at 9am sharp!
 
 #### TO BE ANNOUNCED
 
+#### GitCoins and Ruby Concurrency for Fun and Profit
+
+Join Horace in Classroom B to talk about the Dungeon's favorite crypto-currency,
+the GitCoin ([site](http://git-coin.turingapps.io/gitcoins) / [repo](https://github.com/worace/git-coin)).
+We'll learn:
+
+* What is a GitCoin?
+* How can I acquire GitCoins?
+* How can I use multiple threads to acquire lots of GitCoins?
+* How can I exchange my GitCoins for Posse Cup Points?
+
+You will want to use JRuby for this exercise, so if you have not already, make
+sure you have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [JRuby](https://rvm.io/interpreters/jruby) installed. This session will require some knowledge of
+making HTTP requests so it may not be suited for module 1 students.
+
 #### Passion Projects - Theme: Sportsball
 
 Join Josh to hack on sports related side projects.
