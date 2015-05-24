@@ -3,6 +3,8 @@ title: 20150528
 layout: outline
 ---
 
+Today In History: 2014 - The anniversary of the death of Maya Angelou
+
 ## All
 
 ### WarmUp (8:30 - 9:00)
@@ -70,6 +72,20 @@ We're gonna turn you into little code breakers. Join Mike as he talks about his 
 [Deets](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown)
 
 Classroom A.
+
+Pairs: 
+
+* Nicole Hall & Adam Caron
+* Rachel Parri & Tracy Contreras
+* Samson Brock & David Stinnette
+* Mitch Ashby & Marla Brizel
+* Mike Reeves & Lovisa Svallingson
+* Justin Pease & Jason Wright
+* Jerrod Paul Junker & Justin Holzmann
+* Drew Conly & Rebekah Sosa
+* Alex Tideman & Jai Misra
+* Sebastian Abondano & David Shim
+* Max Millington & Michael Dorrance
 
 ### Week 2 Diagnostic (11:00 - 12:00)
 

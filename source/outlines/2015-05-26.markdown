@@ -3,6 +3,8 @@ title: 20150526
 layout: outline
 ---
 
+Today in History: 2009 - President Barack Obama nominated federal appeals judge Sonia Sotomayor to be the first Hispanic justice on the Supreme Court.
+
 ## All
 
 ### WarmUp (8:30 - 9:00)
@@ -24,6 +26,43 @@ You want a job, right? Right?
 
 Challenge to be announced.
 
+Pairs: 
+* Jack Yeh & Josh Cass
+* Tyler Graham & Andrew Carmer
+* Mike Reeves & Kyra Steenbock
+* Drew Conly & Erik Butcher
+* Nicole Hall & Tess Griffin
+* Samson Brock & Edward McCarthy
+* Vanessa Gomez & Mitch Ashby
+* Marla Brizel & Patrich Medaugh
+* Jason Wright & Brett Grigsby
+* Sebastian Abondano & Kit Pearson
+* Justin Holzmann & Rick Bacci
+* Tracy Caruso * Andrew Fink
+* Trey Tomlinson & David Maurer
+* Markus Olsen & Rich Shea
+* Morgan Miller & Austin Wood
+* Minnie Lee & Tracy Contreras
+* Kyle Henson & Kenny Chen
+* Eric Dowty & Michael Dorrance
+* Alex Tideman & Lori Culberson
+* Justin Pease & Whitney Heimstra
+* Chelsea Worrel & David Shim
+* Dmitry Vizersky & DJ Greenfield
+* Jai Misra and Tino
+* Lovisa Svallingson & Thomas Leskin
+* Sally MacNicholas & Max Millington
+* David Daniel * Jeffrey Gu
+* Mihir Parikh & Michael Merrill
+* Margaret Ly & Adam Caron
+* Miriam Moser & Rachel Parri
+* Fred Block & Drew Reynolds
+* Michelle Golle & Dustin Gault
+* Rebekah Sosa & Kristina Brown
+* Jerrod Junker & Paul Grever
+* David Stinette & Justin Holmes
+* Lev Kravinsky & Max Tedford
+* The WILDEST of Cards: Rob Cornell
 
 ## 1412
 
@@ -88,6 +127,19 @@ We'll make use of these exercises:
 
 * [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
 * [Change](https://github.com/exercism/x-common/blob/master/change.md)
+
+Pairs:
+* Justin Holzmann & Sebastian Abondano
+* Adam Caron & Samson Brock
+* Mitch Ashby & David Stinnette
+* Jai Misra & Max Millington
+* Drew Conly & David Shim
+* Jerrod Paul Junker & Alex Tideman
+* Marla Brizel & Mike Reeves
+* Michael Dorrance & Nicole Hall
+* Lovisa Svallingson & Jason Wright
+* Tracy Contreras & Rebekah Sosa
+* Rachel Parri & Justin Pease
 
 ### Homework
 
