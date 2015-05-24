@@ -1,0 +1,11 @@
+---
+title: 20150525
+layout: outline
+---
+
+## All
+
+### Memorial Day
+
+There are no classes today. You are welcome to come to Turing to work on whatever you like,
+however you should take some time to rest and relax.

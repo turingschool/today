@@ -1,0 +1,87 @@
+---
+title: 20150528
+layout: outline
+---
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+Complete this following logic problem.
+
+[http://cl.ly/2Z3L2f0Z0o1D](http://cl.ly/2Z3L2f0Z0o1D)
+
+Post your solution in #warmup-answers with your full posse name to receive 25 points. Cut-off is 9:00 am.
+(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+
+
+## 1412
+
+### Code Challenge (9:00 - 12:00)
+
+No tears, only code.
+
+### Code Review (1:00 - 4:00)
+
+Let's see what you've done this morning.
+
+
+## 1502
+
+### Sending Email (9:00 - 10:30)
+
+Learn how to send email with your Rails app with Sam. Classroom B.
+
+### Seeding Data Efficiently (10:30 - 12:00)
+
+Now that you know how to send email, you'll learn from Sam how to seed your database in a way that doesn't make you curl up into the fetal position.
+
+Data is good.
+
+Still Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Work on them projects. Help each other. Help yourselves.
+
+
+## 1503
+
+### Traffic Spy Q&A  (9:00 - 10:00)
+
+You've had time to let things sink in. Now Josh will answer any questions you have before you get set off into the wide world. 
+Maybe he won't answer any question, but he'll answer any question you have about Traffic Spy. Classroom C.
+ 
+### Project Work Time (10:00 - 12:00)
+
+Finish this project, and you can get a job at the NSA.
+
+### Project Work Time (1:00 - 4:00)
+
+Continue to spy on that traffic.
+
+
+## 1505
+
+### Pairing On Cryptographer (9:00 - 11:00)
+
+We're gonna turn you into little code breakers. Join Mike as he talks about his first learning experience with cryptography.
+
+[Deets](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown)
+
+Classroom A.
+
+### Week 2 Diagnostic (11:00 - 12:00)
+
+Sharpen those pencils, folks. Classroom A.
+
+### Introduction to Bubble Sort (1:00 - 2:00)
+"The bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems" — Donald Knuth.
+
+Join Jeff in Classroom A in to discuss the finer points of the bubble sort.
+
+If you ask nicely, maybe he'll [dance](https://www.youtube.com/watch?v=lyZQPjUT5B4) for you.
+
+### Work Time (2:00 - 4:00)
+
+Get stuff done! Mike will be available for questions.
