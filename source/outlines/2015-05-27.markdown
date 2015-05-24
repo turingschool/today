@@ -1,0 +1,96 @@
+---
+title: 20150527
+layout: outline
+---
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+1505ers, can you help your Posse complete FizzBuzz?
+
+* Go through the numbers 0 through 100 inclusive.
+* If the number is divisible by 3, print "Fizz"
+* If the number is divisible by 5, print "Buzz"
+* If the number is divisible by both 3 and 5, print "Semicolons Rule"
+* Otherwise, print the number.
+
+Post your solution in #warmup-answers with your full posse name to receive 15 points. Cut-off is 9:00 am.
+(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+
+
+## 1412
+
+### Caching Data (9:00 - 10:30)
+
+Caching data is often the first step to improving performance. You gots to stop hitting that database! Classroom C.
+
+### Fragment Caching (10:30 - 12:00)
+
+Now that you have caching down, join Horace to learn just how you can just cache what you need to cache.
+
+### Project Work Time (1:00 - 4:00)
+
+Put on your hip waders and get into some brownfield development.
+
+
+## 1502
+
+### Fundamental Rails Security (9:00 - 12:00)
+
+This class you don't want to miss. Workshop time with Jorge in Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Client Check Ins (with Jorge)
+
+* 1:00 - 1:30: Eric, Patrick, Tom
+* 1:30 - 2:00: Kristina, Kenny, Lori
+* 2:00 - 2:30: Mihir, Jack, Tess
+* 2:30 - 3:00: Minnie, Tracy, Kyle
+* 3:00 - 3:30: Andrew, Michelle, Dave, Fred
+
+Technical Check Ins (with Sam)
+
+* 1:30 - 2:00: Eric, Patrick, Tom
+* 2:00 - 2:30: Kristina, Kenny, Lori
+* 2:30 - 3:00: Mihir, Jack, Tess
+* 3:00 - 3:30: Minnie, Tracy, Kyle
+* 3:30 - 4:00: Andrew, Michelle, Dave, Fred
+
+
+## 1503
+
+### Using Rack::Test in a Sinatra App (9:00 - 11:00)
+
+If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C.
+
+### Project Work Time (11:00 - 12:00)
+
+This is Project Work Time. Not slack off and go to lunch early time. Not that any of you would do that, right?
+
+### View Templating (1:00 - 2:00)
+
+Josh will get you started on how to template your views. Because no one wants to write the same code over and over again. Classroom C.
+
+### Project Work Time (2:00 - 4:00)
+
+More work time.
+
+
+## 1505
+
+### How Git Works (9:00 - 10:30)
+
+Two people understand Git. [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds), the creator of Git and [Tom Preston-Werner](http://en.wikipedia.org/wiki/Tom_Preston-Werner),
+one of the founders of GitHub. The rest of us just use it.
+
+Join Jeff for some Arts and Crafts time and learn how Git works in the Big Workspace.
+
+### Using Source Control (10:30 - 12:00)
+
+Stay right where you are where Mike comes and talks to you about Source Control.
+
+### Work Time: Enumerables and Git (1:00 - 4:00)
+
+Work Time, Work Time, everybody loves Work Time. Mike will be available for questions.

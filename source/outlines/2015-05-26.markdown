@@ -1,0 +1,96 @@
+---
+title: 20150526
+layout: outline
+---
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+This morning, we're going to do a small code challenge.
+
+**Can you write a program that "sings" the classic, "100 Bottles of Beer on the Wall"?**
+
+Post your solution in #warmup-answers with your full posse name to receive 15 points. Cut-off is 9:00 am.
+(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+
+### Gear Up (2:30 - 3:00)
+
+TBA in the Big Workspace.
+
+### Technical Intervew Prep (3:00 - 4:00)
+
+You want a job, right? Right?
+
+Challenge to be announced.
+
+
+## 1412
+
+### Background Workers (9:00 - 12:00)
+
+Go find Horace where he will teach you more than you ever wanted to know about
+Background Workers. Classroom A. 
+
+### Code Review and Check-Ins (1:00 - 2:30)
+
+TBA
+
+
+## 1502
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+Because you don't just want to give anyone the keys to the castle, right?
+Just me.
+
+Join the Inscrutable Jorge in Classroom B.
+
+### Weekly Iteration: Feed Engine (1:30 - 2:30)
+
+Feed those engines in Classroom B.
+
+
+## 1503
+
+### Project Review / Q&A (9:00 - 10:00)
+
+Exactly what it sounds like. Classroom C.
+ 
+### Database Design and Modeling (10:00 - 12:00)
+
+You will learn how to database ALL of the things. Still in Classroom C.
+
+### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
+
+Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
+
+### Traffic Spy Kickoff (2:00 - 2:30)
+
+Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C.
+
+
+## 1505
+
+### Fibber Recap (9:00 - 10:30)
+
+Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Mike. Big Workspace.
+
+### Introducing Enumerables (10:30 - 12:00)
+
+Stick around to talk about the crown jewel of the Ruby programming language. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) and you'll work on [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises).
+
+### How to Pair Program (1:00 - 2:30)
+
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
+
+We'll make use of these exercises:
+
+* [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
+* [Change](https://github.com/exercism/x-common/blob/master/change.md)
+
+### Homework
+
+* Spend about 2 hours pushing forward on your [Enumerables exercises](https://github.com/turingschool/enums-exercises)
+* Spend about 90 minutes on [Sandi Metz' POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown) Part 1,
+reading the specified pages and completing the exercise

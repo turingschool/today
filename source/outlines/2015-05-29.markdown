@@ -1,0 +1,78 @@
+---
+title: 20150529
+layout: outline
+---
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+Let's model a [Phoenix](http://en.wikipedia.org/wiki/Phoenix_(mythology)).
+
+* Create a `phoenix_test.rb` file
+* Add a few tests with behavior you'd expect from a magical bird of fire.
+* Create the implementation
+* Add more tests/implementation until time is up. 
+
+Post your solution in #warmup-answers with your full posse name to receive 15 points. The most interesting implementation receives 
+an extra 15 bonus points. Cut-off is 9:00 am.
+(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+
+### RJ Owen from Universal Mind
+
+RJ Owen is the Director of UX at [Universal Mind](http://universalmind.com) and the host of [CreativeMornings](http://www.creativemornings.com/cities/den)
+
+[Twitter](http://www.twitter.com/rjowen)
+
+[LinkedIn](http://www.linkedin.com/in/rjowen4)
+
+
+## 1412
+
+### Project Work Time (9:00 - 11:00)
+
+Put those finishing touches on everything. Make sure it's in production.
+
+### Re-Pivot Evaluations (1:00 - 4:00)
+
+Put your code to the test. See if you're the best. Maybe now, Horace will let you rest. 
+
+
+## 1502
+
+### Project Evaluations (9:00 - 11:00)
+
+All done! It's done, right?
+
+### Feed Engine Kickoff (1:00 - 3:00)
+
+Done with one project, now onto the next! Classroom B with Jorge.
+
+### Demo Prep (3:00 - 4:00)
+
+Get your projects ready for daylight.
+
+
+## 1503
+
+### Traffic Spy Check-Ins (9:00 - 11:00)
+
+### Work Time (1:00 - 4:00)
+
+Spy some traffic. And then spy some more traffic.
+
+
+## 1505
+
+### Minitest with Bubble Sort  (9:00 - 11:00)
+
+Now how to test your bubbles. Hope they don't pop! Jeff in Classroom A.
+
+### Arguments and Scope, Work Time, Homework, Weekend (1:00 - 4:00)
+
+Meet with Mike in Classroom A to talk about your assignments for the weekend.
+
+* [Credit Check](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
+* [Command and Query Exercises](https://github.com/turingschool/ruby-exercises/tree/master/command-query)
+* [Objects & Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
+* [Part 2 of POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown)
