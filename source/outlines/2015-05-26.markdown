@@ -27,6 +27,7 @@ You want a job, right? Right?
 Challenge to be announced.
 
 Pairs: 
+
 * Jack Yeh & Josh Cass
 * Tyler Graham & Andrew Carmer
 * Tracy Contreras & Kyra Steenbock
@@ -64,6 +65,10 @@ Pairs:
 * Lev Kravinsky & Max Tedford
 * The WILDEST of Cards: Rob Cornell
 
+### Recitation - Object Oriented Programming - (4:15 - 5:30)
+
+Classroom A.
+
 ## 1412
 
 ### Background Workers (9:00 - 12:00)
@@ -73,7 +78,9 @@ Background Workers. Classroom A.
 
 ### Code Review and Check-Ins (1:00 - 2:30)
 
-TBA
+* Keevah (1:00 - 1:30)
+* HubStub (1:30 - 2:00)
+* HomeAway (2:00 - 2:30)
 
 
 ## 1502
@@ -129,6 +136,7 @@ We'll make use of these exercises:
 * [Change](https://github.com/exercism/x-common/blob/master/change.md)
 
 Pairs:
+
 * Justin Holzmann & Sebastian Abondano
 * Adam Caron & Samson Brock
 * Mitch Ashby & David Stinnette

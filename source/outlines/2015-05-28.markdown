@@ -16,6 +16,10 @@ Complete this following logic problem.
 Post your solution in #warmup-answers with your full posse name to receive 25 points. Cut-off is 9:00 am.
 (So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
 
+### Recitation - Git (4:15 - 5:30)
+
+You only have to come to this if you have something wrong with your git or want to get SSH keys set up or something along those lines.
+
 
 ## 1412
 
@@ -92,6 +96,7 @@ Pairs:
 Sharpen those pencils, folks. Classroom A.
 
 ### Introduction to Bubble Sort (1:00 - 2:00)
+
 "The bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems" — Donald Knuth.
 
 Join Jeff in Classroom A in to discuss the finer points of the bubble sort.

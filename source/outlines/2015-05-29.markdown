@@ -4,6 +4,7 @@ layout: outline
 ---
 
 Today in History: 1988 - President Ronald Reagan begins his first visit to the Soviet Union.
+
 ## All
 
 ### WarmUp (8:30 - 9:00)
@@ -38,12 +39,17 @@ Put those finishing touches on everything. Make sure it's in production.
 
 Put your code to the test. See if you're the best. Maybe now, Horace will let you rest. 
 
+* Keevah (1:00 - 2:00)
+* HubStub (2:00 - 3:00)
+* HomeAway (3:00 - 4:00)
 
 ## 1502
 
 ### Project Evaluations (9:00 - 11:00)
 
 All done! It's done, right?
+
+Schedule TBA
 
 ### Feed Engine Kickoff (1:00 - 3:00)
 
@@ -57,6 +63,8 @@ Get your projects ready for daylight.
 ## 1503
 
 ### Traffic Spy Check-Ins (9:00 - 11:00)
+
+TBA
 
 ### Work Time (1:00 - 4:00)
 
