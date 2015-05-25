@@ -26,7 +26,7 @@ You want a job, right? Right?
 
 Challenge to be announced.
 
-Pairs: 
+Pairs:
 
 * Jack Yeh & Josh Cass
 * Tyler Graham & Andrew Carmer
@@ -71,10 +71,13 @@ Classroom A.
 
 ## 1412
 
-### Background Workers (9:00 - 12:00)
+### Cache-A-Palooza (9:00 - 12:00)
 
-Go find Horace where he will teach you more than you ever wanted to know about
-Background Workers. Classroom A. 
+Join Horace in Classroom A to talk about 2 different approaches to
+using caching in our applications.
+
+We'll discuss [Key-Based Caching](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown) for 90 minutes and
+then switch gears to discuss [Caching Data](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/caching_data.markdown) for 90 minutes.
 
 ### Code Review and Check-Ins (1:00 - 2:30)
 
