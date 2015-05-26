@@ -128,10 +128,19 @@ You will learn how to database ALL of the things. Still in Classroom C.
 ### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
 
 Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
+Find the outline [here]()https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown. 
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
-Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C.
+Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C. Here are your groups:
+
+* Sally MacNicholas & Andrew Fink & Tyler Graham
+* Brett Grigsby & Drew Reynolds & Dave Maurer
+* Morgan Miller & Justin Holmes & Vanessa Gomez
+* Erik Butcher & Lev Kravinsky & Whitney Hiemstra
+* Michael Merrill & Josh Cass & Jamie Kawahara
+* Rick Bacci & Margarett Ly & Chelsea Worrel
+* Dmitry Vizersky & Max Tedford & Rob Cornell
 
 ## 1505
 
