@@ -18,7 +18,7 @@ Post your solution in #warmup-answers with your full posse name to receive 15 po
 
 ### Gear Up (2:30 - 3:00)
 
-[Find today's plan here](https://github.com/turingschool/gear-up).
+[Find today's plan here](https://github.com/turingschool/gear-up/blob/master/gender_and_computer_science.markdown).
 
 Let's start all together in the workspace and break up into the small groups below. Please be back in the big workspace by 2:55.
 
