@@ -132,7 +132,7 @@ Find the outline [here]()https://github.com/turingschool/lesson_plans/blob/maste
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
-Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C. Here are your groups:
+Let's kick off your newest project: [Traffic Spy](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/traffic_spy.markdown) in Classroom C. Here are your groups:
 
 * Sally MacNicholas & Andrew Fink & Tyler Graham
 * Brett Grigsby & Drew Reynolds & Dave Maurer
