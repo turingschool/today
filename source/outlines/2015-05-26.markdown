@@ -7,7 +7,7 @@ Today in History: 2009 - President Barack Obama nominated federal appeals judge 
 
 ## All
 
-### WarmUp (8:30 - 9:00)
+### Warm Up (8:30 - 9:00)
 
 This morning, we're going to do a small code challenge.
 
@@ -26,7 +26,7 @@ You want a job, right? Right?
 
 Challenge to be announced.
 
-Pairs: 
+Pairs:
 
 * Jack Yeh & Josh Cass
 * Tyler Graham & Andrew Carmer
@@ -70,10 +70,13 @@ Classroom A.
 
 ## 1412
 
-### Background Workers (9:00 - 12:00)
+### Cache-A-Palooza (9:00 - 12:00)
 
-Go find Horace where he will teach you more than you ever wanted to know about
-Background Workers. Classroom A. 
+Join Horace in Classroom A to talk about 2 different approaches to
+using caching in our applications.
+
+We'll discuss [Key-Based Caching](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown) for 90 minutes and
+then switch gears to discuss [Caching Data](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/caching_data.markdown) for 90 minutes.
 
 ### Code Review and Check-Ins (1:00 - 2:30)
 
@@ -81,27 +84,43 @@ Background Workers. Classroom A.
 * HubStub (1:30 - 2:00)
 * HomeAway (2:00 - 2:30)
 
-
 ## 1502
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
-Because you don't just want to give anyone the keys to the castle, right?
-Just me.
+In this lesson you will learn how to build a multi-tenant authorization strategy from scratch using a service object that will handle permissions.
 
-Join the Inscrutable Jorge in Classroom B.
+Clone this before your session:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+After cloning the repo, make sure you bundle, create your database, run your migrations, and seed your data.
+
+You can find the materials of for the session here:
+
+* [Notes](https://www.dropbox.com/s/2b1zpyj8qm8acdu/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
+
+Join Jorge in Classroom B.
 
 ### Weekly Iteration: Feed Engine (1:30 - 2:30)
 
-Feed those engines in Classroom B.
+The goal of the Feed Engine is to consume and aggregate third-party APIs. You will create a data aggregator service that pulls data and activity from other applications and publishes it through a web interface.
 
+Today, we will have a preliminary talk about the project, and the idea generation process.
+
+You can check the full project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/feed_engine.markdown).
+
+Join Jorge in Classroom B.
 
 ## 1503
 
 ### Project Review / Q&A (9:00 - 10:00)
 
 Exactly what it sounds like. Classroom C.
- 
+
 ### Database Design and Modeling (10:00 - 12:00)
 
 You will learn how to database ALL of the things. Still in Classroom C.
@@ -109,21 +128,33 @@ You will learn how to database ALL of the things. Still in Classroom C.
 ### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
 
 Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
-Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C.
+Let's kick off your newest project: [Traffic Spy](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/traffic_spy.markdown) in Classroom C. Here are your groups:
 
+* Sally MacNicholas & Andrew Fink & Tyler Graham
+* Brett Grigsby & Drew Reynolds & Dave Maurer
+* Morgan Miller & Justin Holmes & Vanessa Gomez
+* Erik Butcher & Lev Kravinsky & Whitney Hiemstra
+* Michael Merrill & Josh Cass & Jamie Kawahara
+* Rick Bacci & Margarett Ly & Chelsea Worrel
+* Dmitry Vizersky & Max Tedford & Rob Cornell
 
 ## 1505
 
-### Fibber Recap (9:00 - 10:30)
+### Introducing Enumerables (9:00 - 10:00)
 
-Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Mike. Big Workspace.
+Start with Jeff in the Big Workspace to dive into Enumerables. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown)
 
-### Introducing Enumerables (10:30 - 12:00)
+### Enumerables Exercises (10:00 - 11:00)
 
-Stick around to talk about the crown jewel of the Ruby programming language. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) and you'll work on [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises).
+Then continue in the Big Workspace starting into [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises). Mike will be available for questions.
+
+### Fibber Recap (11:00 - 12:00)
+
+Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Mike still in the Big Workspace.
 
 ### How to Pair Program (1:00 - 2:30)
 
