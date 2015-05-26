@@ -29,7 +29,7 @@ Classroom A.
 
 ### Background Workers Revisited (9:00 - 12:00)
 
-Join Horace in Classroom C to take another look at background workers.
+Join Horace in Classroom C to take [another look at background workers](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/background_workers_revisited.markdown).
 
 ### Project Work Time (1:00 - 4:00)
 
