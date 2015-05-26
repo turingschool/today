@@ -85,27 +85,40 @@ then switch gears to discuss [Caching Data](https://github.com/turingschool/less
 * HubStub (1:30 - 2:00)
 * HomeAway (2:00 - 2:30)
 
-
 ## 1502
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
-Because you don't just want to give anyone the keys to the castle, right?
-Just me.
+In this lesson you will learn how to build a multi-tenant authorization strategy from scratch using a service object that will handle permissions.
 
-Join the Inscrutable Jorge in Classroom B.
+Clone this before your session:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+You can find the materials of for the session here:
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
+
+Join Jorge in Classroom B.
 
 ### Weekly Iteration: Feed Engine (1:30 - 2:30)
 
-Feed those engines in Classroom B.
+The goal of the Feed Engine is to consume and aggregate third-party APIs. You will create a data aggregator service that pulls data and activity from other applications and publishes it through a web interface.
 
+Today, we will have a preliminary talk about the project, and the idea generation process.
+
+You can check the full project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/feed_engine.markdown).
+
+Join Jorge in Classroom B.
 
 ## 1503
 
 ### Project Review / Q&A (9:00 - 10:00)
 
 Exactly what it sounds like. Classroom C.
- 
+
 ### Database Design and Modeling (10:00 - 12:00)
 
 You will learn how to database ALL of the things. Still in Classroom C.
@@ -117,7 +130,6 @@ Back in my day, we had to code databases by hand in Sinatra. And it was uphill. 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
 Let's kick off your newest project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html) in Classroom C.
-
 
 ## 1505
 
