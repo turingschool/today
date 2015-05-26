@@ -65,7 +65,7 @@ Technical Check Ins (with Sam)
 
 ### Using Rack::Test in a Sinatra App (9:00 - 11:00)
 
-If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C.
+If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C. The outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown). 
 
 ### Project Work Time (11:00 - 12:00)
 
