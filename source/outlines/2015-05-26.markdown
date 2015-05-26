@@ -44,7 +44,11 @@ Let's start all together in the workspace and break up into the small groups bel
 
 You want a job, right? Right?
 
-Challenge to be announced.
+Challenge: Well-Formed Strings (https://github.com/turingschool/technical_puzzles/blob/master/well_formed_strings.markdown)
+
+This challenge was taken from an interview problem posed to one of our
+graduates. It deals with parsing a string to determine if its
+"pair" characters (parens, braces, brackets, etc) are correctly balanced.
 
 Pairs:
 
