@@ -129,7 +129,7 @@ You will learn how to database ALL of the things. Still in Classroom C.
 ### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
 
 Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
-Find the outline [here]()https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown. 
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
