@@ -158,14 +158,9 @@ Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/ma
 
 ### How to Pair Program (1:00 - 2:30)
 
-Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_pairing.markdown) with Jeff in Classroom A.
 
-We'll make use of these exercises:
-
-* [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
-* [Change](https://github.com/exercism/x-common/blob/master/change.md)
-
-Pairs:
+We'll use these pairs, so please sit with this person from the beginning.
 
 * Justin Holzmann & Sebastian Abondano
 * Mitch Ashby & David Stinnette
