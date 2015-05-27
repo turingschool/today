@@ -40,6 +40,16 @@ Put on your hip waders and get into some brownfield development.
 
 In this lesson, you will learn about the common security flaws that you can find on a Rails app. You will hack a Rails project sending HTTP requests via Postman, and modify it's data.
 
+Clone this before your session:
+
+```
+git clone https://github.com/turingschool-examples/store_engine.git fundamental_security
+```
+
+After cloning the repo, make sure you bundle, create your database, run your migrations, and seed your data.
+
+Also, download the [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?utm_source=gmail) extension for Chrome. If you don't have Chrome, you can download it [here](https://www.google.com/chrome/browser/desktop/).
+
 Join Jorge in Classroom B.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
