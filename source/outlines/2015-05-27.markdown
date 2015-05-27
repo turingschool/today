@@ -55,6 +55,7 @@ You can find the materials for the session here:
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/fundamental_rails_security.markdown)
 * [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
 * [Slides](https://www.dropbox.com/s/jz5fpbyxwuidr5t/Turing%20-%20Fundamental%20Rails%20Security.key?dl=0)
+* [Video](https://vimeo.com/129022094)
 
 Join Jorge in Classroom B.
 
@@ -106,7 +107,7 @@ Join Jeff for some Arts and Crafts time and learn how Git works in the Big Works
 
 ### Using Source Control (10:30 - 12:00)
 
-Stay right where you are where Mike comes and talks to you about Source Control. 
+Stay right where you are where Mike comes and talks to you about Source Control.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
 
