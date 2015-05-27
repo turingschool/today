@@ -24,7 +24,6 @@ Post your solution in #warmup-answers with your full posse name to receive 15 po
 
 Classroom A.
 
-
 ## 1412
 
 ### Background Workers Revisited (9:00 - 12:00)
@@ -35,12 +34,13 @@ Join Horace in Classroom C to take [another look at background workers](https://
 
 Put on your hip waders and get into some brownfield development.
 
-
 ## 1502
 
 ### Fundamental Rails Security (9:00 - 12:00)
 
-This class you don't want to miss. Workshop time with Jorge in Classroom B.
+In this lesson, you will learn about the common security flaws that you can find on a Rails app. You will hack a Rails project sending HTTP requests via Postman, and modify it's data.
+
+Join Jorge in Classroom B.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
@@ -48,24 +48,24 @@ Client Check Ins (with Jorge)
 
 * 1:00 - 1:30: Eric, Patrick, Tom
 * 1:30 - 2:00: Kristina, Kenny, Lori
-* 2:00 - 2:30: Mihir, Jack, Tess
+* 2:00 - 2:30: Mihir, Tess
 * 2:30 - 3:00: Minnie, Tracy, Kyle
 * 3:00 - 3:30: Andrew, Michelle, Dave, Fred
+* 3:30 - 4:00: Jack
 
 Technical Check Ins (with Sam)
 
 * 1:30 - 2:00: Eric, Patrick, Tom
 * 2:00 - 2:30: Kristina, Kenny, Lori
-* 2:30 - 3:00: Mihir, Jack, Tess
+* 2:30 - 3:00: Mihir, Tess
 * 3:00 - 3:30: Minnie, Tracy, Kyle
 * 3:30 - 4:00: Andrew, Michelle, Dave, Fred
-
 
 ## 1503
 
 ### Using Rack::Test in a Sinatra App (9:00 - 11:00)
 
-If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C. The outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown). 
+If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C. The outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown).
 
 ### Project Work Time (11:00 - 12:00)
 
@@ -78,7 +78,6 @@ Josh will get you started on how to template your views. Because no one wants to
 ### Project Work Time (2:00 - 4:00)
 
 More work time.
-
 
 ## 1505
 

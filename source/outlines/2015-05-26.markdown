@@ -122,7 +122,7 @@ git clone -b multitenancy_authorization https://github.com/turingschool-examples
 
 After cloning the repo, make sure you bundle, create your database, run your migrations, and seed your data.
 
-You can find the materials of for the session here:
+You can find the materials for the session here:
 
 * [Notes](https://www.dropbox.com/s/2b1zpyj8qm8acdu/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
