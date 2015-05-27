@@ -18,28 +18,52 @@ Post your solution in #warmup-answers with your full posse name to receive 15 po
 
 ### Gear Up (2:30 - 3:00)
 
-TBA in the Big Workspace.
+[Find today's plan here](https://github.com/turingschool/gear-up/blob/master/gender_and_computer_science.markdown).
+
+Let's start all together in the workspace and break up into the small groups below. Please be back in the big workspace by 2:55.
+
+* Kristina Brown & David Shim & Michelle Golle & Rick Bacci
+* Rich Shea & Mike Reeves & Andrew Carmer & Lev Kravinsky
+* Lovisa Svallingson & Austin Wood & Lori Culberson & Erik Butcher
+* Michael Merrill & Morgan Miller & Kenny Chen & Mitch Ashby
+* Trey Tomlinson & Fred Block & Paul Grever & Dustin Gault
+* Margarett Ly & Rob Cornell & Mihir Parikh & David Daniel
+* Alex Tideman & Josh Cass & Chelsea Worrel & David Stinnette
+* Eric Dowty & Jerrod Paul Junker & Jason Wright & Miriam Moser
+* Tracy Caruso & Markus Olsen & Justin Holzmann & Marla Brizel
+* Tess Griffin & Andrew Fink & Dave Maurer & Justin Pease
+* Thomas Leskin & Max Millington & Minnie Lee & Michael Dorrance
+* Drew Conly & Rachel Parri & Jeffrey Gu & Adam Caron
+* Sally MacNicholas & Patrick Medaugh & Edward McCarthy & Justin Holmes
+* Tyler Graham & Samson Brock & Nicole Hall & Vanessa Gomez
+* Sebastian Abondano & Dmitry Vizersky & Jack Yeh & Kit Pearson
+* Jai Misra & Kyra Steenbock & Drew Reynolds & Kyle Henson & Brett Grigsby
+* DJ Greenfield & Whitney Hiemstra & Max Tedford & Charles Valentino Espinoza & Rebekah Sosa
 
 ### Technical Intervew Prep (3:00 - 4:00)
 
 You want a job, right? Right?
 
-Challenge to be announced.
+Challenge: Well-Formed Strings (https://github.com/turingschool/technical_puzzles/blob/master/well_formed_strings.markdown)
+
+This challenge was taken from an interview problem posed to one of our
+graduates. It deals with parsing a string to determine if its
+"pair" characters (parens, braces, brackets, etc) are correctly balanced.
 
 Pairs:
 
 * Jack Yeh & Josh Cass
 * Tyler Graham & Andrew Carmer
-* Tracy Contreras & Kyra Steenbock
+* Rob Cornell & Kyra Steenbock
 * Drew Conly & Erik Butcher
 * Nicole Hall & Tess Griffin
 * Samson Brock & Edward McCarthy
 * Vanessa Gomez & Mitch Ashby
-* Marla Brizel & Patrich Medaugh
+* Marla Brizel & Patrick Medaugh
 * Jason Wright & Brett Grigsby
 * Sebastian Abondano & Kit Pearson
 * Justin Holzmann & Rick Bacci
-* Tracy Caruso * Andrew Fink
+* Tracy Caruso & Andrew Fink
 * Trey Tomlinson & David Maurer
 * Markus Olsen & Rich Shea
 * Morgan Miller & Austin Wood
@@ -53,7 +77,7 @@ Pairs:
 * Jai Misra and Tino
 * Lovisa Svallingson & Thomas Leskin
 * Sally MacNicholas & Max Millington
-* David Daniel * Jeffrey Gu
+* David Daniel & Jeffrey Gu
 * Mihir Parikh & Michael Merrill
 * Margaret Ly & Adam Caron
 * Miriam Moser & Rachel Parri
@@ -63,7 +87,6 @@ Pairs:
 * Jerrod Junker & Paul Grever
 * David Stinette & Justin Holmes
 * Lev Kravinsky & Max Tedford
-* The WILDEST of Cards: Rob Cornell
 
 ### Recitation - Object Oriented Programming - (4:15 - 5:30)
 
@@ -130,7 +153,8 @@ You will learn how to database ALL of the things. Still in Classroom C.
 ### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
 
 Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
-Find the outline [here]()https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown.
+
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
@@ -160,17 +184,11 @@ Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/ma
 
 ### How to Pair Program (1:00 - 2:30)
 
-Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_tdd_and_pairing.markdown) with Jeff in Classroom A.
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_pairing.markdown) with Jeff in Classroom A.
 
-We'll make use of these exercises:
-
-* [Allergies](https://github.com/exercism/x-common/blob/master/allergies.md)
-* [Change](https://github.com/exercism/x-common/blob/master/change.md)
-
-Pairs:
+We'll use these pairs, so please sit with this person from the beginning.
 
 * Justin Holzmann & Sebastian Abondano
-* Adam Caron & Samson Brock
 * Mitch Ashby & David Stinnette
 * Jai Misra & Max Millington
 * Drew Conly & David Shim
@@ -178,8 +196,8 @@ Pairs:
 * Marla Brizel & Mike Reeves
 * Michael Dorrance & Nicole Hall
 * Lovisa Svallingson & Jason Wright
-* Tracy Contreras & Rebekah Sosa
 * Rachel Parri & Justin Pease
+* Adam Caron & Samson Brock & Rebekhah Sosa
 
 ### Homework
 
