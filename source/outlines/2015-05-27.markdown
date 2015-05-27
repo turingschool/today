@@ -99,7 +99,7 @@ More work time.
 
 ### How Git Works (9:00 - 10:30)
 
-Two people understand Git. [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds), the creator of Git and [Tom Preston-Werner](http://en.wikipedia.org/wiki/Tom_Preston-Werner),
+Two people understand Git. [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds), the creator of Git and [Scott Chacon](https://www.linkedin.com/in/schacon),
 one of the founders of GitHub. The rest of us just use it.
 
 Join Jeff for some Arts and Crafts time and learn how Git works in the Big Workspace.
