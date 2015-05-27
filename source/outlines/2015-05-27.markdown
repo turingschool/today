@@ -50,6 +50,12 @@ After cloning the repo, make sure you bundle, create your database, run your mig
 
 Also, download the [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?utm_source=gmail) extension for Chrome. If you don't have Chrome, you can download it [here](https://www.google.com/chrome/browser/desktop/).
 
+You can find the materials for the session here:
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/fundamental_rails_security.markdown)
+* [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/jz5fpbyxwuidr5t/Turing%20-%20Fundamental%20Rails%20Security.key?dl=0)
+
 Join Jorge in Classroom B.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
