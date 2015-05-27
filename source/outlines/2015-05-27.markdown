@@ -83,9 +83,9 @@ Technical Check Ins (with Sam)
 
 If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C. The outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown).
 
-### Project Work Time (11:00 - 12:00)
+### Project Management & BDD (11:00 - 12:00)
 
-This is Project Work Time. Not slack off and go to lunch early time. Not that any of you would do that, right?
+The strongest performing teams aren't necessarily the strongest in technical skills. Most of the time it's the team that's most organized and communicates well. Josh will demo the skills that will be expected of you when you get on the job.
 
 ### View Templating (1:00 - 2:00)
 
