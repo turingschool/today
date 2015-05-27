@@ -16,9 +16,9 @@ Let's model a [Phoenix](http://en.wikipedia.org/wiki/Phoenix_(mythology)).
 * Create the implementation
 * Add more tests/implementation until time is up. 
 
-Post your solution in #warmup-answers with your full posse name to receive 15 points. The most interesting implementation receives 
-an extra 15 bonus points. Cut-off is 9:00 am.
-(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+Post your solution in #warmup-answers with your full posse name to receive 15 points. The most interesting implementation 
+receives an extra 15 bonus points. Cut-off is 9:00 am.
+
 
 ### RJ Owen from Universal Mind
 

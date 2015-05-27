@@ -18,9 +18,9 @@ Today in History: 1937 - The Golden Gate Bridge opened.
 * Otherwise, print the number.
 
 Post your solution in #warmup-answers with your full posse name to receive 15 points. Cut-off is 9:00 am.
-(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
 
-### Recitation - Enumerables (4:15 - 5:30)
+
+### Recitation - Enumerables & POODR (4:15 - 5:30)
 
 Classroom A.
 
@@ -106,7 +106,9 @@ Join Jeff for some Arts and Crafts time and learn how Git works in the Big Works
 
 ### Using Source Control (10:30 - 12:00)
 
-Stay right where you are where Mike comes and talks to you about Source Control.
+Stay right where you are where Mike comes and talks to you about Source Control. 
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
 
 ### Work Time: Enumerables and Git (1:00 - 4:00)
 

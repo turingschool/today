@@ -14,11 +14,11 @@ Complete this following logic problem.
 [http://cl.ly/2Z3L2f0Z0o1D](http://cl.ly/2Z3L2f0Z0o1D)
 
 Post your solution in #warmup-answers with your full posse name to receive 25 points. Cut-off is 9:00 am.
-(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
 
 ### Recitation - Git (4:15 - 5:30)
 
-You only have to come to this if you have something wrong with your git or want to get SSH keys set up or something along those lines.
+You only have to come to this if you have something wrong with your git or want to get SSH keys set up or something along 
+those lines. This will be a session focused on just making sure everyone's configuration is set up properly.
 
 
 ## 1412
