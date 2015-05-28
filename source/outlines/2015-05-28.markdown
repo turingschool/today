@@ -13,7 +13,7 @@ Complete this following logic problem.
 
 [http://cl.ly/2Z3L2f0Z0o1D](http://cl.ly/2Z3L2f0Z0o1D)
 
-Post your solution in #warmup-answers with your full posse name to receive 25 points. Cut-off is 9:00 am.
+Post your solution in #warmup-answers with your full posse name to receive 20 points. Cut-off is 9:00 am.
 
 ### Recitation - Git (4:15 - 5:30)
 
