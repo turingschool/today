@@ -116,7 +116,7 @@ Sharpen those pencils, folks. Classroom A.
 
 "The bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems" — Donald Knuth.
 
-Join Jeff in Classroom A in to discuss the finer points of the bubble sort.
+Join Horace in Classroom A in to discuss the finer points of the bubble sort.
 
 If you ask nicely, maybe he'll [dance](https://www.youtube.com/watch?v=lyZQPjUT5B4) for you.
 
