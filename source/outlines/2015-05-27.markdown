@@ -1,0 +1,116 @@
+---
+title: 20150527
+layout: outline
+---
+
+Today in History: 1937 - The Golden Gate Bridge opened.
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+1505ers, can you help your Posse complete FizzBuzz?
+
+* Go through the numbers 0 through 100 inclusive.
+* If the number is divisible by 3, print "Fizz"
+* If the number is divisible by 5, print "Buzz"
+* If the number is divisible by both 3 and 5, print "Semicolons Rule"
+* Otherwise, print the number.
+
+Post your solution in #warmup-answers with your full posse name to receive 15 points. Cut-off is 9:00 am.
+
+
+### Recitation - Enumerables & POODR (4:15 - 5:30)
+
+Classroom A.
+
+## 1412
+
+### Background Workers Revisited (9:00 - 12:00)
+
+Join Horace in Classroom C to take [another look at background workers](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/background_workers_revisited.markdown).
+
+### Project Work Time (1:00 - 4:00)
+
+Put on your hip waders and get into some brownfield development.
+
+## 1502
+
+### Fundamental Rails Security (9:00 - 12:00)
+
+In this lesson, you will learn about the common security flaws that you can find on a Rails app. You will hack a Rails project sending HTTP requests via Postman, and modify it's data.
+
+Clone this before your session:
+
+```
+git clone https://github.com/turingschool-examples/store_engine.git fundamental_security
+```
+
+After cloning the repo, make sure you bundle, create your database, run your migrations, and seed your data.
+
+Also, download the [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?utm_source=gmail) extension for Chrome. If you don't have Chrome, you can download it [here](https://www.google.com/chrome/browser/desktop/).
+
+You can find the materials for the session here:
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/fundamental_rails_security.markdown)
+* [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/jz5fpbyxwuidr5t/Turing%20-%20Fundamental%20Rails%20Security.key?dl=0)
+* [Video](https://vimeo.com/129022094)
+
+Join Jorge in Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Client Check Ins (with Jorge)
+
+* 1:00 - 1:30: Eric, Patrick, Tom
+* 1:30 - 2:00: Kristina, Kenny, Lori
+* 2:00 - 2:30: Mihir, Tess
+* 2:30 - 3:00: Minnie, Tracy, Kyle
+* 3:00 - 3:30: Andrew, Michelle, Dave, Fred
+* 3:30 - 4:00: Jack
+
+Technical Check Ins (with Sam)
+
+* 1:30 - 2:00: Eric, Patrick, Tom
+* 2:00 - 2:30: Kristina, Kenny, Lori
+* 2:30 - 3:00: Mihir, Tess
+* 3:00 - 3:30: Minnie, Tracy, Kyle
+* 3:30 - 4:00: Andrew, Michelle, Dave, Fred
+
+## 1503
+
+### Using Rack::Test in a Sinatra App (9:00 - 11:00)
+
+If you didn't test it, it didn't happen. Join Rachel as she brings the hammer down on testing. Classroom C. The outline is [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown).
+
+### Project Management & BDD (11:00 - 12:00)
+
+The strongest performing teams aren't necessarily the strongest in technical skills. Most of the time it's the team that's most organized and communicates well. Josh will demo the skills that will be expected of you when you get on the job.
+
+### View Templating (1:00 - 2:00)
+
+Josh will get you started on how to template your views. Because no one wants to write the same code over and over again. Classroom C.
+
+### Project Work Time (2:00 - 4:00)
+
+More work time.
+
+## 1505
+
+### How Git Works (9:00 - 10:30)
+
+Two people understand Git. [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds), the creator of Git and [Scott Chacon](https://www.linkedin.com/in/schacon),
+one of the founders of GitHub. The rest of us just use it.
+
+Join Jeff for some Arts and Crafts time and learn how Git works in the Big Workspace.
+
+### Using Source Control (10:30 - 12:00)
+
+Stay right where you are where Mike comes and talks to you about Source Control.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
+
+### Work Time: Enumerables and Git (1:00 - 4:00)
+
+Work Time, Work Time, everybody loves Work Time. Mike will be available for questions.

@@ -1,0 +1,206 @@
+---
+title: 20150526
+layout: outline
+---
+
+Today in History: 2009 - President Barack Obama nominated federal appeals judge Sonia Sotomayor to be the first Hispanic justice on the Supreme Court.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+This morning, we're going to do a small code challenge.
+
+**Can you write a program that "sings" the classic, "100 Bottles of Beer on the Wall"?**
+
+Post your solution in #warmup-answers with your full posse name to receive 15 points. Cut-off is 9:00 am.
+(So I can copy and paste when awarding points. Please capitalize. It makes my life easier.)
+
+### Gear Up (2:30 - 3:00)
+
+[Find today's plan here](https://github.com/turingschool/gear-up/blob/master/gender_and_computer_science.markdown).
+
+Let's start all together in the workspace and break up into the small groups below. Please be back in the big workspace by 2:55.
+
+* Kristina Brown & David Shim & Michelle Golle & Rick Bacci
+* Rich Shea & Mike Reeves & Andrew Carmer & Lev Kravinsky
+* Lovisa Svallingson & Austin Wood & Lori Culberson & Erik Butcher
+* Michael Merrill & Morgan Miller & Kenny Chen & Mitch Ashby
+* Trey Tomlinson & Fred Block & Paul Grever & Dustin Gault
+* Margarett Ly & Rob Cornell & Mihir Parikh & David Daniel
+* Alex Tideman & Josh Cass & Chelsea Worrel & David Stinnette
+* Eric Dowty & Jerrod Paul Junker & Jason Wright & Miriam Moser
+* Tracy Caruso & Markus Olsen & Justin Holzmann & Marla Brizel
+* Tess Griffin & Andrew Fink & Dave Maurer & Justin Pease
+* Thomas Leskin & Max Millington & Minnie Lee & Michael Dorrance
+* Drew Conly & Rachel Parri & Jeffrey Gu & Adam Caron
+* Sally MacNicholas & Patrick Medaugh & Edward McCarthy & Justin Holmes
+* Tyler Graham & Samson Brock & Nicole Hall & Vanessa Gomez
+* Sebastian Abondano & Dmitry Vizersky & Jack Yeh & Kit Pearson
+* Jai Misra & Kyra Steenbock & Drew Reynolds & Kyle Henson & Brett Grigsby
+* DJ Greenfield & Whitney Hiemstra & Max Tedford & Charles Valentino Espinoza & Rebekah Sosa
+
+### Technical Intervew Prep (3:00 - 4:00)
+
+You want a job, right? Right?
+
+Challenge: Well-Formed Strings (https://github.com/turingschool/technical_puzzles/blob/master/well_formed_strings.markdown)
+
+This challenge was taken from an interview problem posed to one of our
+graduates. It deals with parsing a string to determine if its
+"pair" characters (parens, braces, brackets, etc) are correctly balanced.
+
+Pairs:
+
+* Jack Yeh & Josh Cass
+* Tyler Graham & Andrew Carmer
+* Rob Cornell & Kyra Steenbock
+* Drew Conly & Erik Butcher
+* Nicole Hall & Tess Griffin
+* Samson Brock & Edward McCarthy
+* Vanessa Gomez & Mitch Ashby
+* Marla Brizel & Patrick Medaugh
+* Jason Wright & Brett Grigsby
+* Sebastian Abondano & Kit Pearson
+* Justin Holzmann & Rick Bacci
+* Tracy Caruso & Andrew Fink
+* Trey Tomlinson & David Maurer
+* Markus Olsen & Rich Shea
+* Morgan Miller & Austin Wood
+* Minnie Lee & Mike Reeves
+* Kyle Henson & Kenny Chen
+* Eric Dowty & Michael Dorrance
+* Alex Tideman & Lori Culberson
+* Justin Pease & Whitney Heimstra
+* Chelsea Worrel & David Shim
+* Dmitry Vizersky & DJ Greenfield
+* Jai Misra and Tino
+* Lovisa Svallingson & Thomas Leskin
+* Sally MacNicholas & Max Millington
+* David Daniel & Jeffrey Gu
+* Mihir Parikh & Michael Merrill
+* Margaret Ly & Adam Caron
+* Miriam Moser & Rachel Parri
+* Fred Block & Drew Reynolds
+* Michelle Golle & Dustin Gault
+* Rebekah Sosa & Kristina Brown
+* Jerrod Junker & Paul Grever
+* David Stinette & Justin Holmes
+* Lev Kravinsky & Max Tedford
+
+### Recitation - Object Oriented Programming - (4:15 - 5:30)
+
+Classroom A.
+
+## 1412
+
+### Cache-A-Palooza (9:00 - 12:00)
+
+Join Horace in Classroom A to talk about 2 different approaches to
+using caching in our applications.
+
+We'll discuss [Key-Based Caching](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown) for 90 minutes and
+then switch gears to discuss [Caching Data](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/caching_data.markdown) for 90 minutes.
+
+### Code Review and Check-Ins (1:00 - 2:30)
+
+* Keevah (1:00 - 1:30)
+* HubStub (1:30 - 2:00)
+* HomeAway (2:00 - 2:30)
+
+## 1502
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+In this lesson you will learn how to build a multi-tenant authorization strategy from scratch using a service object that will handle permissions.
+
+Clone this before your session:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+After cloning the repo, make sure you bundle, create your database, run your migrations, and seed your data.
+
+You can find the materials for the session here:
+
+* [Notes](https://www.dropbox.com/s/2b1zpyj8qm8acdu/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
+* [Video](https://vimeo.com/128915494)
+
+Join Jorge in Classroom B.
+
+### Weekly Iteration: Feed Engine (1:30 - 2:30)
+
+The goal of the Feed Engine is to consume and aggregate third-party APIs. You will create a data aggregator service that pulls data and activity from other applications and publishes it through a web interface.
+
+Today, we will have a preliminary talk about the project, and the idea generation process.
+
+You can check the full project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/feed_engine.markdown).
+
+Join Jorge in Classroom B.
+
+## 1503
+
+### Project Review / Q&A (9:00 - 10:00)
+
+Exactly what it sounds like. Classroom C.
+
+### Database Design and Modeling (10:00 - 12:00)
+
+You will learn how to database ALL of the things. Still in Classroom C.
+
+### Intro to ActiveRecord with Sinatra (1:00 - 2:00)
+
+Back in my day, we had to code databases by hand in Sinatra. And it was uphill. Both ways. Rachel knows. Classroom C.
+
+Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
+
+### Traffic Spy Kickoff (2:00 - 2:30)
+
+Let's kick off your newest project: [Traffic Spy](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/traffic_spy.markdown) in Classroom C. Here are your groups:
+
+* Sally MacNicholas & Andrew Fink & Tyler Graham
+* Brett Grigsby & Drew Reynolds & Dave Maurer
+* Morgan Miller & Justin Holmes & Vanessa Gomez
+* Erik Butcher & Lev Kravinsky & Whitney Hiemstra
+* Michael Merrill & Josh Cass & Jamie Kawahara
+* Rick Bacci & Margarett Ly & Chelsea Worrel
+* Dmitry Vizersky & Max Tedford & Rob Cornell
+
+## 1505
+
+### Introducing Enumerables (9:00 - 10:00)
+
+Start with Jeff in the Big Workspace to dive into Enumerables. We'll [use this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown)
+
+### Enumerables Exercises (10:00 - 11:00)
+
+Then continue in the Big Workspace starting into [these Enumerable exercises](https://github.com/JumpstartLab/enums-exercises). Mike will be available for questions.
+
+### Fibber Recap (11:00 - 12:00)
+
+Reflect on [some of the fibs](https://github.com/turingschool/challenges/blob/master/fibber.markdown) you've told with Mike still in the Big Workspace.
+
+### How to Pair Program (1:00 - 2:30)
+
+Let's [talk about pair programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_pairing.markdown) with Jeff in Classroom A.
+
+We'll use these pairs, so please sit with this person from the beginning.
+
+* Justin Holzmann & Sebastian Abondano
+* Mitch Ashby & David Stinnette
+* Jai Misra & Max Millington
+* Drew Conly & David Shim
+* Jerrod Paul Junker & Alex Tideman
+* Marla Brizel & Mike Reeves
+* Michael Dorrance & Nicole Hall
+* Lovisa Svallingson & Jason Wright
+* Rachel Parri & Justin Pease
+* Adam Caron & Samson Brock & Rebekhah Sosa
+
+### Homework
+
+* Spend about 2 hours pushing forward on your [Enumerables exercises](https://github.com/turingschool/enums-exercises)
+* Spend about 90 minutes on [Sandi Metz' POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown) Part 1,
+reading the specified pages and completing the exercise

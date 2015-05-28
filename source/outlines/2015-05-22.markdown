@@ -1,0 +1,147 @@
+---
+title: 20150522
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+Grab breakfast and complete your survey by 9am. 
+
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1iwJ1_FJl_26wZ8xAecwUoFajqYm1uKsdSG3hJmbL4dY/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1mAv1J5Fg8cpwkwkIX644bka7t64tKjiNQkQ6hl0Q5sg/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1zYV3P7AHSGa3WnEMZLFiuYzFBtyF9956vNsP-RdLR1U/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/1NBSGPsmdl4Ky8raIwVUh9gpNospnTdk3kU-4M14-JDY/viewform)
+
+### Lightning Talks (9:00 - 10:00)
+
+Gather in the Big Workspace at 9am sharp!
+
+* Miriam Moser - Code like it's 1999
+* Kyra Steenbock - Animation with Snap.js!
+* Trey Tomlinson - China's Great Firewall
+* Jamie Kawahara - Imposter Syndrome
+* Andrew Carmer - Stuff, Things & the Internet of Things
+* Brett Grigsby - The Illusion of Free Will
+* Rick Bacci - Ruby Warrior (Debugging and Refactoring)
+* Sally MacNicholas - Learning how to Learn!
+* Max Tedford - Wine 101
+
+### Student-Led & Self-Study Sessions (10:00 - 12:00)
+
+* Join Trey in Classroom A to learn about your $SHELL and feel at $HOME in your terminal.
+* Join Eric Dowty in Classroom B to learn Responsive Bootstrap in Sinatra.
+* Join Kyra and Miriam in Classroom C and learn how to whiteboard. Whiteboard, not waterboard.
+
+### One-on-Ones (10:00 - 12:00)
+
+#### With Mike
+* 10:00: Rebekah Sosa
+* 10:20: Rachel Parri
+* 10:40: Mike Dorrance
+* 11:00: Sebastian Abondano
+* 11:20: Alex Tideman
+* 11:40: Mike Reeves
+
+#### With Steve
+
+* 10:00: Jeffrey Gu
+* 10:20: Miriam Moser
+* 10:40: Samson Brock
+* 11:00: Paul Grever
+* 11:20: Kyra Steenbock
+* 11:40: Dustin Gault
+
+#### With Jorge
+
+* 10:00: Kristina Brown
+* 10:20: Jai Misra
+* 10:40: David Daniel 
+* 11:00: Rick Bacci
+* 11:20: Kenny Chen
+
+#### With Rachel
+
+* 10:00: Minnie Lee
+* 10:20: Justin Holmes
+* 10:40: Max Tedford
+* 11:00: Sally MacNicholas
+* 11:20: Morgan Miller
+* 11:40: Brett Grigsby
+
+#### With Horace
+
+* 10:00: David Stinette
+* 10:20: Justin Holzman
+* 10:40: Jerrod Junker
+* 11:00: Kyle Henson
+* 11:20: Markus Olsen
+
+#### With Jeff
+
+* 10:00: Tracy Contreras
+* 10:20: Drew Conly
+* 10:40: Lovisa Svallingson
+* 11:00: Max Millington
+* 11:20: Marla Brizel
+* 11:40: Justin Pease
+
+#### With Daisha
+
+* 10:00: Mihir Parikh
+* 10:20: Adam Caron
+* 10:40: Jason Wright
+* 11:00: Andrew Fink
+* 11:20: Mitch Ashby
+
+#### With Raissa
+
+* 10:00: David Shim
+* 10:20: Nicole Hall
+* 10:40: Andrew Carmer
+* 11:00: Robert Cornell
+* 11:20: Vanessa Gomez
+
+### Group Retrospectives (1:00 - 2:00)
+
+* 1412 in Classroom A with Daisha and Horace.
+* 1502 in Classroom C with Jorge and Sam.
+* 1503 in Classroom B with Rachel and Josh.
+* 1505 in Big Workspace with Jeff and Mike
+
+### Electives (2:00 - 4:00)
+
+#### TO BE ANNOUNCED
+
+#### GitCoins and Ruby Concurrency for Fun and Profit
+
+Join Horace in Classroom B to talk about the Dungeon's favorite crypto-currency,
+the __GitCoin__ ([site](http://git-coin.turingapps.io/gitcoins) / [repo](https://github.com/worace/git-coin)).
+We'll learn:
+
+* What is a GitCoin?
+* How can I acquire GitCoins?
+* How can I use multiple threads to acquire lots of GitCoins?
+* How can I exchange my GitCoins for Posse Cup Points?
+
+You will want to use JRuby for this exercise, so if you have not already, make
+sure you have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [JRuby](https://rvm.io/interpreters/jruby) installed. This session will require some knowledge of
+making HTTP requests so it may not be suited for module 1 students.
+
+#### Passion Projects - Theme: Sportsball
+
+Join Josh to hack on sports related side projects.
+
+#### Quality Time with Jason Noble
+We have the privilege of having the current leader in the Mentor Cup join us this afternoon. Jason will be hanging out in Classroom A, and will be doing a session on pairing and TDD. 1505 is highly encouraged to attend this.
+
+#### Side Hustles with Not Steve
+
+Mike is filling in for Steve
+
+Working on an awesome side project and need some accountability? Want to work on a side project, but need some inspiration? Interested in open source, but not sure where to start?
+
+We'll share some details about the status of our projects.
+
+Meet near the conference table near the Staff area.

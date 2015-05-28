@@ -1,0 +1,143 @@
+---
+title: 20150519
+layout: outline
+---
+
+## All
+
+Today is Pete Townshend's birthday!
+
+### Warm Up (8:30 - 9:00)
+
+You have new posse members! Make sure to invite them to Screenhero. And then teach them how to use Screenhero.
+
+Get your new cohort members set up on [Exercism](http://exercism.io) and pair with them on the first one.
+
+Post your solutions along with your posse name in #warmup-answers in order to earn 20 Posse Points.
+
+## 1412
+
+### Test-Driven JavaScript (9:00 - 12:00)
+
+Join Steve in Le Big Workspace for Test-Driven JavaScript.
+
+* [Repository and Sample Exercises](https://github.com/turingschool-examples/testing-javascript)
+* [Mocha.js](http://mochajs.org/)
+* [Sinon.js](http://sinonjs.org/)
+* [Teaspoon](https://github.com/modeset/teaspoon)
+
+### jQuery Revisited (1:00 - 2:30)
+
+Steve has you in Classroom A to revisit jQuery. Don't forget to bring your semicolons.
+
+This class is optional.
+
+### IdeaBox Work Time (1:00 - 4:00)
+
+Work work. Box some ideas. Maybe even idea some boxes.
+
+## 1502
+
+### Traversing the DOM with jQuery (9:00 - 10:30)
+
+Sam has you in Classroom B. You'll be working with the DOM.
+
+### DOM Events with jQuery (10:30 - 12:00)
+
+Stay right where you are. Now that you can traverse the DOM, you'll be doing events.
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+For your project check-ins remember to bring your wireframes, your guest user stories, and have your app deployed on Heroku.
+
+Client Check Ins (with Jorge)
+
+* 1:00 - 1:30: Eric, Patrick, Tom
+* 1:30 - 2:00: Kristina, Kenny, Lori
+* 2:00 - 2:30: Mihir, Jack, Tess
+* 2:30 - 3:00: Minnie, Tracy, Kyle
+* 3:00 - 3:30: Andrew, Michelle, Dave, Fred
+
+Technical Check Ins (with Sam)
+
+* 1:30 - 2:00: Eric, Patrick, Tom
+* 2:00 - 2:30: Kristina, Kenny, Lori
+* 2:30 - 3:00: Mihir, Jack, Tess
+* 3:00 - 3:30: Minnie, Tracy, Kyle
+* 3:30 - 4:00: Andrew, Michelle, Dave, Fred
+
+## 1503
+
+### HTML/CSS Homework Reviewed (9:00 - 9:30)
+
+Go over your styles and things with Josh in Classroom C.
+
+
+### How the Web Works (9:30 - 11:00)
+
+Learn about how this series of tubes called the Web works with Josh in Classroom C.
+
+### What is Rack? (11:00 - 12:00)
+
+Baby don't hurt me, don't hurt me, no more.
+
+With your favoritest person ever. In your favoritest classroom ever.
+
+Let's hack [Rack Lobster](https://github.com/turingschool-examples/rack-lobster).
+
+Check out [this article](http://hawkins.io/2012/07/rack_from_the_beginning/) if you are interested in diving deeper.
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C is the place to be, as you learn how to C-R-U-D.
+
+Nothing rhymes with Rachel. But you can find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+
+
+## 1505
+
+### Strings, Integers, and Control Flow (9:00 - 10:30)
+
+Mike will take you down a wonderful journey in Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/string_integers_and_control_flow.markdown)
+
+
+### Problems, Solutions, and Algorithms (10:30 - 12:00)
+
+Horace and Mike will be talking about how to solve things with your brain. Again in classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown)
+
+We'll be using the following small groups for an exercise during this lesson:
+
+* Justin Pease, Lovisa Svallingson, Max Millington
+* Justin Holzmann, Jerrod Paul Junker, Mike Reeves
+* David Shim, Mitch Ashby, Sebastian Abondano
+* Drew Conly, Rachel Parri, Jason Wright
+* Rebekah Sosa, Raymond Newby, David Stinnette
+* Tracy Contreras, Marla Brizel, Jai Misra
+* Adam Caron, Samson Brock, Michael Dorrance
+* Alex Tideman, Nicole Hall
+
+### EventManager (1:00 - 4:00)
+
+The Scavenger Hunt will have to wait for another day.
+
+This afternoon work through the introductory/exposure tutorial [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+You should write your own code, but you can use the following partner as a first-line-of-questioning when you run into problems:
+
+* Tracy Contreras & Jai Misra
+* Samson Brock & David Shim
+* Sebastian Abondano & David Stinnette
+* Michael Dorrance & Jerrod Paul Junker
+* Lovisa Svallingson & Rebekah Sosa
+* Drew Conly & Max Millington
+* Rachel Parri & Mitch Ashby
+* Nicole Hall & Adam Caron
+* Alex Tideman & Jason Wright
+* Mike Reeves & Justin Holzmann
+* Justin Pease & Marla Brizel
+
+Mike Dao will be in the kitchen area of Classroom A if you get really stuck.

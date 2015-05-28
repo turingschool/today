@@ -1,0 +1,130 @@
+---
+title: 20150528
+layout: outline
+---
+
+Today In History: 2014 - The anniversary of the death of Maya Angelou
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+Complete this following logic problem.
+
+[http://cl.ly/2Z3L2f0Z0o1D](http://cl.ly/2Z3L2f0Z0o1D)
+
+Post your solution in #warmup-answers with your full posse name to receive 20 points. Cut-off is 9:00 am.
+
+### Recitation - Git (4:15 - 5:30)
+
+You only have to come to this if you have something wrong with your git or want to get SSH keys set up or something along 
+those lines. This will be a session focused on just making sure everyone's configuration is set up properly.
+
+
+## 1412
+
+### Code Challenge (9:00 - 12:00)
+
+No tears, only code. Be in the Workspace bright and early at 9:00 AM to receive the assignment. This assignment will be completed individually over a 3-hour time span.
+
+### Code Review and Project Work Time (1:00 - 4:00)
+
+Meet with Horace, Josh, or Mike to review your exercise from the morning. When you're not reviewing, you should be working on your Re-Pivot projects.
+
+__Schedule:__
+
+With Horace:
+
+* 2:00 - 2:20: Kit Pearson
+* 2:20 - 2:40: Jeffrey Gu
+* 2:40 - 3:00: Miriam Moser
+* 3:00 - 3:20: Austin Wood
+* 3:20 - 3:40: Charles Valentino Espinoza
+* 3:40 - 4:00: Kyra Steenbock
+
+With Mike:
+
+* 1:00 - 1:20: Dustin Gault
+* 1:20 - 1:40: Edward McCarthy
+* 1:40 - 2:00: Trey Tomlinson
+
+With Josh M:
+
+* 1:00 - 1:20: DJ Greenfield
+* 1:20 - 1:40: Paul Grever
+* 1:40 - 2:00: Markus Olsen
+* 2:00 - 2:20: Rich Shea
+
+## 1502
+
+### Sending Email (9:00 - 10:30)
+
+Learn how to send email with your Rails app with Sam. Classroom B.
+
+### Seeding Data Efficiently (10:30 - 12:00)
+
+Now that you know how to send email, you'll learn from Sam how to seed your database in a way that doesn't make you curl up into the fetal position.
+
+Data is good.
+
+Still Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Work on them projects. Help each other. Help yourselves.
+
+
+## 1503
+
+### Traffic Spy Q&A  (9:00 - 10:00)
+
+You've had time to let things sink in. Now Josh will answer any questions you have before you get set off into the wide world. 
+Maybe he won't answer any question, but he'll answer any question you have about Traffic Spy. Classroom C.
+ 
+### Project Work Time (10:00 - 12:00)
+
+Finish this project, and you can get a job at the NSA.
+
+### Project Work Time (1:00 - 4:00)
+
+Continue to spy on that traffic.
+
+
+## 1505
+
+### Pairing On Cryptographer (9:00 - 11:00)
+
+We're gonna turn you into little code breakers. Join Mike as he talks about his first learning experience with cryptography.
+
+[Deets](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown)
+
+Classroom A.
+
+Pairs: 
+
+* Nicole Hall & Adam Caron
+* Samson Brock & David Stinnette
+* Mitch Ashby & Marla Brizel
+* Mike Reeves & Lovisa Svallingson
+* Justin Pease & Jason Wright
+* Jerrod Paul Junker & Justin Holzmann
+* Drew Conly & Rebekah Sosa
+* Alex Tideman & Jai Misra
+* Sebastian Abondano & David Shim
+* Max Millington & Michael Dorrance & Rachel Parri
+
+### Week 2 Diagnostic (11:00 - 12:00)
+
+Sharpen those pencils, folks. Classroom A.
+
+### Introduction to Bubble Sort (1:00 - 2:00)
+
+"The bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems" — Donald Knuth.
+
+Join Horace in Classroom A in to discuss the finer points of the bubble sort.
+
+If you ask nicely, maybe he'll [dance](https://www.youtube.com/watch?v=lyZQPjUT5B4) for you.
+
+### Work Time (2:00 - 4:00)
+
+Get stuff done! Mike will be available for questions.

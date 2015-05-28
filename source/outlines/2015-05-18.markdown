@@ -11,13 +11,44 @@ Welcome, 1505! We're glad you're here.
 
 We'll start in the big workspace with the entire student body.
 
+After an opening conversation, we'll use the [Coding Don't Cut It Anymore](https://github.com/turingschool/gear-up/blob/master/coding_dont_cut_it_anymore.markdown) exercise.
+
+Then we'll wrap with a short wrap up all together.
+
 ### How Posses Work (2:30 - 3:00)
 
 Everyone should meet in the Big Workspace to talk a little about how Posses should work and meet your new 1505 members.
 
 ### Technical Interview Prep (3:00 - 4:00)
 
-1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges.
+1412, 1502, and 1503 should meet with Horace in the Big Workspace on some technical interview prep challenges. We'll be working on [this challenge](https://github.com/turingschool/technical_puzzles/blob/master/possible_sum_sequences.markdown) to find possible sum sequences for a set of numbers.
+
+We'll be using the following pairs for the exercise:
+
+* Kyra Steenbock, Rich Shea
+* Thomas Leskin, Brett Grigsby
+* Kyle Henson, Markus Olsen
+* Lev Kravinsky, Margarett Ly
+* Eugene Khanutin, Justin Holmes
+* Rob Cornell, Andrew Carmer
+* Tess Griffin, Patrick Medaugh
+* Sally MacNicholas, Andrew Fink
+* Josh Cass, Lori Culberson
+* Max Tedford, Tracy Caruso
+* Dave Maurer, Charles Valentino Espinoza
+* Drew Reynolds, David Daniel
+* DJ Greenfield, Michelle Golle
+* Miriam Moser, Mihir Parikh
+* Edward McCarthy, Dustin Gault
+* Erik Butcher, Dmitry Vizersky
+* Kit Pearson, Austin Wood
+* Eric Dowty, Jeffrey Gu
+* Whitney Hiemstra, Morgan Miller
+* Trey Tomlinson, Vanessa Gomez
+* Paul Grever, Kenny Chen
+* Kristina Brown, Chelsea Worrel
+* Minnie Lee, Michael Merrill
+* __wildcard__: Rick Bacci
 
 ## 1412
 
@@ -41,7 +72,11 @@ Those ideas aren't going to box themselves. You must be the one to box them. Go 
 
 ### Understanding Multi-Tenancy (10:00 - 12:00)
 
-Meet with Jorge in Classroom A and learn how to build a platform that has multiple businesses or tenants.
+Meet with Jorge in Classroom A and learn how to build a platform that handles multiple businesses or tenants.
+
+* You can download the slides [here](https://www.dropbox.com/s/7so7sacihvoelfs/Turing%20-%20Understanding%20Multitenancy.key?dl=0).
+* You can download the notes [here](https://www.dropbox.com/s/kpm2ddj6k08hzrk/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0).
+* You can watch the session [here](https://vimeo.com/128198524).
 
 ### The Pivot Kickoff (1:00 - 2:00)
 
@@ -53,25 +88,26 @@ Meet [**The Pivot**](https://github.com/turingschool/lesson_plans/blob/master/ru
 
 You will work in the following groups:
 
-* Eric's codebase - Eric, Patrick, Tom
-* Kristina's codebase - Kristina, Kenny, Andrew
-* Mihir's codebase - Mihir, Jack, Michelle, Tess
-* Minnie's codebase - Minnie, Tracy, Dave, Kyle
+* Patrick's codebase - Eric, Patrick, Tom
+* Kristina's codebase - Kristina, Kenny, Lori
+* Mihir's codebase - Mihir, Jack, Tess
+* Kyle's codebase - Minnie, Tracy, Kyle
+* Andrew's codebase - Andrew, Michelle, Dave, Fred
 
 ## 1503
 
-### HTML/CSS Review (10:00 - 11:30)
+### HTML/CSS Review (10:00 - 12:00)
 
 Brush up on your HTML and CSS with Josh Mejia in Classroom C.
 Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_and_css_recap.markdown).
 
-### Introduction to Sinatra (11:30 - 12:00)
+### Introduction to Sinatra (1:00 - 1:30)
 
 Meet with Rachel in Classroom C.
 
 Get to know a little more about a web framework named after the second most famous person to come out of Hoboken, New Jersey. Find the slides [here](https://www.dropbox.com/s/6kulbxu31w3bwml/intro_to_sinatra.key?dl=0).
 
-### TaskManager Q&A and Review (1:00 - 2:30)
+### TaskManager Q&A and Review (1:30 - 2:30)
 
 Stick around with Rachel in Classroom C to talk about TaskManager. Bring questions! You need [this link](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_css_task_manager.markdown) when we talk about views and layouts in Sinatra.
 
