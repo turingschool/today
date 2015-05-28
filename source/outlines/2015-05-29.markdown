@@ -99,7 +99,9 @@ Spy some traffic. And then spy some more traffic.
 
 ### Minitest with Bubble Sort  (9:00 - 11:00)
 
-Now how to test your bubbles. Hope they don't pop! Jeff in Classroom A.
+Now how to test your bubbles. Hope they don't pop! Horace in Classroom A.
+
+The original assignment can be found [here](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown)
 
 ### Arguments and Scope, Work Time, Homework, Weekend (1:00 - 4:00)
 
