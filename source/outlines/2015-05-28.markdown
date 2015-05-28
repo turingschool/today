@@ -25,8 +25,7 @@ those lines. This will be a session focused on just making sure everyone's confi
 
 ### Code Challenge (9:00 - 12:00)
 
-No tears, only code. Be in Classroom A bright and early at 9:00 AM to receive the assignment. This assignment will be completed
-individually over a 3-hour time span.
+No tears, only code. Be in the Workspace bright and early at 9:00 AM to receive the assignment. This assignment will be completed individually over a 3-hour time span.
 
 ### Code Review and Project Work Time (1:00 - 4:00)
 
