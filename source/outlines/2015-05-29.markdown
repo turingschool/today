@@ -111,3 +111,4 @@ Meet with Mike in Classroom A to talk about your assignments for the weekend.
 * [Command and Query Exercises](https://github.com/turingschool/ruby-exercises/tree/master/command-query)
 * [Objects & Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
 * [Part 2 of POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown)
+* Bonus Homework: [Wizarding Bank Challenge](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
