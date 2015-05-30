@@ -1,0 +1,173 @@
+---
+title: 20150601
+layout: outline
+---
+
+Today in History: It's Morgan Freeman's birthday AND Amy Schumer's birthday.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Write a program that:
+
+* Generates the first 100 numbers in the [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number)
+* Prints them out one-by-one as it generates them
+* Outputs whether they are or are not prime numbers
+
+For example:
+
+```
+1. 0
+2. 1
+3. 1
+4. 2 (prime)
+5. 3 (prime)
+6. 5 (prime)
+7. 8
+8. 13 (prime)
+```
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+
+### Technical Interview Prep (2:30 - 4:00)
+
+To Be Announced
+
+Pairs:
+
+* Josh Cass & Fred Block
+* Michael Dorrance & Andrew Carmer
+* Kenny Chen & Samson Brock
+* Lori Culberson & Jerrod Paul Junker
+* Jack Yeh & Michael Merrill
+* Tess Griffin & Paul Grever
+* Miriam Moser & Alex Tideman
+* Eric Dowty & Max Tedford
+* Sebastian Abondano & Drew Conly
+* Lev Kravinsky & Austin Wood
+* Drew Reynolds & Trey Tomlinson
+* Rich Shea & Dave Maurer
+* Mike Reeves & Michelle Golle
+* Jason Wright & Dustin Gault  
+* David Shim & Margarett Ly
+* Vanessa Gomez & Chelsea Worrel
+* Rob Cornell & Justin Holmes
+* Kit Pearson & Dmitry Vizersky
+* Edward McCarthy & Lovisa Svallingson
+* Erik Butcher & David Daniel
+* Justin Holzmann & DJ Greenfield
+* Rick Bacci & * Justin Pease
+* Morgan Miller & Marla Brizel
+* Rebekah Sosa & Kyle Henson
+* Sally MacNicholas & Minnie Lee
+* Jeffrey Gu & Mihir Parikh
+* David Stinnette & Brett Grigsby
+* Whitney Hiemstra & Patrick Medaugh
+* Max Millington & Kristina Brown
+* Rachel Parri & Tyler Graham 
+* Thomas Leskin & Jai Misra
+* Adam Caron & Markus Olsen
+* Mitch Ashby & Kyra Steenbock
+* Tracy Caruso & Andrew Fink
+* WOWOWOW WILD CARD:  Charles Valentino Espinoza
+
+### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
+
+Classroom A.
+
+## 1412
+
+### Josh Cheek Strikes Back (9:00 - 12:00)
+
+Join Josh Cheek and revisit the Ruby Object Model through the lens of experience. Classroom A
+
+### Game Time Kickoff (1:00 - 2:30)
+
+Kick off your next project, Game Time with Steve. Big Workspace.
+
+
+## 1502
+
+### JSON Fundamentals (9:00 - 10:00)
+ 
+JSON is pretty much here to stay. Join Sam to learn all about it. Classroom B.
+ 
+### Building an API (10:00 - 12:00)
+ 
+Now that we know absolutely everything there is to know about JSON, we're going to use it 
+to build an API. Jorge will be guiding you on this wonderous journey. Classroom B.
+ 
+### Weekly Iteration: Getting Started with OAuth (1:00 - 2:30)
+ 
+Join Jorge as you get started with OAuth. 
+ 
+ 
+## 1503 
+ 
+### Traffic Spy Evaluations (9:00 - 12:00)
+
+I hope you finished them.
+
+Schedule TBA
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Join Rachel to learn about stuff and things. Bonus points if you bring a baby pig to class. Classroom C.
+
+
+## 1505
+
+### Credit Check Peer Review (9:00 - 12:00)
+
+When you're not having your diagnostic this morning,
+meet in the following pairs to discuss your Credit Check assignments:
+
+* Jerrod Paul Junker & Marla Brizel
+* David Stinnette & Samson Brock
+* David Shim & Sebastian Abondano
+* Adam Caron & Rachel Parri
+* Michael Dorrance & Mike Reeves
+* Rebekah Sosa & Jason Wright
+* Jai Misra & Mitch Ashby
+* Drew Conly & Max Millington
+* Justin Holzmann & Lovisa Svallingson
+* Justin Pease & Alex Tideman
+
+__60 minutes: Code Review__
+
+Spend the first 30 minutes reviewing one partner's code, then switch and
+review the other partner's code for 30 minutes.
+
+Here are some things we'd especially like to look for:
+
+* Does the solution work?
+* Is there evidence of iterative development toward a solution?
+* Are there tests included?
+* Do the tests exercise multiple layers of complexity and functionality?
+(simple to harder cases; covering all the methods or components of the
+problem, etc.)
+* If the solution uses an object-oriented approach, is it divided into
+granular methods and classes with clear responsibility?
+* Are the objects and methods well-named? Do they actually do the things
+described by their names?
+
+__120 minutes: Applying what you've learned__
+
+Now that we've had a chance to recap the assignment and see another
+person's solution, let's rework credit check
+and see if we can come up with any new approaches to the problem.
+
+Spend the next 120-ish minutes working with your pair on a new credit
+check solution (from scratch). Keep in mind the same principles we
+discussed when first presenting the assignment — work iteratively from a
+small/naive solution toward something more sophisticated.
+
+Don't forget to take Pomodoros.
+
+### Enigma Kickoff (1:00 - 2:30)
+
+Let's kickoff the Enigma Project [http://tutorials.jumpstartlab.com/projects/enigma.html](http://tutorials.jumpstartlab.com/projects/enigma.html)
+and brainstorm some ideas on how to break down this problem. Classroom A.
