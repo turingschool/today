@@ -1,0 +1,111 @@
+---
+title: 20150605
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+No survey, no breakfast.
+
+
+### Lightning Talks (9:00 - 10:00)
+
+* Charles Valentino Espinoza
+* Eric Dowty
+* Austin Wood: Learn You a Turing for Great Good!
+* DJ Greenfield
+* Edward McCarthy
+* Lori Culberson
+* David Daniel
+* Kenny Chen
+* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
+* Josh Cass
+* Lev Kravinsky
+
+### Gear Up (10:00 - 11:00)
+
+TBA
+
+### Guest Speaker: Josh Scott from Craftsy (11:00 - 12:00)
+
+He's the founder and COO of [Craftsy](http://craftsy.com)
+
+[Twitter](https://twitter.com/josh_scott)
+
+
+### Group Retros (1:00 - 2:00)
+
+* 1412 - Classroom A with Horace and Raissa
+* 1502 - Classroom B with Jorge and Sam
+* 1503 - Classroom C with Josh and Rachel
+* 1505 - Big Workspace with Jeff and Mike
+
+### Student-Led Sessions and One on Ones.
+
+#### With Mike
+
+* Marla Brizel
+* Sebastian Abondano
+* David Stinette
+* David Shim
+* Max Millington
+
+#### With Jeff
+
+* Justin Pease
+* Rebekah Sosa
+* Rachel Parri
+* Alex Tideman
+* Justin Holzmann
+
+
+#### With Rachel
+
+* Drew Reynolds
+* Josh Cass
+* Lev Kravinsky
+* Whitney Heimstra
+* Erik Butcher
+
+#### With Josh M
+
+* Margarett Ly
+* Chelsea Worrel
+* Dmitry Vizersky
+* Michael Merrill
+* David Maurer
+
+#### With Jorge
+
+* Eric Dowty
+* Michelle Golle
+* Patrick Medaugh
+* Tess Griffin
+* Thomas Leskin
+
+#### With Sam
+
+* Tracy Caruso
+* Lori Culberson
+* Jack Yeh
+* Tyler Graham
+* Jamie Kawahara
+
+#### With Horace
+
+* Markus Olsen
+* Charles Valentino Espinsosa
+* DJ Greenfield
+* Trey Tomlinson
+
+
+#### With Steve
+
+* Edward McCarthy
+* Rich Shea
+* Kit Pearson
+* Austin Wood
+* Lovisa Svallingson
+ 

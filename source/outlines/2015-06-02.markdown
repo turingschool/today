@@ -1,0 +1,85 @@
+---
+title: 20150602
+layout: outline
+---
+
+Today in History: 2004: Ken Jennings begins his 74 win streak on Jeopardy!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Imagine you have eight developers (Alex, Bernadette, Charles, Dana, Eddie, Fernanda, Gus, and Hiro). They want to pair program together every day, but they don't like to repeat pairs.
+
+Write an algorithm to generate a daily schedule which has seven full days of pairing schedules without a single repeated pair.
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+### Recitation - Methods, Arguments and Scopes (4:20 - 5:30)
+
+Classroom A
+
+## 1412
+
+### JavaScript Build Tools; (9:00 - 10:30)
+
+Steve will teach you how to artisinally craft some sweet code. Classroom A.
+
+### Using ES6 in Rails (10:30 - 12:00)
+
+Perhaps you should watch this before you attend class.  PERHAPS. Classroom A.
+
+[Using JavaScript From The Future In Your Rails App Today](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+
+### Game Time Work Time and Check-ins (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1502
+
+### Consuming APIs (9:00 - 12:00)
+
+You've learned how to build APIs, now learn how to consume them. DELICIOUS. Classroom B.
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+Work time.
+
+
+## 1503
+
+### Migrations, Databases, Relationships, and Models (9:00 - 12:00)
+
+Learn about some of the things that makes Rails, Rails with Rachel. Classroom C.
+
+### Rails Basics Work Time (1:00 - 4:00)
+
+Work in small groups.
+
+Groups TBA.
+
+
+## 1505
+
+### Enigma Work Time (9:00 - 10:30)
+
+Get to work crackin those codes. Mike will be available for questions.
+
+### Mystery Class (10:30 - 12:00)
+
+This is going to be SO good. More quality time with Jeff. Big Workspace.
+
+
+
+### File I/O (1:00 - 2:30)
+
+Learn how to read and write files in Ruby with Jeff. Classroom A.
+
+### Enigma Work Time (2:30 - 4:00)
+
+Get back to work!
+
+
+
