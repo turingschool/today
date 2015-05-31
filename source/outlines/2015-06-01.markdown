@@ -17,7 +17,8 @@ Write a program that:
 
 For example:
 
-```
+````
+
 1. 0
 
 2. 1
@@ -33,7 +34,8 @@ For example:
 7. 8
 
 8. 13 (prime)
-```
+
+````
 
 Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
