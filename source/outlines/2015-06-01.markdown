@@ -19,12 +19,19 @@ For example:
 
 ```
 1. 0
+
 2. 1
+
 3. 1
+
 4. 2 (prime)
+
 5. 3 (prime)
+
 6. 5 (prime)
+
 7. 8
+
 8. 13 (prime)
 ```
 
