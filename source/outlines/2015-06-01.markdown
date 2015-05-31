@@ -117,9 +117,18 @@ Join Jorge as you get started with OAuth.
  
 ### Traffic Spy Evaluations (9:00 - 12:00)
 
-I hope you finished them.
+#### With Josh 
 
-Schedule TBA
+* 9:00 - Sally MacNicholas, Andrew Fink, Tyler Graham
+* 9:45 - Brett Grigsby, Drew Reynolds, Dave Maurer
+* 10:30 - Morgan Miller, Justin Holmes, Vanessa Gomez
+* 11:15 - Erik Butcher, Lev Kravinsky, Whitney Hiemstra
+
+#### With Rachel
+
+* 9:00 - "Michael Merrill, Josh Cass, Jamie Kawahara
+* 9:45 - "Rick Bacci, Margarett Ly, Chelsea Worrel
+* 10:30 - Dmitry Vizersky, Max Tedford, Rob Cornell
 
 ### REST, Controllers, and Routing in Rails (1:00 - 2:30)
 
