@@ -116,8 +116,8 @@ Join Jorge as you get started with OAuth in Classroom B.
 
 #### With Rachel
 
-* 9:00 - "Michael Merrill, Josh Cass, Jamie Kawahara
-* 9:45 - "Rick Bacci, Margarett Ly, Chelsea Worrel
+* 9:00 - Michael Merrill, Josh Cass, Jamie Kawahara
+* 9:45 - Rick Bacci, Margarett Ly, Chelsea Worrel
 * 10:30 - Dmitry Vizersky, Max Tedford, Rob Cornell
 
 ### REST, Controllers, and Routing in Rails (1:00 - 2:30)

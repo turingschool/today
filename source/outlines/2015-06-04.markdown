@@ -31,9 +31,9 @@ Write a program that identifies which switches will be in the ON position after 
 Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
-### Recitation - Linked Lists (4:25 - 5:30)
+### Recitation - None 
 
-Classroom A.
+You just finished Enigma. Take a break. You deserve it. 
 
 
 ## 1412

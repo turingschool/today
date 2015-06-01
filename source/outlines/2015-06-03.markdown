@@ -14,7 +14,7 @@ Given a paragraph of text with multiple sentences, print out the five most commo
 Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
-### Recitation - Mythical Creatures (4:25 - 5:30)
+### Recitation - File I/O (4:25 - 5:30)
 
 Classroom A
 
