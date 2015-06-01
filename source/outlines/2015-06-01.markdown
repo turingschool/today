@@ -66,10 +66,10 @@ Pairs:
 * Jeffrey Gu & Mihir Parikh
 * Brett Grigsby & Kristina Brown
 * Whitney Hiemstra & Patrick Medaugh
-* Markus Olsen & Tyler Graham 
-* Thomas Leskin & Jai Misra
+* Markus Olsen & Tyler Graham  
 * Tracy Caruso & Kyra Steenbock
 * Charles Valentino Espinoza & Andrew Fink
+* WOWOWOWOWO WILD CARD: Thomas Leskin
 
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
