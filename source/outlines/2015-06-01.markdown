@@ -55,7 +55,7 @@ Pairs:
 * Drew Reynolds & Trey Tomlinson
 * Rich Shea & Dave Maurer
 * Margarett Ly & Michelle Golle
-* Edward McCarthy & Dustin Gault  
+* Edward McCarthy & Dustin Gault
 * Vanessa Gomez & Chelsea Worrel
 * Rob Cornell & Justin Holmes
 * Kit Pearson & Dmitry Vizersky
@@ -66,7 +66,7 @@ Pairs:
 * Jeffrey Gu & Mihir Parikh
 * Brett Grigsby & Kristina Brown
 * Whitney Hiemstra & Patrick Medaugh
-* Markus Olsen & Tyler Graham  
+* Markus Olsen & Tyler Graham
 * Tracy Caruso & Kyra Steenbock
 * Charles Valentino Espinoza & Andrew Fink
 * WOWOWOWOWO WILD CARD: Thomas Leskin
@@ -74,6 +74,7 @@ Pairs:
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
 Classroom A.
+https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/
 
 
 ## 1412
