@@ -90,7 +90,16 @@ Last we'll gather back in the workspace and share one pairs' solution to both pa
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
 Classroom A.
-https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/
+
+Read This: https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/
+
+Mike has a meeting, so instead of listening to him drone on forever and ever in the front of Classroom A, listen
+to him drone on forever and ever on your computer:
+
+* [Methods, Arguments and Scope](https://vimeo.com/129376008)
+* [Objects and Methods Homework Exercise](https://vimeo.com/129364217)
+
+Talk amongst yourselves.
 
 
 ## 1412
