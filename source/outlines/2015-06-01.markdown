@@ -35,7 +35,7 @@ For example:
 8. 13 (prime)
 
 
-Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
 
@@ -47,7 +47,7 @@ Pairs:
 
 * Josh Cass & Fred Block
 * Kenny Chen & Andrew Carmer
-* Lori Culberson & Miriam Moser 
+* Lori Culberson & Miriam Moser
 * Jack Yeh & Michael Merrill
 * Tess Griffin & Paul Grever
 * Eric Dowty & Max Tedford
@@ -61,7 +61,7 @@ Pairs:
 * Kit Pearson & Dmitry Vizersky
 * Erik Butcher & David Daniel
 * Rick Bacci & DJ Greenfield
-* Morgan Miller & Kyle Henson 
+* Morgan Miller & Kyle Henson
 * Sally MacNicholas & Minnie Lee
 * Jeffrey Gu & Mihir Parikh
 * Brett Grigsby & Kristina Brown
@@ -90,24 +90,57 @@ Kick off your next project, Game Time with Steve. Big Workspace.
 ## 1502
 
 ### JSON Fundamentals (9:00 - 10:00)
- 
+
 JSON is pretty much here to stay. Join Sam to learn all about it. Classroom B.
- 
+
 ### Building an API (10:00 - 12:00)
- 
-Now that we know absolutely everything there is to know about JSON, we're going to use it 
-to build an API. Jorge will be guiding you on this wonderous journey. Classroom B.
- 
+
+In this lesson you will learn:
+
+* How serve HTML, JSON and XML from a single controller.
+* How to use respond_to and respond_with to refactor your controller.
+* How to implement a versioned controller that separates your human interface from the machine interface.
+
+Before the session, please clone this repo:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+Materials for this lesson:
+
+* [Notes](#)
+
+Join Jorge in Classroom B.
+
 ### Weekly Iteration: Getting Started with OAuth (1:00 - 2:30)
- 
-Join Jorge as you get started with OAuth in Classroom B.
- 
- 
-## 1503 
- 
+
+In this lesson you will learn:
+
+* What is OAuth.
+* How to use a third-party service to authenticate into your app.
+* How to implement Omniauth.
+
+Before the session, pleas clone this repo:
+
+```
+git clone https://github.com/turingschool-examples/secretic.git getting_started_with_oauth
+```
+
+Also, go to Github and register a new application. You can do that [here](https://github.com/settings/developers). Make sure to have the `Client ID` and the `Client Secret` handy.
+
+Materials for this lesson:
+
+* [Notes](#)
+* [Slides](#)
+
+Join Jorge in Classroom B.
+
+## 1503
+
 ### Traffic Spy Evaluations (9:00 - 12:00)
 
-#### With Josh 
+#### With Josh
 
 * 9:00 - Sally MacNicholas, Andrew Fink, Tyler Graham
 * 9:45 - Brett Grigsby, Drew Reynolds, Dave Maurer
