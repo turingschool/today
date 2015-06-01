@@ -17,7 +17,7 @@ Write a program that:
 
 For example:
 
-```
+
 1. 0
 
 2. 1
@@ -33,7 +33,7 @@ For example:
 7. 8
 
 8. 13 (prime)
-```
+
 
 Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
@@ -46,40 +46,30 @@ To Be Announced
 Pairs:
 
 * Josh Cass & Fred Block
-* Michael Dorrance & Andrew Carmer
-* Kenny Chen & Samson Brock
-* Lori Culberson & Jerrod Paul Junker
+* Kenny Chen & Andrew Carmer
+* Lori Culberson & Miriam Moser 
 * Jack Yeh & Michael Merrill
 * Tess Griffin & Paul Grever
-* Miriam Moser & Alex Tideman
 * Eric Dowty & Max Tedford
-* Sebastian Abondano & Drew Conly
 * Lev Kravinsky & Austin Wood
 * Drew Reynolds & Trey Tomlinson
 * Rich Shea & Dave Maurer
-* Mike Reeves & Michelle Golle
-* Jason Wright & Dustin Gault  
-* David Shim & Margarett Ly
+* Margarett Ly & Michelle Golle
+* Edward McCarthy & Dustin Gault  
 * Vanessa Gomez & Chelsea Worrel
 * Rob Cornell & Justin Holmes
 * Kit Pearson & Dmitry Vizersky
-* Edward McCarthy & Lovisa Svallingson
 * Erik Butcher & David Daniel
-* Justin Holzmann & DJ Greenfield
-* Rick Bacci & Justin Pease
-* Morgan Miller & Marla Brizel
-* Rebekah Sosa & Kyle Henson
+* Rick Bacci & DJ Greenfield
+* Morgan Miller & Kyle Henson 
 * Sally MacNicholas & Minnie Lee
 * Jeffrey Gu & Mihir Parikh
-* David Stinnette & Brett Grigsby
+* Brett Grigsby & Kristina Brown
 * Whitney Hiemstra & Patrick Medaugh
-* Max Millington & Kristina Brown
-* Rachel Parri & Tyler Graham 
+* Markus Olsen & Tyler Graham 
 * Thomas Leskin & Jai Misra
-* Adam Caron & Markus Olsen
-* Mitch Ashby & Kyra Steenbock
-* Tracy Caruso & Andrew Fink
-* WOWOWOW WILD CARD:  Charles Valentino Espinoza
+* Tracy Caruso & Kyra Steenbock
+* Charles Valentino Espinoza & Andrew Fink
 
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
@@ -110,7 +100,7 @@ to build an API. Jorge will be guiding you on this wonderous journey. Classroom 
  
 ### Weekly Iteration: Getting Started with OAuth (1:00 - 2:30)
  
-Join Jorge as you get started with OAuth. 
+Join Jorge as you get started with OAuth in Classroom B.
  
  
 ## 1503 
@@ -137,20 +127,19 @@ Join Rachel to learn about stuff and things. Bonus points if you bring a baby pi
 
 ## 1505
 
-### Credit Check Peer Review (9:00 - 12:00)
+### Credit Check Peer Review (9:00 - 10:00)
 
-When you're not having your diagnostic this morning,
-meet in the following pairs to discuss your Credit Check assignments:
+Meet in the following pairs to discuss your Credit Check assignments:
 
 * Jerrod Paul Junker & Marla Brizel
 * David Stinnette & Samson Brock
 * David Shim & Sebastian Abondano
 * Adam Caron & Rachel Parri
-* Michael Dorrance & Mike Reeves
+* Michael Dorrance & Lovisa Svallingson
 * Rebekah Sosa & Jason Wright
 * Jai Misra & Mitch Ashby
 * Drew Conly & Max Millington
-* Justin Holzmann & Lovisa Svallingson
+* Justin Holzmann & Mike Reeves
 * Justin Pease & Alex Tideman
 
 __60 minutes: Code Review__
@@ -171,57 +160,20 @@ granular methods and classes with clear responsibility?
 * Are the objects and methods well-named? Do they actually do the things
 described by their names?
 
-__120 minutes: Applying what you've learned__
+### Credit Check Small-Group Review (10:00 - 11:30)
 
-Now that we've had a chance to recap the assignment and see another
-person's solution, let's rework credit check
-and see if we can come up with any new approaches to the problem.
+Meet in the Big Workspace in these groups:
+* Marla Brizel & Sebastian Abondano & Justin Pease & David Stinnette & Rebekah Sosa & David Shim & Max Millington & Rachel Parri & Alex Tideman & Lovisa Svallingson
+* Jai Misra & Justin Holzmann & Adam Caron & Drew Conly & Mitch Ashby & Samson Brock & Michael Dorrance & Mike Reeves & Jerrod Paul Junker & Jason Wright
 
-Spend the next 120-ish minutes working with your pair on a new credit
-check solution (from scratch). Keep in mind the same principles we
-discussed when first presenting the assignment — work iteratively from a
-small/naive solution toward something more sophisticated.
+### Starting Mythical Creatures (11:30 - 12:00)
 
-Don't forget to take Pomodoros.
+Stay in the Big Workspace.
 
-### Module 1 Diagnostic (9:00 - 12:00)
+### Mythical Creatures Work Time (1:00 - 3:00)
 
-Details to be announced.
+Myth those creatures. Creature those myths. Or something. Stay in Classroom A.
 
-#### With Mike
+### Mythical Creatures Q and A (3:00 - 4:00)
 
-* 9:00 - Marla Brizel
-* 9:30 - Sebastian Abondano
-* 10:00 - Samson Brock
-* 10:30 - Lovisa Svallingson
-* 11:00 - Max Millington
-* 11:30 - David Shim
-	
-#### With Jeff
-		
-* 9:00 - Rebekah Sosa
-* 9:30 - Rachel Parri
-* 10:00 - Alex Tideman
-* 10:30 - David Stinnette
-* 11:00 - Jai Misra
-* 11:30 - Justin Holzmann
-   
-#### With Horace
-   
-* 9:00 - Adam Caron
-* 9:30 - Drew Conly
-* 10:00 - Mitch Ashby
-* 10:30 - Justin Pease
-* 11:00 - Michael Dorrance
-* 11:30 - Mike Reeves
-
-#### With Sam	
-
-* 10:00 - Jerrod Paul Junker
-* 10:30 - Jason Wright
-
-
-### Enigma Kickoff (1:00 - 2:30)
-
-Let's kickoff the Enigma Project [http://tutorials.jumpstartlab.com/projects/enigma.html](http://tutorials.jumpstartlab.com/projects/enigma.html)
-and brainstorm some ideas on how to break down this problem. Classroom A.
+Classroom A.
