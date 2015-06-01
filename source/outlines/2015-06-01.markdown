@@ -41,9 +41,21 @@ The most interesting/creative/obfuscated solutions will receive an arbitrary num
 
 ### Technical Interview Prep (2:30 - 4:00)
 
-To Be Announced
+Today you have 90 minutes, Jorge facilitating, and no 1505ers participating. We'll break our efforts into three sessions:
 
-Pairs:
+#### Part 1: Solo (2:30 - 3:00)
+
+* [Find the challenge here](https://github.com/turingschool/technical_puzzles/blob/master/fundamental_logic_gates.markdown)
+* Build the AND functionality on your own (with tests, of course)
+
+#### Part 2: Peering (3:05 - 3:45)
+
+In the second block get together with the pair below and do each of the following:
+
+* Compare your solutions for Part 1 and share any interesting ideas or approaches you came to (~10 minutes)
+* Pair program a solution to the OR challenges
+
+Pairings:
 
 * Josh Cass & Fred Block
 * Kenny Chen & Andrew Carmer
@@ -70,6 +82,10 @@ Pairs:
 * Tracy Caruso & Kyra Steenbock
 * Charles Valentino Espinoza & Andrew Fink
 * WOWOWOWOWO WILD CARD: Thomas Leskin
+
+#### Part 3: Sharing (3:50 - 4:00)
+
+Last we'll gather back in the workspace and share one pairs' solution to both parts.
 
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
