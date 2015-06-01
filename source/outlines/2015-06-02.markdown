@@ -63,14 +63,13 @@ Groups TBA.
 
 ## 1505
 
-### Enigma Work Time (9:00 - 10:30)
+### Character Count (9:00 - 10:30)
 
-Get to work crackin those codes. Mike will be available for questions.
+Counting some characters in the Big Workspace with Mike
 
-### Mystery Class (10:30 - 12:00)
+### Enigma Kickoff (10:30 - 12:00)
 
-This is going to be SO good. More quality time with Jeff. Big Workspace.
-
+Let's kickoff Enigma and brainstorm how to get started with Jeff in the Big Workspace.
 
 
 ### File I/O (1:00 - 2:30)
