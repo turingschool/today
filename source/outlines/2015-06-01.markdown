@@ -109,7 +109,7 @@ git clone -b building_api https://github.com/turingschool-examples/storedom.git 
 
 Materials for this lesson:
 
-* [Notes](#)
+* [Notes](https://www.dropbox.com/s/af4gkrwov55fl1e/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
 
 Join Jorge in Classroom B.
 
@@ -131,8 +131,8 @@ Also, go to Github and register a new application. You can do that [here](https:
 
 Materials for this lesson:
 
-* [Notes](#)
-* [Slides](#)
+* [Notes](https://www.dropbox.com/s/4nytlnvraszd761/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/byn8y2rqkp9nhy8/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
 
 Join Jorge in Classroom B.
 
