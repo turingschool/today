@@ -85,16 +85,17 @@ Meet with Sam for code check-ins.
 
 ## 1503
 
-### Migrations, Databases, Relationships, and Models (9:00 - 12:00)
+### Migrations, Databases, Relationships, and Models (9:00 - 11:00)
 
-Learn about some of the things that makes Rails, Rails with Rachel. Classroom C.
+Learn about some of the things that makes Rails, Rails with Rachel. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown). 
 
-### Rails Basics Work Time (1:00 - 4:00)
+### Rails Basics Work Time (11:00 - 12:00 and 1:00 - 3:00)
 
-Work in small groups.
+Work through the [migrations, models, databases, and relationships challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown).
 
-Groups TBA.
+### Implementation Review (3:00 - 4:00)
 
+Join Josh in Classroom C. 
 
 ## 1505
 
