@@ -1,0 +1,118 @@
+---
+title: 20150602
+layout: outline
+---
+
+Today in History: 2004: Ken Jennings begins his 74 win streak on Jeopardy!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Imagine you have eight developers (Alex, Bernadette, Charles, Dana, Eddie, Fernanda, Gus, and Hiro). They want to pair program together every day, but they don't like to repeat pairs.
+
+Write an algorithm to generate a daily schedule which has seven full days of pairing schedules without a single repeated pair.
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+### Recitation - Methods, Arguments and Scopes (4:20 - 5:30)
+
+Classroom A
+
+
+## 1412
+
+### JavaScript Build Tools; (9:00 - 10:30)
+
+Steve will teach you how to craft some sweet code. Classroom A.
+
+We're going to talk about:
+
+* Node modules
+* npm scripts
+* Webpack
+* Testing your web applications
+
+### Using ES6 in Rails (10:30 - 12:00)
+
+Let's take a look at the future of JavaScript with Steve in Classroom A.
+
+* [Steve talking about the topic in front of strangers](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+* [Steve's slides from his discussion about this topic with strangers](https://speakerdeck.com/stevekinney/denverscript-es6-and-beyond)
+
+### Game Time Work Time (1:00 - 4:00)
+
+Horace is on hand for questions.
+
+
+## 1502
+
+### Consuming APIs (9:00 - 12:00)
+
+In this lesson you will learn how to consume APIs from a third-party service.
+
+Before the class, please clone this repo:
+
+```
+git clone https://github.com/turingschool-examples/schoolist.git
+```
+
+The supporting materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/uzqcgncc7omx58o/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
+
+Join Jorge in Classroom B.
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+Meet with Jorge for client check-ins.
+
+* 1:00 - 1:30: Kristina, Dave, Patrick
+* 1:30 - 2:00: Eric, Fred, Kenny
+* 2:00 - 2:30: Andrew, Tess, Kyle
+* 2:30 - 3:00: Minnie, Michelle, Tom
+* 3:00 - 3:30: Mihir, Lori, Tracy
+* 3:30 - 4:00: Jack
+
+Meet with Sam for code check-ins.
+
+* 1:30 - 2:00: Kristina, Dave, Patrick
+* 2:00 - 2:30: Eric, Fred, Kenny
+* 2:30 - 3:00: Andrew, Tess, Kyle
+* 3:00 - 3:30: Minnie, Michelle, Tom
+* 3:30 - 4:00: Mihir, Lori, Tracy
+
+## 1503
+
+### Migrations, Databases, Relationships, and Models (9:00 - 11:00)
+
+Learn about some of the things that makes Rails, Rails with Rachel. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown). 
+
+### Rails Basics Work Time (11:00 - 12:00 and 1:00 - 3:00)
+
+Work through the [migrations, models, databases, and relationships challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown).
+
+### Implementation Review (3:00 - 4:00)
+
+Join Josh in Classroom C. 
+
+## 1505
+
+### Character Count (9:00 - 10:30)
+
+Counting some characters in the Big Workspace with Mike.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/character_count.markdown)
+
+### Enigma Kickoff (10:30 - 12:00)
+
+Let's kickoff Enigma and brainstorm how to get started with Jeff in the Big Workspace.
+
+### File I/O (1:00 - 2:30)
+
+Learn how to read and write files in Ruby with Jeff. Classroom A.
+
+### Enigma Work Time (2:30 - 4:00)
+
+Get back to work! Mike will be on hand for questions somewhere. Somewhere.

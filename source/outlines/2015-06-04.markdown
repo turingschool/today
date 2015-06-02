@@ -1,0 +1,104 @@
+---
+title: 20150604
+layout: outline
+---
+
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+You are in a room with 100 light switches in a line along the wall.  
+They all start in the OFF position.  
+ 
+When you first enter the room, you walk down the line of all 100 switches
+and change each one to the ON position.  
+ 
+Then you start from the beginning again, this time changing
+the position of every second switch (e.g. #2, #4, #6...).  
+If it was ON, now it is OFF and if it was OFF, now it is ON.
+ 
+Then you start from the beginning again and change every THIRD switch (e.g. #3, #6, #9…)...
+
+...then again for every FOURTH switch (e.g. #4, #8, #12…) ...
+
+...then again for every FIFTH switch...
+
+...and so on until you've made 100 trips.
+ 
+Write a program that identifies which switches will be in the ON position after this is completed.
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+### Recitation - None 
+
+You just finished Enigma. Take a break. You deserve it. 
+
+
+## 1412
+
+### Introduction to Ember II (9:00 - 12:00)
+
+Ooooh and Ahhhh with Steve as you learn more about Ember. Classroom A.
+
+### Game Time Work Time and Check-Ins.
+
+Schedule TBA.
+
+
+## 1502
+
+### Project Work Time (9:00 - 12:00)
+
+Work time.
+
+### Project Work Time and Check-Ins (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1503
+
+### Blogger Recap (9:00 - 9:30)
+
+Join Josh as you review the Blogger tutorial. Classroom C.
+
+### Review: Feature Testing in Rails (9:30 - 10:30)
+
+Stay with Josh as you go over how to write feature tests in Rails.
+
+### Model Testing, Custom and Built-In Validations (10:30 - 12:00)
+
+Rachel will talk to you all about models - how to test them and how to perfor model validations. Classroom C.
+
+### Model Testing and Validations Work Time.(1:00 - 3:00)
+
+Work on validating that data. 
+
+### Contact Manager Kickoff and Work Time (3:00 - 4:00)
+
+You'll now be moving onto your next Rails tutorial. Make sure you thank Josh, because
+he rewrote a large portion of this tutorial so that it actually works now. You don't even
+want to know what it was like before. Seriously. Classroom C.
+
+
+## 1505
+
+### Enigma Q & A (9:00 - 10:00)
+
+Ask Mike your last minute questions in Classroom B. 
+
+### Enigma Work Time (10:00 - 12:00)
+
+Your final push.
+
+### Week 3 Diagnostic (1:00 - 3:00)
+
+While you are not being evaluated, you will be doing this week's diagnostic in Classroom A.
+
+### Enigma Evaluations (1:00 - 3:00)
+
+Schedule TBA
+
+

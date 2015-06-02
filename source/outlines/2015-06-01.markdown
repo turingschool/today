@@ -1,0 +1,244 @@
+---
+title: 20150601
+layout: outline
+---
+
+Today in History: It's Morgan Freeman's birthday AND Amy Schumer's birthday.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Write a program that:
+
+* Generates the first 100 numbers in the [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number)
+* Prints them out one-by-one as it generates them
+* Outputs whether they are or are not prime numbers
+
+For example:
+
+
+1. 0
+
+2. 1
+
+3. 1
+
+4. 2 (prime)
+
+5. 3 (prime)
+
+6. 5 (prime)
+
+7. 8
+
+8. 13 (prime)
+
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Today you have 90 minutes, Jorge facilitating, and no 1505ers participating. We'll break our efforts into three sessions:
+
+#### Part 1: Solo (2:30 - 3:00)
+
+* [Find the challenge here](https://github.com/turingschool/technical_puzzles/blob/master/fundamental_logic_gates.markdown)
+* Build the AND functionality on your own (with tests, of course)
+
+#### Part 2: Peering (3:05 - 3:45)
+
+In the second block get together with the pair below and do each of the following:
+
+* Compare your solutions for Part 1 and share any interesting ideas or approaches you came to (~10 minutes)
+* Pair program a solution to the OR challenges
+
+Pairings:
+
+* Josh Cass & Fred Block
+* Kenny Chen & Andrew Carmer
+* Lori Culberson & Miriam Moser
+* Jack Yeh & Michael Merrill
+* Tess Griffin & Paul Grever
+* Eric Dowty & Max Tedford
+* Lev Kravinsky & Austin Wood
+* Drew Reynolds & Trey Tomlinson
+* Rich Shea & Dave Maurer
+* Margarett Ly & Michelle Golle
+* Edward McCarthy & Dustin Gault
+* Vanessa Gomez & Chelsea Worrel
+* Rob Cornell & Justin Holmes
+* Kit Pearson & Dmitry Vizersky
+* Erik Butcher & David Daniel
+* Rick Bacci & DJ Greenfield
+* Morgan Miller & Kyle Henson
+* Sally MacNicholas & Minnie Lee
+* Jeffrey Gu & Mihir Parikh
+* Brett Grigsby & Kristina Brown
+* Whitney Hiemstra & Patrick Medaugh
+* Markus Olsen & Tyler Graham
+* Tracy Caruso & Kyra Steenbock
+* Charles Valentino Espinoza & Andrew Fink
+* WOWOWOWOWO WILD CARD: Thomas Leskin
+
+#### Part 3: Sharing (3:50 - 4:00)
+
+Last we'll gather back in the workspace and share one pairs' solution to both parts.
+
+### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
+
+Classroom A.
+
+Read This: https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/
+
+Mike has a meeting, so instead of listening to him drone on forever and ever in the front of Classroom A, listen
+to him drone on forever and ever on your computer:
+
+* [Methods, Arguments and Scope](https://vimeo.com/129376008)
+* [Objects and Methods Homework Exercise](https://vimeo.com/129364217)
+
+Talk amongst yourselves.
+
+
+## 1412
+
+### Josh Cheek Strikes Back (9:00 - 12:00)
+
+Join Josh Cheek and revisit the Ruby Object Model through the lens of experience. Classroom A.
+
+### Game Time Kickoff (1:00 - 2:30)
+
+Kick off your next project, [Game Time](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) with Horace. Big Workspace.
+
+You'll be working in the following pairs:
+
+* Kit Pearson & Paul Grever
+* Austin Wood & Edward McCarthy
+* Markus Olsen & Kyra Steenbock
+* Miriam Moser & DJ Greenfield
+* Rich Shea & Trey Tomlinson
+* Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+
+## 1502
+
+### JSON Fundamentals (9:00 - 10:00)
+
+JSON is pretty much here to stay. Join Sam to learn all about it. Classroom B.
+
+### Building an API (10:00 - 12:00)
+
+In this lesson you will learn:
+
+* How serve HTML, JSON and XML from a single controller.
+* How to use respond_to and respond_with to refactor your controller.
+* How to implement a versioned controller that separates your human interface from the machine interface.
+
+Before the session, please clone this repo:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+Materials for this lesson:
+
+* [Notes](https://www.dropbox.com/s/af4gkrwov55fl1e/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
+
+Join Jorge in Classroom B.
+
+### Weekly Iteration: Getting Started with OAuth (1:00 - 2:30)
+
+In this lesson you will learn:
+
+* What is OAuth.
+* How to use a third-party service to authenticate into your app.
+* How to implement Omniauth.
+
+Before the session, pleas clone this repo:
+
+```
+git clone https://github.com/turingschool-examples/secretic.git getting_started_with_oauth
+```
+
+Also, go to Github and register a new application. You can do that [here](https://github.com/settings/developers). Make sure to have the `Client ID` and the `Client Secret` handy.
+
+Materials for this lesson:
+
+* [Notes](https://www.dropbox.com/s/4nytlnvraszd761/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/byn8y2rqkp9nhy8/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
+
+Join Jorge in Classroom B.
+
+## 1503
+
+### Traffic Spy Evaluations (9:00 - 12:00)
+
+#### With Josh
+
+* 9:00 - Sally MacNicholas, Andrew Fink, Tyler Graham
+* 9:45 - Brett Grigsby, Drew Reynolds, Dave Maurer
+* 10:30 - Morgan Miller, Justin Holmes, Vanessa Gomez
+* 11:15 - Erik Butcher, Lev Kravinsky, Whitney Hiemstra
+
+#### With Rachel
+
+* 9:00 - Michael Merrill, Josh Cass, Jamie Kawahara
+* 9:45 - Rick Bacci, Margarett Ly, Chelsea Worrel
+* 10:30 - Dmitry Vizersky, Max Tedford, Rob Cornell
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Join Rachel to learn about stuff and things. Bonus points if you bring a baby pig to class. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown). 
+
+
+## 1505
+
+### Credit Check Peer Review (9:00 - 10:00)
+
+Meet in the following pairs to discuss your Credit Check assignments:
+
+* Jerrod Paul Junker & Marla Brizel
+* David Stinnette & Samson Brock
+* David Shim & Sebastian Abondano
+* Adam Caron & Rachel Parri
+* Michael Dorrance & Lovisa Svallingson
+* Rebekah Sosa & Jason Wright
+* Jai Misra & Mitch Ashby
+* Drew Conly & Max Millington
+* Justin Holzmann & Mike Reeves
+* Justin Pease & Alex Tideman
+
+__60 minutes: Code Review__
+
+Spend the first 30 minutes reviewing one partner's code, then switch and
+review the other partner's code for 30 minutes.
+
+Here are some things we'd especially like to look for:
+
+* Does the solution work?
+* Is there evidence of iterative development toward a solution?
+* Are there tests included?
+* Do the tests exercise multiple layers of complexity and functionality?
+(simple to harder cases; covering all the methods or components of the
+problem, etc.)
+* If the solution uses an object-oriented approach, is it divided into
+granular methods and classes with clear responsibility?
+* Are the objects and methods well-named? Do they actually do the things
+described by their names?
+
+### Credit Check Small-Group Review (10:00 - 11:30)
+
+Meet in the Big Workspace. If you're feeling good about your solution, sit with Mike. Less so, sit with Jeff.
+
+### Starting Mythical Creatures (11:30 - 12:00)
+
+Stay in the Big Workspace.
+
+### Mythical Creatures Work Time (1:00 - 2:30)
+
+Myth those creatures. Creature those myths. Or something. Stay in Classroom A.
+
+### Mythical Creatures Q and A (2:30 - 4:00)
+
+Classroom A.

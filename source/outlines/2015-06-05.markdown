@@ -1,0 +1,109 @@
+---
+title: 20150605
+layout: outline
+---
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+No survey, no breakfast.
+
+
+### Lightning Talks (9:00 - 10:00)
+
+* Charles Valentino Espinoza
+* Eric Dowty
+* Austin Wood: Learn You a Turing for Great Good!
+* DJ Greenfield
+* Edward McCarthy
+* Lori Culberson
+* Kristina Brown
+* Kenny Chen
+* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
+* Josh Cass
+* Lev Kravinsky
+
+### Gear Up (10:00 - 11:00)
+
+TBA
+
+### Guest Speaker: Josh Scott from Craftsy (11:00 - 12:00)
+
+He's the founder and COO of [Craftsy](http://craftsy.com)
+
+[Twitter](https://twitter.com/josh_scott)
+
+
+### Group Retros (1:00 - 2:00)
+
+* 1412 - Classroom A with Horace and Raissa
+* 1502 - Classroom B with Jorge and Sam
+* 1503 - Classroom C with Josh and Rachel
+* 1505 - Big Workspace with Jeff and Mike
+
+### Student-Led Sessions and One on Ones. (2:00 - 4:00) 
+
+#### With Mike
+
+* 2:00 - Marla Brizel
+* 2:20 - Sebastian Abondano
+* 2:40 - David Stinette
+* 3:00 - David Shim
+* 3:20 - Max Millington
+
+#### With Jeff
+
+* 2:00 - Justin Pease
+* 2:20 - Rebekah Sosa
+* 2:40 - Rachel Parri
+* 3:00 - Alex Tideman
+* 3:20 - Justin Holzmann
+
+#### With Rachel
+
+* 2:00 - Drew Reynolds
+* 2:20 - Josh Cass
+* 2:40 - Lev Kravinsky
+* 3:00 - Whitney Heimstra
+* 3:20 - Erik Butcher
+
+#### With Josh M
+
+* 2:00 - Margarett Ly
+* 2:20 - Chelsea Worrel
+* 2:40 - Dmitry Vizersky
+* 3:00 - Michael Merrill
+* 3:20 - David Maurer
+
+#### With Jorge
+
+* 2:00 - Eric Dowty
+* 2:20 - Michelle Golle
+* 2:40 - Patrick Medaugh
+* 3:00 - Tess Griffin
+* 3:20 - Thomas Leskin
+
+#### With Sam
+
+* 2:00 - Tracy Caruso
+* 2:20 - Lori Culberson
+* 2:40 - Jack Yeh
+* 3:00 - Tyler Graham
+* 3:20 - Jamie Kawahara
+
+#### With Horace
+
+* 2:00 - Markus Olsen
+* 2:20 - Charles Valentino Espinsosa
+* 2:40 - DJ Greenfield
+* 3:00 - Trey Tomlinson
+
+#### With Steve
+
+* 2:00 - Edward McCarthy
+* 2:20 - Rich Shea
+* 2:40 - Kit Pearson
+* 3:00 - Austin Wood
+* 3:20 - Lovisa Svallingson
+ 

@@ -1,0 +1,83 @@
+---
+title: 20150603
+layout: outline
+---
+
+Today in History: 1965 - Gemini 4 launches, and Ed White performs the first American spacewalk.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Given a paragraph of text with multiple sentences, print out the five most commonly appearing letters along with their number of occurrences.
+
+Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
+
+### Recitation - File I/O (4:25 - 5:30)
+
+Classroom A
+
+### How to Engage with Your Community with Jessica Goulding
+
+Join the incomparable Jessica Goulding in the Big Workspace and learn just how to engage with your community.
+
+[Twitter](https://twitter.com/jessicag)
+
+### Community Night: NodeBots Up And Running
+
+Classroom A.  RSVP if you want pizza.
+
+[Details](http://www.meetup.com/Turing-Community-Events/events/222237680/)
+
+
+## 1412
+
+### Introduction to Ember I  (9:00 - 12:00)
+
+Join Steve as you learn about a framework for creating ambitious web apps. Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Work time.
+
+
+## 1502 
+
+### Testing an Internal API (9:00 - 10:30)
+
+You know how to expose an API. Now you will learn how to test it. Classroom B.
+
+### Testing an External API (10:30 - 12:00)
+
+You know how to consume an API. Now you will learn how to test it. Classroom B.
+
+### Work Time (1:00 - 4:00)
+
+Work time.
+
+
+## 1503
+
+### Form and Route Helpers in Rails (9:00 - 12:00)
+
+Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C.
+
+### Blogger Kickoff and Work Time (1:00 - 4:00)
+ 
+Your first Rails tutorial. I remmeber the days. Classroom C.
+
+
+## 1505
+
+### Enigma Work Time (9:00 - 10:30)
+
+Check in with an instructor to see how you're doing on Enigma. 
+
+### Debugging Techniques (10:30 - 12:00)
+
+Learn how to debug your code. Big Workspace with Mike
+
+### Enigma Work Time (1:00 - 4:00)
+
+Zug zug.
