@@ -65,12 +65,13 @@ Groups TBA.
 
 ### Character Count (9:00 - 10:30)
 
-Counting some characters in the Big Workspace with Mike
+Counting some characters in the Big Workspace with Mike.
+
+[Specification](https://github.com/turingschool/technical_puzzles/blob/master/character_count.markdown)
 
 ### Enigma Kickoff (10:30 - 12:00)
 
 Let's kickoff Enigma and brainstorm how to get started with Jeff in the Big Workspace.
-
 
 ### File I/O (1:00 - 2:30)
 
