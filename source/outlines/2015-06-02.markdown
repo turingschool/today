@@ -20,6 +20,7 @@ The most interesting/creative/obfuscated solutions will receive an arbitrary num
 
 Classroom A
 
+
 ## 1412
 
 ### JavaScript Build Tools; (9:00 - 10:30)
@@ -93,7 +94,7 @@ Groups TBA.
 
 Counting some characters in the Big Workspace with Mike.
 
-[Specification](https://github.com/turingschool/technical_puzzles/blob/master/character_count.markdown)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/character_count.markdown)
 
 ### Enigma Kickoff (10:30 - 12:00)
 
@@ -105,4 +106,4 @@ Learn how to read and write files in Ruby with Jeff. Classroom A.
 
 ### Enigma Work Time (2:30 - 4:00)
 
-Get back to work!
+Get back to work! Mike will be on hand for questions somewhere. Somewhere.
