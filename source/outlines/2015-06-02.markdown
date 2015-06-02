@@ -25,17 +25,25 @@ Classroom A
 
 ### JavaScript Build Tools; (9:00 - 10:30)
 
-Steve will teach you how to artisinally craft some sweet code. Classroom A.
+Steve will teach you how to craft some sweet code. Classroom A.
+
+We're going to talk about:
+
+* Node modules
+* npm scripts
+* Webpack
+* Testing your web applications
 
 ### Using ES6 in Rails (10:30 - 12:00)
 
-Perhaps you should watch this before you attend class.  PERHAPS. Classroom A.
+Let's take a look at the future of JavaScript with Steve in Classroom A.
 
-[Using JavaScript From The Future In Your Rails App Today](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+* [Steve talking about the topic in front of strangers](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+* [Steve's slides from his discussion about this topic with strangers](https://speakerdeck.com/stevekinney/denverscript-es6-and-beyond)
 
-### Game Time Work Time and Check-ins (1:00 - 4:00)
+### Game Time Work Time (1:00 - 4:00)
 
-Schedule TBA
+Horace is on hand for questions.
 
 
 ## 1502
