@@ -13,7 +13,7 @@ Imagine you have eight developers (Alex, Bernadette, Charles, Dana, Eddie, Ferna
 
 Write an algorithm to generate a daily schedule which has seven full days of pairing schedules without a single repeated pair.
 
-Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
 ### Recitation - Methods, Arguments and Scopes (4:20 - 5:30)
@@ -41,12 +41,38 @@ Schedule TBA
 
 ### Consuming APIs (9:00 - 12:00)
 
-You've learned how to build APIs, now learn how to consume them. DELICIOUS. Classroom B.
+In this lesson you will learn how to consume APIs from a third-party service.
+
+Before the class, please clone this repo:
+
+```
+git clone https://github.com/turingschool-examples/schoolist.git
+```
+
+The supporting materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/uzqcgncc7omx58o/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
+
+Join Jorge in Classroom B.
 
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
-Work time.
+Meet with Jorge for client check-ins.
 
+* 1:00 - 1:30: Kristina, Dave, Patrick
+* 1:30 - 2:00: Eric, Fred, Kenny
+* 2:00 - 2:30: Andrew, Tess, Kyle
+* 2:30 - 3:00: Minnie, Michelle, Tom
+* 3:00 - 3:30: Mihir, Lori, Tracy
+* 3:30 - 4:00: Jack
+
+Meet with Sam for code check-ins.
+
+* 1:30 - 2:00: Kristina, Dave, Patrick
+* 2:00 - 2:30: Eric, Fred, Kenny
+* 2:30 - 3:00: Andrew, Tess, Kyle
+* 3:00 - 3:30: Minnie, Michelle, Tom
+* 3:30 - 4:00: Mihir, Lori, Tracy
 
 ## 1503
 
@@ -80,6 +106,3 @@ Learn how to read and write files in Ruby with Jeff. Classroom A.
 ### Enigma Work Time (2:30 - 4:00)
 
 Get back to work!
-
-
-

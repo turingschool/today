@@ -41,9 +41,21 @@ The most interesting/creative/obfuscated solutions will receive an arbitrary num
 
 ### Technical Interview Prep (2:30 - 4:00)
 
-To Be Announced
+Today you have 90 minutes, Jorge facilitating, and no 1505ers participating. We'll break our efforts into three sessions:
 
-Pairs:
+#### Part 1: Solo (2:30 - 3:00)
+
+* [Find the challenge here](https://github.com/turingschool/technical_puzzles/blob/master/fundamental_logic_gates.markdown)
+* Build the AND functionality on your own (with tests, of course)
+
+#### Part 2: Peering (3:05 - 3:45)
+
+In the second block get together with the pair below and do each of the following:
+
+* Compare your solutions for Part 1 and share any interesting ideas or approaches you came to (~10 minutes)
+* Pair program a solution to the OR challenges
+
+Pairings:
 
 * Josh Cass & Fred Block
 * Kenny Chen & Andrew Carmer
@@ -55,7 +67,7 @@ Pairs:
 * Drew Reynolds & Trey Tomlinson
 * Rich Shea & Dave Maurer
 * Margarett Ly & Michelle Golle
-* Edward McCarthy & Dustin Gault  
+* Edward McCarthy & Dustin Gault
 * Vanessa Gomez & Chelsea Worrel
 * Rob Cornell & Justin Holmes
 * Kit Pearson & Dmitry Vizersky
@@ -66,14 +78,28 @@ Pairs:
 * Jeffrey Gu & Mihir Parikh
 * Brett Grigsby & Kristina Brown
 * Whitney Hiemstra & Patrick Medaugh
-* Markus Olsen & Tyler Graham  
+* Markus Olsen & Tyler Graham
 * Tracy Caruso & Kyra Steenbock
 * Charles Valentino Espinoza & Andrew Fink
 * WOWOWOWOWO WILD CARD: Thomas Leskin
 
+#### Part 3: Sharing (3:50 - 4:00)
+
+Last we'll gather back in the workspace and share one pairs' solution to both parts.
+
 ### Recitation - Object Model Homework and Command and Query Homework (4:25 - 5:30ish)
 
 Classroom A.
+
+Read This: https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/
+
+Mike has a meeting, so instead of listening to him drone on forever and ever in the front of Classroom A, listen
+to him drone on forever and ever on your computer:
+
+* [Methods, Arguments and Scope](https://vimeo.com/129376008)
+* [Objects and Methods Homework Exercise](https://vimeo.com/129364217)
+
+Talk amongst yourselves.
 
 
 ## 1412
@@ -84,8 +110,16 @@ Join Josh Cheek and revisit the Ruby Object Model through the lens of experience
 
 ### Game Time Kickoff (1:00 - 2:30)
 
-Kick off your next project, Game Time with Steve. Big Workspace.
+Kick off your next project, [Game Time](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) with Horace. Big Workspace.
 
+You'll be working in the following pairs:
+
+* Kit Pearson & Paul Grever
+* Austin Wood & Edward McCarthy
+* Markus Olsen & Kyra Steenbock
+* Miriam Moser & DJ Greenfield
+* Rich Shea & Trey Tomlinson
+* Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
 
 ## 1502
 
@@ -109,7 +143,7 @@ git clone -b building_api https://github.com/turingschool-examples/storedom.git 
 
 Materials for this lesson:
 
-* [Notes](#)
+* [Notes](https://www.dropbox.com/s/af4gkrwov55fl1e/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
 
 Join Jorge in Classroom B.
 
@@ -131,8 +165,8 @@ Also, go to Github and register a new application. You can do that [here](https:
 
 Materials for this lesson:
 
-* [Notes](#)
-* [Slides](#)
+* [Notes](https://www.dropbox.com/s/4nytlnvraszd761/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/byn8y2rqkp9nhy8/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
 
 Join Jorge in Classroom B.
 
@@ -155,7 +189,7 @@ Join Jorge in Classroom B.
 
 ### REST, Controllers, and Routing in Rails (1:00 - 2:30)
 
-Join Rachel to learn about stuff and things. Bonus points if you bring a baby pig to class. Classroom C.
+Join Rachel to learn about stuff and things. Bonus points if you bring a baby pig to class. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown). 
 
 
 ## 1505
