@@ -61,6 +61,7 @@ git clone https://github.com/turingschool-examples/schoolist.git
 The supporting materials for this lesson are:
 
 * [Notes](https://www.dropbox.com/s/uzqcgncc7omx58o/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
+* [Video](https://vimeo.com/129631610)
 
 Join Jorge in Classroom B.
 
@@ -87,7 +88,7 @@ Meet with Sam for code check-ins.
 
 ### Migrations, Databases, Relationships, and Models (9:00 - 11:00)
 
-Learn about some of the things that makes Rails, Rails with Rachel. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown). 
+Learn about some of the things that makes Rails, Rails with Rachel. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
 
 ### Rails Basics Work Time (11:00 - 12:00 and 1:00 - 3:00)
 
@@ -95,7 +96,7 @@ Work through the [migrations, models, databases, and relationships challenge](ht
 
 ### Implementation Review (3:00 - 4:00)
 
-Join Josh in Classroom C. 
+Join Josh in Classroom C.
 
 ## 1505
 
