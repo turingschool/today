@@ -40,6 +40,8 @@ Let's get started with Ember with Steve in Classroom A, shall we?
 * [Taco Lovers Club of Denver](http://jsbin.com/gutiza/3/edit?html,js,output)
 * [IdeaBox with Ember](https://github.com/turingschool-examples/ideabox-ember)
 * [Good Tipper](https://github.com/turingschool-examples/good-tipper)
+* [Lesson Video: Part 1](https://vimeo.com/124104906)
+* [Lesson Video: Part 2](https://vimeo.com/123998078)
 
 ### Ember Routing (11:00 - 12:00)
 
@@ -48,11 +50,17 @@ Routing in Ember *can* be confusing, but it really doesn't have to be.
 Let's step slowly and deliberately though a collection of nested routes.
 
 * [Beard Beats](https://github.com/turingschool-examples/beard-beats)
+* [Lesson Video](https://vimeo.com/124239771)
 
 ### Work Time (1:00 - 4:00)
 
-Work time.
+It's time for some games. It's game time.
 
+### Instructor Pairing (2:00 - 4:00)
+
+Steve is available for 30 minute pairing sessions to help you get your projects on the right track.
+
+* [Sign up here](https://etherpad.mozilla.org/FecJwt6Muj)
 
 ## 1502
 
@@ -92,7 +100,7 @@ Remember to focus on the required deliverables for Thursday. For a feature to be
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C.
+Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
 
