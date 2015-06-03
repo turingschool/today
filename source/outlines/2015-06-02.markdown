@@ -108,11 +108,11 @@ Counting some characters in the Big Workspace with Mike.
 
 ### Enigma Kickoff (10:30 - 12:00)
 
-Let's kickoff Enigma and brainstorm how to get started with Jeff in the Big Workspace.
+Let's kickoff Enigma and brainstorm how to get started with Jeff in the Big Workspace. [Find the project assignment here](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/enigma.markdown).
 
 ### File I/O (1:00 - 2:30)
 
-Learn how to read and write files in Ruby with Jeff. Classroom A.
+Learn how to read and write files in Ruby with Jeff in Classroom A. [Find the lesson plan here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown)
 
 ### Enigma Work Time (2:30 - 4:00)
 
