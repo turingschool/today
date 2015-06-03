@@ -104,7 +104,7 @@ Join Rachel as you learn about some of the cool things you can do in Rails. Clas
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
 
-Your first Rails tutorial. I remmeber the days. Classroom C.
+Your first [Rails tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). I remember the days. Classroom C. 
 
 
 ## 1505
