@@ -66,22 +66,41 @@ Steve is available for 30 minute pairing sessions to help you get your projects 
 
 ### Testing an Internal API (9:00 - 10:30)
 
-You know how to expose an API. Now you will learn how to test it. Classroom B.
+In this lesson you will learn how to test internal APIs using controller tests.
+
+You can find the notes for the session [here](https://www.dropbox.com/s/zxftnls0at2eqtc/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0).
+
+For this session, we will create an you don't need to clone anything.
+
+Join Jorge in Classroom B.
 
 ### Testing an External API (10:30 - 12:00)
 
-You know how to consume an API. Now you will learn how to test it. Classroom B.
+In this lesson you will learn how to test an external API using [VCR](https://github.com/vcr/vcr) and [Webmock](https://github.com/bblimke/webmock).
+
+Before the class, please clone this app:
+
+```
+git clone https://github.com/turingschool-examples/obeset.git testing_external_api
+```
+
+You can find the notes for the session [here](https://www.dropbox.com/s/3lca1a5nm7gkk35/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0).
+
+Join Jorge in Classroom B.
 
 ### Work Time (1:00 - 4:00)
 
-Work time.
+Work on your projects. Sam will be available for questions.
 
+Remember to focus on the required deliverables for Thursday. For a feature to be considered complete it has to be working on Heroku.
+
+"It works on my local machine", said no professional developer ever.
 
 ## 1503
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C.
+Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
 
@@ -94,6 +113,8 @@ Your first Rails tutorial. I remmeber the days. Classroom C.
 ### Debugging Techniques (9:00 - 10:30)
 
 Learn how to debug your code. Big Workspace with Mike.
+
+[Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AAAo-8ysv-maOfuhg-HsdJcJa/R1%20Object%20Oriented%20Programming%20in%20Ruby/debugging_techniques.key?dl=0)
 
 ### Enigma Work Time (10:30 - 12:00)
 
