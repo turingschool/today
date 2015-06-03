@@ -106,6 +106,8 @@ Your first Rails tutorial. I remmeber the days. Classroom C.
 
 Learn how to debug your code. Big Workspace with Mike.
 
+[Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AAAo-8ysv-maOfuhg-HsdJcJa/R1%20Object%20Oriented%20Programming%20in%20Ruby/debugging_techniques.key?dl=0)
+
 ### Enigma Work Time (10:30 - 12:00)
 
 Check in with an instructor to see how you're doing on Enigma.
