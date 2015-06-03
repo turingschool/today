@@ -11,7 +11,7 @@ Today in History: 1965 - Gemini 4 launches, and Ed White performs the first Amer
 
 Given a paragraph of text with multiple sentences, print out the five most commonly appearing letters along with their number of occurrences.
 
-Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
 ### Recitation - File I/O (4:25 - 5:30)
@@ -33,16 +33,28 @@ Classroom A.  RSVP if you want pizza.
 
 ## 1412
 
-### Introduction to Ember I  (9:00 - 12:00)
+### Ember Fundamentals (9:30 - 11:00)
 
-Join Steve as you learn about a framework for creating ambitious web apps. Classroom A.
+Let's get started with Ember with Steve in Classroom A, shall we?
+
+* [Taco Lovers Club of Denver](http://jsbin.com/gutiza/3/edit?html,js,output)
+* [IdeaBox with Ember](https://github.com/turingschool-examples/ideabox-ember)
+* [Good Tipper](https://github.com/turingschool-examples/good-tipper)
+
+### Ember Routing (11:00 - 12:00)
+
+Routing in Ember *can* be confusing, but it really doesn't have to be.
+
+Let's step slowly and deliberately though a collection of nested routes.
+
+* [Beard Beats](https://github.com/turingschool-examples/beard-beats)
 
 ### Work Time (1:00 - 4:00)
 
 Work time.
 
 
-## 1502 
+## 1502
 
 ### Testing an Internal API (9:00 - 10:30)
 
@@ -64,7 +76,7 @@ Work time.
 Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C.
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
- 
+
 Your first Rails tutorial. I remmeber the days. Classroom C.
 
 
@@ -77,7 +89,7 @@ Learn how to debug your code. Big Workspace with Mike.
 
 ### Enigma Work Time (10:30 - 12:00)
 
-Check in with an instructor to see how you're doing on Enigma. 
+Check in with an instructor to see how you're doing on Enigma.
 
 ### Enigma Q & A  (1:00 - 2:00)
 
