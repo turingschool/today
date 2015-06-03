@@ -92,7 +92,7 @@ Remember to focus on the required deliverables for Thursday. For a feature to be
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C.
+Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
 
