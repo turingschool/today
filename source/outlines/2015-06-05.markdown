@@ -46,6 +46,19 @@ He's the founder and COO of [Craftsy](http://craftsy.com)
 
 ### Student-Led Sessions and One on Ones. (2:00 - 4:00) 
 
+#### Learn How to Set Up and Build A Ruby Warrior (2:00 - 4:00)
+
+Join Rick in Classroom C.
+
+#### How Does Agile Work on A Real-Life Development Team? (2:25 - 4:00)
+
+Come learn why more teams are switching to agile development and how it typically works 
+on a development team. Ample time for Q&A and opportunity to explore sub-topics (writing 
+user stories, iteration planning, etc.)
+
+This is with Marla in Classroom B.
+ 
+
 #### With Mike
 
 * 2:00 - Marla Brizel
