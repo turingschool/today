@@ -109,7 +109,7 @@ git clone https://github.com/turingschool-examples/obeset.git testing_external_a
 Here are the materials for this lesson:
 
 * [Notes](https://www.dropbox.com/s/3lca1a5nm7gkk35/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0)
-* Video is coming soon
+* [Video](https://vimeo.com/129754437)
 
 Join Jorge in Classroom B.
 
