@@ -99,15 +99,15 @@ Stay with Josh as you go over how to write feature tests in Rails.
 
 ### Model Testing, Custom and Built-In Validations (10:30 - 12:00)
 
-Rachel will talk to you all about models - how to test them and how to perfor model validations. Classroom C.
+Rachel will talk to you all about models - how to test them and how to perform model validations. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Model Testing and Validations Work Time.(1:00 - 3:00)
 
-Work on validating that data.
+Work on validating that data. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
 
 ### Contact Manager Kickoff and Work Time (3:00 - 4:00)
 
-You'll now be moving onto your next Rails tutorial. Make sure you thank Josh, because
+You'll now be moving onto your next Rails tutorial, [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Make sure you thank Josh, because
 he rewrote a large portion of this tutorial so that it actually works now. You don't even
 want to know what it was like before. Seriously. Classroom C.
 
