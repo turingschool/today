@@ -54,6 +54,25 @@ Let's step slowly and deliberately though a collection of nested routes.
 
 ### Work Time (1:00 - 4:00)
 
+Kit Pearson & Paul Grever
+Austin Wood & Edward McCarthy
+Markus Olsen & Kyra Steenbock
+Miriam Moser & DJ Greenfield
+Rich Shea & Trey Tomlinson
+Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+
+With Horace
+
+* 2:00 - 2:40: Markus / Kyra
+* 2:40 - 3:20: DJ / Miriam
+* 3:20 - 4:00: Tino / Dustin / Jeff
+
+With Steve
+
+* 2:00 - 2:40: Paul / Kit
+* 2:40 - 3:20: Trey / Rich
+* 3:20 - 4:00: Austin / Mac
+
 It's time for some games. It's game time.
 
 ### Instructor Pairing (2:00 - 4:00)
@@ -68,7 +87,10 @@ Steve is available for 30 minute pairing sessions to help you get your projects 
 
 In this lesson you will learn how to test internal APIs using controller tests.
 
-You can find the notes for the session [here](https://www.dropbox.com/s/zxftnls0at2eqtc/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0).
+Here are the materials for this lesson:
+
+* [Notes](https://www.dropbox.com/s/zxftnls0at2eqtc/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0)
+* [Video](https://vimeo.com/129722778)
 
 For this session, we will create an you don't need to clone anything.
 
@@ -84,7 +106,10 @@ Before the class, please clone this app:
 git clone https://github.com/turingschool-examples/obeset.git testing_external_api
 ```
 
-You can find the notes for the session [here](https://www.dropbox.com/s/3lca1a5nm7gkk35/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0).
+Here are the materials for this lesson:
+
+* [Notes](https://www.dropbox.com/s/3lca1a5nm7gkk35/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0)
+* [Video](https://vimeo.com/129754437)
 
 Join Jorge in Classroom B.
 
@@ -100,11 +125,11 @@ Remember to focus on the required deliverables for Thursday. For a feature to be
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
+Join Rachel as you learn about some of the cool things you can do in Rails. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown).
 
 ### Blogger Kickoff and Work Time (1:00 - 4:00)
 
-Your first [Rails tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). I remember the days. Classroom C. 
+Your first [Rails tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). I remember the days. Classroom C.
 
 
 ## 1505

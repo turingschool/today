@@ -8,16 +8,16 @@ layout: outline
 
 ### Warm Up (8:30 - 9:00)
 
-You are in a room with 100 light switches in a line along the wall.  
-They all start in the OFF position.  
- 
+You are in a room with 100 light switches in a line along the wall.
+They all start in the OFF position.
+
 When you first enter the room, you walk down the line of all 100 switches
-and change each one to the ON position.  
- 
+and change each one to the ON position.
+
 Then you start from the beginning again, this time changing
-the position of every second switch (e.g. #2, #4, #6...).  
+the position of every second switch (e.g. #2, #4, #6...).
 If it was ON, now it is OFF and if it was OFF, now it is ON.
- 
+
 Then you start from the beginning again and change every THIRD switch (e.g. #3, #6, #9…)...
 
 ...then again for every FOURTH switch (e.g. #4, #8, #12…) ...
@@ -25,15 +25,15 @@ Then you start from the beginning again and change every THIRD switch (e.g. #3, 
 ...then again for every FIFTH switch...
 
 ...and so on until you've made 100 trips.
- 
+
 Write a program that identifies which switches will be in the ON position after this is completed.
 
-Post your solution in #warmup-answers by 9:00 AM with your full posse name. 
+Post your solution in #warmup-answers by 9:00 AM with your full posse name.
 The most interesting/creative/obfuscated solutions will receive an arbitrary number of points.
 
-### Recitation - None 
+### Recitation - None
 
-You just finished Enigma. Take a break. You deserve it. 
+You just finished Enigma. Take a break. You deserve it.
 
 
 ## 1412
@@ -42,14 +42,22 @@ You just finished Enigma. Take a break. You deserve it.
 
 Ooooh and Ahhhh with Steve as you learn more about Ember. Classroom A.
 
-### Game Time Work Time and Check-Ins. (1:00 - 4:00)
+* [Beard Beats repository](https://github.com/turingschool-examples/beard-beats)
+* [Video](https://vimeo.com/124239771)
+
+### Game Time Work Time and Check-Ins (1:00 - 4:00)
+
+#### With Horace
 
 * 1:00 - Kit Pearson & Paul Grever
 * 1:30 - Austin Wood & Edward McCarthy
-* 2:00 - Markus Olsen & Kyra Steenbock
-* 2:30 - Miriam Moser & DJ Greenfield
-* 3:00 - Rich Shea & Trey Tomlinson
-* 3:30 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+* 2:00 - Rich Shea & Trey Tomlinson
+* 2:30 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+
+#### With Steve
+
+* 3:00 - Markus Olsen & Kyra Steenbock
+* 3:30 - Miriam Moser & DJ Greenfield
 
 
 ## 1502
@@ -60,21 +68,24 @@ Work time.
 
 ### Project Work Time and Check-Ins (1:00 - 4:00)
 
-Client Check-In with Jorge
+Make sure that the latest version of your app is working and deployed to Heroku.
 
-* 1:00 - Eric Dowty, Patrick Medaugh, Thomas Leskin
-* 1:30 - Kristina Brown, Kenny ChenLori Culberson
-* 2:00 - Mihir Parikh, Jack Yeh, Tess Griffin
-* 2:30 - Minnie Lee, Tracy Caruso, Kyle Henson
-* 3:00 - Andrew Carmer, Michelle Golle, David Daniel
+Meet with Jorge for client check-ins.
 
-Technical Check-In with Sam
-* 1:30 - Eric Dowty, Patrick Medaugh, Thomas Leskin
-* 2:00 - Kristina Brown, Kenny ChenLori Culberson
-* 2:30 - Mihir Parikh, Jack Yeh, Tess Griffin
-* 3:00 - Minnie Lee, Tracy Caruso, Kyle Henson
-* 3:30 - Andrew Carmer, Michelle Golle, David Daniel
+* 1:00 - 1:30: Kristina, Dave, Patrick
+* 1:30 - 2:00: Eric, Fred, Kenny
+* 2:00 - 2:30: Andrew, Tess, Kyle
+* 2:30 - 3:00: Minnie, Michelle, Tom
+* 3:00 - 3:30: Mihir, Lori, Tracy
+* 3:30 - 4:00: Jack
 
+Meet with Sam for code check-ins.
+
+* 1:30 - 2:00: Kristina, Dave, Patrick
+* 2:00 - 2:30: Eric, Fred, Kenny
+* 2:30 - 3:00: Andrew, Tess, Kyle
+* 3:00 - 3:30: Minnie, Michelle, Tom
+* 3:30 - 4:00: Mihir, Lori, Tracy
 
 ## 1503
 
@@ -88,15 +99,15 @@ Stay with Josh as you go over how to write feature tests in Rails.
 
 ### Model Testing, Custom and Built-In Validations (10:30 - 12:00)
 
-Rachel will talk to you all about models - how to test them and how to perfor model validations. Classroom C.
+Rachel will talk to you all about models - how to test them and how to perform model validations. Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Model Testing and Validations Work Time.(1:00 - 3:00)
 
-Work on validating that data. 
+Work on validating that data. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
 
 ### Contact Manager Kickoff and Work Time (3:00 - 4:00)
 
-You'll now be moving onto your next Rails tutorial. Make sure you thank Josh, because
+You'll now be moving onto your next Rails tutorial, [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Make sure you thank Josh, because
 he rewrote a large portion of this tutorial so that it actually works now. You don't even
 want to know what it was like before. Seriously. Classroom C.
 
@@ -105,7 +116,7 @@ want to know what it was like before. Seriously. Classroom C.
 
 ### Enigma Q & A (9:00 - 10:00)
 
-Ask Mike your last minute questions in Classroom B. 
+Ask Mike your last minute questions in Classroom B.
 
 ### Enigma Work Time (10:00 - 12:00)
 
@@ -114,13 +125,13 @@ Your final push.
 ### Enigma Early Bird Evaluations (11:00 - 12:00)
 
 #### With Josh Cheek
-* 11:00 - Mitch Ashby 
+* 11:00 - Mitch Ashby
 * 11:20 - Jason Wright
 
 #### With Mike
 * 11:00 - Lovisa Svallingson
 * 11:20 - Sam Brock
-* 11:40 - Alex Tideman 
+* 11:40 - Alex Tideman
 
 #### With Jeff
 * 11:40 - Justin Holzmann
@@ -139,7 +150,7 @@ Your final push.
 * 1:20 - Max Millington
 * 1:40 - Adam Caron
 * 2:00 - Michael Dorrance
-* 2:20 - Jerrod Paul Junker 
+* 2:20 - Jerrod Paul Junker
 
 #### With Jeff
 * 1:00 - Justin Pease
@@ -154,5 +165,3 @@ While you are not being evaluated, you will be doing this week's diagnostic in C
 ### Enigma Evaluations (1:00 - 3:00)
 
 Schedule TBA
-
-
