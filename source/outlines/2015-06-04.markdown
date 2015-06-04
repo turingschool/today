@@ -8,14 +8,14 @@ layout: outline
 
 ### Warm Up (8:30 - 9:00)
 
-You are in a room with 100 light switches in a line along the wall.  
-They all start in the OFF position.  
+You are in a room with 100 light switches in a line along the wall.
+They all start in the OFF position.
 
 When you first enter the room, you walk down the line of all 100 switches
-and change each one to the ON position.  
+and change each one to the ON position.
 
 Then you start from the beginning again, this time changing
-the position of every second switch (e.g. #2, #4, #6...).  
+the position of every second switch (e.g. #2, #4, #6...).
 If it was ON, now it is OFF and if it was OFF, now it is ON.
 
 Then you start from the beginning again and change every THIRD switch (e.g. #3, #6, #9…)...
@@ -42,14 +42,22 @@ You just finished Enigma. Take a break. You deserve it.
 
 Ooooh and Ahhhh with Steve as you learn more about Ember. Classroom A.
 
-### Game Time Work Time and Check-Ins. (1:00 - 4:00)
+* [Beard Beats repository](https://github.com/turingschool-examples/beard-beats)
+* [Video](https://vimeo.com/124239771)
+
+### Game Time Work Time and Check-Ins (1:00 - 4:00)
+
+#### With Horace
 
 * 1:00 - Kit Pearson & Paul Grever
 * 1:30 - Austin Wood & Edward McCarthy
-* 2:00 - Markus Olsen & Kyra Steenbock
-* 2:30 - Miriam Moser & DJ Greenfield
-* 3:00 - Rich Shea & Trey Tomlinson
-* 3:30 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+* 2:00 - Rich Shea & Trey Tomlinson
+* 2:30 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+
+#### With Steve
+
+* 3:00 - Markus Olsen & Kyra Steenbock
+* 3:30 - Miriam Moser & DJ Greenfield
 
 
 ## 1502
