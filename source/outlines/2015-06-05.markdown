@@ -64,6 +64,10 @@ plugins. Please git clone [this](https://github.com/jgu2160/beginning-vim) .
 
 Join Jeff Gu in classroom A.
 
+#### Whiteboarding with Kyra and Miriam (2:00 - 4:00)
+
+Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big Workspace.
+
 
 #### With Mike
 * 2:00 - Lovisa Svallingson
