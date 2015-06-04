@@ -58,67 +58,68 @@ user stories, iteration planning, etc.)
 
 This is with Marla in Classroom B.
 
+#### Talking 'Bout Vim (2:00 - 4:00)
+Vim is not daunting, it is just fast. Join JGu in classroom B to get started with useful commands, a .vimrc, and some preliminary 
+plugins. Please git clone [this](https://github.com/jgu2160/beginning-vim) . 
+
+Join Jeff Gu in classroom A.
+
 
 #### With Mike
-
-* 2:00 - Marla Brizel
+* 2:00 - Lovisa Svallingson
 * 2:20 - Sebastian Abondano
-* 2:40 - David Stinette
 * 3:00 - David Shim
 * 3:20 - Max Millington
 
 #### With Jeff
-
 * 2:00 - Justin Pease
-* 2:20 - Rebekah Sosa
-* 2:40 - Rachel Parri
-* 3:00 - Alex Tideman
-* 3:20 - Justin Holzmann
+* 2:20 - Rachel Parri
+* 2:40 - Justin Holzmann
+* 3:00 - David Stinette
 
 #### With Rachel
-
 * 2:00 - Drew Reynolds
 * 2:20 - Josh Cass
 * 2:40 - Lev Kravinsky
 * 3:00 - Whitney Heimstra
+
+#### With Josh C
+* 2:00 - Alex Tideman
+* 2:20 - Rebekah Sosa
+* 2:40 - Michael Merrill
+* 3:00 - David Maurer
 * 3:20 - Erik Butcher
 
-#### With Josh M
-
-* 2:00 - Margarett Ly
-* 2:20 - Chelsea Worrel
-* 2:40 - Dmitry Vizersky
-* 3:00 - Michael Merrill
-* 3:20 - David Maurer
-
 #### With Jorge
+* 2:00 - Chelsea Worrel
+* 2:20 - Eric Dowty
+* 2:40 - Michelle Golle
+* 3:00 - Patrick Medaugh
 
-* 2:00 - Eric Dowty
-* 2:20 - Michelle Golle
-* 2:40 - Patrick Medaugh
-* 3:00 - Tess Griffin
-* 3:20 - Thomas Leskin
 
 #### With Sam
-
-* 2:00 - Tracy Caruso
+* 2:00 - Margarett Ly
 * 2:20 - Lori Culberson
 * 2:40 - Jack Yeh
 * 3:00 - Tyler Graham
 * 3:20 - Jamie Kawahara
 
 #### With Horace
-
-* 2:00 - Markus Olsen
-* 2:20 - Charles Valentino Espinsosa
-* 2:40 - DJ Greenfield
-* 3:00 - Trey Tomlinson
+* 2:00 - Charles Valentino Espinsosa
+* 2:20 - DJ Greenfield
+* 2:40 - Trey Tomlinson
+* 3:00 - Dmitry Vizersky
 
 #### With Steve
+* 2:00 - Marla Brizel
+* 2:20 - Kit Pearson
+* 2:40 - Austin Wood
+* 3:00 - Markus Olsen
 
+
+#### With Marissa
 * 2:00 - Edward McCarthy
 * 2:20 - Rich Shea
-* 2:40 - Kit Pearson
-* 3:00 - Austin Wood
-* 3:20 - Lovisa Svallingson
- 
+* 3:00 - Tess Griffin
+* 3:20 - Thomas Leskin
+* 3:40 - Tracy Caruso
