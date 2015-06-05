@@ -16,7 +16,27 @@ Your survey responses help guide and shape our school culture, community, and cl
 
 ### Gear Up (9:00 - 9:45)
 
-TBA
+This morning we're going to work on [Critical Conversations](https://github.com/turingschool/gear-up/blob/master/crucial_conversations.markdown).
+
+Go ahead and start the session in your small groups like this:
+
+* Tyler Graham & Charles Valentino Espinoza & Justin Holzmann & Dustin Gault
+* Justin Holmes & Rob Cornell & Rachel Parri & Minnie Lee
+* Drew Conly & Marla Brizel & Sally MacNicholas & Jeffrey Gu
+* DJ Greenfield & Kyra Steenbock & Chelsea Worrel & Markus Olsen
+* Mihir Parikh & Michelle Golle & Max Millington & Whitney Hiemstra
+* Morgan Miller & Lovisa Svallingson & Alex Tideman & Fred Block
+* Josh Cass & Kristina Brown & Max Tedford & Rebekah Sosa
+* David Daniel & David Stinnette & Edward McCarthy & Jai Misra
+* Michael Merrill & Drew Reynolds & Rick Bacci & Brett Grigsby
+* Tracy Caruso & Margarett Ly & Kit Pearson & Miriam Moser
+* Kenny Chen & Michael Dorrance & Kyle Henson & Mike Reeves
+* Patrick Medaugh & Jack Yeh & Sebastian Abondano & Samson Brock
+* Jason Wright & Erik Butcher & Adam Caron & Rich Shea
+* Lori Culberson & Austin Wood & Lev Kravinsky & Justin Pease
+* Paul Grever & Andrew Fink & Mitch Ashby & Trey Tomlinson
+* Andrew Carmer & Eric Dowty & David Shim & Tess Griffin & Thomas Leskin
+* Dave Maurer & Jamie Kawahara & Vanessa Gomez & Dmitry Vizersky & Jerrod Paul Junker
 
 ### Lightning Talks (9:45 - 11:00)
 
