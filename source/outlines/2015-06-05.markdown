@@ -59,14 +59,6 @@ Come meet with alums [Meeka Gayhart](https://quickleft.com/blog/author/mgayhart/
 
 Join Rick in Classroom C.
 
-#### How Does Agile Work on A Real-Life Development Team? (2:25 - 4:00)
-
-Come learn why more teams are switching to agile development and how it typically works
-on a development team. Ample time for Q&A and opportunity to explore sub-topics (writing
-user stories, iteration planning, etc.)
-
-This is with Marla in Classroom B.
-
 #### Talking 'Bout Vim (2:00 - 4:00)
 Vim is not daunting, it is just fast. Join JGu in classroom B to get started with useful commands, a .vimrc, and some preliminary
 plugins. Please git clone [this](https://github.com/jgu2160/beginning-vim) .
@@ -75,7 +67,7 @@ Join Jeff Gu in classroom A.
 
 #### Whiteboarding with Kyra and Miriam (2:00 - 4:00)
 
-Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big Workspace by Classroom B entrance.
+Join Kyra and Miriam and learn how to waterboard.  I mean white board. Classroom B.
 
 #### With Mike
 
