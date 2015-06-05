@@ -1,0 +1,109 @@
+---
+title: 20150608
+layout: outline
+---
+
+Today in History: Imma let you finish, but Kanye west was born today in 1978. Also, in 
+1959, the US Postal Service attempted to deliver mail via missile.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[LOGIC PROBLEM TIME](http://cl.ly/1q3b090E2r1O)
+
+Post your answers in #warmup-answers. Hard work is its own reward.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+These are your pairs:
+
+* Patrick Medaugh & Sebastian Abondano
+* Rick Bacci & Andrew Carmer
+* Fred Block & Erik Butcher
+* Paul Grever & Charles Valentino Espinoza
+* Jeffrey Gu & Drew Conly
+* Dustin Gault & Rich Shea
+* Brett Grigsby & Rachel Parri
+* Andrew Fink & David Stinnette
+* Dmitry Vizersky & Michael Dorrance
+* Marla Brizel & Chelsea Worrel
+* Eric Dowty & Josh Cass
+* Minnie Lee & Tess Griffin
+* Justin Holzmann & Jai Misra
+* Kristina Brown & Tyler Graham
+* Michael Merrill & Thomas Leskin
+* Markus Olsen & Austin Wood
+* Mihir Parikh & Mike Reeves
+* Edward McCarthy & Jerrod Paul Junker
+* Vanessa Gomez & Rebekah Sosa
+* Sally MacNicholas & Michelle Golle
+* Morgan Miller & Lev Kravinsky
+* Miriam Moser & Justin Holmes
+* David Daniel & Max Tedford
+* Kyra Steenbock & DJ Greenfield
+* Lori Culberson & Alex Tideman
+* Jack Yeh & Kyle Henson
+* Margarett Ly & Max Millington
+* Jason Wright & Dave Maurer
+* Trey Tomlinson & Drew Reynolds
+* Kit Pearson & Lovisa Svallingson
+* Kenny Chen & David Shim
+* Rob Cornell & Samson Brock
+* Tracy Caruso & Justin Pease
+* Adam Caron & Mitch Ashby
+* WILD CARD: Whitney Hiemstra
+
+### Recitation - None Today
+
+
+## 1412 
+
+### Getting Started with Services (9:00 - 12:00)
+
+In this class you're going to learn how to... get started with services.
+
+Big Workspace with Horace.
+
+### Project Work Time (1:00 - 2:30)
+
+Insert Work Time Pun Here
+
+
+## 1502
+
+### Auditing and Improving Rails Performance (9:00 - 10:30)
+
+You can build a Rails app. Now here's how to make it SING.
+
+Join Sam in Classroom B.
+
+### Getting Started with Workers (10:30 - 12:00)
+
+Workers, because you don't need to do everything yourself.
+
+Hang around with Sam in Classroom B.
+
+### Weekly Iteration - JQuery and Ajax (1:00 - 2:30)
+
+This is super important stuff. Join Sam in Classroom B.
+
+
+## 1503
+
+### Contact Manager Q & A (9:00 - 10:00)
+
+Tell Josh all your thoughts on Contact Manager. In Classroom C.
+
+### Database Schema Design (10:00 - 12:00)
+
+What will happen is that Josh will leave and Rachel will arrive. She will then teach you 
+about Database Schema Design.
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+There may be posse points if you bring Josh cookies in Classroom C. No guarantees.
+
+
+## 1505
+

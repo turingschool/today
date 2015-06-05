@@ -1,0 +1,53 @@
+---
+title: 20150612
+layout: outline
+---
+
+Today in History: In 1972, Popeye's is founded in Arabi, Louisiana. Oh, and President Reagan 
+challenged Mikhail Gorbechev to tear down the Berlin Wall in 1987.
+
+## All
+
+### SURVEYS AND BREAKFAST (8:30 - 9:00)
+
+Eat and fill out surveys.
+
+### Guest Speaker (9:00 - 10:00)
+
+Rosa from [LaunchCode.org](http://launchcode.org) joins us.
+
+### Group Retro (10:00 - 11:00)
+* 1505 - Big Workspace
+* 1503 - Classroom B
+* 1502 - Classroom C
+* 1412 - Classroom A
+
+### Guest Speaker - Jason Fried (11:00 - 12:00)
+
+Jason is one of the founders of and CEO of Basecamp, formerly known as 
+[37Signals](http://www.37signals.com).
+
+[Twitter](https://twitter.com/jasonfried)
+
+### Gear Up (1:00 - 1:45)
+
+TBA
+
+### One on Ones (1:45 - 3:00)
+
+Schedule TBA
+
+### Lightning Talks
+
+* Markus Olsen
+* Rich Shea
+* Lori Culberson - Check Your Ego at the Door (Redefining Failure)
+* Fred Block
+* Michelle Golle
+* Patrick Medaugh
+* Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
+* Tess Griffin
+* Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
+* Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
+* Margarett Ly
+
