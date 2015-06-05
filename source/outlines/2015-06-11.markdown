@@ -1,0 +1,76 @@
+---
+title: 20150611
+layout: outline
+---
+
+Today in History:  In 1963, John F. Kennedy, in an address from the Oval Office, proposes
+what would become the Civil Rights Act of 1964.
+
+## All
+
+### Warm Up (8:30 - 9:30)
+
+Can you find all prime numbers between 1-10000 using the sieve of Eratosthenes?
+
+Post your solutions in #warmup-answers. The most interesting, well written or obfuscated solutions
+will receive an arbitrary number of posse points.
+
+### Student Advisory Board (4:20 - 5:20)
+
+TBA
+
+### Recitation (4:25 - 5:30)
+
+And on the fourth day of the week, 1505 rested.
+
+
+## 1412
+
+### Building a Notification Service (9:00 - 12:00)
+
+Classroom A. Steve.
+
+### Code Challenge Review (9:00 - 12:00)
+
+Review that code.
+
+
+## 1502
+
+### Project Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+### Self Directed Projects Kickoff (1:00 - 3:00)
+
+Meet with Jorge in Classroom B to play America's most popular game show.
+
+### Cohort Demo (3:00 - 4:00)
+
+Stay in Classroom B.
+
+
+## 1503
+
+### Git Workflow (9:00 - 12:00)
+
+Josh will teach all about this in Classroom C.
+
+### Mid Module Assessments (1:00 - 4:00)
+
+Continued.
+
+### Rails Mini Project (1:00 - 4:00)
+
+It's a project. It's mini. Exactly.
+
+
+## 1505
+
+### Project Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+### Mid Module Assessment (1:00 - 4:00)
+
+Schedule TBA
