@@ -7,7 +7,7 @@ layout: outline
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-One of the most effective ways 
+One of the most effective ways
 
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/16xsJsBuqlymtnJVsirXaGXdp_whrfWwXJRBhPwTwjPk/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1K-j2VGi4wVywbuVFy8MBI1LkDXc9wX3miEg0itgaW1g/viewform)
@@ -20,7 +20,7 @@ TBA
 
 ### Lightning Talks (9:45 - 11:00)
 
-Be in the big workspace at 9:45 sharp. 
+Be in the big workspace at 9:45 sharp.
 
 * Charles Valentino Espinoza
 * Eric Dowty
@@ -49,11 +49,11 @@ He's the founder and COO of [Craftsy](http://craftsy.com)
 * 1503 - Classroom C with Josh and Rachel
 * 1505 - Big Workspace with Jeff and Mike
 
-### Student-Led Sessions and One on Ones. (2:00 - 4:00) 
+### Student-Led Sessions and One on Ones. (2:00 - 4:00)
 
 #### Q&A with Meeka Gayhart and Ben Lewis from Quick Left
 
-Come meet with alums [Meeka Gayhart](https://quickleft.com/blog/author/mgayhart/) and [Ben Lewis](https://quickleft.com/blog/author/blewis/) to talk about Quick Left, the transition from Turing to real life, blogging, and some other awesome things. The Big Workspace near the kitchen. 
+Come meet with alums [Meeka Gayhart](https://quickleft.com/blog/author/mgayhart/) and [Ben Lewis](https://quickleft.com/blog/author/blewis/) to talk about Quick Left, the transition from Turing to real life, blogging, and some other awesome things. The Big Workspace near the kitchen.
 
 #### Learn How to Set Up and Build A Ruby Warrior (2:00 - 4:00)
 
@@ -61,15 +61,15 @@ Join Rick in Classroom C.
 
 #### How Does Agile Work on A Real-Life Development Team? (2:25 - 4:00)
 
-Come learn why more teams are switching to agile development and how it typically works 
-on a development team. Ample time for Q&A and opportunity to explore sub-topics (writing 
+Come learn why more teams are switching to agile development and how it typically works
+on a development team. Ample time for Q&A and opportunity to explore sub-topics (writing
 user stories, iteration planning, etc.)
 
 This is with Marla in Classroom B.
 
 #### Talking 'Bout Vim (2:00 - 4:00)
-Vim is not daunting, it is just fast. Join JGu in classroom B to get started with useful commands, a .vimrc, and some preliminary 
-plugins. Please git clone [this](https://github.com/jgu2160/beginning-vim) . 
+Vim is not daunting, it is just fast. Join JGu in classroom B to get started with useful commands, a .vimrc, and some preliminary
+plugins. Please git clone [this](https://github.com/jgu2160/beginning-vim) .
 
 Join Jeff Gu in classroom A.
 
@@ -77,10 +77,11 @@ Join Jeff Gu in classroom A.
 
 Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big Workspace by Classroom B entrance.
 
-
 #### With Mike
+
 * 2:00 - Lovisa Svallingson
 * 2:20 - Sebastian Abondano
+* 2:40 - Marla Brizel
 * 3:00 - David Shim
 * 3:20 - Max Millington
 
@@ -91,12 +92,14 @@ Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big W
 * 3:00 - David Stinette
 
 #### With Rachel
+
 * 2:00 - Drew Reynolds
 * 2:20 - Josh Cass
 * 2:40 - Lev Kravinsky
 * 3:00 - Whitney Heimstra
 
 #### With Josh C
+
 * 2:00 - Alex Tideman
 * 2:20 - Rebekah Sosa
 * 2:40 - Michael Merrill
@@ -104,6 +107,7 @@ Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big W
 * 3:20 - Erik Butcher
 
 #### With Jorge
+
 * 2:00 - Chelsea Worrel
 * 2:20 - Eric Dowty
 * 2:40 - Michelle Golle
@@ -111,26 +115,29 @@ Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big W
 * 3:20 - Jack Yeh
 
 #### With Sam
+
 * 2:00 - Margarett Ly
 * 2:20 - Lori Culberson
 * 2:40 - Tyler Graham
 * 3:00 - Jamie Kawahara
 
 #### With Horace
+
 * 2:00 - Charles Valentino Espinsosa
 * 2:20 - DJ Greenfield
 * 2:40 - Trey Tomlinson
 * 3:00 - Dmitry Vizersky
 
 #### With Steve
-* 2:00 - Marla Brizel
+
 * 2:20 - Kit Pearson
 * 2:40 - Austin Wood
 * 3:00 - Markus Olsen
 
 #### With Marissa
+
 * 2:00 - Edward McCarthy
 * 2:20 - Rich Shea
-* 3:00 - Tess Griffin
-* 3:20 - Thomas Leskin
-* 3:40 - Tracy Caruso
+* 2:40 - Tess Griffin
+* 3:00 - Thomas Leskin
+* 3:20 - Tracy Caruso
