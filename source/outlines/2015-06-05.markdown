@@ -7,7 +7,7 @@ layout: outline
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-No survey, no breakfast.
+One of the most effective ways 
 
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/16xsJsBuqlymtnJVsirXaGXdp_whrfWwXJRBhPwTwjPk/viewform)
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1K-j2VGi4wVywbuVFy8MBI1LkDXc9wX3miEg0itgaW1g/viewform)
@@ -51,6 +51,10 @@ He's the founder and COO of [Craftsy](http://craftsy.com)
 
 ### Student-Led Sessions and One on Ones. (2:00 - 4:00) 
 
+#### Q&A with Meeka Gayhart and Ben Lewis from Quick Left
+
+Come meet with alums [Meeka Gayhart](https://quickleft.com/blog/author/mgayhart/) and [Ben Lewis](https://quickleft.com/blog/meet-the-team-qler-ben-lewis/) to talk about Quick Left, the transition from Turing to real life, blogging, and some other awesome things. The Big Workspace near the kitchen. 
+
 #### Learn How to Set Up and Build A Ruby Warrior (2:00 - 4:00)
 
 Join Rick in Classroom C.
@@ -71,7 +75,7 @@ Join Jeff Gu in classroom A.
 
 #### Whiteboarding with Kyra and Miriam (2:00 - 4:00)
 
-Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big Workspace.
+Join Kyra and Miriam and learn how to waterboard.  I mean white board. The Big Workspace by Classroom B entrance.
 
 
 #### With Mike
