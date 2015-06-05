@@ -22,18 +22,17 @@ TBA
 
 Be in the big workspace at 9:45 sharp.
 
-* Charles Valentino Espinoza
-* Eric Dowty
+* Tino Espinoza: Math, Not Even Once 
+* Eric Dowty: Ageism in Tech
 * Austin Wood: Learn You a Turing for Great Good!
-* DJ Greenfield
-* Edward McCarthy
-* Lori Culberson
-* Kristina Brown
-* Kenny Chen
-* Rob Cornell - Computer Aided Dispatch Systems (What Happens When You Call 911)
-* Josh Cass
-* Lev Kravinsky
-
+* DJ Greenfield: Metaprogramming is metacool!
+* Edward McCarthy: Folding@Home
+* Kristina Brown: Recursion vs Iterative Loops
+* Kit Pearson: Turing Your Code-along Into Notes
+* Kenny Chen: DDoS
+* Rob Cornell: Computer Aided Dispatch Systems (What Happens When You Call 911) 
+* Josh Cass: Noncompete clauses
+* Lev Kravinsky: Performance Optimizing Fibonacci
 
 ### Guest Speaker: Josh Scott from Craftsy (11:00 - 12:00)
 
