@@ -55,3 +55,14 @@ You got your jams in my authentication!
 
 
 ## 1505
+
+### Ruby Object Model Part I: (9:00 - 12:00)
+
+Join Josh Cheek in Classroom A.
+
+Please have Atom installed befhorehand. [Download Link](https://atom.io/)
+
+### Work Time and Instructor Pairing Time
+
+Chisel away!
+

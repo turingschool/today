@@ -13,9 +13,9 @@ Today in History: In 1934, Donald Duck makes his first appearance.
 
 Post your answers in #warmup-answers. Hard work is its own reward.
 
-### Recitation (4:25 - 5:30)
+### Recitation - Encapsulating Responsibilities (4:25 - 5:30)
 
-TBA.
+Classroom A.
 
 ## 1412
 
@@ -80,6 +80,14 @@ You got your jams in my authentication!
 
 
 ## 1505
+
+### Testing Strategies (9:00 - 11:00)
+
+Join Jeff in Classroom A as you learn to be strategic about your testing.
+
+### Work Time and Instructor Pairing Time (1:00 - 4:00)
+
+
 
 
 
