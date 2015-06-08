@@ -97,10 +97,22 @@ This is super important stuff. Join Sam in Classroom B.
 
 Tell Josh all your thoughts on Contact Manager. In Classroom C.
 
-### Database Schema Design (10:00 - 12:00)
+### Relationships Review & Database Schema (10:00 - 12:00)
 
-What will happen is that Josh will leave and Rachel will arrive. She will then teach you
-about Database Schema Design.
+What will happen is that Josh will leave and Rachel will arrive. We'll start out reviewing one-to-many and many-to-many setups, then practice desigining database schemas. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
+
+Pairs for Review
+
+* Tyler Graham & Vanessa Gomez
+* Dave Maurer & Lev Kravinsky
+* Max Tedford & Rick Bacci
+* Morgan Miller & Brett Grigsby
+* Erik Butcher & Jamie Kawahara
+* Josh Cass & Margarett Ly
+* Chelsea Worrel & Rob Cornell
+* Dmitry Vizersky & Drew Reynolds
+* Andrew Fink & Michael Merrill
+* Whitney Hiemstra & Sally MacNicholas & Justin Holmes
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
@@ -121,13 +133,16 @@ Join Jeff in Classroom A as you embark on your next task, Chisel.
 
 Start your chiseling.
 
-### Chaos and Science (1:00 - 2:30)
+### Chaos and Order (1:00 - 2:30)
 
-1. Chaos: We'll install [Seeing Is Believving](https://github.com/JoshCheek/seeing_is_believing)
+Classroom A.
+
+1. Chaos: We'll install [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing)
 2. A calming: A quick example of how to use it: ask me anything
-3. An emergence: Your turn, on an Enumerable
-4. Science: Your turn on [Chisel related tasks](https://gist.github.com/JoshCheek/d9e00e0bbbb459744fe9)
-5. A peculiar paragon: [Discovering](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-figuring-out-the-algorithm.mp4) the Enigma algorithm with SiB
+3. Science: Your turn on [Chisel related tasks](https://gist.github.com/JoshCheek/d9e00e0bbbb459744fe9)
+4. Order: Encapsulating Responsibilities with Jeff.
+
+For later, a video of me [Discovering](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-figuring-out-the-algorithm.mp4) the Enigma algorithm with SiB.
 
 ### Instructor/Mentor Pairing Times
 
@@ -150,6 +165,8 @@ If you're pairing with an instructor/mentor, [check out this gist](https://gist.
 * Alex Tideman with Jeff
 * Sebastian Abondano with Sean Griffin
 * Rachel Parri with Josh Cheek
+* Max Millington with Mike Dao
+
 ### 4:30 - 6:00
 
 Mary Cutrali will remotely meet with Marla, Mitch, and Rebekah. Coordinate over slack.
