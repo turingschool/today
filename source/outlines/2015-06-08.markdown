@@ -61,14 +61,16 @@ These are your pairs:
 
 ### Getting Started with Services (9:00 - 12:00)
 
-In this class you're going to learn how to... get started with services.
+Join Horace in the Big Workspace to talk about building web applications as
+Services. For the first 90 minutes, we'll have a big-picture discussion
+around the ideas in this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_services.markdown).
 
-Big Workspace with Horace.
+After that, we'll dig into an example by [adding a notification service to
+the monsterporium project](http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html).
 
 ### Project Work Time (1:00 - 2:30)
 
-Insert Work Time Pun Here
-
+Game Time evaluations draw nigh! Push those games across the finishing line.
 
 ## 1502
 
