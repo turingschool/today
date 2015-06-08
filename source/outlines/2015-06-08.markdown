@@ -135,7 +135,7 @@ Start your chiseling.
 
 ### Encapsulating Responsibilities (1:00 - 2:30)
 
-Join Jeff in Classroom C to learn how to separate out things.
+Join Jeff in Classroom A to learn how to separate out things.
 
 ### Instructor/Mentor Pairing Times
 
