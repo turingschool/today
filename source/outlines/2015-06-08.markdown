@@ -3,7 +3,7 @@ title: 20150608
 layout: outline
 ---
 
-Today in History: Imma let you finish, but Kanye west was born today in 1978. Also, in 
+Today in History: Imma let you finish, but Kanye west was born today in 1978. Also, in
 1959, the US Postal Service attempted to deliver mail via missile.
 
 ## All
@@ -57,7 +57,7 @@ These are your pairs:
 ### Recitation - None Today
 
 
-## 1412 
+## 1412
 
 ### Getting Started with Services (9:00 - 12:00)
 
@@ -99,7 +99,7 @@ Tell Josh all your thoughts on Contact Manager. In Classroom C.
 
 ### Database Schema Design (10:00 - 12:00)
 
-What will happen is that Josh will leave and Rachel will arrive. She will then teach you 
+What will happen is that Josh will leave and Rachel will arrive. She will then teach you
 about Database Schema Design.
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
@@ -143,10 +143,9 @@ If you're pairing with an instructor/mentor, [check out this gist](https://gist.
 
 #### 4:00 - 5:30
 
-* Rachel Parri with Jeff
+* Alex Tideman with Jeff
 * Sebastian Abondano with Sean Griffin
-* Alex Tideman with Josh Cheek
-
+* Rachel Parri with Josh Cheek
 ### 4:30 - 6:00
 
 Mary Cutrali will remotely meet with Marla, Mitch, and Rebekah. Coordinate over slack.
