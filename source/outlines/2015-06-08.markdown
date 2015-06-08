@@ -97,10 +97,22 @@ This is super important stuff. Join Sam in Classroom B.
 
 Tell Josh all your thoughts on Contact Manager. In Classroom C.
 
-### Database Schema Design (10:00 - 12:00)
+### Relationships Review & Database Schema (10:00 - 12:00)
 
-What will happen is that Josh will leave and Rachel will arrive. She will then teach you
-about Database Schema Design.
+What will happen is that Josh will leave and Rachel will arrive. We'll start out reviewing one-to-many and many-to-many setups, then practice desigining database schemas. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
+
+Pairs for Review
+
+* Tyler Graham & Vanessa Gomez
+* Dave Maurer & Lev Kravinsky
+* Max Tedford & Rick Bacci
+* Morgan Miller & Brett Grigsby
+* Erik Butcher & Jamie Kawahara
+* Josh Cass & Margarett Ly
+* Chelsea Worrel & Rob Cornell
+* Dmitry Vizersky & Drew Reynolds
+* Andrew Fink & Michael Merrill
+* Whitney Hiemstra & Sally MacNicholas & Justin Holmes
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
