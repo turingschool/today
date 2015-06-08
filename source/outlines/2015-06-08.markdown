@@ -113,15 +113,14 @@ There may be posse points if you bring Josh cookies in Classroom C. No guarantee
 
 Join Jeff in Classroom A as you embark on your next task, Chisel.
 
-[Read all about it.](https://github.com/turingschool/challenges/blob/master/chisel.markdown)
+[Read all about it.](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown)
 
 ### Chisel Work Time / Instructor Pairing Time (10:30 - 12:00)
 
 Start your chiseling.
 
+If you're pairing with an instructor/mentor, [check out this gist](https://gist.github.com/jcasimir/06bffe7e3d7d8b553b97).
+
 ### Encapsulating Responsibilities (1:00 - 2:30)
 
 Join Jeff in Classroom C to learn how to separate out things. 
-
-
-
