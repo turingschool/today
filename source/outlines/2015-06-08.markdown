@@ -106,6 +106,8 @@ about Database Schema Design.
 
 There may be posse points if you bring Josh cookies in Classroom C. No guarantees.
 
+We'll try something new... A [video code along](https://vimeo.com/130058574).
+
 
 ## 1505
 
