@@ -121,9 +121,13 @@ Join Jeff in Classroom A as you embark on your next task, Chisel.
 
 Start your chiseling.
 
-### Encapsulating Responsibilities (1:00 - 2:30)
+### Chaos and Science (1:00 - 2:30)
 
-Join Jeff in Classroom C to learn how to separate out things.
+1. Chaos: We'll install [Seeing Is Believving](https://github.com/JoshCheek/seeing_is_believing)
+2. A calming: A quick example of how to use it: ask me anything
+3. An emergence: Your turn, on an Enumerable
+4. Science: Your turn on [Chisel related tasks](https://gist.github.com/JoshCheek/d9e00e0bbbb459744fe9)
+5. A peculiar paragon: [Discovering](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-figuring-out-the-algorithm.mp4) the Enigma algorithm with SiB
 
 ### Instructor/Mentor Pairing Times
 
