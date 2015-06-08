@@ -30,10 +30,10 @@ These are your pairs:
 * Marla Brizel & Morgan Miller
 * Eric Dowty & Josh Cass
 * Minnie Lee & Tess Griffin
-* Justin Holzmann & Jai Misra
-* Kristina Brown & Tyler Graham
+* Justin Holzmann & Tyler Graham 
+* Kristina Brown & Jai Misra
 * Michael Merrill & Thomas Leskin
-* Markus Olsen & Austin Wood
+* Markus Olsen & Mitch Ashby
 * Mihir Parikh & Mike Reeves
 * Edward McCarthy & Jerrod Paul Junker
 * Vanessa Gomez & Rebekah Sosa
@@ -51,7 +51,7 @@ These are your pairs:
 * Kenny Chen & David Shim
 * Rob Cornell & Samson Brock
 * Tracy Caruso & Justin Pease
-* Adam Caron & Mitch Ashby
+* Adam Caron & Austin Wood
 * WILD CARD: Whitney Hiemstra
 
 ### Recitation - None Today
