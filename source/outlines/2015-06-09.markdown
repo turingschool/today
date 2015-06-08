@@ -13,9 +13,15 @@ Today in History: In 1934, Donald Duck makes his first appearance.
 
 Post your answers in #warmup-answers. Hard work is its own reward.
 
-### Recitation - Encapsulating Responsibilities (4:25 - 5:30)
+### Recitation - None Today
 
-Classroom A.
+Get to pairing!
+
+### Guest Speaker - Scott Rocher (11:00 - 12:00)
+
+Scott is the Director of Engineering at [Blue Bottle Coffee](https://bluebottlecoffee.com/), and a fantastic person.
+
+[Twitter](https://twitter.com/rochers)
 
 ## 1412
 
@@ -87,7 +93,7 @@ Join Jeff in Classroom A as you learn to be strategic about your testing.
 
 ### Work Time and Instructor Pairing Time (1:00 - 4:00)
 
-
+Chisel time, best time. Remember to collaborate!
 
 
 
