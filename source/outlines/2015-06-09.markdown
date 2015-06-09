@@ -145,7 +145,7 @@ If you're pairing with an instructor/mentor, [check out this gist](https://gist.
 * Michael Dorrance & Jeff Casimir
 * Adam Caron & Sean Griffin
 * David Shim & Andrew Carmer
-* Mike Reeves & David Daniel
+* Mike Reeves & Mike Dao
 * Jerrod Junker & David Daniel
 * Lovisa Svallingson & Jeff Gu
 * Rachel Parri & Bryana Knight [remote]
