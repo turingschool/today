@@ -94,7 +94,11 @@ Code Time with Josh Cheek
 
 Learn about a crucial part of web apps, authentication, with Rachel this morning in Classroom C.
 
-### Mid Module Assessments (1:00 - 4:00)
+### Authentication, Continued (1:00 - 1:45)
+
+Join Rachel in Classroom C to finish up. 
+
+### Mid Module Assessments (1:45 - 4:00)
 
 #### With Rachel
 
@@ -108,7 +112,7 @@ Learn about a crucial part of web apps, authentication, with Rachel this morning
 * 2:30 Vanessa Gomez
 * 3:15 Andrew Fink
 
-### Work Time: Authentication in my Jams (1:00 - 4:00)
+### Work Time: Authentication in my Jams (1:45 - 4:00)
 
 You got your jams in my authentication!
 
