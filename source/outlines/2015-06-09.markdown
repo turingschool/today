@@ -27,7 +27,7 @@ Scott is the Director of Engineering at [Blue Bottle Coffee](https://bluebottlec
 
 ### Pub/Sub on the Server (9:00 - 10:30)
 
-Learn about Pubbing and Subbing. Steve will show you how in Classroom B.
+Learn about pubbing and subbing. Steve will show you how in Classroom B.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
 * [Repository](https://github.com/turingschool-examples/slacker)
@@ -42,22 +42,21 @@ You'll be working in the following pairs (e.g. two people, one computer):
 * Paul Grever & Kyra Steenbock
 * Trey Tomlinson (solo)
 
-### Websockets in Node (10:30 - 12:00)
+### Project Work Time (1:00 - 2:30)
 
-Now that you've got the idea of Pubbing and Subbing, let's apply the idea ot Websockets
-in Node with Steve. Again in Classroom B.
+It's time to put an credit roll and some like ending montage onto your games. I'm sorry, but our princess is in another castle.
 
-### Game Time Evaluations (1:00 - 4:00)
+### Game Time Evaluations (2:30 - 4:00)
 
 With Steve
-* 1:00 - Kit Pearson & Paul Grever
-* 2:00 - Austin Wood & Edward McCarthy
-* 3:00 - Markus Olsen & Kyra Steenbock
+* 2:30 - Kit Pearson & Paul Grever
+* 3:00 - Austin Wood & Edward McCarthy
+* 3:30 - Markus Olsen & Kyra Steenbock
 
 With Horace
-* 1:00 - Miriam Moser & DJ Greenfield
-* 2:00 - Rich Shea & Trey Tomlinson
-* 3:00 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
+* 2:30 - Miriam Moser & DJ Greenfield
+* 3:00 - Rich Shea & Trey Tomlinson
+* 3:30 - Charles Valentino Espinoza & Dustin Gault & Jeffrey Gu
 
 
 ## 1502
