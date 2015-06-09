@@ -116,10 +116,38 @@ You got your jams in my authentication!
 
 Join Jeff in Classroom A as you learn to be strategic about your testing.
 
-### Work Time and Instructor Pairing Time (1:00 - 4:00)
+### Work Time (1:00 - 4:00)
 
 Chisel time, best time. Remember to collaborate!
 
+### Instructor/Mentor Pairing Times
 
+If you're pairing with an instructor/mentor, [check out this gist](https://gist.github.com/jcasimir/06bffe7e3d7d8b553b97).
 
+#### 10:30 - 12:00
 
+* Adam Caron & Josh Mejia
+* Jai Misra & Josh Cheek
+* Drew Conly & Sam
+
+#### 1:00 - 2:30
+
+* Rebekah Sosa & Jeff
+* Justin Pease & Josh Cheek
+
+#### 2:30 - 4:00
+
+* Samson Brock & Jeff
+* Marla Brizel & Josh Cheek
+
+#### 4:00 - 5:30
+
+* David Stinnette & Josh Cheek
+* Michael Dorrance & Jeff Casimir
+* Adam Caron & Sean Griffin
+* David Shim & Andrew Carmer
+* Mike Reeves & David Daniel
+* Jerrod Junker & David Daniel
+* Lovisa Svallingson & Jeff Gu
+* Rachel Parri & Bryana Knight [remote]
+* Rebekah Sosa & Rolen Le [remote]
