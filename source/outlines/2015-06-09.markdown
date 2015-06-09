@@ -90,7 +90,7 @@ Code Time with Josh Cheek
 
 ## 1503
 
-### Authentication (9:00 - 12:00)
+### Authentication (9:00 - 11:00)
 
 Learn about a crucial part of web apps, authentication, with Rachel this morning in Classroom C.
 
