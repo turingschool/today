@@ -140,12 +140,11 @@ If you're pairing with an instructor/mentor, [check out this gist](https://gist.
 #### 1:00 - 2:30
 
 * Rebekah Sosa & Jeff
-* Justin Pease & Josh Cheek
 
 #### 2:30 - 4:00
 
 * Samson Brock & Jeff
-* Marla Brizel & Josh Cheek
+* Marla Brizel & Mike Dao
 
 #### 4:00 - 5:30
 
@@ -155,6 +154,6 @@ If you're pairing with an instructor/mentor, [check out this gist](https://gist.
 * David Shim & Andrew Carmer
 * Mike Reeves & Mike Dao
 * Jerrod Junker & David Daniel
-* Lovisa Svallingson & Jeff Gu
+* Justin Pease & Jeff Gu
 * Rachel Parri & Bryana Knight [remote]
 * Rebekah Sosa & Rolen Le [remote]
