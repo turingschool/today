@@ -99,7 +99,7 @@ Tell Josh all your thoughts on Contact Manager. In Classroom C.
 
 ### Relationships Review & Database Schema (10:00 - 12:00)
 
-What will happen is that Josh will leave and Rachel will arrive. We'll start out reviewing one-to-many and many-to-many setups, then practice desigining database schemas. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown). 
+What will happen is that Josh will leave and Rachel will arrive. We'll start out reviewing one-to-many and many-to-many setups, then practice desigining database schemas. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown).
 
 Pairs for Review
 
@@ -133,9 +133,16 @@ Join Jeff in Classroom A as you embark on your next task, Chisel.
 
 Start your chiseling.
 
-### Encapsulating Responsibilities (1:00 - 2:30)
+### Chaos and Order (1:00 - 2:30)
 
-Join Jeff in Classroom A to learn how to separate out things.
+Classroom A.
+
+1. Chaos: We'll install [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing)
+2. A calming: A quick example of how to use it: ask me anything
+3. Science: Your turn on [Chisel related tasks](https://gist.github.com/JoshCheek/d9e00e0bbbb459744fe9)
+4. Order: Encapsulating Responsibilities with Jeff.
+
+For later, a video of me [Discovering](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-figuring-out-the-algorithm.mp4) the Enigma algorithm with SiB.
 
 ### Instructor/Mentor Pairing Times
 

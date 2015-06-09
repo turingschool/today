@@ -58,7 +58,18 @@ Josh will teach all about this in Classroom C.
 
 ### Mid Module Assessments (1:00 - 4:00)
 
-Continued.
+#### With Rachel
+
+1:00 Dmitry Vizersky
+1:45 Rob Cornell
+2:30 Dave Maurer
+3:15 Tyler Graham
+
+#### With Josh 
+
+1:00 Chelsea Worrel
+1:45 Michael Merrill
+2:30 Jamie Kawahara
 
 ### Rails Mini Project (1:00 - 4:00)
 
