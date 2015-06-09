@@ -29,6 +29,19 @@ Scott is the Director of Engineering at [Blue Bottle Coffee](https://bluebottlec
 
 Learn about Pubbing and Subbing. Steve will show you how in Classroom B.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [Repository](https://github.com/turingschool-examples/slacker)
+
+You'll be working in the following pairs (e.g. two people, one computer):
+
+* DJ Greenfield & Edward McCarthy
+* Rich Shea & Austin Wood
+* Dustin Gault & Markus Olsen
+* Kit Pearson & Jeffrey Gu
+* Miriam Moser & Charles Valentino Espinoza
+* Paul Grever & Kyra Steenbock
+* Trey Tomlinson (solo)
+
 ### Websockets in Node (10:30 - 12:00)
 
 Now that you've got the idea of Pubbing and Subbing, let's apply the idea ot Websockets
@@ -90,13 +103,13 @@ Learn about a crucial part of web apps, authentication, with Rachel this morning
 2:30 Sally MacNicholas
 3:15 Rick Bacci
 
-#### With Josh 
+#### With Josh
 
 1:45 Max Tedford
 2:30 Vanessa Gomez
 3:15 Andrew Fink
 
-### Work Time: Authentication in my Jams (1:00 - 4:00) 
+### Work Time: Authentication in my Jams (1:00 - 4:00)
 
 You got your jams in my authentication!
 
