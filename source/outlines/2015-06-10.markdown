@@ -43,7 +43,7 @@ Join Josh in Classroom C to learn all about routing in Rails.
 
 ### Authorization (10:30 - 12:00)
 
-Keep users out of admin parts of your app with Rachel in Classroom C.
+Keep users out of admin parts of your app with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). 
 
 ### Mid Module Assessments (1:00 - 4:00)
 
