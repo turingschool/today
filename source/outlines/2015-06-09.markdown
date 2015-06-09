@@ -25,7 +25,7 @@ Scott is the Director of Engineering at [Blue Bottle Coffee](https://bluebottlec
 
 ## 1412
 
-### Pub/Sub on the Server (9:00 - 10:30)
+### Pub/Sub on the Server (9:00 - 11:00)
 
 Learn about pubbing and subbing. Steve will show you how in Classroom B.
 
