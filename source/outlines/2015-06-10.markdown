@@ -42,7 +42,7 @@ In your apps, not your personal life.  With Sam in Classroom B.
 
 ### Understanding the Asset Pipeline (10:30 - 12:00)
 
-It's this thing. Horace will be explaining it to you. It involves stuff. Stay in Classroom B.
+Discuss the [asset pipeline](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.markdown) with Horace in classrom B.
 
 
 ## 1503
