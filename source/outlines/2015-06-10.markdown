@@ -40,7 +40,7 @@ Join Josh in Classroom C to learn all about routing in Rails.
 
 ### Authorization (10:30 - 12:00)
 
-Keep users out of admin parts of your app with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). 
+Keep users out of admin parts of your app with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown).
 
 ### Mid Module Assessments (1:00 - 4:00)
 
@@ -51,14 +51,14 @@ Keep users out of admin parts of your app with Rachel in Classroom C. Find the o
 * 2:30 Justin Holmes
 * 3:15 Drew Reynolds
 
-#### With Josh 
+#### With Josh
 
 * 1:00 Erik Butcher
 * 1:45 Lev Kravinsky
 * 2:30 Morgan Miller
 * 3:15 Josh Cass
 
-### Work Time: Authentication in my Jams (1:00 - 4:00) 
+### Work Time: Authentication in my Jams (1:00 - 4:00)
 
 You got your jams in my authentication!
 
@@ -67,7 +67,10 @@ You got your jams in my authentication!
 
 ### Ruby Object Model Part I: (9:00 - 12:00)
 
-Join Josh Cheek in Classroom A. Prepare to have your minds *blown*.
+Some people memorize the patterns that others teach them.
+Join Josh Cheek in Classroom A to learn the small set of Rules underlying the Rubiverse.
+
+[Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
 
 
 ### Work Time and Instructor Pairing Time (1:00 - 4:00)
