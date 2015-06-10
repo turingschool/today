@@ -13,9 +13,6 @@ Given a hex-color input, like #F6336A, figure out the dominant resulting color, 
 
 Post your solution in #warmup-answers
 
-### Recitation (4:25 - 5:30)
-
-To be announced.
 
 ## 1412
 
@@ -49,17 +46,17 @@ Keep users out of admin parts of your app with Rachel in Classroom C. Find the o
 
 #### With Rachel
 
-1:00 Margarett Ly
-1:45 Whitney Hiemstra
-2:30 Justin Holmes
-3:15 Drew Reynolds
+* 1:00 Margarett Ly
+* 1:45 Whitney Hiemstra
+* 2:30 Justin Holmes
+* 3:15 Drew Reynolds
 
 #### With Josh 
 
-1:00 Erik Butcher
-1:45 Lev Kravinsky
-2:30 Morgan Miller
-3:15 Josh Cass
+* 1:00 Erik Butcher
+* 1:45 Lev Kravinsky
+* 2:30 Morgan Miller
+* 3:15 Josh Cass
 
 ### Work Time: Authentication in my Jams (1:00 - 4:00) 
 
@@ -70,11 +67,12 @@ You got your jams in my authentication!
 
 ### Ruby Object Model Part I: (9:00 - 12:00)
 
-Join Josh Cheek in Classroom A.
+Join Josh Cheek in Classroom A. Prepare to have your minds *blown*.
 
-Please have Atom installed befhorehand. [Download Link](https://atom.io/)
 
-### Work Time and Instructor Pairing Time
+### Work Time and Instructor Pairing Time (1:00 - 4:00)
+
+Mike will be available for questions. Go pair with instructors if you are assigned to do so.
 
 Chisel away!
 
