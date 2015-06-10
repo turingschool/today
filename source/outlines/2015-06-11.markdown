@@ -73,8 +73,15 @@ The instructions for the session are as follow:
 
 ### Cohort Demo (3:00 - 4:00)
 
-Stay in Classroom B.
+Meet in Classroom B for your cohort demo. Each team is expected to present for 5 minutes. Your classmate, Kristina, will coordinate.
 
+Make sure that you answer these questions:
+
+1. Name of your project
+2. Which problem were you trying to solve
+3. How does your product solve that problem
+4. What is the biggest technical challenge that you faced
+5. How did you tackle that challenge
 
 ## 1503
 
