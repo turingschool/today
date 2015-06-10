@@ -70,7 +70,7 @@ You got your jams in my authentication!
 Some people memorize the patterns that others teach them.
 Join Josh Cheek in Classroom A to learn the small set of Rules underlying the Rubiverse.
 
-[Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
+![Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
 
 
 ### Work Time and Instructor Pairing Time (1:00 - 4:00)
