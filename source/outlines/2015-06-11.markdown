@@ -68,7 +68,7 @@ The instructions for the session are as follow:
 2. Create a free account
 3. Join me at join.me/novohispano
 4. Mute your microphone
-5. Unmute it when I ask you a questions
+5. Unmute it when I ask you a question
 6. DM me via Slack when you have a question, so that I can see a popup
 
 ### Cohort Demo (3:00 - 4:00)
