@@ -13,9 +13,6 @@ Given a hex-color input, like #F6336A, figure out the dominant resulting color, 
 
 Post your solution in #warmup-answers
 
-### Recitation (4:25 - 5:30)
-
-To be announced.
 
 ## 1412
 
@@ -56,23 +53,23 @@ Join Josh in Classroom C to learn all about routing in Rails.
 
 ### Authorization (10:30 - 12:00)
 
-Keep users out of admin parts of your app with Rachel in Classroom C.
+Keep users out of admin parts of your app with Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown).
 
 ### Mid Module Assessments (1:00 - 4:00)
 
 #### With Rachel
 
-1:00 Margarett Ly
-1:45 Whitney Hiemstra
-2:30 Justin Holmes
-3:15 Drew Reynolds
+* 1:00 Margarett Ly
+* 1:45 Whitney Hiemstra
+* 2:30 Justin Holmes
+* 3:15 Drew Reynolds
 
 #### With Josh
 
-1:00 Erik Butcher
-1:45 Lev Kravinsky
-2:30 Morgan Miller
-3:15 Josh Cass
+* 1:00 Erik Butcher
+* 1:45 Lev Kravinsky
+* 2:30 Morgan Miller
+* 3:15 Josh Cass
 
 ### Work Time: Authentication in my Jams (1:00 - 4:00)
 
@@ -83,11 +80,31 @@ You got your jams in my authentication!
 
 ### Ruby Object Model Part I: (9:00 - 12:00)
 
-Join Josh Cheek in Classroom A.
+Some people memorize the patterns that others teach them.
+Join Josh Cheek in Classroom A to learn the small set of Rules underlying the Rubiverse.
 
-Please have Atom installed befhorehand. [Download Link](https://atom.io/)
+![Take the red pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
 
-### Work Time and Instructor Pairing Time
+
+### Work Time and Instructor Pairing Time (1:00 - 4:00)
+
+Mike will be available for questions. Go pair with instructors if you are assigned to do so.
 
 Chisel away!
 
+The schedule/pairings below are considered "rough draft" until 9AM on Wednesday.
+
+#### 10:30 - 12:00
+
+* Mike Reeves & Josh Mejia
+* Rebekah Sosa & DJ Greenspan
+* Marla Brizel & Jeff
+* Justin Holzmann & Sam
+
+#### 4:00 - 5:30
+
+* Adam Caron & Dustin Gault
+* Rachel Parri & Jack Yeh
+* David Shim & Rolen Le
+* Max Millington & Sean Griffin
+* Jerrod Junker & Adam Smith
