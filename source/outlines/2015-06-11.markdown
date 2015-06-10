@@ -39,11 +39,37 @@ Review that code.
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+Client Evaluations with Jorge
+
+We are going to use Google Hangouts. Have one team member initiate the Hangout with Jorge. The link should be in your invite.
+
+* 9:00 - Kristina Brown, David Daniel, Patrick Medaugh
+* 9:30 - Eric Dowty, Fred Block, Kenny Chen
+* 10:00 - Andre Carmer, Tess Griffin, Kyle Henson
+* 10:30 - Minnie Lee, Michelle Golle, Tom Leskin
+* 11:00 - Mihir Parikh, Lori Culberson, Tracy Caruso
+* 11:30 - Jack Yeh
+
+Code Evaluations with Sam
+
+* 9:30 - Kristina Brown, David Daniel, Patrick Medaugh
+* 10:00 - Eric Dowty, Fred Block, Kenny Chen
+* 10:30 - Andre Carmer, Tess Griffin, Kyle Henson
+* 11:00 - Minnie Lee, Michelle Golle, Tom Leskin
+* 11:30 - Mihir Parikh, Lori Culberson, Tracy Caruso
 
 ### Self Directed Projects Kickoff (1:00 - 3:00)
 
-Meet with Jorge in Classroom B to play America's most popular game show.
+Meet with Jorge via Join.me. Have your ideas ready.
+
+The instructions for the session are as follow:
+
+1. Download the Join.me client [here](http://join.me).
+2. Create a free account
+3. Join me at join.me/novohispano
+4. Mute your microphone
+5. Unmute it when I ask you a questions
+6. DM me via Slack when you have a question, so that I can see a popup
 
 ### Cohort Demo (3:00 - 4:00)
 
@@ -65,7 +91,7 @@ Josh will teach all about this in Classroom C.
 2:30 Dave Maurer
 3:15 Tyler Graham
 
-#### With Josh 
+#### With Josh
 
 1:00 Chelsea Worrel
 1:45 Michael Merrill
@@ -103,7 +129,7 @@ Schedule TBA
 * 3:00 - Jerrod Paul Junker
 * 3:20 - Alex Tideman
 * 3:40 - Justin Pease
- 
+
 #### With Horace
 
 * 1:00 - Justin Holzmann
@@ -112,4 +138,3 @@ Schedule TBA
 * 2:00 - David Stinette
 * 2:40 - Mitch Ashby
 * 3:00 - Max Millington
- 
