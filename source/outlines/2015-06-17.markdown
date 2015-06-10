@@ -1,0 +1,69 @@
+---
+title: 20150617
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Build a solution for the problem of merging three sorted collection.
+
+Imagine we have three sets:
+
+* a: [1,4,9]
+* b: [2,3,5]
+* c: [6,7,8]
+
+Then the merge should produce [1,2,3,4,5,6,7,8,9].
+
+Try to solve a small problem first. Use pseudocode to separate the algorithmic
+thinking from the implementation.
+
+Post your solutions in #warmup-answers
+
+
+## 1412
+
+### Improving Query Performance (9:00 - 12:00)
+
+Join Horace in The Big Workspace as he teaches you how to improve your query performance.
+
+### Checkins and Code Review - (1:00 - 4:00)
+
+Check it in.
+
+
+## 1502
+
+### Angular in Rails (9:00 - 12:00)
+
+In Classroom B, Sam will show you how to use Angular in Rails.
+
+### Project Work Time (9:00 - 12:00)
+
+You have things to work on, and you should be working on them. 
+
+
+## 1503
+
+### Rails View Tips and Tricks (9:00 - 10:30)
+
+Rachel will teach you all of the tips and tricks with Rails Views. Every. Single. One.
+
+In Classroom C.
+
+### Pushing Logic Down The Stack (10:30 - 12:00)
+
+There are things you shouldn't Google. Don't Google them.
+
+Stay in Classroom B with Rachel.
+
+### Dinner Dash Work Time (1:00 - 4:00)
+
+Work time, work time, Dinner Dash work time.
+
+
+## 1505
+
+TBA

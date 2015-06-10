@@ -1,0 +1,104 @@
+---
+title: 20150615
+layout: outline
+---
+
+Today in History: It's the birthday of both Courteney Cox and Neil Patrick Harris!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+We heard so much buzz about logic puzzles, here's another one!
+
+http://cl.ly/1h3u2o1W1710
+
+Post your answers in #warmup-answers.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+These are your pairs:
+
+* Adam Caron & Rich Shea
+* Jerrod Paul Junker & Rick Bacci
+* Patrick Medaugh & Sebastian Abondano
+* Jai Misra & Max Tedford
+* Austin Wood & DJ Greenfield
+* Erik Butcher & Brett Grigsby
+* Mike Reeves & Minnie Lee
+* Kyle Henson & Michael Merrill
+* Mihir Parikh & David Daniel
+* Kenny Chen & Chelsea Worrel
+* Rachel Parri & Miriam Moser 
+* Justin Pease & Kit Pearson
+* Drew Reynolds & Andrew Fink
+* Margarett Ly & Drew Conly
+* Justin Holmes & Justin Holzmann
+* Kristina Brown & Jack Yeh
+* Samson Brock & Jason Wright
+* David Shim & Lovisa Svallingson
+* Marla Brizel & Alex Tideman
+* Tess Griffin & Kyra Steenbock
+* Morgan Miller & Max Millington
+* Michael Dorrance & Sally MacNicholas
+* Josh Cass & Whitney Hiemstra
+* Dmitry Vizersky & Dave Maurer
+* David Stinnette & Eric Dowty
+* Vanessa Gomez & Dustin Gault
+* Rob Cornell & Paul Grever
+* Andrew Carmer & Tyler Graham
+* Thomas Leskin & Lori Culberson
+* Lev Kravinsky & Trey Tomlinson
+* Markus Olsen & Fred Block
+* Charles Valentino Espinoza & Tracy Caruso
+* Jeffrey Gu & Mitch Ashby
+* Edward McCarthy & Michelle Golle
+* WILD CARD: Rebekah Sosa
+
+
+## 1412
+
+### Building a VPS (9:00 - 12:00)
+
+Build a VPS with Steve in Classroom A.
+
+### ActiveRecord Challenges (1:00 - 2:30)
+
+In Classroom A, do some ActiveRecord Challenges with Horace.
+
+When you are done, sing his praises in a chorus.
+
+It's really hard to rhyme with Horace. 
+
+
+## 1502
+
+### Getting Started with OAuth (9:00 - 10:30)
+
+Join Jorge in Classroom B and learn how to be Secretic.
+
+### Introduction to Client-Side Development (10:30 - 12:00)
+
+Stay with Sam in Classroom B and learn how to start developing on the Client-Side.
+
+### Securing an API (1:00 - 2:30)
+
+Jorge will teach you how to secure your API from the bad people in Classroom B.
+
+
+## 1503
+
+### Dinner Dash Kickoff and Work Time (9:00 - 12:00)
+
+Josh will get you started with Dinner Dash. It's a big day, your first real Rails project.
+
+### Cart Order and Lifecycles (1:00 - 2:30)
+
+Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles.
+
+
+## 1505
+
+TBA
+
+

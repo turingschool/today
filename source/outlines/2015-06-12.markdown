@@ -17,6 +17,7 @@ Eat and fill out surveys.
 Rosa from [LaunchCode.org](http://launchcode.org) joins us.
 
 ### Group Retro (10:00 - 11:00)
+
 * 1505 - Big Workspace
 * 1503 - Classroom B
 * 1502 - Classroom C
