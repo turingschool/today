@@ -122,10 +122,28 @@ Time to [git your act together](https://github.com/turingschool/lesson_plans/blo
 
 ### Rails Mini Project (1:00 - 4:00)
 
-It's a project. It's mini. Exactly.
+It's a [project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown). It's mini. Exactly.
+
+Work in the following pairs to start the project. You'll have the option to finish the project in pairs, or fork the project over the weekend and finish it on your own.
+
+* Brett Grigsby & Vanessa Gomez
+* Tyler Graham & Lev Kravinsky
+* Max Tedford & Chelsea Worrel
+* Morgan Miller & Margarett Ly
+* Rick Bacci & Erik Butcher
+* Rob Cornell & Dave Maurer
+* Jamie Kawahara & Drew Reynolds
+* Andrew Fink & Dmitry Vizersky
+* Michael Merrill & Sally MacNicholas
+* Justin Holmes & Whitney Hiemstra
+* Josh Cass
 
 
 ## 1505
+
+[Here](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
+is video from yesterday's Object Model lesson: Bindings, the stack, self, local variables.
+Unfortunately, the second half didn't save, because my harddrive ran out of space >.<
 
 ### Finishing Up (9:00 - 12:00)
 

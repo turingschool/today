@@ -87,6 +87,10 @@ Join Josh Cheek in Classroom A to learn the small set of Rules underlying the Ru
 
 [Notes from the session](https://gist.github.com/JoshCheek/f2f4fed0c184ad9dbe98/)
 
+[Here](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
+is video from the first part: Bindings, the stack, self, local variables.
+Unfortunately, the second half didn't save, because my harddrive ran out of space >.<
+
 
 ### Work Time and Instructor Pairing Time (1:00 - 4:00)
 
