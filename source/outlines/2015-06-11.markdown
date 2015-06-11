@@ -115,9 +115,17 @@ It's a project. It's mini. Exactly.
 
 ## 1505
 
-### Pairing Time  (9:00 - 12:00)
+### Finishing Up (9:00 - 12:00)
 
-Schedule TBA
+This morning you should be focused on your finishing touches.
+
+* It's a *bad* time to start new features.
+* It's a great time to refactor.
+* It's a great time to improve your tests.
+* Make sure to git commit early and often. Don't bring sob stories about how it "worked 10 minutes ago."
+* Half a thing is better than a half-assed thing.
+* Review [the rubric](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown) and remember you're
+shooting for 3s first then thinking about 4s.
 
 ### Early Bird Chisel Evaluations (10:20 - 12:00)
 
