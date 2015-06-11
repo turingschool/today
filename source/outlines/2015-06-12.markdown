@@ -3,7 +3,7 @@ title: 20150612
 layout: outline
 ---
 
-Today in History: In 1972, Popeye's is founded in Arabi, Louisiana. Oh, and President Reagan 
+Today in History: In 1972, Popeye's is founded in Arabi, Louisiana. Oh, and President Reagan
 challenged Mikhail Gorbechev to tear down the Berlin Wall in 1987.
 
 ## All
@@ -25,7 +25,7 @@ Rosa from [LaunchCode.org](http://launchcode.org) joins us.
 
 ### Guest Speaker - Jason Fried (11:00 - 12:00)
 
-Jason is one of the founders of and CEO of Basecamp, formerly known as 
+Jason is one of the founders of and CEO of Basecamp, formerly known as
 [37Signals](http://www.37signals.com).
 
 [Twitter](https://twitter.com/jasonfried)
@@ -36,14 +36,14 @@ TBA
 
 ### Self-Study, One-on-Ones, and Student-Led Sessions (1:45 - 2:45)
 
-* Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post. 
+* Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post.
 
 #### With Mike
 * 1:45 - Jai Misra
 * 2:00 - Adam Caron
-* 2:15 - Drew Conly 
+* 2:15 - Drew Conly
 * 2:30 - Mitch Ashby
- 
+
 #### With Jeff
 * 1:45 - Michael Dorrance
 * 2:00 - Samson Brock
@@ -65,19 +65,19 @@ TBA
 #### With Josh Cheek
 * 1:45 - Jason Wright
 * 2:00 - Vanessa Gomez
-* 2:15 - Morgan Miller 
+* 2:15 - Morgan Miller
+* 2:30 - Robert Cornell
 
 
 #### With Steve
-* 1:45 - Fred Block
-* 2:00 - Charles Valentino Espinoza
-* 2:15 - Robert Cornell
+* 2:15 - Charles Valentino Espinoza
+* 2:30 - Fred Block
 
 
 #### With Horace
 * 1:45 - Dustin Gault
 * 2:00 - Minnie Lee
-* 2:15 - Kyle Henson 
+* 2:15 - Kyle Henson
 
 
 #### With Marissa
