@@ -97,16 +97,16 @@ Time to [git your act together](https://github.com/turingschool/lesson_plans/blo
 
 #### With Rachel
 
-1:00 Dmitry Vizersky
-1:45 Rob Cornell
-2:30 Dave Maurer
-3:15 Tyler Graham
+* 1:00 - Dmitry Vizersky
+* 1:45 - Rob Cornell
+* 2:30 - Dave Maurer
+* 3:15 - Tyler Graham
 
 #### With Josh
 
-1:00 Chelsea Worrel
-1:45 Michael Merrill
-2:30 Jamie Kawahara
+* 1:00 - Chelsea Worrel
+* 1:45 - Michael Merrill
+* 2:30 - Jamie Kawahara
 
 ### Rails Mini Project (1:00 - 4:00)
 
