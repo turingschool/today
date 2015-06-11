@@ -36,7 +36,9 @@ TBA
 
 ### Self-Study, One-on-Ones, and Student-Led Sessions (1:45 - 2:45)
 
-* Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post. 
+* Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson and Turing[:1406]) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post. 
+
+* Hardware Hacking. Join Drew and Morgan in Classroom B to make motion sensors/occupancy lights for the bathrooms, so you don't need to knock on doors anymore.
 
 #### With Mike
 * 1:45 - Jai Misra
