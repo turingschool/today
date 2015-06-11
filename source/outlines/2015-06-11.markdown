@@ -52,7 +52,9 @@ We are going to use Google Hangouts. Have one team member initiate the Hangout w
 * 11:00 - Mihir Parikh, Lori Culberson, Tracy Caruso
 * 11:30 - Jack Yeh
 
-Code Evaluations with Horace
+
+
+Code Evaluations with Horace And/or Josh Cheek
 
 * 9:30 - Kristina Brown, David Daniel, Patrick Medaugh
 * 10:00 - Eric Dowty, Fred Block, Kenny Chen
