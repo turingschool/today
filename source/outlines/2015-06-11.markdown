@@ -129,14 +129,14 @@ Work in the following pairs to start the project. You'll have the option to fini
 * Brett Grigsby & Vanessa Gomez
 * Tyler Graham & Lev Kravinsky
 * Max Tedford & Chelsea Worrel
-* Morgan Miller & Margarett Ly
+* Josh Cass & Margarett Ly
 * Rick Bacci & Erik Butcher
 * Rob Cornell & Dave Maurer
 * Jamie Kawahara & Drew Reynolds
 * Andrew Fink & Dmitry Vizersky
 * Michael Merrill & Sally MacNicholas
 * Justin Holmes & Whitney Hiemstra
-* Josh Cass
+* Morgan Miller
 
 
 ## 1505
