@@ -30,10 +30,22 @@ And on the fourth day of the week, 1505 rested.
 
 Classroom A. Steve.
 
-### Designing an Application (9:00 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+* [Repository](https://github.com/turingschool-examples/right-now/tree/2015-04-29-basic-chat)
+
+You'll be working in the following pairs:
+
+* Trey Tomlinson & DJ Greenfield
+* Dustin Gault & Markus Olsen
+* Rich Shea & Kyra Steenbock
+* Austin Wood & Edward McCarthy
+* Kit Pearson & Miriam Moser
+* Paul Grever & Charles Valentino Espinoza
+* Jeffrey Gu
+
+### Designing an Application (1:00 - 4:00)
 
 It's Josh Cheek Week in Classroom A.
-
 
 ## 1502
 
