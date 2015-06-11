@@ -87,7 +87,7 @@ Make sure that you answer these questions:
 
 ### Git Workflow (9:00 - 12:00)
 
-Josh will teach all about this in Classroom C.
+Time to [git your act together](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown) in Classroom B.
 
 ### Mid Module Assessments (1:00 - 4:00)
 
