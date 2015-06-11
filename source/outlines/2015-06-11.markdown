@@ -119,6 +119,13 @@ It's a project. It's mini. Exactly.
 
 Schedule TBA
 
+### Early Bird Chisel Evaluations (10:20 - 12:00)
+
+#### With Mike
+
+* 10:20 - Rachel Parri
+* 10:40 - Mitch Ashby
+
 ### Chisel Evaluations (1:00 - 4:00)
 
 #### With Mike
@@ -134,9 +141,7 @@ Schedule TBA
 
 #### With Steve
 
-* 2:00 - Jai Misra
-* 2:20 - Marla Brizel
-* 2:40 - Rachel Parri
+
 * 3:00 - Jerrod Paul Junker
 * 3:20 - Alex Tideman
 * 3:40 - Justin Pease
@@ -147,5 +152,6 @@ Schedule TBA
 * 1:20 - Mike Reeves
 * 1:40 - Adam Caron
 * 2:00 - David Stinette
-* 2:40 - Mitch Ashby
+* 2:20 - Jai Misra
+* 2:40 - Marla Brizel
 * 3:00 - Max Millington
