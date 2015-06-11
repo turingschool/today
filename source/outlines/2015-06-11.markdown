@@ -39,9 +39,11 @@ Review that code.
 
 ### Project Evaluations (9:00 - 12:00)
 
+Make sure to install a performance profiler before your meetings. You can use Skylight, New Relic or another solution as long as they tell the speed that a page takes to load in milliseconds.
+
 Client Evaluations with Jorge
 
-We are going to use Google Hangouts. Have one team member initiate the Hangout with Jorge. The link should be in your invite.
+We are going to use Google Hangouts. Have one team member initiate the Hangout with Jorge.
 
 * 9:00 - Kristina Brown, David Daniel, Patrick Medaugh
 * 9:30 - Eric Dowty, Fred Block, Kenny Chen
@@ -50,7 +52,7 @@ We are going to use Google Hangouts. Have one team member initiate the Hangout w
 * 11:00 - Mihir Parikh, Lori Culberson, Tracy Caruso
 * 11:30 - Jack Yeh
 
-Code Evaluations with Sam
+Code Evaluations with Horace
 
 * 9:30 - Kristina Brown, David Daniel, Patrick Medaugh
 * 10:00 - Eric Dowty, Fred Block, Kenny Chen
