@@ -109,16 +109,16 @@ Time to [git your act together](https://github.com/turingschool/lesson_plans/blo
 
 #### With Rachel
 
-1:00 Dmitry Vizersky
-1:45 Rob Cornell
-2:30 Dave Maurer
-3:15 Tyler Graham
+* 1:00 - Dmitry Vizersky
+* 1:45 - Rob Cornell
+* 2:30 - Dave Maurer
+* 3:15 - Tyler Graham
 
 #### With Josh
 
-1:00 Chelsea Worrel
-1:45 Michael Merrill
-2:30 Jamie Kawahara
+* 1:00 - Chelsea Worrel
+* 1:45 - Michael Merrill
+* 2:30 - Jamie Kawahara
 
 ### Rails Mini Project (1:00 - 4:00)
 
@@ -127,9 +127,24 @@ It's a project. It's mini. Exactly.
 
 ## 1505
 
-### Pairing Time  (9:00 - 12:00)
+### Finishing Up (9:00 - 12:00)
 
-Schedule TBA
+This morning you should be focused on your finishing touches.
+
+* It's a *bad* time to start new features.
+* It's a great time to refactor.
+* It's a great time to improve your tests.
+* Make sure to git commit early and often. Don't bring sob stories about how it "worked 10 minutes ago."
+* Half a thing is better than a half-assed thing.
+* Review [the rubric](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown) and remember you're
+shooting for 3s first then thinking about 4s.
+
+### Early Bird Chisel Evaluations (10:20 - 12:00)
+
+#### With Mike
+
+* 10:20 - Rachel Parri
+* 10:40 - Mitch Ashby
 
 ### Chisel Evaluations (1:00 - 4:00)
 
@@ -146,10 +161,6 @@ Schedule TBA
 
 #### With Steve
 
-* 2:00 - Jai Misra
-* 2:20 - Marla Brizel
-* 2:40 - Rachel Parri
-* 3:00 - Jerrod Paul Junker
 * 3:20 - Alex Tideman
 * 3:40 - Justin Pease
 
@@ -159,5 +170,7 @@ Schedule TBA
 * 1:20 - Mike Reeves
 * 1:40 - Adam Caron
 * 2:00 - David Stinette
-* 2:40 - Mitch Ashby
+* 2:20 - Jai Misra
+* 2:40 - Marla Brizel
 * 3:00 - Max Millington
+* 3:20 - Jerrod Paul Junker
