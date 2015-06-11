@@ -26,13 +26,13 @@ And on the fourth day of the week, 1505 rested.
 
 ## 1412
 
-### Building a Notification Service (9:00 - 12:00)
+### Websockets in Node (9:00 - 12:00)
 
 Classroom A. Steve.
 
-### Code Challenge Review (9:00 - 12:00)
+### Designing an Application (9:00 - 12:00)
 
-Review that code.
+It's Josh Cheek Week in Classroom A.
 
 
 ## 1502
