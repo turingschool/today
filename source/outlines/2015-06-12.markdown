@@ -41,7 +41,7 @@ Jason is one of the founders of and CEO of Basecamp, formerly known as
 
 This afternoon we're working on learning:
 
-https://github.com/turingschool/gear-up/blob/master/learning_and_spaced_repetition.markdown
+[Spaced Repetition](https://github.com/turingschool/gear-up/blob/master/learning_and_spaced_repetition.markdown)
 
 Please gather in the following groups on time at 1pm. You can spread out to Classroom B, Classroom C, and the workspace.
 Be back in the workspace **at 1:35**.
