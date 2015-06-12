@@ -84,6 +84,7 @@ Before 1:45, DM your pair and set a place to meet so that you don't waste time t
 
 * Join Kit in Classroom C as he expounds on his lightning talks and shows you how you can use Git to turn your code along classes into fantastic notes.
 
+* DJ will be doing an intro to JavaScript for Rubyists in the Big Workspace. We'll compare the 'scope' of variables, functions and methods, and constructors and classes. If you know at least half of those words, you'll be able to grasp the whole study session.
 
 #### With Mike
 * 1:45 - Jai Misra
