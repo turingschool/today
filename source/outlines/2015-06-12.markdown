@@ -37,7 +37,28 @@ Jason is one of the founders of and CEO of Basecamp, formerly known as
 
 ### Gear Up (1:00 - 1:45)
 
-TBA
+1502 please meet with Jeff in Classroom A.
+
+This afternoon we're working on learning:
+
+[Spaced Repetition](https://github.com/turingschool/gear-up/blob/master/learning_and_spaced_repetition.markdown)
+
+Please gather in the following groups on time at 1pm. You can spread out to Classroom B, Classroom C, and the workspace.
+Be back in the workspace **at 1:35**.
+
+* Justin Pease & Chelsea Worrel & Edward McCarthy & Lovisa Svallingson
+* Michael Dorrance & Sebastian Abondano & David Shim & Andrew Fink
+* Brett Grigsby & Margarett Ly & Vanessa Gomez & Austin Wood
+* Drew Conly & Rachel Parri & Lev Kravinsky & Jai Misra
+* Whitney Hiemstra & Rob Cornell & Adam Caron & Paul Grever
+* Jamie Kawahara & Samson Brock & Alex Tideman & Rick Bacci
+* Josh Cass & Kyra Steenbock & Erik Butcher & Tyler Graham
+* Michael Merrill & Jason Wright & David Stinnette & Dustin Gault
+* Justin Holzmann & Sally MacNicholas & Trey Tomlinson & Rebekah Sosa
+* Jeffrey Gu & Drew Reynolds & Mitch Ashby & Max Millington
+* Jerrod Paul Junker & Mike Reeves & Miriam Moser & Justin Holmes
+* DJ Greenfield & Dave Maurer & Morgan Miller & Marla Brizel & Markus Olsen
+* Rich Shea & Charles Valentino Espinoza & Kit Pearson & Max Tedford & Dmitry Vizersky
 
 ### Cross Cohort One on Ones (1:45 - 2:00)
 
@@ -65,9 +86,8 @@ Before 1:45, DM your pair and set a place to meet so that you don't waste time t
 * Sebastian Abondano & Chelsea Worrel 
 * Lovisa Svallingson & Thomas Leskin
 * David Shim & Tess Griffin
-* Max Millington & Whitney Heimstra
+* Max Millington & Whitney Heimstra & Jack Yeh
 * Drew Reynolds & Austin Wood
-* Josh Cass & Jack Yeh
 * Lev Kravinsky & Patrick Medaugh
 * Lori Culberson & Erik Butcher
 * Justin Holzmann & Michael Merrill
@@ -101,8 +121,7 @@ Before 1:45, DM your pair and set a place to meet so that you don't waste time t
 #### With Rachel
 * 1:45 - Brett Grigsby
 * 2:00 - Max Tedford
-* 2:15 - Rick Bacci
-* 2:30 - Sally MacNicholas
+* 2:15 - Sally MacNicholas
 
 #### With Sam
 * 1:45 - Michael Dorrance
@@ -125,7 +144,6 @@ Before 1:45, DM your pair and set a place to meet so that you don't waste time t
 * 1:45 - Miriam Moser
 * 2:00 - Jeff Gu
 * 2:15 - Paul Grever
-* 2:30 - Justin Holmes
 
 #### With Raissa
 * 1:45 - Justin Holmes
