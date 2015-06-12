@@ -34,11 +34,36 @@ Jason is one of the founders of and CEO of Basecamp, formerly known as
 
 TBA
 
-### Self-Study, One-on-Ones, and Student-Led Sessions (1:45 - 2:45)
+### Cross Cohort One on Ones (1:45 - 2:00)
+
+Pairs:
+
+* Dmitry Vizersky & Edward McCarthy
+* Alex Tideman & Markus Olsen
+* Rebekah Sosa & Trey Tomlinson
+* David Stinette & DJ Greenfield
+* Marla Brizel & Tyler Graham 
+* Sebastian Abondano & Chelsea Worrel 
+* Lovisa Svallingson & Thomas Leskin
+* David Shim & Tess Griffin
+* Max Millington & Whitney Heimstra
+* Drew Reynolds & Austin Wood
+* Josh Cass & Jack Yeh
+* Lev Kravinsky & Patrich Medaugh
+* Lori Culberson & Michelle Golle
+* Justin Holzmann & Michael Merrill
+* Justin Pease & Eric Dowty & Erik Butcher
+* Jamie Kawahara & Charles Valentino Espinosa
+* David Maurer & Kit Pearson
+* Margarett Ly & Tracy Caruso
+ 
+### Self-Study, One-on-Ones, and Student-Led Sessions (2:00 - 2:45)
 
 * Steve is running a session on crafting proposals to [Rocky Mountain Ruby](http://rockymtnruby.com/). You should write a proposal. Steve will help you. Proposals are due on Monday and we'll meet on Monday afternoon to review each other's proposals.
 * Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson and Turing[:1406]) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post.
 * Hardware Hacking. Join Drew and Morgan in Classroom B to make motion sensors/occupancy lights for the bathrooms, so you don't need to knock on doors anymore.
+* Join Kit in Classroom C as he expounds on his lightning talks and shows you how you can use Git to turn your code along classes into fantastic notes.
+
 
 #### With Mike
 * 1:45 - Jai Misra
@@ -48,7 +73,7 @@ TBA
 
 #### With Jeff
 * 1:45 - Michael Dorrance
-* 2:00 - Samson Brock
+* 2:30 - Jerrod Paul Junker
 * 2:15 - Mike Reeves
 * 2:30 - Rachel Parri
 
@@ -67,25 +92,14 @@ TBA
 #### With Josh Cheek
 * 1:45 - Jason Wright
 * 2:00 - Vanessa Gomez
-<<<<<<< HEAD
 * 2:15 - Morgan Miller
 * 2:30 - Robert Cornell
-
-=======
-* 2:15 - Morgan Miller
-* 2:30 - Jerrod Paul Junker
->>>>>>> 0b74393d1a8618831ec9903cb28f7cbdfad7ab49
-
-#### With Steve
-* 2:15 - Charles Valentino Espinoza
-* 2:30 - Fred Block
-
 
 #### With Horace
 * 1:45 - Dustin Gault
 * 2:00 - Minnie Lee
 * 2:15 - Kyle Henson
-
+* 2:30 - Samson Brock
 
 #### With Marissa
 * 1:45 - Miriam Moser
@@ -96,6 +110,8 @@ TBA
 #### With Raissa
 * 1:45 - Justin Holmes
 * 2:00 - Mihir Parikh
+* 2:15 - Charles Valentino Espinoza
+* 2:30 - Fred Block
 
 ### Lightning Talks (2:45 - 4:00)
 
