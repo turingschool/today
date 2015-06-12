@@ -12,6 +12,11 @@ challenged Mikhail Gorbechev to tear down the Berlin Wall in 1987.
 
 Eat and fill out surveys.
 
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1XZKf8OJx2kp_polNSkBWX2m5KPFGq2Oet3xjA-jYLp4/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1saxfoxCm44cW6uOA1EJegwG5W1E5nzPI8fHQNYx5wks/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1iUimA6-ESNKSX3YBzAseUoB-KHz1H2_F8Uzn7MD97EE/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/1UP7VgZb558TKulP1yCTr-ZAxs_Xb_uhyGay7_y2F4mw/viewform)
+
 ### Guest Speaker (9:00 - 10:00)
 
 Rosa from [LaunchCode.org](http://launchcode.org) joins us.
@@ -36,7 +41,21 @@ TBA
 
 ### Cross Cohort One on Ones (1:45 - 2:00)
 
-Pairs:
+Sharing is caring. Meet up with your pair for 15 minutes. Things you might want to talk about:
+
+* What was the highlight of your week, either personally or school-wise?
+* What did you struggling with this week, either personally or school-wise?
+* What are you excited about? 
+* What are you worried about? 
+* What are you doing to relax this weekend?
+* What are you doing to reinforce your learning this weekend?
+* Are you taking care of yourself (sleeping, exercising, eating)?
+* What are you learning right now that is not taught in Turing classes? 
+* How can we support each other? 
+
+Before 1:45, DM your pair and set a place to meet so that you don't waste time trying to find each other :) 
+
+#### Pairs
 
 * Dmitry Vizersky & Edward McCarthy
 * Alex Tideman & Markus Olsen
@@ -49,10 +68,10 @@ Pairs:
 * Max Millington & Whitney Heimstra
 * Drew Reynolds & Austin Wood
 * Josh Cass & Jack Yeh
-* Lev Kravinsky & Patrich Medaugh
-* Lori Culberson & Michelle Golle
+* Lev Kravinsky & Patrick Medaugh
+* Lori Culberson & Erik Butcher
 * Justin Holzmann & Michael Merrill
-* Justin Pease & Eric Dowty & Erik Butcher
+* Justin Pease & Eric Dowty 
 * Jamie Kawahara & Charles Valentino Espinosa
 * David Maurer & Kit Pearson
 * Margarett Ly & Tracy Caruso
@@ -60,10 +79,12 @@ Pairs:
 ### Self-Study, One-on-Ones, and Student-Led Sessions (2:00 - 2:45)
 
 * Steve is running a session on crafting proposals to [Rocky Mountain Ruby](http://rockymtnruby.com/). You should write a proposal. Steve will help you. Proposals are due on Monday and we'll meet on Monday afternoon to review each other's proposals.
-* Need help starting a blog entry? Guidance or brainstorming assistance for topics? Join Jessica Goulding (Software Developer at Redsson and Turing[:1406]) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post.
-* Hardware Hacking. Join Drew and Morgan in Classroom B to make motion sensors/occupancy lights for the bathrooms, so you don't need to knock on doors anymore.
+
+* Need help starting a blog entry? Guidance or brainstorming assistance for topics? A blog can be a great way to reinforce your own knowledge and showcase that knowledge to future employers. Join Jessica Goulding (Software Developer at Redsson and Turing[:1406]) in Classroom A. Jessica will walk you through finding a manageable topic, creating an outline, and turning that outline into a blog post.
+
 * Join Kit in Classroom C as he expounds on his lightning talks and shows you how you can use Git to turn your code along classes into fantastic notes.
 
+* DJ will be doing an intro to JavaScript for Rubyists in the Big Workspace. We'll compare the 'scope' of variables, functions and methods, and constructors and classes. If you know at least half of those words, you'll be able to grasp the whole study session.
 
 #### With Mike
 * 1:45 - Jai Misra
@@ -94,37 +115,33 @@ Pairs:
 * 1:45 - Jason Wright
 * 2:00 - Vanessa Gomez
 * 2:15 - Morgan Miller
-* 2:30 - Robert Cornell
 
 #### With Horace
 * 1:45 - Dustin Gault
 * 2:00 - Minnie Lee
-* 2:15 - Kyle Henson
-* 2:30 - Samson Brock
+* 2:15 - Samson Brock
 
 #### With Marissa
 * 1:45 - Miriam Moser
-* 2:00 - Kyra Steenbock
-* 2:15 - Jeff Gu
-* 2:30 - Paul Grever
+* 2:00 - Jeff Gu
+* 2:15 - Paul Grever
 
 #### With Raissa
 * 1:45 - Justin Holmes
-* 2:00 - Mihir Parikh
-* 2:15 - Charles Valentino Espinoza
-* 2:30 - Fred Block
+* 2:00 - Charles Valentino Espinoza
+* 2:15 - Fred Block
 
 ### Lightning Talks (2:45 - 4:00)
 
-* Markus Olsen
-* Rich Shea
+* Markus Olsen - The Economics of Open Source
 * Lori Culberson - Check Your Ego at the Door (Redefining Failure)
-* Fred Block
-* Michelle Golle
-* Patrick Medaugh
-* Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
-* Tess Griffin
-* Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
-* Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
-* Margarett Ly
+* Fred Block - How to Teach: Lessons From Flight Instructing
+* Michelle Golle - When and How to Best Use Private Methods
+* Patrick Medaugh - Intro to Go
+* Lev Kravinsky - Concurrency in Ruby
+* Minnie Lee - Sonic Pi: A teaching tool for children to learn Ruby by making music
+* Tess Griffin - How 3D Film Works, and How It's Done Right (Or Not)
+* Whitney Hiemstra - Medical Devices: The Good, The Awesome, The Weird
+* Erik Butcher - Avoidance, Flocking, and the Art of Bullet Hell
+* Margarett Ly - Internet Access for Under-Resourced Populations Through Smart Phones
 
