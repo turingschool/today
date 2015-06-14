@@ -94,15 +94,39 @@ Jorge will teach you how to secure your API from the bad people in Classroom B.
 
 ### Dinner Dash Kickoff and Work Time (9:00 - 12:00)
 
-Josh will get you started with Dinner Dash. It's a big day, your first real Rails project.
+Josh will get you started with Dinner Dash starting in the Big Workspace. It's a big day, your first real Rails project.
 
 ### Cart Order and Lifecycles (1:00 - 2:30)
 
-Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles.
+Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
 
 
 ## 1505
 
-TBA
+### Intro to CSVs (9:00 - 10:00)
 
+Meet with Steve in Classroom C to [return to one of your favorite lessons and talk about CSVs](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
 
+### EventManager (10:00 - 2:00)
+
+Let's put your CSV knowledge into practice. You have some time to dive into the [EventManager Tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+Some things to keep in mind:
+
+* You won't finish the tutorial, that's ok
+* This work time is about exposure and learning, not mastery and perfect code
+* Go slow enough that you understand / think critically about all your code
+* Don't write tests. This is exposure, not high quality code. You'll do plenty of testing in SalesEngine.
+* Feel free to play and dive deeper if something catches your eye
+
+Mike will hang out in the workspace for your questions.
+
+### EventManager Discussion and Recap (2:00 - 2:30)
+
+Join Mike in Classroom A to discuss your observations and answer any big picture questions that came out of EventManager.
+
+### Getting Started with SalesEngine (2:30 - 3:00)
+
+Then the moment you've been waiting for. Continue with Steve in A to [kickoff SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+
+< Pairs will go here >
