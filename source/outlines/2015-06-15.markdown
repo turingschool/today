@@ -60,16 +60,20 @@ These are your pairs:
 
 ### Building a VPS (9:00 - 12:00)
 
-Build a VPS with Steve in Classroom A.
+Join Horace in Classroom A to walk through [setting up a VPS for hosting web applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown).
 
-### ActiveRecord Challenges (1:00 - 2:30)
+### Checkins and Project Planning (1:00 - 2:30)
 
-In Classroom A, do some ActiveRecord Challenges with Horace.
+Meet with Horace or Steve to check in on your progress so far and to outline next iteration plans.
 
-When you are done, sing his praises in a chorus.
+With Horace
+Group 1: 1:00 - 1:30
+Group 2: 1:30 - 2:00
 
-It's really hard to rhyme with Horace. 
-
+With Steve
+Group 3: 1:00 - 1:30
+Group 4: 1:30 - 2:00
+Group 5: 2:00 - 2:30
 
 ## 1502
 
