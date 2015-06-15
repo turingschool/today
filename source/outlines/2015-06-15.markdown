@@ -15,7 +15,7 @@ http://cl.ly/1h3u2o1W1710
 
 Post your answers in #warmup-answers.
 
-### Technical Interview Prep (2:30 - 4:00)
+### Technical Interview Prep (3:00 - 4:00)
 
 These are your pairs:
 
@@ -62,18 +62,9 @@ These are your pairs:
 
 Join Horace in Classroom A to walk through [setting up a VPS for hosting web applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown).
 
-### Checkins and Project Planning (1:00 - 2:30)
+### ActiveRecord Challenges (1:00 - 3:00)
 
-Meet with Horace or Steve to check in on your progress so far and to outline next iteration plans.
-
-With Horace
-Group 1: 1:00 - 1:30
-Group 2: 1:30 - 2:00
-
-With Steve
-Group 3: 1:00 - 1:30
-Group 4: 1:30 - 2:00
-Group 5: 2:00 - 2:30
+Big Workspace. 
 
 ## 1502
 
@@ -98,7 +89,7 @@ Join Jorge in Classroom B.
 
 Stay with Steve in Classroom B and get an introduction on the principles behind client-side development.
 
-### Project Work Time (1:00 - 2:30)
+### Project Work Time (1:00 - 3:00)
 
 Work on your individual projects. Remember that for tomorrow, you'll need to:
 
@@ -114,7 +105,7 @@ Work on your individual projects. Remember that for tomorrow, you'll need to:
 
 Josh will get you started with Dinner Dash starting in the Big Workspace. It's a big day, your first real Rails project.
 
-### Cart Order and Lifecycles (1:00 - 2:30)
+### Cart Order and Lifecycles (1:00 - 3:00)
 
 Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
 
@@ -122,7 +113,8 @@ Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their 
 
 ### Intro to CSVs (9:00 - 10:00)
 
-Meet with Steve in Classroom C to [return to one of your favorite lessons and talk about CSVs](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown).
+Meet with Mike in Classroom C to recap [CSVs](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown)
+and to see some of the cool things can do with them.
 
 ### EventManager (10:00 - 2:00)
 
@@ -146,4 +138,12 @@ Join Mike in Classroom A to discuss your observations and answer any big picture
 
 Then the moment you've been waiting for. Continue with Steve in A to [kickoff SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
 
-< Pairs will go here >
+* Mitch Ashby & Drew Conly
+* Jason Wright & Adam Caron
+* Samson Brock & Justin Pease
+* Michael Dorrance & Jerrod Paul Junker
+* David Shim & Lovisa Svallingson
+* David Stinnette & Max Millington
+* Jai Misra & Justin Holzmann
+* Mike Reeves & Alex Tideman
+* Marla Brizel & Sebastian Abondano
