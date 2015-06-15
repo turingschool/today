@@ -122,7 +122,7 @@ Josh will get you started with [Dinner Dash](http://tutorials.jumpstartlab.com/p
 
 ### Cart Order and Lifecycles (1:00 - 3:00)
 
-Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
+Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C. You'll also [catch some pokemon](https://github.com/rwarbelow/catch-em-all). 
 
 ## 1505
 
