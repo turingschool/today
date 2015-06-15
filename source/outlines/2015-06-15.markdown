@@ -75,8 +75,6 @@ Big Workspace.
 
 ## 1502
 
-It's really hard to rhyme with Horace.
-
 ### Understanding the Asset Pipeline (9:00 - 11:00)
 
 In this lesson you will learn about how Rails handles assets such as JavaScript, CSS and images in your web app.
