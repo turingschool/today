@@ -29,7 +29,7 @@ These are your pairs:
 * Kyle Henson & Michael Merrill
 * Mihir Parikh & David Daniel
 * Kenny Chen & Chelsea Worrel
-* Rachel Parri & Miriam Moser 
+* Rachel Parri & Miriam Moser
 * Justin Pease & Kit Pearson
 * Drew Reynolds & Andrew Fink
 * Margarett Ly & Drew Conly
@@ -77,18 +77,36 @@ Group 5: 2:00 - 2:30
 
 ## 1502
 
-### Getting Started with OAuth (9:00 - 10:30)
+### Understanding the Asset Pipeline (9:00 - 11:00)
 
-Join Jorge in Classroom B and learn how to be Secretic.
+In this lesson you will learn about how Rails handles assets such as JavaScript, CSS and images in your web app.
 
-### Introduction to Client-Side Development (10:30 - 12:00)
+Here are the materials for this lesson:
 
-Stay with Sam in Classroom B and learn how to start developing on the Client-Side.
+* [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.markdown)
 
-### Securing an API (1:00 - 2:30)
+Also, please clone the following:
 
-Jorge will teach you how to secure your API from the bad people in Classroom B.
+```
+git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
+```
 
+Join Jorge in Classroom B.
+
+### Introduction to Client-Side Development (11:00 - 12:00)
+
+Stay with Steve in Classroom B and get an introduction on the principles behind client-side development.
+
+### Project Work Time (1:00 - 2:30)
+
+Work on your individual projects. Remember that for tomorrow, you'll need to:
+
+1. Bring your persona and wireframes
+2. Have your app deployed to Heroku
+3. Have your CSS and HTML on production
+4. Have implemented a third party login if applicable
+5. Have explored the API to make sure that your project is feasible
 
 ## 1503
 
@@ -99,7 +117,6 @@ Josh will get you started with Dinner Dash starting in the Big Workspace. It's a
 ### Cart Order and Lifecycles (1:00 - 2:30)
 
 Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
-
 
 ## 1505
 
