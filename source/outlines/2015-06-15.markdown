@@ -17,6 +17,8 @@ Post your answers in #warmup-answers.
 
 ### Technical Interview Prep (3:00 - 4:00)
 
+[Towers of Hanoi](https://github.com/turingschool/technical_puzzles/blob/master/tower_of_hanoi.markdown)
+
 These are your pairs:
 
 * Adam Caron & Rich Shea
