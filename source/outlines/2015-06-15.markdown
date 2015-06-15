@@ -73,10 +73,10 @@ Join Horace in Classroom A to walk through [setting up a VPS for hosting web app
 
 Meet with Horace in Classroom A
 
-Group 1: 1:00 - 1:20
-Group 2: 1:20 - 1:40
-Group 3: 1:40 - 2:00
-Group 4: 2:00 - 2:20
+* Group 1: 1:00 - 1:20
+* Group 2: 1:20 - 1:40
+* Group 3: 1:40 - 2:00
+* Group 4: 2:00 - 2:20
 
 ## 1502
 
