@@ -112,6 +112,14 @@ Work on your individual projects. Remember that for tomorrow, you'll need to:
 
 Josh will get you started with Dinner Dash starting in the Big Workspace. It's a big day, your first real Rails project.
 
+* Morgan Miller & Tyler Graham & Michael Merrill
+* Whitney Hiemstra & Vanessa Gomez & Drew Reynolds
+* Max Tedford & Margarett Ly & Dave Maurer
+* Brett Grigsby & Chelsea Worrel & Andrew Fink
+* Sally MacNicholas & Jamie Kawahara & Erik Butcher
+* Josh Cass & Justin Holmes & Rob Cornell
+* Dmitry Vizersky & Lev Kravinsky & Rick Bacci
+
 ### Cart Order and Lifecycles (1:00 - 3:00)
 
 Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
