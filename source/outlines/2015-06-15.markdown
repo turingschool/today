@@ -110,7 +110,7 @@ Work on your individual projects. Remember that for tomorrow, you'll need to:
 
 ### Dinner Dash Kickoff and Work Time (9:00 - 12:00)
 
-Josh will get you started with Dinner Dash starting in the Big Workspace. It's a big day, your first real Rails project.
+Josh will get you started with [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html) starting in the Big Workspace. It's a big day, your first real Rails project.
 
 * Morgan Miller & Tyler Graham & Michael Merrill
 * Whitney Hiemstra & Vanessa Gomez & Drew Reynolds
