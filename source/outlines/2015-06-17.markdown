@@ -27,7 +27,23 @@ Post your solutions in #warmup-answers
 
 ### Improving Query Performance (9:00 - 12:00)
 
-Join Horace in The Big Workspace as he teaches you how to improve your query performance.
+Join Horace and 1502 in the Workspace to get more practice applying performance optimization techniques with the [Blogger Performance Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
+
+We'll work in the following cross-cohort groups:
+
+* Edward McCarthy, Minnie Lee
+* Austin Wood, Kristina Brown
+* Kyra Steenbock, Jack Yeh
+* Jeffrey Gu, Eric Dowty
+* Dustin Gault, Andrew Carmer
+* Miriam Moser, Tracy Caruso
+* Kit Pearson, Patrick Medaugh
+* Markus Olsen, Lori Culberson
+* Charles Valentino Espinoza, David Daniel
+* Paul Grever, Tess Griffin
+* DJ Greenfield, Fred Block, Tom Leskin
+* Trey Tomlinson, Mihir Parikh, Kenny Chen
+* Rich Shea, Kyle Henson, Michelle Golle
 
 ### Checkins and Code Review - (1:00 - 4:00)
 
@@ -36,9 +52,26 @@ Check it in.
 
 ## 1502
 
-### Angular in Rails (9:00 - 12:00)
+### Blogger Performance Workshop (9:00 - 12:00)
 
-In Classroom B, Sam will show you how to use Angular in Rails.
+Join Horace and 1412 in the Workspace to get more practice applying performance optimization techniques with the [Blogger Performance Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
+
+We'll work in the following cross-cohort groups:
+
+* Edward McCarthy, Minnie Lee
+* Austin Wood, Kristina Brown
+* Kyra Steenbock, Jack Yeh
+* Jeffrey Gu, Eric Dowty
+* Dustin Gault, Andrew Carmer
+* Miriam Moser, Tracy Caruso
+* Kit Pearson, Patrick Medaugh
+* Markus Olsen, Lori Culberson
+* Charles Valentino Espinoza, David Daniel
+* Paul Grever, Tess Griffin
+* DJ Greenfield, Fred Block, Tom Leskin
+* Trey Tomlinson, Mihir Parikh, Kenny Chen
+* Rich Shea, Kyle Henson, Michelle Golle
+
 
 ### Project Work Time (9:00 - 12:00)
 

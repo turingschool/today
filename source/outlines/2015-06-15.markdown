@@ -15,7 +15,7 @@ http://cl.ly/1h3u2o1W1710
 
 Post your answers in #warmup-answers.
 
-### Technical Interview Prep (2:30 - 4:00)
+### Technical Interview Prep (3:00 - 4:00)
 
 These are your pairs:
 
@@ -67,45 +67,92 @@ Meet with Steve in Classroom A.
 
 ### Building a VPS (9:00 - 12:00)
 
-Build a VPS with Steve in Classroom A.
+Join Horace in Classroom A to walk through [setting up a VPS for hosting web applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown).
 
-### ActiveRecord Challenges (1:00 - 2:30)
+### ActiveRecord Challenges (1:00 - 3:00)
 
-In Classroom A, do some ActiveRecord Challenges with Horace.
-
-When you are done, sing his praises in a chorus.
-
-It's really hard to rhyme with Horace.
-
+Big Workspace.
 
 ## 1502
 
-### Getting Started with OAuth (9:00 - 10:30)
+It's really hard to rhyme with Horace.
 
-Join Jorge in Classroom B and learn how to be Secretic.
+### Understanding the Asset Pipeline (9:00 - 11:00)
 
-### Introduction to Client-Side Development (10:30 - 12:00)
+In this lesson you will learn about how Rails handles assets such as JavaScript, CSS and images in your web app.
 
-Stay with Sam in Classroom B and learn how to start developing on the Client-Side.
+Here are the materials for this lesson:
 
-### Securing an API (1:00 - 2:30)
+* [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.markdown)
 
-Jorge will teach you how to secure your API from the bad people in Classroom B.
+Also, please clone the following:
 
+```
+git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
+```
+
+Join Jorge in Classroom B.
+
+### Introduction to Client-Side Development (11:00 - 12:00)
+
+Stay with Steve in Classroom B and get an introduction on the principles behind client-side development.
+
+### Project Work Time (1:00 - 3:00)
+
+Work on your individual projects. Remember that for tomorrow, you'll need to:
+
+1. Bring your persona and wireframes
+2. Have your app deployed to Heroku
+3. Have your CSS and HTML on production
+4. Have implemented a third party login if applicable
+5. Have explored the API to make sure that your project is feasible
 
 ## 1503
 
 ### Dinner Dash Kickoff and Work Time (9:00 - 12:00)
 
-Josh will get you started with Dinner Dash. It's a big day, your first real Rails project.
+Josh will get you started with Dinner Dash starting in the Big Workspace. It's a big day, your first real Rails project.
 
-### Cart Order and Lifecycles (1:00 - 2:30)
+### Cart Order and Lifecycles (1:00 - 3:00)
 
-Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles.
-
+Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C.
 
 ## 1505
 
-TBA
+### Intro to CSVs (9:00 - 10:00)
 
+Meet with Mike in Classroom C to recap [CSVs](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown)
+and to see some of the cool things can do with them.
 
+### EventManager (10:00 - 2:00)
+
+Let's put your CSV knowledge into practice. You have some time to dive into the [EventManager Tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+Some things to keep in mind:
+
+* You won't finish the tutorial, that's ok
+* This work time is about exposure and learning, not mastery and perfect code
+* Go slow enough that you understand / think critically about all your code
+* Don't write tests. This is exposure, not high quality code. You'll do plenty of testing in SalesEngine.
+* Feel free to play and dive deeper if something catches your eye
+
+Mike will hang out in the workspace for your questions.
+
+### EventManager Discussion and Recap (2:00 - 2:30)
+
+Join Mike in Classroom A to discuss your observations and answer any big picture questions that came out of EventManager.
+
+### Getting Started with SalesEngine (2:30 - 3:00)
+
+Then the moment you've been waiting for. Continue with Steve in A to [kickoff SalesEngine](http://tutorials.jumpstartlab.com/projects/sales_engine.html).
+
+* Mitch Ashby & Drew Conly
+* Jason Wright & Adam Caron
+* Samson Brock & Justin Pease
+* Michael Dorrance & Jerrod Paul Junker
+* David Shim & Lovisa Svallingson
+* David Stinnette & Max Millington
+* Jai Misra & Justin Holzmann
+* Mike Reeves & Alex Tideman
+* Marla Brizel & Sebastian Abondano
