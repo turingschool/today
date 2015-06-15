@@ -69,9 +69,14 @@ Meet with Steve in Classroom A.
 
 Join Horace in Classroom A to walk through [setting up a VPS for hosting web applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown).
 
-### ActiveRecord Challenges (1:00 - 3:00)
+### Work Time and Checkins (1:00 - 2:30)
 
-Big Workspace.
+Meet with Horace in Classroom A
+
+Group 1: 1:00 - 1:20
+Group 2: 1:20 - 1:40
+Group 3: 1:40 - 2:00
+Group 4: 2:00 - 2:20
 
 ## 1502
 
