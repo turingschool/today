@@ -23,18 +23,16 @@ These are your pairs:
 * Jerrod Paul Junker & Rick Bacci
 * Patrick Medaugh & Sebastian Abondano
 * Jai Misra & Max Tedford
-* Austin Wood & DJ Greenfield
 * Erik Butcher & Brett Grigsby
 * Mike Reeves & Minnie Lee
 * Kyle Henson & Michael Merrill
 * Mihir Parikh & David Daniel
 * Kenny Chen & Chelsea Worrel
-* Rachel Parri & Miriam Moser 
+* Rachel Parri & Miriam Moser
 * Justin Pease & Kit Pearson
-* Drew Reynolds & Andrew Fink
 * Margarett Ly & Drew Conly
 * Justin Holmes & Justin Holzmann
-* Kristina Brown & Jack Yeh
+* Kristina Brown & DJ Greenfield
 * Samson Brock & Jason Wright
 * David Shim & Lovisa Svallingson
 * Marla Brizel & Alex Tideman
@@ -43,18 +41,27 @@ These are your pairs:
 * Michael Dorrance & Sally MacNicholas
 * Josh Cass & Whitney Hiemstra
 * Dmitry Vizersky & Dave Maurer
-* David Stinnette & Eric Dowty
+* Andrew Fink & Eric Dowty
 * Vanessa Gomez & Dustin Gault
 * Rob Cornell & Paul Grever
-* Andrew Carmer & Tyler Graham
+* Trey Tomlinson & Tyler Graham
 * Thomas Leskin & Lori Culberson
-* Lev Kravinsky & Trey Tomlinson
 * Markus Olsen & Fred Block
 * Charles Valentino Espinoza & Tracy Caruso
 * Jeffrey Gu & Mitch Ashby
 * Edward McCarthy & Michelle Golle
-* WILD CARD: Rebekah Sosa
 
+### SpeakerCorps
+
+Meet with Steve in Classroom A.
+
+* Austin Wood
+* David Stinnette
+* Lev Kravinsky
+* Jack Yeh
+* Drew Reynolds
+* Rebekah Sosa
+* Andrew Carmer
 
 ## 1412
 
@@ -68,7 +75,7 @@ In Classroom A, do some ActiveRecord Challenges with Horace.
 
 When you are done, sing his praises in a chorus.
 
-It's really hard to rhyme with Horace. 
+It's really hard to rhyme with Horace.
 
 
 ## 1502
