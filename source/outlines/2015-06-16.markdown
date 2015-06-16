@@ -20,7 +20,7 @@ Post your answers in #warmup-answers
 
 ### Code Challenge (9:00 - 12:00)
 
-Join Horace at 9:00 sharp to kick off your next code challenge. This challenge will be done individually and will last 3 hours.
+Join Horace in the Big Workspace at 9:00 sharp to kick off your next code challenge. This challenge will be done individually and will last 3 hours.
 
 ### Code Challenge Review and Project Work Time (1:00 - 4:00)
 
@@ -87,10 +87,9 @@ Meet with Jorge for your project checkins. Please, let's try to be on time, sinc
 
 ## 1503
 
-### Factory Girl (9:00 - 10:30)
+### Rails View Trips and Tricks (9:00 - 10:30)
 
-Creating test data sucks. Learn how to make it a bit more managable with
-[Factory Girl](https://github.com/thoughtbot/factory_girl_rails)
+Join Rachel in Classroom C to learn some Rails View Tips and Tricks.
 
 ### Dinner Dash Work Time (10:30 - 12:00)
 
@@ -113,4 +112,16 @@ With Rachel:
 
 ## 1505
 
-TBA
+### Working with Ruby Modules (9:00 - 10:30)
+
+Join Horace in Classroom A to learn about how to work with Ruby Modules. He might be a little late from terrorizing 1412, so sit tight.
+
+### Decomposing Sales Engine (10:30 - 12:00)
+
+Stay in Classroom A as Rachel will join you to teach you cool things such as traversing verticals and other Sales Engine tricks.
+
+### Project Work Time (1:00 - 4:00)
+
+Mike will be on hand for questions. Bonus points if you compose a Sales Engine theme song.
+
+
