@@ -52,17 +52,38 @@ When you're not meeting with an instructor, continue working on your projects. R
 
 ## 1502
 
-### Introduction to Angular (9:00 - 10:30)
+### Project Work Time (9:00 - 12:00)
 
-Join Sam in Classroom B as you get to know Angular.
+Work on your individual projects. Remember that for today's checkin, you'll need to:
 
-### Angular Modules (10:30 - 12:00)
-
-Stay with Sam in Classroom B to learn about these things called Angular modules.
+1. Bring your persona and wireframes
+2. Have your app deployed to Heroku
+3. Have your CSS and HTML on production
+4. Have implemented a third party login if applicable
+5. Have explored the API to make sure that your project is feasible
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
-Schedule TBA
+Meet with Jorge for your project checkins. Please, let's try to be on time, since there are many projects to revise.
+
+* 1:00 - Andrew Carmer
+* 1:10 - David Daniel
+* 1:20 - Eric Dowty
+* 1:30 - Kenny Chen
+* 1:40 - Kristina Brown
+* 1:50 - Break
+* 2:00 - Kyle Henson
+* 2:10 - Michelle Golle
+* 2:20 - Mihir Parikh
+* 2:30 - Minnie Lee
+* 2:40 - Patrick Medaugh
+* 2:50 - Break
+* 3:00 - Tess Griffin
+* 3:10 - Thomas Leskin
+* 3:20 - Tracy Caruso
+* 3:30 - Lori Culberson
+* 3:40 - Fred Block
+* 3:50 - Jack Yeh
 
 ## 1503
 
@@ -83,7 +104,7 @@ With Josh M:
 * 1:30 Morgan Miller & Tyler Graham & Michael Merrill
 * 2:00 Whitney Hiemstra & Vanessa Gomez & Drew Reynolds
 
-With Rachel: 
+With Rachel:
 
 * 1:00 Sally MacNicholas & Jamie Kawahara & Erik Butcher
 * 1:30 Brett Grigsby & Chelsea Worrel & Andrew Fink
