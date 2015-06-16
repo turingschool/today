@@ -1,0 +1,98 @@
+---
+title: 20150623
+layout: outline
+---
+
+Today in History: In 1868, Christopher Latham Sholes receives a patent for an invention he calls,
+the "Type-Writer"
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Logic Puzzle Time](http://cl.ly/0c402c1Y1R0c)
+
+Post your answers in #warmup-answers
+
+### Resume Session with Ian Douglas (4:00 - 5:30)
+
+Ian Douglas, who is a fantastic person, will be coming and talking about resumes.
+
+
+## 1412 
+
+### JavaScript in Review (9:00 - 11:30)
+
+Classroom A. Steve.
+
+### Final Assessment (11:30 - Tears)
+
+[Final Assessment](https://www.youtube.com/watch?v=9jK-NcRmVcw)
+
+
+## 1502
+
+### Debugging JavaScript (9:00 - 10:30)
+
+TBA
+
+### Securing an API (10:30 - 12:00)
+
+Hang out in Classroom B with Jorge.
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Check in with Jorge
+
+* 1:00 - Andrew Carmer
+* 1:20 - David Daniel
+* 1:40 - Eric Dowty
+* 2:00 - Kenny Chen
+* 2:20 - Kristina Brown
+* 2:40 - Kyle Henson
+* 3:00 - Michelle Golle
+* 3:20 - Mihir Parikh
+
+Check in with Josh M.
+
+* 1:00 - Minnie Lee
+* 1:20 - Patrick Medaugh
+* 1:40 - Tess Griffin
+* 2:00 - Thomas Leskin
+* 2:20 - Tracy Caruso
+* 2:40 - Jack Yeh
+* 3:00 - Fred Block
+* 3:20 - Lori Culberson
+
+
+
+## 1503
+
+### Intro to jQuery (9:00 - 10:00)
+
+It's pronounced juh-Kwery.  With Rachel in Classroom C. 
+
+### Filtering with jQuery (10:00 - 12:00) 
+
+Stay in Classroom C as Rachel teaches how to filter with jQuery.
+
+### Module 2 Final Assessments (1:00 - 4:00)
+
+With Rachel
+
+* 1:00 - Brett Grigsby
+* 1:45 - Max Tedford
+* 2:30 - Rick Bacci
+* 3:14 - Sally MacNicholas
+
+With Josh
+
+* 1:00 - Vanessa Gomez
+* 1:45 - Andrew Fink
+* 2:30 - Morgan Miller
+* 3:15 - Justin Holmes
+
+
+## 1505
+
+TBA

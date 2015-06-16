@@ -1,0 +1,110 @@
+---
+title: 20150622
+layout: outline
+---
+
+Today in History: In 1944, President Franklin D. Roosevelt signs into law
+the Servicemen's Readjustment Act of 1944, now known as the G.I. Bill.
+
+It's also Tim Russ' birthday.
+
+## All 
+
+### Warm Up
+
+[Word Rotation](https://github.com/turingschool/thinking_in_algorithms/blob/master/challenges/word_rotation.markdown).
+
+Post your answers in #warmup-answers. Attention catching solutions get Posse Points.
+
+### Technical Interview Preop (2:30 - 4:00)
+
+These are your pairs:
+
+* Dave Maurer & Mike Reeves
+* Markus Olsen & Brett Grigsby
+* Drew Reynolds & David Shim
+* Minnie Lee & Jason Wright
+* David Stinnette & Samson Brock
+* Kyra Steenbock & Adam Caron
+* Andrew Fink & Trey Tomlinson
+* Jeffrey Gu & Sally MacNicholas
+* Patrick Medaugh & Whitney Hiemstra
+* Jack Yeh & Tess Griffin
+* Rick Bacci & Rebekah Sosa
+* Morgan Miller & DJ Greenfield
+* Jai Misra & Kit Pearson
+* Drew Conly & Andrew Carmer
+* Mihir Parikh & Tyler Graham
+* Dustin Gault & Vanessa Gomez
+* Dmitry Vizersky & Chelsea Worrel
+* Jerrod Paul Junker & Max Millington
+* Austin Wood & Erik Butcher
+* Marla Brizel & Michelle Golle
+* Lori Culberson & Kenny Chen
+* Sebastian Abondano & Michael Merrill
+* Kyle Henson & David Daniel
+* Paul Grever & Justin Holmes
+* Josh Cass & Justin Holzmann
+* Mitch Ashby & Alex Tideman
+* Tracy Caruso & Rich Shea
+* Lev Kravinsky & Miriam Moser
+* Margarett Ly & Justin Pease
+* Fred Block & Max Tedford
+* Edward McCarthy & Kristina Brown
+* Thomas Leskin & Charles Valentino Espinoza
+* Michael Dorrance & Rachel Parri
+* Rob Cornell & Eric Dowty
+* WILD CARD: Lovisa Svallingson 
+
+## 1412 
+
+### Rails in Review (9:00 - 12:00)
+
+Join Horace in his favorite classroom and recap all you've learned. (Spoiler Alert: You've learned a LOT)
+
+### Project Work Time (1:00 - 2:30)
+
+The end is in sight.
+
+
+## 1502
+
+### Presenters and Decorators (9:00 - 10:30)
+
+Join Jorge in Classroom B to learn about Presenters and Decorators.
+
+### Advanced Active Record Querying (10:30 - 12:00)
+
+Josh M. will be teaching you some Advanced ActiveRecord Quertying in Classroom B.
+
+Because Josh M. is an ActiveRecord God.
+
+### Project Work Time (1:00 - 2:30)
+
+Get to work.
+
+
+## 1503
+
+### JavaScript, Part I (9:00 - 10:30)
+
+You guys are so lucky, you get a guest instructor.
+
+Join Sherif Abushadi in Classroom C to learn about semicolons.
+
+By the way, it's pronounced, "Jer-Ver-Skript."
+
+### Project Work Time Part I, The Phantom Menace (10:30 - 12:00)
+
+Something, something, Jar Jar Binks, pod racing, midichlorians.
+
+### Project Work Time Part II, Attack of the Clones (1:00 - 2:30)
+
+I have no recollection of anything that happened in this movie.
+
+
+## 1505
+
+TBA
+
+  
