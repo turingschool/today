@@ -116,9 +116,13 @@ With Rachel:
 
 Join Horace in Classroom A to learn about how to work with Ruby Modules. He might be a little late from terrorizing 1412, so sit tight.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/modules.markdown)
+
 ### Decomposing Sales Engine (10:30 - 12:00)
 
 Stay in Classroom A as Rachel will join you to teach you cool things such as traversing verticals and other Sales Engine tricks.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/sales_engine_decomposition.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
