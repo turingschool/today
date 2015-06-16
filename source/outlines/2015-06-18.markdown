@@ -22,26 +22,25 @@ lunch. If you have SAB, you're excused.
 
 ## 1412
 
-### Presenters and Decorators (9:00 - 10:30)
+### Deploying Node Applications (9:00 - 10:30)
 
-Join Horace in Classroom A as he talks about Presenters and Decorators.
+Join Horace in Classroom A as he talks about deploying Node applications on your VPS.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/presenters_and_decorators.markdown)
 
 ### Project Work Time (10:30 - 12:00)
 
 Work.
 
-### Checkins and Code Review (1:00 - 4:00)
+### Project Work Time (1:00 - 4:00)
 
-Schedule TBA
+More Work
 
 
 ## 1502
 
-### Project Work Time (9:00 - 12:00)
+### Intro to Angular (9:00 - 12:00)
 
-Work Time.
+Steve will be talking about Angular in Classroom B
 
 ### Project Checkins and Work Time (1:00 - 4:00)
 
@@ -60,7 +59,7 @@ With Josh M.
 
 ## 1503
 
-### Intro to the Asset Pipeline (9:00 - 10:30)
+### Introduction to the Asset Pipeline (9:00 - 10:30)
 
 Josh will teach you about something you will spend many hours cursing. Classroom C.
 
@@ -68,9 +67,9 @@ Josh will teach you about something you will spend many hours cursing. Classroom
 
 Rachel will cover amazing things in Classroom C with you.
 
-### Dinner Dash Checkins and Work Time (1:00 - 4:00)
+### Dinner Dash  Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Work Time
 
 
 ## 1505 

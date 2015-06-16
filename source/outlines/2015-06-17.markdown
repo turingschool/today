@@ -22,6 +22,10 @@ thinking from the implementation.
 
 Post your solutions in #warmup-answers
 
+### Women Who Code Ruby Study Group (6:30 - 8:30)
+
+Ask Miriam for more information.
+
 
 ## 1412
 
@@ -47,7 +51,16 @@ We'll work in the following cross-cohort groups:
 
 ### Checkins and Code Review - (1:00 - 4:00)
 
-Check it in.
+With Steve 
+
+* 1:00 - Trey, Kit, Jeff
+* 1:45 - Miriam, Charles, Paul
+* 2:30 - Dustin, Edward, Rich
+
+With Horace
+
+* 1:00 - Kyra, DJ, Austin
+* 1:45 - Markus
 
 
 ## 1502
@@ -80,17 +93,15 @@ You have things to work on, and you should be working on them.
 
 ## 1503
 
-### Rails View Tips and Tricks (9:00 - 10:30)
-
-Rachel will teach you all of the tips and tricks with Rails Views. Every. Single. One.
-
-In Classroom C.
-
-### Pushing Logic Down The Stack (10:30 - 12:00)
+### Pushing Logic Down The Stack (9:00 - 10:30)
 
 There are things you shouldn't Google. Don't Google them.
 
-Stay in Classroom B with Rachel.
+Classroom C with Rachel.
+
+### Dinner Dash Work Time (10:30 - 12:00)
+
+Remember, don't write bugs in your code.
 
 ### Dinner Dash Work Time (1:00 - 4:00)
 
