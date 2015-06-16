@@ -87,9 +87,9 @@ Meet with Jorge for your project checkins. Please, let's try to be on time, sinc
 
 ## 1503
 
-### Rails View Trips and Tricks (9:00 - 10:30)
+### Rails Views Tips and Tricks (9:00 - 10:30)
 
-Join Rachel in Classroom C to learn some Rails View Tips and Tricks.
+Join Rachel in classroom C to learn how to keep logic out of your views, minimize code duplication with helpers, and continue mastering the Partial Arts.
 
 ### Dinner Dash Work Time (10:30 - 12:00)
 
