@@ -90,6 +90,7 @@ Here are the materials for this lesson:
 
 * [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.markdown)
+* [Video](https://vimeo.com/130788929)
 
 Also, please clone the following:
 
@@ -129,7 +130,7 @@ Josh will get you started with [Dinner Dash](http://tutorials.jumpstartlab.com/p
 
 ### Cart Order and Lifecycles (1:00 - 3:00)
 
-Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C. You'll also [catch some pokemon](https://github.com/rwarbelow/catch-em-all). 
+Join Rachel as you get your first piece to Dinner Dash, Carts, Orders and their Lifecycles in Classroom C. You'll also [catch some pokemon](https://github.com/rwarbelow/catch-em-all).
 
 ## 1505
 
