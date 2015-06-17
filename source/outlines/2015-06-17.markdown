@@ -29,25 +29,9 @@ Ask Miriam for more information.
 
 ## 1412
 
-### Improving Query Performance (9:00 - 12:00)
+### VPS Revisited -- Deploying Node Applications and Using Git as a Deploy Tool (9:00 - 10:30)
 
-Join Horace and 1502 in the Workspace to get more practice applying performance optimization techniques with the [Blogger Performance Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
-
-We'll work in the following cross-cohort groups:
-
-* Edward McCarthy, Minnie Lee
-* Austin Wood, Kristina Brown
-* Kyra Steenbock, Jack Yeh
-* Jeffrey Gu, Eric Dowty
-* Dustin Gault, Andrew Carmer
-* Miriam Moser, Tracy Caruso
-* Kit Pearson, Patrick Medaugh
-* Markus Olsen, Lori Culberson
-* Charles Valentino Espinoza, David Daniel
-* Paul Grever, Tess Griffin
-* DJ Greenfield, Fred Block, Tom Leskin
-* Trey Tomlinson, Mihir Parikh, Kenny Chen
-* Rich Shea, Kyle Henson, Michelle Golle
+Join Horace in Classroom B to finish our discussion from Monday about deploying to a VPS. During this session we'll recap some of the issues we discussed on Monday and look at deploying Node applications. Additionally, we'll talk about using git to deploy your real applications.
 
 ### Checkins and Code Review - (1:00 - 4:00)
 
