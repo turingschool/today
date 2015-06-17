@@ -39,7 +39,7 @@ Work on your projects.
 
 ### Checkins and Code Review - (1:00 - 4:00)
 
-With Steve 
+With Steve
 
 * 1:00 - Trey, Kit, Jeff
 * 1:45 - Miriam, Charles, Paul
@@ -59,7 +59,19 @@ Join Steve in Classroom A to talk about Debugging techniques for working with ja
 
 ### Working with AJAX (10:00 - 12:00)
 
-Stick around in Classroom A to talk about AJAX.
+During this lesson, we will revisit AJAX, (Asynchronous JavaScript and XML) a technique used on client-side development to create asynchronous web apps. We will consume an API from an app that is running on Heroku without a backend and using only JavaScript and HTML.
+
+You will make Steve proud.
+
+Before the class, please clone the following:
+
+```
+  git clone https://github.com/turingschool-examples/birdeck
+```
+
+The video and notes for this class will be posted later today.
+
+Join Jorge in Classroom A.
 
 ## 1503
 
