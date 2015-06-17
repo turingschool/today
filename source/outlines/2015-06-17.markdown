@@ -33,6 +33,10 @@ Ask Miriam for more information.
 
 Join Horace in Classroom B to finish our discussion from Monday about [deploying to a VPS](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown). During this session we'll recap some of the issues we discussed on Monday and look at deploying Node applications. Additionally, we'll talk about using git to deploy your real applications.
 
+### Project Work Time (10:30 - 12:00)
+
+Work on your projects.
+
 ### Checkins and Code Review - (1:00 - 4:00)
 
 With Steve 
@@ -76,4 +80,14 @@ Work time, work time, Dinner Dash work time.
 
 ## 1505
 
-TBA
+### Testing Small Datasets (9:00 - 10:30)
+
+Join Josh Cheek in the Big Workspace to learn how to not have your Sales Engine tests take FOREVERRRRR.
+
+### Loopback: Fibber (10:30 - 12:00)
+
+Hang out with Mike in the Big Workspace as we take a look back at Fibber through the lens of experience.
+
+### Sales Engine Work Time (1:00 - 4:00)
+
+You can do it!

@@ -22,9 +22,9 @@ lunch. If you have SAB, you're excused.
 
 ## 1412
 
-### Deploying Node Applications (9:00 - 10:30)
+### Presenters and Decorators (9:00 - 10:30)
 
-Join Horace in Classroom A as he talks about deploying Node applications on your VPS.
+Join Horace in Classroom A as he talks about Presenters and Decorators, surprisingly enough.
 
 
 ### Project Work Time (10:30 - 12:00)
@@ -74,5 +74,28 @@ Work Time
 
 ## 1505 
 
-Schedule TBA.
+### Refactoring Patterns (9:00 - 12:00)
+
+Josh Cheek has you in the Big Workspace where you'll learn common scenarios and techniques for 
+refactoring.
+
+### Sales Engine Work Time and Checkins (1:00 - 4:00)
+
+Speaking of patterns...
+
+With Mike
+
+* 1:00 - Mitch Ashby & Drew Conly
+* 1:25 - Jason Wright & Adam Caron
+* 1:50 - Samson Brock & Justin Pease
+* 2:15 - Michael Dorrance & Jerrod Paul Junker
+* 2:40 - David Shim & Lovisa Svallingson
+
+With Josh C.
+
+* 1:00 - David Stinnette & Max Millington
+* 1:25 - Jai Misra & Justin Holzmann
+* 1:50 - Mike Reeves & Alex Tideman
+* 2:15 - Marla Brizel & Sebastian Abondano
+ 
   
