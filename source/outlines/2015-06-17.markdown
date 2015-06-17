@@ -69,9 +69,14 @@ Before the class, please clone the following:
   git clone https://github.com/turingschool-examples/birdeck
 ```
 
-The video and notes for this class will be posted later today.
+The materials for this class are:
+
+* [Video](https://vimeo.com/131025914)
+* [Notes](https://www.dropbox.com/s/bikkpsmenjwtlag/Turing%20-%20Working%20with%20AJAX.pages?dl=0)
+* [Repo](https://github.com/turingschool-examples/birdeck)
 
 Join Jorge in Classroom A.
+
 
 ## 1503
 
