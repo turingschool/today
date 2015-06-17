@@ -12,22 +12,23 @@ The New York Base Ball Club defeated the Knickerbockers 23-1.
 
 No survey, no breakfast.
 
-### Lightning Talks (9:00 - 10:15)
+* [1412](https://docs.google.com/a/casimircreative.com/forms/d/1YZCwbHn5D5HWSCxRhBZg9RmH8TtszB8c67P8jmDB05E/viewform)
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1PcHozsIIf843mdTpOWTeGPlueVftm-gL25IatZstqJQ/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/11Eyb41AD4eZ-bZ0pSH8U6JFu1rjApfan43WUz7ihm_w/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/18H7jvC8xR6hoGI0damkIvrx-xwg-UjjJOQyjQDEL4YI/viewform)
 
-* Paul Grever
-* Dustin Gault
-* Jeffrey Gu
-* Tracy Caruso
-* Kyle Henson
-* Mihir Parikh
-* Thomas Leskin
-* Chelsea Worrel
-* Vanessa Gomez
-* Dmitry Vizersky
-* Michael Merrill
-* Lev Kravinsky
+### Lightning Talks (9:00 - 10:00)
 
-### Gear Up (10:15 - 11:00)
+* Jeffrey Gu: It's a Surprise!
+* Tracy Caruso: Let's get Sassy... with Sass
+* Mihir Parikh: HOURS_IN_DAY = 24: Some Thoughts on Productivity
+* Vanessa Gomez: It's a Surprise!
+* Paul Grever: The Gems of 1412
+* Dmitry Vizersky: Cold Stuff
+* Lev Kravinsky: VoltRB
+* Rich Shea: Learning to program for non-programmers. Strategies for the rest of us.
+
+### Gear Up (10:00 - 11:00)
 
 TBA.
 
