@@ -31,7 +31,7 @@ Ask Miriam for more information.
 
 ### VPS Revisited -- Deploying Node Applications and Using Git as a Deploy Tool (9:00 - 10:30)
 
-Join Horace in Classroom B to finish our discussion from Monday about deploying to a VPS. During this session we'll recap some of the issues we discussed on Monday and look at deploying Node applications. Additionally, we'll talk about using git to deploy your real applications.
+Join Horace in Classroom B to finish our discussion from Monday about [deploying to a VPS](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown). During this session we'll recap some of the issues we discussed on Monday and look at deploying Node applications. Additionally, we'll talk about using git to deploy your real applications.
 
 ### Checkins and Code Review - (1:00 - 4:00)
 
