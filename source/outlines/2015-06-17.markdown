@@ -73,11 +73,6 @@ Join Steve in Classroom A to talk about Debugging techniques for working with ja
 
 Stick around in Classroom A to talk about AJAX.
 
-### Project Work Time (9:00 - 12:00)
-
-You have things to work on, and you should be working on them. 
-
-
 ## 1503
 
 ### Pushing Logic Down The Stack (9:00 - 10:30)
