@@ -19,6 +19,8 @@ No survey, no breakfast.
 
 ### Lightning Talks (9:00 - 10:00)
 
+Today's lightning talks are moderated by the one and only DJ. 
+
 * Jeffrey Gu: It's a Surprise!
 * Tracy Caruso: Let's get Sassy... with Sass
 * Mihir Parikh: HOURS_IN_DAY = 24: Some Thoughts on Productivity
