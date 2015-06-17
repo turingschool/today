@@ -65,26 +65,13 @@ With Horace
 
 ## 1502
 
-### Blogger Performance Workshop (9:00 - 12:00)
+### Debugging Javascript (9:00 - 10:00)
 
-Join Horace and 1412 in the Workspace to get more practice applying performance optimization techniques with the [Blogger Performance Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
+Join Steve in Classroom A to talk about Debugging techniques for working with javascript.
 
-We'll work in the following cross-cohort groups:
+### Working with AJAX (10:00 - 12:00)
 
-* Edward McCarthy, Minnie Lee
-* Austin Wood, Kristina Brown
-* Kyra Steenbock, Jack Yeh
-* Jeffrey Gu, Eric Dowty
-* Dustin Gault, Andrew Carmer
-* Miriam Moser, Tracy Caruso
-* Kit Pearson, Patrick Medaugh
-* Markus Olsen, Lori Culberson
-* Charles Valentino Espinoza, David Daniel
-* Paul Grever, Tess Griffin
-* DJ Greenfield, Fred Block, Tom Leskin
-* Trey Tomlinson, Mihir Parikh, Kenny Chen
-* Rich Shea, Kyle Henson, Michelle Golle
-
+Stick around in Classroom A to talk about AJAX.
 
 ### Project Work Time (9:00 - 12:00)
 
