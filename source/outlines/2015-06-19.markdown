@@ -24,8 +24,7 @@ Today's lightning talks are moderated by the one and only DJ.
 * Jeffrey Gu: Getting in touch with your emotions while pair programming
 * Tracy Caruso: Let's get Sassy... with Sass
 * Mihir Parikh: HOURS_IN_DAY = 24: Some Thoughts on Productivity
-* Vanessa Gomez: It's a Surprise!
-* Chelsea Worrell: Developer Mindset
+* Michael Merrill: ??
 * Paul Grever: The Gems of 1412
 * Dmitry Vizersky: Cold Stuff
 * Lev Kravinsky: VoltRB
