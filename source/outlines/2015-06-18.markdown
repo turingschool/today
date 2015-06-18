@@ -37,7 +37,20 @@ More Work
 
 ### Intro to Angular (9:00 - 12:00)
 
-Steve will be talking about Angular in Classroom B
+Steve will be talking about Angular in Classroom B.
+
+You'll be working in the following pairs:
+
+* Minnie Lee & Kristina Brown
+* Tracy Caruso & Tess Griffin
+* Mihir Parikh & Lori Culberson
+* Eric Dowty & Patrick Medaugh
+* Kyle Henson & Thomas Leskin
+* Michelle Golle & Andrew Carmer
+* Jack Yeh & Kenny Chen
+* David Daniel & Fred Block
+
+We'll be working through [this repository](https://github.com/turingschool-examples/angularity).
 
 ### Project Checkins and Work Time (1:00 - 4:00)
 
