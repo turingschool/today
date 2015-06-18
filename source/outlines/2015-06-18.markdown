@@ -104,9 +104,6 @@ With Josh M:
 - 2:30 Josh Cass & Justin Holmes & Rob Cornell
 - 3:00 Max Tedford & Margarett Ly & Dave Maurer
 
-Work Time
-
-
 ## 1505
 
 ### Refactoring Patterns (9:00 - 12:00)
