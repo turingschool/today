@@ -36,8 +36,8 @@ Today's lightning talks are moderated by the one and only DJ.
 
 * 1505 - Big Workspace with Mike
 * 1503 - Classroom B with Josh Mejia
-* 1502 - Classroom C with Josh Cheek and Daisha
-* 1412 - Classroom A with Horace and Marissa
+* 1502 - Classroom C with Josh Cheek and Jorge
+* 1412 - Classroom A with Horace and Daisha
 
 ### Guest Speaker - Chris McAvoy (11:00 - 12:00)
 
@@ -45,7 +45,7 @@ Chris McAvoy is a VP of Engineering at [QuickLeft](http://www.quickleft.com)
 
 [Twitter](https://twitter.com/chmcavoy)
 
-### One on Ones and Student Lead Sessions (2:00 - 4:00)
+### One on Ones and Student Lead Sessions (1:00 - 3:00)
 
 #### Hardware Hacking - Classroom A
 
@@ -121,5 +121,7 @@ making HTTP requests so it may not be suited for module 1 students.
 
 #### Something Excellent with Josh Cheek -- TBD
 
-#### Something Excellent with Mike Dao -- TBD
+#### SmallTalk with Mike Dao -- Classroom A
+
+Learn about the programming language that Ruby draws a lot of it's inspiration from. Get better at Object Oriented Programming.	
 
