@@ -5,9 +5,9 @@ layout: outline
 
 ## ALL HAIL EMPEROR HORACE
 
-Today in History: 1846: The first recorded game of baseball was played in Hoboken, NJ. 
+Today in History: 1846: The first recorded game of baseball was played in Hoboken, NJ.
 The New York Base Ball Club defeated the Knickerbockers 23-1.
- 
+
 ## All
 
 ### Surveys and Breakfast (8:30 - 9:00)
@@ -21,7 +21,7 @@ No survey, no breakfast.
 
 ### Lightning Talks (9:00 - 10:00)
 
-Today's lightning talks are moderated by the one and only DJ. 
+Today's lightning talks are moderated by the one and only DJ.
 
 * Jeffrey Gu: Getting in touch with your emotions while pair programming
 * Tracy Caruso: Let's get Sassy... with Sass
@@ -119,9 +119,15 @@ You will want to use JRuby for this exercise, so if you have not already, make
 sure you have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [JRuby](https://rvm.io/interpreters/jruby) installed. This session will require some knowledge of
 making HTTP requests so it may not be suited for module 1 students.
 
-#### Something Excellent with Josh Cheek -- TBD
+#### Something Excellent with Josh Cheek
+
+Idk, just show up and we'll explore whatever :P Maybe the Object Model.
+Maybe we'll make up some games and play them!
+Maybe explore how to start a project.
+Maybe pry. Maybe refactoring. Maybe command our browsers by writing HTTP responses by hand!
+Anything is possible, really :)
 
 #### SmallTalk with Mike Dao -- Classroom A
 
-Learn about the programming language that Ruby draws a lot of it's inspiration from. Get better at Object Oriented Programming.	
+Learn about the programming language that Ruby draws a lot of it's inspiration from. Get better at Object Oriented Programming.
 
