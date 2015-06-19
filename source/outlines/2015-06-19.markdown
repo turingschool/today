@@ -32,9 +32,12 @@ Today's lightning talks are moderated by the one and only DJ.
 * Lev Kravinsky: VoltRB
 * Rich Shea: Learning to program for non-programmers. Strategies for the rest of us.
 
-### Gear Up (10:00 - 11:00)
+### Group Retro (10:00 - 11:00)
 
-TBA.
+* 1505 - Big Workspace with Mike
+* 1503 - Classroom B with Josh Mejia
+* 1502 - Classroom C with Josh Cheek and Daisha
+* 1412 - Classroom A with Horace and Marissa
 
 ### Guest Speaker - Chris McAvoy (11:00 - 12:00)
 
@@ -99,9 +102,24 @@ Meet Morgan and Drew in Classroom A.
 * 2:15 - Rich Shea
 * 2:30 - Tess Griffin
 
-### Group Retro (3:00 - 4:00)
+### Electives (3:00 - 4:00)
 
-* 1505 - Big Workspace with Mike
-* 1503 - Classroom B with Josh Mejia
-* 1502 - Classroom C with Josh Cheek and Daisha
-* 1412 - Classroom A with Horace and Marissa
+#### GitCoins and Ruby Concurrency for Fun and Profit
+
+Join Horace in Classroom B to talk about the Dungeon's favorite crypto-currency,
+the __GitCoin__ ([site](http://git-coin.turingapps.io/gitcoins) / [repo](https://github.com/worace/git-coin)).
+We'll learn:
+
+* What is a GitCoin?
+* How can I acquire GitCoins?
+* How can I use multiple threads to acquire lots of GitCoins?
+* How can I exchange my GitCoins for Posse Cup Points?
+
+You will want to use JRuby for this exercise, so if you have not already, make
+sure you have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [JRuby](https://rvm.io/interpreters/jruby) installed. This session will require some knowledge of
+making HTTP requests so it may not be suited for module 1 students.
+
+#### Something Excellent with Josh Cheek -- TBD
+
+#### Something Excellent with Mike Dao -- TBD
+
