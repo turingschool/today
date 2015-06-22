@@ -8,7 +8,7 @@ the Servicemen's Readjustment Act of 1944, now known as the G.I. Bill.
 
 It's also Tim Russ' birthday.
 
-## All 
+## All
 
 ### Warm Up
 
@@ -54,9 +54,9 @@ These are your pairs:
 * Thomas Leskin & Charles Valentino Espinoza
 * Michael Dorrance & Rachel Parri
 * Rob Cornell & Eric Dowty
-* WILD CARD: Lovisa Svallingson 
+* WILD CARD: Lovisa Svallingson
 
-## 1412 
+## 1412
 
 ### Rails in Review (9:00 - 12:00)
 
@@ -69,9 +69,18 @@ The end is in sight.
 
 ## 1502
 
-### Presenters and Decorators (9:00 - 10:30)
+### Revisiting Background Workers (9:00 - 10:30)
 
-Join Jorge in Classroom B to learn about Presenters and Decorators.
+Join Jorge in Classroom B to revisit background workers.
+
+Before this session, please clone the following repo:
+
+```
+git clone -b bootstrap https://github.com/JumpstartLab/blogger_advanced.git workers
+
+```
+
+You can dowload the slides for this session [here](https://www.dropbox.com/s/y5rpnls41ufcll0/Turing%20-%20Introduction%20to%20Workers.key?dl=0).
 
 ### Advanced Active Record Querying (10:30 - 12:00)
 
@@ -132,11 +141,11 @@ Work on Sales Engine if you're not being assessed.
 * 10:00 - Drew Conly
 * 10:30 - BREAK
 * 11:00 - Mitch Ashby
-* 11:30 - Jason Wright 
+* 11:30 - Jason Wright
 
 #### With Josh C.
 
-* 9:00 - Samson Brock 
+* 9:00 - Samson Brock
 * 9:30 - Marla Brizel
 * 10:00 - Justin Pease
 * 10:30 - BREAK
