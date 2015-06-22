@@ -66,7 +66,6 @@ Join Horace in his favorite classroom and recap all you've learned. (Spoiler Ale
 
 The end is in sight.
 
-
 ## 1502
 
 ### Revisiting Background Workers (9:00 - 10:30)
@@ -77,7 +76,6 @@ Before this session, please clone the following repo:
 
 ```
 git clone -b bootstrap https://github.com/JumpstartLab/blogger_advanced.git workers
-
 ```
 
 You can dowload the slides for this session [here](https://www.dropbox.com/s/y5rpnls41ufcll0/Turing%20-%20Introduction%20to%20Workers.key?dl=0).
