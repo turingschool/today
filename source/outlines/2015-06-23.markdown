@@ -95,4 +95,35 @@ With Josh M.
 
 ## 1505
 
-TBA
+### Binary, Octal, and Hex (9:00 - 11:00)
+
+Join Jeff in the Big Workspace to learn about other number systems. 
+
+There may be arts and crafts.
+
+### Encapsulating SE Business Logic (11:00 - 12:00)
+
+Join Jeff in Classroom A to encapsulate your Business Logic.
+
+### Sales Engine Work Time and Checkins / Pairing (1:00 - 4:00)
+
+With Mike
+
+* 1:00 - Mitch Ashby & Drew Conly
+* 2:00 - Jason Wright & Adam Caron
+* 3:00 - Marla Brizel & Sebastian Abondano
+
+With Horace
+
+* 1:00 - Samson Brock
+* 2:00 - Michael Dorrance & Jerrod Paul Junker
+
+With Jeff
+
+* 1:00 - David Shim & Lovisa Svallingson
+* 2:00 - David Stinette & Max Millington
+
+With Josh Cheek
+
+* 1:00 - Jai Misra & Justin Holzmann
+* 2:00 - Mike Reeves & Alex Tideman
