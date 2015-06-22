@@ -16,7 +16,7 @@ It's also Tim Russ' birthday.
 
 Post your answers in #warmup-answers. Attention catching solutions get Posse Points.
 
-### Technical Interview Preop (2:30 - 4:00)
+### Technical Interview Preop (3:00 - 4:00)
 
 These are your pairs:
 
@@ -62,7 +62,7 @@ These are your pairs:
 
 Join Horace in his favorite classroom and recap all you've learned. (Spoiler Alert: You've learned a LOT)
 
-### Project Work Time (1:00 - 2:30)
+### Project Work Time (1:00 - 3:00)
 
 The end is in sight.
 
@@ -95,7 +95,7 @@ Setup:
 * Climb on board the refactor tractor and improve the methods without breaking tests
 * Special instructions are in comments
 
-### Project Work Time (1:00 - 2:30)
+### Project Work Time (1:00 - 3:00)
 
 Get to work.
 
@@ -114,7 +114,7 @@ By the way, it's pronounced, "Jer-Ver-Skript."
 
 Something, something, Jar Jar Binks, pod racing, midichlorians.
 
-### Project Work Time Part II, Attack of the Clones (1:00 - 2:30)
+### Project Work Time Part II, Attack of the Clones (1:00 - 3:00)
 
 I have no recollection of anything that happened in this movie.
 
