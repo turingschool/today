@@ -87,6 +87,7 @@ Josh M. will be teaching you some Advanced ActiveRecord Quertying in Classroom B
 Because Josh M. is an ActiveRecord God.
 
 Setup:
+
 * Clone/pull most recent version of [Storedom](https://github.com/turingschool-examples/storedom)
 * Checkout the `active_record_golf` branch (it's remote)
 * Open/run `/test/models/active_record_golf_challenges_test.rb`
