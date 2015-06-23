@@ -76,7 +76,7 @@ Check in with Josh M.
 
 ### Intro to jQuery (9:00 - 10:00)
 
-It's pronounced juh-Kwery.  With Rachel in Classroom C.
+It's pronounced juh-Kwery.  With Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown). 
 
 ### Filtering with jQuery (10:00 - 12:00)
 
