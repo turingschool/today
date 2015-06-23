@@ -19,7 +19,7 @@ Post your answers in #warmup-answers
 Ian Douglas, who is a fantastic person, will be coming and talking about resumes.
 
 
-## 1412 
+## 1412
 
 ### JavaScript in Review (9:00 - 11:30)
 
@@ -29,20 +29,19 @@ Classroom A. Steve.
 
 [Final Assessment](https://www.youtube.com/watch?v=9jK-NcRmVcw)
 
-
 ## 1502
 
-### Testing JavaScript in Rails (9:00 - 10:00)
+### Testing an API (9:00 - 10:30)
 
-Classroom B
+Join Jorge in Classroom B to revisit testing an API.
 
-### Testing an API (10:00 - 11:00)
+For this session we will be creating an app that reads the [Sunlight Foundation](http://sunlightfoundation.com) API.
 
-Classroom B
+Before the class, please get an API key [here](http://sunlightfoundation.com/api/accounts/register/).
 
-### Securing an API (11:00 - 12:00)
+### Testing JavaScript in Rails (10:30 - 12:00)
 
-Hang out in Classroom B with Jorge.
+Join Steve in Classroom B to learn how to test jQuery and Ajax. Bring your semicolons.
 
 ### Project Checkins and Work Time (1:00 - 4:00)
 
@@ -53,9 +52,9 @@ Check in with Jorge
 * 1:40 - Eric Dowty
 * 2:00 - Kenny Chen
 * 2:20 - Kristina Brown
-* 2:40 - Kyle Henson
-* 3:00 - Michelle Golle
-* 3:20 - Mihir Parikh
+* 2:40 - Michelle Golle
+* 3:00 - Mihir Parikh
+* 3:20 - Jack Yeh
 
 Check in with Josh M.
 
@@ -64,7 +63,7 @@ Check in with Josh M.
 * 1:40 - Tess Griffin
 * 2:00 - Thomas Leskin
 * 2:20 - Tracy Caruso
-* 2:40 - Jack Yeh
+* 2:40 - Kyle Henson
 * 3:00 - Fred Block
 * 3:20 - Lori Culberson
 
@@ -74,9 +73,9 @@ Check in with Josh M.
 
 ### Intro to jQuery (9:00 - 10:00)
 
-It's pronounced juh-Kwery.  With Rachel in Classroom C. 
+It's pronounced juh-Kwery.  With Rachel in Classroom C.
 
-### Filtering with jQuery (10:00 - 12:00) 
+### Filtering with jQuery (10:00 - 12:00)
 
 Stay in Classroom C as Rachel teaches how to filter with jQuery.
 
@@ -101,7 +100,7 @@ With Josh M.
 
 ### Binary, Octal, and Hex (9:00 - 11:00)
 
-Join Jeff in the Big Workspace to learn about other number systems. 
+Join Jeff in the Big Workspace to learn about other number systems.
 
 There may be arts and crafts.
 
