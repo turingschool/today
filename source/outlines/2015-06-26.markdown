@@ -1,0 +1,31 @@
+---
+title: 20150623
+layout: outline
+---
+
+## All (Except for 1412.)
+
+### Breakfast and Surveys (8:30 - 9:00)
+
+Fill out those Surveys and have breakfast! Remember, 
+please do your best to fill out these surveys, we take your feedback
+very seriously. Also take this opportunity to give your peers meaningful feedback.
+
+### Group Retro (9:00 - 10:00)
+
+* 1505 - Big Workspace 
+* 1503 - Classroom B with 
+* 1502 - Classroom C with 
+* 1412 - Classroom A with 
+
+### Gear Up (10:00 - 11:00)
+
+TBA. Big Workspace.
+
+### Electives (11:00 - 12:00) 
+
+TBA.
+
+### Swift for iOS Programming (1:00 - 4:00)
+
+Yong Bakos returns to teach us all a little something about Swift.
