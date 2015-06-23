@@ -106,6 +106,30 @@ Join Jeff in the Big Workspace to learn about [other number systems](https://git
 
 Make sure you have your pen and notebook.
 
+#### Block 1
+
+* Binary: Marla Brizel, Sebastian Abondano, Justin Pease, David Stinnette
+* Binary: Rebekah Sosa, David Shim, Max Millington, Rachel Parri
+* Octal: Alex Tideman, Lovisa Svallingson, Jai Misra, Justin Holzmann
+* Octal: Adam Caron, Drew Conly, Mitch Ashby, Samson Brock
+* Hex: Michael Dorrance, Mike Reeves, Jerrod Paul Junker, Jason Wright
+
+#### Block 2
+
+* Octal: Marla Brizel, Sebastian Abondano, Justin Pease, David Stinnette
+* Hex: Rebekah Sosa, David Shim, Max Millington, Rachel Parri
+* Binary: Alex Tideman, Lovisa Svallingson, Jai Misra, Justin Holzmann
+* Hex: Adam Caron, Drew Conly, Mitch Ashby, Samson Brock
+* Binary: Michael Dorrance, Mike Reeves, Jerrod Paul Junker, Jason Wright
+
+#### Block 3
+
+* Hex: Marla Brizel, Sebastian Abondano, Justin Pease, David Stinnette
+* Octal: Rebekah Sosa, David Shim, Max Millington, Rachel Parri
+* Hex: Alex Tideman, Lovisa Svallingson, Jai Misra, Justin Holzmann
+* Binary: Adam Caron, Drew Conly, Mitch Ashby, Samson Brock
+* Octal: Michael Dorrance, Mike Reeves, Jerrod Paul Junker, Jason Wright
+
 ### Pair Programming is Stupid (11:00 - 12:00)
 
 Continue in the Big Workspace for a special exercise with Sherif on pairing.
