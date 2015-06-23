@@ -32,11 +32,15 @@ Classroom A. Steve.
 
 ## 1502
 
-### Debugging JavaScript (9:00 - 10:30)
+### Testing JavaScript in Rails (9:00 - 10:00)
 
-TBA
+Classroom B
 
-### Securing an API (10:30 - 12:00)
+### Testing an API (10:00 - 11:00)
+
+Classroom B
+
+### Securing an API (11:00 - 12:00)
 
 Hang out in Classroom B with Jorge.
 
