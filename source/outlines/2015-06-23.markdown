@@ -69,7 +69,6 @@ Check in with Josh M.
 * 3:20 - Lori Culberson
 
 
-
 ## 1503
 
 ### Intro to jQuery (9:00 - 10:00)
@@ -87,14 +86,19 @@ With Rachel
 * 1:00 - Brett Grigsby
 * 1:45 - Max Tedford
 * 2:30 - Rick Bacci
-* 3:14 - Sally MacNicholas
+* 3:15 - Sally MacNicholas
 
 With Josh M.
 
-* 1:00 - Vanessa Gomez
-* 1:45 - Andrew Fink
-* 2:30 - Morgan Miller
-* 3:15 - Justin Holmes
+* 11:00 - Justin Holmes
+
+With Horace
+
+* 3:00 - Andrew Fink
+
+With Josh Cheek
+
+* 3:00 - Morgan Miller
 
 
 ## 1505
