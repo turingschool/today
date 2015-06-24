@@ -3,7 +3,9 @@ title: 20150623
 layout: outline
 ---
 
-## All (Except for 1412.)
+## All 
+
+(Except for 1412.)
 
 ### Breakfast and Surveys (8:30 - 9:00)
 
