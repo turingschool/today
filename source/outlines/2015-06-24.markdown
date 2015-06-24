@@ -117,14 +117,15 @@ With Josh M.
 
 ## 1505
 
-### Big O Notation (9:00 - 10:30)
+### How Computers Work (9:00 - 10:00)
 
-Join Jeff in Classroom A.
+Join Jeff in Classroom A. We'll use [this outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown)
+to guide our discussion.
 
-### Procesor Objects in Sales Engine (10:30 - 12:00)
+### Algorithmic Complexity (10:00 - 12:00)
 
-Stay in Classroom A with Jeff.
+Stay in Classroom A with Jeff to discuss [algorithmic complexity](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/algorthmic_complexity.markdown).
 
 ### Sales Engine Work Time (1:00 - 4:00)
 
-Mike will be on hand for questions.
+Mike will be on hand for questions. Good luck finishing things up!
