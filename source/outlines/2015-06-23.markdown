@@ -42,6 +42,12 @@ For this session we will be creating an app that reads the [Sunlight Foundation]
 
 Before the class, please get an API key [here](http://sunlightfoundation.com/api/accounts/register/).
 
+The materials for this class are:
+
+* [Notes](https://www.dropbox.com/s/yjtu6kvp5atz6rr/Turing%20-%20Revisiting%20Testing%20an%20External%20API.pages?dl=0)
+* [Video](https://vimeo.com/131573611)
+* [Final Repo](https://github.com/turingschool-examples/sunny)
+
 ### Testing JavaScript in Rails (10:30 - 12:00)
 
 Join Steve in Classroom B to learn how to test jQuery and Ajax. Bring your semicolons.
@@ -75,7 +81,7 @@ Check in with Josh M.
 
 ### Intro to jQuery (9:00 - 10:00)
 
-It's pronounced juh-Kwery.  With Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown). 
+It's pronounced juh-Kwery.  With Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Filtering with jQuery (10:00 - 12:00)
 
