@@ -24,10 +24,20 @@ very seriously. Also take this opportunity to give your peers meaningful feedbac
 
 TBA. Big Workspace.
 
-### Electives (11:00 - 12:00) 
+### Lightning Talks (11:00 - 12:00) 
 
-TBA.
+* Jack Yeh A look inside the Ruby blackbox: What exactly is happening when Ruby executes your code? 
+* David Daniel - Why the editor war is so silly
+* Dave Maurer - def job = get a job 
+* Tyler Graham - "Let's Start a Hedge Fund" 
+* Morgan Miller The Novice Ruby Developer's Toolbelt
+* Drew Reynolds - Let's Talk About Tech, Baby
+* Andrew Fink - Antifragility 
+* Justin Holmes - The Navy's Marine Mammal Program
+* Kyle Henson - My Bag of Chips is Talking to Me
 
 ### Swift for iOS Programming (1:00 - 4:00)
 
 Yong Bakos returns to teach us all a little something about Swift.
+
+Sadly, not Taylor Swift.
