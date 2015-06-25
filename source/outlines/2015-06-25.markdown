@@ -19,7 +19,7 @@ You know the deal.
 [RSVP if you want pizza.](http://www.meetup.com/Turing-Community-Events/events/223282941/)
 
 
-## 1412 
+## 1412
 
 ### Flack Evaluations (9:00 - 12:00)
 
@@ -29,7 +29,7 @@ Find Horace.
 * 9:30 - Miriam, Charles, Paul
 * 10:00 - Dustin, Edward, Rich
 * 10:30 - BREAK
-* 11:00 - Kyra, DJ, Austin 
+* 11:00 - Kyra, DJ, Austin
 * 11:30 - Markus
 
 ### Cross Cohort Pairing (1:00 - 4:00)
@@ -49,9 +49,9 @@ With Jorge
 * 10:00 - Kenny Chen
 * 10:20 - BREAK
 * 10:40 - Kristina Brown
-* 11:00 - Kyle Henson
-* 11:20 - Michelle Golle
-* 11:40 - Mihir Parikh
+* 11:00 - Michelle Golle
+* 11:20 - Mihir Parikh
+* 11:40 - Jack Yeh
 
 Check in with Josh M.
 
@@ -61,9 +61,9 @@ Check in with Josh M.
 * 10:00 - Thomas Leskin
 * 10:20 - BREAK
 * 10:40 - Tracy Caruso
-* 11:00 - Jack Yeh
-* 11:20 - Fred Block
-* 11:40 - Lori Culberson
+* 11:00 - Fred Block
+* 11:20 - Lori Culberson
+* 11:40 - Kyle Henson
 
 ### Resume Workshop (1:00 - 2:30)
 
@@ -100,12 +100,14 @@ With Rachel
 * 2:30 - Max Tedford, Margarett Ly, Dave Maurer
 * 3:15 - Brett Grigsby, Chelsea Worrel, Andrew Fink  
 
-Horace
+With Horace
+
+* 2:00 - Josh Cass, Justin Holmes, Rob Cornell
+* 2:45 - Dmitry Vizersky, Lev Kravinsky, Rick Bacci
+
+With Josh M.
 
 * 1:00 - Sally MacNicholas, Jamie Kawahara, Erik Butcher
-* 1:45 - Josh Cass, Justin Holmes, Rob Cornell
-* 2:30 - Dmitry Vizersky, Lev Kravinsky, Rick Bacci
-
 
 ## 1505
 
@@ -117,7 +119,7 @@ With Jeff
 * 9:30 - Mike Reeves & Alex Tideman
 * 10:00 - Samson Brock
 * 10:30 - BREAK
-* 11:00 - Michael Dorrance & Jerrod Paul Junker 
+* 11:00 - Michael Dorrance & Jerrod Paul Junker
 
 
 With Mike
@@ -127,7 +129,7 @@ With Mike
 * 10:00 - Marla Brizel & Sebastian Abondano
 * 10:30 - BREAK
 * 11:00 - Jai Misra & Justin Holzmann
-* 11:30 - David Stinette, Max Millington 
+* 11:30 - David Stinette, Max Millington
 
 ### Programming is FUN (1:00 - 4:00)
 
