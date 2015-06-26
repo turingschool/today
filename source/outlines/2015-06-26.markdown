@@ -5,7 +5,7 @@ layout: outline
 
 ## All
 
-(Except for 1412.)
+resources :cohorts, except: :1412
 
 ### Breakfast and Surveys (8:30 - 9:00)
 
