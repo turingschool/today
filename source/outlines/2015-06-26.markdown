@@ -3,13 +3,13 @@ title: 20150626
 layout: outline
 ---
 
-## All 
+## All
 
 (Except for 1412.)
 
 ### Breakfast and Surveys (8:30 - 9:00)
 
-Today is the last day of the module, so you'll be giving feedback to each of your peers in your cohort. Please take time to do this thoughtfully. The feedback will be compiled and sent out individually over intermission week. If you'd like for your feedback to *not* be anonymous, please include your name in each text box. 
+Today is the last day of the module, so you'll be giving feedback to each of your peers in your cohort. Please take time to do this thoughtfully. The feedback will be compiled and sent out individually over intermission week. If you'd like for your feedback to *not* be anonymous, please include your name in each text box.
 
 * [1412](https://docs.google.com/a/casimircreative.com/forms/d/1B-kZBDsmXH8gIQLLxMo6HLTGxMesNbNW2w8oCOXT3Pw/viewform) This is your LAST survey!
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1AqKN8HsG7xHRE1E3vqrZ900x45IqukR2nvnxV2NBlCM/viewform)
@@ -23,22 +23,21 @@ TBA. Big Workspace.
 
 ### Group Retro (10:00 - 11:00)
 
-* 1505 - Big Workspace Mike
-* 1503 - Classroom B with 
-* 1502 - Classroom C with 
-* 1412 - Classroom A with 
+* 1505 - Big Workspace with Mike and Josh C.
+* 1503 - Classroom B with Josh M. and Rachel
+* 1502 - Classroom A with Jorge
+* 1412 - Classroom Fraser with Jeff and Horace
 
 
+### Lightning Talks (11:00 - 12:00)
 
-### Lightning Talks (11:00 - 12:00) 
-
-* Jack Yeh A look inside the Ruby blackbox: What exactly is happening when Ruby executes your code? 
+* Jack Yeh A look inside the Ruby blackbox: What exactly is happening when Ruby executes your code?
 * David Daniel - Why the editor war is so silly
-* Dave Maurer - def job = get a job 
-* Tyler Graham - "Let's Start a Hedge Fund" 
+* Dave Maurer - def job = get a job
+* Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller The Novice Ruby Developer's Toolbelt
 * Drew Reynolds - Let's Talk About Tech, Baby
-* Andrew Fink - Antifragility 
+* Andrew Fink - Antifragility
 * Justin Holmes - The Navy's Marine Mammal Program
 * Kyle Henson - My Bag of Chips is Talking to Me
 
@@ -47,3 +46,5 @@ TBA. Big Workspace.
 Yong Bakos returns to teach us all a little something about Swift.
 
 Sadly, not Taylor Swift.
+
+For this lesson, please have XCode 6.x installed.
