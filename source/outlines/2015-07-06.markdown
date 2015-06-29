@@ -3,6 +3,9 @@ title: 20150706
 layout: outline
 ---
 
+Today, in 1957, John Lennon and Paul McCartney meet for the first time.
+
+
 ## All
 
 Welcome 1507! We're glad you're here.
@@ -24,13 +27,26 @@ Stuff.
 
 TBA
 
+
 ## 1503
 
 TBA
 
+
 ## 1505
 
+### Intro to Sinatra (9:00 - 9:30)
+
 TBA
+
+### Task Manager Review / Q&A (9:30 - 10:30)
+
+TBA
+
+### HTML/CSS Review and Workshop (1:00 - 2:30)
+
+TBA  
+
 
 ## 1507 (8:30 - 9:00)
 

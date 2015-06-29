@@ -2,3 +2,35 @@
 title: 20150710
 layout: outline
 ---
+
+Today, in 1938, Howard Hughes flies around the world in 91 hours, setting a new record.
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+Survey time.
+
+### Lightning Talks (9:00 - 10:15)
+
+* Vanessa Gomez - "Production life from conception to completion"
+* Jack Yeh
+* Eric Dowty
+* Thomas Leskin - "ReactJS - A JS library for building user interfaces"
+* Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
+* Dave Maurer
+* Rick Bacci
+* Brett Grigsby
+* Sebastian Abondano
+* Samson Brock
+
+### Gear Up (10:15 - 11:00)
+
+### Group Retro
+
+### Inter Cohort One on Ones
+
+### One On Ones and Student Lead Sessions
+
+### Electives
+

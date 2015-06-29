@@ -2,3 +2,50 @@
 title: 20150708
 layout: outline
 ---
+
+Today, in 2011, the Space Shuttle Atlantis, is launched in the final mission of the U.S. Space Shuttle Program.
+
+
+## All
+
+### WarmUp (8:30 - 9:00)
+
+TBA
+
+
+## 1502
+
+### Building a Chaining JavaScript API (9:00 - 10:00)
+
+TBA
+
+### JQuery Revisited (10:00 - 11:00)
+
+TBA
+
+### Seeding a Large Dataset (11:00 - 12:00)
+
+TBA
+
+
+## 1503
+
+
+## 1505
+
+### Crud Homework Review (9:00 - 9:30)
+
+TBA
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+TBA
+
+### Nokogiri (1:00 - 1:30)
+
+TBA
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
+
+TBA
+
