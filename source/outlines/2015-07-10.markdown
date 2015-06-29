@@ -26,11 +26,106 @@ Survey time.
 
 ### Gear Up (10:15 - 11:00)
 
-### Group Retro
+TBA
 
-### Inter Cohort One on Ones
+### Guest Speaker - Zachary Scott (11:00 - 12:00)
 
-### One On Ones and Student Lead Sessions
+Zachary is a Ruby and Rails committer. Actually, he's contributed to a LOT.
+
+[Twitter](https://twitter.com/_zzak)
+
+[Website](http://zzak.io/)
+
+[GitHub](https://github.com/zzak)
+
+### Group Retro (1:00 - 2:00)
+
+* 1502 - Classroom A with Steve and Marissa.
+* 1503 - Classroom B with Jorge and Raissa.
+* 1505 - Classroom C with Josh Mejia
+* 1507 - Big Workspace with Jeff and Mike
+
+### Inter Cohort One on Ones (2:00 - 2:15)
+
+TBA
+
+### One On Ones and Student Lead Sessions (2:00 - 4:00) 
+
+#### With Jeff (7)
+
+* 2:00 - Nicole Hall
+* 2:15 - Rebekah Sosa
+* 2:30 - Jerrod Paul Junker
+* 2:45 - Justin Holzmann
+* 3:00 - Bret Doucette
+* 3:15 - Travis Haby
+* 3:30 - Rachel Parri
+
+#### With Mike (7)
+
+* 2:00 - Alon Waisman
+* 2:15 - Alexander Naistadt
+* 2:30 - Chris Cenatiempo
+* 2:45 - Mimi Schatz
+* 3:00 - Rose Kohn
+* 3:15 - Tyler Komoroske
+* 3:30 - Ryan Asensio
+
+#### With Rachel (7)
+
+* 2:00 - Marla Brizel
+* 2:15 - Sebastian Abondano
+* 2:30 - David Shim
+* 2:45 - Max Millington
+* 3:00 - Alex Tideman
+* 3:15 - Lovisa Svallingson
+* 3:30 - Jai Misra
+
+#### With Jorge (6)
+	
+* 2:00 - Brett Grigsby
+* 2:15 - Max Tedford
+* 2:30 - Rick Bacci
+* 2:45 - Sally MacNicholas
+* 3:00 - Vanessa Gomez
+* 3:15 - Andrew Fink
+
+#### With Steve (6)
+
+* 2:00 - Andrew Carmer
+* 2:15 - David Daniel
+* 2:30 - Eric Dowty
+* 2:45 - Kenny Chen
+* 3:00 - Justin Pease
+* 3:15 - David Stinette 
+
+#### With Raissa (6)
+
+* 2:00 - Morgan Miller
+* 2:15 - Justin Holmes
+* 2:30 - Drew Reynolds
+* 2:45 - Josh Cass
+* 3:00 - Lev Kravinsky
+* 3:30 - Michael Wong
+* 3:45 - Russell Harms
+
+#### With Daisha (6)
+
+* 2:00 - Matt Ewell
+* 2:15 - Regis Boudinot
+* 2:30 - Adam Jensen
+* 2:45 - Jeff Ruane
+* 3:00 - Matt Hecker
+* 3:15 - Chad Minnerath
+
+#### With Marissa (6)
+ 
+* 2:00 - Kristina Brown
+* 2:15 - Kyle Henson
+* 2:30 - Michelle Golle
+* 2:45 - Mihir Parikh
+* 3:45 - Mary Beth Burch 
+* 3:30 - George Hudson
 
 ### Electives
 
