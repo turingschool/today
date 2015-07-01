@@ -33,19 +33,40 @@ TBA
 
 ## 1505
 
-### Crud Homework Review (9:00 - 9:30)
+### CRUD Homework Review (9:00 - 9:30)
 
-TBA
+Go over your homework with Rachel in Classroom C.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-TBA
+Stick around with Rachel in Classroom C to learn about how to test your models.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown)
 
 ### Nokogiri (1:00 - 1:30)
 
-TBA
+Your favoritest person ever will teach you about Nokogiri, again in Classroom
+C.
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-TBA
+Guess who you'll be working with? It's a surprise.
 
+
+## 1507
+
+### All: Arrays and Hashes (9:00 - 12:00)
+
+Join Jeff in Classroom B as you learn about arrays and hashes.
+
+### Team Echo: Arrays and Hashes in Depth (1:00 - 4:00)
+
+Work on your assignment. Mike will be on hand for questions.
+
+### Team Foxtrot: How Testing Works (1:00 - 2:00)
+
+Jeff will explain to you how testing works.
+
+### Team Foxtrot: Intro to TDD Tutorial (2:00 - 4:00)
+
+Work on this tutorial. Mike will be on hand to answer any questions you have.

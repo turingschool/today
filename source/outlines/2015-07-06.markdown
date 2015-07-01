@@ -10,11 +10,6 @@ Today, in 1957, John Lennon and Paul McCartney meet for the first time.
 
 Welcome 1507! We're glad you're here.
 
-### How Posses Work (2:30 - 3:00)
-
-Everyone should meet in the Big Workspace to talk a little about how Posses should work 
-and meet your new 1507 members.
-
 ### Technical Interview Prep (3:00 - 4:00)
 
 Stuff.
@@ -31,44 +26,83 @@ TBA
 
 ## 1505
 
-### Intro to Sinatra (9:00 - 9:30)
+### Task Manager Q & A (9:00 - 10:00)
 
-TBA
+Join Rachel in Classroom C.
 
-### Task Manager Review / Q&A (9:30 - 10:30)
+### HTML/CSS Review and Workshop (10:00 - 12:00)
 
-TBA
+Stay in Classroom C with Josh as you learn about the HTMLs and the CSSes.
 
-### HTML/CSS Review and Workshop (1:00 - 2:30)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/html_and_css_recap.markdown)
 
-TBA  
+### How the Web Works (1:00 - 3:00)
+
+Learn about how the Web works with Josh.
+
+Spoiler Alert: It's a series of tubes.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/how_the_web_works.markdown)
+
+### What is Rack? (3:00 - 4:00)
+
+Baby don't hurt me. Don't hurt me. No more.
 
 
-## 1507 (8:30 - 9:00)
+
+## 1507
+
+### Staff Introductions (8:30 - 9:00)
 
 Meet the fine faculty of the Turing School of Software and Design. In Classroom A.
 
-### Building Turing (10:00 - 12:00)
+### Tour and Getting Started (9:00 - 12:00)
 
-Raissa and Daisha will put you to work improving the Turing classrooms & workspaces.
+Learn all about where you'll be spending the next seven months of your life.
+
+### Building Turing (9:30 - 11:00)
+
+TBA
+
+### How to Learn at Turing (11:00 - 12:00)
+
+Join Jeff and Mike in Classroom A as you... learn how to learn.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-You met the staff. Now, it's time to get to know each other. Let's meet in Classroom B.
+You've had the opportunity to learn about the staff, now is when we and your
+cohort-mates learn about you. Classroom B.
 
-### How to Learn at Turing (1:00 - 2:30)
+### Team Foxtrot: Computer Setup and How Your Computer Works (1:00 - 2:30)
 
-Join Steve and Mike in Classroom A to talk about how to get the most out of your time at Turing.
-
-### Setup for Work (3:00 - 4:00)
-
-Continue in Classroom A to work on the following:
+Join Jeff in Classroom A to work on the following:
 
 * [Get your laptop setup to work](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
-* Install [RubyMine](https://www.jetbrains.com/ruby/)
+* Install [Atom](http://atom.io)
 * Install the [Slack desktop app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
 * Your full and correct name on your GitHub account
-* A Twitter account if you don't have one
-* A LinkedIn account if you don't have one
+* A Twitter account if you don't have one.
+* A LinkedIn account if you don't have one.
 
 Then finally [fill in this form](https://docs.google.com/forms/d/1Wq42xeg82ewXHye92TdCfDHRQrK-jmpIWIKi9kgInNk/viewform?usp=send_form).
+
+### Team Foxtrot: Strings and Integers (2:30 - 4:00)
+
+Stay with Jeff in Classroom A.
+
+### Team Echo: (1:00 - 2:00)
+
+Mike will get you set up and ready to go.
+
+* [Get your laptop setup to work](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
+* Install [Atom](http://atom.io)
+* Install the [Slack desktop app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
+* Your full and correct name on your GitHub account
+* A Twitter account if you don't have one.
+* A LinkedIn account if you don't have one.
+
+Then finally [fill in this form](https://docs.google.com/forms/d/1Wq42xeg82ewXHye92TdCfDHRQrK-jmpIWIKi9kgInNk/viewform?usp=send_form).
+
+### Team Echo: Getting Started with Exercism (2:00 - 4:00)
+
+Let's dive into the world of [Exercism](http://exercism.io)

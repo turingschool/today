@@ -12,6 +12,11 @@ Today, in 1981, President Ronald Reagan appoints Sandra Day O'Connor, the first 
 
 TBA
 
+### Cross-Cohort Collaboration and Work Time (1:00 - 4:00)
+
+TBA
+
+
 ## 1502
 
 ### Array Prototype Methods (9:00 - 10:30)
@@ -31,11 +36,12 @@ Put a test on it.
 
 ### HTML/CSS Homework Review (9:00 - 9:30)
 
-Let's review what you've done for your HTML/CSS homework.
+Let's review what you've done for your HTML/CSS homework. Join Josh in
+Classroom C.
 
-### How the Web Works (9:30 - 11:00)
+### CRUD in Sinatra Workshop (9:30 - 12:00)
 
-Spoiler Alert: It's a series of tubes, and Al Gore invented it.
+Learn the basics of web apps with CRUD. You'll be with Rachel in Classroom C.
 
 ### What is Rack? (11:00 - 12:00)
 
@@ -47,3 +53,23 @@ The basis of everything.
 
 
 ## 1507
+
+### Team Foxtrot: Day 1 Quiz (9:00 - 9:30)
+
+Quiz time
+
+### Team Foxtrot: Flow Control (9:30 - 10:00)
+
+Learn about loops, and if statements and all of the things.
+
+### Team Echo: Pair Programming with TDD (9:00 - 10:30)
+
+Work in teams and test your code.
+
+### All: Problems, Solutions, and Algorithms (10:30 - 12:00)
+
+Jeff will introduce you to the start of something beautiful.
+
+### All: Scavenger Hunt (1:00 - 4:00)
+
+Find Raissa.
