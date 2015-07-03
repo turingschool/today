@@ -14,8 +14,51 @@ TBA
 
 ## 1502
 
+### JavaScript Design Patterns: Observable Pattern and Building a Chaining API (9:00 - 10:30)
+
+Join Steve in Classroom A as you learn how to do in JavaScript what you learned
+how to do in Ruby yesterday. And something about Chaining APIs.
+
+### The Scale Up Kickoff (10:30 - 11:00)
+
+Steve and Horace will play America's nost popular game show with you,
+kicking off a new project and picking teams for said project. Classroom A.
+
+### Performance Analysis with New Relic (11:00 - 12:00)
+
+Stay in Classroom A with Horace as he teaches you how to do that tasty
+performance analysis using New Relic.
+
+### Project Work Time (1:00 - 2:00)
+
+Scale those Ups.
+
+Or something.
+
+### Peer Evaluations (2:00 - 3:00)
+
+Classroom A.
+
+### IdeaBox 2.0 Recap and Refactor (3:00 - 4:00)
+
+Classroom A.
+
 
 ## 1503
+
+### Sending Email (9:00 - 10:30)
+
+It'd be kind of useful to send emails from your apps, right?
+
+Join Horace in the Big Workspace.
+
+### Project Work Time (10:30 - 12:00)
+
+Work.
+
+### Check-Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBA.
 
 
 ## 1505
@@ -30,13 +73,15 @@ SQL, Sequel, Potato, Po-TAH-to. Stay in classroom C with Josh.
 
 ### TaskManager Transformation with Sequel (1:00 - 4:00)
 
-Take your Task Manager to the next level with Sequel.
+Take your Task Manager to the next level with Sequel. Guess where?
+You already know where.
+
 
 ## 1507
 
 ### Team Echo: Getting Started with Enumerables (9:00 - 10:30)
 
-Join Jeff to learn about enumerables.
+Join Jeff to learn about enumerables in Classroom B.
 
 ### Team Echo: Enumerables Exercises (10:30 - 12:00)
 
@@ -45,7 +90,7 @@ assistance.
 
 ### Team Foxtrot: Primer on .each (9:00 - 10:30)
 
-You'll be learning about the intricacies of .each with Mike.
+You'll be learning about the intricacies of .each with Mike in the Big Workspace.
 
 ### Team Foxtrot: .each Exercises (10:30 - 12:00)
 

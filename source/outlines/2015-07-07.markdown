@@ -19,18 +19,24 @@ TBA
 
 ## 1502
 
-### Array Prototype Methods (9:00 - 10:30)
+### Array Prototype Methods (9:00 - 12:00)
 
-TBA
-
-### Test-Driven Javascript (10:30 - 12:00)
-
-Put a test on it.
+Steve in Classroom A.
 
 
 ## 1503
 
+### Fundamental Rails Security (9:00 - 12:00)
 
+Join Jorge in the Big Workspace. If you like your app, you should put some
+security on it.
+
+[Lesson Plan](http://tutorials.jumpstartlab.com/topics/architecture/fundamental_security.html)
+
+
+### Project Check-Ins and Work time (1:00 - 4:00)
+
+Schedule TBA.
 
 ## 1505
 
@@ -47,7 +53,7 @@ Learn the basics of web apps with CRUD. You'll be with Rachel in Classroom C.
 
 Baby don't hurt me. Don't hurt me. No more.
 
-### CRUD in Sinatra Workshop (1:00 -4:00)
+### CRUD in Sinatra Workshop (1:00 - 4:00)
 
 The basis of everything.
 
@@ -56,19 +62,19 @@ The basis of everything.
 
 ### Team Foxtrot: Day 1 Quiz (9:00 - 9:30)
 
-Quiz time
+Quiz time. Big Workspace.
 
 ### Team Foxtrot: Flow Control (9:30 - 10:00)
 
-Learn about loops, and if statements and all of the things.
+Learn about loops, and if statements and all of the things. Big Workspace.
 
 ### Team Echo: Pair Programming with TDD (9:00 - 10:30)
 
-Work in teams and test your code.
+Work in teams and test your code. Classroom B.
 
 ### All: Problems, Solutions, and Algorithms (10:30 - 12:00)
 
-Jeff will introduce you to the start of something beautiful.
+Jeff will introduce you to the start of something beautiful in Classroom B.
 
 ### All: Scavenger Hunt (1:00 - 4:00)
 

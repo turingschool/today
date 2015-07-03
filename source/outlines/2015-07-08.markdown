@@ -15,20 +15,31 @@ TBA
 
 ## 1502
 
-### Building a Chaining JavaScript API (9:00 - 10:00)
+### JQuery Revisited (9:00 - 10:30)
 
-TBA
+Join Steve in the Big Workspace to revisit some JQuery.
 
-### JQuery Revisited (10:00 - 11:00)
+### Design Patterns in Ruby: Observable and Pub/Sub (10:30 - 12:00)
 
-TBA
+Stay in the Big Workspace and Mike will join you to talk about some Design
+Patterns.
 
-### Seeding a Large Dataset (11:00 - 12:00)
+### Project Work Time (1:00 - 4:00)
 
-TBA
+Work work work.
 
 
 ## 1503
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+Join Horace in Classroom A as he learns you a Multi-Tenancy Authorization.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
+
+### Project Work Time (1:00 - 4:00)
+
+Work on your Project. Do good things.
 
 
 ## 1505
