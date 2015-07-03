@@ -10,7 +10,9 @@ Today, in 1981, President Ronald Reagan appoints Sandra Day O'Connor, the first 
 
 ### WarmUp (8:30 - 9:00)
 
-TBA
+Find your new 1507 posse-mate this morning. Explain to them the Posse Cup, and
+talk about how posses work. Then you can help them work on an exercism or get it set up
+so they can get into the swing of things. 
 
 ### Cross-Cohort Collaboration and Work Time (1:00 - 4:00)
 

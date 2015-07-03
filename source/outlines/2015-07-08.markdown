@@ -10,7 +10,9 @@ Today, in 2011, the Space Shuttle Atlantis, is launched in the final mission of 
 
 ### WarmUp (8:30 - 9:00)
 
-TBA
+Let's get things started easy this week with a [logic problem](http://cl.ly/0d1N3B3p0X0W)
+
+Post your solution in #warmup-answers with your posse name by 9:00 for 5 posse points.
 
 
 ## 1502
