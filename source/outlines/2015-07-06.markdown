@@ -24,18 +24,42 @@ Stuff.
 Join Steve in Classroom A as you go over the homework that you did. You did
 do it, right?
 
+We'll review the [intermission assignments](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown), most specifically:
+
+* [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]
+* [Sandi Metz's Five Rules for Developers][sandi]
+* Ruby and JavaScript style guides
+  * [thoughtbot's style guide for Ruby][tbruby]
+  * [Airbnb's JavaScript style guide][airbnbjs]
+
+[mrc]: https://vimeo.com/105955605
+[sandi]: http://robots.thoughtbot.com/sandi-metz-rules-for-developers
+[tbruby]: https://github.com/thoughtbot/guides/tree/master/style/ruby
+[airbnbjs]: https://github.com/airbnb/javascript
+
 ### JavaScript Q&A (10:00 - 11:30)
 
-Stay in Classroom A with Steve where he will answer every single question
-there exists about JavaScript.
+Stick around in Classroom A.
 
-Every single one.
+Ideally, you've read through a few chapters of [Speaking JavaScript](http://speakingjs.com/es5/) and work through Rebecca Murphey's [JavaScript Assessment][assess].
+
+[assess]: https://github.com/rmurphey/js-assessment
+
+The main purpose of these assignments was to help you figure out what you know and what you don't know about JavaScript (the latter is likely a longer list than the former).
+
+We're not going to be able to cover everything in 90 minutes, but we can plan out future sessions.
+
+* [Etherpad](https://etherpad.mozilla.org/js-assessment)
+
+Use the Etherpad above to record which sections you'd like to cover more in depth over the next six weeks.
 
 ### IdeaBox 2.0 Kickoff (11:30 - 12:00)
 
 Let's kick off your first day back with a mini-project! In Classroom A,
 Steve will walk you through IdeaBox 2.0. You might already know what IdeaBox
 is already. Maybe.
+
+* [Project Description](https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown)
 
 ### Project Work Time (1:00 - 2:30)
 
