@@ -12,16 +12,11 @@ Welcome 1507! We're glad you're here.
 
 We'll do name tags for the week. Please grab one and include both your first name and your cohort number.
 
-### Technical Interview Prep (2:30 - 4:00)
-
-Stuff.
-
-
 ## 1502
 
 ### Homework Review (9:00 - 10:00)
 
-Join Steve in Classroom A as you go over the homework that you did. You did
+Join Steve in Classroom B as you go over the homework that you did. You did
 do it, right?
 
 We'll review the [intermission assignments](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown), most specifically:
@@ -39,7 +34,7 @@ We'll review the [intermission assignments](https://github.com/turingschool/inte
 
 ### JavaScript Q&A (10:00 - 11:30)
 
-Stick around in Classroom A.
+Stick around in Classroom B.
 
 Ideally, you've read through a few chapters of [Speaking JavaScript](http://speakingjs.com/es5/) and work through Rebecca Murphey's [JavaScript Assessment][assess].
 
@@ -55,7 +50,7 @@ Use the Etherpad above to record which sections you'd like to cover more in dept
 
 ### IdeaBox 2.0 Kickoff (11:30 - 12:00)
 
-Let's kick off your first day back with a mini-project! In Classroom A,
+Let's kick off your first day back with a mini-project! In Classroom B,
 Steve will walk you through IdeaBox 2.0. You might already know what IdeaBox
 is already. Maybe.
 
@@ -65,6 +60,9 @@ is already. Maybe.
 
 Idea those boxes.
 
+### Technical Interview Prep (2:30 - 4:00)
+
+Today you'll work with 1503 on TIP.
 
 ## 1503
 
@@ -82,6 +80,9 @@ efficiently. Still in the Big Workspace.
 
 Meet Jorge as he kicks The Pivot off for you in the Big Workspace
 
+### Technical Interview Prep (2:30 - 4:00)
+
+Today you'll work with 1502 on TIP.
 
 ## 1505
 
@@ -108,31 +109,30 @@ Spoiler Alert: It's a series of tubes.
 Baby don't hurt me. Don't hurt me. No more. Classroom C.
 
 
-
 ## 1507
 
 ### Staff Introductions (8:30 - 9:00)
 
 Meet the fine faculty of the Turing School of Software and Design. In
-Classroom B.
+Classroom A.
 
-### Tour and Getting Started (9:00 - 12:00)
+### Tour and Getting Started (9:00 - 9:30)
 
 Learn all about where you'll be spending the next seven months of your life.
 
 ### Building Turing (9:30 - 11:00)
 
-You'll be fixing and building out Classroom B. You might want to get used to
-the area.
+It's a tradition to spend time on the first day fixing up our space. Today you'll
+work on Classroom A and the surrounding workspaces.
 
 ### How to Learn at Turing (11:00 - 12:00)
 
-Join Jeff and Mike in Classroom B as you... learn how to learn.
+Join Jeff and Mike in Classroom A as you... learn how to learn.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
 You've had the opportunity to learn about the staff, now is when we and your
-cohort-mates learn about you. Classroom B.
+cohort-mates learn about you. Classroom A.
 
 ### Team Foxtrot: Computer Setup and How Your Computer Works (1:00 - 2:30)
 
@@ -149,7 +149,7 @@ Then finally [fill in this form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfh
 
 ### Team Foxtrot: Strings and Integers (2:30 - 4:00)
 
-Stay in Classroom A with Jeff.
+Stay in Classroom A with Jeff to talk about [Strings & Integers](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown).
 
 ### Team Echo: (1:00 - 2:00)
 
