@@ -128,6 +128,16 @@ Learn all about where you'll be spending the next seven months of your life.
 It's a tradition to spend time on the first day fixing up our space. Today you'll
 work on Classroom A and the surrounding workspaces.
 
+Get together with the following working group:
+
+* Chair Building: Bret Doucette & Jerrod Paul Junker & Rose Kohn & Mary Beth Burch
+* Table Building: Rachel Parri & Alexander Naistadt & Chris Cenatiempo & Mimi Schatz
+* Chair Maintenance: Tyler Komoroske & Ryan Asensio & Michael Wong & Matt Ewell
+* Table Maintenance: Regis Boudinot & Adam Jensen & Jeff Ruane & Nicole Hall
+* Small Workspaces: Matt Hecker & Chad Minnerath & Justin Holzmann & Russell Harms
+* Kitchen & Front: Alon Waisman & Rebekah Sosa & Justin Pease
+* Shared Spaces: David Stinnette & George Hudson & Travis Haby
+
 ### How to Learn at Turing (11:00 - 12:00)
 
 Join Jeff and Mike in Classroom A as you... learn how to learn.
