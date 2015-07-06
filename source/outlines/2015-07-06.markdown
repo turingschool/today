@@ -129,8 +129,8 @@ Get together with the following working group:
 
 * Chair Building: Bret Doucette & Jerrod Paul Junker & Rose Kohn & Mary Beth Burch
 * Table Building: Rachel Parri & Alexander Naistadt & Chris Cenatiempo & Mimi Schatz
-* Chair Maintainance: Tyler Komoroske & Ryan Asensio & Michael Wong & Matt Ewell
-* Table Maintainance: Regis Boudinot & Adam Jensen & Jeff Ruane & Nicole Hall
+* Chair Maintenance: Tyler Komoroske & Ryan Asensio & Michael Wong & Matt Ewell
+* Table Maintenance: Regis Boudinot & Adam Jensen & Jeff Ruane & Nicole Hall
 * Small Workspaces: Matt Hecker & Chad Minnerath & Justin Holzmann & Russell Harms
 * Kitchen & Front: Alon Waisman & Rebekah Sosa & Justin Pease
 * Shared Spaces: David Stinnette & George Hudson & Travis Haby
