@@ -178,3 +178,8 @@ Then finally [fill in this form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfh
 
 Let's dive into the world of [Exercism](http://exercism.io) with Mike in
 Classroom B.
+
+### Homework
+
+* Echo: Complete [this SuperFizz exercise for tomorrow](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
+* Foxtrot: Complete [these String/Integer exercises for tomorrow](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
