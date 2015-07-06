@@ -12,6 +12,7 @@ Welcome 1507! We're glad you're here.
 
 We'll do name tags for the week. Please grab one and include both your first name and your cohort number.
 
+
 ## 1502
 
 ### Homework Review (9:00 - 10:00)
@@ -64,6 +65,7 @@ Idea those boxes.
 
 Today you'll work with 1503 on TIP.
 
+
 ## 1503
 
 ### Understanding Multi-Tenancy (9:00 - 11:00)
@@ -83,6 +85,7 @@ Meet Jorge as he kicks The Pivot off for you in the Big Workspace
 ### Technical Interview Prep (2:30 - 4:00)
 
 Today you'll work with 1502 on TIP.
+
 
 ## 1505
 
@@ -168,3 +171,35 @@ Then finally [fill in this form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfh
 
 Let's dive into the world of [Exercism](http://exercism.io) with Mike in
 Classroom B.
+
+### Team Foxtrot
+
+* Mimi Schatz
+* Rose Kohn
+* Nicole Hall
+* Travis Haby
+* Bret Doucette
+* Mary Beth Burch
+* Tyler Komoroske
+* Chad Minnerath
+
+### Team Echo
+
+* Ryan Asensio
+* Alexander Naistadt
+* Adam Jensen
+* Jeff Ruane
+* George Hudson
+* Regis Boudinot
+* Matt Ewell
+* Russell Harms
+* Matt Hecker
+* Michael Wong
+* Alon Waisman
+* Chris Cenatiempo
+* Rachel Parri
+* Jerrod Paul Junker
+* Rebekah Sosa
+* Justin Pease
+* David Stinnette
+* Justin Holzmann
