@@ -65,6 +65,8 @@ Idea those boxes.
 
 Today you'll work with 1503 on TIP.
 
+https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown
+
 Pairs:
 
 * Whitney Hiemstra, Tess Griffin
@@ -104,6 +106,8 @@ Meet Jorge as he kicks The Pivot off for you in the Big Workspace
 ### Technical Interview Prep (2:30 - 4:00)
 
 Today you'll work with 1502 on TIP.
+
+https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown
 
 Pairs:
 
