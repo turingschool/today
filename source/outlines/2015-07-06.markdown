@@ -65,7 +65,7 @@ Idea those boxes.
 
 Today you'll work with 1503 on TIP.
 
-https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown
+[Bloom Filters](https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown)
 
 Pairs:
 
@@ -107,7 +107,7 @@ Meet Jorge as he kicks The Pivot off for you in the Big Workspace
 
 Today you'll work with 1502 on TIP.
 
-https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown
+[Bloom Filters](https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown)
 
 Pairs:
 
