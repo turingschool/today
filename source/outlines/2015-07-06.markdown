@@ -111,6 +111,7 @@ Spoiler Alert: It's a series of tubes.
 
 Baby don't hurt me. Don't hurt me. No more. Classroom C.
 
+Clone the [Rack Lobster](https://github.com/turingschool-examples/rack-lobster) repo
 
 ## 1507
 
