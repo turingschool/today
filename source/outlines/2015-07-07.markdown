@@ -183,3 +183,14 @@ Everyone should meet in Classroom B where we'll discuss [problems, solutions, an
 ### All: Scavenger Hunt (1:00 - 4:00)
 
 Raissa will have more info for you about the afternoon's scavenger hunt.
+
+### Foxtrot: Homework
+
+* Finish [the exercises from our Flow Control session](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
+* Build [SuperFizz](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
+* Remember head shots tomorrow
+
+### Echo: Homework
+
+* Build both the [Simple Searches](https://github.com/turingschool/challenges/blob/master/simple_searches.markdown)
+* Remember head shots tomorrow
