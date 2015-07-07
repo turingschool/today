@@ -65,6 +65,27 @@ Idea those boxes.
 
 Today you'll work with 1503 on TIP.
 
+[Bloom Filters](https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown)
+
+Pairs:
+
+* Whitney Hiemstra, Tess Griffin
+* Lev Kravinsky, Kyle Henson
+* Jack Yeh, Andrew Carmer
+* Rick Bacci, Jack Yeh
+* Morgan Miller, Tracy Caruso
+* Brett Grigsby, Patrick Medaugh
+* Vanessa Gomez, Thomas Leskin
+* Jamie Kawahara, Lori Culberson
+* Drew Reynolds, Michelle Golle
+* Erik Butcher, David Daniel
+* Andrew Fink, Minnie Lee
+* Chelsea Worrel, Fred Block
+* Max Tedford, Mihir Parikh
+* Justin Holmes, Kenny Chen
+* Dave Maurer, Eric Dowty
+* Margarett Ly, Kristina Brown
+* WILDCARD: Sally MacNicholas
 
 ## 1503
 
@@ -86,6 +107,27 @@ Meet Jorge as he kicks The Pivot off for you in the Big Workspace
 
 Today you'll work with 1502 on TIP.
 
+[Bloom Filters](https://github.com/turingschool/data_structures_and_algorithms/blob/master/bloom_filters/README.markdown)
+
+Pairs:
+
+* Whitney Hiemstra, Tess Griffin
+* Lev Kravinsky, Kyle Henson
+* Jack Yeh, Andrew Carmer
+* Rick Bacci, Jack Yeh
+* Morgan Miller, Tracy Caruso
+* Brett Grigsby, Patrick Medaugh
+* Vanessa Gomez, Thomas Leskin
+* Jamie Kawahara, Lori Culberson
+* Drew Reynolds, Michelle Golle
+* Erik Butcher, David Daniel
+* Andrew Fink, Minnie Lee
+* Chelsea Worrel, Fred Block
+* Max Tedford, Mihir Parikh
+* Justin Holmes, Kenny Chen
+* Dave Maurer, Eric Dowty
+* Margarett Ly, Kristina Brown
+* WILDCARD: Sally MacNicholas
 
 ## 1505
 
@@ -183,10 +225,6 @@ Then finally [fill in this form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfh
 Let's dive into the world of [Exercism](http://exercism.io) with Mike in
 Classroom B.
 
-### Team Echo: Homework 
-
-[Homework](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
-
 ### Team Foxtrot
 
 * Mimi Schatz
@@ -218,3 +256,8 @@ Classroom B.
 * Justin Pease
 * David Stinnette
 * Justin Holzmann
+
+### Homework
+
+* Echo: Complete [this SuperFizz exercise for tomorrow](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
+* Foxtrot: Complete [these String/Integer exercises for tomorrow](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
