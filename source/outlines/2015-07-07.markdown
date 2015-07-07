@@ -31,45 +31,9 @@ Meet with Steve in Classroom A to talk about the world's most popular programmin
 
 We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
 
-### Cross-Cohort Project Collaboration (1:00 - 2:30)
+### Project Work Time (1:00 - 4:00)
 
-We're trying a new experiment this afternoon with the goal of
-getting more perspectives on your project work. For 90 minutes this afternoon,
-pair up with a member of 1503 and work on a feature for their project.
-
-We'll leave it somewhat up to you to determine how to spend this time,
-but we recommend you spend 45 minutes tackling one of these topics on each of your projects:
-
-1. Pair on a feature. Hopefully there is a well-written user story to guide your progress.
-Don't forget your tests.
-2. Refactoring or Improving Test Coverage. This could be espcially useful for the 1503 supper skippers among you...
-3. Code Review (here are some [code review tips](https://gist.github.com/worace/60c38d49f32bda6a90bd))
-4. Feature planning and design -- work through a conceptual plan for an upcoming
-feature with your pair. Focus especially on schema design and data modeling. Try to think through
-a few different ways you could store and access the relevant data for your feature.
-
-And _yes_, Module 3 students are perfectly capable of reviewing and collaborating on Module 4
-projects.
-
-Here are the pairs to work in:
-
-* Justin Holmes, Minnie Lee
-* Chelsea Worrel, Tracy Caruso
-* Andrew Fink, Kenny Chen
-* Rick Bacci, Mihir Parikh
-* Max Tedford, Thomas Leskin
-* Morgan Miller, Andrew Carmer
-* Margarett Ly, Kristina Brown
-* Jamie Kawahara, David Daniel
-* Rob Cornell, Michelle Golle
-* Sally MacNicholas, Eric Dowty
-* Jack Yeh, Lori Culberson
-* Whitney Hiemstra, Patrick Medaugh
-* Josh Cass, Kyle Henson
-* Drew Reynolds, Dave Maurer
-* Erik Butcher, Fred Block
-* Lev Kravinsky, Tess Griffin
-* Vanessa Gomez, Brett Grigsby
+These projects won't write themselves.
 
 ## 1503
 
@@ -91,7 +55,7 @@ You can find the supporting materials for the lesson here:
 
 Join Jorge in the Big Workspace.
 
-### Project Check-Ins and Work time (2:30 - 4:00)
+### Project Check-Ins and Work time (1:00 - 4:00)
 
 Today we'll be focusing on:
 
@@ -109,47 +73,6 @@ With Jorge:
 * (2:30 - 3:00) Group 4 (Drew F, Justin, Whitney)
 * (3:00 - 3:30) Group 5 (Drew R, Erik, Rob, Josh)
 * (3:30 - 4:00) Group 6 (Max, Jamie, Lev)
-
-### Cross-Cohort Project Collaboration (1:00 - 2:30)
-
-We're trying a new experiment this afternoon with the goal of
-getting more perspectives on your project work. For 90 minutes this afternoon,
-pair up with a member of 1503 and work on a feature for their project.
-
-We'll leave it somewhat up to you to determine how to spend this time,
-but we recommend you spend 45 minutes tackling one of these topics on each of your projects:
-
-1. Pair on a feature. Hopefully there is a well-written user story to guide your progress.
-Don't forget your tests.
-2. Refactoring or Improving Test Coverage. This could be espcially useful for the 1503 supper skippers among you...
-3. Code Review (here are some [code review tips](https://gist.github.com/worace/60c38d49f32bda6a90bd))
-4. Feature planning and design -- work through a conceptual plan for an upcoming
-feature with your pair. Focus especially on schema design and data modeling. Try to think through
-a few different ways you could store and access the relevant data for your feature.
-
-And _yes_, Module 3 students are perfectly capable of reviewing and collaborating on Module 4
-projects.
-
-Here are the pairs to work in:
-
-* Justin Holmes, Minnie Lee
-* Chelsea Worrel, Tracy Caruso
-* Andrew Fink, Kenny Chen
-* Rick Bacci, Mihir Parikh
-* Max Tedford, Thomas Leskin
-* Morgan Miller, Andrew Carmer
-* Margarett Ly, Kristina Brown
-* Jamie Kawahara, David Daniel
-* Rob Cornell, Michelle Golle
-* Sally MacNicholas, Eric Dowty
-* Jack Yeh, Lori Culberson
-* Whitney Hiemstra, Patrick Medaugh
-* Josh Cass, Kyle Henson
-* Drew Reynolds, Dave Maurer
-* Erik Butcher, Fred Block
-* Lev Kravinsky, Tess Griffin
-* Vanessa Gomez, Brett Grigsby
-
 
 ## 1505
 
