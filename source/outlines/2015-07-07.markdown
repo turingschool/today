@@ -5,13 +5,14 @@ layout: outline
 
 Today, in 1981, President Ronald Reagan appoints Sandra Day O'Connor, the first woman to serve on the Supreme Court.
 
+It is also the second day you should be wearing name tags.
 
 ## All
 
-### WarmUp (8:30 - 9:00)
+### Warm Up (8:30 - 9:00)
 
-Find your new 1507 posse-mate this morning. Explain to them the Posse Cup, and talk about how posses work. Get them 
-setup with ScreenHero. Then you can help them work on an exercism. 
+Find your new 1507 posse-mate this morning. Explain to them the Posse Cup, and talk about how posses work. Get them
+setup with ScreenHero. Then you can help them work on an exercism.
 
 ### Cross-Cohort Collaboration and Work Time (1:00 - 4:00)
 
@@ -22,8 +23,13 @@ TBA
 
 ### Array Prototype Methods (9:00 - 12:00)
 
-Steve in Classroom A.
+Meet with Steve in Classroom A to talk about the world's most popular programming language. In this lesson, we'll cover the following.
 
+* How to use `Array.prototype`'s' `forEach`, `map`, `filter`, `reduce`, and `sort` methods.
+* How to create DOM nodes from API data and append them to the page
+* Read and write simple unit and DOM tests using [Mocha][].
+
+We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
 
 ## 1503
 
