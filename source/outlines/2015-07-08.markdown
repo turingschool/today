@@ -154,19 +154,21 @@ Guess who you'll be working with? It's a surprise.
 
 ### All: Arrays and Hashes (9:00 - 12:00)
 
-Join Jeff in Classroom B as you learn about arrays and hashes.
+Join Jeff in Classroom B as you [learn about arrays and hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
 ### Team Echo: Arrays and Hashes in Depth (1:00 - 4:00)
 
 Join Mike in Classroom B to kick off an assignment.
 
+You'll [find the exercises here](https://github.com/turingschool/ruby-exercises/tree/master/core-types).
+
 ### Team Foxtrot: How Testing Works (1:00 - 2:00)
 
-Jeff will explain to you how testing works in Classroom A.
+Jeff will explain to you [how testing works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) in Classroom A.
 
 ### Team Foxtrot: Intro to TDD Tutorial (2:00 - 4:00)
 
-Work on this tutorial. Mike will be on hand to answer any questions you have.
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Mike will be on hand to answer any questions you have.
 
 ### How Question Duty Works
 
