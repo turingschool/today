@@ -8,12 +8,25 @@ Today, in 2011, the Space Shuttle Atlantis, is launched in the final mission of 
 
 ## All
 
-### WarmUp (8:30 - 9:00)
+### Warm Up (8:30 - 9:00)
 
 Let's get things started easy this week with a [logic problem](http://cl.ly/0d1N3B3p0X0W)
 
 Post your solution in #warmup-answers with your posse name by 9:00 for 5 posse points.
 
+### DSA (4:00 - 5:00)
+
+Part Data Structure, part Algorithm, Horace is starting the module strong with some hefty DSA.
+
+## 1412
+
+### 1412 Reunion Lunch (12:30)
+
+Gather and wait for [Austin Wood] (https://thehunt.insnw.net/app/public/system/note_images/5659706/original/a31762bc7d3978b6ab86801cc213baee.jpg) to get his shit together.
+
+### Post Lunch Lingering (1:30 - DSA)
+
+DSA.
 
 ## 1502
 
