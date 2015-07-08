@@ -42,7 +42,7 @@ You can find the supporting materials for the lesson here:
 * [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
 * [Repo](https://github.com/turingschool-examples/store_engine.git)
 * [Lesson Plan](http://tutorials.jumpstartlab.com/topics/architecture/fundamental_security.html)
-* Video (will be posted after the session)
+* [Video](https://vimeo.com/132954062)
 
 Join Jorge in the Big Workspace.
 
