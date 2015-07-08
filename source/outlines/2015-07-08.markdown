@@ -143,11 +143,11 @@ Stick around with Rachel in Classroom C to learn about how to test your models.
 ### Nokogiri (1:00 - 1:30)
 
 Your favoritest person ever will teach you about Nokogiri, again in Classroom
-C.
+C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Guess who you'll be working with? It's a surprise.
+Guess who you'll be working with? It's a surprise. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
 
 ## 1507
