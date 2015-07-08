@@ -19,12 +19,12 @@ Post your solution in #warmup-answers with your posse name by 9:00 for 5 posse p
 
 ### Design Patterns in Ruby: Observable and Pub/Sub (9:00 - 10:30)
 
-Stay in the Big Workspace and Mike will join you to talk about some Design
+Head to the Big Workspace and Mike will join you to talk about some Design
 Patterns.
 
 ### Testing JavaScript in Rails (10:30 - 12:00)
 
-Join Steve in the Big Workspace to talk about testing some JavaScript in Rails.
+Stay in the Big Workspace where Steve will talk about testing some JavaScript in Rails.
 
 We'll be working with the [Idea Bin repository][ibn]. Clone it down before class starts.
 
@@ -158,12 +158,18 @@ Join Jeff in Classroom B as you learn about arrays and hashes.
 
 ### Team Echo: Arrays and Hashes in Depth (1:00 - 4:00)
 
-Work on your assignment. Mike will be on hand for questions.
+Join Mike in Classroom B to kick off an assignment.
 
 ### Team Foxtrot: How Testing Works (1:00 - 2:00)
 
-Jeff will explain to you how testing works.
+Jeff will explain to you how testing works in Classroom A.
 
 ### Team Foxtrot: Intro to TDD Tutorial (2:00 - 4:00)
 
 Work on this tutorial. Mike will be on hand to answer any questions you have.
+
+### How Question Duty Works
+
+This afternoon, Mike will be on hand to answer your questions on the tutorials and assignments that you are working on.
+If you get stuck, and your peers aren't able to help, you can ask for some guidance. You get about ten minutes or so, just to make it
+fair for other people who also may need help. Feel free to ask questions about questions.
