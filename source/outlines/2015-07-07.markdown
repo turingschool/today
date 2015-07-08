@@ -5,14 +5,14 @@ layout: outline
 
 Today, in 1981, President Ronald Reagan appoints Sandra Day O'Connor, the first woman to serve on the Supreme Court.
 
+It is also the second day you should be wearing name tags.
 
 ## All
 
-### WarmUp (8:30 - 9:00)
+### Warm Up (8:30 - 9:00)
 
-Find your new 1507 posse-mate this morning. Explain to them the Posse Cup, and
-talk about how posses work. Then you can help them work on an exercism or get it set up
-so they can get into the swing of things.
+Find your new 1507 posse-mate this morning. Explain to them the Posse Cup, and talk about how posses work. Get them
+setup with ScreenHero. Then you can help them work on an exercism.
 
 ### Cross-Cohort Collaboration and Work Time (1:00 - 4:00)
 
@@ -23,8 +23,17 @@ TBA
 
 ### Array Prototype Methods (9:00 - 12:00)
 
-Steve in Classroom A.
+Meet with Steve in Classroom A to talk about the world's most popular programming language. In this lesson, we'll cover the following.
 
+* How to use `Array.prototype`'s `forEach`, `map`, `filter`, `reduce`, and `sort` methods.
+* How to create DOM nodes from API data and append them to the page
+* Read and write simple unit and DOM tests using [Mocha][].
+
+We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
+
+### Project Work Time (1:00 - 4:00)
+
+These projects won't write themselves.
 
 ## 1503
 
@@ -48,7 +57,22 @@ Join Jorge in the Big Workspace.
 
 ### Project Check-Ins and Work time (1:00 - 4:00)
 
-Schedule TBA.
+Today we'll be focusing on:
+
+1. Reviewing the project planning for your first iteration
+2. Discussing plans and design for implementing the initial features
+
+With Horace:
+
+* (2:30 - 3:00) Group 1 (Chelsea, Morgan, Sally)
+* (3:00 - 3:30) Group 2 (Brett, Ricky, Dave)
+* (3:30 - 4:00) Group 3 (Jack, Vanessa, Margarett)
+
+With Jorge:
+
+* (2:30 - 3:00) Group 4 (Drew F, Justin, Whitney)
+* (3:00 - 3:30) Group 5 (Drew R, Erik, Rob, Josh)
+* (3:30 - 4:00) Group 6 (Max, Jamie, Lev)
 
 ## 1505
 
@@ -65,20 +89,31 @@ Learn the basics of web apps with CRUD. You'll be with Rachel in Classroom C. Fi
 
 ### Team Foxtrot: Day 1 Quiz (9:00 - 9:30)
 
-Quiz time. Big Workspace.
+Meet in the Big Workspace where we'll start off the day with a short quiz.
 
 ### Team Foxtrot: Flow Control (9:30 - 10:00)
 
-Learn about loops, and if statements and all of the things. Big Workspace.
+Continue in the Big Workspace where we'll discuss [how we control the "flow" of execution](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown).
 
-### Team Echo: Pair Programming with TDD (9:00 - 10:30)
+### Team Echo: String and Integer Riddles (9:00 - 10:30)
 
-Work in teams and test your code. Classroom B.
+Join Mike in Classroom B.
 
 ### All: Problems, Solutions, and Algorithms (10:30 - 12:00)
 
-Jeff will introduce you to the start of something beautiful in Classroom B.
+Everyone should meet in Classroom B where we'll discuss [problems, solutions, and algorithms](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
 
 ### All: Scavenger Hunt (1:00 - 4:00)
 
-Find Raissa.
+Raissa will have more info for you about the afternoon's scavenger hunt.
+
+### Foxtrot: Homework
+
+* Finish [the exercises from our Flow Control session](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
+* Build [SuperFizz](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
+* Remember head shots tomorrow
+
+### Echo: Homework
+
+* Build both the [Simple Searches](https://github.com/turingschool/challenges/blob/master/simple_searches.markdown)
+* Remember head shots tomorrow

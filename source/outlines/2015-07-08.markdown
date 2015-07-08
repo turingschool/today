@@ -17,18 +17,62 @@ Post your solution in #warmup-answers with your posse name by 9:00 for 5 posse p
 
 ## 1502
 
-### JQuery Revisited (9:00 - 10:30)
+### Design Patterns in Ruby: Observable and Pub/Sub (9:00 - 10:30)
 
-Join Steve in the Big Workspace to revisit some JQuery.
-
-### Design Patterns in Ruby: Observable and Pub/Sub (10:30 - 12:00)
-
-Stay in the Big Workspace and Mike will join you to talk about some Design
+Head to the Big Workspace and Mike will join you to talk about some Design
 Patterns.
+
+### Testing JavaScript in Rails (10:30 - 12:00)
+
+Stay in the Big Workspace where Steve will talk about testing some JavaScript in Rails.
+
+We'll be working with the [Idea Bin repository][ibn]. Clone it down before class starts.
+
+[ibn]: https://github.com/turingschool-examples/idea-bin
 
 ### Project Work Time (1:00 - 4:00)
 
 Work work work.
+
+### Cross-Cohort Project Collaboration (1:00 - 2:30)
+
+We're trying a new experiment this afternoon with the goal of
+getting more perspectives on your project work. For 90 minutes this afternoon,
+pair up with a member of 1503 and work on a feature for their project.
+
+We'll leave it somewhat up to you to determine how to spend this time,
+but we recommend you spend 45 minutes tackling one of these topics on each of your projects:
+
+1. Pair on a feature. Hopefully there is a well-written user story to guide your progress.
+Don't forget your tests.
+2. Refactoring or Improving Test Coverage. This could be espcially useful for the 1503 supper skippers among you...
+3. Code Review (here are some [code review tips](https://gist.github.com/worace/60c38d49f32bda6a90bd))
+4. Feature planning and design -- work through a conceptual plan for an upcoming
+feature with your pair. Focus especially on schema design and data modeling. Try to think through
+a few different ways you could store and access the relevant data for your feature.
+
+And _yes_, Module 3 students are perfectly capable of reviewing and collaborating on Module 4
+projects.
+
+Here are the pairs to work in:
+
+* Justin Holmes, Minnie Lee
+* Chelsea Worrel, Tracy Caruso
+* Andrew Fink, Kenny Chen
+* Rick Bacci, Mihir Parikh
+* Max Tedford, Thomas Leskin
+* Morgan Miller, Andrew Carmer
+* Margarett Ly, Kristina Brown
+* Jamie Kawahara, David Daniel
+* Rob Cornell, Michelle Golle
+* Sally MacNicholas, Eric Dowty
+* Jack Yeh, Lori Culberson
+* Whitney Hiemstra, Patrick Medaugh
+* Josh Cass, Kyle Henson
+* Drew Reynolds, Dave Maurer
+* Erik Butcher, Fred Block
+* Lev Kravinsky, Tess Griffin
+* Vanessa Gomez, Brett Grigsby
 
 
 ## 1503
@@ -42,6 +86,46 @@ Join Horace in Classroom A as he learns you a Multi-Tenancy Authorization.
 ### Project Work Time (1:00 - 4:00)
 
 Work on your Project. Do good things.
+
+### Cross-Cohort Project Collaboration (1:00 - 2:30)
+
+We're trying a new experiment this afternoon with the goal of
+getting more perspectives on your project work. For 90 minutes this afternoon,
+pair up with a member of 1503 and work on a feature for their project.
+
+We'll leave it somewhat up to you to determine how to spend this time,
+but we recommend you spend 45 minutes tackling one of these topics on each of your projects:
+
+1. Pair on a feature. Hopefully there is a well-written user story to guide your progress.
+Don't forget your tests.
+2. Refactoring or Improving Test Coverage. This could be espcially useful for the 1503 supper skippers among you...
+3. Code Review (here are some [code review tips](https://gist.github.com/worace/60c38d49f32bda6a90bd))
+4. Feature planning and design -- work through a conceptual plan for an upcoming
+feature with your pair. Focus especially on schema design and data modeling. Try to think through
+a few different ways you could store and access the relevant data for your feature.
+
+And _yes_, Module 3 students are perfectly capable of reviewing and collaborating on Module 4
+projects.
+
+Here are the pairs to work in:
+
+* Justin Holmes, Minnie Lee
+* Chelsea Worrel, Tracy Caruso
+* Andrew Fink, Kenny Chen
+* Rick Bacci, Mihir Parikh
+* Max Tedford, Thomas Leskin
+* Morgan Miller, Andrew Carmer
+* Margarett Ly, Kristina Brown
+* Jamie Kawahara, David Daniel
+* Rob Cornell, Michelle Golle
+* Sally MacNicholas, Eric Dowty
+* Jack Yeh, Lori Culberson
+* Whitney Hiemstra, Patrick Medaugh
+* Josh Cass, Kyle Henson
+* Drew Reynolds, Dave Maurer
+* Erik Butcher, Fred Block
+* Lev Kravinsky, Tess Griffin
+* Vanessa Gomez, Brett Grigsby
 
 
 ## 1505
@@ -59,27 +143,35 @@ Stick around with Rachel in Classroom C to learn about how to test your models.
 ### Nokogiri (1:00 - 1:30)
 
 Your favoritest person ever will teach you about Nokogiri, again in Classroom
-C.
+C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Guess who you'll be working with? It's a surprise.
+Guess who you'll be working with? It's a surprise. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
 
 ## 1507
 
 ### All: Arrays and Hashes (9:00 - 12:00)
 
-Join Jeff in Classroom B as you learn about arrays and hashes.
+Join Jeff in Classroom B as you [learn about arrays and hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
 ### Team Echo: Arrays and Hashes in Depth (1:00 - 4:00)
 
-Work on your assignment. Mike will be on hand for questions.
+Join Mike in Classroom B to kick off an assignment.
+
+You'll [find the exercises here](https://github.com/turingschool/ruby-exercises/tree/master/core-types).
 
 ### Team Foxtrot: How Testing Works (1:00 - 2:00)
 
-Jeff will explain to you how testing works.
+Jeff will explain to you [how testing works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) in Classroom A.
 
 ### Team Foxtrot: Intro to TDD Tutorial (2:00 - 4:00)
 
-Work on this tutorial. Mike will be on hand to answer any questions you have.
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Mike will be on hand to answer any questions you have.
+
+### How Question Duty Works
+
+This afternoon, Mike will be on hand to answer your questions on the tutorials and assignments that you are working on.
+If you get stuck, and your peers aren't able to help, you can ask for some guidance. You get about ten minutes or so, just to make it
+fair for other people who also may need help. Feel free to ask questions about questions.
