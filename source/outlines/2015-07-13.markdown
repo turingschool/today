@@ -1,0 +1,128 @@
+---
+title: 20150713
+layout: outline
+---
+
+Today, in 1969, Ken Jeong was born.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+A word snake is (unsurprisingly) a snake made up of a sequence of words.
+
+For instance, take this sequence of words:
+
+SHENANIGANS SALTY YOUNGSTER ROUND DOUBLET TERABYTE ESSENCE
+
+Notice that the last letter in each word is the same as the first letter in the next word. In order to make this into a word snake, you simply snake it across the screen
+
+```
+SHENANIGANS        
+          A        
+          L        
+          T        
+          YOUNGSTER
+                  O
+                  U
+                  N
+            TELBUOD
+            E      
+            R      
+            A      
+            B      
+            Y      
+            T      
+            ESSENCE
+```
+
+Your task today is to take an input word sequence and turn it into a word snake. Here are the rules for the snake:
+
+* It has to start in the top left corner
+* Each word has to turn 90 degrees left or right to the previous word
+* The snake can't intersect itself
+
+Other than that, you're free to decide how the snake should "snake around". If you want to make it easy for yourself and simply have it alternate between going right and going down, that's perfectly fine. If you want to make more elaborate shapes, that's fine too.
+
+
+### DSA (2:30 - 4:00)
+
+DSA! DSA!
+
+
+## 1502 
+
+### Arel and Advanced ActiveRecord (9:00 - 12:00)
+
+Join Horace, as he teaches you things about AR you never knew.
+
+### Work Time (1:00 - 2:30)
+
+Work on the Project.
+
+
+## 1503
+
+### JavaScript in Rails (9:00 - 10:30)
+
+Ask Steve how much he loves Rails.
+
+(Spoiler Alert: It's a LOT.)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/javascript_in_rails.markdown)
+
+### Testing JavaScript (10:30 - 12:00)
+
+Now that you have some JavaScript in your Rails, you should learn how to test it.
+
+### Project Work Time (1:00 - 2:30)
+
+Work time.
+
+
+## 1505
+
+### Project Review / Q&A (9:00 - 10:00)
+
+Join Josh as you go over your project and he answers questions about them in Classroom C.
+
+### Database Design and Modeling (10:00 - 12:00)
+
+Stay with Josh in Classroom C as he goes over how to conceptually think about databases.
+
+### Intro to ActiveRecord with Sinatra (1:00 - 2:30)
+
+It's like Sales Engine on the web.
+
+### Traffic Spy Kickoff (2:30 - 3:00)
+
+
+### Intro to Project Management (3:00 - 4:00)
+
+
+## 1507
+
+### All: Object-Oriented Programming (9:00 - 10:30)
+
+The key class to all of Module 1.
+
+### All: File I/O (10:30 - 12:00)
+
+Learn how to read and write files with Jeff.
+
+### Echo: MergeSort Demos and Review (1:00 - 2:30)
+
+Join Mike to look over your MergeSorts.
+
+### Echo: How to Sudoku (2:30 - 4:00)
+
+Join Mike as he learns you a Sudoku.
+
+### Foxtrot: Testing Primer (1:00 - 2:30)
+
+Start learning how to test with Jeff.
+
+### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
+
+Work on a tutorial on how to test.
+

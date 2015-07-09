@@ -23,6 +23,11 @@ Meet with Steve in Classroom A. We'll pick up briefly where we left off yesterda
 
 You can find [the repository here][ibn].
 
+Examples:
+
+* [Data in the DOM](http://jsbin.com/lowafo/edit?js,console,output)
+* [Data in Closures](http://jsbin.com/zobafu/2/edit?js,console,output)
+
 [ibn]: https://github.com/turingschool-examples/idea-bin
 
 ### First Taste: Object-Oriented JavaScript (9:45 - 10:30)
@@ -36,17 +41,17 @@ Prototypal inheritance certainly sounds scary, but it's not as bad as it sounds.
 
 [mdn]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/object-oriented-javascript
 
-### The Scale Up Kickoff (10:30 - 11:00)
+### Performance Analysis with New Relic (10:30 - 11:30)
+
+Join Horace in Classroom A to learn how to do that tasty
+[performance analysis using New Relic](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/performance_analysis_with_newrelic.markdown).
+
+### The Scale Up Kickoff (11:30 - 12:00)
 
 Steve and Horace will play America's most popular game show with you,
 kicking off a new project in Classroom A.
 
 * [The Scale Up](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
-
-### Performance Analysis with New Relic (11:00 - 12:00)
-
-Stay in Classroom A with Horace as he teaches you how to do that tasty
-performance analysis using New Relic.
 
 ### Ideabox 2.0 Peer Evaluations (1:00 - 2:00)
 
@@ -70,6 +75,11 @@ You'll be working in the following pairs:
 
 [rubric]: https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown#rubric
 
+### Project Work Time (2:00 - 4:00)
+
+Work.
+
+
 ## 1503
 
 ### Sending Email (9:00 - 10:30)
@@ -82,10 +92,23 @@ Join Horace in the Big Workspace.
 
 Work.
 
-### Check-Ins and Project Work Time (1:00 - 4:00)
+### Sending Email Wrapup
 
-Schedule TBA.
+Join Horace in classroom A to wrap up our sending email lesson.
 
+### Check-Ins and Project Work Time (2:00 - 4:00)
+
+With Jorge
+
+* (2:00 - 2:30) Chelsea Worrel, Morgan Miller, Sally MacNicholas
+* (2:30 - 3:00) Brett Grigsby, Rick Bacci, David Maurer
+* (3:00 - 3:30) Jack Yeh, Vanessa Gomez, Margarett Ly
+
+With Horace
+
+* (2:00 - 2:30) - Andrew Fink, Justin Holmes, Whitney Heimstra
+* (2:30 - 3:00) - Drew Reynolds, Erik Butcher, Rob Cornell, Josh Cass
+* (3:00 - 3:30) - Max Tedford, Jamie Kawahara, Lev Kravinsky
 
 ## 1505
 
@@ -109,6 +132,8 @@ You already know where.
 
 Join Jeff to [learn about enumerables](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) in Classroom B.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown)
+
 ### Team Echo: Enumerables Exercises (10:30 - 12:00)
 
 Work on [the enumerables exercises](https://github.com/turingschool/enums-exercises), Mike will be on hand if you need any
@@ -116,35 +141,41 @@ assistance.
 
 ### Team Foxtrot: Primer on .each (9:00 - 10:30)
 
-You'll be learning about the intricacies of .each with Mike in the Big Workspace.
+You'll be learning about the intricacies of .each with Mike at the conference table in 
+Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
 ### Team Foxtrot: .each Exercises (10:30 - 12:00)
 
 Work on your exercises, Mike will be on hand if you need any assistance.
 
-### Team Foxtrot: Arrays and Hashes Revisited (1:00 - 2:30)
+### Team Foxtrot: Getting Started with Enumerables (1:00 - 2:30)
 
-Circling back around to arrays and hashes.
+Learn about Enumerables. Classroom A Work table.
 
 ### Team Foxtrot: Week 1 Diagnostic (2:30 - 3:30)
 
-Let's check to see how you're doing.
+Let's check to see how you're doing. Classroom A Work table.
 
 ### Team Foxtrot: Week 1 Diagnostic Review (3:30 - 4:00)
 
-Self explanatory.
+Let's check to see how you're doing. Classroom A Work table.
 
 ### Team Echo: Week 1 Diagnostic (1:00 - 1:45)
 
-Let's check to see how you're doing.
+Let's check to see how you're doing. Classroom B.
 
 ### Team Echo: Week 1 Diagnostic Review (1:45 - 2:00)
 
-Review your diagnostic.
+Review your diagnostic. Classroom B.
+
 
 ### Team Echo: Spiraling Design and "Tests" (2:00 - 3:45)
 
-Let's start together in Classroom A. For this afternoon session, work on [the Credit Check challenge](https://github.com/turingschool/challenges/blob/master/credit_check.markdown). You should:
+Let's start together in Classroom A. For this afternoon session, work on [the Credit Check challenge](https://github.com/turingschool/challenges/blob/master/credit_check.markdown). 
+
+You should:
 
 * let this be the last exercise where you don't write automated tests
 * basically pretend you're writing automated tests, but just use manual test inputs / expected outputs
