@@ -107,11 +107,11 @@ You already know where.
 
 ### Team Echo: Getting Started with Enumerables (9:00 - 10:30)
 
-Join Jeff to learn about enumerables in Classroom B.
+Join Jeff to [learn about enumerables](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown) in Classroom B.
 
 ### Team Echo: Enumerables Exercises (10:30 - 12:00)
 
-Work on your enumerables exercises, Mike will be on hand if you need any
+Work on [the enumerables exercises](https://github.com/turingschool/enums-exercises), Mike will be on hand if you need any
 assistance.
 
 ### Team Foxtrot: Primer on .each (9:00 - 10:30)
@@ -134,14 +134,21 @@ Let's check to see how you're doing.
 
 Self explanatory.
 
-### Team Echo: Week 1 Diagnostic (1:00 - 2:00)
+### Team Echo: Week 1 Diagnostic (1:00 - 1:45)
 
 Let's check to see how you're doing.
 
-### Team Echo: Week 1 Diagnostic Review (2:00 - 2:30)
+### Team Echo: Week 1 Diagnostic Review (1:45 - 2:00)
 
 Review your diagnostic.
 
-### Team Echo: Spiraling Design and Tests (2:30 - 4:00)
+### Team Echo: Spiraling Design and "Tests" (2:00 - 3:45)
 
-Join Jeff and soak in his wisdom.
+Let's start together in Classroom A. For this afternoon session, work on [the Credit Check challenge](https://github.com/turingschool/challenges/blob/master/credit_check.markdown). You should:
+
+* let this be the last exercise where you don't write automated tests
+* basically pretend you're writing automated tests, but just use manual test inputs / expected outputs
+* do approach it using the spiral/iteration method we've been using all week
+* build up from the most trivial sample inputs to the more complex
+* work on your own to implement a solution
+* talk to each other to review/compare solutions
