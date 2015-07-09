@@ -1,0 +1,83 @@
+---
+title: 20150706
+layout: outline
+---
+
+Today, in 1834, the Spanish Inquisition was disbanded. That was unexpected.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+There are 5 houses in 5 different colors. In each house lives a person of a different nationality. The 5 owners drink a certain type of beverage, smoke a certain brand of cigar, and keep a certain pet. Using the clues below can you determine who owns the fish?
+
+* The Brit lives in a red house.
+* The Swede keeps dogs as pets.
+* The Dane drinks tea.
+* The green house is on the immediate left of the white house.
+* The green house owner drinks coffee.
+* The person who smokes Pall Mall rears birds.
+* The owner of the yellow house smokes Dunhill.
+* The man living in the house right in the middle drinks milk.
+* The Norwegian lives in the first house.
+* The man who smokes Blend lives next door to the one who keeps cats.
+* The man who keeps horses lives next door to the man who smokes Dunhill.
+* The owner who smokes Blue Master drinks chocolate.
+* The German smokes Prince.
+* The Norwegian lives next to the blue house.
+* The man who smokes Blend has a neighbor who drinks water.
+
+
+## 1502
+
+### IdeaBox 2.0 Recap and Refactor (9:00 - 10:30)
+
+Join Steve as you talk about IdeaBox and look at how you can refactor it.
+
+### Project Work Time (10:30 - 12:00)
+
+Work on Upping your Scales.
+
+### Project Work Time (1:00 - 4:00)
+
+Continue on your projects.
+
+
+## 1503
+
+### Project Work Time: ALL DAY.
+
+All day, erry day. Well not EVERY day, but you get the point.
+
+
+## 1505 
+
+### Traffic Spy Q and A (9:00 - 10:00)
+
+All of your questions about Traffic Spy, answered by Josh.
+
+### Project Work Time (10:00 - 12:00)
+
+Josh will be available for questions.
+
+### Project Work Time (1:00 - 4:00)
+
+Josh will still be available for questions.
+
+
+## 1507
+
+### Echo: Robodoku Evaluations (9:00 - 10:30)
+
+Schedule TBA.
+
+### Foxtrot: String Riddles (9:00 - 10:30)
+
+### Foxtrot: Fibber Recap and Chisel Work Time (10:30 - 12:00)
+
+### All: Debugging Techniques (1:00 - 2:30)
+
+### All: Understanding Call Stacks and Return Values (2:30 - 4:00)
+
+
+
