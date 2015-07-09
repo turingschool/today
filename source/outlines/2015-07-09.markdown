@@ -41,17 +41,17 @@ Prototypal inheritance certainly sounds scary, but it's not as bad as it sounds.
 
 [mdn]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/object-oriented-javascript
 
-### The Scale Up Kickoff (10:30 - 11:00)
+### Performance Analysis with New Relic (10:30 - 11:30)
+
+Join Horace in Classroom A to learn how to do that tasty
+performance analysis using New Relic.
+
+### The Scale Up Kickoff (11:30 - 12:00)
 
 Steve and Horace will play America's most popular game show with you,
 kicking off a new project in Classroom A.
 
 * [The Scale Up](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
-
-### Performance Analysis with New Relic (11:00 - 12:00)
-
-Stay in Classroom A with Horace as he teaches you how to do that tasty
-performance analysis using New Relic.
 
 ### Ideabox 2.0 Peer Evaluations (1:00 - 2:00)
 
