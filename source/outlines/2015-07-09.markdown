@@ -23,6 +23,11 @@ Meet with Steve in Classroom A. We'll pick up briefly where we left off yesterda
 
 You can find [the repository here][ibn].
 
+Examples:
+
+* [Data in the DOM](http://jsbin.com/lowafo/edit?js,console,output)
+* [Data in Closures](http://jsbin.com/zobafu/2/edit?js,console,output)
+
 [ibn]: https://github.com/turingschool-examples/idea-bin
 
 ### First Taste: Object-Oriented JavaScript (9:45 - 10:30)
