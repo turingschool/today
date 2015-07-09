@@ -19,12 +19,12 @@ Post your solution in #warmup-answers with your posse name by 9:00 for 5 posse p
 
 ### Design Patterns in Ruby: Observable and Pub/Sub (9:00 - 10:30)
 
-Stay in the Big Workspace and Mike will join you to talk about some Design
+Head to the Big Workspace and Mike will join you to talk about some Design
 Patterns.
 
 ### Testing JavaScript in Rails (10:30 - 12:00)
 
-Join Steve in the Big Workspace to talk about testing some JavaScript in Rails.
+Stay in the Big Workspace where Steve will talk about testing some JavaScript in Rails.
 
 We'll be working with the [Idea Bin repository][ibn]. Clone it down before class starts.
 
@@ -143,27 +143,35 @@ Stick around with Rachel in Classroom C to learn about how to test your models.
 ### Nokogiri (1:00 - 1:30)
 
 Your favoritest person ever will teach you about Nokogiri, again in Classroom
-C.
+C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Guess who you'll be working with? It's a surprise.
+Guess who you'll be working with? It's a surprise. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
 
 ## 1507
 
 ### All: Arrays and Hashes (9:00 - 12:00)
 
-Join Jeff in Classroom B as you learn about arrays and hashes.
+Join Jeff in Classroom B as you [learn about arrays and hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
 ### Team Echo: Arrays and Hashes in Depth (1:00 - 4:00)
 
-Work on your assignment. Mike will be on hand for questions.
+Join Mike in Classroom B to kick off an assignment.
+
+You'll [find the exercises here](https://github.com/turingschool/ruby-exercises/tree/master/core-types).
 
 ### Team Foxtrot: How Testing Works (1:00 - 2:00)
 
-Jeff will explain to you how testing works.
+Jeff will explain to you [how testing works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) in Classroom A.
 
 ### Team Foxtrot: Intro to TDD Tutorial (2:00 - 4:00)
 
-Work on this tutorial. Mike will be on hand to answer any questions you have.
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Mike will be on hand to answer any questions you have.
+
+### How Question Duty Works
+
+This afternoon, Mike will be on hand to answer your questions on the tutorials and assignments that you are working on.
+If you get stuck, and your peers aren't able to help, you can ask for some guidance. You get about ten minutes or so, just to make it
+fair for other people who also may need help. Feel free to ask questions about questions.
