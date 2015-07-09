@@ -8,7 +8,7 @@ Today, in 1981, Donkey Kong is released by Nintendo. This marks the first appear
 
 ## All
 
-### WarmUp (8:30 - 9:00)
+### Warm Up (8:30 - 9:00)
 
 Today, you will become a [RubyWarrior](https://www.bloc.io/ruby-warrior/)
 
@@ -17,35 +17,58 @@ number of posse points.
 
 ## 1502
 
-### JavaScript Design Patterns: Observable Pattern and Building a Chaining API (9:00 - 10:30)
+### First Taste: Scopes and Closures (9:00 - 9:45)
 
-Join Steve in Classroom A as you learn how to do in JavaScript what you learned
-how to do in Ruby yesterday. And something about Chaining APIs.
+Meet with Steve in Classroom A. We'll pick up briefly where we left off yesterday testing our Idea Box applications to talk about scopes and closures in JavaScript. We'll be continuing with the `turingschool-examples/idea-bin` repository from yesterday on the `2015-07-08` branch.
+
+You can find [the repository here][ibn].
+
+[ibn]: https://github.com/turingschool-examples/idea-bin
+
+### First Taste: Object-Oriented JavaScript (9:45 - 10:30)
+
+Prototypal inheritance certainly sounds scary, but it's not as bad as it sounds. We'll cover the following learning objectives:
+
+* How to construct objects in JavaScript and create shared methods using object prototypes
+* How to build a chaining API for your JavaScript objects
+
+[You can follow along here][mdn].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/object-oriented-javascript
 
 ### The Scale Up Kickoff (10:30 - 11:00)
 
-Steve and Horace will play America's nost popular game show with you,
-kicking off a new project and picking teams for said project. Classroom A.
+Steve and Horace will play America's most popular game show with you,
+kicking off a new project in Classroom A.
+
+* [The Scale Up](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/the_scale_up.markdown)
 
 ### Performance Analysis with New Relic (11:00 - 12:00)
 
 Stay in Classroom A with Horace as he teaches you how to do that tasty
 performance analysis using New Relic.
 
-### Project Work Time (1:00 - 2:00)
+### Ideabox 2.0 Peer Evaluations (1:00 - 2:00)
 
-Scale those Ups.
+This afternoon, you'll meet with your colleagues to review each other's approaches to Ideabox 2.0. Use the [following rubric][rubric] to evaluate your partners projects. We will be doing a recap and refactor session with Steve next week.
 
-Or something.
+1. Submit your project [here](https://etherpad.mozilla.org/ideabox-submissions).
+2. Use [this rubric][rubric] to evaluate each other's projects
+  * What did you really like about your partner's Idea Box?
+  * What advice would you give your partner about their approach?
+3. Add your feedback and scores to the document in Step One.
 
-### Peer Evaluations (2:00 - 3:00)
+You'll be working in the following pairs:
 
-Classroom A.
+* Kyle Henson & Minnie Lee
+* Andrew Carmer & Eric Dowty
+* Lori Culberson & Fred Block
+* Thomas Leskin & Mihir Parikh
+* Patrick Medaugh & Kristina Brown
+* Tess Griffin & Michelle Golle
+* Tracy Caruso & David Daniel & Kenny Chen
 
-### IdeaBox 2.0 Recap and Refactor (3:00 - 4:00)
-
-Classroom A.
-
+[rubric]: https://github.com/JumpstartLab/curriculum/blob/4fdd6da8e2e431beeb77012e271de1eee90d5e07/source/projects/revenge_of_idea_box.markdown#rubric
 
 ## 1503
 
