@@ -152,3 +152,9 @@ Let's start together in Classroom A. For this afternoon session, work on [the Cr
 * build up from the most trivial sample inputs to the more complex
 * work on your own to implement a solution
 * talk to each other to review/compare solutions
+
+### Team Echo: Homework (3:45 - 4:00)
+
+*First* you need to make a strong effort on your enumerables. Don't finish the exercises *just* to finish them. Keep pushing until you're not able to stay deeply in the learning.
+
+*Then* start into [this Merge Sort project](https://github.com/turingschool/challenges/blob/master/merge_sort.markdown) that you should have done by 9AM Monday. Ballpark that it'll take about 8-12 hours. You should use automated tests, of course :)
