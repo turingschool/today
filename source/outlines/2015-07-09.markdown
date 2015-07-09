@@ -44,7 +44,7 @@ Prototypal inheritance certainly sounds scary, but it's not as bad as it sounds.
 ### Performance Analysis with New Relic (10:30 - 11:30)
 
 Join Horace in Classroom A to learn how to do that tasty
-performance analysis using New Relic.
+[performance analysis using New Relic](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/performance_analysis_with_newrelic.markdown).
 
 ### The Scale Up Kickoff (11:30 - 12:00)
 
