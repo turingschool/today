@@ -18,14 +18,14 @@ Survey time.
 
 ### Lightning Talks (9:00 - 10:15)
 
-Vanessa Gomez - "Studio Production life from conception to completion" 
-Justin Holzmann - "Meta 80/20" 
-Thomas Leskin - "Prototypal vs Classical Inheritance" 
-Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS" 
-Dave Maurer - "What is that thing? - OR - The seven core things to worry about during module 1"
-Rick Bacci - "Fun with Ruby Processing" 
-Brett Grigsby - "VR: The Next Big Platform" 
-Samson Brock - "Turing School: Pro Tips" 
+* Vanessa Gomez - "Studio Production life from conception to completion" 
+* Justin Holzmann - "Meta 80/20" 
+* Thomas Leskin - "Prototypal vs Classical Inheritance" 
+* Samson Brock - "Turing School: Pro Tips" 
+* Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS" 
+* Dave Maurer - "What is that thing? - OR - The seven core things to worry about during module 1"
+* Rick Bacci - "Fun with Ruby Processing" 
+* Brett Grigsby - "VR: The Next Big Platform" 
 
 ### Gear Up (10:15 - 11:00)
 
