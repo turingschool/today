@@ -72,7 +72,7 @@ If Swift is not your jam, then you're welcome to head over to Classroom A and he
 When you're not doing your one on one, please hangout in Classroom A /
 Classroom A workspaces.
 
-*  First, read [https://www.dropbox.com/s/61qj91s7ef2wlud/passionate_programmer_first_four.pdf?dl=0](this collection of four short essays) and write yourself a page or two of reflections/ideas/plans. If you're bold, publish it as a blog post and share it in Slack.
+* First, read [https://www.dropbox.com/s/61qj91s7ef2wlud/passionate_programmer_first_four.pdf?dl=0](this collection of four short essays) and write yourself a page or two of reflections/ideas/plans. If you're bold, publish it as a blog post and share it in Slack.
 * Second, you have some flex time to revisit topics from the week and/or work on your homework for the weekend.
 
 #### With Jeff
