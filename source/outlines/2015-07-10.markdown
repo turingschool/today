@@ -11,6 +11,12 @@ Today, in 1938, Howard Hughes flies around the world in 91 hours, setting a new 
 
 Survey time.
 
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/13ui8bcnW41YGhZG8DeBJS9Rev3DEXc-5h91PAJaH5Qs/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1CPCF2hZymARyeWu4I5S69KLtRVUc7skj_14KBFx_D50/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/1cRk2oBWE7upGwYIn2VvLUKCTxvxADOaMd_aWPXPKNJU/viewform)
+* [1507](https://docs.google.com/a/casimircreative.com/forms/d/1MQuRLKFaMLyy9e0DoRyGhGJnUFd-3PLkcyj5erY3_5c/viewform)
+
+
 ### Lightning Talks (9:00 - 10:00)
 
 * Vanessa Gomez - "Studio Production life from conception to completion"
@@ -22,9 +28,10 @@ Survey time.
 * Rick Bacci - "Fun with Ruby Processing"
 * Brett Grigsby - "VR: The Next Big Platform"
 
+
 ### Gear Up (10:00 - 10:30)
 
-Find out how you can contribute to Turing's MMission Statement.
+Find out how you can contribute to Turing's Mission Statement.
 
 ### Group Retro (10:30 - 11:15)
 
