@@ -13,16 +13,14 @@ Survey time.
 
 ### Lightning Talks (9:00 - 10:00)
 
-* Vanessa Gomez - "Production life from conception to completion"
-* Jack Yeh
-* Eric Dowty
-* Thomas Leskin - "ReactJS - A JS library for building user interfaces"
+* Vanessa Gomez - "Studio Production life from conception to completion"
+* Justin Holzmann - "Meta 80/20"
+* Thomas Leskin - "Prototypal vs Classical Inheritance"
+* Samson Brock - "Turing School: Pro Tips"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
-* Dave Maurer
-* Rick Bacci
-* Brett Grigsby
-* Sebastian Abondano
-* Samson Brock
+* Dave Maurer - "What is that thing? - OR - The seven core things to worry about during module 1"
+* Rick Bacci - "Fun with Ruby Processing"
+* Brett Grigsby - "VR: The Next Big Platform"
 
 ### Gear Up (10:00 - 10:30)
 
@@ -74,7 +72,7 @@ There's a surprise.
 
 #### With Mike
 
-* 1:00 - Rachel Parri
+* 1:00 - George Hudson
 * 1:20 - Chris Cenatiempo
 * 1:40 - Mimi Schatz
 * 2:00 - Rose Kohn
@@ -94,6 +92,6 @@ There's a surprise.
 
 * 1:00 - Alexander Naistadt
 * 1:20 - Mary Beth Burch 
-* 1:40 - George Hudson
+* 1:40 - Rachel Parri
 * 2:00 - Bret Doucette
 * 2:20 - Jeff Ruane
