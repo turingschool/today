@@ -31,7 +31,8 @@ Survey time.
 
 ### Gear Up (10:00 - 10:30)
 
-Find out how you can contribute to Turing's Mission Statement.
+Find out how you can contribute to Turing's Mission Statement. Join Raissa
+in the Big Workspace.
 
 ### Group Retro (10:30 - 11:15)
 
@@ -42,29 +43,27 @@ Find out how you can contribute to Turing's Mission Statement.
 
 ### Guest Speaker - Katrina Owen (11:15 - 12:00)
 
-You love Exercism, right? (The answer is yes.)
+You love Exercism, right? (The answer is yes.) Be in the Big Workspace
+for a Q&A with Katrina.
 
-[GitHub](https://github.com/kytrinyx)
-
-[Twitter](https://twitter.com/kytrinyx)
-
+* [GitHub](https://github.com/kytrinyx)
+* [Twitter](https://twitter.com/kytrinyx)
 
 ### Swift Time with Yong Bakos - 1505, 1503, 1502 (1:00 - 3:00)
 
-Big Workspace.
+Join Yong in the Big Workspace to get down with Swift.
 
 ### React Time with Will Faurot - 1505, 1503, 1502 (3:00 - 4:00)
 
 We are all wondering how you will REACT to this session.
 
 
-## 1507 
+## 1507
 
-### One On Ones  - (1:00 - 4:00) 
+### One On Ones  - (1:00 - 4:00)
 
-When youre not on your one on one, you'll be in Classroom A.
+When you're not on your one on one, you'll be in Classroom A.
 
-There's a surprise.
 
 #### With Jeff
 
@@ -76,7 +75,7 @@ There's a surprise.
 * 2:40 - Matt Hecker
 * 3:00 - Regis Boudinot
 * 3:20 - Justin Pease
-* 3:40 - David Stinette 
+* 3:40 - David Stinette
 
 #### With Mike
 
@@ -100,7 +99,7 @@ There's a surprise.
 #### With Marissa
 
 * 1:00 - Alexander Naistadt
-* 1:20 - Mary Beth Burch 
+* 1:20 - Mary Beth Burch
 * 1:40 - Rachel Parri
 * 2:00 - Bret Doucette
 * 2:20 - Jeff Ruane
