@@ -31,7 +31,8 @@ Survey time.
 
 ### Gear Up (10:00 - 10:30)
 
-Find out how you can contribute to Turing's Mission Statement.
+Find out how you can contribute to Turing's Mission Statement. Join Raissa
+in the Big Workspace.
 
 ### Group Retro (10:30 - 11:15)
 
@@ -42,29 +43,37 @@ Find out how you can contribute to Turing's Mission Statement.
 
 ### Guest Speaker - Katrina Owen (11:15 - 12:00)
 
-You love Exercism, right? (The answer is yes.)
+You love Exercism, right? (The answer is yes.) Be in the Big Workspace
+for a Q&A with Katrina.
 
-[GitHub](https://github.com/kytrinyx)
-
-[Twitter](https://twitter.com/kytrinyx)
-
+* [GitHub](https://github.com/kytrinyx)
+* [Twitter](https://twitter.com/kytrinyx)
 
 ### React Time with Will Faurot - 1505, 1503, 1502 (1:00 - 2:00)
 
+
 We are all wondering how you will REACT to this session.
+
+
 
 ### Swift Time with Yong Bakos - 1505, 1503, 1502 (2:00 - 4:00)
 
 Big Workspace.
 
+Join Yong in the Big Workspace to get down with Swift.
 
-## 1507 
+If Swift is not your jam, then you're welcome to head over to Classroom A and help 1507 wrap their heads around what they've learned this week.
 
-### One On Ones  - (1:00 - 4:00) 
 
-When youre not on your one on one, you'll be in Classroom A.
+## 1507
 
-There's a surprise.
+### One On Ones  - (1:00 - 4:00)
+
+When you're not doing your one on one, please hangout in Classroom A /
+Classroom A workspaces.
+
+*  First, read [https://www.dropbox.com/s/61qj91s7ef2wlud/passionate_programmer_first_four.pdf?dl=0](this collection of four short essays) and write yourself a page or two of reflections/ideas/plans. If you're bold, publish it as a blog post and share it in Slack.
+* Second, you have some flex time to revisit topics from the week and/or work on your homework for the weekend.
 
 #### With Jeff
 
@@ -76,7 +85,7 @@ There's a surprise.
 * 2:40 - Matt Hecker
 * 3:00 - Regis Boudinot
 * 3:20 - Justin Pease
-* 3:40 - David Stinette 
+* 3:40 - David Stinette
 
 #### With Mike
 
@@ -100,7 +109,7 @@ There's a surprise.
 #### With Marissa
 
 * 1:00 - Alexander Naistadt
-* 1:20 - Mary Beth Burch 
+* 1:20 - Mary Beth Burch
 * 1:40 - Rachel Parri
 * 2:00 - Bret Doucette
 * 2:20 - Jeff Ruane
