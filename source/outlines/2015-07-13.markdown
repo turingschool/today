@@ -65,7 +65,7 @@ Work on the Project.
 
 ## DOM Traversal, Manipulation, and Events with jQuery (9:00 - 12:00)
 
-Join Steve in Classroom A to talk about DOM manipulation and traversal using jQuery.
+Join Steve in Classroom A to talk about DOM manipulation and traversal using jQuery. We'll also talk a little bit about events.
 
 We will be covering the following learning goals:
 
