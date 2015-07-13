@@ -44,6 +44,7 @@ Your task today is to take an input word sequence and turn it into a word snake.
 
 Other than that, you're free to decide how the snake should "snake around". If you want to make it easy for yourself and simply have it alternate between going right and going down, that's perfectly fine. If you want to make more elaborate shapes, that's fine too.
 
+Ten points by posting your working solution in #warmup-answers with your full posse name before 9:00.
 
 ### DSA (2:30 - 4:00)
 
@@ -54,11 +55,15 @@ DSA! DSA!
 
 ### Arel and Advanced ActiveRecord (9:00 - 12:00)
 
-Join Horace, as he teaches you things about AR you never knew.
+Join Horace, as he teaches you things about AR you never knew in the Workspace.
+
+### Optional: Testing JavaScript Revisited (1:00 - 2:30)
+
+With Steve at the Classroom A conference table.
 
 ### Work Time (1:00 - 2:30)
 
-Work on the Project.
+Up those scales.
 
 
 ## 1503
@@ -89,54 +94,57 @@ We'll be referencing the following materials:
 
 Schedule TBA
 
-
 ### Project Work Time (1:00 - 2:30)
 
-Work time.
+Skip those Suppers.
 
 
 ## 1505
 
-### Project Review / Q&A (9:00 - 10:00)
+### Project Review / Q&A (9:00 - 9:30)
 
 Join Josh as you go over your project and he answers questions about them in Classroom C.
 
-### Database Design and Modeling (10:00 - 12:00)
+### Database Design and Modeling (9:30 - 11:00)
 
 Stay with Josh in Classroom C as he goes over how to conceptually think about databases.
 
-### Intro to ActiveRecord with Sinatra (1:00 - 2:30)
+### Intro to Project Management (11:00 - 12:00)
 
-It's like Sales Engine on the web.
+Josh will tell you all of the things about Project Management in Classroom C.
 
-### Traffic Spy Kickoff (2:30 - 3:00)
+### Intro to ActiveRecord with Sinatra (1:00 - 3:00)
 
+It's like Sales Engine, but on the web. Join Rachel in Cozy Classroom C.
 
-### Intro to Project Management (3:00 - 4:00)
+### Traffic Spy Kickoff (3:00 - 4:00)
 
+Stay in Classroom C as Rachel kicks off your first web project, Traffic Spy.
+
+Groups TBA
 
 ## 1507
 
-### All: Object-Oriented Programming (9:00 - 10:30)
+### All: Object-Oriented Programming (9:00 - 11:00)
 
-The key class to all of Module 1.
+This morning we'll introduce the [fundamental concepts of Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) in Classroom B.
 
 ### All: File I/O (10:30 - 12:00)
 
-Learn how to read and write files with Jeff.
+Then continue with [how to read and write files](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown) still in B.
 
-### Echo: MergeSort Demos and Review (1:00 - 2:30)
+### Echo: MergeSort Demos and Review (1:00 - 2:00)
 
-Join Mike to look over your MergeSorts.
+Join Mike to look over your MergeSorts in Classroom A.
 
-### Echo: How to Sudoku (2:30 - 4:00)
+### Echo: How to Sudoku & Sudoku Work Time (2:00 - 4:00)
 
-Join Mike as he learns you a Sudoku.
+Join Mike as he learns you a Sudoku in Classroom A. Follow [this project specification](https://github.com/turingschool/challenges/blob/master/robodoku.markdown).
 
 ### Foxtrot: Testing Primer (1:00 - 2:30)
 
-Start learning how to test with Jeff.
+Start [learning how to test](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) with Jeff in Classroom B.
 
 ### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
 
-Work on a tutorial on how to test.
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Mike will be available to answer any questions you have.
