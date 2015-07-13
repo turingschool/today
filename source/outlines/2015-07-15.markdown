@@ -1,5 +1,5 @@
 ---
-title: 20150706
+title: 20150715
 layout: outline
 ---
 
@@ -27,12 +27,17 @@ There are 5 houses in 5 different colors. In each house lives a person of a diff
 * The Norwegian lives next to the blue house.
 * The man who smokes Blend has a neighbor who drinks water.
 
+Five points by posting your solution in #warmup-answers with your full posse name before 9:00.
+
+### Women Who Code Ruby Study Group (6:30 - 8:30)
+
+If you are not attending, the food is not for you.
 
 ## 1502
 
 ### IdeaBox 2.0 Recap and Refactor (9:00 - 10:30)
 
-Join Steve as you talk about IdeaBox and look at how you can refactor it.
+Join Steve as you talk about IdeaBox and look at how you can refactor it. Classroom B.
 
 ### Project Work Time (10:30 - 12:00)
 
@@ -54,15 +59,15 @@ All day, erry day. Well not EVERY day, but you get the point.
 
 ### Traffic Spy Q and A (9:00 - 10:00)
 
-All of your questions about Traffic Spy, answered by Josh.
+All of your questions about Traffic Spy, answered by Josh in Classroom C.
 
 ### Project Work Time (10:00 - 12:00)
 
-Josh will be available for questions.
+Get ye to work.
 
 ### Project Work Time (1:00 - 4:00)
 
-Josh will still be available for questions.
+Guess what you will be doing during this time?
 
 
 ## 1507
@@ -73,11 +78,22 @@ Schedule TBA.
 
 ### Foxtrot: String Riddles (9:00 - 10:30)
 
+Work on this on your own. 
+
+[String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown)
+
 ### Foxtrot: Fibber Recap and Chisel Work Time (10:30 - 12:00)
+
+Recap Fibber and then get to work on your Chisels. Meet Mike in Classroom A.
 
 ### All: Debugging Techniques (1:00 - 2:30)
 
+Learn some debugging Techniques in Classroom A with Jeff.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/frames_call_stacks_and_exceptions.markdown)
+
 ### All: Understanding Call Stacks and Return Values (2:30 - 4:00)
 
+Stay in Classroom A with Jeff.
 
 
