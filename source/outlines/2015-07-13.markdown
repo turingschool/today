@@ -151,9 +151,4 @@ Start learning how to test with Jeff at the Classroom A.
 
 ### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
 
-<<<<<<< HEAD
 Work on a tutorial on how to test in Classroom A.
-
-=======
-Work on a tutorial on how to test.
->>>>>>> 7743cce5e80d15d387fcbc43ef5ff09f37156d98
