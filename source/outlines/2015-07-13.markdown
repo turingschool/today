@@ -129,7 +129,7 @@ Groups TBA
 
 This morning we'll introduce the [fundamental concepts of Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) in Classroom B.
 
-### All: File I/O (10:30 - 12:00)
+### All: File I/O (11:00 - 12:00)
 
 Then continue with [how to read and write files](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown) still in B.
 
