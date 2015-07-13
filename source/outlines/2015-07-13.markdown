@@ -17,24 +17,7 @@ SHENANIGANS SALTY YOUNGSTER ROUND DOUBLET TERABYTE ESSENCE
 
 Notice that the last letter in each word is the same as the first letter in the next word. In order to make this into a word snake, you simply snake it across the screen
 
-```
-SHENANIGANS
-          A
-          L
-          T
-          YOUNGSTER
-                  O
-                  U
-                  N
-            TELBUOD
-            E
-            R
-            A
-            B
-            Y
-            T
-            ESSENCE
-```
+![Snake](http://i.imgur.com/OXOqbP0.png)
 
 Your task today is to take an input word sequence and turn it into a word snake. Here are the rules for the snake:
 
