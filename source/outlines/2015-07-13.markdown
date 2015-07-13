@@ -29,10 +29,28 @@ Other than that, you're free to decide how the snake should "snake around". If y
 
 Ten points by posting your working solution in #warmup-answers with your full posse name before 9:00.
 
-### DSA (2:30 - 4:00)
+### Technical Interview Prep (2:30 - 4:00)
 
-DSA! DSA!
+Today we'll work through a problem to find the [largest rectangle under a histogram](https://github.com/turingschool/technical_puzzles/blob/master/largest_histogram_rec.markdown)
 
+We'll work in the following pairs:
+
+* Max Tedford, Tracy Caruso
+* Drew Reynolds, Kristina Brown
+* Erik Butcher, Kenny Chen
+* Brett Grigsby, Eric Dowty
+* Rob Cornell, Michelle Golle
+* Lev Kravinsky, David Daniel
+* Jamie Kawahara, Minnie Lee
+* Dave Maurer, Andrew Carmer
+* Vanessa Gomez, Margarett Ly
+* Sally MacNicholas, Kyle Henson
+* Morgan Miller, Fred Block
+* Jack Yeh, Patrick Medaugh
+* Whitney Hiemstra, Thomas Leskin
+* Justin Holmes, Lori Culberson
+* Josh Cass, Mihir Parikh
+* Andrew Fink, Tess Griffin, Rick Bacci,
 
 ## 1502
 
