@@ -127,13 +127,13 @@ Groups TBA
 
 ### All: Object-Oriented Programming (9:00 - 10:30)
 
-The most important of classes.  With Jeff in Classroom A.
+The most important of classes.  With Jeff in Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
 
 ### All: File I/O (10:30 - 12:00)
 
-Learn how to read and write files with Jeff, again in Classroom A.
+Learn how to read and write files with Jeff, again in Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown)
 
