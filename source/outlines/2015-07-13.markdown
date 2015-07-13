@@ -17,24 +17,7 @@ SHENANIGANS SALTY YOUNGSTER ROUND DOUBLET TERABYTE ESSENCE
 
 Notice that the last letter in each word is the same as the first letter in the next word. In order to make this into a word snake, you simply snake it across the screen
 
-```
-SHENANIGANS
-          A
-          L
-          T
-          YOUNGSTER
-                  O
-                  U
-                  N
-            TELBUOD
-            E
-            R
-            A
-            B
-            Y
-            T
-            ESSENCE
-```
+![Snake](http://i.imgur.com/OXOqbP0.png)
 
 Your task today is to take an input word sequence and turn it into a word snake. Here are the rules for the snake:
 
@@ -55,7 +38,7 @@ DSA! DSA!
 
 ### Arel and Advanced ActiveRecord (9:00 - 12:00)
 
-Join Horace, as he teaches you things about AR you never knew in the Workspace.
+Join Horace in the Workspace to discuss some [advanced ActiveRecord Techniques](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown).
 
 ### Optional: Testing JavaScript Revisited (1:00 - 2:30)
 
@@ -68,7 +51,7 @@ Up those scales.
 
 ## 1503
 
-## DOM Traversal, Manipulation, and Events with jQuery (9:00 - 12:00)
+### DOM Traversal, Manipulation, and Events with jQuery (9:00 - 12:00)
 
 Join Steve in Classroom A to talk about DOM manipulation and traversal using jQuery. We'll also talk a little bit about events.
 
@@ -89,15 +72,10 @@ We'll be referencing the following materials:
 * [Link List](http://jsbin.com/basolo/)
 * [Three Boxes](http://jsbin.com/hamelu/21/edit?html,css,js,output)
 * [Buttons and Buttons](http://jsbin.com/ceyaxe)
-
-## Project Check-Ins and Work Time (1:00 - 4:00)
-
-Schedule TBA
-
+`
 ### Project Work Time (1:00 - 2:30)
 
 Skip those Suppers.
-
 
 ## 1505
 
