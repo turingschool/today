@@ -38,7 +38,7 @@ DSA! DSA!
 
 ### Arel and Advanced ActiveRecord (9:00 - 12:00)
 
-Join Horace, as he teaches you things about AR you never knew in the Big Workspace
+Join Horace, as he teaches you things about AR you never knew in the Workspace.
 
 ### Optional: Testing JavaScript Revisited (1:00 - 2:30)
 
@@ -51,7 +51,7 @@ Up those scales.
 
 ## 1503
 
-## DOM Traversal, Manipulation, and Events with jQuery (9:00 - 12:00)
+### DOM Traversal, Manipulation, and Events with jQuery (9:00 - 12:00)
 
 Join Steve in Classroom A to talk about DOM manipulation and traversal using jQuery. We'll also talk a little bit about events.
 
@@ -73,7 +73,7 @@ We'll be referencing the following materials:
 * [Three Boxes](http://jsbin.com/hamelu/21/edit?html,css,js,output)
 * [Buttons and Buttons](http://jsbin.com/ceyaxe)
 
-## Project Check-Ins and Work Time (1:00 - 4:00)
+### Project Check-Ins and Work Time (1:00 - 4:00)
 
 Schedule TBA
 
@@ -108,30 +108,26 @@ Groups TBA
 
 ## 1507
 
-### All: Object-Oriented Programming (9:00 - 10:30)
+### All: Object-Oriented Programming (9:00 - 11:00)
 
-The most important of classes.  With Jeff in Classroom B.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+This morning we'll introduce the [fundamental concepts of Object-Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) in Classroom B.
 
 ### All: File I/O (10:30 - 12:00)
 
-Learn how to read and write files with Jeff, again in Classroom B.
+Then continue with [how to read and write files](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown) still in B.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown)
+### Echo: MergeSort Demos and Review (1:00 - 2:00)
 
-### Echo: MergeSort Demos and Review (1:00 - 2:30)
+Join Mike to look over your MergeSorts in Classroom A.
 
-Join Mike to look over your MergeSorts. In Classroom B.
+### Echo: How to Sudoku & Sudoku Work Time (2:00 - 4:00)
 
-### Echo: How to Sudoku (2:30 - 4:00)
-
-Join Mike as he learns you a Sudoku, again in Classroom B.
+Join Mike as he learns you a Sudoku in Classroom A. Follow [this project specification](https://github.com/turingschool/challenges/blob/master/robodoku.markdown).
 
 ### Foxtrot: Testing Primer (1:00 - 2:30)
 
-Start learning how to test with Jeff at the Classroom A.
+Start [learning how to test](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown) with Jeff in Classroom B.
 
 ### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
 
-Work on a tutorial on how to test in Classroom A.
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Mike will be available to answer any questions you have.
