@@ -70,9 +70,12 @@ Join Steve in Classroom A to talk about DOM manipulation and traversal using jQu
 We will be covering the following learning goals:
 
 * Use jQuery selectors to find content
+* Understand that jQuery collections allow you to manipulate multiple elements with a single method
 * Use jQuery's DOM traversal methods to move around the DOM
 * Add CSS styles using jQuery
 * Append new content to the DOM
+* Add event listeners to elements currently in the DOM
+* Understand that adding an event listener will not effect elements you add to the DOM in the future
 
 We'll be referencing the following materials:
 
@@ -80,6 +83,7 @@ We'll be referencing the following materials:
 * [The Presidents of the United States of America](http://output.jsbin.com/rejuya)
 * [Link List](http://jsbin.com/basolo/)
 * [Three Boxes](http://jsbin.com/hamelu/21/edit?html,css,js,output)
+* [Buttons and Buttons](http://jsbin.com/ceyaxe)
 
 ## Project Check-Ins and Work Time (1:00 - 4:00)
 
