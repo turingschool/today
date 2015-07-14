@@ -51,6 +51,8 @@ We'll cover the following learning goals:
 * You'll learn how the Asset Pipeline loads JavaScript and how it prepares it for production.
 * You'll learn exposing data from Rails in the DOM using `data` attributes.
 
+We'll be using the following resources:
+
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/javascript_in_rails.markdown)
 * [Book of Faces](https://github.com/turingschool-examples/book_of_faces), you met this project in Module 2, but let's take another look at it and implement live search.
 
