@@ -116,3 +116,4 @@ Survey time.
 * Option 1: Join Yong Bakos in the Big Workspace to get down with Swift. This is the final Swift session. 
 * Option 2: Join Jamie in Classroom B to learn how to create 3D scans and use the 3D printer.
 * Option 3: Join Dave D. in Classroom C to learn how to customize your terminal and editor with plugins. 
+* Option 4: Join Marla in Classroom A to learn about Agile development, iteration planning, and team roles. 
