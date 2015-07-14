@@ -139,8 +139,4 @@ Mike will be on hand for questions.
 
 ### Foxtrot: Chisel KickOff (2:30 - 4:00)
 
-<<<<<<< HEAD
 Kick off your first project, Chisel, with Jeff. Classroom A.
-=======
-Kick off your first project, Chisel, with Jeff.
->>>>>>> 7743cce5e80d15d387fcbc43ef5ff09f37156d98
