@@ -145,6 +145,22 @@ Learn how to Pair Program. Without code. With Mike. In Classroom A.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_pairing.markdown)
 
+You will be working in these pairs:
+
+* Nicole Hall & Matt Hecker
+* David Stinnette & Alon Waisman
+* Bret Doucette & Chris Cenatiempo
+* Ryan Asensio & Russell Harms
+* Alexander Naistadt & Travis Haby
+* Mary Beth Burch & Jeff Ruane
+* Rebekah Sosa & Adam Jensen
+* Michael Wong & Chad Minnerath
+* Mimi Schatz & Matt Ewell
+* Regis Boudinot & Justin Holzmann
+* Jerrod Paul Junker & Rachel Parri
+* George Hudson & Justin Pease
+* Rose Kohn & Tyler Komoroske
+
 ### Echo: Robodoku Work Time (2:30 - 4:00)
 
 Mike will be on hand for questions.
