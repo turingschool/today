@@ -11,18 +11,22 @@ Today, in 1971, Cory Doctorow was born.
 
 Survey time.
 
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1q1N_1DsboFRW_PIeUwB1lLGfp64LC8pkLY0LjN5OlDI/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1y841CY1BpaDxtcpQy0TGf1jZQqlNNM1ZtuNNJ8525D8/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/10RF2sBc6Q9CFeTP8vFMY0UOXeFlcLIiI3URJwOdhOCc/viewform)
+* [1507](https://docs.google.com/a/casimircreative.com/forms/d/1F5DBqbkZoUE21wl-A_VuboVrMERtpGJp7ogqCdh5eSw/viewform)
+
 ### Lightning Talks (9:00 - 10:00)
 
-
-Michelle Golle- "Susan Cain: A Quiet Revolution"
-David Daniel
-Andrew Fink
-Max Tedford
-Jamie Kawahara - "3D printing on the Lulzbot"
-Michael Dorrance
-Alex Tideman - "Bolide Detection Systems: How to not die in space"
-Jack Yeh - "How Ruby parses your code"
-Vanessa Gomez - "No excuse for bad typography on the web"
+* Michelle Golle- "Susan Cain: A Quiet Revolution"
+* David Daniel
+* Andrew Fink
+* Max Tedford
+* Jamie Kawahara - "3D printing on the Lulzbot"
+* Michael Dorrance
+* Alex Tideman - "Bolide Detection Systems: How to not die in space"
+* Jack Yeh - "How Ruby parses your code"
+* Vanessa Gomez - "No excuse for bad typography on the web"
 
 
 ### Gear Up (10:00 - 10:30)
