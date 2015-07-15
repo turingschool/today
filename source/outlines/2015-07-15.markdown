@@ -81,11 +81,7 @@ Join Jeff in Classroom A.
 
 ### Foxtrot: Chisel Check In and Work Time (10:30 - 12:00)
 
-<<<<<<< HEAD
 Stay in Classroom A.
-=======
-Work on this on your own.
->>>>>>> 5d01ad4cfabe22d2d8ab4ac54992a463a4902c6e
 
 ### All: Debugging Techniques (1:00 - 3:00)
 
