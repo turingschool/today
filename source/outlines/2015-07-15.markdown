@@ -72,28 +72,22 @@ Guess what you will be doing during this time?
 
 ## 1507
 
-### Echo: Robodoku Evaluations (9:00 - 10:30)
+### All: Understanding Call Stacks and Return Values (9:00 - 10:30)
 
-Schedule TBA.
+Join Jeff in Classroom A.
 
-### Foxtrot: String Riddles (9:00 - 10:30)
+### Foxtrot: Chisel Check In and Work Time (10:30 - 12:00)
 
-Work on this on your own. 
+Stay in Classroom A.
 
-[String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown)
+### All: Debugging Techniques (1:00 - 3:00)
 
-### Foxtrot: Fibber Recap and Chisel Work Time (10:30 - 12:00)
+Join Jeff in Classroom A.
 
-Recap Fibber and then get to work on your Chisels. Meet Mike in Classroom A.
+### All: Work Time (3:00 - 4:00)
 
-### All: Debugging Techniques (1:00 - 2:30)
+Work!
 
-Learn some debugging Techniques in Classroom A with Jeff.
+### All: Homework - Mythical Creatures
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/frames_call_stacks_and_exceptions.markdown)
-
-### All: Understanding Call Stacks and Return Values (2:30 - 4:00)
-
-Stay in Classroom A with Jeff.
-
-
+[Mythical Creatures v1.1](https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures)
