@@ -168,3 +168,5 @@ Mike will be on hand for questions.
 ### Foxtrot: Chisel KickOff (2:30 - 4:00)
 
 Kick off your first project, Chisel, with Jeff. Classroom A.
+
+[Here's the project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown). It'd due at 9AM on Monday, July 19.

@@ -39,6 +39,9 @@ If you are not attending, the food is not for you.
 
 Join Steve as you talk about IdeaBox and look at how you can refactor it. Classroom B.
 
+* [Idea Box Submissions](https://etherpad.mozilla.org/ideabox-submissions)
+* [Idea Box Recap Requests](https://etherpad.mozilla.org/ideabox-recap)
+
 ### Project Work Time (10:30 - 12:00)
 
 Work on Upping your Scales.
@@ -55,7 +58,7 @@ Continue on your projects.
 All day, erry day. Well not EVERY day, but you get the point.
 
 
-## 1505 
+## 1505
 
 ### Traffic Spy Q and A (9:00 - 10:00)
 
@@ -78,7 +81,11 @@ Join Jeff in Classroom A.
 
 ### Foxtrot: Chisel Check In and Work Time (10:30 - 12:00)
 
+<<<<<<< HEAD
 Stay in Classroom A.
+=======
+Work on this on your own.
+>>>>>>> 5d01ad4cfabe22d2d8ab4ac54992a463a4902c6e
 
 ### All: Debugging Techniques (1:00 - 3:00)
 
