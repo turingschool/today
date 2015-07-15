@@ -79,13 +79,15 @@ Guess what you will be doing during this time?
 
 Join Jeff in Classroom A.
 
-### Foxtrot: Chisel Check In and Work Time (10:30 - 12:00)
+### All: Work Time (10:30 - 12:00)
 
-Stay in Classroom A.
+Work where you like for the rest of the morning.
 
 ### All: Debugging Techniques (1:00 - 3:00)
 
-Join Jeff in Classroom A.
+Learn how to debug your code in the Big Workspace with Mike.
+
+[Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AAAo-8ysv-maOfuhg-HsdJcJa/R1%20Object%20Oriented%20Programming%20in%20Ruby/debugging_techniques.key?dl=0)
 
 ### All: Work Time (3:00 - 4:00)
 
