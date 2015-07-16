@@ -141,12 +141,9 @@ you can work where/how you please on Creatures or Chisel.
 
 ### Chisel Chat (2:30 - 4:00)
 
-Join Mike in Classroom B where he'll check-in on the group's Chisel progress,
+Join Mike in Classroom C where he'll check-in on the group's Chisel progress,
 answer questions, and give some ideas to help accelerate your progress.
 
-### (Optional) Diagnostic Recap (4:15 - 4:45)
-
-Right after wrapup you can join Mike in Classroom A to go over the diagnostic.
 
 ## 1507 - Echo
 
@@ -188,6 +185,3 @@ Join Jeff in Classroom A to build some linked lists in the physical world.
 
 Stay in Classroom A for us to kick off your Binary Search Trees project.
 
-### (Optional) Diagnostic Recap (4:15 - 4:45)
-
-Right after wrapup you can join Mike in Classroom A to go over the diagnostic.
