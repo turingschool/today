@@ -176,7 +176,7 @@ Join Jeff in Classroom A to build some linked lists in the physical world.
 
 ### Binary Search Trees (3:30 - 4:00)
 
-Stay in Classroom A for us to kick off your Binary Search Trees project.
+Stay in Classroom A for us to kick off your [Binary Search Tree  project](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
 
 ### (Optional) Diagnostic Recap (4:15 - 4:45)
 
