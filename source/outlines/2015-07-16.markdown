@@ -56,6 +56,8 @@ Meeting at a place.
 
 ### Object-Oriented JavaScript with Canvas (1:00 - 4:00)
 
+Classroom B.
+
 We'll be working through [these exercises](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/object-oriented-javascript/03-canvas-and-object-oriented-javascript.md).
 
 You'll be working in the following pairs:
@@ -87,20 +89,31 @@ Final touches time. If you aren't on production at this point, you might have a 
 
 ### Supper Skip Evaluations (1:00 - 3:00)
 
-Schedule TBA.
+__With Horace:__
 
-### Demo Prep (3:00 - 4:00)
+* (1:00 - 2:00) - Chelsea Worrel, Morgan Miller, Sally MacNicholas
+* (2:00 - 3:00) - Brett Grigsby, Rick Bacci, David Maurer
+* (3:00 - 4:00) - Jack Yeh, Vanessa Gomez, Margarett Ly
 
-Prep your projects.
+__With Jorge:__
 
-Alliteration is Awesome.
-
+* (1:00 - 2:00) - Andrew Fink, Justin Holmes, Whitney Heimstra
+* (2:00 - 3:00) - Drew Reynolds, Erik Butcher, Rob Cornell, Josh Cass
+* (3:00 - 4:00) - Max Tedford, Jamie Kawahara, Lev Kravinsky
 
 ## 1505
 
 ### Traffic Spy Check-Ins (9:00 - 12:00)
 
-Schedule TBA.
+#### With Rachel
+
+* 9:00 - 9:45: Marla, Lovisa, Mike
+* 9:50 - 10:35: Mitch, David, Jason
+
+#### With Josh
+
+* 9:00 - 9:45: Adam, Alex, Michael, Samson
+* 9:50 - 10:35: Sebastian, Drew, Max, Jai
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -109,53 +122,71 @@ Push forward on your projects.
 
 ## 1507
 
-### Echo: Robodoku Evaluations (9:00 - 10:00)
+We have a lot of pieces in motion today, so let's look at the schedule by group
+rather than by time:
 
-With Jeff
+## 1507 - Foxtrot
 
-* 9:00 - Russel Harms
-* 9:10 - Matt Hecker
-* 9:20 - Alon Waisman
-* 9:30 - Jerrod Paul Junker
-* 9:40 - Justin Holzmann
+### Mythical Creatures Chat (9:00 - 10:30)
 
-With Mike
+Join Mike in Classroom A where he'll review some solutions and answer your
+questions about the Mythical Creatures assignment.
 
-* 9:00 - George Hudson
-* 9:10 - Matt Ewell
-* 9:20 - Michael Wong
-* 9:30 - Chris Cenatiempo
-* 9:40 - Ryan Asensio
+### Mythical Creatures Work Time (10:30 - 12:00)
 
-### All: Week 2 Diagnostic (9:00 - 10:00)
+With those new understandings, dive back into the exercises and work on them
+until lunch. Please try to push your Chisel aside -- the practice you do and
+understandings you build with the Creatures will make your Chisel work go much
+faster.
 
-Classroom A. Work on this while you are not being assessed.
+### Diagnostic & Work Time (1:00 - 2:30)
 
-### All: Diagnostic Recap (10:00 - 10:30)
+Start in Classroom A to complete your Week 2 diagnostic. Once you're done then
+you can work where/how you please on Creatures or Chisel.
 
-Recap.
+### Chisel Chat (2:30 - 4:00)
 
-### Echo: Binary Search Trees (10:30 - 12:00)
-
-Stay in Classroom A as Jeff teaches you about Binary Search Trees.
-
-### Foxtrot: Chisel Work Time (10:30 - 12:00)
-
-Disperse, but Mike will be available to answer your questions.
-
-### Echo: Linked Lists (1:00 - 4:00)
-
-Join Jeff in Classroom A.
-
-### Foxtrot: Testing BubbleSort (1:00 - 2:30)
-
-Join Mike in Classroom C.
-
-### Foxtrot: Revisiting Arrays, Hashes, and Enumerables (2:30 - 4:00)
-
-Stay in Classroom C with Mike.
-
-### Foxtrot: Homework - Mythical Creatures
+Join Mike in Classroom C where he'll check-in on the group's Chisel progress,
+answer questions, and give some ideas to help accelerate your progress.
 
 
+## 1507 - Echo
+
+* Finishing Time 9-12
+
+### Evals, Diagnostics, and Linked-List Self-Study (1:00-2:30)
+
+During this session you have three things to accomplish:
+
+1. Participate in your evaluation for Robodoku following the schedule below.
+2. Complete your Week 2 diagnostic which will be available in Classroom A
+3. Learn about Linked Lists by reading/watching some of these:
+[Wikipedia](https://en.wikipedia.org/wiki/Linked_list),
+[Stanford](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf),
+[YouTube](https://www.youtube.com/watch?v=pBrz9HmjFOs). We'll answer questions
+together at 2:30.
+
+*With Jeff*
+
+* 1:00 - Russel Harms
+* 1:10 - Matt Hecker
+* 1:20 - Alon Waisman
+* 1:30 - Jerrod Paul Junker
+* 1:40 - Justin Holzmann
+
+*With Mike*
+
+* 1:00 - George Hudson
+* 1:10 - Matt Ewell
+* 1:20 - Michael Wong
+* 1:30 - Chris Cenatiempo
+* 1:40 - Ryan Asensio
+
+### Building Linked Lists (2:30 - 3:30)
+
+Join Jeff in Classroom A to build some linked lists in the physical world.
+
+### Binary Search Trees (3:30 - 4:00)
+
+Stay in Classroom A for us to kick off your Binary Search Trees project.
 
