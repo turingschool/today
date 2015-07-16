@@ -39,7 +39,7 @@ Meeting at a place.
 
 #### With Horace
 
-* 9:00:  Patrick Medaugh
+* 9:00:  Kristina Brown
 * 9:30:  Kyle Henson
 * 10:00: Thomas Leskin
 * 10:30: Minnie Lee
@@ -48,7 +48,7 @@ Meeting at a place.
 #### With Steve
 
 * 9:00:  Fred Block
-* 9:30:  Kristina Brown
+* 9:30:  Patrick Medaugh
 * 10:00: Andrew Carmer
 * 10:30: Kenny Chen
 * 11:00: Eric Dowty
@@ -68,7 +68,12 @@ You'll be working in the following pairs:
 * Lori Culberson & Thomas Leskin
 * Kyle Henson & Fred Block
 
-See also:
+#### Canvas Resources
+
+* [MDN Canvas API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+* [31 Days of Canvas Tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
+
+#### Additional Resources
 
 * [A First Experiment with Arduino, Nodebots, and Johnny-Five](http://stevekinney.tumblr.com/post/106928533427/a-first-experiment-with-arduino-nodebots-and)
 * [p5.js](http://p5js.org)
