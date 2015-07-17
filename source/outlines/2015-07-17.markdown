@@ -19,14 +19,10 @@ Survey time.
 ### Lightning Talks (9:00 - 10:00)
 
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
-* David Daniel
-* Andrew Fink
-* Max Tedford
-* Jamie Kawahara - "3D printing on the Lulzbot"
-* Michael Dorrance
-* Alex Tideman - "Bolide Detection Systems: How to not die in space"
-* Jack Yeh - "How Ruby parses your code"
-* Vanessa Gomez - "No excuse for bad typography on the web"
+* Andrew Fink - Bioinformatics - "from the DNA code to code code"
+* Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
+* Drew Conly - "With a grain of salt"
+* Andrew Carmer - "Ruby on Robots"
 
 ### Gear Up (10:00 - 10:30)
 
@@ -91,14 +87,12 @@ on your own. Please don't work on your projects :)
 * (1:36 - 1:46) - Drew Reynolds
 * (1:48 - 1:58) - Rick Bacci
 
-#### With Raissa
-
-* (1:00 - 1:10) - Jai Misra
 
 #### With Daisha
 
 * (1:00 - 1:10) - Bret Doucette
 * (1:12 - 1:22) - Lovisa Svallingson
+* (1:24 - 1:34) - Jai Misra
 
 #### With Steve
 
