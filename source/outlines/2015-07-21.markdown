@@ -19,6 +19,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 Five points for posting your working solution in #warmup-answers by 9:00am.
 
+
 ## 1502
 
 ### Handling Events (9:00 - 10:30)
@@ -30,6 +31,8 @@ Learn about event delegation, event bubbling, firing events and binding to event
 Your favorite topic, with your favorite instructor.
 
 ### Project Work Time (1:00 - 4:00)
+
+Work away at your projects.
 
 
 ## 1503
@@ -46,4 +49,12 @@ Schedule TBA.
 
 
 ## 1505
+
+### Migrations, Databases, Relationship and Models (9:00 - 12:00)
+
+Join Rachel in Classroom C to learn about the things.
+
+### Rails Basics Work Time (12:00 - 4:00)
+
+Work away at Rails Basics.
 

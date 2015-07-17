@@ -3,3 +3,59 @@ title: 20150722
 layout: outline
 ---
 
+## All
+
+### Warm Up (8:30 - 9:00)
+
+A garland word is one that starts and ends with the same N letters in the same order, 
+for some N greater than 0, but less than the length of the word. I'll call the maximum N for 
+which this works the garland word's degree. For instance, "onion" is a garland word of degree 
+2, because its first 2 letters "on" are the same as its last 2 letters. The name "garland 
+word" comes from the fact that you can make chains of the word in this manner:
+
+`onionionionionionionionionionion...`
+
+Today's challenge is to write a function garland that, given a lowercase word, returns the 
+degree of the word if it's a garland word, and 0 otherwise.
+
+
+garland("programmer") => 0
+
+garland("ceramic") => 1
+
+garland("onion") => 2
+
+garland("alfalfa") => 4
+
+
+## 1502
+
+### Extending JQuery (9:00 - 10:30)
+
+### DOM Manipulation (10:30 - 12:00)
+
+### Project Work Time and Check-Ins (1:00 - 4:00)
+
+
+## 1503
+
+### Testing an External API (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1505
+
+### Form and Route Helpers in Rails (9:00 - 12:00)
+
+Join Rachel in Classroom C.
+
+### Blogger Tutorial Kickoff and Work Time (1:00 - 4:00)
+
+Join Josh in Classroom C.
+
+
+## 1507 
+
+Stand by for details.
+

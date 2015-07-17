@@ -45,7 +45,16 @@ Groups TBA.
 
 ### Traffic Spy Evaluations (9:00 - 12:00)
 
-Schedule TBA.
+*With Rachel*
+
+* 9:00 - 9:45: Marla, Lovisa, Mike
+* 9:50 - 10:35: Mitch, David, Jason
+
+*With Josh*
+
+* 9:00 - 9:45: Adam, Alex, Michael, Samson
+* 9:50 - 10:35: Sebastian, Drew, Max, Jai
+
 
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
@@ -53,6 +62,8 @@ Join Rachel as she teaches you all of Rails.
 
 
 ## 1507
+
+Stand by for details.
 
 
 
