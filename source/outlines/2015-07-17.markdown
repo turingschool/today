@@ -22,7 +22,6 @@ Survey time.
 * Andrew Fink - Bioinformatics - "from the DNA code to code code"
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
 * Drew Conly - "With a grain of salt"
-* Jack Yeh - "How Ruby parses your code"
 * Andrew Carmer - "Ruby on Robots"
 
 ### Gear Up (10:00 - 10:30)
