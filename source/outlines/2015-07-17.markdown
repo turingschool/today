@@ -19,18 +19,15 @@ Survey time.
 ### Lightning Talks (9:00 - 10:00)
 
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
-* David Daniel
-* Andrew Fink
-* Max Tedford
-* Jamie Kawahara - "3D printing on the Lulzbot"
-* Michael Dorrance
-* Alex Tideman - "Bolide Detection Systems: How to not die in space"
+* Andrew Fink - Bioinformatics - "from the DNA code to code code"
+* Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
+* Drew Conly - "With a grain of salt"
 * Jack Yeh - "How Ruby parses your code"
-* Vanessa Gomez - "No excuse for bad typography on the web"
-
+* Andrew Carmer - "Ruby on Robots"
 
 ### Gear Up (10:00 - 10:30)
 
+More details forthcoming.
 
 ### Group Retro (10:30 - 11:15)
 
@@ -44,7 +41,10 @@ Survey time.
 * [GitHub](https://github.com/nateberkopec)
 * [Twitter](https://twitter.com/nateberkopec)
 
-### One On Ones And Student Lead Sessions - (1:00 - 2:00)
+### One On Ones And Self Study - (1:00 - 2:00)
+
+When you're not in 1-on-1s this afternoon you've got time to explore programming
+on your own. Please don't work on your projects :)
 
 #### With Jeff
 
@@ -95,7 +95,7 @@ Survey time.
 
 #### With Steve
 
-* (1:00 - 1:10) - Alon Waisman 
+* (1:00 - 1:10) - Alon Waisman
 * (1:12 - 1:22) - David Daniel
 * (1:24 - 1:34) - Eric Dowty
 * (1:36 - 1:46) - Kenny Chen
@@ -109,9 +109,9 @@ Survey time.
 * (1:24 - 1:34) - Andrew Carmer
 
 
-### Electives - 1505, 1503, 1502 (2:00 - 4:00)
+### Electives - (2:00 - 4:00)
 
-* Option 1: Join Yong Bakos in the Big Workspace to get down with Swift. This is the final Swift session. 
+* Option 1: Join Yong Bakos in the Big Workspace to get down with Swift. This is the final Swift session.
 * Option 2: Join Jamie in Classroom B to learn how to create 3D scans and use the 3D printer.
-* Option 3: Join Dave D. in Classroom C to learn how to customize your terminal and editor with plugins. 
-* Option 4: Join Marla in Classroom A to learn about Agile development, iteration planning, and team roles. 
+* Option 3: Join Dave D. in Classroom C to learn how to customize your terminal and editor with plugins.
+* Option 4: Join Marla in Classroom A to learn about Agile development, iteration planning, and team roles.
