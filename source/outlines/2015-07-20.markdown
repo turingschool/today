@@ -37,6 +37,8 @@ You'll be working in the following pairs (and one triplet):
 
 Stick around with Steve in Classroom A to talk about setting up a client-side application.
 
+Follow along with [this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown).
+
 We'll cover the following topics:
 
 * How requiring files works in Node.js (e.g. `exports` and `module.exports`)
@@ -50,6 +52,7 @@ We'll cover the following topics:
 Below are some resources that we'll be referencing during the lesson.
 
 * [Webpack][]
+* [Steve's Game Time Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
 * [package.json: an interactive guide][package]
 
 [package]: http://browsenpm.org/package.json
