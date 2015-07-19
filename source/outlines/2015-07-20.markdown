@@ -17,12 +17,54 @@ Five points by pasting your working solution into #warmup-answers by 9:00am.
 
 ## 1502
 
-### JavaScript Build Tools (9:00 - 10:30)
+### Game Time Kickoff (9:00 - 9:30)
+
+Join Steve in Classroom A to talk about your next project: [Game Time][].
+
+You'll be working in the following pairs (and one triplet):
+
+* Minnie Lee & Patrick Medaugh
+* Thomas Leskin & Michelle Golle
+* Tess Griffin & Eric Dowty
+* David Daniel & Tracy Caruso
+* Kyle Henson & Mihir Parikh
+* Lori Culberson & Fred Block
+* Andrew Carmer & Kristina Brown & Kenny Chen
+
+[Game Time]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
+
+### JavaScript Build Tools (9:30 - 10:45)
+
+Stick around with Steve in Classroom A to talk about setting up a client-side application.
+
+We'll cover the following topics:
+
+* How requiring files works in Node.js (e.g. `exports` and `module.exports`)
+* npm and the `package.json` file
+* Custom npm build script
+* Creating your own asset pipeline with [Webpack][]
+* Hooking up a test suite
+
+[Webpack](http://webpack.github.io)
+
+Below are some resources that we'll be referencing during the lesson.
+
+* [Webpack][]
+* [package.json: an interactive guide][package]
+
+[package]: http://browsenpm.org/package.json
 
 ### Structuring a Client-Side Application (10:30 - 12:00)
 
+Steve's golden rules for building a client-side application:
+
+* Build all of your data structures are far away from the DOM as you possibly can
+* Allow your data structures to render themselves onto the page
+* Events are your friend
+
 ### Project Work Time (1:00 - 2:30)
 
+It's game time. (*Nota bene*: Steve is out this afternoon.)
 
 ## 1503
 
