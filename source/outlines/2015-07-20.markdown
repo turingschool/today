@@ -228,4 +228,6 @@ Classroom A with Mike.
 
 #### Some Light Reading for your Evening
 
-* [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+* [Unit Testing](https://en.wikibooks.org/wiki/Ruby_Programming/Unit_testing)
+* [Read the Documentation for SimpleCov](https://github.com/colszowka/simplecov)
+* [TDD: Write Better Code In Less Time](https://www.youtube.com/watch?v=HhwElTL-mdI)
