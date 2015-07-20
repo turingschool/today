@@ -245,7 +245,7 @@ You *should* follow the `Robot` and `RobotSimulator` description as well as the
 Join Mike at the Classroom A Conference Table to review a few of your solutions
 and discuss strengths/weaknesses.
 
-### Enigma Kickoff (1:00 - 1:20)
+### Enigma Kickoff (1:00 - 1:12)
 
 Join Jeff at the Classroom A Conference Table to kickoff
 [your Enigma project](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/enigma.markdown).
