@@ -88,7 +88,7 @@ Here are the materials for this lesson:
 * [Slides](https://www.dropbox.com/s/byn8y2rqkp9nhy8/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
 * [Video will be posted after the session]
 
-Additional materials
+Learn more:
 
 * [OAuth](http://oauth.net)
 * [omniauth](https://github.com/intridea/omniauth)
@@ -99,9 +99,20 @@ Meet Jorge in Classroom B.
 
 ### JSON Fundamentals (11:00 - 12:00)
 
-Classroom B.
+Learn about the JavaScript Object Notation (JSON) data structure and why is the preferred way for transferring data between services in modern web apps.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+Here are the materials for this lesson:
+
+* [Slides](https://www.dropbox.com/s/ztczxt4ojtrjnec/Turing%20-%20JSON%20Fundamentals.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+
+Learn more:
+
+* [JSON](http://json.org)
+* [Introduction to JSON](https://en.wikipedia.org/wiki/JSON)
+* [JSONView Plugin for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+
+Stay with Jorge in Classroom B.
 
 ### Feed Engine Kick Off (1:00 - 2:30)
 
