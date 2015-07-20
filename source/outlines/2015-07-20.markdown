@@ -141,6 +141,16 @@ The countdown begins.
 
 Meet in the Big Workspace with Josh and Rachel. 
 
+##### Individual Feedback
+
+* Fill out [this feedback form](https://docs.google.com/a/casimircreative.com/forms/d/1kbpQV0V1yEYXUi3CpmucWdMR4xuQOkw0E3ucJ7lfgKg/viewform?c=0&w=1) for each member of your group.
+
+##### Group Reflection
+
+* Get together with your Traffic Spy team. One person will create a new [gist](http://gist.github.com) for taking notes.
+* Discuss the [reflection questions](https://gist.github.com/jmejia/5d5a8611df6a664fa457#file-1505-traffic-spy-discussion-markdown).
+* Submit your notes as a comment to the [reflection questions](https://gist.github.com/jmejia/5d5a8611df6a664fa457#file-1505-traffic-spy-discussion-markdown) gist.
+
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
 Join Rachel as she teaches you all of Rails. In Classroom C.
