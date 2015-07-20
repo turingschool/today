@@ -139,58 +139,25 @@ Groups TBA.
 Join Rachel as she teaches you all of Rails. In Classroom C.
 
 
-## 1507
+## 1507 - Foxtrot
 
-### Echo: Binary Search Tree Evaluations (9:00 - 11:00)
+### Chisel Final Touches (9:00 - 11:00)
 
-*With Jeff*
+Put the final touches on your Chisel but *don't break it!!*
 
-* 9:00 - Matt Hecker
-* 9:10 - Russell Harms
-* 9:20 - Alon Waisman
-* 9:30 - Matt Ewell
+Make sure that you **commit to git** at or before 11AM with your final code.
 
-*With Mike*
+### Intro to Linked Lists (11:00 - 12:00)
 
-* 9:00 - George Hudson
-* 9:00 - Jerrod Paul Junker
-* 9:20 - Justin Holzmann
-* 9:30 - Ryan Asensio
+Ok, Chisel is over! Join Jeff in Classroom C to start into your next big thing.
 
-During the time you are not being evaluated, you will be...
+### Work Time & Chisel Evaluations (1:00 - 3:30)
 
-### Echo: Robots, Robots, Robots (9:00 - 11:00)
+When you're not evaluating your Chisel project you can *work on Linked Lists*.
+Your Chisel code will be evaluated using your last commit before 11AM, nothing
+afterwards.
 
-You'll be code retreaing with [Robots](https://github.com/turingschool/code_retreat/tree/master/robot)
-
-Work in the following pairs:
-
-* Matt Hecker & George Hudson
-* Russell Harms & Jerrod Paul Junker
-* Alon Waisman & Justin Holzmann
-* Matt Ewell & Ryan Asensio
-
-Work for 30 minutes with Constraint A. Stop, delete all of your code, and then start over with Constraint B. And so on.
-
-### Echo: Robots in Review: (11:30 - 12:00)
-
-Review Robots with Mike. Classroom A Conference Table.
-
-### Foxtrot: Chisel Final Touches (9:00 - 11:00)
-
-Put the final touches on your Chisel.
-
-### Foxtrot: Intro to Linked Lists (11:00 - 12:00)
-
-Classroom C with Jeff.
-
-### All: Starting Enigma and Linked Lists (1:00 - 3:30)
-
-Work on Enigma and Linked Lists, respectively.
-
-### Chisel Evaluations (1:00 - 3:30)
-
-*With Jeff*
+#### With Jeff
 
 * 1:00 - Nicole Hall
 * 1:10 - Bret Doucette
@@ -202,8 +169,7 @@ Work on Enigma and Linked Lists, respectively.
 * 2:10 - Justin Pease
 * 2:20 - Regis Boudinot
 
-
-*With Mike*
+#### With Mike
 
 * 1:00 - Mimi Schatz
 * 1:10 - Rose Kohn
@@ -216,20 +182,74 @@ Work on Enigma and Linked Lists, respectively.
 * 2:20 - Rebekah Sosa
 * 2:30 - Travis Haby
 
-### Echo: Enigma Q & A (3:30 - 4:00)
-
-Classroom A Conference Table with Jeff.
-
 ### Foxtrot: Chisel Postmortem (3:30 - 4:00)
 
-Classroom A with Mike.
+Classroom A with Jeff.
 
-### All: Homework 
+### Homework
 
-#### Some Light Reading and Watching for your Evening
+In addition to starting into your project, read/watch these two resources:
 
 * [Unit Testing](https://en.wikibooks.org/wiki/Ruby_Programming/Unit_testing)
 * [Read the Documentation for SimpleCov](https://github.com/colszowka/simplecov)
 * [TDD: Write Better Code In Less Time](https://www.youtube.com/watch?v=HhwElTL-mdI)
 * [Integration Testing vs Acceptance Testing](http://stackoverflow.com/questions/4019646/integration-vs-acceptance-test-what-is-cucumber-steak)
 
+
+## 1507 - Echo
+
+### Binary Search Tree Evaluations (9:00 - 11:00)
+
+#### With Jeff
+
+* 9:00 - Matt Hecker
+* 9:10 - Russell Harms
+* 9:20 - Alon Waisman
+* 9:30 - Matt Ewell
+
+#### With Mike
+
+* 9:00 - George Hudson
+* 9:00 - Jerrod Paul Junker
+* 9:20 - Justin Holzmann
+* 9:30 - Ryan Asensio
+
+### Throwdown: Robots, Robots, Robots (9:00 - 11:00)
+
+During the time you are not being evaluated, let's try our first Throwdown.
+
+You have less than 100 minutes to build a (simplistic) robot simulator:
+
+[Robots](https://github.com/turingschool/code_retreat/tree/master/robot)
+
+We're *not* doing this as a code retreat exercise, so ignore bits about pairing.
+
+You *should* follow the `Robot` and `RobotSimulator` description as well as the
+`robot_test.rb`.
+
+*If* you get done before 11AM, try implementing the *G. Functional Planes* constraint.
+
+### Robots in Review: (11:30 - 12:00)
+
+Join Mike at the Classroom A Conference Table to review a few of your solutions
+and discuss strengths/weaknesses.
+
+### Enigma Kickoff (1:00 - 1:20)
+
+Join Jeff at the Classroom A Conference Table to kickoff your Enigma project.
+
+### Enigma Work Time (1:20 - 3:30)
+
+Dig into Enigma. Remember your lessons learned from BSTs!
+
+### Enigma Q&A (3:30 - 4:00)
+
+For the last chunk of the day let's get all together at the Classroom A Conference
+Table and talk about findings, strategy, and questions with Mike.
+
+### Homework
+
+In addition to starting into your project, read/watch these two resources:
+
+* [Read the Documentation for SimpleCov](https://github.com/colszowka/simplecov)
+* [Integration Testing vs Acceptance Testing](http://stackoverflow.com/questions/4019646/integration-vs-acceptance-test-what-is-cucumber-steak)
