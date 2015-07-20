@@ -170,6 +170,7 @@ afterwards.
 
 #### With Jeff
 
+* 1:15 - Bret Doucette
 * 1:30 - Mary Beth Burch
 * 1:45 - Tyler Komoroske
 * 2:00 - Alexander Naistadt
@@ -178,7 +179,6 @@ afterwards.
 * 2:45 - Rachel Parri
 * 3:00 - Jeff Ruane
 * 3:15 - Nicole Hall
-* 3:30 - Bret Doucette
 
 #### With Mike
 
@@ -202,9 +202,7 @@ Classroom A with Jeff.
 In addition to starting into your project, read/watch these two resources:
 
 * [Unit Testing](https://en.wikibooks.org/wiki/Ruby_Programming/Unit_testing)
-* [Read the Documentation for SimpleCov](https://github.com/colszowka/simplecov)
 * [TDD: Write Better Code In Less Time](https://www.youtube.com/watch?v=HhwElTL-mdI)
-* [Integration Testing vs Acceptance Testing](http://stackoverflow.com/questions/4019646/integration-vs-acceptance-test-what-is-cucumber-steak)
 
 ## 1507 - Echo
 
