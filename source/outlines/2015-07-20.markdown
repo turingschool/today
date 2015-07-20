@@ -145,44 +145,55 @@ Join Rachel as she teaches you all of Rails. In Classroom C.
 
 Put the final touches on your Chisel but *don't break it!!*
 
-Make sure that you **commit to git** at or before 11AM with your final code.
+Make sure that you **commit to git** at or before 11AM with your final code. When
+your code is up then you need to add the URL for your repo to your *GitHub URL*
+line [in this submission file](https://github.com/turingschool/ruby-submissions/blob/master/1507/03-chisel.markdown).
 
 ### Intro to Linked Lists (11:00 - 12:00)
 
 Ok, Chisel is over! Join Jeff in Classroom C to start into your next big thing.
 
+We'll go start from the basics together. But if you'd like to read more before or
+after the session check out the following:
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Stanford](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
+* [YouTube](https://www.youtube.com/watch?v=pBrz9HmjFOs)
+
+[Here's the Linked List project assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+
 ### Work Time & Chisel Evaluations (1:00 - 3:30)
 
-When you're not evaluating your Chisel project you can *work on Linked Lists*.
+When you're not evaluating your Chisel project you can *work on your Linked Lists*.
 Your Chisel code will be evaluated using your last commit before 11AM, nothing
 afterwards.
 
 #### With Jeff
 
 * 1:00 - Nicole Hall
-* 1:10 - Bret Doucette
-* 1:20 - Mary Beth Burch
-* 1:30 - Tyler Komoroske
-* 1:40 - Rachel Parri
-* 1:50 - Jeff Ruane
+* 1:15 - Bret Doucette
+* 1:30 - Mary Beth Burch
+* 1:45 - Tyler Komoroske
 * 2:00 - Alexander Naistadt
-* 2:10 - Justin Pease
-* 2:20 - Regis Boudinot
+* 2:15 - Justin Pease
+* 2:30 - Regis Boudinot
+* 2:45 - Rachel Parri
+* 3:00 - Jeff Ruane
 
 #### With Mike
 
 * 1:00 - Mimi Schatz
-* 1:10 - Rose Kohn
-* 1:20 - Jeff Ruane
-* 1:30 - Chad Minnerath
-* 1:40 - David Stinette
-* 1:50 - Adam Jensen
-* 2:00 - Christ Cenatiempo
-* 2:10 - Michael Wong
-* 2:20 - Rebekah Sosa
-* 2:30 - Travis Haby
+* 1:15 - Rose Kohn
+* 1:30 - Jeff Ruane
+* 1:45 - Chad Minnerath
+* 2:00 - David Stinette
+* 2:15 - Adam Jensen
+* 2:30 - Christ Cenatiempo
+* 2:45 - Michael Wong
+* 3:00 - Rebekah Sosa
+* 3:15 - Travis Haby
 
-### Foxtrot: Chisel Postmortem (3:30 - 4:00)
+### Chisel Postmortem (3:30 - 4:00)
 
 Classroom A with Jeff.
 
