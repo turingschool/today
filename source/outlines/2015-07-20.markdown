@@ -226,8 +226,10 @@ Classroom A with Mike.
 
 ### All: Homework 
 
-#### Some Light Reading for your Evening
+#### Some Light Reading and Watching for your Evening
 
 * [Unit Testing](https://en.wikibooks.org/wiki/Ruby_Programming/Unit_testing)
 * [Read the Documentation for SimpleCov](https://github.com/colszowka/simplecov)
 * [TDD: Write Better Code In Less Time](https://www.youtube.com/watch?v=HhwElTL-mdI)
+* [Integration Testing vs Acceptance Testing](http://stackoverflow.com/questions/4019646/integration-vs-acceptance-test-what-is-cucumber-steak)
+
