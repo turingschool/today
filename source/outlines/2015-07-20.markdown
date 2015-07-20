@@ -193,4 +193,8 @@ Classroom A Conference Table with Jeff.
 
 Classroom A with Mike.
 
+### All: Homework 
 
+#### Some Light Reading for your Evening
+
+* [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
