@@ -10,9 +10,12 @@ layout: outline
 The sum of the squares of the first ten natural numbers is,
 
 1^2 + 2^2 + ... + 10^2 = 385
+
+
 The square of the sum of the first ten natural numbers is,
 
 (1 + 2 + ... + 10)^2 = 55^2 = 3025
+
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
@@ -24,11 +27,11 @@ Five points for posting your working solution in #warmup-answers by 9:00am.
 
 ### Handling Events (9:00 - 10:30)
 
-Learn about event delegation, event bubbling, firing events and binding to events.
+Learn about event delegation, event bubbling, firing events and binding to events in the Classroom A.
 
 ### Testing JavaScript (10:30 - 12:00)
 
-Your favorite topic, with your favorite instructor.
+Your favorite topic, with your favorite instructor, in your favorite Classroom A.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -57,4 +60,27 @@ Join Rachel in Classroom C to learn about the things.
 ### Rails Basics Work Time (12:00 - 4:00)
 
 Work away at Rails Basics.
+
+
+## 1507
+
+### All: Dynamics (9:00 - 9:30)
+
+The Big Workspace with Jeff.
+
+### All: Character Count (9:30 - 11:00)
+
+The Big Workspace with Mike.
+
+### All: Testing Strategies (1:00 - 2:30)
+
+Classroom A with Mike.
+
+### All: Work Time (2:30 - 4:00)
+
+Work away.
+
+### Echo: Enigma Client Meeting (3:30 - 4:00)
+
+Meet with Jeff in Classroom A.
 
