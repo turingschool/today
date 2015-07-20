@@ -73,15 +73,46 @@ It's game time. (*Nota bene*: Steve is out this afternoon.)
 
 ### Getting Started with OAuth (9:00 - 11:00)
 
-Hello. Is it Jorge you're looking for? Classroom B.
+Learn how to authenticate with a third-party service using OAuth and Omniauth.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
+For this class, clone the following repo:
+
+```
+git clone https://github.com/turingschool-examples/secretic.git oauth
+```
+
+Here are the materials for this lesson:
+
+* [Repo](https://github.com/turingschool-examples/secretic.git)
+* [Notes](https://www.dropbox.com/s/4nytlnvraszd761/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/byn8y2rqkp9nhy8/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
+* [Video will be posted after the session]
+
+Learn more:
+
+* [OAuth](http://oauth.net)
+* [omniauth](https://github.com/intridea/omniauth)
+* [figaro](https://github.com/laserlemon/figaro)
+* [Differences between OAuth 1.0 and OAuth 2.0](http://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1)
+
+Meet Jorge in Classroom B.
 
 ### JSON Fundamentals (11:00 - 12:00)
 
-Classroom B.
+Learn about the JavaScript Object Notation (JSON) data structure and why is the preferred way for transferring data between services in modern web apps.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+Here are the materials for this lesson:
+
+* [Slides](https://www.dropbox.com/s/ztczxt4ojtrjnec/Turing%20-%20JSON%20Fundamentals.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+
+Learn more:
+
+* [JSON](http://json.org)
+* [Introduction to JSON](https://en.wikipedia.org/wiki/JSON)
+* [JSONView Plugin for Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+
+Stay with Jorge in Classroom B.
 
 ### Feed Engine Kick Off (1:00 - 2:30)
 
@@ -112,7 +143,7 @@ Join Rachel as she teaches you all of Rails. In Classroom C.
 
 ### Echo: Binary Search Tree Evaluations (9:00 - 11:00)
 
-*With Jeff* 
+*With Jeff*
 
 * 9:00 - Matt Hecker
 * 9:10 - Russell Harms
@@ -124,7 +155,7 @@ Join Rachel as she teaches you all of Rails. In Classroom C.
 * 9:00 - George Hudson
 * 9:00 - Jerrod Paul Junker
 * 9:20 - Justin Holzmann
-* 9:30 - Ryan Asensio 
+* 9:30 - Ryan Asensio
 
 During the time you are not being evaluated, you will be...
 
@@ -159,7 +190,7 @@ Work on Enigma and Linked Lists, respectively.
 
 ### Chisel Evaluations (1:00 - 3:30)
 
-*With Jeff* 
+*With Jeff*
 
 * 1:00 - Nicole Hall
 * 1:10 - Bret Doucette
