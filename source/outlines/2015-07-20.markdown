@@ -170,8 +170,6 @@ afterwards.
 
 #### With Jeff
 
-* 1:00 - Nicole Hall
-* 1:15 - Bret Doucette
 * 1:30 - Mary Beth Burch
 * 1:45 - Tyler Komoroske
 * 2:00 - Alexander Naistadt
@@ -179,6 +177,8 @@ afterwards.
 * 2:30 - Regis Boudinot
 * 2:45 - Rachel Parri
 * 3:00 - Jeff Ruane
+* 3:15 - Nicole Hall
+* 3:30 - Bret Doucette
 
 #### With Mike
 
@@ -206,24 +206,26 @@ In addition to starting into your project, read/watch these two resources:
 * [TDD: Write Better Code In Less Time](https://www.youtube.com/watch?v=HhwElTL-mdI)
 * [Integration Testing vs Acceptance Testing](http://stackoverflow.com/questions/4019646/integration-vs-acceptance-test-what-is-cucumber-steak)
 
-
 ## 1507 - Echo
 
 ### Binary Search Tree Evaluations (9:00 - 11:00)
 
+By 9AM please push your final code to your GitHub repo and
+[add your repo URL here](https://github.com/turingschool/ruby-submissions/blob/master/1507/02-binary-search-tree.markdown). Code committed after 9AM will not be evaluated.
+
 #### With Jeff
 
 * 9:00 - Matt Hecker
-* 9:10 - Russell Harms
-* 9:20 - Alon Waisman
-* 9:30 - Matt Ewell
+* 9:20 - Russell Harms
+* 9:40 - Alon Waisman
+* 10:00 - Matt Ewell
 
 #### With Mike
 
 * 9:00 - George Hudson
-* 9:00 - Jerrod Paul Junker
-* 9:20 - Justin Holzmann
-* 9:30 - Ryan Asensio
+* 9:20 - Jerrod Paul Junker
+* 9:40 - Justin Holzmann
+* 10:00 - Ryan Asensio
 
 ### Throwdown: Robots, Robots, Robots (9:00 - 11:00)
 
@@ -247,7 +249,8 @@ and discuss strengths/weaknesses.
 
 ### Enigma Kickoff (1:00 - 1:20)
 
-Join Jeff at the Classroom A Conference Table to kickoff your Enigma project.
+Join Jeff at the Classroom A Conference Table to kickoff
+[your Enigma project](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/enigma.markdown).
 
 ### Enigma Work Time (1:20 - 3:30)
 
