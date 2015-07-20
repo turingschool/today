@@ -155,6 +155,9 @@ Meet in the Big Workspace with Josh and Rachel.
 
 Join Rachel as she teaches you all of Rails. In Classroom C.
 
+[Lesson Outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
+
+[Homework](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown)
 
 ## 1507 - Foxtrot
 
