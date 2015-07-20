@@ -57,10 +57,13 @@ Schedule TBA.
 
 Join Rachel in Classroom C to learn about the things.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown)
+
 ### Rails Basics Work Time (12:00 - 4:00)
 
 Work away at Rails Basics.
 
+[Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown)
 
 ## 1507
 
