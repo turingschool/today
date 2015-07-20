@@ -173,6 +173,7 @@ Work on Enigma and Linked Lists, respectively.
 
 
 *With Mike*
+
 * 1:00 - Mimi Schatz
 * 1:10 - Rose Kohn
 * 1:20 - Jeff Ruane
