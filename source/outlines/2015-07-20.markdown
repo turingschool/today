@@ -47,7 +47,7 @@ We'll cover the following topics:
 * Creating your own asset pipeline with [Webpack][]
 * Hooking up a test suite
 
-[Webpack](http://webpack.github.io)
+[Webpack]: http://webpack.github.io
 
 Below are some resources that we'll be referencing during the lesson.
 
@@ -123,7 +123,7 @@ Groups TBA.
 
 ### Traffic Spy Work Time (9:00 - 9:45)
 
-The countdown begins. 
+The countdown begins.
 
 ### Traffic Spy Evaluations (9:00 - 12:00)
 
@@ -139,7 +139,7 @@ The countdown begins.
 
 ### Talkin' 'Bout Feelings (11:15)
 
-Meet in the Big Workspace with Josh and Rachel. 
+Meet in the Big Workspace with Josh and Rachel.
 
 ##### Individual Feedback
 
@@ -187,14 +187,13 @@ afterwards.
 
 #### With Jeff
 
-* 1:15 - Bret Doucette
 * 1:30 - Mary Beth Burch
 * 1:45 - Tyler Komoroske
 * 2:00 - Alexander Naistadt
 * 2:15 - Justin Pease
 * 2:30 - Regis Boudinot
 * 2:45 - Rachel Parri
-* 3:00 - Jeff Ruane
+* 3:00 - Bret Doucette
 * 3:15 - Nicole Hall
 
 #### With Mike
