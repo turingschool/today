@@ -73,15 +73,17 @@ It's game time. (*Nota bene*: Steve is out this afternoon.)
 
 ### Getting Started with OAuth (9:00 - 11:00)
 
-Hello. Is it Jorge you're looking for?
+Hello. Is it Jorge you're looking for? Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown)
 
 ### JSON Fundamentals (11:00 - 12:00)
 
+Classroom B.
+
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
 
-### Feed Engine Kick Off (1:00 - 2:3)
+### Feed Engine Kick Off (1:00 - 2:30)
 
 Groups TBA.
 
@@ -103,13 +105,91 @@ Groups TBA.
 
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
-Join Rachel as she teaches you all of Rails.
+Join Rachel as she teaches you all of Rails. In Classroom C.
 
 
 ## 1507
 
-Stand by for details.
+### Echo: Binary Search Tree Evaluations (9:00 - 11:00)
+
+*With Jeff* 
+
+* 9:00 - Matt Hecker
+* 9:10 - Russell Harms
+* 9:20 - Alon Waisman
+* 9:30 - Matt Ewell
+
+*With Mike*
+
+* 9:00 - George Hudson
+* 9:00 - Jerrod Paul Junker
+* 9:20 - Justin Holzmann
+* 9:30 - Ryan Asensio 
+
+During the time you are not being evaluated, you will be...
+
+### Echo: Robots, Robots, Robots (9:00 - 11:00)
+
+You'll be code retreaing with [Robots](https://github.com/turingschool/code_retreat/tree/master/robot)
+
+Work in the following pairs:
+
+* Matt Hecker & George Hudson
+* Russell Harms & Jerrod Paul Junker
+* Alon Waisman & Justin Holzmann
+* Matt Ewell & Ryan Asensio
+
+Work for 30 minutes with Constraint A. Stop, delete all of your code, and then start over with Constraint B. And so on.
+
+### Echo: Robots in Review: (11:30 - 12:00)
+
+Review Robots with Mike. Classroom A Conference Table.
+
+### Foxtrot: Chisel Final Touches (9:00 - 11:00)
+
+Put the final touches on your Chisel.
+
+### Foxtrot: Intro to Linked Lists (11:00 - 12:00)
+
+Classroom C with Jeff.
+
+### All: Starting Enigma and Linked Lists (1:00 - 3:30)
+
+Work on Enigma and Linked Lists, respectively.
+
+### Chisel Evaluations (1:00 - 3:30)
+
+*With Jeff* 
+
+* 1:00 - Nicole Hall
+* 1:10 - Bret Doucette
+* 1:20 - Mary Beth Burch
+* 1:30 - Tyler Komoroske
+* 1:40 - Rachel Parri
+* 1:50 - Jeff Ruane
+* 2:00 - Alexander Naistadt
+* 2:10 - Justin Pease
+* 2:20 - Regis Boudinot
 
 
+*With Mike*
+* 1:00 - Mimi Schatz
+* 1:10 - Rose Kohn
+* 1:20 - Jeff Ruane
+* 1:30 - Chad Minnerath
+* 1:40 - David Stinette
+* 1:50 - Adam Jensen
+* 2:00 - Christ Cenatiempo
+* 2:10 - Michael Wong
+* 2:20 - Rebekah Sosa
+* 2:30 - Travis Haby
+
+### Echo: Enigma Q & A (3:30 - 4:00)
+
+Classroom A Conference Table with Jeff.
+
+### Foxtrot: Chisel Postmortem (3:30 - 4:00)
+
+Classroom A with Mike.
 
 
