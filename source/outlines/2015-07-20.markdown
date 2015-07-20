@@ -47,7 +47,7 @@ We'll cover the following topics:
 * Creating your own asset pipeline with [Webpack][]
 * Hooking up a test suite
 
-[Webpack](http://webpack.github.io)
+[Webpack]: http://webpack.github.io
 
 Below are some resources that we'll be referencing during the lesson.
 
@@ -121,18 +121,25 @@ Groups TBA.
 
 ## 1505
 
+### Traffic Spy Work Time (9:00 - 9:45)
+
+The countdown begins.
+
 ### Traffic Spy Evaluations (9:00 - 12:00)
 
 *With Rachel*
 
-* 9:00 - 9:45: Marla, Lovisa, Mike
-* 9:50 - 10:35: Mitch, David, Jason
+* 9:45 - 10:25: Marla, Lovisa, Mike
+* 10:30 - 11:10: Mitch, David, Jason
 
 *With Josh*
 
-* 9:00 - 9:45: Adam, Alex, Michael, Samson
-* 9:50 - 10:35: Sebastian, Drew, Max, Jai
+* 9:45 - 10:25: Adam, Alex, Michael, Samson
+* 10:30 - 11:10: Sebastian, Drew, Max, Jai
 
+### Talkin' 'Bout Feelings (11:15)
+
+Meet in the Big Workspace with Josh and Rachel.
 
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
