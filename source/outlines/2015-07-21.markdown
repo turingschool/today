@@ -11,7 +11,6 @@ The sum of the squares of the first ten natural numbers is,
 
 1^2 + 2^2 + ... + 10^2 = 385
 
-
 The square of the sum of the first ten natural numbers is,
 
 (1 + 2 + ... + 10)^2 = 55^2 = 3025
@@ -21,7 +20,6 @@ Hence the difference between the sum of the squares of the first ten natural num
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
 Five points for posting your working solution in #warmup-answers by 9:00am.
-
 
 ## 1502
 
@@ -37,19 +35,44 @@ Your favorite topic, with your favorite instructor, in your favorite Classroom A
 
 Work away at your projects.
 
-
 ## 1503
 
 ### Consuming APIs (9:00 - 12:00)
 
-Learn how to consume APIs with Horace.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/consuming_apis.markdown)
+Join Horace in Classroom B to talk about [consuming APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/consuming_apis.markdown)
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Continue working on your APICurious projects. By the end of today you should
+have your authentication complete and be pulling in the basic data required for
+your first iteration.
 
+Also, meet with Horace and Jorge for a very brief (10-minute) check-in.
+
+__With Horace__
+
+* (1:00 - 1:10) Jamie
+* (1:10 - 1:20) Drew
+* (1:20 - 1:30) Dave
+* (1:30 - 1:40) Max
+* (1:40 - 1:50) Drew
+* (1:50 - 2:00) Justin
+* (2:00 - 2:10) Josh
+* (2:10 - 2:20) Erik
+* (2:20 - 2:30) Vanessa
+* (2:30 - 2:40) Ricky
+
+__With Jorge__
+
+* (1:00 - 1:10) chelsea
+* (1:10 - 1:20) sally
+* (1:20 - 1:30) rob
+* (1:30 - 1:40) jack
+* (1:40 - 1:50) lev
+* (1:50 - 2:00) margarett
+* (2:00 - 2:10) whitney
+* (2:10 - 2:20) morgan
+* (2:20 - 2:30) brett
 
 ## 1505
 

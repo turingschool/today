@@ -41,8 +41,42 @@ garland("alfalfa") => 4
 
 ### Testing an External API (9:00 - 12:00)
 
-### Project Work Time (1:00 - 4:00)
+Join Horace in Classroom B to talk about [testing against
+External APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mocking_apis_v2.markdown).
 
+### Project Work Time and Check-Ins (1:00 - 4:00)
+
+Continue working on your APICurious projects. You should be wrapping up
+with your Iteration 1 features and moving into Iteration 2. We will work
+with you during the checkin to troubleshoot any issues and identify next features
+to work on.
+
+__Checkins:__
+
+__With Horace__
+
+* (1:00 - 1:15) Jamie
+* (1:15 - 1:30) Drew
+* (1:30 - 1:45) Dave
+* (1:45 - 2:00) Max
+* (2:00 - 2:15) Drew
+* (2:15 - 2:30) Justin
+* (2:30 - 2:45) Josh
+* (2:45 - 3:00) Erik
+* (3:15 - 3:30) Vanessa
+* (3:30 - 3:45) Ricky
+
+__With Jorge__
+
+* (1:00 - 1:15) chelsea
+* (1:15 - 1:30) sally
+* (1:30 - 1:45) rob
+* (1:45 - 2:00) jack
+* (2:00 - 2:15) lev
+* (2:15 - 2:30) margarett
+* (2:30 - 2:45) whitney
+* (2:45 - 3:00) morgan
+* (3:15 - 3:30) brett
 
 ## 1505
 
