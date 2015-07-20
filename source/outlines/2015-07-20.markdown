@@ -240,7 +240,7 @@ You *should* follow the `Robot` and `RobotSimulator` description as well as the
 
 *If* you get done before 11AM, try implementing the *G. Functional Planes* constraint.
 
-### Robots in Review: (11:30 - 12:00)
+### Robots in Review: (11:00 - 12:00)
 
 Join Mike at the Classroom A Conference Table to review a few of your solutions
 and discuss strengths/weaknesses.
