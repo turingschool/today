@@ -23,13 +23,33 @@ Five points for posting your working solution in #warmup-answers by 9:00am.
 
 ## 1502
 
-### Handling Events (9:00 - 10:30)
+### Functions in JavaScript (9:00 - 10:30)
 
-Learn about event delegation, event bubbling, firing events and binding to events in the Classroom A.
+Meet up with Steve in Classroom A to learn more than you ever there was to know about functions in Classroom A.
 
-### Testing JavaScript (10:30 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/functions_in_javascript.md)
 
-Your favorite topic, with your favorite instructor, in your favorite Classroom A.
+We'll cover the following learning goals:
+
+* How to define and call functions in JavaScript
+* What `this` is in JavaScript and how to explicit set its value in your functions
+* How to bind functions with explicit values for `this` and other arguments
+* How to split an array of values among the arguments of a function
+* How to use generator functions that can pause and resume execution as well as return multiple values
+
+### ECMAScript 6 (10:30 - 12:00)
+
+Yesterday, we talked about how to integrate Babel into your projects. Today, we'll talk a little bit more about what that means.
+
+* [Slides](https://www.icloud.com/keynote/AwBWCAESEFoVLpRtDJo8Kk3piV5sbNkaKlAg9v2X5wje5AErTxU8hnZ5ILmhI-KWx48mqZPuAQnFUd-t7QX4SlH6BwMCUCAQEEIBTGfYPXd1HM1uffj9AhZhDBm7G1jlzf7vSyOtECr64o#ES6_for_Turing_Students)
+
+We'll cover:
+
+* Arrow functions
+* `let` and `const`
+* Default, rest, and spread operators
+
+We'll refactor some of [the live coding of Lights Out from yesterday](https://github.com/turingschool-examples/lights-out).
 
 ### Project Work Time (1:00 - 4:00)
 
