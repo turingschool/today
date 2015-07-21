@@ -154,6 +154,8 @@ until lunch.
 
 Classroom A with Mike.
 
+We will be working with Testing Strategis in this [repo](https://github.com/turingschool/ruby-exercises)
+
 ### All: Work Time (2:30 - 4:00)
 
 Finish strong with another work period.
