@@ -112,7 +112,15 @@ Work away at Rails Basics.
 
 ### All: Dynamics (9:00 - 9:30)
 
-Let's start the day all together in the Workspace.
+Let's start the day all together in the Workspace. Get together in the following
+small groups:
+
+* Bret Doucette & Travis Haby & Rose Kohn & Mary Beth Burch
+* Alon Waisman & Chris Cenatiempo & Mimi Schatz & Tyler Komoroske
+* Ryan Asensio & Michael Wong & Matt Ewell & Regis Boudinot & Rebekah Sosa
+* Adam Jensen & Jeff Ruane & Nicole Hall & Matt Hecker
+* Chad Minnerath & George Hudson & David Stinnette & Jerrod Paul Junker
+* Rachel Parri & Justin Pease & Russell Harms & Justin Holzmann
 
 ### All: Character Count (9:30 - 11:00)
 
