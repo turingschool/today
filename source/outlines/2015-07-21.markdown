@@ -156,6 +156,25 @@ Classroom A with Mike.
 
 We will be working with Testing Strategis in this [repo](https://github.com/turingschool/ruby-exercises)
 
+Team A:
+
+* Justin Pease & Jeff Ruane
+* Ryan Asensio & Rose Kohn
+* Rachel Parri & David Stinnette
+* Michael Wong & Tyler Komoroske
+* George Hudson & Matt Hecker
+* Matt Ewell & Chris Cenatiempo
+
+Team B:  
+
+* Nicole Hall & Adam Jensen
+* Mary Beth Burch & Rebekah Sosa
+* Regis Boudinot & Jerrod Paul Junker
+* Chad Minnerath & Alon Waisman
+* Russell Harms & Travis Haby
+* Mimi Schatz & Bret Doucette & Justin Holzmann
+
+
 ### All: Work Time (2:30 - 4:00)
 
 Finish strong with another work period.
