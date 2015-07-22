@@ -72,10 +72,10 @@ Also, meet with Horace and Jorge for a very brief (10-minute) check-in.
 __With Horace__
 
 * (1:00 - 1:10) Jamie
-* (1:10 - 1:20) Drew
+* (1:10 - 1:20) Drew F
 * (1:20 - 1:30) Dave
 * (1:30 - 1:40) Max
-* (1:40 - 1:50) Drew
+* (1:40 - 1:50) Drew R
 * (1:50 - 2:00) Justin
 * (2:00 - 2:10) Josh
 * (2:10 - 2:20) Erik
@@ -165,7 +165,7 @@ Team A:
 * George Hudson & Matt Hecker
 * Matt Ewell & Chris Cenatiempo
 
-Team B:  
+Team B:
 
 * Nicole Hall & Adam Jensen
 * Mary Beth Burch & Rebekah Sosa

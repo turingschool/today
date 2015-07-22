@@ -30,12 +30,68 @@ garland("alfalfa") => 4
 
 ## 1502
 
-### Testing AJAX (9:00 - 10:30)
+### Flatten Without Flatten (9:00 - 9:45)
 
-### JavaScript Events and Rendering (10:30 - 12:00)
+Let's apply some of the topics we've covered over the last few days.
+
+As it turns out, JavaScript's `Array.prototype` does not actually have a `flatten` method—not even in ES6. We're going to need you to go ahead and implement one for us. Some recursion is your friend here.
+
+1. Start with a function that takes an array and returns its flattened version.
+2. Add this method to `Array.prototype`, (in this case, the unflattened array will be `this`).
+
+**Bonus**: If you're feeling brave—can you implement `Array.prototype.unique`?
+
+We'll meet back in Classroom A at 9:35 to show off our solutions.
+
+You'll work in the following pairs (or triplet, in one case):
+
+* Tracy Caruso & Minnie Lee
+* Mihir Parikh & Tess Griffin
+* Lori Culberson & Andrew Carmer
+* Kenny Chen & Kyle Henson
+* Fred Block & Eric Dowty
+* Kristina Brown & Thomas Leskin
+* David Daniel & Michelle Golle & Patrick Medaugh
+
+### ECMAScript 6 (9:45 - 11:00)
+
+On Monday, we talked about how to integrate Babel into your projects. Today, we'll talk a little bit more about what that means.
+
+* [Slides](https://www.icloud.com/keynote/AwBWCAESEFoVLpRtDJo8Kk3piV5sbNkaKlAg9v2X5wje5AErTxU8hnZ5ILmhI-KWx48mqZPuAQnFUd-t7QX4SlH6BwMCUCAQEEIBTGfYPXd1HM1uffj9AhZhDBm7G1jlzf7vSyOtECr64o#ES6_for_Turing_Students)
+
+We'll cover:
+
+* Arrow functions
+* `let` and `const`
+* Default, rest, and spread operators
+
+We'll refactor some of [the live coding of Lights Out from Monday](https://github.com/turingschool-examples/lights-out).
+
+### Generators (11:00 - 12:00)
+
+We'll talk a little bit about generators in ES6. We'll learn how to use generator functions that can pause and resume execution as well as return multiple values.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/functions_in_javascript.md#generators)
+
+You'll be working in the following pairs/triplet to implement a Fibonacci generator:
+
+* Minnie Lee & Tess Griffin
+* Kristina Brown & Kyle Henson
+* Kenny Chen & Lori Culberson
+* Andrew Carmer & Michelle Golle
+* David Daniel & Patrick Medaugh
+* Tracy Caruso & Eric Dowty
+* Fred Block & Mihir Parikh & Thomas Leskin
 
 ### Project Work Time and Check-Ins (1:00 - 4:00)
 
+* 1:00 - 1:20: Minnie Lee & Patrick Medaugh
+* 1:25 - 1:45: Thomas Leskin & Michelle Golle
+* 1:50 - 2:10: Tess Griffin & Eric Dowty
+* 2:15 - 2:35: David Daniel & Tracy Caruso
+* 2:40 - 3:00: Kyle Henson & Mihir Parikh
+* 3:05 - 3:25: Lori Culberson & Fred Block
+* 3:30 - 3:50: Andrew Carmer & Kristina Brown & Kenny Chen
 
 ## 1503
 
@@ -84,12 +140,61 @@ __With Jorge__
 
 Join Rachel in Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown)
+
 ### Blogger Tutorial Kickoff and Work Time (1:00 - 4:00)
 
 Join Josh in Classroom C.
 
-
 ## 1507
 
-Stand by for details.
+### Ruby's Object Model (9:00 - 10:30)
 
+Join Jeff in the Workspace to talk about how Ruby actually works.
+
+### Pairing Practice (10:30 - 12:00)
+
+Then we're going to do a bit of short pairing practice.
+
+#### Pairings
+
+*Session 1*
+
+* Ryan Asensio & Alon Waisman
+* Justin Holzmann & George Hudson
+* Matt Ewell & Matt Hecker
+* Russell Harms & DJ Greenfield
+* Travis Haby & Regis Boudinot
+* Michael Wong & Mimi Schatz
+* Chad Minnerath & Rebekah Sosa
+* Chris Cenatiempo & Nicole Hall
+* Justin Pease & Bret Doucette
+* Tyler Komoroske & Jeff Ruane
+* Jerrod Paul Junker & Rachel Parri
+* David Stinnette & Adam Jensen
+* Rose Kohn & Mary Beth Burch
+
+*Session 2*
+
+* George Hudson & Matt Ewell
+* Matt Hecker & Russell Harms
+* Ryan Asensio & Justin Holzmann
+* Alon Waisman * DJ Greenfield
+* Bret Doucette & Rose Kohn
+* David Stinnette & Rebekah Sosa
+* Chad Minnerath & Michael Wong
+* Mary Beth Burch & Jerrod Paul Junker
+* Adam Jensen & Mimi Schatz
+* Jeff Ruane & Chris Cenatiempo
+* Travis Haby & Justin Pease
+* Regis Boudinot & Tyler Komoroske
+* Rachel Parri & Nicole Hall
+
+#### Challenges
+
+* Session 1: [Pattern Matcher](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* Session 2: [Well-Formed Strings](https://github.com/turingschool/challenges/blob/master/well_formed_strings.markdown)
+
+### Work Time (1:00 - 4:00)
+
+Then this afternoon push forward with your projects.
