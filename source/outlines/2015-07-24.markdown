@@ -3,7 +3,6 @@ title: 20150724
 layout: outline
 ---
 
-<<<<<<< HEAD
 ## All 
 
 ### Breakfast and Surveys (8:30 - 9:00)
