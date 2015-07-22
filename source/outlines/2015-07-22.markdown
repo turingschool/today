@@ -30,7 +30,30 @@ garland("alfalfa") => 4
 
 ## 1502
 
-### ECMAScript 6 (9:00 - 10:30)
+### Flatten Without Flatten (9:00 - 9:45)
+
+Let's apply some of the topics we've covered over the last few days.
+
+As it turns out, JavaScript's `Array.prototype` does not actually have a `flatten` method—not even in ES6. We're going to need you to go ahead and implement one for us. Some recursion is your friend here.
+
+1. Start with a function that takes an array and returns its flattened version.
+2. Add this method to `Array.prototype`, (in this case, the unflattened array will be `this`).
+
+**Bonus**: If you're feeling brave—can you implement `Array.prototype.unique`?
+
+We'll meet back in Classroom A at 9:35 to show off our solutions.
+
+You'll work in the following pairs (or triplet, in one case):
+
+* Tracy Caruso & Minnie Lee
+* Mihir Parikh & Tess Griffin
+* Lori Culberson & Andrew Carmer
+* Kenny Chen & Kyle Henson
+* Fred Block & Eric Dowty
+* Kristina Brown & Thomas Leskin
+* David Daniel & Michelle Golle & Patrick Medaugh
+
+### ECMAScript 6 (9:45 - 11:00)
 
 On Monday, we talked about how to integrate Babel into your projects. Today, we'll talk a little bit more about what that means.
 
@@ -42,13 +65,23 @@ We'll cover:
 * `let` and `const`
 * Default, rest, and spread operators
 
-We'll refactor some of [the live coding of Lights Out from yesterday](https://github.com/turingschool-examples/lights-out).
+We'll refactor some of [the live coding of Lights Out from Monday](https://github.com/turingschool-examples/lights-out).
 
-### Generators
+### Generators (11:00 - 12:00)
 
 We'll talk a little bit about generators in ES6. We'll learn how to use generator functions that can pause and resume execution as well as return multiple values.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/functions_in_javascript.md#generators)
+
+You'll be working in the following pairs/triplet to implement a Fibonacci generator:
+
+* Minnie Lee & Tess Griffin
+* Kristina Brown & Kyle Henson
+* Kenny Chen & Lori Culberson
+* Andrew Carmer & Michelle Golle
+* David Daniel & Patrick Medaugh
+* Tracy Caruso & Eric Dowty
+* Fred Block & Mihir Parikh & Thomas Leskin
 
 ### Project Work Time and Check-Ins (1:00 - 4:00)
 
