@@ -9,6 +9,14 @@ layout: outline
 
 ### Lightning Talks (9:00 - 10:00)
 
+* Tracy Caruso - "CSS: The hard stuff" 
+* Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
+* Jason Wright - "Javascript and Jasmine" 
+* Alex Tideman - "Bolide Detection Systems: How to not die in space" 
+* Mike Reeves - "Living and Working Abroad" 
+* Vanessa Gomez - "No excuse for bad typography on the web" 
+* Lev Kravinsky - "Enumerator Playground"
+
 ### Work On Your Blog and One on Ones (10:00 - 11:15)
 
 #### With Jeff
