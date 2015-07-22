@@ -84,6 +84,8 @@ __With Jorge__
 
 Join Rachel in Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown)
+
 ### Blogger Tutorial Kickoff and Work Time (1:00 - 4:00)
 
 Join Josh in Classroom C.
