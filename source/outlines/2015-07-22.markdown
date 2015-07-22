@@ -30,12 +30,35 @@ garland("alfalfa") => 4
 
 ## 1502
 
-### Testing AJAX (9:00 - 10:30)
+### ECMAScript 6 (9:00 - 10:30)
 
-### JavaScript Events and Rendering (10:30 - 12:00)
+On Monday, we talked about how to integrate Babel into your projects. Today, we'll talk a little bit more about what that means.
+
+* [Slides](https://www.icloud.com/keynote/AwBWCAESEFoVLpRtDJo8Kk3piV5sbNkaKlAg9v2X5wje5AErTxU8hnZ5ILmhI-KWx48mqZPuAQnFUd-t7QX4SlH6BwMCUCAQEEIBTGfYPXd1HM1uffj9AhZhDBm7G1jlzf7vSyOtECr64o#ES6_for_Turing_Students)
+
+We'll cover:
+
+* Arrow functions
+* `let` and `const`
+* Default, rest, and spread operators
+
+We'll refactor some of [the live coding of Lights Out from yesterday](https://github.com/turingschool-examples/lights-out).
+
+### Generators
+
+We'll talk a little bit about generators in ES6. We'll learn how to use generator functions that can pause and resume execution as well as return multiple values.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/functions_in_javascript.md#generators)
 
 ### Project Work Time and Check-Ins (1:00 - 4:00)
 
+* 1:00 - 1:20: Minnie Lee & Patrick Medaugh
+* 1:25 - 1:45: Thomas Leskin & Michelle Golle
+* 1:50 - 2:10: Tess Griffin & Eric Dowty
+* 2:15 - 2:35: David Daniel & Tracy Caruso
+* 2:40 - 3:00: Kyle Henson & Mihir Parikh
+* 3:05 - 3:25: Lori Culberson & Fred Block
+* 3:30 - 3:50: Andrew Carmer & Kristina Brown & Kenny Chen
 
 ## 1503
 

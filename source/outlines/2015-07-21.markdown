@@ -165,7 +165,7 @@ Team A:
 * George Hudson & Matt Hecker
 * Matt Ewell & Chris Cenatiempo
 
-Team B:  
+Team B:
 
 * Nicole Hall & Adam Jensen
 * Mary Beth Burch & Rebekah Sosa
