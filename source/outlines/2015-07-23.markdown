@@ -171,7 +171,33 @@ URL [added to this submission file](https://github.com/turingschool/ruby-submiss
 
 ### Linked Lists and Insertion Sort (9:00 - 12:00)
 
-Work on this when you are not being evaluated.
+When you're not being evaluated, we'd like you to play a bit with the idea
+of Linked Lists. There's a neat sorting algorithm named Insertion Sort. Work on each
+of these:
+
+1. Read [the Insertion Sort Wikipedia article](https://en.wikipedia.org/wiki/Insertion_sort)
+2. Read/work through [this Insertion Sort page on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort)
+3. Watch [this video from the CS50 course](https://www.youtube.com/watch?v=DFG-XuyPYUQ)
+
+Then return to your Linked List code and...
+
+* Create a branch with `git checkout -b insertion_sort`
+* Create a `sorted_insert` which uses insertion sort to insert the new value into
+the linked list at its correct position
+
+It might look something like this:
+
+```ruby
+list = LinkedList.new
+list.sorted_insert(5)
+list.sorted_insert(2)
+list.sorted_insert(8)
+list.sorted_insert(6)
+list.sorted_insert(7)
+list.to_s # => "The list is currently 2-5-6-7-8"
+```
+
+Feel free to collaborate with other students on this exercise.
 
 ### Enigma Introduction (1:00 - 1:30)
 
