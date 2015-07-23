@@ -58,6 +58,38 @@ Location TBA.
 
 ### Feed Engine Evaluations (1:00 - 4:00)
 
+#### With Jorge
+
+* 1:00 - Rick Bacci 
+* 1:20 - Vanessa Gomez
+* 1:40 - Drew Reynolds
+* 2:00 - Lev Kravinsky
+* 2:20 - BREAK
+* 2:40 - Erik Butcher
+* 3:00 - Chelsea Worrel
+* 3:20 - Dave Maurer
+* 3:40 - 
+
+#### With Horace
+
+* 1:00 - Max Tedford
+* 1:20 - Sally MacNicholas
+* 1:40 - Brett Grigsby
+* 2:00 - BREAK
+* 2:20 - Margarett Ly
+* 2:40 - Josh Cass
+* 3:00 - Jamie Kawahara
+* 3:20 - Jack Yeh
+* 3:40 - 
+
+#### With Mike
+
+* 2:20 - Rob Cornell
+* 2:40 - Justin Holmes
+* 3:00 - Whitney Hiemstra
+* 3:20 - Morgan Miller
+* 3:40 - Andrew Fink
+
 
 ## 1505
 
@@ -127,13 +159,14 @@ Classroom A.
 * 1:30 - Matt Hecker
 * 1:50 - Russell Harms
 * 2:10 - Alon Waisman
-
+* 2:30 - Matt Ewell
+ 
 #### With Mike
 
 * 1:00 - George Hudson
 * 1:20 - Justin Holzmann
 * 1:40 - Ryan Asensio
-* 2:00 - Matt Ewell 
+
 
 
 ### Foxtrot: Homework - Cryptographer.
