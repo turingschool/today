@@ -7,14 +7,14 @@ layout: outline
 
 ### Warm Up (8:30 - 9:00)
 
-To covert nearly any number into a palindromic number you operate by reversing the digits and 
+To covert nearly any number into a palindromic number you operate by reversing the digits and
 adding and then repeating the steps until you get a palindromic number. Some require many steps.
 
 e.g. 24 gets palindromic after 1 steps: 66 -> 24 + 42 = 66
 
 while 28 gets palindromic after 2 steps: 121 -> 28 + 82 = 110, so 110 + 11 (110 reversed) = 121.
 
-Note that, as an example, 196 never gets palindromic (at least according to researchers, at least never in 
+Note that, as an example, 196 never gets palindromic (at least according to researchers, at least never in
 reasonable time). Several numbers never appear to approach being palindromic.
 
 Input Description
@@ -27,7 +27,7 @@ You will be given a number, one per line. Example:
 
 Output Description
 
-You will describe how many steps it took to get it to be palindromic, and what the resulting palindrome is. 
+You will describe how many steps it took to get it to be palindromic, and what the resulting palindrome is.
 
 Example:
 
@@ -60,7 +60,7 @@ Location TBA.
 
 #### With Jorge
 
-* 1:00 - Rick Bacci 
+* 1:00 - Rick Bacci
 * 1:20 - Vanessa Gomez
 * 1:40 - Drew Reynolds
 * 2:00 - Lev Kravinsky
@@ -68,7 +68,7 @@ Location TBA.
 * 2:40 - Erik Butcher
 * 3:00 - Chelsea Worrel
 * 3:20 - Dave Maurer
- 
+
 
 #### With Horace
 
@@ -80,7 +80,7 @@ Location TBA.
 * 2:40 - Josh Cass
 * 3:00 - Jamie Kawahara
 * 3:20 - Jack Yeh
- 
+
 
 #### With Mike
 
@@ -99,7 +99,7 @@ Recap Blogger with Josh! In Classroom C! Awesome!
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-You have a special guest today, Nmuta Jones! Such excitement! 
+You have a special guest today, Nmuta Jones! Such excitement!
 
 ### Model Testing Custom and Built-in Validations (10:30 - 12:00)
 
@@ -118,9 +118,9 @@ Remember to thank Josh for all the massive amounts of work he did to re-write Co
 Generations of Turing students have jobs because of this.
 
 
-## 1507
+## 1507 - Foxtrot
 
-### Foxtrot: Linked List Evaluations - (9:00 - 12:00)
+### Linked List Evaluations - (9:00 - 12:00)
 
 #### With Mike
 
@@ -141,46 +141,57 @@ Generations of Turing students have jobs because of this.
 * 9:15 - Nicole Hall
 * 9:30 - Mary Beth Burch
 * 9:45 - Chad Minnerath
-* 10:00 - Jeff Ruane 
+* 10:00 - Jeff Ruane
 * 10:15 - BREAK
 * 10:30 - David Stinnette
 * 10:45 - Rebekah Sosa
 * 11:00 - Adam Jensen
 * 11:15 - Jerrod Paul Junker
 
-### Foxtrot: Linked Lists and Insertion Sort (9:00 - 12:00)
+### Linked Lists and Insertion Sort (9:00 - 12:00)
 
 Work on this when you are not being evaluated.
 
-### Echo: Enigma Work Time (9:00 - 12:00)
+### Enigma Introduction (1:00 - 1:30)
 
-Don't break it.
+Join Jeff in Classroom A to talk about Enigma. Please [read this project spec](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/enigma.markdown)
+before coming to this session.
 
-### Foxtrot: Enigma Introduction (1:00 - 1:30)
-
-Learn about your Enigmas.
-
-You will be in the following pairs:
+You'll build the project in the following pairs:
 
 * Rose Kohn & Rebekah Sosa
 * Nicole Hall & Adam Jensen
-* Travis Haby & Regis Boudinot
+* Mimi Schatz & Regis Boudinot
 * Bret Doucette & Rachel Parri
 * Mary Beth Burch & David Stinnette
 * Chad Minnerath & Michael Wong
 * Jeff Ruane & Jerrod Paul Junker
 * Chris Cenatiempo & Justin Pease
-* Mimi Schatz & Rachel Parri & Tyler Komoroske 
+* Rachel Parri & Tyler Komoroske
+* Travis Haby & `nil`
 
-### Foxtrot: Enigma Work Time (1:30 - 3:30)
+We also have a two related projects that you might want to check out. If you and
+your pair feel "highly-whelmed" by Enigma, it might be prudent to ramp up with these:
 
-Work on your Enigma.
+* [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html)
+* [Cryptographer](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown)
+
+### Enigma Work Time (1:30 - 3:30)
+
+Get started on the project!
 
 ### Foxtrot: Enigma Q and A (3:30 - 4:00)
 
-Classroom A. 
+Join Mike in Classroom A to answer your questions about the assignment, approach, etc.
 
-### Echo - Enigma Evaluations (1:00 - 3:30)
+## 1507 - Echo
+
+### Enigma Work Time (9:00 - 12:00)
+
+Get together with at least one other person and make sure you can decrypt and crack each other's
+encrypted messages.
+
+### Enigma Evaluations (1:00 - 3:00)
 
 #### With Jeff
 
@@ -188,13 +199,24 @@ Classroom A.
 * 1:50 - Russell Harms
 * 2:10 - Alon Waisman
 * 2:30 - Matt Ewell
- 
+
 #### With Mike
 
 * 1:00 - George Hudson
 * 1:20 - Justin Holzmann
 * 1:40 - Ryan Asensio
 
+### Playing with Objects (1:00 - 4:00)
 
+This weekend you get a bit of a breather. Spend your time learning about and
+playing with object oriented design.
 
-### Foxtrot: Homework - Cryptographer.
+1. Open [this assignment](https://github.com/turingschool/challenges/blob/master/poodr.markdown) focused on the "Practical Object Oriented Design with Ruby" book.
+2. Follow the instructions for Part 1
+3. Now actually take the time to implement these 15 classes in Ruby, even if they're
+just little "stub" classes without much functionality. Can you stitch your classes/instances together in a meaningful way such that `Plane.new` would create
+an interconnected web of objects?
+4. Compare your work for (3) with at least one other student. Take the best of their
+ideas and roll them back into your own work.
+5. When you're happy with your `Plane`, complete the *Part 2* reading and implement
+the printers to explore dependency injection.
