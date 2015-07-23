@@ -95,11 +95,27 @@ Location TBA.
 
 ### Blogger Recap (9:00 - 9:30)
 
-### Review: Feature Testing in Rails (9:30 - 10:30)
+Recap Blogger with Josh! In Classroom C! Awesome!
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+You have a special guest today, Nmuta Jones! Such excitement! 
 
 ### Model Testing Custom and Built-in Validations (10:30 - 12:00)
 
+Rachel takes over as you learn about more testing. This is the Best. Day. EVER.
+
+### Work Time: Model Testing and Validations  (1:00 - 3:00)
+
+Rachel will be on hand for questions.
+
 ### Contact Manager Kickoff and Work Time (3:00 - 4:00)
+
+Only one student has ever completed Contact Manager. The Gauntlet has been thrown.
+
+Remember to thank Josh for all the massive amounts of work he did to re-write Contact Manager.
+
+Generations of Turing students have jobs because of this.
 
 
 ## 1507
