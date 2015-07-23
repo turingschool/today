@@ -204,8 +204,8 @@ You'll build the project in the following pairs:
 * Chad Minnerath & Michael Wong
 * Jeff Ruane & Jerrod Paul Junker
 * Chris Cenatiempo & Justin Pease
-* Rachel Parri & Tyler Komoroske
-* Travis Haby & `nil`
+* Travis Haby & Tyler Komoroske
+
 
 We also have a two related projects that you might want to check out. If you and
 your pair feel "highly-whelmed" by Enigma, it might be prudent to ramp up with these:
