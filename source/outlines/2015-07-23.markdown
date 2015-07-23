@@ -117,19 +117,23 @@ Recap Blogger with Josh! In Classroom C! Awesome!
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-You have a special guest today, Nmuta Jones! Such excitement!
+Join Josh in Classroom C. 
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_minitest_rspec.markdown)
 
 ### Model Testing Custom and Built-in Validations (10:30 - 12:00)
 
 Rachel takes over as you learn about more testing. This is the Best. Day. EVER.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
+
 ### Work Time: Model Testing and Validations  (1:00 - 3:00)
 
-Rachel will be on hand for questions.
+Find the challenge [here](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). Rachel will be on hand for questions for the first hour.
 
 ### Contact Manager Kickoff and Work Time (3:00 - 4:00)
 
-Only one student has ever completed Contact Manager. The Gauntlet has been thrown.
+Only one student has ever completed [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). The Gauntlet has been thrown.
 
 Remember to thank Josh for all the massive amounts of work he did to re-write Contact Manager.
 
