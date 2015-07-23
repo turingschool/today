@@ -71,3 +71,69 @@ Location TBA.
 
 
 ## 1507
+
+### Foxtrot: Linked List Evaluations - (9:00 - 12:00)
+
+#### With Mike
+
+* 9:00 - Mimi Schatz
+* 9:15 - Travis Haby
+* 9:30 - Bret Doucette
+* 9:45 - Tyler Komoroske
+* 10:00 - Rachel Parri
+* 10:15 - BREAK
+* 10:30 - Justin Pease
+* 10:45 - Regis Boudinot
+* 11:00 - Rose Kohn
+* 11:15 - Chris Cenatiempo
+
+#### With Jeff
+
+* 9:00 - Michael Wong
+* 9:15 - Nicole Hall
+* 9:30 - Mary Beth Burch
+* 9:45 - Chad Minnerath
+* 10:00 - Jeff Ruane 
+* 10:15 - BREAK
+* 10:30 - David Stinnette
+* 10:45 - Rebekah Sosa
+* 11:00 - Adam Jensen
+* 11:15 - Jerrod Paul Junker
+
+### Foxtrot: Linked Lists and Insertion Sort (9:00 - 12:00)
+
+Work on this when you are not being evaluated.
+
+### Echo: Enigma Work Time (9:00 - 12:00)
+
+Don't break it.
+
+### Foxtrot: Enigma Introduction (1:00 - 1:30)
+
+Learn about your Enigmas.
+
+### Foxtrot: Enigma Work Time (1:30 - 3:30)
+
+Work on your Enigma.
+
+### Foxtrot: Enigma Q and A (3:30 - 4:00)
+
+Classroom A. 
+
+### Echo - Enigma Evaluations (1:00 - 3:30)
+
+#### With Jeff
+
+* 1:30 - Matt Hecker
+* 1:50 - Russell Harms
+* 2:10 - Alon Waisman
+
+#### With Mike
+
+* 1:00 - George Hudson
+* 1:20 - Justin Holzmann
+* 1:40 - Ryan Asensio
+* 2:00 - Matt Ewell 
+
+
+### Foxtrot: Homework - Cryptographer.
