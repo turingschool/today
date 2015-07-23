@@ -120,6 +120,9 @@ Generations of Turing students have jobs because of this.
 
 ## 1507 - Foxtrot
 
+Before 9:00, please have your code committed, pushed to GitHub, and the
+URL [added to this submission file](https://github.com/turingschool/ruby-submissions/blob/master/1507/04-linked_lists.markdown).
+
 ### Linked List Evaluations - (9:00 - 12:00)
 
 #### With Mike
@@ -190,6 +193,9 @@ Join Mike in Classroom A to answer your questions about the assignment, approach
 
 Get together with at least one other person and make sure you can decrypt and crack each other's
 encrypted messages.
+
+Before 12:00, please have your code committed, pushed to GitHub, and the
+URL [added to this submission file](https://github.com/turingschool/ruby-submissions/blob/master/1507/05-enigma.markdown).
 
 ### Enigma Evaluations (1:00 - 3:00)
 
