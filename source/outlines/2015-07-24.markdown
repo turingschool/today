@@ -180,7 +180,7 @@ Pairs:
 
 ### Electives (2:00 - 3:10)
 
-#### DJ Greenfield - Amelioration Pattern: Modelling the Current User in Classroom B
+#### DJ Greenfield - Amelioration Pattern: Modelling the Current User in Classroom A
 
 - Identify the antipattern of current_user as a helper method
 - Explore Draper and <%= render current_user.nav_partial %> as solutions
@@ -193,7 +193,7 @@ Pairs:
 - Lets break down the user stories with the classic project "Traffic Spy"
 - Build a clickable wireframe of Traffic Spy using Balsamiq
 
-#### Morgan Miller - Getting to know the Rails console in Classroom A
+#### Morgan Miller - Getting to know the Rails console in Classroom B
 
 - Making it more readable with awesome_print
 - Tricks to make your workflow more efficient
