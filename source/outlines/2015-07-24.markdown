@@ -3,9 +3,11 @@ title: 20150724
 layout: outline
 ---
 
-## All 
+## All
 
 ### Breakfast and Surveys (8:30 - 9:00)
+
+Thanks for completing your surveys!
 
 * [1502](https://docs.google.com/a/casimircreative.com/forms/d/1y3f6xRunuAZ_2C8jXFA4mwNDauGDpkUfh9HRakChe08/viewform)
 * [1503](https://docs.google.com/a/casimircreative.com/forms/d/13R_-cGFE04WBoG2RkRdMwc31Lzox1WfLufytgii51VI/viewform)
@@ -14,19 +16,27 @@ layout: outline
 
 ### Lightning Talks (9:00 - 10:00)
 
-* Tracy Caruso - "CSS: The hard stuff" 
+* Tracy Caruso - "CSS: The hard stuff"
 * Erik Butcher - "Heroes in the Crowd: Social Improvement By Social Media"
-* Jason Wright - "Javascript and Jasmine" 
-* Alex Tideman - "Bolide Detection Systems: How to not die in space" 
-* Mike Reeves - "Living and Working Abroad" 
-* Vanessa Gomez - "No excuse for bad typography on the web" 
+* Jason Wright - "Javascript and Jasmine"
+* Alex Tideman - "Bolide Detection Systems: How to not die in space"
+* Mike Reeves - "Living and Working Abroad"
+* Vanessa Gomez - "No excuse for bad typography on the web"
 * Lev Kravinsky - "Enumerator Playground"
 
-### Work On Your Blog and One on Ones (10:00 - 11:15)
+### Blog/Self-Study and One on Ones (10:00 - 11:15)
+
+When you're not in 1-on-1s, work on something meaningful like:
+
+* Get together with another student and try to pair refactor a project from this week
+* Write a blog post about something you only mostly understood, trying to round out
+your understanding in the process
+* Talk to Max Tedford about a plan he's concocting for next Friday
+* Complete a lesson on [Hack Design](https://hackdesign.org/)
 
 #### With Jeff
 
-* (10:00 - 10:10) - Nicole Hall 
+* (10:00 - 10:10) - Nicole Hall
 * (10:12 - 10:22) - Matt Hecker
 * (10:24 - 10:34) - George Hudson
 * (10:36 - 10:46) - Russell Harms
@@ -35,7 +45,7 @@ layout: outline
 
 #### With Mike
 
-* (10:00 - 10:10) - Adam Jensen 
+* (10:00 - 10:10) - Adam Jensen
 * (10:12 - 10:22) - Jeff Ruane
 * (10:24 - 10:34) - Chad Minnerath
 * (10:36 - 10:46) - Rachel Parri
@@ -44,7 +54,7 @@ layout: outline
 
 #### With Rachel
 
-* (10:00 - 10:10) - Adam Caron 
+* (10:00 - 10:10) - Adam Caron
 * (10:12 - 10:22) - Drew Conly
 * (10:24 - 10:34) - Mitch Ashby
 * (10:36 - 10:46) - Samson Brock
@@ -74,8 +84,6 @@ layout: outline
 * (10:12 - 10:22) - Patrick Medaugh
 * (10:24 - 10:34) - Thomas Leskin
 * (10:36 - 10:46) - Lori Culberson
-* (10:48 - 10:58) - 
-* (11:00 - 11:10) - 
 
 #### With Marissa
 
@@ -83,14 +91,11 @@ layout: outline
 * (10:12 - 10:22) - Tess Griffin
 * (10:24 - 10:34) - Tracy Caruso
 * (10:36 - 10:46) - Fred Block
-* (10:48 - 10:58) - 
-* (11:00 - 11:10) - 
 
 ### Guest Speaker - Ernie Miller (11:15 - 12:00)
 
-[Twitter](https://twitter.com/erniemiller)
-
-[Website](http://erniemiller.org/)
+* [Twitter](https://twitter.com/erniemiller)
+* [Website](http://erniemiller.org/)
 
 ### Group Retro (1:00 - 2:00)
 
@@ -99,27 +104,34 @@ layout: outline
 * 1503 in der Klasse B
 * MDII in Curabitur aliquet A
 
-### Electives (2:00 - 4:00)
+### Electives (2:00 - 3:10)
 
-* DJ Greenfield - "Amelioration Pattern: Modelling the Current User' (2:00 - 3ish)
-  - Identify the antipattern of current_user as a helper method
-  - Explore Draper and <%= render current_user.nav_partial %> as solutions
-  - Eliminate conditions from the views
+#### DJ Greenfield - "Amelioration Pattern: Modelling the Current User' (2:00 - 3ish)
 
-* Michael Dorrance - Breaking down problems with wireframes (2-4pm)
-  - Gain an understanding of the REAL user stories
-  - Introduce wireframing tools and techniques
-  - Lets break down the user stories with the classic project "Traffic Spy"
-  - Build a clickable wireframe of Traffic Spy using Balsamiq
+- Identify the antipattern of current_user as a helper method
+- Explore Draper and <%= render current_user.nav_partial %> as solutions
+- Eliminate conditions from the views
 
-* Morgan Miller - Getting to know the Rails console (3:00 - 4ish)
-  - Making it more readable with awesome_print 
-  - Tricks to make your workflow more efficient
-  - How to test helpers, make app requests and more
-  
-* Lev Kravinsky - Reimplementing Enumerable and Enumerator (2:00 - 3:30ish)
-  - Build Enumerable's such as Map and Find on top of a custom Each method
-  - Build an Enumerator class that allows us to chain together our custom Enumerables
-  - Learn how to pass blocks around with the block slot (plus, blocks vs procs vs lambdas)
-  - Learn the basics of Fiber (yield, resume, alive?, etc)
+#### Michael Dorrance - Breaking down problems with wireframes (2-4pm)
 
+- Gain an understanding of the REAL user stories
+- Introduce wireframing tools and techniques
+- Lets break down the user stories with the classic project "Traffic Spy"
+- Build a clickable wireframe of Traffic Spy using Balsamiq
+
+#### Morgan Miller - Getting to know the Rails console (3:00 - 4ish)
+
+- Making it more readable with awesome_print
+- Tricks to make your workflow more efficient
+- How to test helpers, make app requests and more
+
+#### Lev Kravinsky - Reimplementing Enumerable and Enumerator (2:00 - 3:30ish)
+
+- Build Enumerable's such as Map and Find on top of a custom Each method
+- Build an Enumerator class that allows us to chain together our custom Enumerables
+- Learn how to pass blocks around with the block slot (plus, blocks vs procs vs lambdas)
+- Learn the basics of Fiber (yield, resume, alive?, etc)
+
+### GearUp (3:15 - 4:00)
+
+Please be on time at 3:15 all piled into the workspace.
