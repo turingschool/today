@@ -113,26 +113,26 @@ your understanding in the process
 
 ### Electives (2:00 - 3:10)
 
-#### DJ Greenfield - "Amelioration Pattern: Modelling the Current User'
+#### DJ Greenfield - Amelioration Pattern: Modelling the Current User in Classroom B
 
 - Identify the antipattern of current_user as a helper method
 - Explore Draper and <%= render current_user.nav_partial %> as solutions
 - Eliminate conditions from the views
 
-#### Michael Dorrance - Breaking down problems with wireframes
+#### Michael Dorrance - Breaking down problems with wireframes in the big workspace
 
 - Gain an understanding of the REAL user stories
 - Introduce wireframing tools and techniques
 - Lets break down the user stories with the classic project "Traffic Spy"
 - Build a clickable wireframe of Traffic Spy using Balsamiq
 
-#### Morgan Miller - Getting to know the Rails console
+#### Morgan Miller - Getting to know the Rails console in Classroom A
 
 - Making it more readable with awesome_print
 - Tricks to make your workflow more efficient
 - How to test helpers, make app requests and more
 
-#### Lev Kravinsky - Reimplementing Enumerable and Enumerator
+#### Lev Kravinsky - Reimplementing Enumerable and Enumerator in Classroom C
 
 - Build Enumerable's such as Map and Find on top of a custom Each method
 - Build an Enumerator class that allows us to chain together our custom Enumerables
