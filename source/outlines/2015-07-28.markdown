@@ -2,3 +2,66 @@
 title: 20150728
 layout: outline
 ---
+
+Today, in 1935, the Boeing B-17 Flying Fortress flew for the first time.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Take a look at the text for [The Cat in the Hat](https://gist.github.com/stevekinney/d60c17fdcfb258f6d416).
+
+Can you parse it to figure out how many times each word appears in the story?
+Which word appears the most?
+How many words are there in total?
+Did you consider capitalization?
+What about punctuation?
+What about spacing?
+Can you solve in JavaScript? Go? C? Assembly?
+
+
+## 1502
+
+### Topics in Ruby (9:00 - 10:30)
+
+Join Jeff in Classroom B.
+
+### Topics in JavaScript (10:30 - 12:00)
+
+Join Steve in Classroom B.
+
+
+## 1503
+
+### Project Work Time (9:00 - 12:00)
+
+### Project Check-Ins (1:00 - 4:00)
+
+Schedule TBA. 
+
+
+## 1505
+
+### Authentication (9:00 - 12:00)
+
+A critical topic when it comes to web apps, authentication will be in Classroom C with Josh.
+
+### Authentication Work Time (1:00 - 4:00)
+
+Put what you've learned in the morning to the test by practicing it.
+
+
+## 1507 
+
+### Project Work Time (9:00 - 10:30)
+
+Forge ahead with your Sales Engines and Enigmas.
+
+### All: Credit Check Dojo (10:30 - 12:00)
+
+Join Mike in Classroom A.
+
+### All: Fundamental Refactoring (1:00 - 4:00)
+
+Join Jeff in Classroom A.
+

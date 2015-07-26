@@ -2,3 +2,101 @@
 title: 20150729
 layout: outline
 ---
+
+Today in 1958, NASA was created!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+n! means n × (n − 1) × ... × 3 × 2 × 1
+
+For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800, and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
+
+Find the sum of the digits in the number 100!
+
+(This is actually one of those cases where a functional language like Clojure or JavaScript can be useful. See if you can solve it in a functional language.)
+
+
+## 1502 
+
+### Introduction to Services (9:00 - 12:00)
+
+Join Jeff in Classroom A.
+
+### Pub/Sub on the Server (1:00 - 2:30)
+
+Join Steve in Classroom A.
+
+### Building Real-Time Applications in Node (2:30 - 4:00)
+
+Stay in Classroom A with Steve.
+
+
+## 1503
+
+### Testing an Internal API with Austen Ito. (9:00 - 10:30)
+
+You are so lucky! You get to learn from Austen Ito!
+
+Classroom B.
+
+### Serving JSON from Rails (10:30 - 12:00)
+
+And now you get to learn how to serve that JSON!
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.markdown)
+
+### Project Work Time (1:00 - 4:00)
+
+Work work work.
+
+
+## 1505 
+
+### Routing in Rails (9:00 - 10:30)
+
+In Classroom C, you will learn about that routes.rb.
+
+Don't worry, it's not as intimidating as that file looks.
+
+### Authorization (10:30 - 12:00)
+
+Stay in Classroom C and you'll learn about Authorization, the other half of logging in.
+
+### Work Time: Authorization in my Jams (1:00 - 4:00)
+
+I can't even.
+
+### Mid Module Assessments (1:00 - 4:00)
+
+#### With Josh
+
+* 1:00 - Sebastian Abondano
+* 1:45 - David Shim
+* 2:30 - Jai Misra
+* 3:15 - Adam Caron
+
+#### With Mike
+
+* 1:00 - Marla Brizel
+* 1:45 - Alex Tideman
+* 2:30 - Max Millington
+* 3:15 - Lovisa Svallingson
+
+
+## 1507
+
+### All: Project Work Time (9:00 - 12:00)
+
+You can do it.  I believe in you.
+
+### All: Working with Ruby Modules (1:00 - 2:30)
+
+Join Jeff in Classroom A.
+
+### All: Pairing Games (2:30 - 4:00)
+
+Stay in Classroom A.
+
+ 

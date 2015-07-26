@@ -2,3 +2,120 @@
 title: 20150730
 layout: outline
 ---
+
+Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restuarant. He is never seen or heard from again.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Thursday is JavaScript day!
+
+Given the following two arrays:
+
+var firstList = ["A", "B", "C", "D", "E", "F"];
+
+var secondList = ["C", "E", "F"];
+
+Write a function that removes all of the elements in the secondList from the firstList.
+
+The result should be ["A", "B", "D"].
+
+### Student Advisory Board (After Wrap-Up)
+
+Location TBA.
+
+## 1502 
+
+### Code Challenge (9:00 - 12:00)
+
+Do the thing.
+
+### Code Challenge Evaluations (1:00 - 4:00)
+
+#### With Steve
+
+* 1:00 - Andrew Carmer
+* 1:20 - David Daniel
+* 1:40 - Eric Dowty
+* 2:00 - Kenny Chen
+* 2:20 - BREAK
+* 2:30 - Kristina Brown
+* 2:50 - Kyle Henson
+* 3:10 - Michelle Golle
+* 3:30 - Mihir Parikh
+
+
+#### With Jeff
+
+* 1:00 - Minnie Lee
+* 1:20 - Patrick Medaugh
+* 1:40 - Tess Griffin
+* 2:00 - Thomas Leskin
+* 2:20 - BREAK
+* 2:30 - Tracy Caruso
+* 2:50 - Lori Culberson
+* 3:10 - Fred Block
+
+
+## 1503
+
+### Project Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+### Self-Directed Projects Kick-Off (1:00 - 3:00)
+
+Come to this with three separate ideas in Classroom B. 
+
+Trust me, you do NOT want to have fewer than three.
+
+### Demo Prep (3:00 - 4:00)
+
+Prep them demos.
+
+
+## 1505
+
+### Git Workflow (9:00 - 12:00)
+
+Classroom C.
+
+### Rails Mini Project / Mid Module Assessments (1:00 - 4:00)
+
+#### With Josh
+
+* 1:00 - Drew Conly 
+* 1:45 - Samson Brock
+* 2:30 - Mike Reeves
+
+#### With Mike
+
+* 1:00 - Mitch Ashby
+* 1:45 - Michael Dorrance
+* 2:30 - Jason Wright 
+
+
+## 1507
+
+### Echo: Sales Engine Work Time (9:00 - 12:00)
+
+Work on those Sales Engines. 
+
+### Foxtrot: Enigma Evaluations and Exercism Work Time (9:00 - 12:00)
+
+#### With Jeff
+
+* 9:00 - Rose Kohn and Rebekah Sosa
+* 9:30 - Nicole Hall and Adam Jensen
+* 10:00 - Mimi Schatz and Regis Boudinot
+* 10:30 - BREAK
+* 11:00 - Bret Doucette and Rachel Parri
+* 11:30 -  Mary Beth Burch and David Stinnette
+
+#### With Mystery Evaluator
+
+* 9:00 - Chad Minnerath and Michael Wong
+* 9:30 - Jeff Ruane and Jerrod Paul Junker
+* 10:00 - Chris Cenatiempo and Justin Pease
+* 10:30 - Travis Haby and Tyler Komoroske
