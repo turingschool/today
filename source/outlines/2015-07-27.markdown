@@ -1,0 +1,113 @@
+---
+title: 20150727
+layout: outline
+---
+
+Today, in 1929, the Geneva Convention was signed.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
+
+* Is this an approach you would use in your code?
+* What are some of the advantages of this approach?
+* What are some potential problems that arise from this approach?
+* Discuss.
+
+## 1502 
+
+### Game Time Evaluations (9:00 - 12:00)
+
+#### With Steve
+
+* 9:00 - Tess Griffin and Eric Dowty
+* 9:45 - Lori Culberson and Fred Block
+* 10:30 - Tracy Caruso and David Daniel
+* 11:15 - Mihir Parikh and Kyle Henson
+
+#### With Jeff 
+
+* 9:00 - Kristina Brown, Andrew Carmer, Kenny Chen
+* 9:45 - Michelle Golle and Tom Leskin
+* 10:30 - Minnie Lee and Patrick Medaugh
+
+### Final Project Kickoff (1:00 - 2:30)
+
+dun Dun DUN.
+
+
+## 1503
+
+### Building and Securing an API (9:00 - 12:00)
+
+If you build it, you will then secure it.
+
+Join Jorge in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+
+### Project Work Time (1:00 - 2:30)
+
+Work on the thing.
+
+
+## 1505 
+
+### Contact Manager Q and A (9:00 - 10:00)
+
+Join Josh in Classroom C to ask and answer some questions about Contact Manager.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+Stick around in Classroom C where will you learn some awesome things that you can do with ActiveRecord.
+
+### Sessions, Cookies and Flashes (1:00 - 4:00)
+
+You will be in Classroom C with Josh as you learn more about things.
+
+
+## 1507
+
+#### All: Dyanmics (9:00 - 9:30)
+
+Classroom A with Jeff.
+
+#### All: Throwdown (9:30 - 10:30)
+
+Classroom A with Mike.
+
+#### Echo: Sales Engine KickOff (10:30 - 12:00)
+
+Echo stays in Classroom A with Mike. As you kick off the BEST of projects.
+
+#### Foxtrot: Enigma Work Time (10:30 - 12:00)
+
+This is your Enigma Work Time. This is not free time, it's where you work with your pair on Enigma, and you can ask instructors for assistance if you have issues.
+
+#### All: Boolean Logic Deep Dive (1:00 - 2:30)
+
+Head to Classroom A with Jeff.
+
+#### Both: Work Time (2:30 - 4:00)
+
+Push ahead either on Sales Engine or Enigma.
+
+#### Foxtrot: Enigma Check-Ins (2:30 - 4:00)
+
+With Mike in his favorite perch.
+
+* 2:30 - Rose Kohn & Rebekah Sosa
+* 2:40 - Nicole Hall & Adam Jensen
+* 2:50 - Mimi Schatz & Regis Boudinot
+* 3:00 - Bret Doucette & Rachel Parri
+* 3:10 - Mary Beth Burch & David Stinnette
+* 3:20 - Chad Minnerath & Michael Wong
+* 3:30 - Jeff Ruane & Jerrod Paul Junker
+* 3:40 - Chris Cenatiempo & Justin Pease
+* 3:50 - Travis Haby & Tyler Komoroske 
+
+#### Homework: Foxtrot 
+
+* [Credit Check](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)

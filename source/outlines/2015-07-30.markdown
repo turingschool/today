@@ -1,0 +1,4 @@
+---
+title: 20150730
+layout: outline
+---
