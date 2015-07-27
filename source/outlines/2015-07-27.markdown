@@ -20,6 +20,8 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 ### Game Time Evaluations (9:00 - 12:00)
 
+* [Rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
 #### With Steve
 
 * 9:00 - Tess Griffin and Eric Dowty
