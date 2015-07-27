@@ -3,7 +3,7 @@ title: 20150727
 layout: outline
 ---
 
-Today, in 1929, the Geneva Convention was signed.
+Today, in 1929, the [Geneva Convention](https://www.law.cornell.edu/wex/geneva_conventions) was signed.
 
 ## All
 
@@ -31,9 +31,9 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 #### With Jeff
 
-* 9:00 - Kristina Brown, Andrew Carmer, Kenny Chen
 * 9:45 - Michelle Golle and Tom Leskin
 * 10:30 - Minnie Lee and Patrick Medaugh
+* 11:15 - Kristina Brown, Andrew Carmer, Kenny Chen
 
 ### Final Project Kickoff (1:00 - 2:30)
 
@@ -44,16 +44,32 @@ Meet with Steve in Classroom A to kick off your final project.
 
 ### Building and Securing an API (9:00 - 12:00)
 
-If you build it, you will then secure it.
+Learn how to build an internal API by reponding to JSON and XML, creating versioned controllers, and securing your endpoints.
+
+For this class, please:
+
+* Clone this repo: `git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api`
+* Have the Postman Chrome extension ready.
+
+The materials for this lesson are:
+
+* [Notes - Building an API](git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api)
+* [Notes - Securing an API](https://www.dropbox.com/s/0srzdbe5t4if9cu/Turing%20-%20Securing%20an%20API%20%28Notes%29.pages?dl=0)
+* [Video](#) - This will be posted after the class
 
 Join Jorge in Classroom B.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+### Rales Engine (1:00 - 2:30)
 
-### Project Work Time (1:00 - 2:30)
+You haven't forgotten about your old friend SalesEngine, have you? That's ok if you have, since this project will re-acquaint you!
 
-Work on the thing.
+In this project, we'll use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
 
+You can find the specs [here](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/rales_engine.markdown).
+
+The project is due on Thursday.
+
+Join Jorge in Classroom B.
 
 ## 1505
 
@@ -63,12 +79,15 @@ Join Josh in Classroom C to ask and answer some questions about Contact Manager.
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
-Stick around in Classroom C where will you learn some awesome things that you can do with ActiveRecord.
+Stick around in Classroom C where will you will practice your ActiveRecord chops.
+
+[Hiyah!!](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown)
 
 ### Sessions, Cookies and Flashes (1:00 - 4:00)
 
 You will be in Classroom C with Josh as you learn more about things.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown)
 
 ## 1507
 
