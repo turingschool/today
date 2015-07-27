@@ -39,6 +39,9 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 Meet with Steve in Classroom A to kick off your final project.
 
+### TIP (2:30 - 4:00)
+
+Join Josh Cheek in the Workspace for some TIP action.
 
 ## 1503
 
@@ -70,6 +73,10 @@ You can find the specs [here](https://github.com/JumpstartLab/curriculum/blob/ma
 The project is due on Thursday.
 
 Join Jorge in Classroom B.
+
+### TIP (2:30 - 4:00)
+
+Join Josh Cheek in the Workspace for some TIP action.
 
 ## 1505
 
