@@ -145,4 +145,4 @@ With Mike in his favorite perch.
 
 #### Homework: Foxtrot
 
-* [Credit Check](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
+Tonight, on your own, please complete [Part 1 of Ruby in Ruby](https://github.com/turingschool/challenges/blob/master/ruby_in_ruby.markdown)
