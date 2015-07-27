@@ -41,7 +41,7 @@ Meet with Steve in Classroom A to kick off your final project.
 
 ### TIP (2:30 - 4:00)
 
-Join Josh Cheek in the Workspace for some TIP action.
+Join Josh Cheek in the Workspace, where we'll [merge some sorted arrays](https://github.com/turingschool/challenges/blob/d7f7d3e726ce95667ed3f1e1996de2895efadc7c/sorted_merging.markdown).
 
 ## 1503
 
@@ -76,7 +76,7 @@ Join Jorge in Classroom B.
 
 ### TIP (2:30 - 4:00)
 
-Join Josh Cheek in the Workspace for some TIP action.
+Join Josh Cheek in the Workspace, where we'll [merge some sorted arrays](https://github.com/turingschool/challenges/blob/d7f7d3e726ce95667ed3f1e1996de2895efadc7c/sorted_merging.markdown).
 
 ## 1505
 
