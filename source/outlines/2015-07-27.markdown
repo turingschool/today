@@ -16,7 +16,7 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 * What are some potential problems that arise from this approach?
 * Discuss.
 
-## 1502 
+## 1502
 
 ### Game Time Evaluations (9:00 - 12:00)
 
@@ -27,7 +27,7 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 * 10:30 - Tracy Caruso and David Daniel
 * 11:15 - Mihir Parikh and Kyle Henson
 
-#### With Jeff 
+#### With Jeff
 
 * 9:00 - Kristina Brown, Andrew Carmer, Kenny Chen
 * 9:45 - Michelle Golle and Tom Leskin
@@ -35,7 +35,7 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 ### Final Project Kickoff (1:00 - 2:30)
 
-dun Dun DUN.
+Meet with Steve in Classroom A to kick off your final project.
 
 
 ## 1503
@@ -53,7 +53,7 @@ Join Jorge in Classroom B.
 Work on the thing.
 
 
-## 1505 
+## 1505
 
 ### Contact Manager Q and A (9:00 - 10:00)
 
@@ -106,8 +106,8 @@ With Mike in his favorite perch.
 * 3:20 - Chad Minnerath & Michael Wong
 * 3:30 - Jeff Ruane & Jerrod Paul Junker
 * 3:40 - Chris Cenatiempo & Justin Pease
-* 3:50 - Travis Haby & Tyler Komoroske 
+* 3:50 - Travis Haby & Tyler Komoroske
 
-#### Homework: Foxtrot 
+#### Homework: Foxtrot
 
 * [Credit Check](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
