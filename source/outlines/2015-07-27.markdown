@@ -61,12 +61,15 @@ Join Josh in Classroom C to ask and answer some questions about Contact Manager.
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
-Stick around in Classroom C where will you learn some awesome things that you can do with ActiveRecord.
+Stick around in Classroom C where will you will practice your ActiveRecord chops.
+
+[Hiyah!!](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown)
 
 ### Sessions, Cookies and Flashes (1:00 - 4:00)
 
 You will be in Classroom C with Josh as you learn more about things.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown)
 
 ## 1507
 
