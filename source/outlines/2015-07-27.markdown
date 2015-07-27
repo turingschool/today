@@ -51,7 +51,7 @@ For this class, please:
 
 The materials for this lesson are:
 
-* [Notes - Building an API](git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api)
+* [Notes - Building an API](https://www.dropbox.com/s/af4gkrwov55fl1e/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
 * [Notes - Securing an API](https://www.dropbox.com/s/0srzdbe5t4if9cu/Turing%20-%20Securing%20an%20API%20%28Notes%29.pages?dl=0)
 * [Video](#) - This will be posted after the class
 
