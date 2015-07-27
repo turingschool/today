@@ -20,6 +20,8 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 ### Game Time Evaluations (9:00 - 12:00)
 
+* [Rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
 #### With Steve
 
 * 9:00 - Tess Griffin and Eric Dowty
@@ -29,14 +31,17 @@ Watch [Barewords](https://www.youtube.com/watch?v=7SSc1mQ4-Ck) by Avdi Grimm.
 
 #### With Jeff
 
-* 9:00 - Kristina Brown, Andrew Carmer, Kenny Chen
 * 9:45 - Michelle Golle and Tom Leskin
 * 10:30 - Minnie Lee and Patrick Medaugh
+* 11:15 - Kristina Brown, Andrew Carmer, Kenny Chen
 
 ### Final Project Kickoff (1:00 - 2:30)
 
 Meet with Steve in Classroom A to kick off your final project.
 
+### TIP (2:30 - 4:00)
+
+Join Josh Cheek in the Workspace for some TIP action.
 
 ## 1503
 
@@ -69,6 +74,10 @@ The project is due on Thursday.
 
 Join Jorge in Classroom B.
 
+### TIP (2:30 - 4:00)
+
+Join Josh Cheek in the Workspace for some TIP action.
+
 ## 1505
 
 ### Contact Manager Q and A (9:00 - 10:00)
@@ -91,7 +100,14 @@ You will be in Classroom C with Josh as you learn more about things.
 
 #### All: Dyanmics (9:00 - 9:30)
 
-Classroom A with Jeff.
+Meet with Jeff in Classroom A and sit close to these people:
+
+* A: Bret Doucette & Travis Haby & Rose Kohn & Mary Beth Burch
+* B: Alon Waisman & Chris Cenatiempo & Mimi Schatz & Tyler Komoroske
+* C: Ryan Asensio & Rebekah Sosa & Matt Ewell & Regis Boudinot
+* D: Adam Jensen & Jeff Ruane & Nicole Hall & Matt Hecker
+* E: Justin Holzmann & George Hudson & Russell Harms & Jerrod Paul Junker
+* F: Rachel Parri & Michael Wong & Justin Pease & David Stinnette & Chad Minnerath
 
 #### All: Throwdown (9:30 - 10:30)
 
