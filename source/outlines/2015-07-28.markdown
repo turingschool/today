@@ -91,4 +91,32 @@ Join Mike in Classroom A to [build a wizarding bank](https://github.com/turingsc
 
 ### All: Fundamental Refactoring (1:00 - 4:00)
 
-Join Jeff in Classroom A.
+Join Jeff in Classroom A where we'll [work on refactoring](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown).
+
+#### Rotations:
+
+* Adam Jensen: hide delegate, extract class, move method
+* Alon Waisman: move method, extract class, hide delegate
+* Bret Doucette: hide delegate, move method, extract class
+* Chad Minnerath: extract class, hide delegate, move method
+* Chris Cenatiempo: move method, extract class, hide delegate
+* David Stinnette: move method, extract class, hide delegate
+* George Hudson: extract class, hide delegate, move method
+* Jeff Ruane: extract class, hide delegate, move method
+* Jerrod Paul Junker: extract class, hide delegate, move method
+* Justin Holzmann: move method, extract class, hide delegate
+* Justin Pease: extract class, hide delegate, move method
+* Mary Beth Burch: move method, hide delegate, extract class
+* Matt Ewell: move method, hide delegate, extract class
+* Matt Hecker: move method, extract class, hide delegate
+* Michael Wong: extract class, hide delegate, move method
+* Mimi Schatz: hide delegate, move method, extract class
+* Nicole Hall: hide delegate, extract class, move method
+* Rachel Parri: hide delegate, move method, extract class
+* Rebekah Sosa: move method, extract class, hide delegate
+* Regis Boudinot: extract class, move method, hide delegate
+* Rose Kohn: extract class, move method, hide delegate
+* Russell Harms: hide delegate, extract class, move method
+* Ryan Asensio: move method, hide delegate, extract class
+* Travis Haby: extract class, move method, hide delegate
+* Tyler Komoroske: hide delegate, move method, extract class
