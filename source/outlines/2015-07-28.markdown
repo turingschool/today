@@ -22,14 +22,28 @@ Can you solve in JavaScript? Go? C? Assembly?
 
 ## 1502
 
-### Topics in Ruby (9:00 - 10:30)
+### The Ruby Object Model Revisited (9:00 - 12:00)
 
-Join Jeff in Classroom B.
+Meet with Josh Cheek in Classroom B to rediscover the Ruby object model.
 
-### Topics in JavaScript (10:30 - 12:00)
+### Project Work Time: Iteration Planning
 
-Join Steve in Classroom B.
+Today you will focus on wire framing your applications and planning out your iterations.
 
+Break your project into 3-4 day sprints. What is the smallest, simplest possible working version of your project that you can have by the end of the week? What features will you plan to add by Monday?
+
+### Project Check-ins (1:00 - 4:00)
+
+Please come with your learning goals and a basic rundown of what your application will do.
+
+* 1:00 - 1:15: Patrick
+* 1:20 - 1:35: Tracy and Minnie
+* 1:40 - 1:55: Eric, Andrew, and Kristina
+* 2:00 - 2:15: Fred
+* 2:20 - 2:35: Tom, Kenny, and Tess
+* 2:40 - 2:55: Michelle, Mihir, and Kyle
+* 3:00 - 3:15: David
+* 3:20 - 3:35: Lori
 
 ## 1503
 
@@ -37,7 +51,7 @@ Join Steve in Classroom B.
 
 ### Project Check-Ins (1:00 - 4:00)
 
-Schedule TBA. 
+Schedule TBA.
 
 
 ## 1505
@@ -51,7 +65,7 @@ A critical topic when it comes to web apps, authentication will be in Classroom 
 Put what you've learned in the morning to the test by practicing it.
 
 
-## 1507 
+## 1507
 
 ### Project Work Time (9:00 - 10:30)
 
