@@ -18,19 +18,15 @@ Find the sum of the digits in the number 100!
 (This is actually one of those cases where a functional language like Clojure or JavaScript can be useful. See if you can solve it in a functional language.)
 
 
-## 1502 
+## 1502
 
 ### Introduction to Services (9:00 - 12:00)
 
 Join Jeff in Classroom A.
 
-### Pub/Sub on the Server (1:00 - 2:30)
+### Project Work Time (1:00 - 4:00)
 
-Join Steve in Classroom A.
-
-### Building Real-Time Applications in Node (2:30 - 4:00)
-
-Stay in Classroom A with Steve.
+Steve is on hand for questions.
 
 
 ## 1503
@@ -52,7 +48,7 @@ And now you get to learn how to serve that JSON!
 Work work work.
 
 
-## 1505 
+## 1505
 
 ### Routing in Rails (9:00 - 10:30)
 
@@ -99,4 +95,4 @@ Join Jeff in Classroom A.
 
 Stay in Classroom A.
 
- 
+

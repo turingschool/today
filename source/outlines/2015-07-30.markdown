@@ -3,7 +3,7 @@ title: 20150730
 layout: outline
 ---
 
-Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restuarant. He is never seen or heard from again.
+Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant. He is never seen or heard from again.
 
 ## All
 
@@ -25,38 +25,26 @@ The result should be ["A", "B", "D"].
 
 Location TBA.
 
-## 1502 
+## 1502
 
-### Code Challenge (9:00 - 12:00)
+### Pub/Sub on the Server (9:00 - 10:30)
 
-Do the thing.
+Join Steve in Classroom A.
 
-### Code Challenge Evaluations (1:00 - 4:00)
+### Building Real-Time Applications in Node (10:30 - 12:00)
 
-#### With Steve
+Stay in Classroom A with Steve.
 
-* 1:00 - Andrew Carmer
-* 1:20 - David Daniel
-* 1:40 - Eric Dowty
-* 2:00 - Kenny Chen
-* 2:20 - BREAK
-* 2:30 - Kristina Brown
-* 2:50 - Kyle Henson
-* 3:10 - Michelle Golle
-* 3:30 - Mihir Parikh
+### Project Check-ins (1:00 - 4:00)
 
-
-#### With Jeff
-
-* 1:00 - Minnie Lee
-* 1:20 - Patrick Medaugh
-* 1:40 - Tess Griffin
-* 2:00 - Thomas Leskin
-* 2:20 - BREAK
-* 2:30 - Tracy Caruso
-* 2:50 - Lori Culberson
-* 3:10 - Fred Block
-
+* 1:00 - 1:15: Fred
+* 1:20 - 1:35: Lori
+* 1:40 - 1:55: Michelle, Mihir, and Kyle
+* 2:00 - 2:15: David
+* 2:20 - 2:35: Eric, Andrew, and Kristina
+* 2:40 - 2:55: Patrick
+* 3:00 - 3:15: Tracy and Minnie
+* 3:20 - 3:35: Tom, Kenny, and Tess
 
 ## 1503
 
@@ -66,7 +54,7 @@ Schedule TBA
 
 ### Self-Directed Projects Kick-Off (1:00 - 3:00)
 
-Come to this with three separate ideas in Classroom B. 
+Come to this with three separate ideas in Classroom B.
 
 Trust me, you do NOT want to have fewer than three.
 
@@ -85,7 +73,7 @@ Classroom C.
 
 #### With Josh
 
-* 1:00 - Drew Conly 
+* 1:00 - Drew Conly
 * 1:45 - Samson Brock
 * 2:30 - Mike Reeves
 
@@ -93,14 +81,14 @@ Classroom C.
 
 * 1:00 - Mitch Ashby
 * 1:45 - Michael Dorrance
-* 2:30 - Jason Wright 
+* 2:30 - Jason Wright
 
 
 ## 1507
 
 ### Echo: Sales Engine Work Time (9:00 - 12:00)
 
-Work on those Sales Engines. 
+Work on those Sales Engines.
 
 ### Foxtrot: Enigma Evaluations and Exercism Work Time (9:00 - 12:00)
 
