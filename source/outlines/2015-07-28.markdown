@@ -25,6 +25,7 @@ Can you solve in JavaScript? Go? C? Assembly?
 ### The Ruby Object Model Revisited (9:00 - 12:00)
 
 Meet with Josh Cheek in Classroom B to rediscover the Ruby object model.
+Here are our notes! [https://gist.github.com/JoshCheek/829eda446a971cca89ad](https://gist.github.com/JoshCheek/829eda446a971cca89ad)
 
 ### Project Work Time: Iteration Planning
 
@@ -84,11 +85,10 @@ Put what you've learned in the morning to the test by practicing it.
 
 Forge ahead with your Sales Engines and Enigmas.
 
-### All: Credit Check Dojo (10:30 - 12:00)
+### All: Wizard Dojo (10:30 - 12:00)
 
-Join Mike in Classroom A.
+Join Mike in Classroom A to [build a wizarding bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown).
 
 ### All: Fundamental Refactoring (1:00 - 4:00)
 
 Join Jeff in Classroom A.
-
