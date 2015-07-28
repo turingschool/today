@@ -25,6 +25,7 @@ Can you solve in JavaScript? Go? C? Assembly?
 ### The Ruby Object Model Revisited (9:00 - 12:00)
 
 Meet with Josh Cheek in Classroom B to rediscover the Ruby object model.
+Here are our notes! [https://gist.github.com/JoshCheek/829eda446a971cca89ad](https://gist.github.com/JoshCheek/829eda446a971cca89ad)
 
 ### Project Work Time: Iteration Planning
 
@@ -36,6 +37,8 @@ Break your project into 3-4 day sprints. What is the smallest, simplest possible
 
 Please come with your learning goals and a basic rundown of what your application will do.
 
+### With Steve
+
 * 1:00 - 1:15: Patrick
 * 1:20 - 1:35: Tracy and Minnie
 * 1:40 - 1:55: Eric, Andrew, and Kristina
@@ -44,6 +47,17 @@ Please come with your learning goals and a basic rundown of what your applicatio
 * 2:40 - 2:55: Michelle, Mihir, and Kyle
 * 3:00 - 3:15: David
 * 3:20 - 3:35: Lori
+
+### With Austen
+
+* 1:00 - 1:15: Lori
+* 1:20 - 1:35: Patrick
+* 1:40 - 1:55: Tracy and Minnie
+* 2:00 - 2:15: Eric, Andrew, and Kristina
+* 2:20 - 2:35: Fred
+* 2:40 - 2:55: Tom, Kenny, and Tess
+* 3:00 - 3:15: Michelle, Mihir, and Kyle
+* 3:20 - 3:35: David
 
 ## 1503
 
