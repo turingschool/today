@@ -46,13 +46,12 @@ Stay in Classroom A with Steve.
 ### Project Check-ins (1:00 - 4:00)
 
 * 1:00 - 1:15: Fred
-* 1:20 - 1:35: Lori
-* 1:40 - 1:55: Michelle, Mihir, and Kyle
-* 2:00 - 2:15: David
-* 2:20 - 2:35: Eric, Andrew, and Kristina
-* 2:40 - 2:55: Patrick
-* 3:00 - 3:15: Tracy and Minnie
-* 3:20 - 3:35: Tom, Kenny, and Tess
+* 1:20 - 1:35: Michelle, Mihir, and Kyle
+* 1:40 - 1:55: David
+* 2:00 - 2:15: Eric, Andrew, and Kristina
+* 2:20 - 2:35: Patrick
+* 2:40 - 2:55: Tracy and Minnie, Lori
+* 3:00 - 3:15: Tom, Kenny, and Tess
 
 ## 1503
 
