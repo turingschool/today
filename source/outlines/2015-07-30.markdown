@@ -31,9 +31,17 @@ Location TBA.
 
 Join Steve in Classroom A.
 
+(If you don't have Redis installed, please make sure you install it before coming to class: `brew install redis`.)
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [Repository](https://github.com/turingschool-examples/slacker)
+
 ### Building Real-Time Applications in Node (10:30 - 12:00)
 
 Stay in Classroom A with Steve.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+* [Repository](https://github.com/turingschool-examples/right-now)
 
 ### Project Check-ins (1:00 - 4:00)
 
