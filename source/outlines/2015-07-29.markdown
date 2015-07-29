@@ -24,13 +24,9 @@ Find the sum of the digits in the number 100!
 
 Join Jeff in Classroom A to [get started with services](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_services.markdown) and work on [RepFinder](http://tutorials.jumpstartlab.com/projects/monsterporium/practicing_services.html).
 
-### Pub/Sub on the Server (1:00 - 2:30)
+### Project Work Time (1:00 - 4:00)
 
-Join Steve in Classroom A.
-
-### Building Real-Time Applications in Node (2:30 - 4:00)
-
-Stay in Classroom A with Steve.
+Steve is on hand for questions.
 
 
 ## 1503
