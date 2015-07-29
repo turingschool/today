@@ -56,6 +56,8 @@ In Classroom C, you will learn about that routes.rb.
 
 Don't worry, it's not as intimidating as that file looks.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown)
+
 ### Authorization (10:30 - 12:00)
 
 Stay in Classroom C and you'll learn about Authorization, the other half of logging in.
