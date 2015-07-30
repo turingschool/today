@@ -65,10 +65,10 @@ Before your evaluation, please submit your repo and production urls here: https:
 
 #### With Jorge
 
-* 9:00 - 9:15: Brett Grigsby
-* 9:15 - 9:30: Max Tedford
-* 9:30 - 9:45: Rick Bacci
-* 9:45 - 10:00: Sally MacNicholas
+* 10:00 - 10:15: Brett Grigsby
+* 10:15 - 10:30: Max Tedford
+* 10:30 - 10:45: Rick Bacci
+* 10:45 - 11:00: Sally MacNicholas
 * 11:00 - 11:15: Margarett Ly
 * 11:15 - 11:30: Chelsea Worrel
 * 11:30 - 11:45: Rob Cornell
