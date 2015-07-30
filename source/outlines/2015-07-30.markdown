@@ -113,7 +113,7 @@ We will kickoff the project on Monday after lunch.
 
 ### Git Workflow (9:00 - 12:00)
 
-Classroom C.
+Classroom C with Mike.
 
 ### Rails Mini Project / Mid Module Assessments (1:00 - 4:00)
 
