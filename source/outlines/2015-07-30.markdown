@@ -57,7 +57,35 @@ Stay in Classroom A with Steve.
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+Before your evaluation, please submit your repo and production urls here: https://github.com/turingschool/ruby-submissions/blob/master/1503/10_rales_engine.markdown.
+
+#### With Jorge
+
+* 9:00 - 9:15: Brett Grigsby
+* 9:15 - 9:30: Max Tedford
+* 9:30 - 9:45: Rick Bacci
+* 9:45 - 10:00: Sally MacNicholas
+* 11:00 - 11:15: Margarett Ly
+* 11:15 - 11:30: Chelsea Worrel
+* 11:30 - 11:45: Rob Cornell
+
+#### With Josh
+
+* 9:00 - 9:15: Drew Reynolds
+* 9:15 - 9:30: Josh Cass
+* 9:30 - 9:45: Lev Kravinsky
+* 9:45 - 10:00: Whitney Hiemstra
+
+#### With DJ
+
+* 9:00 - 9:15: Vanessa Gomez
+* 9:15 - 9:30: Andrew Fink
+* 9:30 - 9:45: Morgan Miller
+* 9:45 - 10:00: Justin Holmes
+* 10:00 - 10:15: Erik Butcher
+* 10:15 - 10:30: Jack Yeh
+* 10:30 - 10:45: Dave Maurer
+* 10:45 - 11:00: Jamie Kawahara
 
 ### Self-Directed Projects Kick-Off (1:00 - 3:00)
 
