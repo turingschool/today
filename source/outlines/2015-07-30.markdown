@@ -121,6 +121,8 @@ Classroom C.
 
 ### Rails Mini Project / Mid Module Assessments (1:00 - 4:00)
 
+[Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
 #### With Josh
 
 * 1:00 - Drew Conly
