@@ -20,17 +20,24 @@ Find the sum of the digits in the number 100!
 
 ## 1502
 
-### Introduction to Services (9:00 - 12:00)
+### Getting Started with Services (9:00 - 12:00)
 
-Join Jeff in Classroom A.
+Join Jeff in Classroom A to [get started with services](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_services.markdown) and work on [RepFinder](http://tutorials.jumpstartlab.com/projects/monsterporium/practicing_services.html).
 
-### Pub/Sub on the Server (1:00 - 2:30)
+We will work in the following pairs:
 
-Join Steve in Classroom A.
+* Mihir Parikh & Minnie Lee
+* Thomas Leskin & Eric Dowty
+* Michelle Golle & Tracy Caruso
+* David Daniel & Kenny Chen
+* Andrew Carmer & Lori Culberson
+* Kyle Henson & Fred Block
+* Tess Griffin & Patrick Medaugh
+* Kristina Brown & Austen Ito
 
-### Building Real-Time Applications in Node (2:30 - 4:00)
+### Project Work Time (1:00 - 4:00)
 
-Stay in Classroom A with Steve.
+Steve is on hand for questions.
 
 
 ## 1503
@@ -59,6 +66,8 @@ Work work work.
 In Classroom C, you will learn about that routes.rb.
 
 Don't worry, it's not as intimidating as that file looks.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown)
 
 ### Authorization (10:30 - 12:00)
 

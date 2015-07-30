@@ -3,7 +3,7 @@ title: 20150730
 layout: outline
 ---
 
-Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restuarant. He is never seen or heard from again.
+Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant. He is never seen or heard from again.
 
 ## All
 
@@ -25,67 +25,107 @@ The result should be ["A", "B", "D"].
 
 Location TBA.
 
-## 1502 
+### Demo Night.
 
-### Code Challenge (9:00 - 12:00)
+No RSVP, no pizza.
 
-Do the thing.
+## 1502
 
-### Code Challenge Evaluations (1:00 - 4:00)
+### Pub/Sub on the Server (9:00 - 10:30)
 
-#### With Steve
+Join Steve in Classroom A.
 
-* 1:00 - Andrew Carmer
-* 1:20 - David Daniel
-* 1:40 - Eric Dowty
-* 2:00 - Kenny Chen
-* 2:20 - BREAK
-* 2:30 - Kristina Brown
-* 2:50 - Kyle Henson
-* 3:10 - Michelle Golle
-* 3:30 - Mihir Parikh
+(If you don't have Redis installed, please make sure you install it before coming to class: `brew install redis`.)
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [Repository](https://github.com/turingschool-examples/slacker)
 
-#### With Jeff
+### Building Real-Time Applications in Node (10:30 - 12:00)
 
-* 1:00 - Minnie Lee
-* 1:20 - Patrick Medaugh
-* 1:40 - Tess Griffin
-* 2:00 - Thomas Leskin
-* 2:20 - BREAK
-* 2:30 - Tracy Caruso
-* 2:50 - Lori Culberson
-* 3:10 - Fred Block
+Stay in Classroom A with Steve.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+* [Repository](https://github.com/turingschool-examples/right-now)
+
+### Project Check-ins (1:00 - 4:00)
+
+* 1:00 - 1:15: Fred
+* 1:20 - 1:35: Michelle, Mihir, and Kyle
+* 1:40 - 1:55: David
+* 2:00 - 2:15: Eric, Andrew, and Kristina
+* 2:20 - 2:35: Patrick
+* 2:40 - 2:55: Tracy and Minnie, Lori
+* 3:00 - 3:15: Tom, Kenny, and Tess
 
 ## 1503
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+Before your evaluation, please submit your repo and production urls here: https://github.com/turingschool/ruby-submissions/blob/master/1503/10_rales_engine.markdown.
 
-### Self-Directed Projects Kick-Off (1:00 - 3:00)
+#### With Jorge
 
-Come to this with three separate ideas in Classroom B. 
+* 10:00 - 10:15: Brett Grigsby
+* 10:15 - 10:30: Max Tedford
+* 10:30 - 10:45: Rick Bacci
+* 10:45 - 11:00: Sally MacNicholas
+* 11:00 - 11:15: Margarett Ly
+* 11:15 - 11:30: Chelsea Worrel
+* 11:30 - 11:45: Rob Cornell
 
-Trust me, you do NOT want to have fewer than three.
+#### With Austen
 
-### Demo Prep (3:00 - 4:00)
+* 9:00 - 9:15: Drew Reynolds
+* 9:15 - 9:30: Josh Cass
+* 9:30 - 9:45: Lev Kravinsky
+* 9:45 - 10:00: Whitney Hiemstra
 
-Prep them demos.
+#### With DJ
 
+* 9:00 - 9:15: Vanessa Gomez
+* 9:15 - 9:30: Andrew Fink
+* 9:30 - 9:45: Morgan Miller
+* 9:45 - 10:00: Justin Holmes
+* 10:00 - 10:15: Erik Butcher
+* 10:15 - 10:30: Jack Yeh
+* 10:30 - 10:45: Dave Maurer
+* 10:45 - 11:00: Jamie Kawahara
+
+### Self-Directed Projects Intro (1:00 - 2:00)
+
+Meet with Jorge in classroom B to talk about your Self-Directed project.
+
+The goal of this project is to create a successful web application from a project idea. You will create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
+
+Successful completion of this project will earn you your `software developer` status.
+
+You can check the projects specs [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown).
+
+### Self-Directed Project Ideation & Prep (2:00 - 4:00)
+
+To help with your ideation process, read the **High-Concept Pitches** and **Elevator Pitches** of **Pitching Hacks** by the cofounders of [AngelList](https://angel.co). These chapters are very short, practical, and easy to read (yes, I used an Oxford comma).
+
+Develop three ideas for your individual projects. The ideas must solve a real problem. You should follow the template in the [specs](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown#project-concepts).
+
+Make sure to explore the APIs you plan to use to assess the feasibility of your project.
+
+**We will meet in classroom B after wrap-up to answer any questions.**
+
+We will kickoff the project on Monday after lunch.
 
 ## 1505
 
 ### Git Workflow (9:00 - 12:00)
 
-Classroom C.
+Classroom C with Mike.
 
 ### Rails Mini Project / Mid Module Assessments (1:00 - 4:00)
 
+[Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+
 #### With Josh
 
-* 1:00 - Drew Conly 
+* 1:00 - Drew Conly
 * 1:45 - Samson Brock
 * 2:30 - Mike Reeves
 
@@ -93,29 +133,39 @@ Classroom C.
 
 * 1:00 - Mitch Ashby
 * 1:45 - Michael Dorrance
-* 2:30 - Jason Wright 
+* 2:30 - Jason Wright
 
 
 ## 1507
 
-### Echo: Sales Engine Work Time (9:00 - 12:00)
+### Echo: Sales Engine Work Time & Client Meeting (9:00 - 12:00)
 
-Work on those Sales Engines. 
+Work on those Sales Engines.
+
+At 11:30 please meet Jeff near the instructor desks to discuss your progress.
 
 ### Foxtrot: Enigma Evaluations and Exercism Work Time (9:00 - 12:00)
+
+Remember Exercism? The "diet and exercise" of Turing? Today's the day to
+get back at it. When you're not in your eval, do it.
 
 #### With Jeff
 
 * 9:00 - Rose Kohn and Rebekah Sosa
-* 9:30 - Nicole Hall and Adam Jensen
-* 10:00 - Mimi Schatz and Regis Boudinot
-* 10:30 - BREAK
-* 11:00 - Bret Doucette and Rachel Parri
-* 11:30 -  Mary Beth Burch and David Stinnette
+* 9:30 - Travis Haby and Tyler Komoroske
+* 10:00 - BREAK
+* 10:30 - Bret Doucette and Rachel Parri
+* 11:00 -  Mary Beth Burch and David Stinnette
 
-#### With Mystery Evaluator
+#### With Josh Cheek
 
 * 9:00 - Chad Minnerath and Michael Wong
 * 9:30 - Jeff Ruane and Jerrod Paul Junker
 * 10:00 - Chris Cenatiempo and Justin Pease
-* 10:30 - Travis Haby and Tyler Komoroske
+* 10:30 - BREAK
+* 11:00 - Mimi Schatz and Regis Boudinot
+* 11:30 - Nicole Hall and Adam Jensen
+
+### All: Code Retreat (1:00 - 4:00)
+
+Join Josh Cheek in Classroom A where you'll attack the classic Code Retreat puzzle: Conway's Game of Life. DJ is going to join you.
