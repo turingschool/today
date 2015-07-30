@@ -31,37 +31,83 @@ Location TBA.
 
 Join Steve in Classroom A.
 
+(If you don't have Redis installed, please make sure you install it before coming to class: `brew install redis`.)
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [Repository](https://github.com/turingschool-examples/slacker)
+
 ### Building Real-Time Applications in Node (10:30 - 12:00)
 
 Stay in Classroom A with Steve.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+* [Repository](https://github.com/turingschool-examples/right-now)
+
 ### Project Check-ins (1:00 - 4:00)
 
 * 1:00 - 1:15: Fred
-* 1:20 - 1:35: Lori
-* 1:40 - 1:55: Michelle, Mihir, and Kyle
-* 2:00 - 2:15: David
-* 2:20 - 2:35: Eric, Andrew, and Kristina
-* 2:40 - 2:55: Patrick
-* 3:00 - 3:15: Tracy and Minnie
-* 3:20 - 3:35: Tom, Kenny, and Tess
+* 1:20 - 1:35: Michelle, Mihir, and Kyle
+* 1:40 - 1:55: David
+* 2:00 - 2:15: Eric, Andrew, and Kristina
+* 2:20 - 2:35: Patrick
+* 2:40 - 2:55: Tracy and Minnie, Lori
+* 3:00 - 3:15: Tom, Kenny, and Tess
 
 ## 1503
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+Before your evaluation, please submit your repo and production urls here: https://github.com/turingschool/ruby-submissions/blob/master/1503/10_rales_engine.markdown.
 
-### Self-Directed Projects Kick-Off (1:00 - 3:00)
+#### With Jorge
 
-Come to this with three separate ideas in Classroom B.
+* 9:00 - 9:15: Brett Grigsby
+* 9:15 - 9:30: Max Tedford
+* 9:30 - 9:45: Rick Bacci
+* 9:45 - 10:00: Sally MacNicholas
+* 11:00 - 11:15: Margarett Ly
+* 11:15 - 11:30: Chelsea Worrel
+* 11:30 - 11:45: Rob Cornell
 
-Trust me, you do NOT want to have fewer than three.
+#### With Josh Mejia
 
-### Demo Prep (3:00 - 4:00)
+* 9:00 - 9:15: Drew Reynolds
+* 9:15 - 9:30: Josh Cass
+* 9:30 - 9:45: Lev Kravinsky
+* 9:45 - 10:00: Whitney Hiemstra
 
-Prep them demos.
+#### With DJ
 
+* 9:00 - 9:15: Vanessa Gomez
+* 9:15 - 9:30: Andrew Fink
+* 9:30 - 9:45: Morgan Miller
+* 9:45 - 10:00: Justin Holmes
+* 10:00 - 10:15: Erik Butcher
+* 10:15 - 10:30: Jack Yeh
+* 10:30 - 10:45: Dave Maurer
+* 10:45 - 11:00: Jamie Kawahara
+
+### Self-Directed Projects Intro (1:00 - 2:00)
+
+Meet with Jorge in classroom B to talk about your Self-Directed project.
+
+The goal of this project is to create a successful web application from a project idea. You will create an app that will authenticate with a third-party service, consume an api, and solve an actual problem.
+
+Successful completion of this project will earn you your `software developer` status.
+
+You can check the projects specs [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown).
+
+### Self-Directed Project Ideation & Prep (2:00 - 4:00)
+
+To help with your ideation process, read the **High-Concept Pitches** and **Elevator Pitches** of **Pitching Hacks** by the cofounders of [AngelList](https://angel.co). These chapters are very short, practical, and easy to read (yes, I used an Oxford comma).
+
+Develop three ideas for your individual projects. The ideas must solve a real problem. You should follow the template in the [specs](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown#project-concepts).
+
+Make sure to explore the APIs you plan to use to assess the feasibility of your project.
+
+**We will meet in classroom B after wrap-up to answer any questions.**
+
+We will kickoff the project on Monday after lunch.
 
 ## 1505
 
