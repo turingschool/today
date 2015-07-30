@@ -25,6 +25,10 @@ The result should be ["A", "B", "D"].
 
 Location TBA.
 
+### Demo Night.
+
+No RSVP, no pizza.
+
 ## 1502
 
 ### Pub/Sub on the Server (9:00 - 10:30)
@@ -141,15 +145,29 @@ Work on those Sales Engines.
 #### With Jeff
 
 * 9:00 - Rose Kohn and Rebekah Sosa
-* 9:30 - Nicole Hall and Adam Jensen
-* 10:00 - Mimi Schatz and Regis Boudinot
-* 10:30 - BREAK
-* 11:00 - Bret Doucette and Rachel Parri
-* 11:30 -  Mary Beth Burch and David Stinnette
+* 9:30 - Travis Haby and Tyler Komoroske
+* 10:00 - BREAK
+* 10:30 - Bret Doucette and Rachel Parri
+* 11:00 -  Mary Beth Burch and David Stinnette
 
-#### With Mystery Evaluator
+#### With Josh Cheek
 
 * 9:00 - Chad Minnerath and Michael Wong
 * 9:30 - Jeff Ruane and Jerrod Paul Junker
 * 10:00 - Chris Cenatiempo and Justin Pease
-* 10:30 - Travis Haby and Tyler Komoroske
+* 10:30 - BREAK
+* 11:00 - Mimi Schatz and Regis Boudinot
+* 11:30 - Nicole Hall and Adam Jensen
+
+#### All: Week 4 Diagnostic (1:00 - 2:00)
+
+Classroom A.
+
+#### All : Code Treat (2:00 - 4:00)
+
+Classroom A.
+
+#### Echo: Client Meeting (3:45 - 4:00)
+
+Meet with Mike at the conference table in Classroom A.
+
