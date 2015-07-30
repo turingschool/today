@@ -18,7 +18,7 @@ Find the sum of the digits in the number 100!
 (This is actually one of those cases where a functional language like Clojure or JavaScript can be useful. See if you can solve it in a functional language.)
 
 
-## 1502 
+## 1502
 
 ### Introduction to Services (9:00 - 12:00)
 
@@ -52,7 +52,7 @@ And now you get to learn how to serve that JSON!
 Work work work.
 
 
-## 1505 
+## 1505
 
 ### Routing in Rails (9:00 - 10:30)
 
@@ -91,12 +91,9 @@ I can't even.
 
 You can do it.  I believe in you.
 
-### All: Working with Ruby Modules (1:00 - 2:30)
+### All: Working with Ruby Modules (1:00 - 3:00)
 
-Join Jeff in Classroom A.
+Join Josh Cheek in Classroom A.
 
-### All: Pairing Games (2:30 - 4:00)
-
-Stay in Classroom A.
-
- 
+The notes from this lesson are here:
+[https://gist.github.com/JoshCheek/e653d93f98c3622f4b58](https://gist.github.com/JoshCheek/e653d93f98c3622f4b58)
