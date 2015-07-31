@@ -1,0 +1,60 @@
+---
+title: 20150728
+layout: outline
+---
+
+Today in 1819, Norwich University was founded in Vermont.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+
+## 1502
+
+### Topics in Ruby (9:00 - 10:30)
+
+### Topics in JavaScript (10:30 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1503
+
+### Project Work Time (9:00 - 12:00)
+
+### Project Work Time and Checkins (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1505
+
+### Intro to the Asset Pipeline (9:00 - 10:30)
+
+### Transactions, Callbacks and Scopes (10:30 - 12:00)
+
+### Little Shop Work Time and Checkins (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1507
+
+### Echo: Sales Engine Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+### Foxtrot: Work Time (9:00 - 12:00)
+
+### Echo: How Databases Work (1:00 - 3:30)
+
+Join Jeff.
+
+### Foxtrot: Work Time and Checkins (1:00 - 4:00)
+
+Schedule TBA
+
+### Echo: Sales Engine the SeQueL Kickoff (3:30 - 4:00)
+
+Join Jeff.
