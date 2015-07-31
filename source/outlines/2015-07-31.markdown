@@ -5,19 +5,12 @@ layout: outline
 
 ## All
 
-### Surveys
-
-* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1AazgLtnHY_mnn6Q7sn0D4rwA7Nre7PNyV2DrWwQ-wG0/viewform)
-* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1o50ml_kfEv_5J42BpwPJrq4JQW5uwwmL1_Y6zfiS-ug/viewform)
-* [1505](https://docs.google.com/a/casimircreative.com/forms/d/1tfKXGd3sGrFihSLLIGPdeT3du9sGJTlGfp20lwbLNdE/viewform)
-* [1507](https://docs.google.com/a/casimircreative.com/forms/d/1sj2ri5K3L8xdFfzRJCqCqINyxMR4ogCkTprqggZC1LE/viewform)
-
 ### Group Retrospectives (9:00 - 9:45)
 
-* 1502 meet with Jeff in Classroom B
-* 1503 meet with Josh Mejia and Mike in the Big Workspace
+* 1502 meet with Jeff and Raissa in Classroom B
+* 1503 meet with Josh Mejia and Jorge in the Big Workspace
 * 1505 meet with Marissa and Steve in Classroom C
-* 1507 meet with Josh Cheek and Raissa in Classroom A
+* 1507 meet with Josh Cheek and Mike in Classroom A
 
 ### Lightning Talks (9:45 - 10:45)
 
@@ -44,4 +37,13 @@ Austen is a graduate from [Hungry Academy][ha], organizer of [GoRuCo][goruco], a
 [goruco]: http://goruco.com
 [Bonobos]: http://bonobos.com
 
+### Weekly Surveys (11:30 - 11:50)
 
+* [1502](https://docs.google.com/a/casimircreative.com/forms/d/1AazgLtnHY_mnn6Q7sn0D4rwA7Nre7PNyV2DrWwQ-wG0/viewform)
+* [1503](https://docs.google.com/a/casimircreative.com/forms/d/1o50ml_kfEv_5J42BpwPJrq4JQW5uwwmL1_Y6zfiS-ug/viewform)
+* [1505](https://docs.google.com/a/casimircreative.com/forms/d/1tfKXGd3sGrFihSLLIGPdeT3du9sGJTlGfp20lwbLNdE/viewform)
+* [1507](https://docs.google.com/a/casimircreative.com/forms/d/1sj2ri5K3L8xdFfzRJCqCqINyxMR4ogCkTprqggZC1LE/viewform)
+
+### Field Day Kick-off (11:50 - 12:00)
+
+Meet in the big workspace.
