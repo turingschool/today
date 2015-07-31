@@ -32,3 +32,16 @@ Meet in the big workspace for
 * Adam Caron - [Exploring the Line Where Software Design Ends & Visual Design Begins](https://gist.github.com/adamcaron/4413ae0598e5163007ac)
 * Vanessa Gomez - [No Excuse for bad Typography on the Web](https://gist.github.com/vanegomez/0760da668eced70dcc00)
 * Robert M. Cornell - [Law Enforcement Software and Technology Solutions](https://gist.github.com/RMCornell/ef6662da4c53bc9689e7)
+
+### Guest Speaker and Q&A: Austen Ito (10:45 - 11:30)
+
+Austen is a graduate from [Hungry Academy][ha], organizer of [GoRuCo][goruco], and developer at [Bonobos][].
+
+* [Twitter](https://twitter.com/austenito)
+* [Personal Website](https://www.austenito.com)
+
+[ha]: http://www.hungryacademy.com
+[goruco]: http://goruco.com
+[Bonobos]: http://bonobos.com
+
+
