@@ -2,3 +2,21 @@
 title: 20150731
 layout: outline
 ---
+
+## All
+
+### Group Retrospectives (9:00 - 9:45)
+
+### Lightning Talks (9:45 - 10:45)
+
+Meet in the big workspace for
+
+* Kenny Chen & Kristina Brown - [Groups(a How-to)](https://gist.github.com/kristinabrown/a4360701b899cc807959)
+* Whitney Hiemstra - [How Driverless Cars See the Road](https://gist.github.com/whithub/93645e3e3d519d80d425)
+* Chelsea Worrel - Teaching Kids to Code
+* Lev Kravinsky - [Mock Lobster!](https://gist.github.com/levthedev/7cf717c5ff78014f2a23)
+* Marla Brizel - [Yes You Kanban! Using Agile to Manage Your Life](https://gist.github.com/marlabrizel/97e3864d1fa0091efbad)
+* Max Millington - PIZZA(pizza)
+* Adam Caron - [Exploring the Line Where Software Design Ends & Visual Design Begins](https://gist.github.com/adamcaron/4413ae0598e5163007ac)
+* Vanessa Gomez - [No Excuse for bad Typography on the Web](https://gist.github.com/vanegomez/0760da668eced70dcc00)
+* Robert M. Cornell - [Law Enforcement Software and Technology Solutions](https://gist.github.com/RMCornell/ef6662da4c53bc9689e7)
