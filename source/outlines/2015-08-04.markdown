@@ -5,16 +5,23 @@ layout: outline
 
 Today, we celebrate Coast Guard Day.
 
-## All 
+## All
 
 ### Warm Up (8:30 - 9:00)
 
+Using [names.txt](https://projecteuler.net/project/resources/p022_names.txt) (right click and 'Save Link/Target As...'), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.
+
+For example, when the list is sorted into alphabetical order, COLIN, which is worth 3 + 15 + 12 + 9 + 14 = 53, is the 938th name in the list. So, COLIN would obtain a score of 938 × 53 = 49714.
+
+What is the total of all the name scores in the file?
 
 ## 1502
 
 ### Topics in Ruby (9:00 - 10:30)
+Classroom A.
 
 ### Topics in JavaScript (10:30 - 12:00)
+Classroom A still.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -23,11 +30,11 @@ Today, we celebrate Coast Guard Day.
 
 ### Debugging JavaScript (9:00 - 10:00)
 
-Steve time.
+Steve time. In Classroom B.
 
 ### Working with AJAX (10:00 - 12:00)
 
-Jorge.
+Jorge with in Classrom B.
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
@@ -38,7 +45,7 @@ Schedule TBA.
 
 ### Rails View Tips and Tricks (9:00 - 10:30)
 
-Join Mike in Classroom A.
+Join Mike in Classroom C.
 
 ### Little Shop Work Time (10:30 - 12:00)
 
@@ -49,27 +56,27 @@ Work time.
 Work Time
 
 
-## 1507 
+## 1507
 
-### Echo: Work Time (9:00 - 10:30) 
+### Echo: Work Time (9:00 - 10:30)
 
 Work.
 
 ### Foxtrot: Decomposing Sales Engine (9:00 - 10:30)
 
-Join Jeff.
+Join Jeff in the Big Workspace.
 
 ### All: Sales Engine Knowledge Share (10:30 - 12:00)
 
-Pairs TBA
+Pairs TBA.
 
 ### Echo: The Perforance of Code (1:00 - 2:30)
 
-Join Josh Cheek
+Join Josh Cheek at the conference table.
 
 ### Foxtrot: Testing Small Datasets (1:00 - 2:30)
 
-Join Mike
+Join Mike in Classroom A.
 
 ### Work Time (2:30 - 4:00)
 
