@@ -70,7 +70,7 @@ it's to do your best work.
 ### All: Dynamics (11:00 - 12:00)
 
 Continue with Jeff in the Big Workspace for a Dynamics session. You can
-[find the activity plan here]().
+[find the activity plan here](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
 Then the rest of the day we'll be in split groups:
 
