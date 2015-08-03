@@ -43,6 +43,10 @@ of how Binary Search Trees work, then dive into implementations in Ruby and Java
 * Tess Griffin & Eric Dowty
 * Patrick Medaugh
 
+#### Resources
+
+* [Reading a file in Node](https://gist.github.com/stevekinney/d4299abea06e21153a92) (_TL;DR_ — you probably want to just pass in your numbers to your test.)
+
 We'll work from [this Binary Search Tree project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
 
 ### Project Work Time (1:00 - 2:30)
