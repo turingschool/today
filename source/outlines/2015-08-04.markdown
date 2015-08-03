@@ -17,14 +17,26 @@ What is the total of all the name scores in the file?
 
 ## 1502
 
-### Topics in Ruby (9:00 - 10:30)
-Classroom A.
+### Code Challenge (9:00 - 10:00)
 
-### Topics in JavaScript (10:30 - 12:00)
-Classroom A still.
+Meet in Classroom A.
+
+### Currying and Partial Application (10:00 - 11:00)
+
+Stick around in Classroom A as Steve drops by to talk about currying and partial application in JavaScript.
+
+#### Resources
+
+* [Function.prototype.bind Revisited](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-what-is-this.md#explicitly-setting-context-with-bind)
+* [Partial Application and Currying](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-currying-and-partial-application.md)
+
+### Testing JavaScript with Spies
+
+Stay around a little longer in Classroom A. We'll explore using [Sinon](http://sinonjs.org) to spy on methods.
 
 ### Project Work Time (1:00 - 4:00)
 
+Steve is on hand for questions.
 
 ## 1503
 
