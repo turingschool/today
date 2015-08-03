@@ -126,6 +126,20 @@ it's to do your best work.
 Continue with Jeff in the Big Workspace for a Dynamics session. You can
 [find the activity plan here](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
+Here are the working groups:
+
+* Drew Reynolds & Margarett Ly & Justin Holmes & Sally MacNicholas
+* Lev Kravinsky & Dave Maurer & Morgan Miller & Andrew Fink
+* Jack Yeh & Rachel Parri & Tyler Komoroske & Rebekah Sosa
+* Chad Minnerath & David Stinnette & Justin Holzmann & Matt Hecker
+* Travis Haby & Regis Boudinot & Justin Pease & Jerrod Paul Junker
+* Rob Cornell & Brett Grigsby & Jamie Kawahara & Whitney Hiemstra
+* Rick Bacci & Russell Harms & Nicole Hall & Jeff Ruane
+* Adam Jensen & Bret Doucette & Rose Kohn & Ryan Asensio
+* Max Tedford & Josh Cass & Mimi Schatz & Chris Cenatiempo
+* Alon Waisman & Mary Beth Burch & Michael Wong & Matt Ewell
+* Erik Butcher & Vanessa Gomez & Chelsea Worrel & George Hudson
+
 Then the rest of the day we'll be in split groups:
 
 ### Echo: 1:00 - UNKNOWABLE
