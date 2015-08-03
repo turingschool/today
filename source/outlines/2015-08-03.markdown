@@ -3,7 +3,7 @@ title: 20150803
 layout: outline
 ---
 
-Today in 1492, Christopher Columbus sailed the ocean blue.
+Today in 1492, Christopher Columbus sailed the ocean blue. No one knows exactly when or where he was born.
 
 ## All
 
@@ -31,12 +31,22 @@ Work work.
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
-UNDERSTAND THE THING.
+Learn about how Rails organizes and processes assets.
+
+The supporting materials are the following:
+
+* [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
+* Video will be posted after the session
 
 ### Self-Directed Projects Kick Off (1:00 - 2:30)
 
-Your moment has arrived.
+We will select your ideas, learn about personas and work on wireframes to kick off your personal project.
 
+For this session, you must have:
+
+* Read the assigned chapters of Pitching Hacks.
+* Made three project proposals that solve an actual problem.
+* Researched your API integrations and assessed the feasibility.
 
 ## 1505
 
