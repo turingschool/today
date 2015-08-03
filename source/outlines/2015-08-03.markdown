@@ -16,16 +16,16 @@ Big Workspace.
 
 ## 1502
 
-### Topics in JavaScript (9:00 - 10:30)
+### Binary Search Trees (9:00 - 12:00)
 
-### Topics in Ruby (10:30 - 12:00)
+Meet with Jeff and Steve in Classroom A. We'll start with a quick exploration
+of how Binary Search Trees work, then dive into implementations in Ruby and JavaScript.
 
-With Jeff.
+We'll work from [this Binary Search Tree  project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
 
 ### Project Work Time (1:00 - 2:30)
 
 Work work.
-
 
 ## 1503
 
@@ -56,15 +56,15 @@ Schedule TBA.
 
 ## 1507
 
-### All: Dynamics (9:00 - 9:30)
+### All: Throwdown (9:00 - 10:30)
 
-Meet Jeff in the Big Workspace for a Dynamics session. You can
+Start in the Workspace with Mike & DJ where you'll have one hour to
+[complete this challenge]() then we'll go over some solutions together.
+
+### All: Dynamics (10:30 - 11:00)
+
+Continue with Jeff in the Big Workspace for a Dynamics session. You can
 [find the activity plan here]().
-
-### All: Throwdown (9:30 - 11:00)
-
-Continue in the Workspace with Mike where you'll have one hour to
-[complete this challenge]().
 
 Then the rest of the day we'll be in split groups:
 
@@ -78,7 +78,17 @@ Business Intelligence in SalesEngine
 
 #### SalesEngine Kickoff (11:00 - 12:00)
 
-Meet Jeff in Classroom A to kickoff your SalesEngine Projects
+Meet Jeff in Classroom A to kickoff your [SalesEngine Project](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown).
+
+* Mary Beth Burch & Travis Haby
+* Adam Jensen & Chad Minnerath
+* Chris Cenatiempo & Regis Boudinot
+* Jerrod Paul Junker & Michael Wong
+* Nicole Hall & Justin Pease
+* Rebekah Sosa & Rachel Parri
+* Bret Doucette & Mimi Schatz
+* Jeff Ruane & Tyler Komoroske
+* David Stinnette & Rose Kohn
 
 #### SE Work Time (1:00 - 4:00)
 
