@@ -50,6 +50,12 @@ We'll work from [this Binary Search Tree project description](https://github.com
 
 Work work.
 
+### TIP (2:30 - 4:00)
+
+Join Mike in the Workspace where you'll have [a difficult data structures challenge](https://github.com/turingschool/challenges/blob/master/doubly_linked_circular_list.markdown
+). Remember that this is interview prep -- it's supposed to be difficult but how
+you attack the problem is more important that solving it.
+
 ## 1503
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
@@ -76,6 +82,12 @@ For this session, you must have:
 * Read the assigned chapters of Pitching Hacks.
 * Made three project proposals that solve an actual problem.
 * Researched your API integrations and assessed the feasibility.
+
+### TIP (2:30 - 4:00)
+
+Join Mike in the Workspace where you'll have [a difficult data structures challenge](https://github.com/turingschool/challenges/blob/master/doubly_linked_circular_list.markdown
+). Remember that this is interview prep -- it's supposed to be difficult but how
+you attack the problem is more important that solving it.
 
 ## 1505
 
