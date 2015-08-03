@@ -77,7 +77,9 @@ Then the rest of the day we'll be in split groups:
 ### Echo: 1:00 - UNKNOWABLE
 
 Meet with Josh Cheek at the instructors table to discuss
-Business Intelligence in SalesEngine
+Business Intelligence in SalesEngine.
+
+*Also*, tonight for homework please [complete Part 3 of POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown).
 
 ### Foxtrot: SalesEngine Kickoff & Work Time (1:00 - 4:00)
 
@@ -92,3 +94,5 @@ Meet Jeff in Classroom A to kickoff your [SalesEngine Project](https://github.co
 * Bret Doucette & Mimi Schatz
 * Jeff Ruane & Tyler Komoroske
 * David Stinnette & Rose Kohn
+
+*Also*, tonight for homework please [complete Part 1 of POODR](https://github.com/turingschool/challenges/blob/master/poodr.markdown).
