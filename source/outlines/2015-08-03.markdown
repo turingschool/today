@@ -3,7 +3,7 @@ title: 20150803
 layout: outline
 ---
 
-Today in 1492, Christopher Columbus sailed the ocean blue.
+Today in 1492, Christopher Columbus sailed the ocean blue. No one knows exactly when or where he was born.
 
 ## All
 
@@ -21,7 +21,29 @@ Big Workspace.
 Meet with Jeff and Steve in Classroom A. We'll start with a quick exploration
 of how Binary Search Trees work, then dive into implementations in Ruby and JavaScript.
 
-We'll work from [this Binary Search Tree  project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
+#### Ruby Pairs
+
+* Eric Dowty & Tracy Caruso
+* Mihir Parikh & Michelle Golle
+* Kristina Brown & Kenny Chen
+* Patrick Medaugh & Fred Block
+* David Daniel & Lori Culberson
+* Minnie Lee & Andrew Carmer
+* Kyle Henson & Thomas Leskin
+* Tess Griffin
+
+#### JavaScript Pairs
+
+* Tracy Caruso & Thomas Leskin
+* Mihir Parikh & Michelle Golle
+* Fred Block & Minnie Lee
+* Kristina Brown & Lori Culberson
+* Kyle Henson & Kenny Chen
+* David Daniel & Andrew Carmer
+* Tess Griffin & Eric Dowty
+* Patrick Medaugh
+
+We'll work from [this Binary Search Tree project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
 
 ### Project Work Time (1:00 - 2:30)
 
@@ -31,12 +53,28 @@ Work work.
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
-UNDERSTAND THE THING.
+Learn about how Rails organizes and processes assets.
+
+Before the class, please clone the following repo:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
+```
+
+The supporting materials are the following:
+
+* [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
+* Video will be posted after the session
 
 ### Self-Directed Projects Kick Off (1:00 - 2:30)
 
-Your moment has arrived.
+We will select your ideas, learn about personas and work on wireframes to kick off your personal project.
 
+For this session, you must have:
+
+* Read the assigned chapters of Pitching Hacks.
+* Made three project proposals that solve an actual problem.
+* Researched your API integrations and assessed the feasibility.
 
 ## 1505
 
