@@ -33,6 +33,12 @@ Work work.
 
 Learn about how Rails organizes and processes assets.
 
+Before the class, please clone the following repo:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
+```
+
 The supporting materials are the following:
 
 * [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
