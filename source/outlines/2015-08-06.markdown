@@ -9,6 +9,14 @@ Today in 1819, Norwich University was founded in Vermont.
 
 ### Warm Up (8:30 - 9:00)
 
+Thursday is JavaScript day. [MDN](https://developer.mozilla.org/en-US/) is your friend.
+
+Pick a method from Ruby's Enumberable that is not map, collect, reduce, inject, each, or filter.
+
+Can you implement it in JavaScript?
+
+You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
+
 
 ## 1502
 
@@ -32,7 +40,11 @@ Schedule TBA
 
 ### Intro to the Asset Pipeline (9:00 - 10:30)
 
+Join Josh in Classroom C.
+
 ### Transactions, Callbacks and Scopes (10:30 - 12:00)
+
+Stay in Classroom C with Josh. 
 
 ### Little Shop Work Time and Checkins (1:00 - 4:00)
 
