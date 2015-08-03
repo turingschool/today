@@ -56,27 +56,26 @@ Schedule TBA.
 
 ## 1507
 
-### All: Throwdown (9:00 - 10:30)
+### All: Throwdown (9:00 - 11:00)
 
-Start in the Workspace with Mike & DJ where you'll have one hour to
-[complete this challenge]() then we'll go over some solutions together.
+Start in the Workspace with Mike & DJ where you'll have 90 minutes to
+[attempt this challenge](https://github.com/turingschool/challenges/blob/master/doubly_linked_circular_list.markdown) then we'll go over some solutions together. Keep in mind that this challenge is
+*quite hard*. Think about it like a job interview -- the point isn't to finish,
+it's to do your best work.
 
-### All: Dynamics (10:30 - 11:00)
+### All: Dynamics (11:00 - 12:00)
 
 Continue with Jeff in the Big Workspace for a Dynamics session. You can
 [find the activity plan here]().
 
 Then the rest of the day we'll be in split groups:
 
-### Echo
+### Echo: 1:00 - UNKNOWABLE
 
-* (11:00 - 12:00) -- you have a bit of work time
-* (1:00 - UNKNOWABLE) -- meet with Josh Cheek at the instructors table to discuss
+Meet with Josh Cheek at the instructors table to discuss
 Business Intelligence in SalesEngine
 
-### Foxtrot
-
-#### SalesEngine Kickoff (11:00 - 12:00)
+### Foxtrot: SalesEngine Kickoff & Work Time (1:00 - 4:00)
 
 Meet Jeff in Classroom A to kickoff your [SalesEngine Project](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown).
 
@@ -89,7 +88,3 @@ Meet Jeff in Classroom A to kickoff your [SalesEngine Project](https://github.co
 * Bret Doucette & Mimi Schatz
 * Jeff Ruane & Tyler Komoroske
 * David Stinnette & Rose Kohn
-
-#### SE Work Time (1:00 - 4:00)
-
-Get together with your partner and dive into SalesEngine.
