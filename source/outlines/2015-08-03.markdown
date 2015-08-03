@@ -100,6 +100,8 @@ Woo! Classroom C.
 
 ### Cart and Order Life Cycles (1:00 - 2:30)
 
+Meet Josh in Classroom C.
+
 If you're going to sell things you're going to need to know things about
 carts and orders.
 
