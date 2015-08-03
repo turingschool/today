@@ -9,7 +9,7 @@ Today in 1492, Christopher Columbus sailed the ocean blue. No one knows exactly 
 
 ### Warm Up (8:30 - 9:00)
 
-There are clowns and [they need costumes](http://cl.ly/093a3L3e0h2h)
+There are clowns and [they need costumes](http://cl.ly/093a3L3e0h2h).
 
 ## 1502
 
@@ -44,7 +44,8 @@ of how Binary Search Trees work, then dive into implementations in Ruby and Java
 
 * [Reading a file in Node](https://gist.github.com/stevekinney/d4299abea06e21153a92) (_TL;DR_ — you probably want to just pass in your numbers to your test.)
 
-We'll work from [this Binary Search Tree project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown).
+We'll work from [this Binary Search Tree project description](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/binary_search_tree.markdown). In this short of time you realistically want to focus on `insert` and `include?`. If possible
+it'd be great to implement `depth_of`.
 
 ### Project Work Time (1:00 - 2:30)
 
@@ -60,7 +61,7 @@ you attack the problem is more important that solving it.
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
-Learn about how Rails organizes and processes assets.
+Meet Jorge in Classroom B to learn about how Rails organizes and processes assets.
 
 Before the class, please clone the following repo:
 
@@ -75,7 +76,7 @@ The supporting materials are the following:
 
 ### Self-Directed Projects Kick Off (1:00 - 2:30)
 
-We will select your ideas, learn about personas and work on wireframes to kick off your personal project.
+Meet in Classroom B again. We will select your ideas, learn about personas and work on wireframes to kick off your personal project.
 
 For this session, you must have:
 
