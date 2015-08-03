@@ -9,23 +9,39 @@ Today in 1884, the first cornerstone for the Statue of Liberty is laid.
 
 ### Warm Up (8:30 - 9:00)
 
+So, Ruby (and some other languages—apparently, there are other languages) have a data structure called Set.
+
+A set is like an Array, but it holds unique objects.
+
+If you had a set [1, 2, 3] and you tried to push in 3, you'd still have the same set.
+
+Can you implement this With tests? What about shift and unshift? pop?
+
 
 ## 1502
 
-### Topics in JavaScript
+### WebSocket Workshop (9:00 - 12:00)
 
-### Topics in Ruby
+Classroom A.
 
-### Projects Work Time
+### Project Work time (1:00 - 4:00)
+
+Work work.
 
 
 ## 1503
 
 ### Getting Started With Workers (9:00 - 10:30)
 
-### Testing JavaScript in Rails (10:30 - 12:00)
+Guest instructor! Mary Cutrali will be showing you how to get started with workers in Classroom B.
+
+### Project Work Time! (10:30 - 12:00)
+
+Move forward.
 
 ### Project Work Time (1:00 - 4:00)
+
+Work on your projects.
 
 
 ## 1505 
@@ -47,10 +63,15 @@ Work.
 
 ### All: OkCuGit (9:00 - 11:00)
 
-### All: Loopback: Refactoring Enigma (11:00 - 12:00)
+Join Josh Cheek in the Big Workspace.
+
+### All: Loopback: Refactoring Enigma (10:30 - 12:00)
+
+How would you structure Enigma now, with the benefit of a little bit more experience?
 
 ### All: Work Time (1:00 - 4:00)
 
+Engine those sales!
 
 
 
