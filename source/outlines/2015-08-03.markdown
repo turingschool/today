@@ -40,14 +40,18 @@ Your moment has arrived.
 
 ## 1505
 
-### Little Shop of Stores Kickoff and Work Time (9:00 - 12:00)
+### LittleShop Kickoff and Work Time (9:00 - 12:00)
 
 Woo! Classroom C.
+
+[Project requirements](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ### Cart and Order Life Cycles (1:00 - 2:30)
 
 If you're going to sell things you're going to need to know things about
 carts and orders.
+
+Here's a [Creating a Cart using TDD](https://vimeo.com/135210007) video that includes an intro on how to use [SimpleDelegator](http://ruby-doc.org/stdlib-2.1.5/libdoc/delegate/rdoc/SimpleDelegator.html). Heads-up: It's kinda long.
 
 ### Little Shop Work Time and Goal Setting Check-Ins (2:30 - 4:00)
 
