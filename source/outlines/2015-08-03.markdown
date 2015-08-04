@@ -72,7 +72,6 @@ git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
 The supporting materials are the following:
 
 * [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
-* Video will be posted after the session
 
 ### Self-Directed Projects Kick Off (1:00 - 2:30)
 
