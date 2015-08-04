@@ -89,6 +89,10 @@ Join Mike in Classroom A.
 Then close out the day with some work time. Maybe it's a good time to try a
 "pairing technique" like Ping-Pong or Driver-Navigator?
 
+### Homework
+
+This evening please complete [Part 2 of the POODR reading](https://github.com/turingschool/challenges/blob/master/poodr.markdown).
+
 ## 1507 - Echo
 
 ### Work Time (9:00 - 10:00)
@@ -113,3 +117,7 @@ figuring out how they all fit together.
 
 The Josh is not constrained by your mortal "lesson plans" [like this one](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown
 ).
+
+### Homework
+
+This evening please complete [Part 4 of the POODR reading](https://github.com/turingschool/challenges/blob/master/poodr.markdown).
