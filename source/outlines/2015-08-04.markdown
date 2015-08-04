@@ -57,7 +57,7 @@ Schedule TBA.
 
 ### Rails View Tips and Tricks (9:00 - 10:30)
 
-Join Mike in Classroom C.
+Join Josh & Mike in Classroom C to look at [Rails Views Tips & Techniques](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time (10:30 - 12:00)
 
@@ -110,3 +110,6 @@ some experience, gotchas, and pro tips about SalesEngine.
 
 Join Josh Cheek at the conference table to talk complexity, performance, and
 figuring out how they all fit together.
+
+The Josh is not constrained by your mortal "lesson plans" [like this one](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown
+).
