@@ -17,26 +17,27 @@ What is the total of all the name scores in the file?
 
 ## 1502
 
-### Code Challenge (9:00 - 10:00)
+### Binary Search Tree Review && Currying and Partial Application (9:00 - 10:00)
 
-Meet in Classroom A.
-
-### Currying and Partial Application (10:00 - 11:00)
-
-Stick around in Classroom A as Steve drops by to talk about currying and partial application in JavaScript.
+Meet in Classroom A with Steve to recap on the binary search trees and doubly linked lists form yesterday. Then we'll take another dive into `Function.prototype.bind` and partial application before taking a look at another functional programming concept: currying.
 
 #### Resources
 
 * [Function.prototype.bind Revisited](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-what-is-this.md#explicitly-setting-context-with-bind)
 * [Partial Application and Currying](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-currying-and-partial-application.md)
 
-### Testing JavaScript with Spies
+### Testing JavaScript: Sinon.js (10:00 - 11:00)
 
 Stay around a little longer in Classroom A. We'll explore using [Sinon](http://sinonjs.org) to spy on methods.
 
-### Project Work Time (1:00 - 4:00)
+We'll need two repositories:
 
-Steve is on hand for questions.
+* [Spy vs. Spy](https://github.com/turingschool-examples/spy-vs-spy)
+* [Testing JavaScript](https://github.com/turingschool-examples/testing-javascript)
+
+### Project Work Time (11:00 - 4:00)
+
+Steve is on hand for questions in the afternoon. Please be ready with working applications for you check-ins tomorrow.
 
 ## 1503
 
@@ -61,7 +62,27 @@ Meet Jorge in Classroom B.
 
 Learn about the developer tools available in your browser to debug JavaScript.
 
-Meet Steve ';' Kinney in Classroom B.
+Meet Steve in Classroom B. We'll discuss the following topics:
+
+* Accessing the developer tools
+	* Pinning the tools to the top or right
+	* Breaking them out into their own window
+	* Advanced settings
+* Inspecting elements
+	* Computed styles
+	* Forcing element state
+* `console.log`
+* `console.table`
+* `console.assert`
+* `debugger;`
+	* Setting breakpoints in the tools
+	* Adding conditional breakpoints
+* Network performance
+	* Debugging AJAX
+* Pause on Caught Exception
+* Responsive Mode
+
+Extra curricular: [Code School's Dev Tools Course](http://discover-devtools.codeschool.com/)
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
