@@ -15,6 +15,7 @@ For example, when the list is sorted into alphabetical order, COLIN, which is wo
 
 What is the total of all the name scores in the file?
 
+
 ## 1502
 
 ### Code Challenge (9:00 - 10:00)
@@ -37,6 +38,7 @@ Stay around a little longer in Classroom A. We'll explore using [Sinon](http://s
 ### Project Work Time (1:00 - 4:00)
 
 Steve is on hand for questions.
+
 
 ## 1503
 
@@ -87,6 +89,7 @@ Meet with Jorge at his desk for check-ins. Since there are many projects, please
 * 3:50 - Jamie Kawahara
 * 4:10 - Jack Yeh
 
+
 ## 1505
 
 ### Rails View Tips and Tricks (9:00 - 10:30)
@@ -126,7 +129,7 @@ Groups
 
 * Matt Ewell & Mary Beth Burch & Adam Jensen & Tyler Komoroske
 * George Hudson & Chris Cenatiempo & Jerrod Paul Junker & Rose Kohn
-* Russell Harms & Nicole Hall & Rebekah SOsa
+* Russell Harms & Nicole Hall & Rebekah Sosa
 * Matt Hecker & Jeff Ruane & David Stinnette
 * Alon Waisman & Travis Haby & Chad Minnerath
 * Justin Holzmann & Regis Boudinot & Michael Wong
@@ -139,9 +142,9 @@ Join Mike in Classroom A.
 
 ### Work Time (2:30 - 4:00)
 
-
 Then close out the day with some work time. Maybe it's a good time to try a
 "pairing technique" like Ping-Pong or Driver-Navigator?
+
 
 ## 1507 - Echo
 
