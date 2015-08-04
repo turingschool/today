@@ -192,8 +192,12 @@ some experience, gotchas, and pro tips about SalesEngine.
 Join Josh Cheek at the conference table to talk complexity, performance, and
 figuring out how they all fit together.
 
-The Josh is not constrained by your mortal "lesson plans" [like this one](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown
-).
+The material we went over is in [this gist](https://gist.github.com/JoshCheek/e4afb1d9e1c2fc72603b)
+and is almost completely stolen from
+[this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
+
+We covered timing code, Benchmarking, and RubyProf, as well as writing a handful of different algorithms and seeing how
+the time required to execute that code increased along with different mathematical functions, called "Big O" notation.
 
 ### Homework
 
