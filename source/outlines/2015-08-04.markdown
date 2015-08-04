@@ -68,29 +68,45 @@ Work time.
 Work Time
 
 
-## 1507
+## 1507 - Foxtrot
 
-### Echo: Work Time (9:00 - 10:30)
+### Decomposing Sales Engine with POODR (9:00 - 10:30)
 
-Work.
+Join Jeff in the Big Workspace to talk about responsibilities, objects, and
+SalesEngine.
 
-### Foxtrot: Decomposing Sales Engine (9:00 - 10:30)
+### Sales Engine Knowledge Share (10:30 - 12:00)
 
-Join Jeff in the Big Workspace.
+In this session Foxtrotters and Echos will be together in small groups to share
+some experience, gotchas, and pro tips about SalesEngine.
 
-### All: Sales Engine Knowledge Share (10:30 - 12:00)
-
-Pairs TBA.
-
-### Echo: The Perforance of Code (1:00 - 2:30)
-
-Join Josh Cheek at the conference table.
-
-### Foxtrot: Testing Small Datasets (1:00 - 2:30)
+### Testing Small Datasets (1:00 - 2:30)
 
 Join Mike in Classroom A.
 
 ### Work Time (2:30 - 4:00)
 
-Sales Engine Work Time
+Then close out the day with some work time. Maybe it's a good time to try a
+"pairing technique" like Ping-Pong or Driver-Navigator?
 
+## 1507 - Echo
+
+### Work Time (9:00 - 10:00)
+
+Start off the day with some work time. Maybe try taking ultra-small steps? If you
+go 10 minutes with out committing then `git reset --hard`.
+
+### POODR Part 3 (10:00 - 10:30)
+
+Get together with DJ at the instructors table to share some of your solutions
+to the POODR Part 3 homework from yesterday.
+
+### Sales Engine Knowledge Share (10:30 - 12:00)
+
+In this session Foxtrotters and Echos will be together in small groups to share
+some experience, gotchas, and pro tips about SalesEngine.
+
+### The Performance of Code (1:00 - 4:00)
+
+Join Josh Cheek at the conference table to talk complexity, performance, and
+figuring out how they all fit together.
