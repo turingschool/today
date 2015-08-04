@@ -56,7 +56,7 @@ git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
 The materials for this lesson are:
 
 * [Notes](https://www.dropbox.com/s/drt47u202pe9957/Turing%20-%20Working%20with%20AJAX.pages?dl=0)
-* Video will be posted after the session
+* [Video](https://vimeo.com/135387081)
 
 Meet Jorge in Classroom B.
 
