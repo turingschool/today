@@ -15,42 +15,100 @@ For example, when the list is sorted into alphabetical order, COLIN, which is wo
 
 What is the total of all the name scores in the file?
 
+
 ## 1502
 
-### Code Challenge (9:00 - 10:00)
+### Binary Search Tree Review && Currying and Partial Application (9:00 - 10:00)
 
-Meet in Classroom A.
-
-### Currying and Partial Application (10:00 - 11:00)
-
-Stick around in Classroom A as Steve drops by to talk about currying and partial application in JavaScript.
+Meet in Classroom A with Steve to recap on the binary search trees and doubly linked lists form yesterday. Then we'll take another dive into `Function.prototype.bind` and partial application before taking a look at another functional programming concept: currying.
 
 #### Resources
 
 * [Function.prototype.bind Revisited](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-what-is-this.md#explicitly-setting-context-with-bind)
 * [Partial Application and Currying](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-currying-and-partial-application.md)
 
-### Testing JavaScript with Spies
+### Testing JavaScript: Sinon.js (10:00 - 11:00)
 
 Stay around a little longer in Classroom A. We'll explore using [Sinon](http://sinonjs.org) to spy on methods.
 
-### Project Work Time (1:00 - 4:00)
+We'll need two repositories:
 
-Steve is on hand for questions.
+* [Spy vs. Spy](https://github.com/turingschool-examples/spy-vs-spy)
+* [Testing JavaScript](https://github.com/turingschool-examples/testing-javascript)
+
+### Project Work Time (11:00 - 4:00)
+
+Steve is on hand for questions in the afternoon. Please be ready with working applications for you check-ins tomorrow.
+
 
 ## 1503
 
-### Debugging JavaScript (9:00 - 10:00)
+### Working with AJAX (9:00 - 11:00)
 
-Steve time. In Classroom B.
+Learn about Asynchronous JavaScript and XML (AJAX) and how to use it to make HTTP requests from your browser.
 
-### Working with AJAX (10:00 - 12:00)
+For this session, please clone the following:
 
-Jorge with in Classrom B.
+```
+git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
+```
+
+The materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/drt47u202pe9957/Turing%20-%20Working%20with%20AJAX.pages?dl=0)
+* [Video](https://vimeo.com/135387081)
+
+Meet Jorge in Classroom B.
+
+### Debugging JavaScript (11:00 - 12:00)
+
+Learn about the developer tools available in your browser to debug JavaScript.
+
+Meet Steve in Classroom B. We'll discuss the following topics:
+
+* Accessing the developer tools
+	* Pinning the tools to the top or right
+	* Breaking them out into their own window
+	* Advanced settings
+* Inspecting elements
+	* Computed styles
+	* Forcing element state
+* `console.log`
+* `console.table`
+* `console.assert`
+* `debugger;`
+	* Setting breakpoints in the tools
+	* Adding conditional breakpoints
+* Network performance
+	* Debugging AJAX
+* Pause on Caught Exception
+* Responsive Mode
+
+Extra curricular: [Code School's Dev Tools Course](http://discover-devtools.codeschool.com/)
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Meet with Jorge at his desk for check-ins. Since there are many projects, please be on time.
+
+* 1:00 - Brett Grigsby
+* 1:10 - Max Tedford
+* 1:20 - Rick Bacci
+* 1:30 - Sally MacNicholas
+* 1:40 - Vanessa Gomez
+* 1:50 - Andrew Fink
+* 2:00 - Morgan Miller
+* 2:10 - Justin Holmes
+* 2:20 - Drew Reynolds
+* 2:30 - Josh Cass
+* 2:40 - Lev Kravinsky
+* 2:50 - Whitney Hiemstra
+* 3:00 - Erik Butcher
+* 3:10 - Margarett Ly
+* 3:20 - Chelsea Worrel
+* 3:30 - Rob Cornell
+* 3:40 - Dave Maurer
+* 3:50 - Jamie Kawahara
+* 4:10 - Jack Yeh
 
 
 ## 1505
@@ -79,6 +137,25 @@ SalesEngine.
 
 In this session Foxtrotters and Echos will be together in small groups to share
 some experience, gotchas, and pro tips about SalesEngine.
+
+These are some of the examples of things you can talk about.
+
+
+* What did you wish you knew going into the project?
+* What was surprisingly easy about the project?
+* What was something unexpected that you learned about Sales Engine?
+* What advice did you get from mentors that was counterproductive?
+
+Groups
+
+* Matt Ewell & Mary Beth Burch & Adam Jensen & Tyler Komoroske
+* George Hudson & Chris Cenatiempo & Jerrod Paul Junker & Rose Kohn
+* Russell Harms & Nicole Hall & Rebekah Sosa
+* Matt Hecker & Jeff Ruane & David Stinnette
+* Alon Waisman & Travis Haby & Chad Minnerath
+* Justin Holzmann & Regis Boudinot & Michael Wong
+* Ryan Asensio & Rachel Parry & Mimi Schatz
+
 
 ### Testing Small Datasets (1:00 - 2:30)
 
