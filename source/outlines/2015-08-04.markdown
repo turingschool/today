@@ -40,24 +40,58 @@ Steve is on hand for questions.
 
 ## 1503
 
-### Debugging JavaScript (9:00 - 10:00)
+### Working with AJAX (9:00 - 11:00)
 
-Steve time. In Classroom B.
+Learn about Asynchronous JavaScript and XML (AJAX) and how to use it to make HTTP requests from your browser.
 
-### Working with AJAX (10:00 - 12:00)
+For this session, please clone the following:
 
-Jorge with in Classrom B.
+```
+git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
+```
+
+The materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/drt47u202pe9957/Turing%20-%20Working%20with%20AJAX.pages?dl=0)
+* Video will be posted after the session
+
+Meet Jorge in Classroom B.
+
+### Debugging JavaScript (11:00 - 12:00)
+
+Learn about the developer tools available in your browser to debug JavaScript.
+
+Meet Steve ';' Kinney in Classroom B.
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+Meet with Jorge at his desk for check-ins. Since there are many projects, please be on time.
 
+* 1:00 - Brett Grigsby
+* 1:10 - Max Tedford
+* 1:20 - Rick Bacci
+* 1:30 - Sally MacNicholas
+* 1:40 - Vanessa Gomez
+* 1:50 - Andrew Fink
+* 2:00 - Morgan Miller
+* 2:10 - Justin Holmes
+* 2:20 - Drew Reynolds
+* 2:30 - Josh Cass
+* 2:40 - Lev Kravinsky
+* 2:50 - Whitney Hiemstra
+* 3:00 - Erik Butcher
+* 3:10 - Margarett Ly
+* 3:20 - Chelsea Worrel
+* 3:30 - Rob Cornell
+* 3:40 - Dave Maurer
+* 3:50 - Jamie Kawahara
+* 4:10 - Jack Yeh
 
 ## 1505
 
 ### Rails View Tips and Tricks (9:00 - 10:30)
 
-Join Mike in Classroom C.
+Join Josh & Mike in Classroom C to look at [Rails Views Tips & Techniques](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time (10:30 - 12:00)
 
@@ -68,36 +102,68 @@ Work time.
 Work Time
 
 
-## 1507
+## 1507 - Foxtrot
 
-### Echo: Work Time (9:00 - 10:30)
+### Decomposing Sales Engine with POODR (9:00 - 10:30)
 
-Work.
+Join Jeff in the Big Workspace to talk about responsibilities, objects, and
+SalesEngine.
 
-### Foxtrot: Decomposing Sales Engine (9:00 - 10:30)
+### Sales Engine Knowledge Share (10:30 - 12:00)
 
-Join Jeff in the Big Workspace.
+In this session Foxtrotters and Echos will be together in small groups to share
+some experience, gotchas, and pro tips about SalesEngine.
 
-### All: Sales Engine Knowledge Share (10:30 - 12:00)
+These are some of the examples of things you can talk about.
 
-Ask the following questions.
 
 * What did you wish you knew going into the project?
 * What was surprisingly easy about the project?
 * What was something unexpected that you learned about Sales Engine?
 * What advice did you get from mentors that was counterproductive? 
- 
-Pairs TBA.
 
-### Echo: The Perforance of Code (1:00 - 2:30)
+Groups
 
-Join Josh Cheek at the conference table.
+* Matt Ewell & Mary Beth Burch & Adam Jensen & Tyler Komoroske
+* George Hudson & Chris Cenatiempo & Jerrod Paul Junker & Rose Kohn
+* Russell Harms & Nicole Hall & Rebekah SOsa
+* Matt Hecker & Jeff Ruane & David Stinnette
+* Alon Waisman & Travis Haby & Chad Minnerath
+* Justin Holzmann & Regis Boudinot & Michael Wong
+* Ryan Asensio & Rachel Parry & Mimi Schatz
 
-### Foxtrot: Testing Small Datasets (1:00 - 2:30)
+
+### Testing Small Datasets (1:00 - 2:30)
 
 Join Mike in Classroom A.
 
 ### Work Time (2:30 - 4:00)
 
-Sales Engine Work Time
 
+Then close out the day with some work time. Maybe it's a good time to try a
+"pairing technique" like Ping-Pong or Driver-Navigator?
+
+## 1507 - Echo
+
+### Work Time (9:00 - 10:00)
+
+Start off the day with some work time. Maybe try taking ultra-small steps? If you
+go 10 minutes with out committing then `git reset --hard`.
+
+### POODR Part 3 (10:00 - 10:30)
+
+Get together with DJ at the instructors table to share some of your solutions
+to the POODR Part 3 homework from yesterday.
+
+### Sales Engine Knowledge Share (10:30 - 12:00)
+
+In this session Foxtrotters and Echos will be together in small groups to share
+some experience, gotchas, and pro tips about SalesEngine.
+
+### The Performance of Code (1:00 - 4:00)
+
+Join Josh Cheek at the conference table to talk complexity, performance, and
+figuring out how they all fit together.
+
+The Josh is not constrained by your mortal "lesson plans" [like this one](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown
+).

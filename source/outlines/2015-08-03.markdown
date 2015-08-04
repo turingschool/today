@@ -49,7 +49,7 @@ it'd be great to implement `depth_of`.
 
 ### Project Work Time (1:00 - 2:30)
 
-Work work. Mary is on hand for questions.
+Work work.
 
 ### TIP (2:30 - 4:00)
 
@@ -72,7 +72,6 @@ git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
 The supporting materials are the following:
 
 * [Slides](https://www.dropbox.com/s/98z19hzeluc5skf/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
-* Video will be posted after the session
 
 ### Self-Directed Projects Kick Off (1:00 - 2:30)
 
@@ -109,10 +108,8 @@ Here's a [Creating a Cart using TDD](https://vimeo.com/135210007) video that inc
 
 ### Little Shop Work Time and Goal Setting Check-Ins (2:30 - 4:00)
 
-* 2:45 - Endangerous Outfitters
-* 3:00 - Jurassic Parka
-* 3:15 - Dinners Ready
-* 3:30 - Redrum Nursery
+Schedule TBA.
+
 
 ## 1507
 
@@ -130,17 +127,17 @@ Continue with Jeff in the Big Workspace for a Dynamics session. You can
 
 Here are the working groups:
 
-* Drew Reynolds & Margarett Ly & Justin Holmes & Sally MacNicholas
-* Lev Kravinsky & Dave Maurer & Morgan Miller & Andrew Fink
-* Jack Yeh & Rachel Parri & Tyler Komoroske & Rebekah Sosa
-* Chad Minnerath & David Stinnette & Justin Holzmann & Matt Hecker
-* Travis Haby & Regis Boudinot & Justin Pease & Jerrod Paul Junker
-* Rob Cornell & Brett Grigsby & Jamie Kawahara & Whitney Hiemstra
-* Rick Bacci & Russell Harms & Nicole Hall & Jeff Ruane
-* Adam Jensen & Bret Doucette & Rose Kohn & Ryan Asensio
-* Max Tedford & Josh Cass & Mimi Schatz & Chris Cenatiempo
-* Alon Waisman & Mary Beth Burch & Michael Wong & Matt Ewell
-* Erik Butcher & Vanessa Gomez & Chelsea Worrel & George Hudson
+* 1: Drew Reynolds & Margarett Ly & Justin Holmes & Sally MacNicholas
+* 2: Lev Kravinsky & Dave Maurer & Morgan Miller & Andrew Fink
+* 3: Jack Yeh & Rachel Parri & Tyler Komoroske & Rebekah Sosa
+* 4: Chad Minnerath & David Stinnette & Justin Holzmann & Matt Hecker
+* 5: Travis Haby & Regis Boudinot & Justin Pease & Jerrod Paul Junker
+* 6: Rob Cornell & Brett Grigsby & Jamie Kawahara & Whitney Hiemstra
+* 7: Rick Bacci & Russell Harms & Nicole Hall & Jeff Ruane
+* 8: Adam Jensen & Bret Doucette & Rose Kohn & Ryan Asensio
+* 9: Max Tedford & Josh Cass & Mimi Schatz & Chris Cenatiempo
+* 10: Alon Waisman & Mary Beth Burch & Michael Wong & Matt Ewell
+* 11: Erik Butcher & Vanessa Gomez & Chelsea Worrel & George Hudson
 
 Then the rest of the day we'll be in split groups:
 
