@@ -15,7 +15,7 @@ A set is like an Array, but it holds unique objects.
 
 If you had a set [1, 2, 3] and you tried to push in 3, you'd still have the same set.
 
-Can you implement this With tests? What about shift and unshift? pop?
+Can you implement this with tests? What about shift and unshift? pop?
 
 
 ## 1502
@@ -44,7 +44,7 @@ Move forward.
 Work on your projects.
 
 
-## 1505 
+## 1505
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
@@ -61,17 +61,34 @@ Work.
 
 ## 1507
 
-### All: OkCuGit (9:00 - 11:00)
+### All: OkCuGit (9:00 - 10:30)
 
-Join Josh Cheek in the Big Workspace.
+Join Josh Cheek in the Big Workspace where you'll work individually on a
+code challenge: [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown).
 
 ### All: Loopback: Refactoring Enigma (10:30 - 12:00)
 
-How would you structure Enigma now, with the benefit of a little bit more experience?
+Let's stay in the Big Workspace to practice a bit of pairing and refactoring.
+
+Start by [cloning this Enigma project](url). Remember some of the named refactorings
+you've worked with: Move Method, Extract Class, etc. Then begin refactoring the
+application by:
+
+1. Finding hotspots
+2. Determining the test coverage of the code (*hint: add an intentional bug, like
+  `5/0`, and see which if any tests fail*)
+3. Augment the tests with additional edge case tests if the coverage is not
+sufficient.
+4. Run the tests and make sure they pass. If any fail, fix those first.
+5. Apply one or more of your named refactorings and, after each one, both
+confirm that the tests still pass and commit the results to git.
+
+You can find several resources about the named refactorings including:
+
+* [Fowler's original catalog (in Java)](http://refactoring.com/catalog/)
+* [A little more polished version of the same catalog](https://refactoring.guru/catalog)
 
 ### All: Work Time (1:00 - 4:00)
 
-Engine those sales!
-
-
-
+Then this afternoon you have a bit more work time as you push SalesEngine closer
+to the finish line.
