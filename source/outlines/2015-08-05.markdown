@@ -88,6 +88,22 @@ You can find several resources about the named refactorings including:
 * [Fowler's original catalog (in Java)](http://refactoring.com/catalog/)
 * [A little more polished version of the same catalog](https://refactoring.guru/catalog)
 
+Pairs:
+
+* Chad Minnerath & Michael Wong
+* Rose Kohn & Russell Harms
+* Rebekah Sosa & Rachel Parri
+* Jerrod Paul Junker & Regis Boudinot
+* Justin Pease & Adam Jensen
+* Bret Doucette & Ryan Asensio
+* Chris Cenatiempo & Justin Holzmann
+* Travis Haby & Nicole Hall
+* Mimi Schatz & Matt Hecker
+* Matt Ewell & George Hudson
+* Jeff Ruane & Mary Beth Burch
+* Alon Waisman & David Stinnette & Tyler Komoroske
+
+
 ### All: Work Time (1:00 - 4:00)
 
 Then this afternoon you have a bit more work time as you push SalesEngine closer
