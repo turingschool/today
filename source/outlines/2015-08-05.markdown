@@ -22,12 +22,19 @@ Can you implement this with tests? What about shift and unshift? pop?
 
 ### WebSocket Workshop (9:00 - 12:00)
 
-Classroom A.
+This morning you'll be working through the [this tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown).
 
-### Project Work time (1:00 - 4:00)
+You should have your application deployed and a link to your application and repository in [this Etherpad](https://etherpad.mozilla.org/web-sockets-1502) by noon.
 
-Work work.
+### Project Work Time and Check-ins (1:00 - 4:00)
 
+* 1:00 - 1:15: Tracy, Minnie, and Lori
+* 1:20 - 1:35: Patrick
+* 1:40 - 1:55: David
+* 2:00 - 2:15: Michelle, Mihir, and Kyle
+* 2:20 - 2:35: Fred
+* 2:40 - 2:55: Tom, Kenny, and Tess
+* 3:00 - 3:15: Eric, Andrew, and Kristina
 
 ## 1503
 
