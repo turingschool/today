@@ -70,7 +70,7 @@ code challenge: [OkCuGit](https://github.com/turingschool/challenges/blob/master
 
 Let's stay in the Big Workspace to practice a bit of pairing and refactoring.
 
-Start by [cloning this Enigma project](url). Remember some of the named refactorings
+Start by [cloning this Enigma project](https://github.com/mikedao/enigma-refactor.git). Remember some of the named refactorings
 you've worked with: Move Method, Extract Class, etc. Then begin refactoring the
 application by:
 
