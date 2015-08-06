@@ -101,6 +101,7 @@ When you're *not* in your evaluation, please...
 
 * [work on this SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
 * [read as much as you can of Database Design for Mere Mortals](http://cl.ly/1y0U1Y2m2W14)
+* Ask any questions with Josh... make up an ORM with Josh, [and build it!](https://github.com/JoshCheek/db_stuff)
 
 #### With Mike
 
