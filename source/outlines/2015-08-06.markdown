@@ -68,7 +68,7 @@ Meet with Jorge at his desk for check-ins. Since there are many projects, please
 
 ### Intro to the Asset Pipeline (9:00 - 10:30)
 
-Join Josh in Classroom C.
+Join Josh Mejia in Classroom C.
 
 ### Transactions, Callbacks and Scopes (10:30 - 12:00)
 
@@ -82,51 +82,55 @@ Stay in Classroom C with Josh.
 * 2:30 - Dinners Ready
 
 
-## 1507
+## 1507 - Echo
 
-### Echo: Sales Engine Evaluations (9:00 - 10:00)
+### Sales Engine Evaluations (9:00 - 10:00)
+
+When you're *not* in your evaluation, please [work on this Tutorial]().
 
 #### With Mike
 
 * 9:00 - Justin Holzmann & Ryan Asensio
+* 10:00 - George Hudson and Russell Harms
 
 #### With Josh Cheek
 
-* 9:00 - Matt Ewell
-* 9:30 - Matt Hecker & Alon Waisman
+* 9:00 - Matt Hecker & Alon Waisman
+* 10:00 - Matt Ewell
 
-#### With DJ
+### How Databases Work (1:00 - 4:00)
 
-* 9:00 - George Hudson and Russell Harms
+Join Josh in Classroom A to dive into databases, SQL, and PostgreSQL.
 
+## 1507 - Foxtrot
 
-### Echo: Mystery Class (10:00 - 12:00)
-
-![](http://i.imgur.com/FNGXww6.gif)
-
-### Echo: How Databases Work (1:00 - 3:30)
-
-Join Jeff.
-
-### Echo: Sales Engine the SeQueL Kickoff (3:30 - 4:00)
-
-Join Jeff.
-
-### Foxtrot: Work Time (9:00 - 12:00)
+### Work Time (9:00 - 12:00)
 
 Work on your Sales Engines.
 
-### Foxtrot: Work Time and Checkins (1:00 - 4:00)
+### Relationships & References (10:30 - 12:00)
+
+Join Jeff in Classroom A to dive deeper into SalesEngine relationships.
+
+### Work Time and Checkins (1:00 - 4:00)
+
+This afternoon you can continue working on the project when you're not in the
+pairing/check-in session below:
+
+#### With Tim
+
+* 1:00 - Mary Beth Burch & Travis Haby
+* 2:00 - Adam Jensen & Chad Minnerath
+* 3:00 - Chris Cenatiempo & Regis Boudinot
+
+#### With DJ
+
+* 1:00 - Jerrod Paul Junker & Michael Wong
+* 2:00 - Nicole Hall & Justin Pease
+* 3:00 - Rebekah Sosa & Rachel Parri
 
 #### With Mike
 
-* 1:00 - Mary Beth Burch & Travis Haby
-* 1:20 - Adam Jensen & Chad Minnerath
-* 1:40 - Chris Cenatiempo & Regis Boudinot
-* 2:00 - Jerrod Paul Junker & Michael Wong
-* 2:20 - Nicole Hall & Justin Pease
-* 2:40 - Rebekah Sosa & Rachel Parri
-* 3:00 - Jeff Ruane & Tyler Komoroske
-* 3:20 - Bret Doucette & Mimi Schatz
-* 3:40 - David Stinnette & Rose Kohn
-
+* 1:00 - Jeff Ruane & Tyler Komoroske
+* 2:00 - Bret Doucette & Mimi Schatz
+* 3:00 - David Stinnette & Rose Kohn
