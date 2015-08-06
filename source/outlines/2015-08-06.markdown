@@ -87,9 +87,12 @@ Stay in Classroom C with Josh.
 
 ## 1507 - Echo
 
-### Sales Engine Evaluations (9:00 - 10:00)
+### Sales Engine Evaluations & Database Pre-Study (9:00 - 12:00)
 
-When you're *not* in your evaluation, please [work on this Tutorial]().
+When you're *not* in your evaluation, please...
+
+* [work on this SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
+* [read as much as you can of Database Design for Mere Mortals](http://cl.ly/1y0U1Y2m2W14)
 
 #### With Mike
 
