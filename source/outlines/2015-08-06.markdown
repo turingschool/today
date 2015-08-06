@@ -15,17 +15,20 @@ Pick a method from Ruby's Enumberable that is not map, collect, reduce, inject, 
 
 Can you implement it in JavaScript?
 
-You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
+You may want to look to [Underscore](http://underscorejs.org/) for inspiration (but not for implementation).
 
 
 ## 1502
 
 ### Topics in Ruby (9:00 - 10:30)
 
-### Topics in JavaScript (10:30 - 12:00)
+### Testing JavaScript: Part III (10:30 - 12:00)
+
+
 
 ### Project Work Time (1:00 - 4:00)
 
+Steve is on hand for questions.
 
 ## 1503
 
@@ -44,7 +47,7 @@ Join Josh in Classroom C.
 
 ### Transactions, Callbacks and Scopes (10:30 - 12:00)
 
-Stay in Classroom C with Josh. 
+Stay in Classroom C with Josh.
 
 ### Little Shop Work Time and Checkins (1:00 - 4:00)
 
