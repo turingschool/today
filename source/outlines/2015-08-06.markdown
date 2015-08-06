@@ -3,7 +3,7 @@ title: 20150728
 layout: outline
 ---
 
-Today in 1819, Norwich University was founded in Vermont.
+Today in 1819, Norwich University, the nation's oldest private military college, was founded in Vermont.
 
 ## All
 
@@ -20,30 +20,59 @@ You may want to look to [Underscore](http://underscorejs.org/) for inspiration (
 
 ## 1502
 
-### Topics in Ruby (9:00 - 10:30)
+### Computers, Internets, and Clouds (9:00 - 12:00)
 
-### Testing JavaScript: Part III (10:30 - 12:00)
+Join Jeff in Classroom A to learn about how the internet *really* works.
 
+Here are some things we'll use along the way:
 
+* a shitload of dry erase markers
+* your notebook where you write down all the golden nuggets of wisdom flying at you
+* [a cryptic list of IP addresses](https://gist.github.com/jcasimir/c3d6690d878196d2ed7e)
+* [this crazy long/awesome tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Steve is on hand for questions.
+Anyone can work on a web application. But only the truly bold can ship that web
+app on a VPS.
+
 
 ## 1503
 
 ### Project Work Time (9:00 - 12:00)
 
+Keep on keepin' on.
+
 ### Project Work Time and Checkins (1:00 - 4:00)
 
-Schedule TBA
+Meet with Jorge at his desk for check-ins. Since there are many projects, please be on time.
+
+* 1:00 - Brett Grigsby
+* 1:10 - Max Tedford
+* 1:20 - Rick Bacci
+* 1:30 - Sally MacNicholas
+* 1:40 - Vanessa Gomez
+* 1:50 - Andrew Fink
+* 2:00 - Morgan Miller
+* 2:10 - Justin Holmes
+* 2:20 - Drew Reynolds
+* 2:30 - Josh Cass
+* 2:40 - Lev Kravinsky
+* 2:50 - Whitney Hiemstra
+* 3:00 - Erik Butcher
+* 3:10 - Margarett Ly
+* 3:20 - Chelsea Worrel
+* 3:30 - Rob Cornell
+* 3:40 - Dave Maurer
+* 3:50 - Jamie Kawahara
+* 4:10 - Jack Yeh
 
 
 ## 1505
 
 ### Intro to the Asset Pipeline (9:00 - 10:30)
 
-Join Josh in Classroom C.
+Join Josh Mejia in Classroom C.
 
 ### Transactions, Callbacks and Scopes (10:30 - 12:00)
 
@@ -51,25 +80,69 @@ Stay in Classroom C with Josh.
 
 ### Little Shop Work Time and Checkins (1:00 - 4:00)
 
-Schedule TBA
+#### With Josh M.
 
+* 1:00 - Jurassic Parka
+* 1:30 - Endangerous Outfitters
+* 2:00 - Redrum Nursery
+* 2:30 - Dinner's Ready
 
-## 1507
+#### With Mike
 
-### Echo: Sales Engine Evaluations (9:00 - 12:00)
+* 1:00 - Endangerous Outfitters
+* 1:20 - Redrum Nursery
+* 1:40 - Dinner's Ready
+* 2:00 - Jurassic Parka
 
-Schedule TBA
+## 1507 - Echo
 
-### Foxtrot: Work Time (9:00 - 12:00)
+### Sales Engine Evaluations & Database Pre-Study (9:00 - 12:00)
 
-### Echo: How Databases Work (1:00 - 3:30)
+When you're *not* in your evaluation, please...
 
-Join Jeff.
+* [work on this SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
+* [read as much as you can of Database Design for Mere Mortals](http://cl.ly/1y0U1Y2m2W14)
 
-### Foxtrot: Work Time and Checkins (1:00 - 4:00)
+#### With Mike
 
-Schedule TBA
+* 9:00 - Justin Holzmann & Ryan Asensio
+* 10:00 - George Hudson and Russell Harms
 
-### Echo: Sales Engine the SeQueL Kickoff (3:30 - 4:00)
+#### With Josh Cheek
 
-Join Jeff.
+* 9:00 - Matt Hecker & Alon Waisman
+* 10:00 - Matt Ewell
+
+### How Databases Work (1:00 - 4:00)
+
+Join Josh in Classroom B to dive into databases, SQL, and PostgreSQL.
+
+## 1507 - Foxtrot
+
+### Work Time & Check-Ins
+
+Work time and check-in scheduling today is a little tricky. You have a check in,
+you have work time, and you have a class all together 1:00-2:30. When you're not
+in either your check-in or class, you're working on your project.
+
+#### Check-Ins With Tim
+
+* 9:00 - Mary Beth Burch & Travis Haby
+* 10:00 - Adam Jensen & Chad Minnerath
+* 11:00 - Chris Cenatiempo & Regis Boudinot
+* 2:30 - Nicole Hall & Justin Pease
+
+#### Check-Ins With DJ
+
+* 11:00 - Jerrod Paul Junker & Michael Wong
+* 2:30 - Rebekah Sosa & Rachel Parri
+
+#### Check-Ins With Mike
+
+* 11:00 - Jeff Ruane & Tyler Komoroske
+* 2:30 - David Stinnette & Rose Kohn
+* 3:15 - Bret Doucette & Mimi Schatz
+
+### Relationships & References (1:00 - 2:30)
+
+Join Jeff in Classroom A to dive deeper into SalesEngine relationships.
