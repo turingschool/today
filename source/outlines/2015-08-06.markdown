@@ -20,18 +20,21 @@ You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
 
 ## 1502
 
-### Topics in Ruby (9:00 - 10:30)
+### Computers, Internets, and Clouds (9:00 - 12:00)
 
-Classroom A.
+Join Jeff in Classroom A to learn about how the internet *really* works.
 
-### Testing AJAX (10:30 - 12:00)
+Here are some things we'll use along the way:
 
-Classroom A still.
+* a shitload of dry erase markers
+* your notebook where you write down all the golden nuggets of wisdom flying at you
+* [a cryptic list of IP addresses](https://gist.github.com/jcasimir/c3d6690d878196d2ed7e)
+* [this crazy long/awesome tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Do the thing!
-
+Anyone can work on a web application. But only the truly bold can ship that web
+app on a VPS.
 
 ## 1503
 
