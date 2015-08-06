@@ -106,7 +106,7 @@ When you're *not* in your evaluation, please...
 
 ### How Databases Work (1:00 - 4:00)
 
-Join Josh in Classroom A to dive into databases, SQL, and PostgreSQL.
+Join Josh in Classroom B to dive into databases, SQL, and PostgreSQL.
 
 ## 1507 - Foxtrot
 
