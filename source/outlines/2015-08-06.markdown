@@ -107,33 +107,30 @@ Join Josh in Classroom A to dive into databases, SQL, and PostgreSQL.
 
 ## 1507 - Foxtrot
 
-### Work Time (9:00 - 12:00)
+### Work Time & Check-Ins
 
-Work on your Sales Engines.
+Work time and check-in scheduling today is a little tricky. You have a check in,
+you have work time, and you have a class all together 1:00-2:30. When you're not
+in either your check-in or class, you're working on your project.
 
-### Relationships & References (10:30 - 12:00)
+#### Check-Ins With Tim
 
-Join Jeff in Classroom A to dive deeper into SalesEngine relationships.
+* 9:00 - Mary Beth Burch & Travis Haby
+* 10:00 - Adam Jensen & Chad Minnerath
+* 11:00 - Chris Cenatiempo & Regis Boudinot
+* 3:00 - Nicole Hall & Justin Pease
 
-### Work Time and Checkins (1:00 - 4:00)
+#### Check-Ins With DJ
 
-This afternoon you can continue working on the project when you're not in the
-pairing/check-in session below:
-
-#### With Tim
-
-* 1:00 - Mary Beth Burch & Travis Haby
-* 2:00 - Adam Jensen & Chad Minnerath
-* 3:00 - Chris Cenatiempo & Regis Boudinot
-
-#### With DJ
-
-* 1:00 - Jerrod Paul Junker & Michael Wong
-* 2:00 - Nicole Hall & Justin Pease
+* 11:00 - Jerrod Paul Junker & Michael Wong
 * 3:00 - Rebekah Sosa & Rachel Parri
 
-#### With Mike
+#### Check-Ins With Mike
 
-* 1:00 - Jeff Ruane & Tyler Komoroske
-* 2:00 - Bret Doucette & Mimi Schatz
-* 3:00 - David Stinnette & Rose Kohn
+* 11:00 - Jeff Ruane & Tyler Komoroske
+* 2:30 - David Stinnette & Rose Kohn
+* 3:15 - Bret Doucette & Mimi Schatz
+
+### Relationships & References (1:00 - 2:30)
+
+Join Jeff in Classroom A to dive deeper into SalesEngine relationships.
