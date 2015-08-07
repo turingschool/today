@@ -7,8 +7,103 @@ layout: outline
 
 ## 1502
 
+### Test Driving Your Rails Application from the Ground Up (9:00 - 12:00)
+
+Meet with Ben in Classroom A.
+
+### Mastery Project Evaluations (1:00 - 4:00)
+
+#### With Jorge
+
+* 1:00 - 1:40: Fred
+
+#### With Jeff
+
+* 1:00 - 1:40: Eric, Kristina, and Andrew
+* 1:45 - 2:20: Patrick
+
+#### With Horace
+
+* 1:00 - 1:40: Lori, Tracy, and Minnie
+* 1:45 - 2:20: David
+
+#### With Steve
+
+* 1:00 - 1:40: Michelle, Mihir, and Kyle
+* 1:45 - 2:20: Tess, Tom, and Kenny
+
 ## 1503
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Join Horace in Classroom C to strategize some caching in your Rails applications.
+
+### Project Work Time (1:00 - 4:00)
+
+Work on those projects like your passing the module depends on it—because it does.
 
 ## 1505
 
+### A Gentle Introduction to JavaScript (9:00 - 10:30)
+
+Meet with Steve in Classroom B to talk a little bit about the world's most popular programming language.
+
+### Project Work Time (10:30 - 12:00)
+
+You'll have some time this morning to push forward on your projects before your meetings with the infamous Richard this afternoon.
+
+### Project Check-ins (1:00 - 4:00)
+
+#### With Richard
+
+(Schedule to be announced, shortly.)
+
 ## 1507
+
+### Assessments and Work Time (9:00 - 12:00)
+
+If you're not in an assessment, then you're working on Sales Engine or its sequel.
+
+#### With DJ
+
+* Mimi Schatz
+* Alon Waisman
+* George Hudson
+* Matt Ewell
+* Russell Harms
+
+#### With Mike
+
+* Michael Wong
+* Mary Beth Burch
+* Regis Boudinot
+* Chad Minnerath
+* Adam Jensen
+
+#### With Josh Cheek
+
+* Bret Doucette
+* Matt Hecker
+* Ryan Asensio
+* Tyler Komoroske
+* Nicole Hall
+
+#### With Jeff
+
+* Justin Pease
+* Rachel Parri
+* Jerrod Paul Junker
+* David Stinnette
+* Rebekah Sosa
+
+### Assessments and Project Work Time (1:00 - 4:00)
+
+Mike and DJ are on hand for any and all of your questions in 15 minute increments.
+
+#### With Josh Cheek
+
+* Travis Haby
+* Chris Cenatiempo
+* Rose Kohn
+* Justin Holzmann
+* Jeff Ruane
