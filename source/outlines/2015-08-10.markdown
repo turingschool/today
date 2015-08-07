@@ -7,20 +7,16 @@ layout: outline
 
 ## 1502
 
-### Test Driving Your Rails Application from the Ground Up (9:00 - 12:00)
+### Rails in Review (9:00 - 12:00)
 
-Meet with Ben in Classroom A.
+Join in Jeff in Classroom A with your questions and topics.
 
 ### Mastery Project Evaluations (1:00 - 4:00)
 
 #### With Jorge
 
 * 1:00 - 1:40: Fred
-
-#### With Jeff
-
-* 1:00 - 1:40: Eric, Kristina, and Andrew
-* 1:45 - 2:20: Patrick
+* 1:45 - 2:20: Eric, Kristina, and Andrew
 
 #### With Horace
 
@@ -31,6 +27,7 @@ Meet with Ben in Classroom A.
 
 * 1:00 - 1:40: Michelle, Mihir, and Kyle
 * 1:45 - 2:20: Tess, Tom, and Kenny
+* 2:25 - 3:10: Patrick
 
 ## 1503
 
@@ -66,44 +63,44 @@ If you're not in an assessment, then you're working on Sales Engine or its seque
 
 #### With DJ
 
-* Mimi Schatz
-* Alon Waisman
-* George Hudson
-* Matt Ewell
-* Russell Harms
+* 9:00 - 9:30:   Mimi Schatz
+* 9:30 - 10:00:  Alon Waisman
+* 10:30 - 11:00: George Hudson
+* 11:00 - 11:30: Matt Ewell
+* 11:30 - 12:00: Russell Harms
 
 #### With Mike
 
-* Michael Wong
-* Mary Beth Burch
-* Regis Boudinot
-* Chad Minnerath
-* Adam Jensen
+* 9:00 - 9:30:   Michael Wong
+* 9:30 - 10:00:  Mary Beth Burch
+* 10:30 - 11:00: Regis Boudinot
+* 11:00 - 11:30: Chad Minnerath
+* 11:30 - 12:00: Adam Jensen
 
 #### With Josh Cheek
 
-* Bret Doucette
-* Matt Hecker
-* Ryan Asensio
-* Tyler Komoroske
-* Nicole Hall
-
-#### With Jeff
-
-* Justin Pease
-* Rachel Parri
-* Jerrod Paul Junker
-* David Stinnette
-* Rebekah Sosa
+* 9:00 - 9:30:   Bret Doucette
+* 9:30 - 10:00:  Matt Hecker
+* 10:30 - 11:00: Ryan Asensio
+* 11:00 - 11:30: Tyler Komoroske
+* 11:30 - 12:00: Nicole Hall
 
 ### Assessments and Project Work Time (1:00 - 4:00)
 
 Mike and DJ are on hand for any and all of your questions in 15 minute increments.
 
+#### With Jeff
+
+* 1:00 - 1:30: Justin Pease
+* 1:30 - 2:00: Rachel Parri
+* 2:00 - 2:30: Jerrod Paul Junker
+* 2:30 - 3:00: David Stinnette
+* 3:00 - 3:30: Rebekah Sosa
+
 #### With Josh Cheek
 
-* Travis Haby
-* Chris Cenatiempo
-* Rose Kohn
-* Justin Holzmann
-* Jeff Ruane
+* 1:00 - 1:30: Travis Haby
+* 1:30 - 2:00: Chris Cenatiempo
+* 2:00 - 2:30: Rose Kohn
+* 2:30 - 3:00: Justin Holzmann
+* 3:00 - 3:30: Jeff Ruane

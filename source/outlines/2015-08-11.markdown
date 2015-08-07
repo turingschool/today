@@ -38,6 +38,14 @@ layout: outline
 
 ## 1505
 
+### Intoduction to jQuery (9:00 - 10:00)
+
+Meet with Josh in Classroom C.
+
+### Filtering with jQuery (10:00 - 12:00)
+
+Stick around with Josh in Classroom C.
+
 ### Module 2 Assessments (1:00 - 4:00)
 
 #### With Josh Mejia
@@ -55,3 +63,11 @@ layout: outline
 * 3:15: Adam Caron
 
 ## 1507
+
+### Binary, Octal, and Hex (9:00 - 10:30)
+
+Meet with Jeff in Classroom A.
+
+### How Computers and Electronics Work (10:30 - 12:00)
+
+Stick around with Jeff in Classroom A.
