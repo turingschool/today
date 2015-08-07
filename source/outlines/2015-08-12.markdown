@@ -5,9 +5,48 @@ layout: outline
 
 ## All
 
+### Waffles (8:00 - 9:00)
+
+The waffle truck will be outside. Daisha will anounce the password for a free waffle.
+
 ## 1502
 
+### Final Assessment Review (9:00 - 12:00)
+
+#### With Steve
+
+* 9:00 - Andrew
+* 9:30 - Eric
+* 10:00 - Tracy
+* 10:30 - David
+
+#### With Jeff
+
+* 10:30 - Lori
+* 11:00 - Tom
+* 11:30 - Kyle
+
+#### With Josh Cheek
+
+* 11:00 - Kristina
+* 11:30 - Michelle
+
+#### With Horace
+
+* 9:00 - Patrick
+* 9:30 - Fred
+* 10:00 - Mihir
+* 10:30 - Tess
+
+### Portfolio Preparation (9:00 - 12:00)
+
+You'll have some time to prepare your portfolios.
+
 ## 1503
+
+### Project Work Time (9:00 - 4:00)
+
+Self-direct those projects to completion.
 
 ## 1505
 
@@ -26,3 +65,11 @@ layout: outline
 * 9:45: Jason Wright
 
 ## 1507
+
+### Algorithmic Complexity (9:00 - 10:30)
+
+Meet with Jeff in Classroom B.
+
+### Project Work Time (10:30 - 4:00)
+
+For the remainder of the day, you'll have an opportunity to work on your projects.

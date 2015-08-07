@@ -29,15 +29,73 @@ This morning you'll meet with Steve and Jeff. There are no assigned time slots, 
 
 ## 1503
 
-### Project Evaluations (9:00 - 12:00)
+### Project Evaluations (9:00 - 2:30)
 
 You will have both a product evaluation and a code evaluation. Please check the schedule below for both.
 
 #### Product Evaluation with Jorge
 
+* 8:45 - Rob Cornell
+* 9:00 - Margarett Ly
+* 9:15 - Sally MacNicholas
+* 9:30 - Dave Maurer
+* 9:45 - Whitney Hiemstra
+* 10:00 - Chelsea Worrel
+* 10:15 - Jack Yeh
+* 10:30 - Morgan Miller
+* 10:45 - Rick Bacci
+* 11:00 - Justin Holmes
+* 11:15 - Erik Butcher
+* 11:30 - Vanessa Gomez
+* 11:45 - Andrew Fink
+* 1:00 - Drew Reynolds
+* 1:15 - Josh Cass
+* 1:30 - Jamie Kawahara
+* 1:45 - Brett Grigsby
+* 2:00 - Lev Kravinsky
+* 2:15 - Max Tedford
 
+#### Code Evaluation with Josh Mejia
+
+* 9:00 -  Drew Reynolds
+* 9:30 -  Josh Cass
+* 10:00 - Jamie Kawahara
+* 10:30 - Brett Grigsby
+* 11:00 - Lev Kravinsky
+* 11:30 - Max Tedford
+
+#### Code Evaluation with Horace
+
+* 9:00 -  Sally MacNicholas
+* 9:30 -  Rob Cornell
+* 10:00 - Margarett Ly
+* 10:30 - Chelsea Worrel
+* 11:00 - Dave Maurer
+* 11:30 - Whitney Hiemstra
+* 1:00 - Jack Yeh
+* 1:30 - Morgan Miller
+* 2:00 - Rick Bacci
+
+#### Code Evaluation with Josh Cheek
+
+* 1:00 - Justin Holmes
+* 1:30 - Erik Butcher
+* 2:00 - Vanessa Gomez
 
 ## 1505
+
+### Little Shop Work Time (9:00 - 12:00)
+
+Put the final touches on your projects. Pro-tip: Deploy to Heroku as soon as possible and make sure you haven't broken production.
+
+### Little Shop Evaluations (1:00 - 4:00)
+
+#### With Josh Mejia
+
+* 1:00 - Marla Brizel, Mitch Ashby, Drew Conly
+* 1:45 - Lovisa Svallingson, Jai Misra, Jason Wright
+* 2:30 - Alex Tideman, Max Millington, David Shim, Adam Caron
+* 3:15 - Mike Reeves, Sebastian Abondano, Michael Dorrance, Samson Brock
 
 ## 1507
 
@@ -70,3 +128,7 @@ This morning you'll meet with Jeff, Mike, and Steve. There are no assigned time 
 * Justin Pease
 * David Stinnette
 * Justin Holzmann
+
+### Programming is Fun: An Introduction to Ruby Processing
+
+Meet with DJ in Classroom A to explore Ruby Processing.
