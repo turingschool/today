@@ -20,18 +20,21 @@ You may want to look to [Underscore](http://underscorejs.org/) for inspiration.
 
 ## 1502
 
-### Topics in Ruby (9:00 - 10:30)
+### Computers, Internets, and Clouds (9:00 - 12:00)
 
-Classroom A.
+Join Jeff in Classroom A to learn about how the internet *really* works.
 
-### Testing AJAX (10:30 - 12:00)
+Here are some things we'll use along the way:
 
-Classroom A still.
+* a shitload of dry erase markers
+* your notebook where you write down all the golden nuggets of wisdom flying at you
+* [a cryptic list of IP addresses](https://gist.github.com/jcasimir/c3d6690d878196d2ed7e)
+* [this crazy long/awesome tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building-a-vps.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Do the thing!
-
+Anyone can work on a web application. But only the truly bold can ship that web
+app on a VPS.
 
 ## 1503
 
@@ -68,7 +71,7 @@ Meet with Jorge at his desk for check-ins. Since there are many projects, please
 
 ### Intro to the Asset Pipeline (9:00 - 10:30)
 
-Join Josh in Classroom C.
+Join Josh Mejia in Classroom C.
 
 ### Transactions, Callbacks and Scopes (10:30 - 12:00)
 
@@ -76,57 +79,70 @@ Stay in Classroom C with Josh.
 
 ### Little Shop Work Time and Checkins (1:00 - 4:00)
 
+#### With Josh M.
+
 * 1:00 - Jurassic Parka
 * 1:30 - Endangerous Outfitters
 * 2:00 - Redrum Nursery
-* 2:30 - Dinners Ready
+* 2:30 - Dinner's Ready
 
+#### With Mike
 
-## 1507
+* 1:00 - Endangerous Outfitters
+* 1:20 - Redrum Nursery
+* 1:40 - Dinner's Ready
+* 2:00 - Jurassic Parka
 
-### Echo: Sales Engine Evaluations (9:00 - 10:00)
+## 1507 - Echo
+
+### Sales Engine Evaluations & Database Pre-Study (9:00 - 12:00)
+
+When you're *not* in your evaluation, please...
+
+* [work on this SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html)
+* [read as much as you can of Database Design for Mere Mortals](http://cl.ly/1y0U1Y2m2W14)
+* Ask any questions with Josh... make up an ORM with Josh, [and build it!](https://github.com/JoshCheek/db_stuff)
 
 #### With Mike
 
 * 9:00 - Justin Holzmann & Ryan Asensio
+* 10:00 - George Hudson and Russell Harms
 
 #### With Josh Cheek
 
-* 9:00 - Matt Ewell
-* 9:30 - Matt Hecker & Alon Waisman
+* 9:00 - Matt Hecker & Alon Waisman
+* 10:00 - Matt Ewell
 
-#### With DJ
+### How Databases Work (1:00 - 4:00)
 
-* 9:00 - George Hudson and Russell Harms
+Join Josh in Classroom B to dive into databases, SQL, and PostgreSQL.
 
+## 1507 - Foxtrot
 
-### Echo: Mystery Class (10:00 - 12:00)
+### Work Time & Check-Ins
 
-![](http://i.imgur.com/FNGXww6.gif)
+Work time and check-in scheduling today is a little tricky. You have a check in,
+you have work time, and you have a class all together 1:00-2:30. When you're not
+in either your check-in or class, you're working on your project.
 
-### Echo: How Databases Work (1:00 - 3:30)
+#### Check-Ins With Tim
 
-Join Jeff.
+* 9:00 - Mary Beth Burch & Travis Haby
+* 10:00 - Adam Jensen & Chad Minnerath
+* 11:00 - Chris Cenatiempo & Regis Boudinot
+* 2:30 - Nicole Hall & Justin Pease
 
-### Echo: Sales Engine the SeQueL Kickoff (3:30 - 4:00)
+#### Check-Ins With DJ
 
-Join Jeff.
+* 11:00 - Jerrod Paul Junker & Michael Wong
+* 2:30 - Rebekah Sosa & Rachel Parri
 
-### Foxtrot: Work Time (9:00 - 12:00)
+#### Check-Ins With Mike
 
-Work on your Sales Engines.
+* 11:00 - Jeff Ruane & Tyler Komoroske
+* 2:30 - David Stinnette & Rose Kohn
+* 3:15 - Bret Doucette & Mimi Schatz
 
-### Foxtrot: Work Time and Checkins (1:00 - 4:00)
+### Relationships & References (1:00 - 2:30)
 
-#### With Mike
-
-* 1:00 - Mary Beth Burch & Travis Haby
-* 1:20 - Adam Jensen & Chad Minnerath
-* 1:40 - Chris Cenatiempo & Regis Boudinot
-* 2:00 - Jerrod Paul Junker & Michael Wong
-* 2:20 - Nicole Hall & Justin Pease
-* 2:40 - Rebekah Sosa & Rachel Parri
-* 3:00 - Jeff Ruane & Tyler Komoroske
-* 3:20 - Bret Doucette & Mimi Schatz
-* 3:40 - David Stinnette & Rose Kohn
-
+Join Jeff in Classroom A to dive deeper into SalesEngine relationships.
