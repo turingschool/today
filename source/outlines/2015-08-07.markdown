@@ -19,7 +19,7 @@ layout: outline
 Meet with Jeff in the Big Workspace. We're going to talk a bit, then have some
 time to get started on your Portfolios.
 
-1. Load up https://github.com/turingschool/portfolios
+1. Load up [the portfolio repo](https://github.com/turingschool/portfolios) in your browser
 2. Click the "Fork" button
 3. Clone your fork down to your machine
 4. Read the `README`, `submission_guidelines`, and `sample.markdown`
