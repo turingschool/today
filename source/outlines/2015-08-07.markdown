@@ -14,6 +14,18 @@ layout: outline
 
 ### Lightning Talks (9:00 - 10:00)
 
+Meet in the big workspace for
+
+* David Shim - Bitcoin and the Developing World
+* Lovisa Svallingson - Programming Around the World
+* Patrick Medaugh - Intro to MongoDB
+* Whitney Hiemstra - How Driverless Cars See the Road
+* Lev Kravinsky - The Proculator!
+* Justin Holmes - Common Mistakes in Rails
+* Mitch Ashby - The Role of Empathy in a Software Developer's Career
+* Tess Griffin - Animation in 3D Space
+* Fred Block - How to Fly a Quadcopter
+
 ### Gear Up (10:00 - 11:00)
 
 Meet with Jeff in the Big Workspace. We're going to talk a bit, then have some
@@ -61,7 +73,7 @@ They also make some hats that people are kind of obsessed with:
 * 1503 - Classroom B
 * 1502 - Big Workspace
 
-### One on Ones & Self-Study (2:00 - 4:00)
+### One on Ones, Student Led Sessions, & Self-Study (2:00 - 4:00)
 
 This afternoon we finally have a chunk of self study time. Hooray!
 
