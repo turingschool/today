@@ -18,12 +18,12 @@ Meet in the big workspace for
 
 * David Shim - Bitcoin and the Developing World
 * Lovisa Svallingson - Programming Around the World
+* Tess Griffin - Animation in 3D Space
 * Patrick Medaugh - Intro to MongoDB
 * Whitney Hiemstra - How Driverless Cars See the Road
 * Lev Kravinsky - The Proculator!
 * Justin Holmes - Common Mistakes in Rails
 * Mitch Ashby - The Role of Empathy in a Software Developer's Career
-* Tess Griffin - Animation in 3D Space
 * Fred Block - How to Fly a Quadcopter
 
 ### Gear Up (10:00 - 11:00)
