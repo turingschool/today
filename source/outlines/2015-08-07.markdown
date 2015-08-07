@@ -45,14 +45,14 @@ You can learn a bit about Pete on [Twitter](https://twitter.com/toomuchpete),
 [GitHub](https://github.com/toomuchpete), and
 [his site](http://pete.holiday/).
 
-Not familiar with [Mailchimp](http://mailchimp.com/)? There a
+Not familiar with [Mailchimp](http://mailchimp.com/)? Check out their
 [wikipedia page](https://en.wikipedia.org/wiki/MailChimp), and
-[their twitter](https://twitter.com/mailchimp), and in our email tutorials you'll use their
+[twitter](https://twitter.com/mailchimp), and in our email tutorials you'll use their
 [Mandrill service](https://www.mandrill.com/) for transactional email.
 
 They also make some hats that people are kind of obsessed with:
 
-<img src="http://www.bluesodapromo.com/blog/wp-content/uploads/2015/03/monkeyhat.jpg" style="width: 30%"/>
+<img src="http://www.bluesodapromo.com/blog/wp-content/uploads/2015/03/monkeyhat.jpg" style="width: 50%"/>
 
 ### Group Retro (1:00 - 2:00)
 
@@ -61,7 +61,20 @@ They also make some hats that people are kind of obsessed with:
 * 1503 - Classroom B
 * 1502 - Big Workspace
 
-### One on Ones 2:00 - 4:00
+### One on Ones & Self-Study (2:00 - 4:00)
+
+This afternoon we finally have a chunk of self study time. Hooray!
+
+It's been a long week and you're probably a bit tired. The best idea
+is to do some pairing and help each other stay focused. Maybe you want
+to...
+
+* Bend your brain with [Elixir](http://elixir-lang.org/)
+* [Learn a bit about design for non-designers](https://hackdesign.org/)
+* Experiment with an API you've never used before like [Twilio for voice/SMS](https://www.twilio.com/)
+* Review the docs/code for an open source project like [the SQLite3 gem](https://github.com/sparklemotion/sqlite3-ruby) and try to make any contribution (like clarifying/adding examples to the README, trying to reproduce issues, etc). Note that the "SYNOPSIS" code can't actually all be run since it tries to `db.execute` an `INSERT` into the `students` table which hasn't been created yet. If you're into this work coordinate in #turing on Slack so multiple people aren't doing the same work.
+
+And as tribute we demand:
 
 #### With Jeff
 
@@ -77,11 +90,12 @@ They also make some hats that people are kind of obsessed with:
 * 2:00 - Bret Doucette
 * 2:15 - Rose Kohn
 * 2:30 - Chris Cenatiempo
-* 2:45 - Mimi Schatz 
+* 2:45 - Mimi Schatz
 * 3:00 - Ryan Asensio
 
 
 #### With Josh Cheek
+
 * 2:00 - Alex Tideman
 * 2:15 - Lovisa Svallingson
 * 2:30 - Jai Misra
@@ -96,7 +110,7 @@ They also make some hats that people are kind of obsessed with:
 * 2:45 - Sally MacNicholas
 * 3:00 - Vanessa Gomez
 
-#### With Steve 
+#### With Steve
 
 * 2:00 - Andrew Carmer
 * 2:15 - David Daniel
@@ -122,12 +136,14 @@ They also make some hats that people are kind of obsessed with:
 
 ### MailChimp
 
+Six of you will be meeting with MailChimp today. Both Pete and Laura will be near the instructor desks.
+
 #### With Laura
 
 * 9:00 - Lori
 * 9:30 - Tess
 * 10:00 - Patrick
-* 10:30 - Chelsea 
+* 10:30 - Chelsea
 * 1:00 - Mihir
 * 1:30 - Morgan
 
