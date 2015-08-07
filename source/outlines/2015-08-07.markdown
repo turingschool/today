@@ -1,9 +1,7 @@
-
 ---
 title: 20150807
 layout: outline
 ---
-
 
 ## All
 
@@ -16,20 +14,52 @@ layout: outline
 
 ### Lightning Talks (9:00 - 10:00)
 
-### Gear Up (10:00 - 11:00) 
+### Gear Up (10:00 - 11:00)
 
-Big Workspace
+Meet with Jeff in the Big Workspace. We're going to talk a bit, then have some
+time to get started on your Portfolios.
+
+1. Load up https://github.com/turingschool/portfolios
+2. Click the "Fork" button
+3. Clone your fork down to your machine
+4. Read the `README`, `submission_guidelines`, and `sample.markdown`
+5. Create a branch like `git checkout -b yourname`
+6. Create your submission file following the guidelines
+7. Copy in the `template`
+8. Commit (like `git commit -m "Starting my portfolio"`)
+9. Push your branch to GitHub (`git push origin yourname`)
+10. Visit your fork on GitHub in your browser
+11. Find the status bar at the top of the page offering to make a pull request
+12. Make pull request and mark in the message that it's a "WIP"
+13. Return to your editor to work on the content of your file
+14. Commit often and push to your same GitHub branch
+15. When it's done go to your PR and let us know that it's ready to merge
 
 ### Guest Speaker (11:00 - 12:00)
 
-Big Workspace
+This morning we're joined by a few fine folks from Mailchimp in Atlanta, but the
+sacrificial question answerer will be Pete Holiday.
+
+You can learn a bit about Pete on [Twitter](https://twitter.com/toomuchpete),
+[LinkedIn](https://www.linkedin.com/pub/pete-holiday/3/a5/b55),
+[GitHub](https://github.com/toomuchpete), and
+[his site](http://pete.holiday/).
+
+Not familiar with [Mailchimp](http://mailchimp.com/)? There a
+[wikipedia page](https://en.wikipedia.org/wiki/MailChimp), and
+[their twitter](https://twitter.com/mailchimp), and in our email tutorials you'll use their
+[Mandrill service](https://www.mandrill.com/) for transactional email.
+
+They also make some hats that people are kind of obsessed with:
+
+<img src="http://www.bluesodapromo.com/blog/wp-content/uploads/2015/03/monkeyhat.jpg" style="width: 30%"/>
 
 ### Group Retro (1:00 - 2:00)
 
-1507 - Big Workspace
-1505 - Classroom A
-1503 - Classroom B
-1502 - Classroom C
+* 1507 - Classroom A
+* 1505 - Classroom C
+* 1503 - Classroom B
+* 1502 - Big Workspace
 
 ### One on Ones
 
