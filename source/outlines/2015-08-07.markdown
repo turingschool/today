@@ -75,6 +75,14 @@ They also make some hats that people are kind of obsessed with:
 
 ### One on Ones, Student Led Sessions, & Self-Study (2:00 - 4:00)
 
+
+#### Here's a list of the student led sessions described after lightning talks:
+
+* Lev Kravinsky in A - Building Your First Gem/Workflow for Pros
+* Lovisa Svallington in B - Let's Start an Open Source Project
+* Michael Dorrence in the Big Workspace -  Bootstrap Basics
+* Michael Reeves - Technical Prep Whiteboarding
+
 This afternoon we finally have a chunk of self study time. Hooray!
 
 It's been a long week and you're probably a bit tired. The best idea
