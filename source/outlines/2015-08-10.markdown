@@ -71,13 +71,13 @@ student and SESQL is just for the glory.
 
 Base your SESQL off the following codebase in a new repo:
 
-* George Hudson: http://github.com/russelleh/sales_engine
-* Russell Harms: http://github.com/russelleh/sales_engine
-* Matt Hecker: https://github.com/malonwais/sales_engine.git
-* Alon Waisman: https://github.com/malonwais/sales_engine.git
-* Justin Holzmann: https://github.com/plato721
-* Ryan Ascencio: https://github.com/plato721
-* Matt Ewell: http://github.com/philmphoenix/sales_engine_pivot
+* George Hudson: [repo](http://github.com/russelleh/sales_engine)
+* Russell Harms: [repo](http://github.com/russelleh/sales_engine)
+* Matt Hecker: [repo](https://github.com/malonwais/sales_engine.git)
+* Alon Waisman: [repo](https://github.com/malonwais/sales_engine.git)
+* Justin Holzmann: [repo](https://github.com/plato721)
+* Ryan Ascencio: [repo](https://github.com/plato721)
+* Matt Ewell: [repo](http://github.com/philmphoenix/sales_engine_pivot)
 
 ### Assessments and Work Time (9:00 - 12:00)
 
