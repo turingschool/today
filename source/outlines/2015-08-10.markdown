@@ -60,9 +60,28 @@ You'll have some time this morning to push forward on your projects before your 
 
 ## 1507
 
+### Echoes - SalesEngine the SQL
+
+For your last week, Echoes, you'll build [SalesEngine the SQL](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine_the_sql.markdown).
+
+You'll work individually but are welcome to pair with other students as long as you're both contributing/learning. For those of you who didn't pass SalesEngine, you'll continue with
+your own codebase. Passing this SESQL project will stand in for SE in your portfolio assessment. For
+those of you who did pass, you're going to rotate code bases with another
+student and SESQL is just for the glory.
+
+Base your SESQL off the following codebase in a new repo:
+
+* George Hudson: http://github.com/russelleh/sales_engine
+* Russell Harms: http://github.com/russelleh/sales_engine
+* Matt Hecker: https://github.com/malonwais/sales_engine.git
+* Alon Waisman: https://github.com/malonwais/sales_engine.git
+* Justin Holzmann: https://github.com/plato721
+* Ryan Ascencio: https://github.com/plato721
+* Matt Ewell: http://github.com/philmphoenix/sales_engine_pivot
+
 ### Assessments and Work Time (9:00 - 12:00)
 
-If you're not in an assessment, then you're working on Sales Engine or its sequel.
+If you're not in an assessment, then you're working on Sales Engine or its SQL.
 
 #### With DJ
 
