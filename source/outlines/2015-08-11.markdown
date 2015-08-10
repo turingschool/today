@@ -104,3 +104,7 @@ We'll work in three sessions, approximately 9:10-9:35, 9:40-10:05, and 10:10-10:
 
 Stick around with Jeff in Classroom A. We'll use [this outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown)
 to guide our discussion.
+
+### Project Work Time (1:00 - 4:00)
+
+Then this afternoon keep pushing towards the finish line.
