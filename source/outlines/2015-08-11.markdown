@@ -73,10 +73,34 @@ Stick around with Josh in Classroom C.
 
 ## 1507
 
-### Binary, Octal, and Hex (9:00 - 10:30)
+### Binary, Octal, and Hex (9:00 - 11:00)
 
-Meet with Jeff in Classroom A.
+Make sure you have your pen and notebook.
 
-### How Computers and Electronics Work (10:30 - 12:00)
+Join Jeff in the Classroom A to learn about [other number systems](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems.markdown).
 
-Stick around with Jeff in Classroom A.
+We'll work in three sessions, approximately 9:10-9:35, 9:40-10:05, and 10:10-10:35, and a quick closeout all together 10:35-10:45.
+
+* Adam Jensen: Hex, Binary, Octal
+* Bret Doucette: Octal, Binary, Hex
+* Chad Minnerath: Hex, Octal, Binary
+* Chris Cenatiempo: Hex, Binary, Octal
+* David Stinnette: Octal, Binary, Hex
+* Jeff Ruane: Binary, Hex, Octal
+* Jerrod Paul Junker: Octal, Hex, Binary
+* Justin Pease: Octal, Hex, Binary
+* Mary Beth Burch: Hex, Octal, Binary
+* Michael Wong: Binary, Hex, Octal
+* Mimi Schatz: Hex, Binary, Octal
+* Nicole Hall: Octal, Hex, Binary
+* Rachel Parri: Hex, Octal, Binary
+* Rebekah Sosa: Binary, Octal, Hex
+* Regis Boudinot: Binary, Octal, Hex
+* Rose Kohn: Hex, Binary, Octal
+* Travis Haby: Octal, Binary, Hex
+* Tyler Komoroske: Octal, Hex, Binary
+
+### How Computers and Electronics Work (10:50 - 12:00)
+
+Stick around with Jeff in Classroom A. We'll use [this outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown)
+to guide our discussion.
