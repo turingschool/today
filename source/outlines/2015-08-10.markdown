@@ -45,6 +45,9 @@ Work on those projects like your passing the module depends on it—because it d
 
 Meet with Steve in Classroom B to talk a little bit about the world's most popular programming language.
 
+* [Exercises](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+* [Additional Resources](http://tutorials.jumpstartlab.com/projects/javascript/)
+
 ### Project Work Time (10:30 - 12:00)
 
 You'll have some time this morning to push forward on your projects before your meetings with the infamous Richard this afternoon.
