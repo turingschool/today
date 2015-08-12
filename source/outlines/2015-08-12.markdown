@@ -45,7 +45,7 @@ Please make sure your last commit is pushed up to GitHub before 9AM and your app
 When you're not in your project assessment:
 
 1. Finish up your portfolio and make sure your PR is current
-2. Read and leave feedback (comments) on at least 2 portfolios from your cohorts
+2. Read and leave feedback (comments) on at least 2 portfolios from your cohort
 3. Read and leave feedback (comments) on at least 2 portfolios from other cohorts
 
 You understand what it means to be a Turing student better than most
@@ -65,7 +65,7 @@ Meet with Jeff in Classroom C. If you're available a few minutes early, come the
 
 ### Module 2 Assessments and Project Work Time (9:00 - 12:00)
 
-When you're not in assessments you're work work working on that project.
+When you're not in assessments you're work-work-working on that project.
 
 #### With Josh Mejia
 
