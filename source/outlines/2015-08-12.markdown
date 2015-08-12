@@ -64,6 +64,13 @@ Self-direct those projects to completion.
 * 9:00: Mike Reeves
 * 9:45: Jason Wright
 
+#### Project Checkins and Project Work Time (1:00 - 4:00)
+
+* Redrum Nursery: 1:00 - 1:30
+* Endangerous Outfitters: 1:30 - 2:00
+* Jurassic Parka: 2:00 - 2:30
+* Dinner's Ready: 2:30 - 3:00
+
 ## 1507
 
 ### Algorithmic Complexity (9:00 - 10:30)
