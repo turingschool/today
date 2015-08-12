@@ -11,6 +11,8 @@ layout: outline
 
 This morning you'll meet with Steve and Jeff. There are no assigned time slots, so please be ready when the person before you has their review.
 
+Meet us at the instructor desks. There's a *hot seat* for the person being reviewed, an *on deck* for the next person, and *in the hole* for the one after that. Ballpark 8-15 minutes per session. If you're not ready to go you will be skipped.
+
 * Andrew Carmer
 * Eric Dowty
 * Kenny Chen
@@ -103,19 +105,20 @@ Put the final touches on your projects. Pro-tip: Deploy to Heroku as soon as pos
 
 #### With Josh Cheek
 
-(To be decided…)
-
-    <!-- ['Matt Ewell'],
-    ['George Hudson', 'Russell Harms'],
-    ['Matt Hecker', 'Alon Waisman'],
-    ['Justin Holzmann', 'Ryan Asensio'] -->
+* 9:00 - Matt Ewell
+* 9:25 - George Hudson
+* 9:50 - Russell Harms
+* 10:15 - Matt Hecker
+* 10:40 - Alon Waisman
+* 11:05 - Justin Holzmann
+* 11:30 - Ryan Asensio
 
 #### With DJ
 
-* 9:00 -  Mary Beth Burch, Travis Haby,
-* 9:30 -  Adam Jensen, Chad Minnerath,
-* 10:00 - Chris Cenatiempo, Regis Boudinot,
-* 11:00 - Jerrod Junker, Michael Wong,
+* 9:00 -  Mary Beth Burch, Travis Haby
+* 9:30 -  Adam Jensen, Chad Minnerath
+* 10:00 - Chris Cenatiempo, Regis Boudinot
+* 11:00 - Jerrod Junker, Michael Wong
 * 11:30 - Nicole Hall, Justin Pease
 
 #### With Mike
@@ -127,7 +130,9 @@ Put the final touches on your projects. Pro-tip: Deploy to Heroku as soon as pos
 
 ### Portfolio Review (1:00 - 5:00)
 
-This morning you'll meet with Jeff, Mike, and Steve. There are no assigned time slots, so please be ready when the person before you has their review.
+This afternoon you'll meet with Jeff, Mike, and Steve. There are no assigned time slots, so please be ready when the person before you has their review.
+
+Meet us at the instructor desks. There's a *hot seat* for the person being reviewed, an *on deck* for the next person, and *in the hole* for the one after that. Ballpark 8-15 minutes per session. If you're not ready to go you will be skipped.
 
 * Bret Doucette
 * Travis Haby
@@ -155,6 +160,6 @@ This morning you'll meet with Jeff, Mike, and Steve. There are no assigned time 
 * David Stinnette
 * Justin Holzmann
 
-### Programming is Fun: An Introduction to Ruby Processing
+### Programming is Fun: An Introduction to Ruby Processing (1:00 - 4:00)
 
-Meet with DJ in Classroom A to explore Ruby Processing.
+When you're not doing portfolio reviews, meet with DJ in Classroom A to have fun with Ruby Processing.
