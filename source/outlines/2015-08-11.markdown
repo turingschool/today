@@ -81,24 +81,30 @@ Join Jeff in the Classroom A to learn about [other number systems](https://githu
 
 We'll work in three sessions, approximately 9:10-9:35, 9:40-10:05, and 10:10-10:35, and a quick closeout all together 10:35-10:45.
 
-* Adam Jensen: Hex, Binary, Octal
-* Bret Doucette: Octal, Binary, Hex
-* Chad Minnerath: Hex, Octal, Binary
-* Chris Cenatiempo: Hex, Binary, Octal
+* Adam Jensen: Binary, Hex, Octal
+* Alon Waisman: Hex, Octal, Binary
+* Bret Doucette: Binary, Hex, Octal
+* Chad Minnerath: Octal, Binary, Hex
+* Chris Cenatiempo: Binary, Octal, Hex
 * David Stinnette: Octal, Binary, Hex
-* Jeff Ruane: Binary, Hex, Octal
-* Jerrod Paul Junker: Octal, Hex, Binary
-* Justin Pease: Octal, Hex, Binary
-* Mary Beth Burch: Hex, Octal, Binary
-* Michael Wong: Binary, Hex, Octal
-* Mimi Schatz: Hex, Binary, Octal
-* Nicole Hall: Octal, Hex, Binary
-* Rachel Parri: Hex, Octal, Binary
+* George Hudson: Octal, Binary, Hex
+* Jeff Ruane: Hex, Octal, Binary
+* Jerrod Paul Junker: Octal, Binary, Hex
+* Justin Holzmann: Octal, Hex, Binary
+* Justin Pease: Hex, Binary, Octal
+* Mary Beth Burch: Octal, Hex, Binary
+* Matt Ewell: Octal, Hex, Binary
+* Matt Hecker: Binary, Octal, Hex
+* Michael Wong: Binary, Octal, Hex
+* Mimi Schatz: Octal, Hex, Binary
+* Nicole Hall: Hex, Octal, Binary
 * Rebekah Sosa: Binary, Octal, Hex
-* Regis Boudinot: Binary, Octal, Hex
-* Rose Kohn: Hex, Binary, Octal
-* Travis Haby: Octal, Binary, Hex
-* Tyler Komoroske: Octal, Hex, Binary
+* Regis Boudinot: Binary, Hex, Octal
+* Rose Kohn: Octal, Binary, Hex
+* Russell Harms: Binary, Hex, Octal
+* Ryan Asensio: Hex, Binary, Octal
+* Travis Haby: Hex, Octal, Binary
+* Tyler Komoroske: Hex, Octal, Binary
 
 ### How Computers and Electronics Work (10:50 - 12:00)
 
