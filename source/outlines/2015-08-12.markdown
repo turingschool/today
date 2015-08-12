@@ -7,11 +7,13 @@ layout: outline
 
 ### Waffles (8:00 - 9:00)
 
-The waffle truck will be outside. Daisha will announce the password for a free waffle.
+The waffle truck is outside! The password is the name of your favorite rock-climbing fly-fishing hat-wearing Turing instructor.
 
 ## 1502
 
 ### Final Assessment Review (9:00 - 12:00)
+
+Please make sure your last commit is pushed up to GitHub before 9AM and your app is deployed in production. Add a comment to the challenge Gist with both (a) your repo URL and (b) your production URL.
 
 #### With Steve
 
@@ -19,12 +21,12 @@ The waffle truck will be outside. Daisha will announce the password for a free w
 * 9:30 - Eric
 * 10:00 - Tracy
 * 10:30 - David
+* 11:00 - Kyle
 
 #### With Jeff
 
 * 10:30 - Lori
 * 11:00 - Tom
-* 11:30 - Kyle
 
 #### With Josh Cheek
 
@@ -40,17 +42,30 @@ The waffle truck will be outside. Daisha will announce the password for a free w
 
 ### Portfolio Preparation (9:00 - 12:00)
 
-You'll have some time to prepare your portfolios.
+When you're not in your project assessment:
+
+1. Finish up your portfolio and make sure your PR is current
+2. Read and leave feedback (comments) on at least 2 portfolios from your cohorts
+3. Read and leave feedback (comments) on at least 2 portfolios from other cohorts
+
+You understand what it means to be a Turing student better than most
+anyone else. Please share that perspective and insight with the folks coming up behind you!
 
 ## 1503
 
-### Project Work Time (9:00 - 4:00)
+### Work Time (9:00 - 11:30)
 
-Self-direct those projects to completion.
+We're exited to see what you've been building. Remember to focus on what's achievable and important. Don't let yourself get bogged down -- cut scope, reprioritize, and deliver a thing you're really proud of.
+
+### Cohort Conversation (11:30 - 12:00)
+
+Meet with Jeff in Classroom C. If you're available a few minutes early, come then to help do some physical setup.
 
 ## 1505
 
 ### Module 2 Assessments and Project Work Time (9:00 - 12:00)
+
+When you're not in assessments you're work work working on that project.
 
 #### With Josh Mejia
 
@@ -75,18 +90,18 @@ Self-direct those projects to completion.
 
 ### Algorithmic Complexity (9:00 - 10:30)
 
-Meet with Jeff in Classroom B where we'll work on [algorithmic complexity](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/algorthmic_complexity.markdown).
+Meet with Jeff in Classroom A where we'll work on [algorithmic complexity](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/algorthmic_complexity.markdown).
 
 ### Assessments
 
 #### With Josh Cheek
 
-* 10:45 - 11:30: Ryan Asensio
 * 1:00 - 1:45: Mary Beth Burch
+* 2:00 - 2:45: Ryan Asensio
 
 #### With Jeff
 
-* 10:30 - 11:15: Rebekah Sosa
+* 10:35 - 11:20: Rebekah Sosa
 * 1:00 - 1:45: Nicole Hall
 * 1:45 - 2:30: Regis Boudinot
 * 2:30 - 3:15: Tyler Komoroske
@@ -94,4 +109,4 @@ Meet with Jeff in Classroom B where we'll work on [algorithmic complexity](https
 
 ### Project Work Time (10:30 - 4:00)
 
-For the remainder of the day, you'll have an opportunity to work on your projects.
+For the remainder of the day, you'll have an opportunity to work on your projects towards tomorrow's deadline. Can you apply any of the ideas of algorithmic complexity to your project? Notice hotspots? Improve your performance?
