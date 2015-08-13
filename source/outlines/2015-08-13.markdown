@@ -170,4 +170,4 @@ Meet us at the instructor desks. There's a *hot seat* for the person being revie
 
 ### Programming is Fun: An Introduction to Ruby Processing (1:00 - 4:00)
 
-When you're not doing portfolio reviews, meet with DJ in Classroom A to have fun with Ruby Processing.
+When you're not doing portfolio reviews, meet with DJ in Classroom B to have fun with Ruby Processing.
