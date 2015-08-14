@@ -77,7 +77,17 @@ This morning you'll meet with Jeff, Jorge, Josh M., and Steve. There are no assi
  * Josh Cass - "Why My Project was So Awesome"
  * Jai Misra - "Naming"
  
-### Student Led Sessions
+### Let's Talk About Intermission Week (9:40 - 10:00)
+  
+* 1503 - Classroom A
+* 1505 - Classroom B
+* 1507 - Classroom C
+
+### Group Retro (10:00 - 11:00) 
+
+Stay where you are.
+
+### Student Led Sessions (1:00 - 3:00)
 
 * Russell Emmer/Harms - "Bitcoin and Cryptocurrency" in Classroom A
 * Mark Reeves - "Whiteboarding Challenges" in the Big Workspace
