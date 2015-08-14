@@ -88,4 +88,4 @@ Stay where you are.
 
 * Russell Emmer/Harms - "Bitcoin and Cryptocurrency" in Classroom A
 * Mark Reeves - "Whiteboarding Challenges" in the Big Workspace
-* Horace - "A Taste of Clojure Bridge" in Classroom B
+* Horace - "A Taste of Clojure" in Classroom B
