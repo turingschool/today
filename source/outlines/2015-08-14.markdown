@@ -68,3 +68,17 @@ This morning you'll meet with Jeff, Jorge, Josh M., and Steve. There are no assi
 * Jason Wright
 
 
+### Lightning Talks (9:00 - 9:40)
+
+ * Lev Kravinsky - "Concurrency in Ruby"
+ * Margarett Ly - "Mystery Topic"
+ * Drew Reynolds - "Rails Helpers That Help You When You Need Help" 
+ * Lev Kravinsky - "Elixir is Pretty Cool"
+ * Josh Cass - "Why My Project was So Awesome"
+ * Jai Misra - "Naming"
+ 
+### Student Led Sessions
+
+* Russell Emmer/Harms - "Bitcoin and Cryptocurrency" in Classroom A
+* Mark Reeves - "Whiteboarding Challenges" in the Big Workspace
+* Horace - "A Taste of Clojure Bridge" in Classroom B
