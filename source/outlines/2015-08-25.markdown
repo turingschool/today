@@ -1,0 +1,63 @@
+---
+title: 20150825
+layout: outline
+---
+
+Today, in 1916, the United States National Park Service is created.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Deets go here.
+
+
+## 1503
+
+### Functions in Javascript (9:00 - 11:00
+
+[Link](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/02-functions)
+
+### Organizing JS Code - Functions as Object Properties (11:00 - 12:00)
+
+Join Horace.
+
+
+## 1505
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+
+## 1507
+
+### How the Web Works (9:00 - 11:00)
+
+### What is Rack? (11:00 - 12:00)
+
+[Baby don't hurt me. Baby don't hurt me. No more.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+### HTML/CSS Review (1:00 - 1:30)
+
+### CRUD in Sinatra Workshop (1:30 - 4:00)
+
+
+## 1508
+
+### Echo - Superfizz Recap (9:00 - 9:30)
+
+### Echo - String and Integer Riddles (9:30 - 10:30)
+
+### Foxtrot - String and Integer Recap (9:00 - 9:30)
+
+### Foxtrot - Flow Control (9:30 - 10:30) 
+
+### All - Problems Solutions and Algorithms (10:30 - 12:00)
+
+### All - Scavenger Hunt (1:00 - 4:00)
+
+
+
+ 
+

@@ -1,0 +1,58 @@
+---
+title: 20150827
+layout: outline
+---
+
+Today, in 1953, Alex Lifeson was born.
+
+## All
+
+### Warm up
+
+Deets go here. Such strugs.
+
+
+## 1503
+
+### IdeaBox 2.0 Peer Evaluation (9:00 - 10:00)
+
+### IdeaBox 2.0 Recap and Refactor (10:00 - 12:00)
+
+
+## 1505
+
+### Project Work Time
+
+### Check Ins and Project Work Time
+
+
+## 1507
+
+### SQL (9:00 - 10:00)
+
+### Introduction to Sequel (10:00 - 12:00)
+
+### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+
+## 1508
+
+### Foxtrot - Primer on .each (9:00 - 10:00)
+
+### Foxtrot - .each exercises (10:00 - 12:00)
+
+### Foxtrot - Arrays and Hashes Revisited (1:00 - 2:30)
+
+### Foxtrot - Week 1 Diagnostic (2:30 - 3:30)
+
+### Foxtrot - Week 1 Diagnostic Recap (3:30 - 4:00)
+
+### Echo - TERMulator Recap (9:00 - 9:30)
+
+### Echo - Getting Started with Enumerables (9:30 - 12:00)
+
+### Echo - Week 1 Diagnostic (1:00 - 2:00)
+
+### Echo - Week 1 Diagnostic Recap (2:00 - 2:30)
+
+### Echo - Spiraling Design and Testing (2:30 - 4:00)
