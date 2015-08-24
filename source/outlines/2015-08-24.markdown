@@ -154,17 +154,20 @@ Turing students do to accelerate their learning.
 ### Echo: Tooling Setup & Getting Started with Exercism (2:00 - 4:00)
 
 The Echo group will stay at the front of Classroom A with Mike and Josh. Complete the following:
+install [all the things](https://github.com/JoshCheek/1508/blob/master/initial-setup.md).
 
-* [Get your laptop setup to work](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
-* Install [Atom](http://atom.io)
-* Install the [Slack desktop app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
-* Your full and correct name on your GitHub account
-* A Twitter account if you don't have one.
-* A LinkedIn account if you don't have one.
+Then set up some accounts:
+
+* Install the [Slack desktop app](https://itunes.apple.com/us/app/slack/id803453959?mt=12), which you can use to chat.
+* Your full and correct name on your GitHub account, where you'll put your code.
+* A LinkedIn account if you don't have one. Help us help you get a job!
+* A Twitter account if you don't have one. Not sure why, but it's on the list of shit you need.
 
 Then [fill in this form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfhaakI6nEkJ12lO6vknhnw2RWUJvwD8/viewform) even though it says 1507 :)
 
 Then we'll dive into the world of [Exercism](http://exercism.io).
+
+
 
 ### Foxtrot: Computer Setup and How Your System Works (2:00 - 3:00)
 
