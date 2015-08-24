@@ -39,7 +39,12 @@ Stay in Classroom B to discuss [Array Prototype Methods](https://github.com/mdn/
 
 ### IdeaBox 2.0 Kickoff (3:30 - 4:00)
 
-Yeah let's kick this pig.
+This week you'll be working on a short individual project to practice
+your JS and Jquery skills. Let's discuss [the project](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown) in Classroom C.
+
+### Homework: Collection Exercises in Javascript
+
+Tonight, implement solutions to these 3 [collections exercises](https://github.com/turingschool/challenges/blob/master/collections.markdown) in javascript
 
 ## 1505
 
