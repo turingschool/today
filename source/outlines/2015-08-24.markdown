@@ -11,10 +11,6 @@ Welcome 1508!
 
 NAMETAGS ALL WEEK
 
-### Technical Interview Prep (2:30 - 4:00)
-
-Big Workspace.
-
 
 ## 1503
 
@@ -24,7 +20,7 @@ Let's meet up in the Big Workspace.
 
 ### Module Kickoff (1:00 - 1:30)
 
-Kicking off the module right.
+Kicking off the module right. Classroom C.
 
 ### Array.prototype Methods (1:30 - 3:30)
 
@@ -39,32 +35,49 @@ Yeah let's kick this pig.
 
 ## 1505
 
-### Understanding Multi-Tenancy (9:00 - 11:00)
+### Building Turing (9:00 - 12:00)
 
-Classroom B.
+Meet up in the Big Workspace.
 
-### Seeding Data Efficiently (11:00 - 12:00)
+### The Pivot Kickoff (1:00 - 2:00)
 
-Classroom B.
+Big Workspace
 
-### The Pivot Kickoff (1:00 - 2:30)
+The Teams:
 
-Classroom B.
+* Marla Brizel, Lovisa Svallingson, Dmitry Vizersky - Work on Marla's codebase
+* Rick Bacci, Erik Butcher, Drew Conly - Work on Drew's codebase
+* Jack Yeh, Adam Caron, Dave Maurer - Work on Adam's codebase
+* Sebastian Abondano, Max Millington, Alex Tideman - Work on Sebastian's codebase
+* Michael Dorrance, Rob Cornell, Mitch Ashby - Work on Michael's codebase
+* Samson Brock, David Shim, Jason Wright - Work on Sam's codebase
+* Tyler Graham, Jai Misra, Mike Reeves, Michael Merrill - Work on Jai's codebase
+
+### Project Work Time (2:00 - 4:00)
+
+Meet up with your teammates.
 
 
 ## 1507
 
 ### Intro to Sinatra / Task Manager Q & A (9:00 - 10:00)
 
-TBA
+Classroom B.
 
 ### Building Turing (10:00 - 12:00)
 
-TBA
+Join in the fun!
 
 ### Introduction to Bootstrap (1:00 - 4:00)
 
 These boots were made for walking.
+
+Classroom B. 
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown)
+
+These are the [files](https://github.com/mikedao/intro-to-bootstrap) you will be 
+working with.
 
 
 ## 1508
@@ -83,7 +96,7 @@ Build your space.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-Let's get to know you. Lunch is on us. 
+Let's get to know you. Lunch is on us. In Classroom A.
 
 ### All: Success at Turing (1:00 - 2:00)
 
@@ -91,11 +104,19 @@ Learn how to succeed at Turing.
 
 ### Echo: Tooling Setup (2:00 - 3:00)
 
+Classroom A.
+
 ### Echo: Getting Started with Exercism (3:00 - 4:00)
+
+Classroom A.
 
 ### Foxtrot: Computer Setup and How Your System Works (2:00 - 3:00)
 
+Staff Area Mega Table.
+
 ### Foxtrot: Strings and Integer (3:00 - 4:00)
+
+Staff Area Mega Table.
 
 ### Echo Homework
 
@@ -104,3 +125,33 @@ SuperFizz
 ### Foxtrot Homework
 
 Working with Strings and Integers
+
+### Foxtrot
+
+* Robert Lane
+* Aaron Careaga
+* Emily Dowdle
+* Graham Ray
+* Penney Garrett
+* Jhun de Andres
+* Nicole Hall
+* Tyler Komoroske
+* Chad Minnerath
+* Jill Donohue
+
+### Echo
+
+* Ryan Johnson
+* Patrick Wey
+* Shannon Paige
+* Ross Edfort
+* Matt Stjernholm
+* Torie Joy-Warren
+* Matthew Rooney
+* Sekhar Paladugu
+* John Senft
+* Charissa Lawrence
+* Edgar Duran
+* John Slota
+* Jason Pilz
+* Marlo Major
