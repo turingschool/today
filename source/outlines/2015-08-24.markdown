@@ -19,8 +19,8 @@ Let's meet up in the Big Workspace.
 
 ### Module Kickoff (1:00 - 1:30)
 
-Join Horace in Classroom C to talk through the structure
-and expectations of Module 4.
+Join Horace in Classroom C to talk through the [structure
+and expectations of Module 4](https://gist.github.com/worace/89fb2afc748efd87d49d).
 
 ### Array.prototype Methods (1:30 - 3:30)
 
