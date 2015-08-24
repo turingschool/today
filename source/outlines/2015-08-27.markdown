@@ -16,8 +16,14 @@ Deets go here. Such strugs.
 
 ### IdeaBox 2.0 Peer Evaluation (9:00 - 10:00)
 
+Pairs Forthcoming. Find your pair and take turns critiquing
+one another's IdeaBox projects.
+
+Spend 30 minutes on one person's project and then swap.
+
 ### IdeaBox 2.0 Recap and Refactor (10:00 - 12:00)
 
+Join Horace in Classroom C to reexamine some of the issues from IdeaBox 2.0.
 
 ## 1505
 

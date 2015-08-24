@@ -11,11 +11,6 @@ Welcome 1508!
 
 NAMETAGS ALL WEEK
 
-### Technical Interview Prep (2:30 - 4:00)
-
-Big Workspace.
-
-
 ## 1503
 
 ### Building Turing (9:00 - 12:00)
@@ -24,18 +19,16 @@ Let's meet up in the Big Workspace.
 
 ### Module Kickoff (1:00 - 1:30)
 
-Kicking off the module right.
+Join Horace in Classroom C to talk through the structure
+and expectations of Module 4.
 
 ### Array.prototype Methods (1:30 - 3:30)
 
-Join Horace.
-
-[Click Me](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods)
+Stay in Classroom B to discuss [Array Prototype Methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods) aka Javascript Enumerables.
 
 ### IdeaBox 2.0 Kickoff (3:30 - 4:00)
 
 Yeah let's kick this pig.
-
 
 ## 1505
 

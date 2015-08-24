@@ -13,8 +13,16 @@ Deets go here.
 
 ## 1503
 
-## A CODE CHALLENGE APPEARS! (9:00 - 9:30)
+## Exercise -- FizzBuzz in JS (9:00 - 9:30)
 
+Start the day off right by joining Horace in classroom C to write
+some fizzbuzz.
+
+## Full-Stack Integration Testing with Selenium (9:30 - 12:00)
+
+Join Horace in Classroom C to practice working with Selenium,
+a browser driver for Capybara which let's us write integration
+tests which actually exercise our JS code as well!
 
 ## 1505
 
