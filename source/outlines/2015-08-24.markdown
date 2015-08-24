@@ -35,7 +35,7 @@ and expectations of Module 4](https://gist.github.com/worace/89fb2afc748efd87d49
 
 ### Array.prototype Methods (1:30 - 3:30)
 
-Stay in Classroom B to discuss [Array Prototype Methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods) aka Javascript Enumerables.
+Stay in Classroom C to discuss [Array Prototype Methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods) aka Javascript Enumerables.
 
 ### IdeaBox 2.0 Kickoff (3:30 - 4:00)
 
@@ -92,13 +92,12 @@ You'll then be in charge of tuning up Classroom C with Josh.
 
 These boots were made for walking.
 
-Classroom B.
+Big Workspace.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown)
 
 These are the [files](https://github.com/mikedao/intro-to-bootstrap) you will be
 working with.
-
 
 ## 1508
 
