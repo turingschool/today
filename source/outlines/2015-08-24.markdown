@@ -20,6 +20,7 @@ This morning we're going to work on our space in the following groups:
 * Drew Reynolds, Samson Brock & Tyler Graham & Jason Wright, Matt Rooney & Jill Donohue & Amber Crawford & Nicole Hall + DJ
 * Josh Cass & Lev Kravinsky & Whitney Hiemstra & Margarett Ly, Rob Cornell, Pat Wey & Chad Minnerath & Jhun de Andres + Tim
 
+
 ## 1503
 
 ### Building Turing (9:00 - 12:00)
@@ -81,22 +82,31 @@ Start off your day with Josh M in Classroom C.
 
 ### Building Turing (10:00 - 12:00)
 
-You'll then be in charge of tuning up Classroom C.
+You'll then be in charge of tuning up Classroom C with Josh.
 
 ### Introduction to Bootstrap (1:00 - 4:00)
 
 These boots were made for walking.
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown)
+
+These are the [files](https://github.com/mikedao/intro-to-bootstrap) you will be
+working with.
 
 
 ## 1508
 
 ### Staff Introductions (8:30 - 9:00)
 
-Classroom A. Make sure you get a nametag and wear it all week.
+Meet in Classroom A for a few minutes to meet most of the staff.
+
+Make sure you get a name tag and wear it all week.
 
 ### Building Turing (9:00 - 12:00)
 
-Head over to the Big Workspace where you'll divide up into teams and get to work.
+Head over to the Big Workspace where you'll divide up into your work teams.
 
 ### Tour and Getting Started (11:30 - 12:00)
 
@@ -105,7 +115,7 @@ spend the last half hour of the morning taking a tour of the building and immedi
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-Let's get to know you. Lunch is on us.
+Let's get to know you. Lunch is on us. In Classroom A.
 
 ### All: Success at Turing (1:00 - 2:00)
 
@@ -113,11 +123,19 @@ Learn how to succeed at Turing.
 
 ### Echo: Tooling Setup (2:00 - 3:00)
 
+Classroom A.
+
 ### Echo: Getting Started with Exercism (3:00 - 4:00)
+
+Classroom A.
 
 ### Foxtrot: Computer Setup and How Your System Works (2:00 - 3:00)
 
+Staff Area Mega Table.
+
 ### Foxtrot: Strings and Integer (3:00 - 4:00)
+
+Staff Area Mega Table.
 
 ### Echo Homework
 
@@ -126,3 +144,33 @@ SuperFizz
 ### Foxtrot Homework
 
 Working with Strings and Integers
+
+### Foxtrot
+
+* Robert Lane
+* Aaron Careaga
+* Emily Dowdle
+* Graham Ray
+* Penney Garrett
+* Jhun de Andres
+* Nicole Hall
+* Tyler Komoroske
+* Chad Minnerath
+* Jill Donohue
+
+### Echo
+
+* Ryan Johnson
+* Patrick Wey
+* Shannon Paige
+* Ross Edfort
+* Matt Stjernholm
+* Torie Joy-Warren
+* Matthew Rooney
+* Sekhar Paladugu
+* John Senft
+* Charissa Lawrence
+* Edgar Duran
+* John Slota
+* Jason Pilz
+* Marlo Major
