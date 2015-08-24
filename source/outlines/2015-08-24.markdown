@@ -9,13 +9,24 @@ Today, in 1824, British troops invade Washington DC, and set fire to the White H
 
 Welcome 1508!
 
-NAMETAGS ALL WEEK
+This morning we're going to work on our space in the following groups:
+
+* Brett Grigsby, Drew Conly & Mitch Ashby & Max Millington, Aaron Careaga & Robbie Lane & Emily Dowdle + Jeff & Tess
+* Max Tedford, Erik Butcher & Dave Maurer & David Shim, Shannon Paige & Tyler Komoroske & Ryan Johnson + Horace
+* Sally MacNicholas, Rick Bacci & Jack Yeh & Mike Reeves, Torie Warren & Edgar Duran & Penney Garrett + Mike Dao & Marissa
+* Vanessa Gomez, Michael Merrill & Sebastian Abondano & Lovisa Svallingson, Charissa Law & John Sneft & Jason Pilz + Daisha
+* Morgan Miller, Dmitry Vizersky & Alex Tideman & Michael Dorrance, Marlo Major & Graham Ray & Sekhar Paladugu + Jorge
+* Justin Holmes, Jai Misra & Adam Caron & Marla Brizel, Matt Stjernholm & Ross Edfort & John Slota + Andrew
+* Drew Reynolds, Samson Brock & Tyler Graham & Jason Wright, Matt Rooney & Jill Donohue & Amber Crawford & Nicole Hall + DJ
+* Josh Cass & Lev Kravinsky & Whitney Hiemstra & Margarett Ly, Rob Cornell, Pat Wey & Chad Minnerath & Jhun de Andres + Tim
 
 ## 1503
 
 ### Building Turing (9:00 - 12:00)
 
 Let's meet up in the Big Workspace.
+
+Your assignment is to be team leaders for the new 1508 folks as we all work on the space.
 
 ### Module Kickoff (1:00 - 1:30)
 
@@ -35,6 +46,8 @@ Yeah let's kick this pig.
 ### Building Turing (9:00 - 12:00)
 
 Meet in the workspace to put some sweat equity into Turing. That includes you, Dmitry.
+
+You'll be joining a team with people from 1503 and 1508.
 
 ### The Pivot Kickoff (1:00 - 2:00)
 
@@ -64,11 +77,11 @@ Work with your teams in preparing your wireframes and your user stories. Your wi
 
 ### Intro to Sinatra / Task Manager Q & A (9:00 - 10:00)
 
-TBA
+Start off your day with Josh M in Classroom C.
 
 ### Building Turing (10:00 - 12:00)
 
-TBA
+You'll then be in charge of tuning up Classroom C.
 
 ### Introduction to Bootstrap (1:00 - 4:00)
 
@@ -81,13 +94,14 @@ These boots were made for walking.
 
 Classroom A. Make sure you get a nametag and wear it all week.
 
-### Tour and Getting Started (9:00 - 9:30)
+### Building Turing (9:00 - 12:00)
 
-Get to know the space.
+Head over to the Big Workspace where you'll divide up into teams and get to work.
 
-### Building Turing (9:30 - 12:00)
+### Tour and Getting Started (11:30 - 12:00)
 
-Build your space.
+Presuming we get through our space construction projects, we'll
+spend the last half hour of the morning taking a tour of the building and immediate neighborhood.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
