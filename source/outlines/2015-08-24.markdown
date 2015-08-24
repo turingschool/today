@@ -53,13 +53,13 @@ You can find the complete project description [here](https://github.com/turingsc
 
 The teams are the following:
 
-* Marla Brizel, Lovisa Svallingson, Mike Reeves - Work on Marla's codebase
+* Marla Brizel, Lovisa Svallingson, Dmitry Vizersky - Work on Marla's codebase
 * Rick Bacci, Erik Butcher, Drew Conly - Work on Drew's codebase
 * Jack Yeh, Adam Caron, Dave Maurer - Work on Adam's codebase
 * Sebastian Abondano, Max Millington, Alex Tideman - Work on Sebastian's codebase
 * Michael Dorrance, Rob Cornell, Mitch Ashby - Work on Michael's codebase
 * Samson Brock, David Shim, Jason Wright - Work on Sam's codebase
-* Tyler Graham, Jai Misra, Michael Merrill - Work on Jai's codebase
+* Tyler Graham, Jai Misra, Mike Reeves, Michael Merrill - Work on Jai's codebase
 
 Meet with Jorge in Classroom B.
 
