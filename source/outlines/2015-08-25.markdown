@@ -25,9 +25,29 @@ Join Horace.
 
 ## 1505
 
-### Multi-Tenancy Authorization (9:00 - 12:00)
+### Understanding Multi-Tenancy (9:00 - 11:00)
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+In this lesson, you will learn how to modify a Rails app to accept multiple stores, or tenants.
+
+Before the class, please clone the lesson repo using the following command:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git understanding_multitenancy
+```
+
+Make sure you bundle the gems, and prepare the database with `rake db:setup`.
+
+The materials for this lesson are the following:
+
+* [Notes](#)
+* [Lesson Plan](#)
+* The video will be posted after the session
+
+Meet Jorge in Classroom B.
+
+### Seeding Data Efficiently (11:00 - 12:00)
+
+Classroom B.
 
 
 ## 1507
@@ -51,13 +71,8 @@ Join Horace.
 
 ### Foxtrot - String and Integer Recap (9:00 - 9:30)
 
-### Foxtrot - Flow Control (9:30 - 10:30) 
+### Foxtrot - Flow Control (9:30 - 10:30)
 
 ### All - Problems Solutions and Algorithms (10:30 - 12:00)
 
 ### All - Scavenger Hunt (1:00 - 4:00)
-
-
-
- 
-

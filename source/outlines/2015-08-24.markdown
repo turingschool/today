@@ -39,18 +39,33 @@ Yeah let's kick this pig.
 
 ## 1505
 
-### Understanding Multi-Tenancy (9:00 - 11:00)
+### Building Turing (9:00 - 12:00)
 
-Classroom B.
+Meet in the workspace to put some sweat equity into Turing. That includes you, Dmitry.
 
-### Seeding Data Efficiently (11:00 - 12:00)
+### The Pivot Kickoff (1:00 - 2:00)
 
-Classroom B.
+Your Dinner Dash application was almost great, but it turns out that we need to pivot the business model.
 
-### The Pivot Kickoff (1:00 - 2:30)
+In this project, you'll build upon an existing implementation of Dinner Dash. You will transform your restaurant ordering site into a platform that handles multiple, simultaneous businesses. Each business will have their own name, unique URL pattern, items, orders, and administrators.
 
-Classroom B.
+You can find the complete project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown#technical-expectations).
 
+The teams are the following:
+
+* Marla Brizel, Lovisa Svallingson, Mike Reeves - Work on Marla's codebase
+* Rick Bacci, Erik Butcher, Drew Conly - Work on Drew's codebase
+* Jack Yeh, Adam Caron, Dave Maurer - Work on Adam's codebase
+* Sebastian Abondano, Max Millington, Alex Tideman - Work on Sebastian's codebase
+* Michael Dorrance, Rob Cornell, Mitch Ashby - Work on Michael's codebase
+* Samson Brock, David Shim, Jason Wright - Work on Sam's codebase
+* Tyler Graham, Jai Misra, Michael Merrill - Work on Jai's codebase
+
+Meet with Jorge in Classroom B.
+
+### Project Worktime (2:00 - 4:00)
+
+Work with your teams in preparing your wireframes and your user stories. Your will review those with your client during the first checkin in Thursday.
 
 ## 1507
 
@@ -83,7 +98,7 @@ Build your space.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
-Let's get to know you. Lunch is on us. 
+Let's get to know you. Lunch is on us.
 
 ### All: Success at Turing (1:00 - 2:00)
 
