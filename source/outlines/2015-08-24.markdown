@@ -20,30 +20,32 @@ Let's meet up in the Big Workspace.
 
 ### Module Kickoff (1:00 - 1:30)
 
-Kicking off the module right. Classroom C.
+Join Horace in Classroom C to talk through the [structure
+and expectations of Module 4](https://gist.github.com/worace/89fb2afc748efd87d49d).
 
 ### Array.prototype Methods (1:30 - 3:30)
 
-Join Horace.
-
-[Click Me](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods)
+Stay in Classroom B to discuss [Array Prototype Methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods) aka Javascript Enumerables.
 
 ### IdeaBox 2.0 Kickoff (3:30 - 4:00)
 
 Yeah let's kick this pig.
 
-
 ## 1505
 
 ### Building Turing (9:00 - 12:00)
 
-Meet up in the Big Workspace.
+Meet in the workspace to put some sweat equity into Turing. That includes you, Dmitry.
 
 ### The Pivot Kickoff (1:00 - 2:00)
 
-Big Workspace
+Your Dinner Dash application was almost great, but it turns out that we need to pivot the business model.
 
-The Teams:
+In this project, you'll build upon an existing implementation of Dinner Dash. You will transform your restaurant ordering site into a platform that handles multiple, simultaneous businesses. Each business will have their own name, unique URL pattern, items, orders, and administrators.
+
+You can find the complete project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown#technical-expectations).
+
+The teams are the following:
 
 * Marla Brizel, Lovisa Svallingson, Dmitry Vizersky - Work on Marla's codebase
 * Rick Bacci, Erik Butcher, Drew Conly - Work on Drew's codebase
@@ -53,10 +55,11 @@ The Teams:
 * Samson Brock, David Shim, Jason Wright - Work on Sam's codebase
 * Tyler Graham, Jai Misra, Mike Reeves, Michael Merrill - Work on Jai's codebase
 
-### Project Work Time (2:00 - 4:00)
+Meet with Jorge in Classroom B.
 
-Meet up with your teammates.
+### Project Worktime (2:00 - 4:00)
 
+Work with your teams in preparing your wireframes and your user stories. Your will review those with your client during the first checkin in Thursday.
 
 ## 1507
 
