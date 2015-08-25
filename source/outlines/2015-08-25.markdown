@@ -104,6 +104,8 @@ Meet Josh M in the Big Workspace.
 
 [Baby don't hurt me. Baby don't hurt me. No more.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
+Clone [RackLobster](https://github.com/turingschool-examples/rack-lobster)
+
 ### HTML/CSS Review (1:00 - 1:30)
 
 Classroom B. 
