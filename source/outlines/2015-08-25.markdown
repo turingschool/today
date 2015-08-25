@@ -13,13 +13,13 @@ Deets go here.
 
 ## 1503
 
-### Functions in Javascript (9:00 - 11:00
+### Homework Recap (9:00 - 9:30)
+
+Kick the morning off right with some homework recap with Horace in Classroom C.
+
+### Functions in Javascript and Organizing JS Code (9:30 - 12:00)
 
 Join Horace in Classroom C to talk about [functions in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/six_rules_for_js_functions.markdown).
-
-### Organizing JS Code - Functions as Object Properties (11:00 - 12:00)
-
-Remain in Classroom C to discuss some simple techniques for organizing JS code.
 
 ## 1505
 
