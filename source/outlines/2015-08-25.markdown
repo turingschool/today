@@ -102,17 +102,15 @@ Launch pry and see what methods exist on a string:
 
 (if yours doesn't work: `$ gem install pry` and try again)
 
-```
-[1] pry(main)> string = "hello"
-=> "hello"
+    [1] pry(main)> string = "hello"
+    => "hello"
 
-[2] pry(main)> ls string
-Comparable#methods: <  <=  >  >=  between?
-String#methods:
-  %            chr             gsub       rindex       succ!
-  *            clear           gsub!      rjust        sum
-# ...
-```
+    [2] pry(main)> ls string
+    Comparable#methods: <  <=  >  >=  between?
+    String#methods:
+      %            chr             gsub       rindex       succ!
+      *            clear           gsub!      rjust        sum
+    # ...
 
 As you work your way through this, think about what names you might choose
 to for the methods that do these jobs. Then see if those names are in the list.
