@@ -63,9 +63,62 @@ Classroom B.
 
 ## 1508
 
-### Echo - Superfizz Recap (9:00 - 9:30)
+### Echo - Finish Installation (8:30 - 9:00)
+
+[This form](https://docs.google.com/forms/d/1KSt9ZFppCPeCfhaakI6nEkJ12lO6vknhnw2RWUJvwD8/viewform)
+should be completed.
+
+You should all be invited to the 1508-echo channel on Slack... if not, tell me.
+
+Pull changes since yesterday:
+
+```
+$ cd ~/code/dotfiles
+$ git pull
+
+$ cd ../1508-echo
+$ git pull
+```
+
+[Continue from yesterday](https://github.com/JoshCheek/1508/blob/ecb2775f16d239b4d43d7423161d8e7295751a59/initial-setup.md):
+
+* Set up Atom
+* Set up Seeing Is Believing
+* Github public keys
+* Exercism
+
+BONUS: Theme your terminal (if we have time)
+
+
+### Echo - Spuerfizz Recap (9:00 - 9:30)
+
+[https://github.com/turingschool/challenges/blob/master/super_fizz.markdown](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
 
 ### Echo - String and Integer Riddles (9:30 - 10:30)
+
+NOTE: If you don't know what strings / integers are, let me know.
+
+Launch pry and see what methods exist on a string:
+
+(if yours doesn't work: `$ gem install pry` and try again)
+
+```
+[1] pry(main)> string = "hello"
+=> "hello"
+
+[2] pry(main)> ls string
+Comparable#methods: <  <=  >  >=  between?
+String#methods:
+  %            chr             gsub       rindex       succ!
+  *            clear           gsub!      rjust        sum
+# ...
+```
+
+As you work your way through this, think about what names you might choose
+to for the methods that do these jobs. Then see if those names are in the list.
+If they are, try them out and see if they give you what you expect.
+
+[https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown)
 
 ### Foxtrot - String and Integer Recap (9:00 - 9:30)
 
@@ -74,3 +127,17 @@ Classroom B.
 ### All - Problems Solutions and Algorithms (10:30 - 12:00)
 
 ### All - Scavenger Hunt (1:00 - 4:00)
+
+### Echo homework
+
+* Find a way to improve the environment before you leave today.
+  Take a level of ownership as if this was your home, and empower yourself to make something better.
+  Maybe you see someone struggling with something and you can offer help (opening a door,
+  figuring out a challenge, installing their environment).
+  Maybe you see something that is causing an issue for students generally (a full trash can,
+  a furniture layout that is causing logistical issues, a cord that people are tripping over,
+  an empty pot of coffee, an issue with the scavenger hunt implementation).
+  Whatever it is, empower yourself to improve it, and do so.
+  Make the environment better for others, and express appreciation as they make it better for you.
+  Invest in your community.
+* [Strings and Integers quiz](https://github.com/turingschool/challenges/blob/master/strings_and_integers_quiz.markdown)
