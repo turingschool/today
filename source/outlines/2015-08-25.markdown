@@ -23,6 +23,11 @@ Kick the morning off right with some homework recap with Horace in Classroom C.
 
 Join Horace in Classroom C to talk about [functions in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/six_rules_for_js_functions.markdown).
 
+### Work Time (1:00 - 4:00)
+
+Work on your thing that you should be working on.
+
+
 ## 1505
 
 ### Understanding Multi-Tenancy (9:00 - 11:00)
@@ -49,6 +54,28 @@ Meet Jorge in Classroom B.
 
 Classroom B.
 
+### Check-Ins and Project Work Time (1:00 - 4:00)
+
+Product Check-Ins with Jorge
+
+* 1:00 - Marla, Lovisa, Dmitry
+* 1:20 - Rick, Erik, Drew
+* 1:40 - Jack, Adam, Dave
+* 2:00 - Sebastian, Max, Alex
+* 2:20 - Michael, Rob, Mitch
+* 2:40 - Samson, David, Jason
+* 3:00 - Tyler, Jai, Mike, Michael
+
+Technical Check-Ins with Andrew
+
+* 1:20 - Marla, Lovisa, Dmitry
+* 1:40 - Rick, Erik, Drew
+* 2:00 - Jack, Adam, Dave
+* 2:20 - Sebastian, Max, Alex
+* 2:40 - Michael, Rob, Mitch
+* 3:00 - Samson, David, Jason
+* 3:20 - Tyler, Jai, Mike, Michael
+
 
 ## 1507
 
@@ -62,8 +89,13 @@ Meet Josh M in the Big Workspace.
 
 ### HTML/CSS Review (1:00 - 1:30)
 
+Classroom B. 
+
 ### CRUD in Sinatra Workshop (1:30 - 4:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+[Repo](https://github.com/turingschool-examples/task-manager/tree/crud-lesson)
 
 ## 1508
 
