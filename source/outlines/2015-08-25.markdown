@@ -15,7 +15,7 @@ Deets go here.
 
 ### Functions in Javascript (9:00 - 11:00
 
-Join Horace in Classroom C to talk about [functions in Javascript](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/02-functions).
+Join Horace in Classroom C to talk about [functions in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/six_rules_for_js_functions.markdown).
 
 ### Organizing JS Code - Functions as Object Properties (11:00 - 12:00)
 
