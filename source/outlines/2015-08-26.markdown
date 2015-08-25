@@ -9,14 +9,37 @@ Today, in 1952, Will Shortz was born.
 
 ### Warm Up (8:30 - 9:00)
 
-Deets go here.
+Scientists have developed an allergy test that produces a single numeric score that summarizes information about all the allergies a person has.
+
+The test checks for the following allergies and assigns them the corresponding value:
+
+eggs (1)
+peanuts (2)
+shellfish (4)
+strawberries (8)
+tomatoes (16)
+chocolate (32)
+pollen (64)
+cats (128)
+If Jorge is allergic to peanuts and chocolate, he gets a score of 34.
+
+You're job is to write a program that takes the number and translates it back the allergens that the patient is allergic to.
+
+In this case, 34 would translate back into a report saying that Jorge was allergic to peanuts and chocolate.
+
+Because you all love TDD, here are some cases that you can test against:
+
+A score of two would mean that the patient is allergic to just peanuts.
+
+A score of 3 would mean that the patient is allergic to eggs and peanuts.
+
 
 ## 1503
 
 ## Exercise -- FizzBuzz in JS (9:00 - 9:30)
 
 Start the day off right by joining Horace in classroom C to write
-some fizzbuzz.
+some fizzbuzz. Classroom C.
 
 ## Full-Stack Integration Testing with Selenium (9:30 - 12:00)
 
@@ -24,37 +47,84 @@ Join Horace in Classroom C to practice working with Selenium,
 a browser driver for Capybara which let's us write integration
 tests which actually exercise our JS code as well!
 
+## Project Work Time and Check-Ins (1:00 - 4:00)
+
+### With Horace
+
+* 1:00 - Brett Grigsby
+* 1:30 - Max Tedford
+* 2:00 - Drew Reynolds
+* 2:30 - Vanessa Gomez
+* 3:00 - Margarett Ly
+* 3:30 - Lev Kravinsky
+
+### With Brittany
+
+* 1:00 - Morgan Miller
+* 1:30 - Justin Holmes
+* 2:00 - Sally MacNicholas
+* 2:30 - Josh Cass
+* 3:00 - Whitney Hiemstra
+
 ## 1505
 
-### Project Work Time (All Day)
+### Multi-Tenancy Authorization
+
+Big Workspace with Jorge.
 
 
 ## 1507
 
 ### CRUD Homework Review (9:00 - 9:30)
 
+Classroom B with Josh.
+
 ### Model Testing in Sinatra (9:30 - 12:00)
+
+Still in Classroom B with Josh.
 
 ### Nokogiri (1:00 - 1:30)
 
+You will find yourself again with Josh in Classroom B.
+
 ### Acceptance Testing with Capybara (1:30 - 4:00)
+
+Classroom B for DAYS.
 
 
 ## 1508
 
 ### All - Introducing Arrays (9:00 - 10:30)
 
+Classroom A with Jeff.
+
 ### All - Introducing Hashes (10:30 - 12:00)
+
+Classroom A. With Jeff again.
 
 ### Echo - How Testing Works (1:00 - 2:30)
 
+Join Josh Cheek at the front of Classoom A.
+
 ### Echo - Sorting Suite Kickoff (2:30 - 3:00)
+
+Stay at the front of Classroom A.
 
 ### Echo - Intro to TDD Tutorial (3:00 - 4:00)
 
+Big Surprise, you are in the front of Classroom A.
+
 ### Foxtrot - SuperFizz Recap (1:00 - 1:30)
+
+Join Jeff at the Mega Table.
 
 ### Mastermind Kickoff (1:30 - 2:00)
 
+Kick off your first thing with Jeff, still at the Mega Table.
+
 ### Array and Hash Exercises (2:00 - 4:00)
 
+Jeff will tag in Mike at the Mega Table as you learn how to do cool 
+and interesting things with Arrays and Hashes. 
+
+[Exercises Repository](git@github.com:turingschool/ruby-exercises.git)
