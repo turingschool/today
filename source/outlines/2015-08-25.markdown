@@ -39,16 +39,31 @@ Make sure you bundle the gems, and prepare the database with `rake db:setup`.
 
 The materials for this lesson are the following:
 
-* [Notes](#)
-* [Lesson Plan](#)
+* [Notes](https://www.dropbox.com/s/kpm2ddj6k08hzrk/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.markdown)
 * The video will be posted after the session
 
 Meet Jorge in Classroom B.
 
 ### Seeding Data Efficiently (11:00 - 12:00)
 
-Classroom B.
+Learn how to seed data programmatically instead of copying and pasting lines of code.
 
+Before the class, please clone the lesson repo using the following command:
+
+```
+git clone -b seeding_data https://github.com/turingschool-examples/storedom.git seeding_data
+```
+
+Make sure you bundle the gems, and prepare the database with `rake db:setup`.
+
+The materials for this lesson are the following:
+
+* [Notes](https://www.dropbox.com/s/6ymjnizj2no2wm3/Turing%20-%20Seeding%20Data%20Efficiently%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.markdown)
+* The video will be posted after the session
+
+Meet Jorge in Classroom B.
 
 ## 1507
 
