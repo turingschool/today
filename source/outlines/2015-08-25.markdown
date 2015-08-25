@@ -13,6 +13,7 @@ Isaac and Albert were excitedly describing the result of the Third Annual Intern
 
 In fact, neither Isaac nor Albert had given a correct report of the results of the science fair. Each of them had given one correct statement and one false statement. What was the actual placing of the three contestants?
 
+
 ## 1503
 
 ### Homework Recap (9:00 - 9:30)
@@ -44,15 +45,33 @@ Make sure you bundle the gems, and prepare the database with `rake db:setup`.
 
 The materials for this lesson are the following:
 
-* [Notes](#)
-* [Lesson Plan](#)
+* [Notes](https://www.dropbox.com/s/kpm2ddj6k08hzrk/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.markdown)
 * The video will be posted after the session
 
 Meet Jorge in Classroom B.
 
 ### Seeding Data Efficiently (11:00 - 12:00)
 
-Classroom B.
+Learn how to seed data programmatically instead of copying and pasting lines of code.
+
+Before the class, please clone the lesson repo using the following command:
+
+```
+git clone -b seeding_data https://github.com/turingschool-examples/storedom.git seeding_data
+```
+
+Make sure you bundle the gems, and prepare the database with `rake db:setup`.
+
+The materials for this lesson are the following:
+
+* [Notes](https://www.dropbox.com/s/6ymjnizj2no2wm3/Turing%20-%20Seeding%20Data%20Efficiently%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.markdown)
+* The video will be posted after the session
+
+Meet Jorge in Classroom B.
+
+### Check-ins & Project Work Time (1:00 - 4:00)
 
 ### Check-Ins and Project Work Time (1:00 - 4:00)
 
@@ -96,6 +115,7 @@ Classroom B.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
 
 [Repo](https://github.com/turingschool-examples/task-manager/tree/crud-lesson)
+
 
 ## 1508
 
