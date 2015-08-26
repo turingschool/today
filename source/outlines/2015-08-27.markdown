@@ -7,61 +7,140 @@ Today, in 1953, Alex Lifeson was born.
 
 ## All
 
-### Warm up
+### Warm Up (8:30 - 9:00)
 
-Deets go here. Such strugs.
+Let's revisit our allergy algorithm from yesterday.
+
+Can you write tests and implementations for the following?
+
+If they have all of the allergies, they should have a score of 255.
+If they are allergic to strawberries, tomatoes, chocolate, pollen, and cats, they their score should be 248.
+Important: The idea is that you pass in the number (e.g. 248) and the algorithm can return an array with all the things the patient is allergic to.
 
 
 ## 1503
 
-### IdeaBox 2.0 Peer Evaluation (9:00 - 10:00)
+### Front-End Debugging (9:00 - 12:00)
 
-Pairs Forthcoming. Find your pair and take turns critiquing
+Join my second favoritest person to walk the earth, Brittany, as she teaches you how to debug all of the things.
+
+Seriously, ALL of the things. ALL of them. Every single last one.
+
+Classroom C.
+
+### IdeaBox 2.0 Peer Evaluation (1:00 - 2:00)
+
+Classroom C time!
+
+* Whitney Hiemstra & Max Tedford
+* Brett Grigsby & Josh Cass
+* Vanessa Gomez & Sally MacNicholas
+* Margarett Ly & Drew Reynolds
+* Morgan Miller & Lev Kravinsky & Justin Holmes
+
+Find your pair and take turns critiquing
 one another's IdeaBox projects.
 
 Spend 30 minutes on one person's project and then swap.
 
-### IdeaBox 2.0 Recap and Refactor (10:00 - 12:00)
+### IdeaBox 2.0 Recap and Refactor (2:00 - 4:00)
 
 Join Horace in Classroom C to reexamine some of the issues from IdeaBox 2.0.
 
+
 ## 1505
 
-### Project Work Time
+### Project Work Time (9:00 - 12:00)
+
+[Everybody's working for the weekend](https://www.youtube.com/watch?v=zL8G5pBZ5CI)
 
 ### Check Ins and Project Work Time
+
+Check In Schedule! It is here!
+
+Product Check-Ins with Jorge
+
+* 1:00 - Marla, Lovisa, Dmitry
+* 1:20 - Rick, Erik, Drew
+* 1:40 - Jack, Adam, Dave
+* 2:00 - Sebastian, Max, Alex
+* 2:20 - Michael, Rob, Mitch
+* 2:40 - Samson, David, Jason
+* 3:00 - Tyler, Jai, Mike, Michael
+
+Technical Check-Ins with Andrew
+
+* 1:30 - Marla, Lovisa, Dmitry
+* 1:50 - Rick, Erik, Drew
+* 2:10 - Jack, Adam, Dave
+* 2:30 - Sebastian, Max, Alex
+* 2:50 - Michael, Rob, Mitch
+* 3:10 - Samson, David, Jason
+* 3:30 - Tyler, Jai, Mike, Michael
 
 
 ## 1507
 
 ### SQL (9:00 - 10:00)
 
+Do you want to learn more about SQL? Of course you do. Classroom B with Jeff.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+
 ### Introduction to Sequel (10:00 - 12:00)
+ 
+Learn a little bit about Sequel. Classroom B with Josh.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+You're now going to take your Task Manager and Transform it into something wonderful. Again in your new home.
 
 
 ## 1508
 
 ### Foxtrot - Primer on .each (9:00 - 10:00)
 
+Join Mike at the Mega Table to learn about .each.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
+
 ### Foxtrot - .each exercises (10:00 - 12:00)
+
+From here, you're going to work on some exercises on .each.
 
 ### Foxtrot - Arrays and Hashes Revisited (1:00 - 2:30)
 
+Join Jeff at the Mega Table to look back at Arrays and Hashes. 
+
 ### Foxtrot - Week 1 Diagnostic (2:30 - 3:30)
+
+Stay there where Mike will give you your first diagnostic. Closed computers, open minds.
 
 ### Foxtrot - Week 1 Diagnostic Recap (3:30 - 4:00)
 
+Now let's review.
+
 ### Echo - TERMulator Recap (9:00 - 9:30)
+
+Join Josh in Classroom A.
 
 ### Echo - Getting Started with Enumerables (9:30 - 12:00)
 
+Stay in Classroom A. 
+
 ### Echo - Week 1 Diagnostic (1:00 - 2:00)
+
+Classroom A.
 
 ### Echo - Week 1 Diagnostic Recap (2:00 - 2:30)
 
+Classroom A.
+
 ### Echo - Spiraling Design and Testing (2:30 - 4:00)
+
+Classroom A.
 
 ### Echo - Homework
 
