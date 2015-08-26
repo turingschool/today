@@ -48,6 +48,16 @@ Join Horace in Classroom C to practice working with Selenium,
 a browser driver for Capybara which let's us write integration
 tests which actually exercise our JS code as well!
 
+[Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/full_stack_integration_testing_with_selenium.markdown)
+
+For one section of this lesson, we'll do some work in pairs:
+
+* Margarett Ly & Drew Reynolds
+* Max Tedford & Vanessa Gomez
+* Whitney Hiemstra & Sally MacNicholas
+* Morgan Miller & Justin Holmes
+* Brett Grigsby & Josh Cass
+
 ## Project Work Time and Check-Ins (1:00 - 4:00)
 
 ### With Horace
