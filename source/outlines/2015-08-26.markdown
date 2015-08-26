@@ -185,11 +185,11 @@ and give them a warm smile.
 
 Join Jeff at the Mega Table.
 
-### Mastermind Kickoff (1:30 - 2:00)
+### Foxtrot - Mastermind Kickoff (1:30 - 2:00)
 
 It's time to start your first project, [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown). Meet Jeff at the Mega Table to discuss and plan.
 
-### Array and Hash Exercises (2:00 - 4:00)
+### Foxtrot - Array and Hash Exercises (2:00 - 4:00)
 
 Remember when we said we want you to have *two* things to do at all times? Join Mike at the Mega Table to start into a second. You'll learn how to do cool
 and interesting things with Arrays and Hashes.
