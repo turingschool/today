@@ -68,10 +68,29 @@ tests which actually exercise our JS code as well!
 
 ## 1505
 
-### Multi-Tenancy Authorization
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+Learn about how to manage different user permissions using a service object.
+
+Before the class, please clone the lesson repo using the following command:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+The materials for this lesson are the following:
+
+* [Notes](https://www.dropbox.com/s/xebujx48iaf3vwl/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
+* The video will be posted after the session
 
 Big Workspace with Jorge.
 
+### Project Work Time (1:00 - 4:00)
+
+Work on your Pivot projects with your teams. Remember to focus on your user stories. Iteration 1 is due on Thursday afternoon.
+
+Andrew will be available for questions.
 
 ## 1507
 
