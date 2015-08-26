@@ -112,13 +112,58 @@ Classroom A. With Jeff again.
 
 Join Josh Cheek at the front of Classoom A.
 
+We'll be working in this repository: [https://github.com/JoshCheek/how-to-test](https://github.com/JoshCheek/how-to-test).
+
+Make sure you know how to run programs in the shell, and have the keybindings
+[https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#keybindings](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#keybindings).
+I'm going to make you show the person adjacent to you before we go onto this stuff
+(the last time I gave this lesson, it took 8 minutes to edit a file, I don't want to lose that kind of time anymore).
+If you're not confident you can do those things, take 10 min during your lunch and refresh yourself.
+
 ### Echo - Sorting Suite Kickoff (2:30 - 3:00)
 
-Stay at the front of Classroom A.
+Stay at the front of Classroom A for sorting algorithms, y'all [https://vimeo.com/channels/sortalgorithms](https://vimeo.com/channels/sortalgorithms).
+
+<iframe src="https://player.vimeo.com/video/15559012?color=F6AD3F&byline=0&portrait=0" width="500" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
+<p><a href="https://vimeo.com/15559012">Merge Sort</a> from <a href="https://vimeo.com/user3374111">Joshua Cheek</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Echo - Intro to TDD Tutorial (3:00 - 4:00)
 
 Big Surprise, you are in the front of Classroom A.
+
+Work independently on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
+We'll make a few changes, such as using [mrspec](https://rubygems.org/gems/mrspec)
+to run our tests, but other than that, follow along, as described.
+
+### Echo - Homework
+
+On Monday, I told you that you need to get over yourselves.
+Write 1 sentence or more identifying an area that you would benefit from applying these ideas to:
+
+* **get over your fear**, so you don't spend years avoiding a skill you could have learned in a week.
+  Have you ever just sat and enjoyed failure? Honest question.
+  No amount of success has ever empowered me as much as realizing I could fail and be completely okay.
+* **get over your condescension** so you don't prevent people from feeling safe enough to try their hardest
+  [Bonus quote from Jane Goodall!](http://www.infinitelooper.com/?v=vibssrQKm60#/581;611).
+* **get over your predispositions** so you don't flounder and possibly repeat or drop out.
+  The most compelling things about programming were the new ways I learned to think.
+  In fact, it's suspect to say that I even did think before programming.
+
+Make sure you've watched this 2 minute video to see what it looks like when I navigate in the shell.
+[https://s3.amazonaws.com/josh.cheek/screencasts/rachel/navigation.mp4](https://s3.amazonaws.com/josh.cheek/screencasts/rachel/navigation.mp4)
+
+Practice until you can do each of these katas in under 20 seconds:
+
+* [https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-2](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-2)
+* [https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-3](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-3)
+
+As soon as you sit down tomorrow, explain to each of the students adjacent to you what these directories mean: `/`, `~`, `.`, `..`,
+the entire description should be less than 2 sentences. If someone adjacent to you explains them to you,
+then listen attentively. If you believe they understand, give them a warm smile.
+If you are unsure, ask a question to verify, and if they allay your concerns, give them a warm smile.
+If they still seem confused, explain to them what these directories mean, have them repeat it back to you, ask another question to verify they understand,
+and give them a warm smile.
 
 ### Foxtrot - SuperFizz Recap (1:00 - 1:30)
 
@@ -130,7 +175,7 @@ Kick off your first thing with Jeff, still at the Mega Table.
 
 ### Array and Hash Exercises (2:00 - 4:00)
 
-Jeff will tag in Mike at the Mega Table as you learn how to do cool 
-and interesting things with Arrays and Hashes. 
+Jeff will tag in Mike at the Mega Table as you learn how to do cool
+and interesting things with Arrays and Hashes.
 
 [Exercises Repository](git@github.com:turingschool/ruby-exercises.git)

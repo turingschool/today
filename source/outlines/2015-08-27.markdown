@@ -62,3 +62,32 @@ Join Horace in Classroom C to reexamine some of the issues from IdeaBox 2.0.
 ### Echo - Week 1 Diagnostic Recap (2:00 - 2:30)
 
 ### Echo - Spiraling Design and Testing (2:30 - 4:00)
+
+### Echo - Homework
+
+Can you still do the 2 katas in under 20 seconds? ([here](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-2),
+and [here](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-3))
+
+If you see something in the environment that could be improved on in under 3 minutes of effort... improve it.
+If not, imagine all the people who gave enough of a shit to improve all the deficiencies for you before you got there.
+Whoever they were, no one told them to do it, they just saw a need and gave enough of a shit to fill it.
+
+Reread what you wrote on Monday about what it would look like, during your time here, to practice the hard and soft skills.
+Choose one of these questions and answer it in 3 sentences or less
+(if you have the desire to do more, that is fine, but the requirement is only 1):
+
+* How have you been applying the ideas from the book?
+* What things are you doing to apply them well?
+* What ways have they worked out already?
+* What ways could they be better
+* What other things could you apply these ideas to?
+* What is the biggest thing you could change that would improve your chances of success here?
+
+Go find someone in Foxtrot and ask them to tell you something they learned this week.
+If it's something you already know, listen and let yourself feel joy for them that they
+got to learn this thing. If it's something new to you, then listen and let yourself feel
+curiosity about what confusions it might solve. If it's something you are pretty sure they
+are wrong about, then let them finish, and enjoy their enthusiasm
+(their curiosity and motivation will lead them to the vibrant discovery
+of how their understanding needs to be amended, don't kill it...
+besides, it could be that it's *you* whose wrong ;)
