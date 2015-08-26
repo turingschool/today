@@ -153,9 +153,13 @@ If you're not confident you can do those things, take 10 min during your lunch a
 
 Stay at the front of Classroom A for sorting algorithms, y'all [https://vimeo.com/channels/sortalgorithms](https://vimeo.com/channels/sortalgorithms).
 
-<iframe src="https://player.vimeo.com/video/15559012?color=F6AD3F&byline=0&portrait=0" width="500" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
-<p><a href="https://vimeo.com/15559012">Merge Sort</a> from <a href="https://vimeo.com/user3374111">Joshua Cheek</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+First project, [Sorting Suite](https://github.com/turingschool/sorting-suite/blob/master/sorting_suite.md).
+
+This is a project with a grading matrix.
+It is due 9AM on Monday.
+You will work independently (ie you will each have your own, but you can confer with other students... confer != share code)
+For planning purposes, our guess is that this will take you in the range of 20 hrs.
+
 
 ### Echo - Intro to TDD Tutorial (3:00 - 4:00)
 
