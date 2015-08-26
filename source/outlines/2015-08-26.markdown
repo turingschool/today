@@ -83,13 +83,19 @@ Classroom B with Josh.
 
 Still in Classroom B with Josh.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown)
+
 ### Nokogiri (1:00 - 1:30)
 
 You will find yourself again with Josh in Classroom B.
 
+Enjoy this [challenge](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown).
+
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
 Classroom B for DAYS.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown)
 
 
 ## 1508
