@@ -96,7 +96,7 @@ The materials for this lesson are the following:
 
 * [Notes](https://www.dropbox.com/s/xebujx48iaf3vwl/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.markdown)
-* The video will be posted after the session
+* [Video](https://vimeo.com/137451107)
 
 Big Workspace with Jorge.
 
