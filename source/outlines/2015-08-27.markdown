@@ -22,7 +22,7 @@ Important: The idea is that you pass in the number (e.g. 248) and the algorithm 
 
 ### Front-End Debugging (9:00 - 12:00)
 
-Join my <del>second</del> third favoritest person to walk the earth, Brittany, as she teaches you 
+Join my <del>second</del> third favoritest person to walk the earth, Brittany, as she teaches you
 the best class in all of space-time, how to debug all of the things.
 
 Seriously, ALL of the things. ALL of them. Every single last one.
@@ -197,7 +197,7 @@ your random pairings:
 * Chad Minnerath & Ross Edfort
 * Tyler Komoroske & Sekhar Paladugu
 * Emily Dowdle & Matt Rooney
-* John Sneft & Pat Wey
+* John Senft & Pat Wey & John Slota
 
 ### Homework
 
