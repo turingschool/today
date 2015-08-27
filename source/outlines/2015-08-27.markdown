@@ -86,8 +86,31 @@ Technical Check-Ins with Andrew
 Programming is about data and data lives in databases. Let's dig in. Meet Jeff
 in Classroom B.
 
-* [Introduction to SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
-* [Introduction to Sequel](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+First we'll do an [Introduction to SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown). For those exercises we'll use these pairings:
+
+* David Stinnette & Matt Ewell
+* Mimi Schatz & Travis Haby
+* Regis Boudinot & Jerrod Paul Junker
+* Russell Harms & Mary Beth Burch
+* Matt Hecker & Bret Doucette
+* Ryan Asensio & Alon Waisman
+* Justin Holzmann & George Hudson
+* Michael Wong & Jeff Ruane
+* Chris Cenatiempo & Adam Jensen
+* Justin Pease & Rose Kohn
+
+Then we'll do an [Introduction to Sequel](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown) and use these pairings:
+
+* Justin Holzmann & Mary Beth Burch
+* Michael Wong & Jerrod Paul Junker
+* Justin Pease & Jeff Ruane
+* Chris Cenatiempo & Bret Doucette
+* Russell Harms & Matt Ewell
+* Mimi Schatz & Ryan Asensio
+* Matt Hecker & Alon Waisman
+* Travis Haby & Adam Jensen
+* Rose Kohn & George Hudson
+* David Stinnette & Regis Boudinot
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
