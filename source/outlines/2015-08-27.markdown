@@ -111,9 +111,9 @@ Be in Classroom A where you'll work on a diagnostic to assess your learning so f
 
 If you get finished early, you have a few minutes to quietly work on your homeworks/projects. *At 2:00* we'll go over the questions and answers.
 
-### Arrays and Hashes Revisited (2:30 - 4:00)
+### Spiraling Design & Test (2:30 - 4:00)
 
-Join Mike at the Mega Table to look back at Arrays and Hashes.
+For our last session of the day we'll mix together with Echo. See the session details in their section below.
 
 ## 1508 - Echo
 
@@ -143,7 +143,35 @@ If you get finished early, you have a few minutes to quietly work on your homewo
 
 ### Spiraling Design and Testing (2:30 - 4:00)
 
-Classroom A.
+Join Josh in Classroom A.
+
+We've talked about this idea of "spiraling" the design of a solution. You start
+with the most trivial of test cases and work outwards. Sounds easy, right? It's
+hard to do. Let's practice with a real problem.
+
+1. Get together with the pair listed below
+2. Read [the Credit Check challenge](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
+3. Use the strategies we discussed earlier this week to setup a plan of attack
+especially focusing on test cases of slowly increasing difficulty
+4. Then it's time to write code. Work next to each other and be each other's first-choice
+helper when questions/problems pop up. But each of you should do your own programming
+on your own computer.
+
+Just after 3:30 we'll convene all together to review one or more solutions. Here are
+your random pairings:
+
+* Jason Pilz & Ryan Johnson
+* Edgar Duran & Amber Crawford
+* Shannon Paige & Graham Ray
+* Jhun de Andres & Charissa Law
+* Aaron Careaga & Penney Garrett
+* Torie Warren & Robbie Lane
+* Jill Donohue & Matt Stjernholm
+* Marlo Major & Nicole Hall
+* Chad Minnerath & Ross Edfort
+* Tyler Komoroske & Sekhar Paladugu
+* Emily Dowdle & Matt Rooney
+* John Sneft & Pat Wey
 
 ### Homework
 
