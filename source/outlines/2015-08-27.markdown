@@ -3,7 +3,7 @@ title: 20150827
 layout: outline
 ---
 
-Today, in 1953, Alex Lifeson was born.
+Today, in 1953, Alex Lifeson was born. Also, Donald Trump's hair got scarier.
 
 ## All
 
@@ -60,23 +60,23 @@ Check In Schedule! It is here!
 
 Product Check-Ins with Jorge
 
-* 1:00 - Marla, Lovisa, Dmitry
-* 1:20 - Rick, Erik, Drew
-* 1:40 - Jack, Adam, Dave
-* 2:00 - Sebastian, Max, Alex
-* 2:20 - Michael, Rob, Mitch
-* 2:40 - Samson, David, Jason
-* 3:00 - Tyler, Jai, Mike, Michael
+* 1:10 - Marla, Lovisa, Dmitry
+* 1:30 - Rick, Erik, Drew
+* 1:50 - Jack, Adam, Dave
+* 2:10 - Sebastian, Max, Alex
+* 2:30 - Michael, Rob, Mitch
+* 2:50 - Samson, David, Jason
+* 3:10 - Tyler, Jai, Mike, Michael
 
 Technical Check-Ins with Andrew
 
-* 1:30 - Marla, Lovisa, Dmitry
-* 1:50 - Rick, Erik, Drew
-* 2:10 - Jack, Adam, Dave
-* 2:30 - Sebastian, Max, Alex
-* 2:50 - Michael, Rob, Mitch
-* 3:10 - Samson, David, Jason
-* 3:30 - Tyler, Jai, Mike, Michael
+* 1:40 - Marla, Lovisa, Dmitry
+* 2:00 - Rick, Erik, Drew
+* 2:20 - Jack, Adam, Dave
+* 2:40 - Sebastian, Max, Alex
+* 3:00 - Michael, Rob, Mitch
+* 3:20 - Samson, David, Jason
+* 3:40 - Tyler, Jai, Mike, Michael
 
 
 ## 1507
@@ -88,7 +88,7 @@ Do you want to learn more about SQL? Of course you do. Classroom B with Jeff.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
 
 ### Introduction to Sequel (10:00 - 12:00)
- 
+
 Learn a little bit about Sequel. Classroom B with Josh.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
@@ -112,7 +112,7 @@ From here, you're going to work on some exercises on .each.
 
 ### Foxtrot - Arrays and Hashes Revisited (1:00 - 2:30)
 
-Join Jeff at the Mega Table to look back at Arrays and Hashes. 
+Join Jeff at the Mega Table to look back at Arrays and Hashes.
 
 ### Foxtrot - Week 1 Diagnostic (2:30 - 3:30)
 
@@ -128,7 +128,7 @@ Join Josh in Classroom A.
 
 ### Echo - Getting Started with Enumerables (9:30 - 12:00)
 
-Stay in Classroom A. 
+Stay in Classroom A.
 
 ### Echo - Week 1 Diagnostic (1:00 - 2:00)
 
