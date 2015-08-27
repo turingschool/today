@@ -47,7 +47,7 @@ The materials for this lesson are the following:
 
 * [Notes](https://www.dropbox.com/s/kpm2ddj6k08hzrk/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.markdown)
-* The video will be posted after the session
+* [Video](https://vimeo.com/137402841)
 
 Meet Jorge in Classroom B.
 
@@ -108,7 +108,7 @@ Clone [RackLobster](https://github.com/turingschool-examples/rack-lobster)
 
 ### HTML/CSS Review (1:00 - 1:30)
 
-Classroom B. 
+Classroom B.
 
 ### CRUD in Sinatra Workshop (1:30 - 4:00)
 
