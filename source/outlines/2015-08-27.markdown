@@ -53,9 +53,21 @@ Join Horace in Classroom C to reexamine some of the issues from IdeaBox 2.0.
 
 ### Foxtrot - Week 1 Diagnostic Recap (3:30 - 4:00)
 
-### Echo - TERMulator Recap (9:00 - 9:30)
+### Echo - Practice makes perfect
+
+1. First, turn to the people on either side of you, and tell them the 4 main directories, and ask them to tell you as well.
+2. Read your sentence or more to them. When they read theirs think of one question to ask. Examples: Why is that important to you? How will you do that?
+3. Play Simon for 1 minute each: https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#keybindings
+4. Write Unicorn from scratch, as quickly as you can, and only referencing the example when you need to.
+  * it has a name
+  * it has a color which defaults to white
+  * it knows if it is white
+  * it says sparkly shit
 
 ### Echo - Getting Started with Enumerables (9:30 - 12:00)
+
+Lets figure out how this incredibly useful set of methods works:
+[https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a](https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a)
 
 ### Echo - Week 1 Diagnostic (1:00 - 2:00)
 
