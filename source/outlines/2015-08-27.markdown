@@ -158,8 +158,8 @@ Join Josh in Classroom A.
 
 ### Getting Started with Enumerables (9:30 - 12:00)
 
-Stay in Classroom A.  Lets figure out how this incredibly useful set of methods works:
-[https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a](https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a)
+Stay in Classroom A.  Lets figure out how this incredibly useful set of methods works,
+[The material is here](https://github.com/turingschool/lesson_plans/blob/74e3496f4e15f3085484432eea2988f3ca04329e/ruby_01-object_oriented_programming_with_ruby/enumerable_methods_self_discovery.markdown).
 
 ### Week 1 Diagnostic (1:00 - 2:30)
 
