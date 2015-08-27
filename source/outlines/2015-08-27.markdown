@@ -81,48 +81,43 @@ Technical Check-Ins with Andrew
 
 ## 1507
 
-### SQL (9:00 - 10:00)
+### SQL & Sequel (9:00 - 12:00)
 
-Do you want to learn more about SQL? Of course you do. Classroom B with Jeff.
+Programming is about data and data lives in databases. Let's dig in. Meet Jeff
+in Classroom B.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
-
-### Introduction to Sequel (10:00 - 12:00)
-
-Learn a little bit about Sequel. Classroom B with Josh.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+* [Introduction to SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+* [Introduction to Sequel](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
 You're now going to take your Task Manager and Transform it into something wonderful. Again in your new home.
 
+## 1508 - Foxtrot
 
-## 1508
-
-### Foxtrot - Primer on .each (9:00 - 10:00)
+### Primer on .each (9:00 - 10:00)
 
 Join Mike at the Mega Table to learn about .each.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
-### Foxtrot - .each exercises (10:00 - 12:00)
+### .each exercises (10:00 - 12:00)
 
 From here, you're going to work on some exercises on .each.
 
-### Foxtrot - Arrays and Hashes Revisited (1:00 - 2:30)
+### Week 1 Diagnostic (1:00 - 2:30)
 
-Join Jeff at the Mega Table to look back at Arrays and Hashes.
+Be in Classroom A where you'll work on a diagnostic to assess your learning so far.
 
-### Foxtrot - Week 1 Diagnostic (2:30 - 3:30)
+If you get finished early, you have a few minutes to quietly work on your homeworks/projects. *At 2:00* we'll go over the questions and answers.
 
-Stay there where Mike will give you your first diagnostic. Closed computers, open minds.
+### Arrays and Hashes Revisited (2:30 - 4:00)
 
-### Foxtrot - Week 1 Diagnostic Recap (3:30 - 4:00)
+Join Mike at the Mega Table to look back at Arrays and Hashes.
 
-Now let's review.
+## 1508 - Echo
 
-### Echo - Practice makes perfect
+### Practice makes Perfect (9:00 - 9:30)
 
 1. First, turn to the people on either side of you, and tell them the 4 main directories, and ask them to tell you as well.
 2. Read your sentence or more to them. When they read theirs think of one question to ask. Examples: Why is that important to you? How will you do that?
@@ -135,24 +130,22 @@ Now let's review.
 
 Join Josh in Classroom A.
 
-### Echo - Getting Started with Enumerables (9:30 - 12:00)
+### Getting Started with Enumerables (9:30 - 12:00)
 
 Stay in Classroom A.  Lets figure out how this incredibly useful set of methods works:
 [https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a](https://gist.github.com/JoshCheek/26a2ec03fe386cebae5a)
 
-### Echo - Week 1 Diagnostic (1:00 - 2:00)
+### Week 1 Diagnostic (1:00 - 2:30)
+
+Be in Classroom A where you'll work on a diagnostic to assess your learning so far.
+
+If you get finished early, you have a few minutes to quietly work on your homeworks/projects. *At 2:00* we'll go over the questions and answers.
+
+### Spiraling Design and Testing (2:30 - 4:00)
 
 Classroom A.
 
-### Echo - Week 1 Diagnostic Recap (2:00 - 2:30)
-
-Classroom A.
-
-### Echo - Spiraling Design and Testing (2:30 - 4:00)
-
-Classroom A.
-
-### Echo - Homework
+### Homework
 
 Can you still do the 2 katas in under 20 seconds? ([here](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-2),
 and [here](https://github.com/JoshCheek/1508/blob/3de9c9729481c59bcebc6f30b4f10ea52ed5d36c/shell.md#kata-3))
