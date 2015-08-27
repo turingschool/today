@@ -22,7 +22,7 @@ Important: The idea is that you pass in the number (e.g. 248) and the algorithm 
 
 ### Front-End Debugging (9:00 - 12:00)
 
-Join my second favoritest person to walk the earth, Brittany, as she teaches you how to debug all of the things.
+Join my <del>second</del> third favoritest person to walk the earth, Brittany, as she teaches you how to debug all of the things.
 
 Seriously, ALL of the things. ALL of them. Every single last one.
 
@@ -108,7 +108,9 @@ Join Mike at the Mega Table to learn about .each.
 
 ### Foxtrot - .each exercises (10:00 - 12:00)
 
-From here, you're going to work on some exercises on .each.
+From here, you're going to work on some [exercises](https://gist.github.com/mikedao/abbdb278ccf99f090813) on .each.
+
+
 
 ### Foxtrot - Arrays and Hashes Revisited (1:00 - 2:30)
 
