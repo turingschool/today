@@ -40,23 +40,6 @@ Meet up in the Big Workspace and find the folks below. We'll start into [this ex
 * Rick Bacci & Russell Harms & Whitney Hiemstra & Mitch Ashby & John Senft
 * Torie Warren & Samson Brock & Matt Stjernholm & Morgan Miller & Dmitry Vizersky
 
-Groups:
-
-* Brett Grigsby & Marla Brizel & Adam Jensen & Chad Minnerath & Emily Dowdle
-* Max Tedford & Sebastian Abondano & Jeff Ruane & Nicole Hall & Charissa Lawrence
-* Sally MacNicholas & David Shim & Matt Hecker & Torie Joy-Warren & Robbie Lane
-* Vanessa Gomez & Max Millington & Bret Doucette & Jhun de Andres & Graham Ray
-* Morgan Miller & Alex Tideman & Travis Haby & Pat Wey & John Senft
-* Justin Holmes & Lovisa Svallingson & Rose Kohn & Aaron Careaga & Shannon Paige
-* Drew Reynolds & Jai Misra & Mary Beth Burch & Penney Garrett & John Slota
-* Josh Cass & Adam Caron & Alon Waisman & Marlo Major & Edgar Duran
-* Whitney Hiemstra & Drew Conly & Chris Cenatiempo & Ross Edfort & Tyler Komoroske
-* Margarett Ly & Mitch Ashby & Mimi Schatz & Jill Donohue & David Stinette 
-* Jack Yeh & Samson Brock & Ryan Asensio & Amber Crawford & Robert Cornell
-* Dave Maurer & Michael Dorrance & Michael Wong & Sekhar Paladugu & Justin Holzmann
-* Michael Merrill * Mike Reeves & Matt Ewell & Jason Pilz & Jerrod Paul Junker  
-* Dmitry Vizersky & Jason Wright & Regis Boudinot & Matt Stjernholm & Erik Butcher
-* Rick Bacci & George Hudson & Russell Harms & Matt Rooney & Ryan Johnson
 
 ### Group Retro (10:00 - 11:00)
 
@@ -76,7 +59,7 @@ Matanya Horowitz will be speaking to us today.
 * David Stinnette - Hitting the curve
 * Marybeth Burch - How do you Lead? Using your strengths, and knowing your challenges
 * Jason Wright - Sass, because its cool
-Marla Brizel- Take your project from good to great with automated tooling
+* Marla Brizel- Take your project from good to great with automated tooling
 * George Hudson - Keeping Connected With Your Kids During Turing
 * Mimi Schatz - Work smarter, understanding what you value
 * Bret Doucette - Your Credit Score - Common Myths
@@ -85,8 +68,9 @@ Marla Brizel- Take your project from good to great with automated tooling
 ### Electives and Student Lead Sessions (2:00 - 4:00)
 
 * Andrew Cohen from thoughtbot will talk to us about design in the Big Workspace.
+* The inestimable Brittany will be teaching a session on The History of Browser Events in Classroom A.
 * Michael Dorrance - Wireframes in Classroom B.
-* Regis Boudinot - Leenoox in Classroom A.
+* Regis Boudinot - Leenoox in Classroom C.
 
 ### One on Ones
 
@@ -94,8 +78,8 @@ Marla Brizel- Take your project from good to great with automated tooling
 
 * 2:00 - Nicole Hall
 * 2:15 - Patrick Wey
-* 2:30 - Shannon Paige
-* 2:45 - Penney Garrett
+* 2:30 - Penney Garrett
+* 2:45 - BREAK
 * 3:00 - Robbie Lane
 * 3:15 - Tyler Komoroske
 * 3:30 - Chad Minnerath
@@ -105,8 +89,8 @@ Marla Brizel- Take your project from good to great with automated tooling
 
 * 2:00 - Marlo Major
 * 2:15 - Amber Crawford
-* 2:30 - Aaron Careaga
-* 2:45 - Emily Dowdle
+* 2:30 - Emily Dowdle
+* 2:45 - BREAK
 * 3:00 - Sekhar Paladugu
 * 3:15 - Ross Edfort
 * 3:30 - Jill Donohue
@@ -118,7 +102,7 @@ Marla Brizel- Take your project from good to great with automated tooling
 * 2:15 - Matthew Rooney
 * 2:30 - Torie Joy-Warren
 * 2:45 - Matt Stjernholm
-* 3:00 - John Senft
+* 3:00 - Break
 * 3:15 - Charissa Lawrence
 * 3:30 - John Slota
 * 3:45 - Jason Pilz
@@ -129,7 +113,7 @@ Marla Brizel- Take your project from good to great with automated tooling
 * 2:15 - Travis Haby
 * 2:30 - Rose Kohn
 * 2:45 - Mary Beth Burch
-* 3:00 - Chris Cenatiempo
+* 3:00 - Break 
 * 3:15 - Ryan Asensio
 * 3:30 - Michael Wong
 * 3:45 - Matt Ewell
@@ -140,19 +124,18 @@ Marla Brizel- Take your project from good to great with automated tooling
 * 2:15 - Sebastian Abondano
 * 2:30 - David Shim
 * 2:45 - Max Millington
-* 3:00 - Alex Tideman
+* 3:00 - Break
 * 3:15 - Lovisa Svallingson
 * 3:30 - Jai Misra
 * 3:45 - Adam Caron
-
-
 
 ## With Horace
 
 * 2:00 - Brett Grigsby
 * 2:15 - Max Tedford
 * 2:30 - Sally MacNicholas
-* 2:45 - Vanessa Gomez
+* 3:00 - Aaron Careaga
+* 3:15 - John Senft
 
 ## With Daisha
 
@@ -162,9 +145,10 @@ Marla Brizel- Take your project from good to great with automated tooling
 * 2:45 - Mitch Ashby
 * 3:00 - Samson Brock
 
-
 ## With Marissa
 
 * 2:00 - Mimi Schatz
 * 2:15 - Justin Holmes
 * 2:30 - Morgan Miller
+* 2:45 - Shannon Paige
+* 3:00 - Alex Tideman
