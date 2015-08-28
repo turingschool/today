@@ -29,16 +29,14 @@ Groups:
 * Morgan Miller & Alex Tideman & Travis Haby & Pat Wey & John Senft
 * Justin Holmes & Lovisa Svallingson & Rose Kohn & Aaron Careaga & Shannon Paige
 * Drew Reynolds & Jai Misra & Mary Beth Burch & Penney Garrett & John Slota
-* Josh Cass & Adam Caron & Alon Waisman & Marlo Major 
-* Whitney Hiemstra & Drew Conly & Chris Cenatiempo & Ross Edfort
-* Margarett Ly & Mitch Ashby & Mimi Schatz & Jill Donohue
-* Jack Yeh & Samson Brock & Ryan Asensio & Amber Crawford
-* Dave Maurer & Michael Dorrance & Michael Wong & Sekhar Paladugu
-* Michael Merrill * Mike Reeves & Matt Ewell & Jason Pilz
-* Dmitry Vizersky & Jason Wright & Regis Boudinot & Matt Stjernholm
-* Rick Bacci & George Hudson & Russell Harms & Matt Rooney
-* Erik Butcher & Jerrod Paul Junker & Justin Holzmann & Ryan Johnson
-* Robert Cornell & David Stinette & Tyler Komoroske & Edgar Duran
+* Josh Cass & Adam Caron & Alon Waisman & Marlo Major & Edgar Duran
+* Whitney Hiemstra & Drew Conly & Chris Cenatiempo & Ross Edfort & Tyler Komoroske
+* Margarett Ly & Mitch Ashby & Mimi Schatz & Jill Donohue & David Stinette 
+* Jack Yeh & Samson Brock & Ryan Asensio & Amber Crawford & Robert Cornell
+* Dave Maurer & Michael Dorrance & Michael Wong & Sekhar Paladugu & Justin Holzmann
+* Michael Merrill * Mike Reeves & Matt Ewell & Jason Pilz & Jerrod Paul Junker  
+* Dmitry Vizersky & Jason Wright & Regis Boudinot & Matt Stjernholm & Erik Butcher
+* Rick Bacci & George Hudson & Russell Harms & Matt Rooney & Ryan Johnson
 
 ### Group Retro (10:00 - 11:00)
 
