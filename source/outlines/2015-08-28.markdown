@@ -18,7 +18,27 @@ No survey, no breakfast.
 
 ### Gear Up (9:00 - 10:00)
 
-Meet up in the Big Workspace.
+Meet up in the Big Workspace and find the folks below. We'll start into [this exercise](https://github.com/turingschool/gear-up/blob/master/privilege.markdown) promptly at 9AM. You'll have a paper copy for easier reading and note taking.
+
+* Charissa Lawrence & Sebastian Abondano & Matt Rooney & Jason Wright
+* Brett Grigsby & Erik Butcher & Marlo Major & Drew Conly
+* Rose Kohn & Edgar Duran & Mimi Schatz & Michael Merrill
+* Lovisa Svallingson & Pat Wey & Robbie Lane & Ross Edfort
+* Tyler Graham & Matt Ewell & Adam Caron & Jack Yeh
+* Penney Garrett & Jhun de Andres & Vanessa Gomez & Marla Brizel
+* Mary Beth Burch & Jai Misra & Sekhar Paladugu & Jill Donohue
+* Chad Minnerath & Alex Tideman & Sally MacNicholas & David Stinnette
+* Lev Kravinsky & Mike Reeves & Jerrod Paul Junker & Rob Cornell
+* Drew Reynolds & Justin Holzmann & Shannon Paige & Max Tedford
+* George Hudson & Josh Cass & Emily Dowdle & Michael Dorrance
+* Max Millington & Tyler Komoroske & Matt Hecker & Michael Wong
+* Chris Cenatiempo & Bret Doucette & Alon Waisman & Justin Pease
+* Dave Maurer & Jeff Ruane & Adam Jensen & John Slota
+* Nicole Hall & Regis Boudinot & Amber Crawford & Jason Pilz
+* Ryan Asensio & Aaron Careaga & Graham Ray & Ryan Johnson
+* David Shim & Travis Haby & Justin Holmes & Margarett Ly
+* Rick Bacci & Russell Harms & Whitney Hiemstra & Mitch Ashby & John Senft
+* Torie Warren & Samson Brock & Matt Stjernholm & Morgan Miller & Dmitry Vizersky
 
 ### Group Retro (10:00 - 11:00)
 
@@ -34,14 +54,14 @@ Matanya Horowitz will be speaking to us today.
 
 ### Lightning Talks (1:00 - 2:00)
 
-Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
-David Stinnette - Hitting the curve
-Marybeth Burch - How do you Lead? Using your strengths, and knowing your challenges
-Jason Wright - Sass, because its cool
+* Brett Grigsby - Truly Instant Messaging with Quantum Mechanics
+* David Stinnette - Hitting the curve
+* Marybeth Burch - How do you Lead? Using your strengths, and knowing your challenges
+* Jason Wright - Sass, because its cool
 Marla Brizel- Take your project from good to great with automated tooling
-George Hudson - Keeping Connected With Your Kids During Turing
-Mimi Schatz - Work smarter, understanding what you value
-Bret Doucette - Your Credit Score - Common Myths
+* George Hudson - Keeping Connected With Your Kids During Turing
+* Mimi Schatz - Work smarter, understanding what you value
+* Bret Doucette - Your Credit Score - Common Myths
 
 
 ### Electives and Student Lead Sessions (2:00 - 4:00)
@@ -130,5 +150,3 @@ Bret Doucette - Your Credit Score - Common Myths
 * 2:00 - Mimi Schatz
 * 2:15 - Justin Holmes
 * 2:30 - Morgan Miller
-
-
