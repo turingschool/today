@@ -153,7 +153,7 @@ If you're not confident you can do those things, take 10 min during your lunch a
 
 Stay at the front of Classroom A for sorting algorithms, y'all [https://vimeo.com/channels/sortalgorithms](https://vimeo.com/channels/sortalgorithms).
 
-First project, [Sorting Suite](https://github.com/turingschool/sorting-suite/blob/master/sorting_suite.md).
+First project, [Sorting Suite](https://github.com/turingschool/sorting-suite).
 
 This is a project with a grading matrix.
 It is due 9AM on Monday.
