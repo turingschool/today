@@ -75,25 +75,25 @@ Stay in the Big Workspace with Jeff
 
 ### All: Object-Oriented Programming (10:30 - 12:00)
  
- Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg)
+Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg)
  
- ### Foxtrot: Testing Primer (1:00 - 2:30)
+### Foxtrot: Testing Primer (1:00 - 2:30)
  
- Join Jeff at the Mega Table
+Join Jeff at the Mega Table
  
- ### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
+### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
  
- Mike tags in to join you.
+Mike tags in to join you.
  
- ### Echo: Merge Sort Demos and Review (1:00 - 1:30)
+### Echo: Merge Sort Demos and Review (1:00 - 1:30)
  
- Classroom A.
- 
- ### Echo: How Linked Lists Work (1:30 - 2:30)
- 
- Classroom A.
- 
- ### Echo: Robodoku Work Time (2:30 - 4:00)
-
 Classroom A.
+ 
+### Echo: How Linked Lists Work (1:30 - 2:30)
+ 
+Classroom A.
+ 
+### Echo: Robodoku Work Time (2:30 - 4:00)
+
+
 
