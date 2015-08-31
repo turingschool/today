@@ -29,10 +29,9 @@ Get with your pair and spend 30 minutes reviewing each person's
 project:
 
 * Sally MacNicholas & Morgan Miller
-* Margarett Ly & Josh Cass
+* Margarett Ly & Max Tedford
 * Whitney Hiemstra & Brett Grigsby
 * Justin Holmes & Drew Reynolds
-* Max Tedford & Vanessa Gomez
 
 Use this [rubric](https://gist.github.com/worace/8a6b6f6e58502a84a883) for your evaluations.
 
