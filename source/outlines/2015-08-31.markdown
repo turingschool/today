@@ -115,8 +115,6 @@ Linked Lists. We'll wrap that session by 10AM.
 
 Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assignment.
 
-#### With Josh Cheek
-
 * 10:00 -- Charissa Lawrence
 * 10:20 -- Matt Stjernholm
 * 10:40 -- John Slota
@@ -145,3 +143,5 @@ Join Jeff in Classroom A to talk about [how to read and write files](https://git
 ### Object-Oriented Programming (2:00 - 4:00)
 
 Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg).
+
+Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg) <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
