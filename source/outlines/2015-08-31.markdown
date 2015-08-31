@@ -11,7 +11,6 @@ Today, in 1970, Debbie Gibson was born.
 
 Your Warm Up for today is a [logic problem](https://dl.dropboxusercontent.com/u/505445/lsat_blog_-_preptest_50.pdf)!
 
-
 ## 1503
 
 ### JavaScript Function Context (9:00 - 10:30)
@@ -25,6 +24,15 @@ Join Horace in Classroom C as you learn all about [this, bind, and call](https:/
 ### JS Linked List Peer Review (1:00 - 2:00)
 
 Join Horace in Classroom C to check out some Linked Lists.
+
+Get with your pair and spend 30 minutes reviewing each person's
+project:
+
+* Sally MacNicholas & Morgan Miller
+* Margarett Ly & Josh Cass
+* Whitney Hiemstra & Brett Grigsby
+* Justin Holmes & Drew Reynolds
+* Max Tedford & Vanessa Gomez
 
 ### Game Time Kick Off (2:00 - 2:30)
 
@@ -75,7 +83,12 @@ Classroom B still.
 
 ### Traffic Spy Kick Off (3:00 - 4:00)
 
-Groups TBA.
+* Regis Boudinot & David Stinnette & Jerrod Paul Junker
+* Mary Beth Burch & George Hudson & Chris Cenatiempo
+* Bret Doucette & Justin Holzmann & Justin Pease
+* Travis Haby & Matt Hecker & Adam Jensen
+* Jeff Ruane & Alon Waisman & Michael Wong & Mimi Schatz
+* Rose Kohn & Ryan Asensio & Matt Ewell & Russell Harms
 
 
 ## 1508
@@ -123,7 +136,6 @@ Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assign
 
 #### With Sean Griffin
 
-* 10:00 -- Matthew Rooney
 * 10:20 -- Jason Pilz
 * 10:40 -- Marlo Major
 * 11:00 -- Tyler Komoroske
@@ -135,6 +147,7 @@ Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assign
 * 10:20 -- Chad Minnerath
 * 10:40 -- Patrick Wey
 * 11:00 -- Ross Edfort
+* 11:20 -- Matthew Rooney
 
 ### File I/O (1:00 - 2:00)
 
