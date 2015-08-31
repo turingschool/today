@@ -11,7 +11,6 @@ Today, in 1970, Debbie Gibson was born.
 
 Your Warm Up for today is a [logic problem](https://dl.dropboxusercontent.com/u/505445/lsat_blog_-_preptest_50.pdf)!
 
-
 ## 1503
 
 ### JavaScript Function Context (9:00 - 10:30)
@@ -25,6 +24,15 @@ Join Horace in Classroom C as you learn all about [this, bind, and call](https:/
 ### JS Linked List Peer Review (1:00 - 2:00)
 
 Join Horace in Classroom C to check out some Linked Lists.
+
+Get with your pair and spend 30 minutes reviewing each person's
+project:
+
+* Sally MacNicholas & Morgan Miller
+* Margarett Ly & Josh Cass
+* Whitney Hiemstra & Brett Grigsby
+* Justin Holmes & Drew Reynolds
+* Max Tedford & Vanessa Gomez
 
 ### Game Time Kick Off (2:00 - 2:30)
 
