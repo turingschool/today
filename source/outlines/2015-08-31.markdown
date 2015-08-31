@@ -145,3 +145,11 @@ Join Jeff in Classroom A to talk about [how to read and write files](https://git
 Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg).
 
 Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg) <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
+
+### Echo Home<strike>work</strike>fun
+
+Lets [blow some bubbles!](https://github.com/JoshCheek/1508/blob/0facae943f7785e5133ea506595534c1b00b3025/katas/blowing_bubbles_part1.rb)
+Watch how I do it, and follow along, should take 20-30 minutes,
+if you want to do it again, that would be a good way to build the skills you'll need for everything else you do in Ruby,
+but just do it once and I'll be happy :)
+[https://vimeo.com/137837006](https://vimeo.com/137837006)
