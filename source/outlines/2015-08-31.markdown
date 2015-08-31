@@ -73,32 +73,60 @@ Groups TBA.
 
 ## 1508
 
-### All: Dynamics (9:00 - 9:30)
+### Foxtrot: Getting Started with Testing & Evals (9:00 - 12:00)
 
-Join Jeff in the Big Workspace
+#### With Andrew Carmer
 
-### All: File I/O (9:30 - 10:30)
+* 9:00 -- Aaron Careaga
+* 9:25 -- Emily Dowdle
+* 9:50 -- Jhun de Andres
+* 10:15 -- Amber Crawford
+* 10:40 -- Nicole Hall
 
-Stay in the Big Workspace with Jeff
+#### With Tess Griffin
 
-### All: Object-Oriented Programming (10:30 - 12:00)
+* 9:00 -- Robert Lane
+* 9:25 -- Jill Donohue
+* 9:50 -- Edgar Duran
+* 10:15 -- Penney Garrett
+* 10:40 -- Graham Ray
 
-Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg)
+### Echo: Linked Lists & Evals (9:00 - 12:00)
 
-### Foxtrot: Testing Primer (1:00 - 2:30)
+Start with Jeff in Classroom A where we'll intro the concept of
+Linked Lists. We'll wrap that session by 9AM, at which point you
+can start into your next project when your not having an eval of your sorting suite.
 
-Join Jeff at the Mega Table
+Make sure you're at the following evaluation on time. Take notes about everything your reviewer says.
 
-### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
+#### With Josh Cheek
 
-Mike tags in to join you.
+* 10:00 -- Charissa Lawrence
+* 10:20 -- Matt Stjernholm
+* 10:40 -- John Slota
+* 11:00 -- Ryan Johnson
+* 11:20 -- Torie Joy-Warren
 
-### Echo: Merge Sort Demos and Review (1:00 - 1:30)
+#### With Sean Griffin
 
-Classroom A.
+* 10:00 -- Matthew Rooney
+* 10:20 -- Jason Pilz
+* 10:40 -- Marlo Major
+* 11:00 -- Tyler Komoroske
+* 11:20 -- Shannon Paige
 
-### Echo: How Linked Lists Work (1:30 - 2:30)
+#### With Mike Dao
 
-Classroom A.
+* 10:00 -- Sekhar Paladugu
+* 10:20 -- Chad Minnerath
+* 10:40 -- Patrick Wey
+* 11:00 -- Ross Edfort
+* 11:20 -- John Senft
 
-### Echo: Robodoku Work Time (2:30 - 4:00)
+### File I/O (1:00 - 2:00)
+
+Join Jeff in Classroom A to talk about files.
+
+### Object-Oriented Programming (2:00 - 4:00)
+
+Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg).
