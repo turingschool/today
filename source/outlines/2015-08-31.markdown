@@ -28,6 +28,8 @@ Join Horace in Classroom C to check out some Linked Lists.
 
 ### Game Time Kick Off (2:00 - 2:30)
 
+It's [Gaaaaame Tiiiiiime](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown).
+
 Join Horace in Classroom C.
 
 [Game Time Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
