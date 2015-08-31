@@ -5,14 +5,14 @@ layout: outline
 
 Today, in 1970, Debbie Gibson was born.
 
-## All 
+## All
 
 ### Warm Up (8:30 - 9:00)
 
 Your Warm Up for today is a [logic problem](https://dl.dropboxusercontent.com/u/505445/lsat_blog_-_preptest_50.pdf)!
 
 
-## 1503 
+## 1503
 
 ### JavaScript Function Context (9:00 - 10:30)
 
@@ -33,16 +33,24 @@ Join Horace in Classroom C.
 
 ## 1505
 
-### Traversing the DOM with jQuery (9:00 - 10:30)
+### Introduction to jQuery (9:00 - 12:00)
 
+Learn how to find elements in the Document Object Model (DOM) and attach behavior to them.
 
+The materials for this lesson are the following:
 
-### DOM Events with jQuery (10:30 - 12:00)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
+* The video will be posted after this session
+
+Meet with Jorge in Classroom B.
 
 ### Project Work Time (1:00 - 2:30)
 
+Work on your Pivot projects. Remember that tomorrow the second iteration is due. For your stories to be accepted, they need to be deployed and working on Heroku.
+
 ### Technical Interview Prep (2:30 - 4:00)
 
+Meet with all the fellas in the Big Workspace.
 
 ## 1507
 
@@ -74,26 +82,23 @@ Join Jeff in the Big Workspace
 Stay in the Big Workspace with Jeff
 
 ### All: Object-Oriented Programming (10:30 - 12:00)
- 
+
 Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg)
- 
+
 ### Foxtrot: Testing Primer (1:00 - 2:30)
- 
+
 Join Jeff at the Mega Table
- 
+
 ### Foxtrot: Intro to TDD Tutorial (2:30 - 4:00)
- 
+
 Mike tags in to join you.
- 
+
 ### Echo: Merge Sort Demos and Review (1:00 - 1:30)
- 
+
 Classroom A.
- 
+
 ### Echo: How Linked Lists Work (1:30 - 2:30)
- 
+
 Classroom A.
- 
+
 ### Echo: Robodoku Work Time (2:30 - 4:00)
-
-
-
