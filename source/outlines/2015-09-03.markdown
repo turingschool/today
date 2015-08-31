@@ -1,0 +1,79 @@
+---
+title: 20150903
+layout: outline
+---
+
+Happy Birthday Charlie Sheen!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Time for Today's [Logic Problem](http://cl.ly/3W390s2H2H0m)
+
+### Student Advisory Board (4:20 - 5:20)
+
+This is a thing.
+
+
+## 1503
+
+### Intracohort Check Ins (9:00 - 10:00)
+
+### Project Work Time (10:00 - 12:00)
+
+
+## 1505
+
+### Project Work Time (9:00 - 12:00)
+
+Put those finishing touches on your Pivots.
+
+### Pivot Evaluations (1:00 - 4:00)
+
+The moment of truth. Your projects had better be on Heroku!
+
+Schedule TBA.
+
+### Internal Demo (4:00 - 5:00)
+
+Schedule TBA
+
+
+## 1507
+
+### Traffic Spy Check Ins (9:00 - 12:00)
+
+Schedule TBA
+
+### Project Work Time (1:00 - 4:00)
+
+Mike will be available for your questions.
+
+
+## 1508
+
+### Foxtrot: Fibber and POODR Recaps (9:00 - 10:00)
+
+### Foxtrot: Starting Mythical Creatures (10:00 - 10:30)
+
+### All: Week 2 Diagnostic (10:30 - 11:30)
+
+### All: Week 2 Diagnostic Recap (11:30 - 12:00)
+
+### Echo: Linked List Evaluations
+
+### Foxtrot: Testing Mastermind (1:00 - 3:30)
+
+### Foxtrot: Mastermind Feedback (3:30 - 4:00)
+
+### Echo: How Binary Search Trees Work (1:00 - 2:30)
+
+### Echo: Project Work Time (2:30 - 4:00)
+
+Mike will be on hand for questions.
+
+
+
+
+

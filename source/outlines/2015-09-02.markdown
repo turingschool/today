@@ -1,0 +1,48 @@
+---
+title: 20150902
+layout: outline
+---
+
+Today in 1945, combat ends in the Pacific Theater, as Japan formally surrenders.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Become a [Ruby Warrior](https://www.bloc.io/ruby-warrior/) and fight your way through slugs and archers. You can complete individually or with a pair at your option.
+
+
+## 1503
+
+### Events in JavaScript (9:00 - 12:00)
+
+### 
+
+
+## 1505
+
+### Project Work Time (9:00 - 4:00)
+
+
+## 1507
+
+### Traffic Spy Q & A (9:00 - 10:00)
+
+### Traffic Spy Work Time (10:00 - 4:00)
+
+Mike will be available for your questions.
+
+
+## 1508
+
+### Ruby Object Model (9:00 - 12:00)
+
+Learn about how it all works with Josh.
+
+## All: Debugging Techniques (1:00 - 2:30)
+
+
+### All: Project Work Time (2:30 - 4:00)
+
+Mike will be available for your questions.
+
