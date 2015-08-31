@@ -40,7 +40,7 @@ Start working on those games!
 
 ## 1505
 
-### Introduction to jQuery (9:00 - 12:00)
+### Traversing and Manipulating the DOM with jQuery (9:00 - 12:00)
 
 Learn how to find elements in the Document Object Model (DOM) and attach behavior to them.
 
@@ -51,11 +51,11 @@ The materials for this lesson are the following:
 
 Meet with Jorge in Classroom B.
 
-### Project Work Time (1:00 - 2:30)
+### Project Work Time (1:00 - 3:00)
 
 Work on your Pivot projects. Remember that tomorrow the second iteration is due. For your stories to be accepted, they need to be deployed and working on Heroku.
 
-### Technical Interview Prep (2:30 - 4:00)
+### Technical Interview Prep (3:00 - 4:00)
 
 Meet with all the fellas in the Big Workspace.
 
