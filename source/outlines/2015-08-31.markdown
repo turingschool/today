@@ -11,7 +11,6 @@ Today, in 1970, Debbie Gibson was born.
 
 Your Warm Up for today is a [logic problem](https://dl.dropboxusercontent.com/u/505445/lsat_blog_-_preptest_50.pdf)!
 
-
 ## 1503
 
 ### JavaScript Function Context (9:00 - 10:30)
@@ -25,6 +24,16 @@ Join Horace in Classroom C as you learn all about [this, bind, and call](https:/
 ### JS Linked List Peer Review (1:00 - 2:00)
 
 Join Horace in Classroom C to check out some Linked Lists.
+
+Get with your pair and spend 30 minutes reviewing each person's
+project:
+
+* Sally MacNicholas & Morgan Miller
+* Margarett Ly & Max Tedford
+* Whitney Hiemstra & Brett Grigsby
+* Justin Holmes & Drew Reynolds
+
+Use this [rubric](https://gist.github.com/worace/8a6b6f6e58502a84a883) for your evaluations.
 
 ### Game Time Kick Off (2:00 - 2:30)
 
@@ -75,7 +84,12 @@ Classroom B still.
 
 ### Traffic Spy Kick Off (3:00 - 4:00)
 
-Groups TBA.
+* Regis Boudinot & David Stinnette & Jerrod Paul Junker
+* Mary Beth Burch & George Hudson & Chris Cenatiempo
+* Bret Doucette & Justin Holzmann & Justin Pease
+* Travis Haby & Matt Hecker & Adam Jensen
+* Jeff Ruane & Alon Waisman & Michael Wong & Mimi Schatz
+* Rose Kohn & Ryan Asensio & Matt Ewell & Russell Harms
 
 
 ## 1508
@@ -115,6 +129,8 @@ Linked Lists. We'll wrap that session by 10AM.
 
 Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assignment.
 
+#### With Josh Cheek
+
 * 10:00 -- Charissa Lawrence
 * 10:20 -- Matt Stjernholm
 * 10:40 -- John Slota
@@ -142,6 +158,14 @@ Join Jeff in Classroom A to talk about [how to read and write files](https://git
 
 ### Object-Oriented Programming (2:00 - 4:00)
 
-Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg).
+Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg). <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
 
-Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg) <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
+We'll go through the [material in this repository](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
+
+### Echo Home<strike>work</strike>fun
+
+Lets [blow some bubbles!](https://github.com/JoshCheek/1508/blob/0facae943f7785e5133ea506595534c1b00b3025/katas/blowing_bubbles_part1.rb)
+Watch how I do it, and follow along, should take 20-30 minutes,
+if you want to do it again, that would be a good way to build the skills you'll need for everything else you do in Ruby,
+but just do it once and I'll be happy :)
+[https://vimeo.com/137837006](https://vimeo.com/137837006)
