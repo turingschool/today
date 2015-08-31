@@ -155,9 +155,9 @@ Join Jeff in Classroom A to talk about [how to read and write files](https://git
 
 ### Object-Oriented Programming (2:00 - 4:00)
 
-Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg).
+Stay in Classroom A where Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg). <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
 
-Josh will take you on a [Magic Carpet Ride](https://www.youtube.com/watch?v=RVir8VfIiBg) <-- Magic Carpet ride is Wednesday, but I ♥️'d this, so leaving it as is :D
+We'll go through the [material in this repository](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown).
 
 ### Echo Home<strike>work</strike>fun
 
