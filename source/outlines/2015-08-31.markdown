@@ -16,20 +16,25 @@ Your Warm Up for today is a [logic problem](https://dl.dropboxusercontent.com/u/
 
 ### JavaScript Function Context (9:00 - 10:30)
 
-Join Horace in Classroom C as you learn all about this, bind, and call.
+Join Horace in Classroom C as you learn all about [this, bind, and call](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript_function_contexts_this_bind_and_call.markdown).
 
 ### JavaScript Build Tools (10:30 - 12:00)
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown)
 
-[Game Time Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+### JS Linked List Peer Review (1:00 - 2:00)
 
-### Game Time Kick Off (1:00 - 2:30)
+Join Horace in Classroom C to check out some Linked Lists.
+
+### Game Time Kick Off (2:00 - 2:30)
 
 Join Horace in Classroom C.
 
-### Technical Interview Prep (2:30 - 4:00)
+[Game Time Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
 
+### Project Work Time (2:30 - 4:00)
+
+Start working on those games!
 
 ## 1505
 
@@ -68,12 +73,8 @@ Classroom B still.
 
 ### Traffic Spy Kick Off (3:00 - 4:00)
 
-* Regis Boudinot & David Stinnette & Jerrod Paul Junker
-* Mary Beth Burch & George Hudson & Chris Cenatiempo
-* Bret Doucette & Justin Holzmann & Justin Pease
-* Travis Haby & Matt Hecker & Adam Jensen
-* Jeff Ruane & Alon Waisman & Michael Wong & Mimi Schatz
-* Rose Kohn & Ryan Asensio & Matt Ewell & Russell Harms
+Groups TBA.
+
 
 ## 1508
 
