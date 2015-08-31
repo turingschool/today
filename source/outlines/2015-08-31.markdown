@@ -34,6 +34,8 @@ project:
 * Justin Holmes & Drew Reynolds
 * Max Tedford & Vanessa Gomez
 
+Use this [rubric](https://gist.github.com/worace/8a6b6f6e58502a84a883) for your evaluations.
+
 ### Game Time Kick Off (2:00 - 2:30)
 
 It's [Gaaaaame Tiiiiiime](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown).
