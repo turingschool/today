@@ -118,7 +118,6 @@ Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assign
 
 #### With Sean Griffin
 
-* 10:00 -- Matthew Rooney
 * 10:20 -- Jason Pilz
 * 10:40 -- Marlo Major
 * 11:00 -- Tyler Komoroske
@@ -130,6 +129,7 @@ Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assign
 * 10:20 -- Chad Minnerath
 * 10:40 -- Patrick Wey
 * 11:00 -- Ross Edfort
+* 11:20 -- Matthew Rooney
 
 ### File I/O (1:00 - 2:00)
 
