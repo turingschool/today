@@ -75,6 +75,14 @@ Groups TBA.
 
 ### Foxtrot: Getting Started with Testing & Evals (9:00 - 12:00)
 
+This morning you're going to:
+
+* Work on [this Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html). Feel free to ask each other questions/collaborate as you wish.
+* Get together with Jeff in Classroom A at 11AM to [talk about testing](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+* Be at your evaluation appointment below on time
+
+Here's the [Mastermind assignment and rubric](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown).
+
 #### With Andrew Carmer
 
 * 9:00 -- Aaron Careaga
@@ -91,13 +99,14 @@ Groups TBA.
 * 10:15 -- Penney Garrett
 * 10:40 -- Graham Ray
 
-### Echo: Linked Lists & Evals (9:00 - 12:00)
+### Echo: Linked Lists & Sorting Suite Evals (9:00 - 12:00)
 
-Start with Jeff in Classroom A where we'll intro the concept of
-Linked Lists. We'll wrap that session by 9AM, at which point you
-can start into your next project when your not having an eval of your sorting suite.
+* Start with Jeff in Classroom A where we'll intro the concept of
+Linked Lists. We'll wrap that session by 10AM.
+* Begin your next project, [Linked Lists](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown).
+* Be at your evaluation on time as listed below. Take notes about everything your reviewer says.
 
-Make sure you're at the following evaluation on time. Take notes about everything your reviewer says.
+Here's the [Sorting Suite](https://github.com/turingschool/sorting-suite) assignment.
 
 #### With Josh Cheek
 
@@ -117,15 +126,14 @@ Make sure you're at the following evaluation on time. Take notes about everythin
 
 #### With Mike Dao
 
-* 10:00 -- Sekhar Paladugu
+* 10:00 -- John Senft
 * 10:20 -- Chad Minnerath
 * 10:40 -- Patrick Wey
 * 11:00 -- Ross Edfort
-* 11:20 -- John Senft
 
 ### File I/O (1:00 - 2:00)
 
-Join Jeff in Classroom A to talk about files.
+Join Jeff in Classroom A to talk about [how to read and write files](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown) in Classroom A.
 
 ### Object-Oriented Programming (2:00 - 4:00)
 
