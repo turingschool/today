@@ -34,7 +34,7 @@ Work on ye olde projects.
 
 ### Fundamental Rails Security (9:00 - 10:30)
 
-Security MIGHT be important.  Maybe.
+Security MIGHT be important. Maybe.
 
 Get ye to the Large Space of Working
 
@@ -49,20 +49,22 @@ STAY THERE.
 Product Check Ins with Jorge
 
 * 1:00 - Marla, Lovisa, Dmitry
-* 1:25 - Rick, Erik, Drew
-* 1:50 - Jack, Adam, Drew
-* 2:15 - Sebastian, Max, Alex
+* 1:20 - Rick, Erik, Drew
+* 1:40 - Jack, Adam, Dave
+* 2:00 - Sebastian, Max, Alex
+* 2:20 - Michael, Rob, Mitch
 * 2:40 - Samson, David, Jason
-* 3:05 - Tyler, Jai, Mike, Michael
+* 3:00 - Tyler, Jai, Mike, Michael
 
 Technical Check Ins with Andrew
 
-* 1:25 - Marla, Lovisa, Dmitry
-* 1:50 - Rick, Erik, Drew
-* 2:15 - Jack, Adam, Dave
-* 2:40 - Sebastian, Max, Alex
-* 3:05 - Samson, David, Jason
-* 3:30 - Tyler, Jai, Mike, Michael
+* 1:20 - Marla, Lovisa, Dmitry
+* 1:40 - Rick, Erik, Drew
+* 2:00 - Jack, Adam, Dave
+* 2:20 - Sebastian, Max, Alex
+* 2:40 - Michael, Rob, Mitch
+* 3:00 - Samson, David, Jason
+* 3:20 - Tyler, Jai, Mike, Michael
 
 Design Pairing with Noelia
 
