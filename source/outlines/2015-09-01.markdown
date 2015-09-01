@@ -168,3 +168,7 @@ Mike will be available for questions.
 * 9:00 to 12:00 - Penney Garrett
 * 1:00 to 2:30 - ( Your Name Here )
 * 2:30 to 4:00 - Jill Donohue
+
+## Homework (Foxtrot and Echo)
+
+Memorize [this structure](https://github.com/JoshCheek/1508/blob/55fd92ec9df30d511e5c60a2582334ee69450aa8/memorize_these/structure_of_ruby.rb)
