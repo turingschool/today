@@ -1,0 +1,61 @@
+---
+title: 20150909
+layout: outline
+---
+
+Happy Birthday, Sega Dreamcast!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+Look at the text for [The Cat in the Hat](https://gist.github.com/stevekinney/d60c17fdcfb258f6d416).
+
+* Can you parse it to figure out how many times each word appears in the story?
+* Which word appears the most?
+* How many words are there in total?
+* Did you consider capitalization?
+* What about punctuation?
+* What about spacing?
+* Can you solve in JavaScript? Go? C? Assembly?
+
+
+## 1503
+
+### Load Testing and Production Performance Modelling (9:00 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
+
+### Scale Up Work Time (1:00 - 4:00)
+
+
+## 1505
+
+### Consuming APIs (9:00 - 12:00)
+
+### Project Check-Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1507
+
+### Migrations, Databases, Relationships and Models (9:00 - 12:00)
+
+### Rails Basics Work Time (1:00 - 4:00)
+
+Mike AND Tess are available for your question asking.
+
+
+## 1508
+
+### All: Character Count (9:00 - 10:30)
+
+### All: Testing Strategies (10:30 - 12:00)
+
+### All: Work Time (1:00 - 4:00)
+
+### Echo: Enigma Client Meeting (3:30 - 4:00)
+
+
+
