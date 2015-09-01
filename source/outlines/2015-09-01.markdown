@@ -114,7 +114,7 @@ Learn how Git works with Jeff in Classroom A.
 
 Now learn use Git to handle source control with Mike still in Classroom A. You'll use the [independent practice](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown#independent-practice) section of the previous lesson plan.
 
-Echos you're working on Git until lunch. Foxtrotters you're working on Git until 11:30 at which point you'll meet with Jeff to...
+Echoes you're working on Git until lunch. Foxtrotters you're working on Git until 11:30 at which point you'll meet with Jeff to...
 
 ### Foxtrot: Starting Chisel (11:30 - 12:00)
 
