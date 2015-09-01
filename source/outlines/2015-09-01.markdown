@@ -40,6 +40,10 @@ For this session, clone the class repo using the following command:
 ```
 git clone https://github.com/turingschool-examples/store_engine.git fundamental_security
 ```
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/jz5fpbyxwuidr5t/Turing%20-%20Fundamental%20Rails%20Security.key?dl=0)
 
 Join Jorge in the Big Workspace.
 
@@ -54,6 +58,11 @@ git clone https://github.com/turingschool-examples/emailery.git sending_email
 ```
 
 Also, create an account in [Mandrill](https://mandrillapp.com), an email service from MailChimp.
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/mw8lliku5tbgptg/Turing%20-%20Sending%20Email%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/9sa3ew9zzjsoglb/Turing%20-%20Sending%20Email.key?dl=0)
 
 Join Jorge in the Big Workspace.
 
@@ -152,7 +161,7 @@ Mike will be available for questions.
 
 * 9:00 to 12:00 - Nicole Hall
 * 1:00 to 2:30 - ( Your Name Here )
-* 2:30 to 4:00 - ( Your Name Here )
+* 2:30 to 4:00 - Sekhar Paladugu
 
 ### With Tess
 
