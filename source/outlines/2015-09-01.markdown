@@ -119,7 +119,7 @@ Echoes you're working on Git until lunch. Foxtrotters you're working on Git unti
 
 ### Foxtrot: Starting Chisel (11:30 - 12:00)
 
-Kickoff your next project in the main part of Classroom A.
+Kickoff [your next project](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown) in the main part of Classroom A.
 
 ### All: Pairing Without Code (1:00 - 2:30)
 
