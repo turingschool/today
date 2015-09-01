@@ -128,7 +128,7 @@ Echoes you're working on Git until lunch. Foxtrotters you're working on Git unti
 
 ### Foxtrot: Starting Chisel (11:30 - 12:00)
 
-Kickoff your next project in the main part of Classroom A.
+Kickoff [your next project](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown) in the main part of Classroom A.
 
 ### All: Pairing Without Code (1:00 - 2:30)
 
@@ -160,11 +160,15 @@ Mike will be available for questions.
 ### With Blithe
 
 * 9:00 to 12:00 - Nicole Hall
-* 1:00 to 2:30 - ( Your Name Here )
+* 1:00 to 2:30 - George Hudson
 * 2:30 to 4:00 - Sekhar Paladugu
 
 ### With Tess
 
 * 9:00 to 12:00 - Penney Garrett
 * 1:00 to 2:30 - ( Your Name Here )
-* 2:30 to 4:00 - ( Your Name Here )
+* 2:30 to 4:00 - Jill Donohue
+
+## Homework (Foxtrot and Echo)
+
+Memorize [this structure](https://github.com/JoshCheek/1508/blob/55fd92ec9df30d511e5c60a2582334ee69450aa8/memorize_these/structure_of_ruby.rb)
