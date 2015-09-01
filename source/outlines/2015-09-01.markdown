@@ -60,7 +60,7 @@ Join Jorge in the Big Workspace.
 
 ### Project Check Ins and Work Time (1:00 - 4:00)
 
-Product Check Ins with Jorge
+#### Product Check Ins with Jorge
 
 * 1:00 - Marla, Lovisa, Dmitry
 * 1:20 - Rick, Erik, Drew
@@ -70,22 +70,24 @@ Product Check Ins with Jorge
 * 2:40 - Samson, David, Jason
 * 3:00 - Tyler, Jai, Mike, Michael
 
-Technical Check Ins with Andrew
+#### Technical Check Ins with Andrew
 
-* 1:20 - Marla, Lovisa, Dmitry
-* 1:40 - Rick, Erik, Drew
-* 2:00 - Jack, Adam, Dave
-* 2:20 - Sebastian, Max, Alex
-* 2:40 - Michael, Rob, Mitch
-* 3:00 - Samson, David, Jason
-* 3:20 - Tyler, Jai, Mike, Michael
+* 1:00 - Michael, Rob, Mitch
+* 1:45 - Tyler, Jai, Mike, Michael
+* 2:30 - Marla, Lovisa, Dmitry
 
-Design Pairing with Noelia
+#### Technical Check-Ins with Sean Griffin
 
 * 1:00 - Sebastian, Max, Alex
-* 2:00 - Marla, Lovisa, Dmitry
-* 3:00 - Jack, Adam, Dave
+* 1:45 - Samson, David, Jason
+* 2:30 - Rick, Erik, Drew
+* 3:15 - Jack, Adam, Dave
 
+#### Design Pairing with Noelia
+
+* 1:20 - Marla, Lovisa, Dmitry
+* 2:10 - Jack, Adam, Dave
+* 3:00 - Sebastian, Max, Alex
 
 ## 1507
 
