@@ -23,12 +23,11 @@ Classroom C with Horace.
 
 ### Object-Oriented JavaScript (9:30 - 12:00)
 
-Stay in Classroom C.
+Stay in Classroom C. Talk about [OOP in JS](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/object_oriented_javascript.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
 Work on ye olde projects.
-
 
 ## 1505
 
