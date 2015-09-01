@@ -92,15 +92,40 @@ Find Mike if you have any questions. Except life questions. He has no more answe
 
 ### All: How Git Works (9:00 - 10:30)
 
-Learn all about the Git with Jeff in Classroom A.
+Learn how Git works with Jeff in Classroom A.
 
-### All: Using Source Control (10:30 - 12:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
 
-Then you get to learn about Source Control with Jeff.
+### All: Using Source Control (10:30 - 11:30/12:00)
+
+Now learn use Git to handle source control with Mike still in Classroom A. You'll use the [independent practice](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown#independent-practice) section of the previous lesson plan.
+
+Echos you're working on Git until lunch. Foxtrotters you're working on Git until 11:30 at which point you'll meet with Jeff to...
+
+### Foxtrot: Starting Chisel (11:30 - 12:00)
+
+Kickoff your next project in the main part of Classroom A.
 
 ### All: Pairing Without Code (1:00 - 2:30)
 
 Josh will have you pair without code in Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_pairing.markdown)
+
+You will be working in these pairs:
+
+* John Senft & Chad Minnerath
+* Amber Crawford & Matt Stjernholm
+* Nicole Hall & Jhun de Andres
+* Robbie Lane & Pat Wey
+* Jill Donohue & Aaron Careaga
+* Shannon Paige & Matt Rooney
+* Jason Pilz & Tyler Komoroske
+* Emily Dowdle & John Slota
+* Edgar Duran & Sekhar Paladugu
+* Penney Garrett & Marlo Major
+* Torie Warren & Ross Edfort
+* Charissa Lawrence & Ryan Johnson
 
 ### All: Work Time (2:30 - 4:00)
 
