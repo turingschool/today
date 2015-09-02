@@ -44,6 +44,7 @@ The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/a3k2hp473y1pss4/Turing%20-%20Fundamental%20Rails%20Security%20%28Notes%29.pages?dl=0)
 * [Slides](https://www.dropbox.com/s/jz5fpbyxwuidr5t/Turing%20-%20Fundamental%20Rails%20Security.key?dl=0)
+* [Video](https://vimeo.com/138048341)
 
 Join Jorge in the Big Workspace.
 
@@ -63,6 +64,7 @@ The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/mw8lliku5tbgptg/Turing%20-%20Sending%20Email%20%28Notes%29.pages?dl=0)
 * [Slides](https://www.dropbox.com/s/9sa3ew9zzjsoglb/Turing%20-%20Sending%20Email.key?dl=0)
+* [Video](https://vimeo.com/138055053)
 
 Join Jorge in the Big Workspace.
 
