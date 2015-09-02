@@ -16,12 +16,22 @@ Become a [Ruby Warrior](https://www.bloc.io/ruby-warrior/) and fight your way th
 
 ### Events in JavaScript (9:00 - 12:00)
 
-Classroom C.
+[Events in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript_events.markdown)
 
-### Project Work Time (1:00 - 4:00)
+### Project Work Time & Check-Ins (1:00 - 4:00)
 
-Time those games.
+Keep working on your games. Also have a checkin.
 
+__With Horace__
+
+* 2:30 - Vanessa & Max
+* 3:00 - Whitney & Sally
+* 3:30 - Margarett & Justin
+
+__With Andrew__
+
+* 3:00 - Brett & Morgan
+* 3:30 - Drew & Josh
 
 ## 1505
 
@@ -67,7 +77,6 @@ so that it will be there for you to draw on when you are ready for it!
 
 The material is [on github](https://github.com/JoshCheek/object-model-hash-style)
 
-
 ### All: Debugging Techniques (1:00 - 2:30)
 
 Meet in the area of Classroom A. You're going to independently read/experiment/ask questions
@@ -99,13 +108,13 @@ Mike will be available for your questions.
 * 9:00 - ( Your Name Here )
 * 10:30 - ( Your Name Here )
 * 1:00 - Amber Crawford
-* 2:30 - Marlo Major
+* 2:00 - Marlo Major
 
 ### With Noelia
 
 * 9:00 - ( Your Name Here )
 * 10:30 - Ryan Asensio
-* 1:00 - ( Your Name Here )
+* 1:00 - Mimi Schatz
 * 2:30 - ( Your Name Here )
 
 ### With Tess
