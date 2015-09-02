@@ -3,7 +3,7 @@ title: 20150902
 layout: outline
 ---
 
-Today in 1945, combat ends in the Pacific Theater, as Japan formally surrenders.
+Today in 1945, combat ends in the Pacific Theater, as Japan formally surrenders. 70 years and two days later, Hopper Posse will try to deliver breakfast.
 
 ## All
 
@@ -25,6 +25,19 @@ Classroom C.
 
 ### Project Work Time (9:00 - 4:00)
 
+Let's finish strong. Professional software developers care greatly about the quality of each part of the stack. Remember to stop adding features by the end of the day.
+
+Today, please work on:
+
+1. Adding final features.
+2. Polishing UX.
+3. Improving test coverage.
+4. Cleaning and refactoring your codebase.
+5. Fixing any deployment problems with Heroku.
+
+Andrew will be available for questions.
+
+Also, if you need some UX/UI feedback or assistance, please talk to Noelia Cabane. You can check some of her work [here](https://dribbble.com/noeliacabane).
 
 ## 1507
 
@@ -50,4 +63,3 @@ Classroom A again.
 ### All: Project Work Time (2:30 - 4:00)
 
 Mike will be available for your questions.
-
