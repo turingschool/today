@@ -16,12 +16,22 @@ Become a [Ruby Warrior](https://www.bloc.io/ruby-warrior/) and fight your way th
 
 ### Events in JavaScript (9:00 - 12:00)
 
-Classroom C.
+[Events in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript_events.markdown)
 
-### Project Work Time (1:00 - 4:00)
+### Project Work Time & Check-Ins (1:00 - 4:00)
 
-Time those games.
+Keep working on your games. Checkin schedule TK
 
+__With Horace__
+
+* 2:30 - Vanessa & Max
+* 3:00 - Whitney & Sally
+* 3:30 - Margarett & Justin
+
+__With Andrew__
+
+* 3:00 - Brett & Morgan
+* 3:30 - Drew & Josh
 
 ## 1505
 
