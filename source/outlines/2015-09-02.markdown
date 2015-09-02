@@ -71,6 +71,11 @@ Mike will be available for your questions.
 ### Ruby Object Model (9:00 - 12:00)
 
 Learn about how it all works with Josh. In Classroom A.
+Start with this [quiz](https://quizzes-ruby-object-model.herokuapp.com/1)
+you should have that material memorized, even if you don't know what it means,
+so that it will be there for you to draw on when you are ready for it!
+
+The material is [on github](https://github.com/JoshCheek/object-model-hash-style)
 
 ### All: Debugging Techniques (1:00 - 2:30)
 
@@ -101,7 +106,7 @@ Mike will be available for your questions.
 ### With Andrew
 
 * 9:00 - ( Your Name Here )
-* 10:30 - ( Your Name Here )
+* 10:30 - John Senft
 * 1:00 - Amber Crawford
 * 2:00 - Marlo Major
 
@@ -110,6 +115,7 @@ Mike will be available for your questions.
 * 9:00 - Ricky, Drew and Erik
 * 10:30 - Ryan Asensio
 * 1:00 - Mimi Schatz
+* 1:30 - Rose Kohn
 * 2:30 - Jack, Adam, Dave
 
 ### With Tess
