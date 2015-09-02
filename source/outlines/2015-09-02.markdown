@@ -16,14 +16,29 @@ Become a [Ruby Warrior](https://www.bloc.io/ruby-warrior/) and fight your way th
 
 ### Events in JavaScript (9:00 - 12:00)
 
-Classroom C.
+[Events in Javascript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript_events.markdown)
 
-### Project Work Time (1:00 - 4:00)
+### Project Work Time & Check-Ins (1:00 - 4:00)
 
+Keep working on your games. Also have a checkin.
+
+__With Horace__
+
+* 2:30 - Vanessa & Max
+* 3:00 - Whitney & Sally
+* 3:30 - Margarett & Justin
+
+__With Andrew__
+
+* 3:00 - Brett & Morgan
+* 3:30 - Drew & Josh
 
 ## 1505
 
 ### Project Work Time (9:00 - 4:00)
+
+
+P to the I to the V to the O to the T.
 
 Let's finish strong. Professional software developers care greatly about the quality of each part of the stack. Remember to stop adding features by the end of the day.
 
@@ -37,7 +52,8 @@ Today, please work on:
 
 Andrew will be available for questions.
 
-Also, if you need some UX/UI feedback or assistance, please talk to Noelia Cabane. You can check some of her work [here](https://dribbble.com/noeliacabane).
+Also, if you need some UX/UI feedback or assistance, please talk to Noelia who is here all week. You can check some of her work [here](https://dribbble.com/noeliacabane).
+
 
 ## 1507
 
@@ -56,10 +72,49 @@ Mike will be available for your questions.
 
 Learn about how it all works with Josh. In Classroom A.
 
-## All: Debugging Techniques (1:00 - 2:30)
+### All: Debugging Techniques (1:00 - 2:30)
 
-Classroom A again.
+Meet in the area of Classroom A. You're going to independently read/experiment/ask questions
+using [this encyclopedia of debugging](https://github.com/turingschool/curriculum/blob/master/source/topics/debugging/debugging.markdown) put together by His Cheek-ness. Mike will be
+available for questions.
+
+Please try to stay focused in the world of debugging for this 90 minutes. If you
+get through the document, consider following up with some of these tools/resources:
+
+* The [Pry homepage](http://pryrepl.org/)
+* Try out [byebug](https://github.com/deivid-rodriguez/byebug)
+* Mashup [Pry and byebug](https://github.com/deivid-rodriguez/pry-byebug)
+* What is the `binding` in `binding.pry`? Explore a bit with [this article](http://dandemeyere.com/blog/the-power-of-lambda-bindings-and-blocks-in-ruby)
 
 ### All: Project Work Time (2:30 - 4:00)
 
 Mike will be available for your questions.
+
+## Pairing Sessions
+
+### With Blithe
+
+* 9:00 - Tyler Komoroske
+* 1:00 - Emily Dowdle
+* 2:30 - Jhun de Andres
+
+### With Andrew
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - Amber Crawford
+* 2:00 - Marlo Major
+
+### With Noelia
+
+* 9:00 - ( Your Name Here )
+* 10:30 - Ryan Asensio
+* 1:00 - Mimi Schatz
+* 2:30 - ( Your Name Here )
+
+### With Tess
+
+* 9:00 - Sam Brock
+* 10:30 - Sebastian Abondano
+* 1:00 - Charissa Lawrence
+* 2:30 - Matthew Rooney
