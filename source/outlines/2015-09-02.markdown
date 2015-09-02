@@ -56,10 +56,57 @@ Mike will be available for your questions.
 
 Learn about how it all works with Josh. In Classroom A.
 
-## All: Debugging Techniques (1:00 - 2:30)
+### All: Debugging Techniques (1:00 - 2:30)
 
-Classroom A again.
+Meet in the area of Classroom A. You're going to independently read/experiment/ask questions
+using [this encyclopedia of debugging](https://github.com/turingschool/curriculum/blob/master/source/topics/debugging/debugging.markdown) put together by His Cheek-ness. Mike will be
+available for questions.
+
+Please try to stay focused in the world of debugging for this 90 minutes. If you
+get through the document, consider following up with some of these tools/resources:
+
+* The [Pry homepage](http://pryrepl.org/)
+* Try out [byebug](https://github.com/deivid-rodriguez/byebug)
+* Mashup [Pry and byebug](https://github.com/deivid-rodriguez/pry-byebug)
+* What is the `binding` in `binding.pry`? Explore a bit with [this article](http://dandemeyere.com/blog/the-power-of-lambda-bindings-and-blocks-in-ruby)
 
 ### All: Project Work Time (2:30 - 4:00)
 
 Mike will be available for your questions.
+
+## Pairing Sessions
+
+### With Blithe
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - ( Your Name Here )
+* 2:30 - ( Your Name Here )
+
+### With Andrew
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - ( Your Name Here )
+* 2:30 - ( Your Name Here )
+
+### With Noelia
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - ( Your Name Here )
+* 2:30 - ( Your Name Here )
+
+### With Tess
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - ( Your Name Here )
+* 2:30 - ( Your Name Here )
+
+### With Sean
+
+* 9:00 - ( Your Name Here )
+* 10:30 - ( Your Name Here )
+* 1:00 - ( Your Name Here )
+* 2:30 - ( Your Name Here )
