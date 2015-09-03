@@ -15,16 +15,35 @@ Time for Today's [Logic Problem](http://cl.ly/3W390s2H2H0m)
 
 This is a thing.
 
-
 ## 1503
 
-### Intracohort Check Ins (9:00 - 10:00)
+### Project Work Time (9:00 - 12:00)
 
-### Project Work Time (10:00 - 12:00)
+Continue working on your games. Most of your projects
+have delivered a solid proof of concept and figured out
+solutions for the games' logic problems.
+
+Now we need to do a lot of testing, refactoring, and polishing.
+
+Horace will be available for questions and troubleshooting.
 
 ### Design Fundamentals (1:00 - 2:00)
 
 Meet Noelia in Classroom C for a session to build up your design fundamentals.
+
+### Intra-Cohort Check-Ins (2:00 - 3:00)
+
+Let's get together with the cohort to give a
+quick demo of our projects thus far. The purpose
+of this session is to solicit feedback on design
+and playability, and to brainstorm any last features
+we'd like to add going into the weekend.
+
+* 2:00 - 2:10 -- Drew & Josh
+* 2:10 - 2:20 -- Whitney & Sally
+* 2:20 - 2:30 -- Vanessa & Max
+* 2:30 - 2:40 -- Margarett & Justin
+* 2:40 - 2:50 -- Morgan & Brett
 
 ## 1505
 
@@ -104,7 +123,7 @@ The [original Linked List assignment/rubric is here](https://github.com/turingsc
 * 10:00 - Robert Lane
 * 10:30 - Tyler Komoroske
 
-#### With Mike Dao
+#### With Andrew Carmer
 
 * 9:00 - Matt Stjernholm
 * 9:30 - John Senft
@@ -130,13 +149,13 @@ Mike will be on hand for questions.
 
 ### Week 2 Diagnostic & Recap (9:00 - 10:30)
 
-Start this morning in Classroom A with Andrew where you'll first work on the
+Start this morning in Classroom A with Jeff where you'll first work on the
 Week 2 diagnostic, then follow up with a review.
 
 ### Starting Mythical Creatures (10:30 - 12:00)
 
 Next up it's time for some solo work focused on objects, methods, and testing.
-Andrew will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises). Ideally you should
+Jeff will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises). Ideally you should
 finish Mythical Creatures by Wednesday. It's a little lower priority than your
 Chisel project.
 
@@ -181,12 +200,6 @@ Work on it until 3:30 then gather back in Classroom A to share some of your work
 * 10:30 - ( Your Name Here )
 * 1:00 - Sean Griffin
 * 2:30 - Josh Cheek
-
-### With Tess
-
-* 1:00 - ( Your Name Here )
-* 2:00 - ( 1503 Group )
-* 3:00 - ( 1503 Group )
 
 ### With Noelia
 
