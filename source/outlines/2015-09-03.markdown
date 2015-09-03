@@ -100,7 +100,7 @@ The [original Linked List assignment/rubric is here](https://github.com/turingsc
 * 10:00 - Robert Lane
 * 10:30 - Tyler Komoroske
 
-#### With Mike Dao
+#### With Andrew Carmer
 
 * 9:00 - Matt Stjernholm
 * 9:30 - John Senft
@@ -126,13 +126,13 @@ Mike will be on hand for questions.
 
 ### Week 2 Diagnostic & Recap (9:00 - 10:30)
 
-Start this morning in Classroom A with Andrew where you'll first work on the
+Start this morning in Classroom A with Jeff where you'll first work on the
 Week 2 diagnostic, then follow up with a review.
 
 ### Starting Mythical Creatures (10:30 - 12:00)
 
 Next up it's time for some solo work focused on objects, methods, and testing.
-Andrew will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises). Ideally you should
+Jeff will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises). Ideally you should
 finish Mythical Creatures by Wednesday. It's a little lower priority than your
 Chisel project.
 
