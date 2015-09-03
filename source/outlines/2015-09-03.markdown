@@ -3,7 +3,7 @@ title: 20150903
 layout: outline
 ---
 
-Happy Birthday Charlie Sheen!
+Happy Birthday Charlie Sheen! Ick.
 
 ## All
 
@@ -51,7 +51,39 @@ Schedule TBA
 Mike will be available for your questions.
 
 
-## 1508
+## 1508 - Echo
+
+### Linked List Evaluations & Sorting Redux (9:00 - 12:00)
+
+First, find you evaluation appointment below and make sure you're there on time.
+
+The project is due at 9AM. So when you're not in your eval you're *not* working
+on your project. RIGHT?
+
+Instead, mash up your last two projects. Can you revise your Sorting Suite algorithms
+to make use of your Linked List instead of any internal arrays? Insertion Sort is
+particularly cool.
+
+#### With Josh Cheek
+
+* 9:00 - Charissa Lawrence
+* 9:30 - Patrick Wey
+* 10:00 - Robert Lane
+* 10:30 - Tyler Komoroske
+
+#### With Mike Dao
+
+* 9:00 - Matt Stjernholm
+* 9:30 - John Senft
+* 10:00 - Ryan Johnson
+* 10:30 - Shannon Paige
+
+#### With Sean Griffin
+
+* 9:00 - Ross Edfort
+* 9:30 - Torie Joy-Warren
+* 10:00 - Jason Pilz
+* 10:30 - Chad Minnerath
 
 ### Foxtrot: Fibber and POODR Recaps (9:00 - 10:00)
 
@@ -61,7 +93,7 @@ Mike will be available for your questions.
 
 ### All: Week 2 Diagnostic Recap (11:30 - 12:00)
 
-### Echo: Linked List Evaluations
+
 
 ### Foxtrot: Testing Mastermind (1:00 - 3:30)
 
@@ -72,8 +104,3 @@ Mike will be available for your questions.
 ### Echo: Project Work Time (2:30 - 4:00)
 
 Mike will be on hand for questions.
-
-
-
-
-
