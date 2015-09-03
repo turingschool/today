@@ -65,7 +65,7 @@ Remember that your apps need to be working on Heroku to be evaluated.
 * 2:40 - Samson, David, Jason
 * 3:00 - Tyler, Jai, Mike, Michael
 
-#### Technical Evaluations with Andrew
+#### Technical Evaluations with Sean Griffin
 
 * 1:20 - Marla, Lovisa, Dmitry
 * 1:40 - Rick, Erik, Drew
@@ -123,7 +123,7 @@ The [original Linked List assignment/rubric is here](https://github.com/turingsc
 * 10:00 - Robert Lane
 * 10:30 - Tyler Komoroske
 
-#### With Andrew Carmer
+#### With Tess Griffin
 
 * 9:00 - Matt Stjernholm
 * 9:30 - John Senft
