@@ -62,7 +62,7 @@ on your project. RIGHT?
 
 Instead, mash up your last two projects. Can you revise your Sorting Suite algorithms
 to make use of your Linked List instead of any internal arrays? Insertion Sort is
-particularly cool.
+particularly cool. Get together with your classmates about 11:00 and compare progress.
 
 #### With Josh Cheek
 
@@ -85,22 +85,55 @@ particularly cool.
 * 10:00 - Jason Pilz
 * 10:30 - Chad Minnerath
 
-### Foxtrot: Fibber and POODR Recaps (9:00 - 10:00)
+### How Binary Search Trees Work (1:00 - 2:30)
 
-### Foxtrot: Starting Mythical Creatures (10:00 - 10:30)
-
-### All: Week 2 Diagnostic (10:30 - 11:30)
-
-### All: Week 2 Diagnostic Recap (11:30 - 12:00)
-
-
-
-### Foxtrot: Testing Mastermind (1:00 - 3:30)
-
-### Foxtrot: Mastermind Feedback (3:30 - 4:00)
-
-### Echo: How Binary Search Trees Work (1:00 - 2:30)
+Join Josh Cheek in Classroom A where he'll introduce Binary Search Trees.
 
 ### Echo: Project Work Time (2:30 - 4:00)
 
 Mike will be on hand for questions.
+
+## 1508 - Foxtrot
+
+### Week 2 Diagnostic & Recap (9:00 - 10:30)
+
+Start this morning in Classroom A with Andrew where you'll first work on the
+Week 2 diagnostic, then follow up with a review.
+
+### Starting Mythical Creatures (10:30 - 12:00)
+
+Next up it's time for some solo work focused on objects, methods, and testing.
+Andrew will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises).
+
+### Testing Mastermind (1:00 - 4:00)
+
+Ages ago you created a thing called Mastermind. At the time, you didn't really
+know how to create objects. You didn't really know how to write tests.
+
+Do you now?
+
+Get together with the pair below:
+
+* John Slota & Jhun de Andres
+* Jill Donohue & Emily Dowdle
+* Edgar Duran & Penney Garrett
+* Matthew Rooney & Nicole Hall
+* Marlo Major & Amber Crawford
+* Aaron Careaga & Sekhar Paladugu
+
+Then you should:
+
+* Pick one of your two mastermind projects. Ideally the one that works the best
+(from the outside), though the state of the internal code isn't super important.
+* Find a piece of functionality that could be extracted out to an object and
+tested
+* Build it with tests and make use of the new object from the original code
+* See if you can keep the game working the whole time
+
+Struggling with ideas? Some of the first things you might extract include:
+
+* A `CodeGenerator` class which is responsible for generating your secret code
+* A `Printer` class which is responsible for printing all the various messages
+* A `GuessComparator` class which takes a guess, code, and generates feedback
+
+Work on it until 3:30 then gather back in Classroom A to share some of your work.
