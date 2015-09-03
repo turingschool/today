@@ -51,6 +51,8 @@ we'd like to add going into the weekend.
 
 Add the final touches to your app. Make sure that you have refactored, improved your test coverage, and cleaned up the UX.
 
+You can find the evaluation criteria [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown#evaluation).
+
 Remember that your apps need to be working on Heroku to be evaluated.
 
 ### Pivot Evaluations (1:00 - 4:00)
@@ -58,22 +60,24 @@ Remember that your apps need to be working on Heroku to be evaluated.
 #### Product Evaluations with Jorge
 
 * 1:00 - Marla, Lovisa, Dmitry
-* 1:20 - Rick, Erik, Drew
+* 1:20 - Tyler, Jai, Mike, Michael
 * 1:40 - Jack, Adam, Dave
 * 2:00 - Sebastian, Max, Alex
 * 2:20 - Michael, Rob, Mitch
 * 2:40 - Samson, David, Jason
-* 3:00 - Tyler, Jai, Mike, Michael
+* 3:00 - Rick, Erik, Drew
 
 #### Technical Evaluations with Sean Griffin
 
+For your technical evaluations, please have [SimpleCov](https://github.com/colszowka/simplecov) installed and configured.
+
 * 1:20 - Marla, Lovisa, Dmitry
-* 1:40 - Rick, Erik, Drew
+* 1:40 - Tyler, Jai, Mike, Michael
 * 2:00 - Jack, Adam, Dave
 * 2:20 - Sebastian, Max, Alex
 * 2:40 - Michael, Rob, Mitch
 * 3:00 - Samson, David, Jason
-* 3:20 - Tyler, Jai, Mike, Michael
+* 3:20 - Rick, Erik, Drew
 
 ### Internal Demo (4:10 - 5:00)
 
