@@ -67,6 +67,8 @@ Instead, mash up your last two projects. Can you revise your Sorting Suite algor
 to make use of your Linked List instead of any internal arrays? Insertion Sort is
 particularly cool. Get together with your classmates about 11:00 and compare progress.
 
+The [original Linked List assignment/rubric is here](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown).
+
 #### With Josh Cheek
 
 * 9:00 - Charissa Lawrence
