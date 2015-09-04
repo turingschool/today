@@ -81,7 +81,7 @@ things about Blithe include:
 
 * 2:00 - Alon Waisman
 * 2:15 - Michael Merrill
-* 2:30 - Dmitry Vizersky
+* 2:30 - Erik Butcher
 * 2:45 - Drew Reynolds
 
 #### With Josh Cheek
@@ -105,7 +105,7 @@ things about Blithe include:
 #### With Jorge
 
 * 2:15 - Rick Bacci
-* 2:30 - Erik Butcher
+* 2:30 - Dmitry Vizersky
 * 2:45 - Rob Cornell
 * 3:00 - Dave Maurer
 
