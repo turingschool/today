@@ -27,6 +27,30 @@ No survey, no breakfast.
 
 ### Gear Up (10:00 - 11:00)
 
+We're going to work on [this exercise](https://github.com/turingschool/gear-up/blob/master/passionate%20programmer%20-%20invest%20in%20your%20intelligence.markdown) but you'll have printed copies to help you focus. Even for the writing portions, please use your notebook/paper.
+
+#### Working Groups
+
+* Adam Caron & David Stinnette & Torie Warren & Alon Waisman
+* Morgan Miller & Pat Wey & Emily Dowdle & Lovisa Svallingson
+* Alex Tideman & Dmitry Vizersky & Sally MacNicholas & Samson Brock
+* Jason Pilz & Matt Ewell & Russell Harms & Whitney Hiemstra
+* Chad Minnerath & Rob Cornell & Mimi Schatz & Aaron Careaga
+* Sebastian Abondano & Erik Butcher & Jhun de Andres & Michael Dorrance
+* Max Tedford & Justin Pease & Jeff Ruane & Drew Reynolds
+* Jai Misra & Max Millington & Travis Haby & Drew Conly
+* Ryan Johnson & Jerrod Paul Junker & Mary Beth Burch & Margarett Ly
+* John Slota & David Shim & Adam Jensen & Tyler Komoroske
+* Michael Wong & Tyler Graham & Justin Holzmann & Ryan Asensio
+* Charissa Lawrence & Edgar Duran & Matt Stjernholm & Justin Holmes
+* Matt Rooney & Jack Yeh & Penney Garrett & Jill Donohue
+* Robbie Lane & Chris Cenatiempo & Sekhar Paladugu & Josh Cass
+* Regis Boudinot & Marlo Major & Vanessa Gomez & Rose Kohn
+* Nicole Hall & Matt Hecker & John Senft & Brett Grigsby
+* Dave Maurer & Mike Reeves & Jason Wright & Bret Doucette
+* Michael Merrill & Ross Edfort & Amber Crawford & Mitch Ashby
+* George Hudson & Shannon Paige & Rick Bacci & Marla Brizel
+
 ### Guest Speaker (11:00 - 12:00)
 
 This morning we'll chat with our friend Dr. Blithe Rocher. Some interesting
