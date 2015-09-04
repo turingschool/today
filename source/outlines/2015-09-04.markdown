@@ -64,7 +64,7 @@ things about Blithe include:
 ### Group Retro (1:00 - 2:00)
 
 * 1503 - Classroom C with Jeff and Blithe and Daisha
-* 1505 - Classroom with Jorge and Noelia
+* 1505 - Classroom B with Jorge and Noelia
 * 1507 - Big Workspace with Mike
 * 1508 - Classroom A with Josh Cheek
 
@@ -108,10 +108,9 @@ Design thinking
 
 #### With Jorge
 
-* 2:15 - Rick Bacci
-* 2:30 - Dmitry Vizersky
-* 2:45 - Rob Cornell
-* 3:00 - Dave Maurer
+* 2:00 - Rick Bacci
+* 2:15 - Dmitry Vizersky
+* 2:30 - Dave Maurer
 
 #### With Daisha
 
