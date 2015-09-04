@@ -63,15 +63,14 @@ things about Blithe include:
 
 ### Group Retro (1:00 - 2:00)
 
-* 1503 - Classroom C with Jeff and Blithe
+* 1503 - Classroom C with Jeff and Blithe and Daisha
 * 1505 - Classroom with Jorge and Noelia
-* 1507 - Big Workspace with Tess and Daisha
-* 1508 - Classroom A with Josh Cheek and Mike
+* 1507 - Big Workspace with Mike
+* 1508 - Classroom A with Josh Cheek
 
 ### Student Lead Sessions / Electives (2:00 - 4:00)
 
-* Adam Caron - [Note-taking Prowess with PivotalTracker](https://gist.github.com/adamcaron/8e1efa6c34120326a111)
- - Classroom C
+* Adam Caron - [Note-taking Prowess with PivotalTracker](https://gist.github.com/adamcaron/8e1efa6c34120326a111) - Classroom C
 * Josh Cass - [Q / A Session With the Master](https://gist.github.com/joshcass/f0ef83423a76f6a46085) - Classroom B
 * Mark Reeves Older Brother - Whiteboarding Continued! - in Classroom A
 * Andrew from Thoughtbot returns for another session on Design in Big Workspace
