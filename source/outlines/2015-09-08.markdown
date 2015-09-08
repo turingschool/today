@@ -14,9 +14,33 @@ Today, in 1966, Star Trek airs for the first time on NBC.
 
 ## 1503
 
+### Production Load Scripting with Capybara (9:00 - 9:30)
+
+Before we dive into these Game Time evaluations, join Horace in
+Classroom C to kick off a discussion about production
+user scripting.
+
+After we've started with this discussion, spend the rest of
+the morning working in pairs through this
+[Production Load Scripting tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
+
+__Pairs:__
+
+* Whitney Hiemstra & Justin Holmes
+* Josh Cass & Vanessa Gomez
+* Max Tedford & Sally MacNicholas
+* Drew Reynolds & Brett Grigsby
+* Morgan Miller & Margarett Ly
+
 ### Game Time Evaluations (9:00 - 12:00)
 
-Schedule TBA.
+Meet with Horace to evaluate your Game Time projects
+
+* 9:00 - 9:30 -- Drew & Josh
+* 9:30 - 10:00 -- Whitney & Sally
+* 10:00 - 10:30 -- Vanessa & Max
+* 10:30 - 11:00 -- Margarett & Justin
+* 11:00 - 11:30 -- Morgan & Brett
 
 ### Rails Performance Analysis (1:00 - 2:00)
 
