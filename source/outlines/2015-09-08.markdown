@@ -154,6 +154,14 @@ Even though this project is individual, you can ask each other questions and col
 
 ## 1508
 
+### Homework:
+
+* Find Penney, say "this one's for you", and give her a hug. If it turns out you needed a hug, too, you can instead say "thanks, I needed that".
+* Go through [Blowing Bubbles](https://github.com/JoshCheek/1508/blob/master/katas/blowing_bubbles_part1.rb) part 1,
+  here is [the video](https://vimeo.com/137837006), if you want to go through it with me.
+  If you want to get extra value from it, go through it a second time without the video
+  (if you need to, maybe take notes when you watch it so that you can do this).
+
 ### All: Pairing Exercises (9:00 - 12:00)
 
 While you are not being evaluated, you will be working on pairing exercises.
