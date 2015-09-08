@@ -30,12 +30,48 @@ Schedule TBA.
 
 ### Getting Started with OAuth (9:00 - 11:00)
 
+Learn how to authenticate with a third-party service and OAuth.
+
+Before the sessions, please clone the class repo using the following command:
+
+```
+git clone https://github.com/turingschool-examples/secretic.git getting_started_with_oauth
+```
+
+The materials for this class are:
+
+* [Notes](https://www.dropbox.com/s/7g33so0ltzuuhdd/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/zu2gifw3jz67r57/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown#L605)
+* The video will be posted after the session.
+
+Meet Jorge in Classroom B.
+
 ### JSON Fundamentals (11:00 - 12:00)
+
+In the following weeks, you will be reading and providing data in JSON (JavaScript Object Notation), a human and machine readable format used widely for APIs.
+
+In this lesson, you'll learn about this particular data format, its structure, and how to interact with it programmatically.
+
+The materials for this class are:
+
+* [Slides](https://www.dropbox.com/s/z68rpgrrojqn96k/Turing%20-%20JSON%20Fundamentals.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+* The video will posted after the session.
+
+Meet Jorge in Classroom B.
 
 ### Apicurious Kickoff (1:00 - 2:30)
 
 ### Apicurious Work Time (2:30 - 4:00)
 
+Please work on your individual projects. Remember that by the end of today, you should have:
+
+1. Your application deployed and working on Heroku.
+2. Omniauth installed and working.
+3. Your application layout implemented.
+
+Even though this project is individual, you can ask each other questions and collaborate on features. This, however, does not mean that you can copy other people's code.
 
 ## 1507
 
@@ -67,4 +103,3 @@ Schedule TBA
 ### All: Project Post Mortem (1:30 - 2:30)
 
 ### All: Starting Enigma and Linked Lists (2:30 - 4:00)
-
