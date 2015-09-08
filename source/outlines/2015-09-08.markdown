@@ -165,18 +165,20 @@ While you are not being evaluated, you will be working on pairing exercises.
 
 #### Pairings
 
-* Robert & Shannon
-* Torie & Ryan
-* Matt S & Chad
-* Tyler & John Senft
-* Ross & Jason
-* Charissa & Patrick
-* Emily & Penney
-* Sekhar & Edgar
-* Nicole & Amber
-* Jhun & Aaron
-* Jill & Marlo
-* John Slota & Matthew Rooney
+Sorry that not all pairs have overlapping review times. I did the best I could! :)
+
+* Shannon & Penney
+* Ryan & Edgar
+* Chad & Jhun
+* John Senft & Emily
+* Aaron & Marlo
+* Jason & Sekhar
+* Patrick & Nicole
+* Robert & Amber
+* Torie & Jill
+* Matt S & John Slota
+* Matthew Rooney & Tyler
+* Ross & Charissa
 
 #### Activity
 
@@ -189,23 +191,17 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 
 ### Echo: BST Evaluations (9:00 - 12:00)
 
-#### With Sean
-
-* 9:00 - Robert Lane
-* 9:30 - Torie Joy-Warren
-* 10:00 - Matt Stjernholm
-* 10:30 - Tyler Komoroske
-* 11:00 - Ross Edfort
-* 11:30 - Charissa Lawrence
-
 #### With Josh Cheek
 
 * 9:00 - Shannon Paige
-* 9:30 - Ryan Johnson
-* 10:00 - Chad Minnerath
-* 10:30 - John Senft
-* 11:00 - Jason Pilz
-* 11:30 - Patrick Wey
+* 9:20 - Ryan Johnson
+* 9:40 - Chad Minnerath
+* 10:00 - John Senft
+* 10:20 - Jason Pilz
+* 10:40 - Patrick Wey
+* 11:00 - Robert Lane
+* 11:20 - Torie Joy-Warren
+* 11:40 - Matt Stjernholm
 
 ### Foxtrot: Chisel Evaluations (9:00 - 12:00)
 
@@ -226,10 +222,20 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 * 10:00 - Aaron Careaga
 * 10:20 - Marlo Major
 * 10:40 - Matthew Rooney
+* 11:00 - Tyler Komoroske
+* 11:20 - Ross Edfort
+* 11:40 - Charissa Lawrence
 
 ### All: Dynamics (1:00 - 1:40)
 
-Meet with Jeff in the Big Workspace.
+Meet with Jeff in the Big Workspace. Gather into these groups below:
+
+* Jhun de Andres & Chad Minnerath & Jill Donohue & Torie Warren
+* Tyler Komoroske & Pat Wey & Aaron Careaga & Penney Garrett
+* Ross Edfort & Marlo Major & Nicole Hall & Amber Crawford
+* Ryan Johnson & Sekhar Paladugu & Jason Pilz & Matt Stjernholm
+* Matt Rooney & Edgar Duran & Emily Dowdle & Charissa Lawrence
+* Robbie Lane & John Senft & Shannon Paige & John Slota
 
 ### All: Project Post Mortem (1:40 - 2:00)
 
