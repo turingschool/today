@@ -10,7 +10,14 @@ Today, in 1966, Star Trek airs for the first time on NBC.
 
 ### Warm Up (8:30 - 9:00)
 
-[Can you solve this set of LSAT problems?](Can you solve this set of LSAT questions)
+Hello everyone!
+
+We are going to be trying something new with warmups. If you go to [this site](https://thewarmup.herokuapp.com/),
+a fresh artisanal warmup will be generated for you daily.
+
+The formatting is pretty raw, and Redcarpet hates me, so it is not as pretty as it could be.
+
+Please let Mike know if you encounter any issues, and as always, [pull requests accepted](https://github.com/mikedao/the-warm-up).
 
 ### Mathias from Schoolrunner (4:10 - 5:00)
 
