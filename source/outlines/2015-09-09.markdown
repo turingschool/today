@@ -14,16 +14,16 @@ GET YER [WARM UPS](https://thewarmup.herokuapp.com/)
 
 ## 1503
 
-### Load Testing and Production Performance Modelling (9:00 - 12:00)
+### Advanced ActiveRecord -- Query Optimization (9:00 - 12:00)
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
+Join Horace in Classroom C to talk about optimizing ActiveRecord queries.
 
-Classroom C.
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
 
 ### Scale Up Work Time (1:00 - 4:00)
 
-Get ye to scaling them ups.
-
+Keep working on your projects. By the end of today you should have your app
+in production, have the DB seeded, and have some of your load scripts written.
 
 ## 1505
 
