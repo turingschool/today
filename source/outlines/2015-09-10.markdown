@@ -16,12 +16,19 @@ and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
 
 Find the sum of the digits in the number 100!
 
-
 ## 1503
 
-### Arel and Advanced ActiveRecord (9:00 - 12:00)
+### Fragment Caching (9:00 - 10:30)
 
-Earn your OWL in ActiveRecord this morning.
+Join Horace in Classroom C to discuss caching markup in Rails.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown)
+
+### Data Caching (10:30 - 12:00)
+
+Now talk about another approach to caching data.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/caching_data.markdown)
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
