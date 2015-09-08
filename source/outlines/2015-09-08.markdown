@@ -205,8 +205,35 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 * 11:00 - Marlo Major
 * 11:30 - Matthew Rooney
 
-### All: Dynamics (1:00 - 1:30)
+### All: Dynamics (1:00 - 1:40)
 
-### All: Project Post Mortem (1:30 - 2:30)
+Meet with Jeff in the Big Workspace.
 
-### All: Starting Enigma and Linked Lists (2:30 - 4:00)
+### All: Project Post Mortem (1:40 - 2:00)
+
+Continue with Jeff in the Big Workspace to discuss strategy for your
+next projects.
+
+### All: Starting Night Writer and Linked Lists (2:30 - 4:00)
+
+Finally we'll kick off your next projects!
+
+#### Echo - Night Writer
+
+Meet up in Classroom A where you'll:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Josh Cheek asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
+
+#### Foxtrot - Classroom B
+
+Meet up in Classroom B where you'll find Mike at first and Horace later. Your should:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Horace asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
