@@ -135,6 +135,8 @@ Even though this project is individual, you can ask each other questions and col
 
 ### Traffic Spy Evaluations and Project Worktime (9:00 - 11:00)
 
+Please fill out the following [form](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1uk-jdXv0DidF5zxY-mW8FBASeYFxGJgM5mlGlou3-xM/edit?usp=sharing) for each of your group members.
+
 #### With Josh
 
 * 9:00 - Regis and David and Jerrod
@@ -149,8 +151,11 @@ Even though this project is individual, you can ask each other questions and col
 
 ### Talkin' 'Bout Feelings (11:00 - 12:00)
 
+With your Traffic Spy group, work through the `Group Reflection` section [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feelings.markdown).
+
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown)
 
 ## 1508
 
@@ -217,7 +222,7 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 * 10:00 - Emily Dowdle
 * 10:20 - Sekhar Paladugu
 * 10:40 - Nicole Hall
-* 11:00 - Jhun de Andres
+* 11:00 - Amber Crawford
 * 11:20 - Jill Donohue
 * 11:40 - John Slota
 
@@ -225,13 +230,40 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 
 * 9:00 - Penney Garrett
 * 9:20 - Edgar Duran
-* 9:40 - Amber Crawford
+* 9:40 - Jhun de Andres
 * 10:00 - Aaron Careaga
 * 10:20 - Marlo Major
 * 10:40 - Matthew Rooney
 
-### All: Dynamics (1:00 - 1:30)
+### All: Dynamics (1:00 - 1:40)
 
-### All: Project Post Mortem (1:30 - 2:30)
+Meet with Jeff in the Big Workspace.
 
-### All: Starting Enigma and Linked Lists (2:30 - 4:00)
+### All: Project Post Mortem (1:40 - 2:00)
+
+Continue with Jeff in the Big Workspace to discuss strategy for your
+next projects.
+
+### All: Starting Night Writer and Linked Lists (2:30 - 4:00)
+
+Finally we'll kick off your next projects!
+
+#### Echo - Night Writer
+
+Meet up in Classroom A where you'll:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Josh Cheek asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
+
+#### Foxtrot - Classroom B
+
+Meet up in Classroom B where you'll find Mike at first and Horace later. Your should:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Horace asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
