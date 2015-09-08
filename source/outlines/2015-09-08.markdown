@@ -135,12 +135,15 @@ Even though this project is individual, you can ask each other questions and col
 
 ### Traffic Spy Evaluations and Project Worktime (9:00 - 11:00)
 
-Schedule TBA
+Please fill out the following [form](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1uk-jdXv0DidF5zxY-mW8FBASeYFxGJgM5mlGlou3-xM/edit?usp=sharing) for each of your group members.
 
 ### Talkin' 'Bout Feelings (11:00 - 12:00)
 
+With your Traffic Spy group, work through the `Group Reflection` section [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feelings.markdown).
+
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown)
 
 ## 1508
 
