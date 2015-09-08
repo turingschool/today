@@ -137,6 +137,18 @@ Even though this project is individual, you can ask each other questions and col
 
 Please fill out the following [form](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1uk-jdXv0DidF5zxY-mW8FBASeYFxGJgM5mlGlou3-xM/edit?usp=sharing) for each of your group members.
 
+#### With Josh
+
+* 9:00 - Regis and David and Jerrod
+* 9:30 - Travis and Matt and Adam
+* 10:00 - Jeff and Alon and Michael and Mimi
+* 10:30 - Rose and Ryan and Matt and Russell
+
+#### With Mike
+
+* 9:00 - Bret and Justin and Justin
+* 9:30 - Mary and George and Chris
+
 ### Talkin' 'Bout Feelings (11:00 - 12:00)
 
 With your Traffic Spy group, work through the `Group Reflection` section [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feelings.markdown).
@@ -202,7 +214,7 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 * 10:00 - Emily Dowdle
 * 10:20 - Sekhar Paladugu
 * 10:40 - Nicole Hall
-* 11:00 - Jhun de Andres
+* 11:00 - Amber Crawford
 * 11:20 - Jill Donohue
 * 11:40 - John Slota
 
@@ -210,7 +222,7 @@ You're not abandoning your partner to work on your project that was due at 9AM, 
 
 * 9:00 - Penney Garrett
 * 9:20 - Edgar Duran
-* 9:40 - Amber Crawford
+* 9:40 - Jhun de Andres
 * 10:00 - Aaron Careaga
 * 10:20 - Marlo Major
 * 10:40 - Matthew Rooney
