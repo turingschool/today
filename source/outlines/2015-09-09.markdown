@@ -57,7 +57,7 @@ Big Workspace
 * 2:15 - Dave Maurer
 * 2:30 - Jack Yeh
 * 2:45 - Tyler Graham
-* 3:00 - Michael Merrill 
+* 3:00 - Michael Merrill
 * 3:15 - Dmitry Vizersky
 * 3:30 - Michael Dorrance
 
@@ -70,16 +70,16 @@ Classroom B.
 
 ### Rails Basics Work Time (1:00 - 4:00)
 
-Mike AND Tess are available for your question asking. 
+Mike AND Tess are available for your question asking.
 
 
 ## 1508
 
-### All: Character Count (9:00 - 10:30)
+### All: Testing Strategies (9:00 - 10:30)
 
 Classroom A.
 
-### All: Testing Strategies (10:30 - 12:00)
+### All: Character Count (10:30 - 12:00)
 
 Classroom A.
 
