@@ -258,7 +258,7 @@ Finally we'll kick off your next projects!
 
 Meet up in Classroom A where you'll:
 
-* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Spend 30 minutes pre-reading to understand context. Read [this](https://en.wikipedia.org/wiki/Night_writing), [this](https://en.wikipedia.org/wiki/Braille), and [this project assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown).
 * Get together with the pair below for 15 minutes and explain the project to each other.
 What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
 * Spend a few minutes all together with Josh Cheek asking your questions about strategy and potential pitfalls
