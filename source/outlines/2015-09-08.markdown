@@ -12,6 +12,11 @@ Today, in 1966, Star Trek airs for the first time on NBC.
 
 [Can you solve this set of LSAT problems?](Can you solve this set of LSAT questions)
 
+### Mathias from Schoolrunner (4:10 - 5:00)
+
+Our friend Mathias from [Schoolrunner](https://home.schoolrunner.org/) will be in
+Classroom A after wrapup to tell you a bit about the company. If you're interested in Denver and educational technology, you should be there!
+
 ## 1503
 
 ### Production Load Scripting with Capybara (9:00 - 9:30)
@@ -136,13 +141,45 @@ Schedule TBA
 
 While you are not being evaluated, you will be working on pairing exercises.
 
-### Echo: BST Evaluations (9:00 - 12:00
+### Echo: BST Evaluations (9:00 - 12:00)
 
-Schedule TBA
+#### With Sean
+
+* 9:00 - Robert Lane
+* 9:30 - Torie Joy-Warren
+* 10:00 - Matt Stjernholm
+* 10:30 - Tyler Komoroske
+* 11:00 - Ross Edfort
+* 11:30 - Charissa Lawrence
+
+#### With Josh Cheek
+
+* 9:00 - Shannon Paige
+* 9:30 - Ryan Johnson
+* 10:00 - Chad Minnerath
+* 10:30 - John Senft
+* 11:00 - Jason Pilz
+* 11:30 - Patrick Wey
 
 ### Foxtrot: Chisel Evaluations (9:00 - 12:00)
 
-Schedule TBA
+#### With Mike
+
+* 9:00 - Emily Dowdle
+* 9:30 - Sekhar Paladugu
+* 10:00 - Nicole Hall
+* 10:30 - Jhun de Andres
+* 11:00 - Jill Donohue
+* 11:30 - John Slota
+
+#### With Tess
+
+* 9:00 - Penney Garrett
+* 9:30 - Edgar Duran
+* 10:00 - Amber Crawford
+* 10:30 - Aaron Careaga
+* 11:00 - Marlo Major
+* 11:30 - Matthew Rooney
 
 ### All: Dynamics (1:00 - 1:30)
 
