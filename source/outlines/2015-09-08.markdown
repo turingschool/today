@@ -88,8 +88,8 @@ git clone https://github.com/turingschool-examples/secretic.git getting_started_
 
 The materials for this class are:
 
-* [Notes](https://www.dropbox.com/s/7g33so0ltzuuhdd/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
-* [Slides](https://www.dropbox.com/s/zu2gifw3jz67r57/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
+* [Notes](https://www.dropbox.com/s/r9dgd9fi3xdiz4w/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/zuiqpkwih00d1hy/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown#L605)
 * The video will be posted after the session.
 
@@ -103,7 +103,7 @@ In this lesson, you'll learn about this particular data format, its structure, a
 
 The materials for this class are:
 
-* [Slides](https://www.dropbox.com/s/z68rpgrrojqn96k/Turing%20-%20JSON%20Fundamentals.key?dl=0)
+* [Slides](https://www.dropbox.com/s/y9lesby67su8e3w/Turing%20-%20JSON%20Fundamentals.key?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
 * The video will posted after the session.
 
