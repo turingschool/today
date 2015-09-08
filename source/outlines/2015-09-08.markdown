@@ -141,6 +141,30 @@ Schedule TBA
 
 While you are not being evaluated, you will be working on pairing exercises.
 
+#### Pairings
+
+* Robert & Shannon
+* Torie & Ryan
+* Matt S & Chad
+* Tyler & John Senft
+* Ross & Jason
+* Charissa & Patrick
+* Emily & Penney
+* Sekhar & Edgar
+* Nicole & Amber
+* Jhun & Aaron
+* Jill & Marlo
+* John Slota & Matthew Rooney
+
+#### Activity
+
+You've likely setup Exercism. You've intended to work on Exercism.
+You've procrastinated on Exercism. You've been scared to submit a solution.
+
+Let's get over that hump. On one of your computers you should pair together and complete at least one entire Exercism exercise, including submitting your solution. Ideally Exercisms would take about an hour, so if you're really clicking you could get two submitted this morning.
+
+You're not abandoning your partner to work on your project that was due at 9AM, right? RIGHT? :)
+
 ### Echo: BST Evaluations (9:00 - 12:00)
 
 #### With Sean
