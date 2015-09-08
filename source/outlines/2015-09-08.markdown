@@ -250,11 +250,7 @@ Meet with Jeff in the Big Workspace. Gather into these groups below:
 Continue with Jeff in the Big Workspace to discuss strategy for your
 next projects.
 
-### All: Starting Night Writer and Linked Lists (2:30 - 4:00)
-
-Finally we'll kick off your next projects!
-
-#### Echo - Night Writer
+### Echo - Night Writer (2:30 - 4:00)
 
 Meet up in Classroom A where you'll:
 
@@ -264,12 +260,30 @@ What kind of components will you build? What will the program flow be like? What
 * Spend a few minutes all together with Josh Cheek asking your questions about strategy and potential pitfalls
 * Say thanks/goodbye to your pair and get to work on your own
 
-#### Foxtrot - Classroom B
+#### Pairings
+
+* Ross Edfort & Jason Pilz
+* Torie Joy-Warren & Charissa Lawrence
+* Shannon Paige & Chad Minnerath
+* Matt Stjernholm & John Senft
+* Tyler Komoroske & Ryan Johnson
+* Robert Lane & Patrick Wey
+
+### Foxtrot - Jungle Beat (2:30 - 4:00)
 
 Meet up in Classroom B where you'll find Mike at first and Horace later. Your should:
 
-* Spend 30 minutes pre-reading to understand context. Read [this](), [this](), and [this project assignment]().
+* Spend 30 minutes pre-reading to understand context. Read [this](http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_linklist.aspx), [watch this](https://www.youtube.com/watch?v=oiW79L8VYXk), and [this project assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown).
 * Get together with the pair below for 15 minutes and explain the project to each other.
 What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
 * Spend a few minutes all together with Horace asking your questions about strategy and potential pitfalls
 * Say thanks/goodbye to your pair and get to work on your own
+
+#### Pairings
+
+* Aaron Careaga & Marlo Major
+* Penney Garrett & Amber Crawford
+* Jill Donohue & John Slota
+* Sekhar Paladugu & Nicole Hall
+* Jhun de Andres & Matthew Rooney
+* Emily Dowdle & Edgar Duran
