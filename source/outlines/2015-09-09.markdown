@@ -9,15 +9,7 @@ Happy Birthday, Sega Dreamcast!
 
 ### Warm Up (8:30 - 9:00)
 
-Look at the text for [The Cat in the Hat](https://gist.github.com/stevekinney/d60c17fdcfb258f6d416).
-
-* Can you parse it to figure out how many times each word appears in the story?
-* Which word appears the most?
-* How many words are there in total?
-* Did you consider capitalization?
-* What about punctuation?
-* What about spacing?
-* Can you solve in JavaScript? Go? C? Assembly?
+GET YER [WARM UPS](https://thewarmup.herokuapp.com/)
 
 
 ## 1503
@@ -26,36 +18,76 @@ Look at the text for [The Cat in the Hat](https://gist.github.com/stevekinney/d6
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
 
+Classroom C.
+
 ### Scale Up Work Time (1:00 - 4:00)
+
+Get ye to scaling them ups.
 
 
 ## 1505
 
 ### Consuming APIs (9:00 - 12:00)
 
+Big Workspace
+
 ### Project Check-Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBA
+#### With Jorge
+
+* 1:00 - Marla Brizel
+* 1:15 - Sebastian Abaondano
+* 1:30 - David Shim
+* 1:45 - Max Millington
+* 2:00 - Alex Tideman
+* 2:15 - Lovisa Svallingson
+* 2:30 - Jai Misra
+* 2:45 - Adam Caron
+* 3:00 - Drew Conly
+* 3:15 - Mitch Ashby
+* 3:30 - Samson Brock
+
+#### With Andrew
+
+* 1:00 - Mike Reeves
+* 1:15 - Jason Wright
+* 1:30 - Rick Bacci
+* 1:45 - Erik Butcher
+* 2:00 - Rob Cornell
+* 2:15 - Dave Maurer
+* 2:30 - Jack Yeh
+* 2:45 - Tyler Graham
+* 3:00 - Michael Merrill 
+* 3:15 - Dmitry Vizersky
+* 3:30 - Michael Dorrance
 
 
 ## 1507
 
 ### Migrations, Databases, Relationships and Models (9:00 - 12:00)
 
+Classroom B.
+
 ### Rails Basics Work Time (1:00 - 4:00)
 
-Mike AND Tess are available for your question asking.
+Mike AND Tess are available for your question asking. 
 
 
 ## 1508
 
 ### All: Character Count (9:00 - 10:30)
 
+Classroom A.
+
 ### All: Testing Strategies (10:30 - 12:00)
+
+Classroom A.
 
 ### All: Work Time (1:00 - 4:00)
 
+Do the things.
+
 ### Echo: Enigma Client Meeting (3:30 - 4:00)
 
-
+Find Jeff at the Classroom A Mega Table.
 
