@@ -135,7 +135,7 @@ Even though this project is individual, you can ask each other questions and col
 
 ### Traffic Spy Evaluations and Project Worktime (9:00 - 11:00)
 
-Please fill out the following [form](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1uk-jdXv0DidF5zxY-mW8FBASeYFxGJgM5mlGlou3-xM/edit?usp=sharing) for each of your group members.
+Please fill out the following [form](http://goo.gl/forms/1HBhFK1U4m) for each of your group members.
 
 #### With Josh
 
@@ -158,6 +158,14 @@ With your Traffic Spy group, work through the `Group Reflection` section [here](
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown)
 
 ## 1508
+
+### Homework:
+
+* Find Penney, say "this one's for you", and give her a hug. If it turns out you needed a hug, too, you can instead say "thanks, I needed that".
+* Go through [Blowing Bubbles](https://github.com/JoshCheek/1508/blob/master/katas/blowing_bubbles_part1.rb) part 1,
+  here is [the video](https://vimeo.com/137837006), if you want to go through it with me.
+  If you want to get extra value from it, go through it a second time without the video
+  (if you need to, maybe take notes when you watch it so that you can do this).
 
 ### All: Pairing Exercises (9:00 - 12:00)
 
