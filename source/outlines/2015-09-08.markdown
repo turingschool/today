@@ -91,7 +91,7 @@ The materials for this class are:
 * [Notes](https://www.dropbox.com/s/r9dgd9fi3xdiz4w/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
 * [Slides](https://www.dropbox.com/s/zuiqpkwih00d1hy/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown#L605)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/138671741)
 
 Meet Jorge in Classroom B.
 
