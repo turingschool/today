@@ -104,7 +104,25 @@ Classroom A.
 
 ### All: Character Count (10:30 - 12:00)
 
-Classroom A.
+Stay with Josh in classroom A.
+
+First, take five minutes to [read the Character Count challenge](https://github.com/turingschool/challenges/blob/master/character_count.markdown)
+
+Second, get together with a person near you spend 15 minutes brainstorming:
+
+* What things/ideas/tools have you used before will be useful for this problem?
+* What would a trivial input be like? Minimum work? Minimum work +1?
+* How would you structure a test that, if it passes, you know you're done?
+* What kind of edge cases might you run into?
+* Is there anything ambiguous about the challenge itself?
+* Can you write out a logical flow for the algorithm in English?
+
+Third, work by yourself for forty minutes to implement it stopping at 10:30.
+
+Fourth, spend 10 minutes comparing solutions with your previous pair. Did you
+run into the same snags? Make the same progress?
+
+Last, let's spend about 15 minutes looking at a few individual solutions.
 
 ### All: Work Time (1:00 - 4:00)
 
