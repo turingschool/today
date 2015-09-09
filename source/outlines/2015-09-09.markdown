@@ -25,6 +25,10 @@ Join Horace in Classroom C to talk about optimizing ActiveRecord queries.
 Keep working on your projects. By the end of today you should have your app
 in production, have the DB seeded, and have some of your load scripts written.
 
+### Homework - ActiveRecord Challenges
+
+Tonight, solve these [ActiveRecord Challenges](https://gist.github.com/worace/fa6b9b0e7b8a5d4889fd) using the Storedom project.
+
 ## 1505
 
 ### Consuming APIs (9:00 - 12:00)
