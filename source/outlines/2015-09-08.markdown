@@ -105,7 +105,7 @@ The materials for this class are:
 
 * [Slides](https://www.dropbox.com/s/y9lesby67su8e3w/Turing%20-%20JSON%20Fundamentals.key?dl=0)
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
-* The video will posted after the session.
+* [Video](https://vimeo.com/138705059)
 
 Meet Jorge in Classroom B.
 

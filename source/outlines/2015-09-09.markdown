@@ -29,6 +29,19 @@ in production, have the DB seeded, and have some of your load scripts written.
 
 ### Consuming APIs (9:00 - 12:00)
 
+Learn how to consume data from external services in this app.
+
+For this session, you will need to clone the class repo using the following command:
+
+```
+git clone https://github.com/turingschool-examples/schoolist.git schoolist
+```
+
+The materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/h2i0kyp8px2qnb4/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
+* The Video will be posted after the session.
+
 Big Workspace
 
 ### Project Check-Ins and Project Work Time (1:00 - 4:00)
