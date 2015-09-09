@@ -3,7 +3,7 @@ title: 20150903
 layout: outline
 ---
 
-Happy Birthday Charlie Sheen!
+Happy Birthday Charlie Sheen! Ick.
 
 ## All
 
@@ -15,65 +15,197 @@ Time for Today's [Logic Problem](http://cl.ly/3W390s2H2H0m)
 
 This is a thing.
 
-
 ## 1503
 
-### Intracohort Check Ins (9:00 - 10:00)
+### Project Work Time (9:00 - 12:00)
 
-### Project Work Time (10:00 - 12:00)
+Continue working on your games. Most of your projects
+have delivered a solid proof of concept and figured out
+solutions for the games' logic problems.
 
+Now we need to do a lot of testing, refactoring, and polishing.
+
+Horace will be available for questions and troubleshooting.
+
+### Design Fundamentals (1:00 - 2:00)
+
+Meet Noelia in Classroom C for a session to build up your design fundamentals.
+
+### Intra-Cohort Check-Ins (2:00 - 3:00)
+
+Let's get together with the cohort to give a
+quick demo of our projects thus far. The purpose
+of this session is to solicit feedback on design
+and playability, and to brainstorm any last features
+we'd like to add going into the weekend.
+
+* 2:00 - 2:10 -- Drew & Josh
+* 2:10 - 2:20 -- Whitney & Sally
+* 2:20 - 2:30 -- Vanessa & Max
+* 2:30 - 2:40 -- Margarett & Justin
+* 2:40 - 2:50 -- Morgan & Brett
 
 ## 1505
 
 ### Project Work Time (9:00 - 12:00)
 
-Put those finishing touches on your Pivots.
+Add the final touches to your app. Make sure that you have refactored, improved your test coverage, and cleaned up the UX.
+
+You can find the evaluation criteria [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown#evaluation).
+
+Remember that your apps need to be working on Heroku to be evaluated.
 
 ### Pivot Evaluations (1:00 - 4:00)
 
-The moment of truth. Your projects had better be on Heroku!
+#### Product Evaluations with Jorge
 
-Schedule TBA.
+* 1:00 - Marla, Lovisa, Dmitry
+* 1:20 - Tyler, Jai, Mike, Michael
+* 1:40 - Jack, Adam, Dave
+* 2:00 - Sebastian, Max, Alex
+* 2:20 - Michael, Rob, Mitch
+* 2:40 - Samson, David, Jason
+* 3:00 - Rick, Erik, Drew
 
-### Internal Demo (4:00 - 5:00)
+#### Technical Evaluations with Sean Griffin
 
-Schedule TBA
+For your technical evaluations, please have [SimpleCov](https://github.com/colszowka/simplecov) installed and configured.
 
+* 1:20 - Marla, Lovisa, Dmitry
+* 1:40 - Tyler, Jai, Mike, Michael
+* 2:00 - Jack, Adam, Dave
+* 2:20 - Sebastian, Max, Alex
+* 2:40 - Michael, Rob, Mitch
+* 3:00 - Samson, David, Jason
+* 3:20 - Rick, Erik, Drew
+
+### Internal Demo (4:10 - 5:00)
+
+* 4:10 - Marla, Lovisa, Dmitry
+* 4:15 - Rick, Erik, Drew
+* 4:20 - Jack, Adam, Dave
+* 4:25 - Sebastian, Max, Alex
+* 4:30 - Michael, Rob, Mitch
+* 4:35 - Samson, David, Jason
+* 4:40 - Tyler, Jai, Mike, Michael
 
 ## 1507
 
 ### Traffic Spy Check Ins (9:00 - 12:00)
 
-Schedule TBA
+* 9:00 - Regis Boudinot & David Stinnette & Jerrod Paul Junker
+* 9:30 - Mary Beth Burch & George Hudson & Chris Cenatiempo
+* 10:00 - Bret Doucette & Justin Holzmann & Justin Pease
+* 10:30 - Travis Haby & Matt Hecker & Adam Jensen
+* 11:00 - Jeff Ruane & Alon Waisman & Michael Wong & Mimi Schatz
+* 11:30 - Rose Kohn & Ryan Asensio & Matt Ewell & Russell Harms
 
 ### Project Work Time (1:00 - 4:00)
 
 Mike will be available for your questions.
 
 
-## 1508
+## 1508 - Echo
 
-### Foxtrot: Fibber and POODR Recaps (9:00 - 10:00)
+### Linked List Evaluations & Sorting Redux (9:00 - 12:00)
 
-### Foxtrot: Starting Mythical Creatures (10:00 - 10:30)
+First, find you evaluation appointment below and make sure you're there on time.
 
-### All: Week 2 Diagnostic (10:30 - 11:30)
+The project is due at 9AM. So when you're not in your eval you're *not* working
+on your project. RIGHT?
 
-### All: Week 2 Diagnostic Recap (11:30 - 12:00)
+Instead, mash up your last two projects. Can you revise your Sorting Suite algorithms
+to make use of your Linked List instead of any internal arrays? Insertion Sort is
+particularly cool. Get together with your classmates about 11:00 and compare progress.
 
-### Echo: Linked List Evaluations
+The [original Linked List assignment/rubric is here](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown).
 
-### Foxtrot: Testing Mastermind (1:00 - 3:30)
+#### With Josh Cheek
 
-### Foxtrot: Mastermind Feedback (3:30 - 4:00)
+* 9:00 - Charissa Lawrence
+* 9:30 - Patrick Wey
+* 10:00 - Robert Lane
+* 10:30 - Tyler Komoroske
 
-### Echo: How Binary Search Trees Work (1:00 - 2:30)
+#### With Tess Griffin
+
+* 9:00 - Matt Stjernholm
+* 9:30 - John Senft
+* 10:00 - Ryan Johnson
+* 10:30 - Shannon Paige
+
+#### With Sean Griffin
+
+* 9:00 - Ross Edfort
+* 9:30 - Torie Joy-Warren
+* 10:00 - Jason Pilz
+* 10:30 - Chad Minnerath
+
+### How Binary Search Trees Work (1:00 - 2:30)
+
+Join Josh Cheek in Classroom A where he'll introduce Binary Search Trees.
 
 ### Echo: Project Work Time (2:30 - 4:00)
 
 Mike will be on hand for questions.
 
+## 1508 - Foxtrot
 
+### Week 2 Diagnostic & Recap (9:00 - 10:30)
 
+Start this morning in Classroom A with Jeff where you'll first work on the
+Week 2 diagnostic, then follow up with a review.
 
+### Starting Mythical Creatures (10:30 - 12:00)
 
+Next up it's time for some solo work focused on objects, methods, and testing.
+Jeff will kick you off and you'll dive into the [Mythical Creatures](https://github.com/turingschool/ruby-exercises). Ideally you should
+finish Mythical Creatures by Wednesday. It's a little lower priority than your
+Chisel project.
+
+### Testing Mastermind (1:00 - 4:00)
+
+Ages ago you created a thing called Mastermind. At the time, you didn't really
+know how to create objects. You didn't really know how to write tests.
+
+Do you now?
+
+Get together with the pair below:
+
+* John Slota & Jhun de Andres
+* Jill Donohue & Emily Dowdle
+* Edgar Duran & Penney Garrett
+* Matthew Rooney & Nicole Hall
+* Marlo Major & Amber Crawford
+* Aaron Careaga & Sekhar Paladugu
+
+Then you should:
+
+* Pick one of your two mastermind projects. Ideally the one that works the best
+(from the outside), though the state of the internal code isn't super important.
+* Find a piece of functionality that could be extracted out to an object and
+tested
+* Build it with tests and make use of the new object from the original code
+* See if you can keep the game working the whole time
+
+Struggling with ideas? Some of the first things you might extract include:
+
+* A `CodeGenerator` class which is responsible for generating your secret code
+* A `Printer` class which is responsible for printing all the various messages
+* A `GuessComparator` class which takes a guess, code, and generates feedback
+
+Work on it until 3:30 then gather back in Classroom A to share some of your work.
+
+## Pairing Sessions
+
+### With Blithe
+
+* 9:00 - (Adam Jensen)
+* 10:30 - John Slota
+* 1:00 - Jill Donohue
+* 2:30 - Josh Cheek
+
+### With Noelia
+
+* 9:00 - ( Your Name Here )
+* 10:00 - ( Your Name Here )

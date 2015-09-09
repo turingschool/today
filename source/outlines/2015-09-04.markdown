@@ -1,0 +1,130 @@
+---
+title: 20150904
+layout: outline
+---
+
+Today is Shania Twain's birthday.
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+No survey, no breakfast.
+
+* [1503 Survey](http://goo.gl/forms/XUGhojm1MJ)
+* [1505 Survey](http://goo.gl/forms/kNa5B9R1sZ)
+* [1507 Survey](http://goo.gl/forms/ZsT1A2JdfT)
+* [1508 Survey](http://goo.gl/forms/3oOZMjsRuh)
+
+### Lightning Talks (9:00 - 10:00)
+
+* Sally MacNicholas
+* Drew Conly
+* Alon Waisman
+* Lovisa Svallingson
+* Matt Hecker
+* Justin Pease
+
+### Gear Up (10:00 - 11:00)
+
+We're going to work on [this exercise](https://github.com/turingschool/gear-up/blob/master/passionate%20programmer%20-%20invest%20in%20your%20intelligence.markdown) but you'll have printed copies to help you focus. Even for the writing portions, please use your notebook/paper.
+
+#### Working Groups
+
+* Adam Caron & David Stinnette & Torie Warren & Alon Waisman
+* Morgan Miller & Pat Wey & Emily Dowdle & Lovisa Svallingson
+* Alex Tideman & Dmitry Vizersky & Sally MacNicholas & Samson Brock
+* Jason Pilz & Matt Ewell & Russell Harms & Whitney Hiemstra
+* Chad Minnerath & Rob Cornell & Mimi Schatz & Aaron Careaga
+* Sebastian Abondano & Erik Butcher & Jhun de Andres & Michael Dorrance
+* Max Tedford & Justin Pease & Jeff Ruane & Drew Reynolds
+* Jai Misra & Max Millington & Travis Haby & Drew Conly
+* Ryan Johnson & Jerrod Paul Junker & Mary Beth Burch & Margarett Ly
+* John Slota & David Shim & Adam Jensen & Tyler Komoroske
+* Michael Wong & Tyler Graham & Justin Holzmann & Ryan Asensio
+* Charissa Lawrence & Edgar Duran & Matt Stjernholm & Justin Holmes
+* Matt Rooney & Jack Yeh & Penney Garrett & Jill Donohue
+* Robbie Lane & Chris Cenatiempo & Sekhar Paladugu & Josh Cass
+* Regis Boudinot & Marlo Major & Vanessa Gomez & Rose Kohn
+* Nicole Hall & Matt Hecker & John Senft & Brett Grigsby
+* Dave Maurer & Mike Reeves & Jason Wright & Bret Doucette
+* Michael Merrill & Ross Edfort & Amber Crawford & Mitch Ashby
+* George Hudson & Shannon Paige & Rick Bacci & Marla Brizel
+
+### Guest Speaker (11:00 - 12:00)
+
+This morning we'll chat with our friend Dr. Blithe Rocher. Some interesting
+things about Blithe include:
+
+* [Her Twitter](https://twitter.com/Blithe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Her Blog/Site](http://blitherocher.com/)
+* [Her LinkedIn](https://www.linkedin.com/in/blitherocher)
+* [Her Instagram](https://instagram.com/therealblithe/)
+
+### Group Retro (1:00 - 2:00)
+
+* 1503 - Classroom C with Jeff and Blithe and Daisha
+* 1505 - Classroom B with Jorge and Noelia
+* 1507 - Big Workspace with Mike
+* 1508 - Classroom A with Josh Cheek
+
+### Student Lead Sessions / Electives (2:00 - 4:00)
+
+* Adam Caron - [Note-taking Prowess with PivotalTracker](https://gist.github.com/adamcaron/8e1efa6c34120326a111) - Classroom C
+* Josh Cass - [Q / A Session With the Master](https://gist.github.com/joshcass/f0ef83423a76f6a46085) - Classroom B
+* Mark Reeves Older Brother - Whiteboarding Continued! - in Classroom A
+* Andrew from Thoughtbot returns for another session on Design in Big Workspace
+
+### Guest Speaker: Rachel Cope (2:00 - 3:00)
+
+Design thinking
+
+### One on Ones (3:00 - 4:00)
+
+#### With Jeff
+
+* 3:00 - Alon Waisman
+* 3:15 - Justin Pease
+* 3:30 - Erik Butcher
+* 3:45 - Drew Reynolds
+
+#### With Josh Cheek
+
+* 3:00 - Russell Harms
+* 3:15 - Jerrod Paul Junker
+* 3:30 - Justin Holzmann
+* 3:45 - Jeff Ruane
+
+#### With Mike
+
+* 3:00 - Adam Jensen
+* 3:15 - Michael Merrill
+* 3:30 - David Stinnette
+* 3:45 - George Hudson
+
+
+#### With Jorge
+
+* 3:00 - Rick Bacci
+* 3:15 - Dmitry Vizersky
+* 3:30 - Dave Maurer
+* 3:45 - Matt Hecker
+
+#### With Daisha
+
+* 3:00 - Michael Dorrance
+* 3:15 - Mike Reeves
+* 3:30 - Jason Wright
+
+#### With Blithe
+
+* 3:00 - Margarett Ly
+* 3:15 - Jack Yeh
+* 3:30 - Chris Cenatiempo
+
+
+#### With Noelia
+
+* 3:15 - Josh Cass
+* 3:30 - Whitney Hiemstra
+* 3:45 - Vanessa Gomez

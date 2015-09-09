@@ -10,61 +10,280 @@ Today, in 1966, Star Trek airs for the first time on NBC.
 
 ### Warm Up (8:30 - 9:00)
 
-[Can you solve this set of LSAT problems?](Can you solve this set of LSAT questions)
+Hello everyone!
 
+We are going to be trying something new with warmups. If you go to [this site](https://thewarmup.herokuapp.com/),
+a fresh artisanal warmup will be generated for you daily.
+
+The formatting is pretty raw, and Redcarpet hates me, so it is not as pretty as it could be.
+
+Please let Mike know if you encounter any issues, and as always, [pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Mathias from Schoolrunner (4:10 - 5:00)
+
+Our friend Mathias from [Schoolrunner](https://home.schoolrunner.org/) will be in
+Classroom A after wrapup to tell you a bit about the company. If you're interested in Denver and educational technology, you should be there!
 
 ## 1503
 
+### Production Load Scripting with Capybara (9:00 - 9:30)
+
+Before we dive into Game Time evaluations, join Horace in
+Classroom C to kick off a discussion about production
+user scripting.
+
+After we've started with this discussion, spend the rest of
+the morning working through this
+[Production Load Scripting tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
+with your GameTime pair.
+
+In case you've forgotten who you were working on
+GameTime with, here they are:
+
+__Pairs:__
+
+* Drew & Josh
+* Whitney & Sally
+* Vanessa & Max
+* Margarett & Justin
+* Morgan & Brett
+
 ### Game Time Evaluations (9:00 - 12:00)
 
-Schedule TBA.
+Meet with Horace to evaluate your Game Time projects
+
+* 9:30 - 10:00 -- Whitney & Sally
+* 10:00 - 10:30 -- Vanessa & Max
+* 10:30 - 11:00 -- Margarett & Justin
+* 11:00 - 11:30 -- Morgan & Brett
+* 11:30 - 12:00 -- Drew & Josh
 
 ### Rails Performance Analysis (1:00 - 2:00)
 
+Join Horace in Classroom C to talk about using NewRelic to
+monitor Rails Application Performance.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/performance_analysis_with_newrelic.markdown)
+
 ### The Scale Up Kickoff (2:00 - 3:00)
+
+Join Horace in Classroom C to kick off our next project,
+[The Scale Up](https://github.com/turingschool/curriculum/blob/master/source/projects/the_scale_up.markdown)
 
 ### Scale Up Worktime (3:00 - 4:00)
 
+Spend the next hour getting started on your ScaleUp projects
 
 ## 1505
 
 ### Getting Started with OAuth (9:00 - 11:00)
 
+Learn how to authenticate with a third-party service and OAuth.
+
+Before the sessions, please clone the class repo using the following command:
+
+```
+git clone https://github.com/turingschool-examples/secretic.git getting_started_with_oauth
+```
+
+The materials for this class are:
+
+* [Notes](https://www.dropbox.com/s/r9dgd9fi3xdiz4w/Turing%20-%20Getting%20Started%20with%20OAuth%20%28Notes%29.pages?dl=0)
+* [Slides](https://www.dropbox.com/s/zuiqpkwih00d1hy/Turing%20-%20Getting%20Started%20with%20OAuth.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.markdown#L605)
+* [Video](https://vimeo.com/138671741)
+
+Meet Jorge in Classroom B.
+
 ### JSON Fundamentals (11:00 - 12:00)
+
+In the following weeks, you will be reading and providing data in JSON (JavaScript Object Notation), a human and machine readable format used widely for APIs.
+
+In this lesson, you'll learn about this particular data format, its structure, and how to interact with it programmatically.
+
+The materials for this class are:
+
+* [Slides](https://www.dropbox.com/s/y9lesby67su8e3w/Turing%20-%20JSON%20Fundamentals.key?dl=0)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.markdown)
+* [Video](https://vimeo.com/138705059)
+
+Meet Jorge in Classroom B.
 
 ### Apicurious Kickoff (1:00 - 2:30)
 
+In this project, we'll be focusing on consuming and working with data from public APIs.
+
+As a vehicle for learning this concepts, we'll be selecting an API from a popular website and working to re-construct a simplified version of the website's existing UI using their own API. For example, you might decide to use the Twitter API to build a basic version of the Twitter feed where users can view and post tweets.
+
+As we build these features, we'll also be working with the OAuth protocol to authenticate our users with the third-party provider, and using various testing techniques to allow us to test against the third-party data.
+
+You can check the full project description [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md#technical-expectations).
+
+Meet Jorge in Classroom B.
+
 ### Apicurious Work Time (2:30 - 4:00)
 
+Please work on your individual projects. Remember that by the end of today, you should have:
+
+1. Your application deployed and working on Heroku.
+2. Omniauth installed and working.
+3. Your application layout implemented.
+
+Even though this project is individual, you can ask each other questions and collaborate on features. This, however, does not mean that you can copy other people's code.
 
 ## 1507
 
 ### Traffic Spy Evaluations and Project Worktime (9:00 - 11:00)
 
-Schedule TBA
+Please fill out the following [form](http://goo.gl/forms/1HBhFK1U4m) for each of your group members.
+
+#### With Josh
+
+* 9:00 - Regis and David and Jerrod
+* 9:30 - Travis and Matt and Adam
+* 10:00 - Jeff and Alon and Michael and Mimi
+* 10:30 - Rose and Ryan and Matt and Russell
+
+#### With Mike
+
+* 9:00 - Bret and Justin and Justin
+* 9:30 - Mary and George and Chris
 
 ### Talkin' 'Bout Feelings (11:00 - 12:00)
 
+With your Traffic Spy group, work through the `Group Reflection` section [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feelings.markdown).
+
 ### REST, Controllers, and Routing in Rails (1:00 - 4:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
 
 ## 1508
+
+### Homework:
+
+* Find Penney, say "this one's for you", and give her a hug. If it turns out you needed a hug, too, you can instead say "thanks, I needed that".
+* Go through [Blowing Bubbles](https://github.com/JoshCheek/1508/blob/master/katas/blowing_bubbles_part1.rb) part 1,
+  here is [the video](https://vimeo.com/137837006), if you want to go through it with me.
+  If you want to get extra value from it, go through it a second time without the video
+  (if you need to, maybe take notes when you watch it so that you can do this).
 
 ### All: Pairing Exercises (9:00 - 12:00)
 
 While you are not being evaluated, you will be working on pairing exercises.
 
-### Echo: BST Evaluations (9:00 - 12:00
+#### Pairings
 
-Schedule TBA
+Sorry that not all pairs have overlapping review times. I did the best I could! :)
+
+* Shannon & Penney
+* Ryan & Edgar
+* Chad & Jhun
+* John Senft & Emily
+* Aaron & Marlo
+* Jason & Sekhar
+* Patrick & Nicole
+* Robert & Amber
+* Torie & Jill
+* Matt S & John Slota
+* Matthew Rooney & Tyler
+* Ross & Charissa
+
+#### Activity
+
+You've likely setup Exercism. You've intended to work on Exercism.
+You've procrastinated on Exercism. You've been scared to submit a solution.
+
+Let's get over that hump. On one of your computers you should pair together and complete at least one entire Exercism exercise, including submitting your solution. Ideally Exercisms would take about an hour, so if you're really clicking you could get two submitted this morning.
+
+You're not abandoning your partner to work on your project that was due at 9AM, right? RIGHT? :)
+
+### Echo: BST Evaluations (9:00 - 12:00)
+
+#### With Josh Cheek
+
+* 9:00 - Shannon Paige
+* 9:20 - Ryan Johnson
+* 9:40 - Chad Minnerath
+* 10:00 - John Senft
+* 10:20 - Jason Pilz
+* 10:40 - Patrick Wey
+* 11:00 - Robert Lane
+* 11:20 - Torie Joy-Warren
+* 11:40 - Matt Stjernholm
 
 ### Foxtrot: Chisel Evaluations (9:00 - 12:00)
 
-Schedule TBA
+#### With Mike
 
-### All: Dynamics (1:00 - 1:30)
+* 10:00 - Emily Dowdle
+* 10:20 - Sekhar Paladugu
+* 10:40 - Nicole Hall
+* 11:00 - Amber Crawford
+* 11:20 - Jill Donohue
+* 11:40 - John Slota
 
-### All: Project Post Mortem (1:30 - 2:30)
+#### With Tess
 
-### All: Starting Enigma and Linked Lists (2:30 - 4:00)
+* 9:00 - Penney Garrett
+* 9:20 - Edgar Duran
+* 9:40 - Jhun de Andres
+* 10:00 - Aaron Careaga
+* 10:20 - Marlo Major
+* 10:40 - Matthew Rooney
+* 11:00 - Tyler Komoroske
+* 11:20 - Ross Edfort
+* 11:40 - Charissa Lawrence
 
+### All: Dynamics (1:00 - 1:40)
+
+Meet with Jeff in the Big Workspace. Gather into these groups below:
+
+* Jhun de Andres & Chad Minnerath & Jill Donohue & Torie Warren
+* Tyler Komoroske & Pat Wey & Aaron Careaga & Penney Garrett
+* Ross Edfort & Marlo Major & Nicole Hall & Amber Crawford
+* Ryan Johnson & Sekhar Paladugu & Jason Pilz & Matt Stjernholm
+* Matt Rooney & Edgar Duran & Emily Dowdle & Charissa Lawrence
+* Robbie Lane & John Senft & Shannon Paige & John Slota
+
+### All: Project Post Mortem (1:40 - 2:00)
+
+Continue with Jeff in the Big Workspace to discuss strategy for your
+next projects.
+
+### Echo - Night Writer (2:30 - 4:00)
+
+Meet up in Classroom A where you'll:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](https://en.wikipedia.org/wiki/Night_writing), [this](https://en.wikipedia.org/wiki/Braille), and [this project assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown).
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Josh Cheek asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
+
+#### Pairings
+
+* Ross Edfort & Jason Pilz
+* Torie Joy-Warren & Charissa Lawrence
+* Shannon Paige & Chad Minnerath
+* Matt Stjernholm & John Senft
+* Tyler Komoroske & Ryan Johnson
+* Robert Lane & Patrick Wey
+
+### Foxtrot - Jungle Beat (2:30 - 4:00)
+
+Meet up in Classroom B where you'll find Mike at first and Horace later. Your should:
+
+* Spend 30 minutes pre-reading to understand context. Read [this](http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_linklist.aspx), [watch this](https://www.youtube.com/watch?v=oiW79L8VYXk), and [this project assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown).
+* Get together with the pair below for 15 minutes and explain the project to each other.
+What kind of components will you build? What will the program flow be like? What might be more challenging than it appears?
+* Spend a few minutes all together with Horace asking your questions about strategy and potential pitfalls
+* Say thanks/goodbye to your pair and get to work on your own
+
+#### Pairings
+
+* Aaron Careaga & Marlo Major
+* Penney Garrett & Amber Crawford
+* Jill Donohue & John Slota
+* Sekhar Paladugu & Nicole Hall
+* Jhun de Andres & Matthew Rooney
+* Emily Dowdle & Edgar Duran
