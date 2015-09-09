@@ -85,7 +85,7 @@ Remember that for this checkin you should have:
 
 ### Migrations, Databases, Relationships and Models (9:00 - 12:00)
 
-Classroom B.
+Meet in Classroom B where you'll learn all about the [lowest layer of a Rails application](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
 
 ### Rails Basics Work Time (1:00 - 4:00)
 
