@@ -100,7 +100,10 @@ Mike is available for your question asking.
 
 ### All: Testing Strategies (9:00 - 10:30)
 
-Classroom A.
+Classroom A. There is no truth, the truth you make up will manifest for you when you go to use it,
+you need to make a [leap of faith](https://www.youtube.com/watch?v=xFntFdEGgws)!
+Lets see how that looks, and how that fits into our testing to give us guidance as we code.
+We'll approximately follow [this material]9https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/starting_at_the_top_with_an_acceptance_test_to_drive_work_and_tests.markdown)
 
 ### All: Character Count (10:30 - 12:00)
 
