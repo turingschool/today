@@ -44,7 +44,7 @@ git clone https://github.com/turingschool-examples/schoolist.git schoolist
 The materials for this lesson are:
 
 * [Notes](https://www.dropbox.com/s/h2i0kyp8px2qnb4/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
-* The Video will be posted after the session.
+* [Video](https://vimeo.com/138868127)
 
 Big Workspace
 
@@ -100,11 +100,32 @@ Mike is available for your question asking.
 
 ### All: Testing Strategies (9:00 - 10:30)
 
-Classroom A.
+Classroom A. There is no truth, the truth you make up will manifest for you when you go to use it,
+you need to make a [leap of faith](https://www.youtube.com/watch?v=xFntFdEGgws)!
+Lets see how that looks, and how that fits into our testing to give us guidance as we code.
+We'll approximately follow [this material]9https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/starting_at_the_top_with_an_acceptance_test_to_drive_work_and_tests.markdown)
 
 ### All: Character Count (10:30 - 12:00)
 
-Classroom A.
+Stay with Josh in classroom A.
+
+First, take five minutes to [read the Character Count challenge](https://github.com/turingschool/challenges/blob/master/character_count.markdown)
+
+Second, get together with a person near you spend 15 minutes brainstorming:
+
+* What things/ideas/tools have you used before will be useful for this problem?
+* What would a trivial input be like? Minimum work? Minimum work +1?
+* How would you structure a test that, if it passes, you know you're done?
+* What kind of edge cases might you run into?
+* Is there anything ambiguous about the challenge itself?
+* Can you write out a logical flow for the algorithm in English?
+
+Third, work by yourself for forty minutes to implement it stopping at 10:30.
+
+Fourth, spend 10 minutes comparing solutions with your previous pair. Did you
+run into the same snags? Make the same progress?
+
+Last, let's spend about 15 minutes looking at a few individual solutions.
 
 ### All: Work Time (1:00 - 4:00)
 
