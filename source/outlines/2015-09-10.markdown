@@ -47,13 +47,17 @@ For today class, please get an Sunlight Foundation API key [here](http://sunligh
 The class materials are the following:
 
 * [Notes](https://www.dropbox.com/s/jr1j95burs3dz14/Turing%20-%20Testing%20an%20External%20API%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/138901538)
 
 Meet Jorge in the Big Workspace
 
 ### Project Work Time (1:00 - 4:00)
 
-By this point, you should have your main feed built and your user information displayed on your page. You should have the completed features by the end of today. Tomorrow morning,
+By this point, you should have your main feed built and your user information displayed on your page. You should have the completed features by the end of today (your app must be deployed to Heroku).
+
+Tomorrow morning, you should only focus on polishing, refactoring and testing.
+
+**Andrew** will be available for questions.
 
 ## 1507
 
