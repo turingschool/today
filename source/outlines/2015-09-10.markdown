@@ -80,14 +80,60 @@ Classroom A.
 
 ### All: Work Time (10:30 - 12:00)
 
-Mike will be available for questions.
+Andrew will be available for questions.
 
-### All: Protocols for Pairing (1:00 - 2:30)
+### All: Inter-Project Pairing (1:00 - 3:00)
 
-### All: Work Time (2:30 - 4:00)
+This afternoon we're going to twist our pairing plan a little bit. We know
+you're hammering away on your projects due tomorrow, but we still want to build
+up some of your pairing skills.
 
-Mike is again available for questions.
+This afternoon please:
 
-### Echo: Enigma Client Meeting (2:30 - 3:00)
+* Find your pair below
+* Pair on the left person's project for the hour 1-2
+* Pair on the right person's project for the hour 2-3
+* Use a pomodoro timer so each session is two pomodoros
+* Each hour make use of a different protocol briefly described below
 
-What startling developments will come to fruition today?
+#### Protocols
+
+Think of these as a game you're playing that has the side effect of creating some
+code. The game is more important than the code.
+
+* Driver/Navigator: navigator is the primary "thinker" and the driver is the
+primary typist. Don't let the driver think very much, or else the navigator is
+just watching programming. *Alternate every five minutes* or faster. Use a timer.
+* Devil Tester: pair member A starts by writing the first test. Pair member B then
+has to write the implementation that passes the test. B then writes the next test
+and A is responsible for passing it, then writing the next test. If a test can't
+go from red to green in five minutes, it's too big and gets deleted to try again.
+Use a timer.
+* Popcorn: Both your hands stay on the keyboard at all times. In Popcorn, you
+collaborate to write both tests and implementation, but *you write no more than
+one line of code* before switching control. A writes a line, B writes a line, A
+writes a line, etc.
+
+These are meant to be frustrating and feel awkward. Think of it like dance class.
+You can't just show up with someone new and have perfect chemistry. You need to
+get over the awkwardness, get your feet warmed up, and start to anticipate each
+other's thinking and movements.
+
+#### Pairings
+
+* Penney Garrett & Edgar Duran
+* Marlo Major & John Slota
+* Jhun de Andres & Amber Crawford
+* Aaron Careaga & Nicole Hall
+* Emily Dowdle & Sekhar Paladugu
+* Jill Donohue & Matthew Rooney
+* Robert Lane & Shannon Paige
+* Matt Stjernholm & Ross Edfort
+* Patrick Wey & Ryan Johnson
+* Torie Joy-Warren & Jason Pilz
+* Charissa Lawrence & Chad Minnerath
+* Tyler Komoroske to fill in with anyone missing or grab a staff member :)
+
+### All: Work Time (3:00 - 4:00)
+
+Then the rest of the day you're on your own!
