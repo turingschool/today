@@ -24,16 +24,21 @@ Join Horace in Classroom C to discuss caching markup in Rails.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown)
 
+After some initial discussion, you'll be working through [this tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/key_based_caching.markdown).
+
+
 ### Data Caching (10:30 - 12:00)
 
 Now talk about another approach to caching data.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/caching_data.markdown)
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+After some initial discussion you'll be working through
+[this tutorial](http://tutorials.jumpstartlab.com/topics/performance/caching_data.html)
 
-Schedule TBA
+### Project Work Time (1:00 - 4:00)
 
+Scale it up.
 
 ## 1505
 
