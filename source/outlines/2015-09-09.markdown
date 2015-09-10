@@ -44,7 +44,7 @@ git clone https://github.com/turingschool-examples/schoolist.git schoolist
 The materials for this lesson are:
 
 * [Notes](https://www.dropbox.com/s/h2i0kyp8px2qnb4/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
-* The Video will be posted after the session.
+* [Video](https://vimeo.com/138868127)
 
 Big Workspace
 
