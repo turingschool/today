@@ -19,11 +19,13 @@ Today, in 2008, the Large Hadron Collider was turned on.
 We have improv class today, all are welcome.
 
 
-## 1503 
+## 1503
 
 ### JS Blogger Performance Dojo (9:00 - 12:00)
 
 Join Horace in Classroom C.
+
+You'll be working through thist [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown)
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
@@ -77,17 +79,23 @@ Join Josh in Classroom B.
 
 Stay in Classroom B.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_minitest_rspec.markdown)
+
 ### Model Testing, Custom & Built-In Validations (10:30 - 12:00)
 
 More Classroom B time.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
+
 ### Work Time: Model Testing and Validations (1:00 - 3:00)
+
+Work through the following [challenges](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown) on your Beliebery app.
 
 Mike will be available to answer your questions.
 
 ### Contact Manager Kickoff and Work Time (3:00 - 4:00)
 
-So exciting! The best tutorial ever. Whoever wrote this tutorial
+So exciting! [The best tutorial ever](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Whoever wrote this tutorial
 deserves a medal of some sort.
 
 Mike will be available for questions and to discuss the heaviest life questions you have.
@@ -118,7 +126,7 @@ Mike will be available for questions and to discuss the heaviest life questions 
 * 9:30 - Aaron Careaga
 * 10:00 - Emily Dowdle
 * 10:30 - Edgar Duran
-* 11:00 - Sekhar Paladugu 
+* 11:00 - Sekhar Paladugu
 * 11:30 - Matthew Rooney
 
 #### With Jeff
