@@ -27,10 +27,26 @@ Join Horace in Classroom C.
 
 You'll be working through thist [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown)
 
+For the tutorial, work in the following pairs:
+
+* Max Tedford & Brett Grigsby
+* Josh Cass & Vanessa Gomez
+* Morgan Miller & Whitney Hiemstra
+* Margarett Ly & Drew Reynolds
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule to be announced.
+Meet with Horace to check on your ScaleUp progress
+and troubleshoot any issues.
 
+* 1:00 - 1:20 Whitney
+* 1:20 - 1:40 Josh
+* 1:40 - 2:00 Justin
+* 2:00 - 2:20 Vanessa
+* 2:20 - 2:40 Morgan
+* 2:40 - 3:00 Max
+* 3:00 - 3:20 Margarett
+* 3:20 - 3:40 Drew
 
 ## 1505
 
@@ -43,7 +59,7 @@ Work away, make sure that it's working in production.
 #### With Jorge
 
 * 1:00 - Marla Brizel
-* 1:15 - Sebastian Abaondano
+* 1:15 - Sebastian Abondano
 * 1:30 - David Shim
 * 1:45 - Max Millington
 * 2:00 - Alex Tideman
