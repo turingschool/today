@@ -1,0 +1,52 @@
+---
+title: 20150916
+layout: outline
+---
+
+Happy Birthday, [Amy Poehler](https://www.youtube.com/watch?v=j6ldufv8x-8)!
+
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1503
+
+### Pub/Sub on the Server (9:00 - 10:30)
+
+### Building Real-Time Applications in Node (10:30 - 12:00)
+
+### Mastery Project Kickoff (1:00 - 1:30)
+
+### Mastery Project Kickoff (1:30 - 4:00)
+
+
+## 1505
+
+### Project Work Time (9:00 - 4:00)
+
+
+## 1507
+
+### Routing in Rails (9:00 - 10:30)
+
+### Authorization (10:30 - 12:00)
+
+### Mid Module Assessments (1:00 - 4:00)
+
+
+## 1508
+
+### All: Pairing Games (9:00 - 10:00)
+
+### All: Working with Ruby Modules (10:00 - 12:00)
+
+### All: Work Time (1:00 - 4:00)
+
+### Echo: SalesEngine Client Meeting (3:30 - 4:00)
+
