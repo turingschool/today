@@ -119,7 +119,7 @@ can still be learning.
 * Play with a new language you haven't tried before like [Python](https://www.python.org/about/gettingstarted/) or [PHP](http://php.net/manual/en/tutorial.php).
 
 
-#### With Andrew
+#### With Jeff
 
 * 9:00 - Ryan Johnson
 * 9:30 - Patrick Wey
@@ -147,7 +147,7 @@ can still be learning.
 * 11:00 - Sekhar Paladugu
 * 11:30 - Matthew Rooney
 
-#### With Jeff
+#### With Andrew
 
 * 9:00 - Penney Garrett
 * 9:30 - Jhun de Andres
