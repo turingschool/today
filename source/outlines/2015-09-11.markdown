@@ -104,6 +104,21 @@ Mike will be available for questions and to discuss the heaviest life questions 
 
 ### Project Evaluations (9:00 - 12:00)
 
+Please make sure you stop working on your project by 9AM.
+
+Today when you're not doing evaluations we want to do some different things
+with programming, a bit out of the norm. We're not going to be peering over
+your shoulders, but please try to keep yourself focused and productive. Play
+can still be learning.
+
+* Want to practice your fundamental logic, conditions, and branching? Return to
+[RubyWarrior](https://github.com/ryanb/ruby-warrior).
+* Want to try writing an AI for a battle tank? Yes, seriously. Try out
+[RTanque](https://github.com/awilliams/RTanque).
+* Try creating some graphics with the powerful but not super easy [Gosu Library](https://www.libgosu.org/). Look for their intro tutorials.
+* Play with a new language you haven't tried before like [Python](https://www.python.org/about/gettingstarted/) or [PHP](http://php.net/manual/en/tutorial.php).
+
+
 #### With Andrew
 
 * 9:00 - Ryan Johnson
