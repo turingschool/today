@@ -22,6 +22,8 @@ We have improv class today, all are welcome.
 
 Join Horace in Classroom C.
 
+You'll be working through thist [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown)
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
 Schedule to be announced.
