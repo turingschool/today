@@ -50,7 +50,7 @@ Work away, make sure that it's working in production.
 #### With Jorge
 
 * 1:00 - Marla Brizel
-* 1:15 - Sebastian Abaondano
+* 1:15 - Sebastian Abondano
 * 1:30 - David Shim
 * 1:45 - Max Millington
 * 2:00 - Alex Tideman
