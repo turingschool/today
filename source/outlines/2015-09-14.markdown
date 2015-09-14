@@ -13,9 +13,19 @@ Today, in 2000, Microsoft releases Windows ME.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-### Techncial Interview Prep (2:30 - 4:00)
+### Techncial Interview Prep (2:30 - 4:00) (For 1503 and 1505)
 
 Join us in the Big Workspace.
+
+### Design Workshop with Cara Jo (4:00 - 6:00)
+
+Learn about Bootstrap!
+
+Bootstrap, an open source front-end framework, is one of the most popular front-end frameworks for building responsive websites.  Bootstrap is currently in use on over 30,000 sites across the web and allows designers and developers of all skill levels to build responsive websites quickly.
+
+In this workshop, we will demonstrate how to use Bootstrap as a foundation for a small web project. We will be building a Bootstrap-based website from scratch, incorporating the responsive grid system, and see the basic CSS in action.
+
+Classroom A.
 
 
 ## 1503
