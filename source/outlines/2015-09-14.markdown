@@ -17,6 +17,33 @@ Today, in 2000, Microsoft releases Windows ME. Me no like it.
 
 Join us in the Big Workspace.
 
+We'll work on this [exercise](https://github.com/turingschool/challenges/blob/master/get_in.markdown).
+
+Attempt the first portion of the exercise in the language of your choice (Ruby or Javascript are great choices!)
+
+Then we'll look at some solutions before going on to the extension. If you finish early,
+try re-implementing it with a different looping strategy (iteration vs. recursion) or
+with another language.
+
+in the following pairs:
+
+* Whitney Hiemstra, Marla Brizel
+* Vanessa Gomez, David Shim
+* Brett Grigsby, Drew Conly
+* Justin Holmes, Michael Dorrance
+* Margarett Ly, Samson Brock
+* Sally MacNicholas, Jai Misra
+* Morgan Miller, Alex Tideman
+* Drew Reynolds, Tyler Graham
+* Max Tedford, Rick Bacci
+* Josh Cass, Lovisa Svallingson
+* Dmitry Vizersky, Jack Yeh
+* Mike Reeves, Rob Cornell
+* Sebastian Abondano, Erik Butcher
+* Adam Caron, Max Millington
+* Mitch Ashby, Jason Wright
+* Michael Merrill, Dave Maurer
+
 ### Design Workshop with Cara Jo (4:00 - 6:00)
 
 Learn about Bootstrap!
