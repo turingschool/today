@@ -114,6 +114,12 @@ Echoes will build [Headcount](https://github.com/turingschool/curriculum/blob/ma
 
 Throwdown with Josh in Classroom A.
 
+Lets work on a [wizarding bank!](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+* 15 min - Questions
+* 45 min - Work on this in pairs or solo at your discretion. Keep in mind that this challenge is longer than you can probably do in 45 minutes. Think about it like a job interview -- the point isn't to finish, it's to do your best work.
+* 30 min - Review solutions, insights, whatevz
+
 ### Work Time (2:30 - 4:00)
 
 Then finally get together with your pair and dive into your project.
