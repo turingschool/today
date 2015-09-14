@@ -69,7 +69,20 @@ Start with Jeff in Classroom A where we'll talk about [Drive](https://github.com
 ### Git and GitHub for Pairs (10:00 - 11:00)
 
 This week we'll start our first paired projects and we need some Git/GitHub
-strategy. Continue with Jeff in Classroom A for a primer.
+strategy. Continue with Jeff in Classroom A where you'll [work on this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown) in these pairs:
+
+* Ryan Johnson & Robert Lane
+* Matt Stjernholm & Ross Edfort
+* Tyler Komoroske & Chad Minnerath
+* Charissa Lawrence & Shannon Paige
+* Patrick Wey & Jason Pilz
+* Marlo Major & John Slota
+* Amber Crawford & Nicole Hall
+* Jill Donohue & Penney Garrett
+* Sekhar Paladugu & Jhun de Andres
+* Matthew Rooney & Emily Dowdle
+* Edgar Duran & Aaron Careaga
+* and Torie Joy-Warren gap filling
 
 ### Project Kickoffs (11:00 - 12:00)
 
