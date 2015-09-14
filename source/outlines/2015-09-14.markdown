@@ -50,28 +50,43 @@ Mike will join you in the Big Workspace, where he will then troll you with forei
 
 ### Sessions, Cookies and Flashes (1:00 - 4:00)
 
-Classroom B is where you will B.
-
+Join Jeff in Classroom B to work on [Sessions, Cookies, and Flashes]([Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown)
+)
 
 ## 1508
 
-### All: Dynamics (9:00 - 9:30)
+### Dynamics (9:00 - 9:30)
 
-Classroom A.
+Start with Jeff in Classroom A where we'll talk about [Drive](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
-### All: Git and GitHub for Pairs (9:30 - 11:00)
+* Penney Garrett & Chad Minnerath & Pat Wey & Jhun de Andres
+* Ross Edfort & Ryan Johnson & Shannon Paige & Aaron Careaga
+* Matt Rooney & Jill Donohue & Sekhar Paladugu & Jason Pilz
+* Charissa Lawrence & Torie Warren & John Slota & Emily Dowdle
+* Nicole Hall & Edgar Duran & Robbie Lane & Marlo Major
+* Amber Crawford & Matt Stjernholm & Tyler Komoroske
 
-Learn about how to work as a team with Git.
+### Git and GitHub for Pairs (10:00 - 11:00)
 
-### All: Boolean Logic Deep Dive.
+This week we'll start our first paired projects and we need some Git/GitHub
+strategy. Continue with Jeff in Classroom A for a primer.
 
-Learn about logic.
+### Project Kickoffs (11:00 - 12:00)
 
-### All: Throwdown (1:00 - 2:30)
+#### Foxtrot: Enigma
 
-Throwing it down.
+Foxtrotters will build [Enigma](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+in the pairs below. Spend the first 30 minutes together with your pair reading and deciphering the assignment. Then come
+back to the classroom at at 11:30 to discuss as a group and answer any questions.
 
-### Echo: Sales Engine Kick Off (2:30 - 4:00)
+#### Echo: CO Data Project
 
-### Foxtrot: Enigma Kick Off (2:30 - 4:00)
+Echoes will build [this Colorado Data Project](https://github.com/turingschool/curriculum/blob/master/source/projects/colorado_engine.markdown) in the pairs below. Get together with your pair, read through the project assignment quickly, then we'll talk about it in Classroom A 11:10-11:30.
 
+### Throwdown (1:00 - 2:30)
+
+Throwdown with Josh in Classroom A.
+
+### Work Time (2:30 - 4:00)
+
+Then finally get together with your pair and dive into your project.
