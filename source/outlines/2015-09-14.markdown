@@ -88,13 +88,12 @@ strategy. Continue with Jeff in Classroom A where you'll [work on this exercise]
 
 #### Foxtrot: Enigma
 
-Foxtrotters will build [Enigma](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
-in the pairs below. Spend the first 30 minutes together with your pair reading and deciphering the assignment. Then come
+Foxtrotters will build [Enigma](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown). Spend the first 30 minutes together with your pair reading and deciphering the assignment. Then come
 back to the classroom at at 11:30 to discuss as a group and answer any questions.
 
-#### Echo: CO Data Project
+#### Echo: Headcount
 
-Echoes will build [this Colorado Data Project](https://github.com/turingschool/curriculum/blob/master/source/projects/colorado_engine.markdown) in the pairs below. Get together with your pair, read through the project assignment quickly, then we'll talk about it in Classroom A 11:10-11:30.
+Echoes will build [Headcount](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown). Get together with your pair, read through the project assignment quickly, then we'll talk about it in Classroom A 11:10-11:30.
 
 ### Throwdown (1:00 - 2:30)
 
