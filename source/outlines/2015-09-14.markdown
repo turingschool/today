@@ -24,8 +24,11 @@ Join us in the Big Workspace.
 
 REACT! WOOOOO
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/intro_to_react.markdown)
+
 ### Project Work Time (1:00 - 2:30)
 
+Keep working on your scale up!
 
 ## 1505
 
