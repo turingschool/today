@@ -3,7 +3,7 @@ title: 20150914
 layout: outline
 ---
 
-Today, in 2000, Microsoft releases Windows ME.
+Today, in 2000, Microsoft releases Windows ME. Me no like it.
 
 ## All
 
@@ -13,7 +13,7 @@ Today, in 2000, Microsoft releases Windows ME.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-### Techncial Interview Prep (2:30 - 4:00) (For 1503 and 1505)
+### Technical Interview Prep (2:30 - 4:00) (For 1503 and 1505)
 
 Join us in the Big Workspace.
 
@@ -61,7 +61,13 @@ Join Jorge in Classroom B.
 
 ### Rales Engine Kickoff (1:00 - 2:30)
 
-Rales Engine! (Wait for it.)
+Join Jorge in the Big Workspace to kickoff Rales Engine.
+
+In this project, you will use Rails and ActiveRecord to build a JSON API which exposes the SalesEngine data schema.
+
+You can check the full requirements [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rales_engine.md).
+
+The project is due on Thursday morning.
 
 ## 1507
 
