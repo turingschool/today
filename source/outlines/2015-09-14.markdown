@@ -24,19 +24,34 @@ Join us in the Big Workspace.
 
 REACT! WOOOOO
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/intro_to_react.markdown)
+
 ### Project Work Time (1:00 - 2:30)
 
+Keep working on your scale up!
 
 ## 1505
 
 ### Building an API/ Securing an API (9:00 - 12:00)
 
+Learn how to serve and secure your own API using your own controllers.
+
+For this lesson, clone the class repo using the following command:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+The materials for this lesson are:
+
+* [Notes](https://www.dropbox.com/s/sq0mijxma5bgtgd/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
 Join Jorge in Classroom B.
 
 ### Rales Engine Kickoff (1:00 - 2:30)
 
-Rales Engine!
-
+Rales Engine! (Wait for it.)
 
 ## 1507
 
@@ -78,10 +93,10 @@ strategy. Continue with Jeff in Classroom A where you'll [work on this exercise]
 * Patrick Wey & Jason Pilz
 * Marlo Major & John Slota
 * Amber Crawford & Nicole Hall
-* Jill Donohue & Penney Garrett
+* Aaron Careaga & Penney Garrett
 * Sekhar Paladugu & Jhun de Andres
-* Matthew Rooney & Emily Dowdle
-* Edgar Duran & Aaron Careaga
+* Jill Donohue & Emily Dowdle
+* Edgar Duran & Matthew Rooney
 * and Torie Joy-Warren gap filling
 
 ### Project Kickoffs (11:00 - 12:00)
