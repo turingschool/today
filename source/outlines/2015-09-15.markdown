@@ -57,7 +57,7 @@ git clone -b serving_json_from_rails https://github.com/turingschool-examples/st
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/1f16ycx45cad68i/Turing%20-%20Serving%20JSON%20from%20Rails%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/139379984)
 
 Stay in Classroom A.
 
