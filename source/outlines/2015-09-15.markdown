@@ -15,10 +15,16 @@ layout: outline
 
 ## 1503
 
-### Project Work Time (9:00 - 4:00)
+### Intro to React, Part 2 (9:00 - 12:00
 
-You are going to work on your projects until your fingers BLEED. Or until four. Whichever comes first.
+Join Horace in...you guessed it! Classroom C!
 
+We'll continue our discussion about React.js and
+talk about more techniques for integrating it into Rails projects.
+
+### Project Work Time (1:00 - 4:00)
+
+Finish those scale ups. Find Horace if you are stuck.
 
 ## 1505
 
