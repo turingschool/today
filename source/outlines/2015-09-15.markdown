@@ -56,7 +56,33 @@ Mike is here for your questions.
 
 ### Fundamental Refactoring (9:00 - 12:00)
 
-In the workspace.
+Join Jeff in the Workspace where we'll [work on refactoring](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown).
+
+#### Rotations:
+
+* Aaron Careaga: extract class, hide delegate, move method
+* Amber Crawford: hide delegate, move method, extract class
+* Chad Minnerath: move method, hide delegate, extract class
+* Charissa Lawrence: hide delegate, extract class, move method
+* Edgar Duran: move method, hide delegate, extract class
+* Emily Dowdle: extract class, move method, hide delegate
+* Jason Pilz: extract class, move method, hide delegate
+* Jhun de Andres: hide delegate, extract class, move method
+* Jill Donohue: extract class, move method, hide delegate
+* John Slota: extract class, hide delegate, move method
+* Marlo Major: hide delegate, extract class, move method
+* Matt Rooney: move method, hide delegate, extract class
+* Matt Stjernholm: hide delegate, extract class, move method
+* Nicole Hall: move method, extract class, hide delegate
+* Pat Wey: extract class, move method, hide delegate
+* Penney Garrett: move method, extract class, hide delegate
+* Robbie Lane: move method, hide delegate, extract class
+* Ross Edfort: hide delegate, move method, extract class
+* Ryan Johnson: extract class, hide delegate, move method
+* Sekhar Paladugu: hide delegate, move method, extract class
+* Shannon Paige: move method, extract class, hide delegate
+* Torie Warren: hide delegate, extract class, move method
+* Tyler Komoroske: move method, hide delegate, extract class
 
 ### Strategy Sessions & Work Time (1:00 - 4:00)
 
