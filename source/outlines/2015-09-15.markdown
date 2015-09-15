@@ -65,7 +65,7 @@ Stay in Classroom A.
 
 #### With Jorge
 
-* 1:00 - Samson Brock 
+* 1:00 - Samson Brock
 * 1:15 - Marla Brizel
 * 1:30 - Sebastian Abaondano
 * 1:45 - David Shim
@@ -80,16 +80,15 @@ Stay in Classroom A.
 #### With Andrew
 
 * 1:00 - Mike Reeves
-* 1:15 - Jason Wright
-* 1:30 - Rick Bacci
-* 1:45 - Erik Butcher
-* 2:00 - Rob Cornell
-* 2:15 - Dave Maurer
-* 2:30 - Jack Yeh
-* 2:45 - Tyler Graham
-* 3:00 - Michael Merrill
-* 3:15 - Dmitry Vizersky
-* 3:30 - Michael Dorrance
+* 1:15 - Rick Bacci
+* 1:30 - Erik Butcher
+* 1:45 - Rob Cornell
+* 2:00 - Dave Maurer
+* 2:15 - Jack Yeh
+* 2:30 - Tyler Graham
+* 2:45 - Michael Merrill
+* 3:00 - Dmitry Vizersky
+* 3:15 - Michael Dorrance
 
 ## 1507
 
