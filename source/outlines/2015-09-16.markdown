@@ -17,14 +17,44 @@ Happy Birthday, [Amy Poehler](https://www.youtube.com/watch?v=j6ldufv8x-8)!
 
 ## 1503
 
-### Pub/Sub on the Server (9:00 - 10:30)
+### ScaleUp Evaluations (9:00 - 11:30)
 
-### Building Real-Time Applications in Node (10:30 - 12:00)
+When you're not being evaluated, read the first chapter of
+[NodeJS The Right Way](https://www.dropbox.com/s/6pa1dgactbcq4ku/NodeJSTheRightWayChap1.pdf?dl=1).
 
-### Mastery Project Kickoff (1:00 - 1:30)
+Then work through the following Beginning Node Tutorial: [Node.JS Beginner's Guide](http://nodeguide.com/beginner.html).
 
-### Mastery Project Kickoff (1:30 - 4:00)
+With Horace
 
+* 9:00  - Justin Holmes
+* 9:30  - Vanessa Gomez
+* 10:00 - Whitney Hiemstra
+* 10:30 - Drew Reynolds
+* 11:00 - Max Tedford
+
+With Andrew
+
+* 9:00  - Sally MacNicholas
+* 9:30  - Brett Grigsby
+* 10:00 - Morgan Miller
+* 10:30 - Josh Cass
+* 11:00 - Margarett Ly
+
+### Flack Kickoff (11:30 - 12:00)
+
+[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/flack.markdown)
+
+### Pub/Sub on the Server (1:00 - 2:30)
+
+Join Horace in Classroom C to discuss PubSub on the Server.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+
+### Building Real-Time Applications in Node (2:30 - 4:00)
+
+Stay in Classroom C to talk about building websocket apps using Node.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
 
 ## 1505
 
@@ -35,18 +65,46 @@ Happy Birthday, [Amy Poehler](https://www.youtube.com/watch?v=j6ldufv8x-8)!
 
 ### Routing in Rails (9:00 - 10:30)
 
+Join Josh in Classroom B.
+
 ### Authorization (10:30 - 12:00)
 
+Jeff will now join you.
+
+
 ### Mid Module Assessments (1:00 - 4:00)
+
+#### With Josh
+
+* 1:00 - Alon Waisman
+* 1:35 - Chris Cenatiempo
+* 2:10 - Regis Boudinot
+* 2:45 - Ryan Asensio
+* 3:20 - Michael Wong
+
+#### With Mike
+
+* 1:00 - Matt Ewell
+* 1:35 - Chris Cenatiempo
+* 2:10 - Mimi Schatz
+* 2:45 - Adam Jensen
+* 3:20 - Jeff Ruane
 
 
 ## 1508
 
 ### All: Pairing Games (9:00 - 10:00)
 
+Classroom A with Jeff.
+
 ### All: Working with Ruby Modules (10:00 - 12:00)
+
+Classroom A with Josh.
 
 ### All: Work Time (1:00 - 4:00)
 
+Andrew will be available for your questions.
+
 ### Echo: SalesEngine Client Meeting (3:30 - 4:00)
 
+Go find Jeff!
