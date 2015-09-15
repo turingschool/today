@@ -19,6 +19,11 @@ Happy Birthday, [Amy Poehler](https://www.youtube.com/watch?v=j6ldufv8x-8)!
 
 ### ScaleUp Evaluations (9:00 - 11:30)
 
+When you're not being evaluated, read the first chapter of
+[NodeJS The Right Way](https://www.dropbox.com/s/6pa1dgactbcq4ku/NodeJSTheRightWayChap1.pdf?dl=1).
+
+Then work through the following Beginning Node Tutorial: [Node.JS Beginner's Guide](http://nodeguide.com/beginner.html).
+
 With Horace
 
 * 9:00  - Justin Holmes
