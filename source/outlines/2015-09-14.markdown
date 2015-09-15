@@ -82,7 +82,7 @@ git clone -b building_api https://github.com/turingschool-examples/storedom.git 
 The materials for this lesson are:
 
 * [Notes](https://www.dropbox.com/s/sq0mijxma5bgtgd/Turing%20-%20Building%20an%20API%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/139344443)
 
 Join Jorge in Classroom B.
 
