@@ -17,14 +17,39 @@ Happy Birthday, [Amy Poehler](https://www.youtube.com/watch?v=j6ldufv8x-8)!
 
 ## 1503
 
-### Pub/Sub on the Server (9:00 - 10:30)
+### ScaleUp Evaluations (9:00 - 11:30)
 
-### Building Real-Time Applications in Node (10:30 - 12:00)
+With Horace
 
-### Mastery Project Kickoff (1:00 - 1:30)
+* 9:00  - Justin Holmes
+* 9:30  - Vanessa Gomez
+* 10:00 - Whitney Hiemstra
+* 10:30 - Drew Reynolds
+* 11:00 - Max Tedford
 
-### Mastery Project Kickoff (1:30 - 4:00)
+With Andrew
 
+* 9:00  - Sally MacNicholas
+* 9:30  - Brett Grigsby
+* 10:00 - Morgan Miller
+* 10:30 - Josh Cass
+* 11:00 - Margarett Ly
+
+### Flack Kickoff (11:30 - 12:00)
+
+[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/flack.markdown)
+
+### Pub/Sub on the Server (1:00 - 2:30)
+
+Join Horace in Classroom C to discuss PubSub on the Server.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+
+### Building Real-Time Applications in Node (2:30 - 4:00)
+
+Stay in Classroom C to talk about building websocket apps using Node.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
 
 ## 1505
 
