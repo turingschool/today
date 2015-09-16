@@ -71,7 +71,7 @@ If you find an issue with the spec helper, please let us know so that we can fix
 
 Thanks for your patience and let's finish strong.
 
-Andrew will be available for questions all day. 
+Andrew will be available for questions all day.
 
 ## 1507
 
@@ -81,8 +81,7 @@ Join Josh in Classroom B.
 
 ### Authorization (10:30 - 12:00)
 
-Jeff will now join you.
-
+Keep users out of admin parts of your app with Jeff in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown).
 
 ### Mid Module Assessments (1:00 - 4:00)
 
@@ -105,7 +104,7 @@ Jeff will now join you.
 
 ## 1508
 
-### All: Pairing Games (9:00 - 10:00)
+### All: Collaboration Games (9:00 - 10:00)
 
 Classroom A with Jeff.
 
@@ -117,6 +116,6 @@ Classroom A with Josh.
 
 Andrew will be available for your questions.
 
-### Echo: SalesEngine Client Meeting (3:30 - 4:00)
+### Echo: Headcount Group Check-In (3:30 - 4:00)
 
-Go find Jeff!
+Meet Jeff at the Megatable.
