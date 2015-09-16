@@ -40,7 +40,7 @@ For this class, we will TDD the creation of an internal API, therefore, you won'
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/p0obxcwyau5pkak/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/139407609)
 
 Join Jorge in Classroom A.
 
@@ -57,7 +57,7 @@ git clone -b serving_json_from_rails https://github.com/turingschool-examples/st
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/1f16ycx45cad68i/Turing%20-%20Serving%20JSON%20from%20Rails%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/139379984)
 
 Stay in Classroom A.
 
