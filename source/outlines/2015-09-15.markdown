@@ -40,7 +40,7 @@ For this class, we will TDD the creation of an internal API, therefore, you won'
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/p0obxcwyau5pkak/Turing%20-%20Testing%20an%20Internal%20API%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/139407609)
 
 Join Jorge in Classroom A.
 
