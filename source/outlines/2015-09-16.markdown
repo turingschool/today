@@ -96,7 +96,7 @@ Keep users out of admin parts of your app with Jeff in Classroom B. Find the out
 #### With Mike
 
 * 1:00 - Matt Ewell
-* 1:35 - Chris Cenatiempo
+* 1:35 - Mary Beth Burch
 * 2:10 - Mimi Schatz
 * 2:45 - Adam Jensen
 * 3:20 - Jeff Ruane
