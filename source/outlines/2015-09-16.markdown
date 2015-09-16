@@ -55,6 +55,9 @@ __Groups__
 
 __Mini Projects__
 
+[Pivotal Hacker](https://github.com/turingschool/challenges/blob/master/pivotal_hacker.markdown)
+[Pairr](https://github.com/turingschool/challenges/blob/master/pairr.markdown)
+
 * Vanessa
 * Whitney
 
