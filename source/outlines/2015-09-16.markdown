@@ -53,6 +53,11 @@ __Groups__
 * Drew, Max, Morgan
 * Justin, Margarett, Josh
 
+__Mini Projects__
+
+* Vanessa
+* Whitney
+
 ### Pub/Sub on the Server (1:00 - 2:30)
 
 Join Horace in Classroom C to discuss PubSub on the Server.
