@@ -63,6 +63,15 @@ Stay in Classroom C to talk about building websocket apps using Node.
 
 ### Project Work Time (9:00 - 4:00)
 
+Install the spec helper in case you haven't done so. You can get it [here](https://github.com/turingschool/rales_engine_spec_harness).
+
+By today, you should have finished your **Record Endpoints** and the **Relationship Endpoints**. During this worktime, you should focus on completing the **Business Intelligence Endpoints**, refactor and improve your coverage.
+
+If you find an issue with the spec helper, please let us know so that we can fix it as soon as possible.
+
+Thanks for your patience and let's finish strong.
+
+Andrew will be available for questions all day. 
 
 ## 1507
 
