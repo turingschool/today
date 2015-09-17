@@ -22,6 +22,7 @@ It's also [Jens Voigt's](https://en.wikipedia.org/wiki/Jens_Voigt) birthday.
 
 Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_services.markdown)
 
 ## 1505
 
