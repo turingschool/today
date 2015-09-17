@@ -20,36 +20,83 @@ It's also [Jens Voigt's](https://en.wikipedia.org/wiki/Jens_Voigt) birthday.
 
 ### Introduction to Services (9:00 - 12:00)
 
+Classroom C.
+
 
 ## 1505
 
 ### Project Evaluations (9:00 - 12:00)
 
+#### With Jorge
+
+* 9:00 - Erik Butcher
+* 9:20 - Max Millington
+* 9:40 - Jai Misra
+* 10:00 - Mitch Ashby
+* 10:20 - BREAK
+* 10:40 - Mike Reeves
+* 11:00 - Rob Cornell
+* 11:20 - Tyler Graham
+
+
+#### With Andrew
+
+* 9:00 - Sebastian Abondano
+* 9:20 - Alex Tideman
+* 9:40 - Adam Caron
+* 10:00 - Samson Brock
+* 10:20 - BREAK
+* 10:40 - Rick Bacci
+* 11:00 - Dave Maurer
+* 11:20 - Michael Merrill
+
+#### With Tess
+
+* 9:00 - David Shim
+* 9:20 - Lovisa Svallingson
+* 9:40 - Drew Conly
+* 10:00 - Michael Dorrance
+* 10:20 - BREAK
+* 10:40 - Marla Brizel
+* 11:00 - Jack Yeh
+* 11:20 - Dmitry Vizersky
+
+
 ### Self-Directed Projects Introduction (1:00 - 2:00)
 
+Classroon B.
+
 ### Self Directed Project Ideation and Prep (2:00 - 4:00)
+
+Learn how to ideate.
 
 
 ## 1507
 
-### Git Workflow (9:00 - 12:00))
+### Git Workflow (9:00 - 12:00)
+
+Join Mike in Classroom B.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
 #### With Josh
 
 * 1:00 - Matt Hecker
-* 1:35 - George Hudson
-* 2:10 - Russell Harms
-* 2:45 - Jerrod Paul Junker
-* 3:20 - Justin Pease
+* 1:45 - George Hudson
+* 2:30 - Jerrod Paul Junker
+
 
 #### With Mike
 * 1:00 - David Stinnette
-* 1:35 - Justin Holzmann
-* 2:10 - Bret Doucette
-* 2:45 - Travis Haby
-* 3:20 - Rose Kohn
+* 1:45 - Bret Doucette
+* 2:30 - Travis Haby
+* 3:15 - Rose Kohn
+
+#### With Tess
+
+* 1:00 - Justin Holzmann
+* 2:10 - Russell Harms
+* 3:20 - Justin Pease
 
 
 ## 1508
