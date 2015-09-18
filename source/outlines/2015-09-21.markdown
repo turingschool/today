@@ -1,0 +1,61 @@
+---
+title: 20150921
+layout: outline
+---
+
+Today, in 1981, Sandra Day O'Connor is unanimously approved to become the first female Supreme Court Justice.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+## 1503
+
+### JS Unit Testing Recap (9:00 - 10:30)
+
+Classroom C.
+
+### Mocking, Stubbing, and Spies with Sinon.js (10:30 - 12:00)
+
+Classroom C.
+
+### Homework Review: Luhn Algorithm in JavaScript (1:00 - 2:30)
+
+### Technical Interview Prep (2:30 - 4:00)
+
+
+## 1505
+
+### Working with AJAX (9:00 - 12:00)
+
+Big Workspace
+
+### Project Work Time (1:00 - 2:30)
+
+
+## 1507
+
+### Little Shop of Orders Kickoff & Work Time (9:00 - 12:00)
+
+### Cart and Order Lifecycles (1:00 - 2:30)
+ 
+### Little Shop Work Time and Goal Setting Check-ins (2:30 - 4:00)
+
+
+## 1508
+
+### Echo: Business Intelligence (9:00 - 12:00)
+
+### Foxtrot: Enigma Evaluations (9:00 - 12:00)
+
+While you are not getting evaluated, work on this [tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+### All: Dynamics (1:00 - 1:30)
+
+### Foxtrot: HeadCount Kickoff (1:30 - 2:30)
+
+### All: Headcount Knowledge Share (2:30 - 4:00)

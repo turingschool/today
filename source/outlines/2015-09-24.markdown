@@ -1,0 +1,54 @@
+---
+title: 20150924
+layout: outline
+---
+
+Today, in 1957, President Dwight D. Eisenhower, sends the 101st Airborne Division to Little Rock, Arkansas to enforce desegregation.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1503 
+
+### ES6/2015 Template Strings (9:00 - 9:30)
+
+### Generators (9:30 - 11:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1505 
+
+### Project Work Time (9:00 - 12:00)
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+
+## 1507
+
+### Intro to the Asset Pipelin (9:00 - 10:30)
+
+### Transactions, Callbacks and Scopes (10:30 - 12:00)
+
+### Little Shop Work Time and Check-Ins (1:00 - 4:00)
+
+
+## 1508
+
+### Echo: Headcount Evaluations (9:00 - 12:00)
+
+### Foxtrot: Work Time (9:00 - 12:00)
+
+### Foxtrot: Work Time and HC Checkins (1:00 - 4:00)
+
+### Echo: How Databases Work (1:00 - 3:30)
+
+### Echo: SESQL Kickoff (3:30 - 4:00)
+
+
