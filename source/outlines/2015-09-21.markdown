@@ -13,6 +13,7 @@ Today, in 1981, Sandra Day O'Connor is unanimously approved to become the first 
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
+
 ## 1503
 
 ### WebSockets Workshop
@@ -32,11 +33,12 @@ __Mini Project Checkins__
 * 1:00 Vanessa
 * 1:45 Whitney
 
+
 ## 1505
 
 ### Working with AJAX (9:00 - 12:00)
 
-Big Workspace
+Big Workspace.
 
 ### Project Work Time (1:00 - 2:30)
 
@@ -45,21 +47,50 @@ Big Workspace
 
 ### Little Shop of Orders Kickoff & Work Time (9:00 - 12:00)
 
+Classroom B.
+
+And Tess will be available for questions.
+
 ### Cart and Order Lifecycles (1:00 - 2:30)
+
+Classroom B.
  
 ### Little Shop Work Time and Goal Setting Check-ins (2:30 - 4:00)
+
+Tess and Mike are available for answers to your questions.
 
 
 ## 1508
 
-### Echo: Business Intelligence (9:00 - 12:00)
+### Echo: Business Intelligence (9:00 - 11:00)
+
+Join Josh in Classroom A.
 
 ### Foxtrot: Enigma Evaluations (9:00 - 12:00)
 
 While you are not getting evaluated, work on this [tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+You will need it.
+
+#### With Mike
+
+* 9:00 - Amber Crawford & Nicole Hall
+* 9:30 - Jill Donohue & Emily Dowdle
+* 10:00 - Sekhar Paladugu & Jhun de Andres
+
+#### With Andrew
+
+* 9:00 - Edgar Duran & Matthew Rooney
+* 9:30 - Maro Major & John Slota
+* 10:00 - Aaron Careaga & Penney Garrett
 
 ### All: Dynamics (1:00 - 1:30)
 
+Meet Mike in Classroom A.
+
 ### Foxtrot: HeadCount Kickoff (1:30 - 2:30)
 
+Meet Josh Cheek at the Mega Table.
+
 ### All: Headcount Knowledge Share (2:30 - 4:00)
+
+Let's reconvene with Mike in Classroom A.
