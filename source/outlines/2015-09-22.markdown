@@ -13,15 +13,24 @@ There are 100 days until 2016.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-
 ## 1503
 
-### Websocket Workshop (9:00 - 12:00)
+### Ruby Object Model Revisited (9:00 - 12:00)
 
-Classroom C.
+Join Josh Cheek in Classroom C to take another look
+at the Ruby Object Model.
 
-### Project Work Time (1:00 - 4:00)
+### Project Work Time & Checkins (1:00 - 4:00)
 
+The baseline for your websocket projects should be coming together
+by now. Start thinking about what extra spin you're
+going to add to your project.
+
+__Checkins with Horace__
+
+* 1:00 - 1:45 Margarett, Justin, Morgan
+* 1:45 - 2:30 Sally, Josh, Brett
+* 2:30 - 3:15 Drew, Max
 
 ## 1505
 

@@ -14,14 +14,28 @@ Today, in 1957, President Dwight D. Eisenhower, sends the 101st Airborne Divisio
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
 
-## 1503 
+## 1503
 
-### ES6/2015 Template Strings (9:00 - 9:30)
+### Guest Instructor Josh Wehner Double Header
 
-### Generators (9:30 - 11:00)
+#### Currying & Partial Application in Javascript (9:00 - 10:30)
 
-### Project Work Time (1:00 - 4:00)
+#### ES6 Classes and Computed Properties (10:30 - 12:00)
 
+### Project Work Time & Checkins (1:00 - 4:00)
+
+You should be wrapping up your basic "theme" features
+by this point. Meet with Horace to discuss final
+feature selection
+
+* 1:00 - 1:30 Margarett, Justin, Morgan
+* 1:30 - 2:00 Sally, Josh, Brett
+* 2:00 - 2:30 Drew, Max
+
+__Mini Project Checkins__
+
+* 2:30 - 3:00 Whitney
+* 3:00 - 3:30 Vanessa
 
 ## 1505 
 
