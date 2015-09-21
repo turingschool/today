@@ -38,10 +38,26 @@ __Mini Project Checkins__
 
 ### Working with AJAX (9:00 - 12:00)
 
-Big Workspace.
+Learn how to send AJAX requests from the client (browser) by interacting with third-party service.
+
+Before this session, please clone the class repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/r1crlwpzt158sto/Turing%20-%20Working%20with%20AJAX%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
+Meet Jorge in the Big Workspace.
 
 ### Project Work Time (1:00 - 2:30)
 
+Continue to work on your projects. By this point, you should have verified the feasibility of your project and polished your concept.
+
+For tomorrow's check-ins, you should have your views ready to show, and your app deployed to Heroku.
 
 ## 1507
 
@@ -54,7 +70,7 @@ And Tess will be available for questions.
 ### Cart and Order Lifecycles (1:00 - 2:30)
 
 Classroom B.
- 
+
 ### Little Shop Work Time and Goal Setting Check-ins (2:30 - 4:00)
 
 Tess and Mike are available for answers to your questions.
