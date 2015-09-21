@@ -63,6 +63,8 @@ For tomorrow's check-ins, you should have your views ready to show, and your app
 
 ### Little Shop of Orders Kickoff & Work Time (9:00 - 12:00)
 
+[Project Requirements](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
 Classroom B.
 
 And Tess will be available for questions.
@@ -140,5 +142,3 @@ Answer these questions together.
 * What was surprisingly easy about the project?
 * What was something unexpected that you learned about Headcount?
 * What advice did you get from mentors that was counterproductive?
-
-
