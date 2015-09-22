@@ -22,6 +22,18 @@ These are our visitors for today!
 
 * [Twitter](https://twitter.com/hone02)
 
+
+## Special Sessions - For Modules 2, 3, and 4.
+
+### Q and A with Terence Lee (1:00 - 2:30) 
+
+Classroom B.
+
+### How to Undo Almost Anything with Git (2:30 - 4:00)
+
+Big Workspace
+
+
 ## All
 
 ### Warm Up (8:30 - 9:00)
@@ -29,6 +41,7 @@ These are our visitors for today!
 [Warm Up](https://thewarmup.herokuapp.com)
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
 
 ## 1503
 
