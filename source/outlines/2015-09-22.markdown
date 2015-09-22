@@ -53,11 +53,22 @@ __Checkins with Horace__
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
-Big Workspace!
+Learn about the asset pipeline and why your stuff "doesn't work on Heroku".
+
+For this class clone the repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git asset_pipeline
+```
+
+The materials for this class are the following:
+
+* [Presentation](https://www.dropbox.com/s/y0suqkr9skyp8om/Turing%20-%20Understanding%20the%20Asset%20Pipeline.key?dl=0)
+* The video will be posted after the session.
 
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
-Big Workspace!
+The schedule will be announced soon.
 
 ## 1507
 
@@ -93,7 +104,3 @@ Mike and Tess are available for your questions.
 ### All: The Performance of Code (1:00 - 4:00)
 
 Join Josh Cheek in Classroom A.
-
-
-
-
