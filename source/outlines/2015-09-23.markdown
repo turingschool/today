@@ -5,6 +5,16 @@ layout: outline
 
 Today, in 1889, Nintendo was founded.
 
+## Stranger Danger
+
+These are our visitors for today!
+
+### Josh Wehner
+
+* [Twitter](https://twitter.com/jaw6)
+* [LinkedIn](https://www.linkedin.com/in/joshuawehner)
+
+
 ## All
 
 ### Warm Up (8:30 - 9:00)
@@ -12,6 +22,8 @@ Today, in 1889, Nintendo was founded.
 [Warm Up](https://thewarmup.herokuapp.com)
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+Best answers posted in #warmup-answers get Posse Points.
 
 
 ## 1503
@@ -39,14 +51,23 @@ on Thursday.
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
+Join Josh in the Big Workspace.
+
 ### Little Shop Work Time (10:30 - 4:00)
+
+Mike is around for your questions.
 
 
 ## 1508
 
 ### All: Loopback: Refactoring Enigma (9:00 - 10:30)
 
-### All: Mystery Class (10:30 - 12:00)
+Join Josh in Classroom A.
+
+### All: Testing Small Datasets and Edge Cases (10:30 - 12:00)
+
+Stay in Classroom A.
 
 ### All: Work Time (1:00 - 4:00)
 
+Mike is available for questions.
