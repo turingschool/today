@@ -42,7 +42,6 @@ Big Workspace
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-
 ## 1503
 
 ### Ruby Object Model Revisited (9:00 - 12:00)
@@ -58,9 +57,14 @@ going to add to your project.
 
 __Checkins with Horace__
 
-* 1:00 - 1:45 Margarett, Justin, Morgan
-* 1:45 - 2:30 Sally, Josh, Brett
-* 2:30 - 3:15 Drew, Max
+* 1:00 - 1:30 Margarett, Justin, Morgan
+* 1:30 - 2:00 Sally, Josh, Brett
+* 2:00 - 2:30 Drew, Max
+
+__Mini Project Evals with Horace__
+
+* 3:00 - Vanessa
+* 3:30 - Whitney
 
 ## 1505
 
@@ -139,6 +143,11 @@ Join Josh Cheek at the Mega Table.
 
 Mike and Tess are available for your questions.
 
+### All: Throwdown (10:30 - 12:00)
+
+Meet in Classroom A with Andrew
+
 ### All: The Performance of Code (1:00 - 4:00)
 
 Join Josh Cheek in Classroom A.
+[here is that thing, Penney](https://gist.github.com/JoshCheek/e4afb1d9e1c2fc72603b)
