@@ -16,14 +16,19 @@ Today, in 1889, Nintendo was founded.
 
 ## 1503
 
-### Mystery Class (9:00 - 12:00)
+### All Day Code Challenge (9:00 - 4:00)
 
-Topic's TBD but the location isn't!
-See you in Classroom C.
+As a dry run for your 24-hour assessment coming up next week, you'll
+be spendin today working through an on-the-spot assignment.
 
-### Project Work Time (1:00 - 4:00)
+Topics will include Rails and Javascript fundamentals, including Ajax
+(sorry, no clojure...)
 
-Horace will be available for questions.
+Join Horace in Classroom C at 9 AM sharp to kick off the assignment.
+
+You'll be expected to post your work at 4 PM, and will be evaluated
+on Thursday.
+
 
 ## 1505
 
