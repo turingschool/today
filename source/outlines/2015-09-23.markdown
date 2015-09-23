@@ -63,10 +63,30 @@ Mike is around for your questions.
 ### All: Loopback: Refactoring Enigma (9:00 - 10:30)
 
 Join Josh in Classroom A.
+We looked at how I'd approach the project, and several examples of code and refactoring them.
+We saw that the core of the encryption and decryption algorithms are the same, and we can
+swap between them by passing in a direction to rotate.
+
+If you want to watch me solve the challenge, my code is here:
+[https://github.com/JoshCheek/enigma](https://github.com/JoshCheek/enigma),
+and there are videos of me doing each portion of it here:
+[https://vimeo.com/channels/joshenigma](https://vimeo.com/channels/joshenigma).
+
+If you want to get better at refactoring, specifically,
+then you can go refactor my Enigma along with me, in this video: [https://vimeo.com/130882701](https://vimeo.com/130882701)
+where we change this code: [http://bit.ly/1L1A1xY](http://bit.ly/1L1A1xY)
+into this code: [http://bit.ly/1KJk5m1](http://bit.ly/1KJk5m1)
+
+Or, you can go through the Blowing Bubbles 1 and 2 practice exercises,
+here: [https://github.com/JoshCheek/1508/tree/master/katas](https://github.com/JoshCheek/1508/tree/master/katas)
+each of these also has a video of me going through it so that you can see what it should look like.
+
 
 ### All: Testing Small Datasets and Edge Cases (10:30 - 12:00)
 
 Stay in Classroom A.
+We're going to talk about testing... where we'll discuss things that people advocate, what their advantages and disadvantages are,
+and [create our own fictional story along the way!](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_small_datasets…_the_fictional_story_of_a_plumber_who_learns_about_fixtures_mocks_and_stubs_and_ignoring_all_that_shit_and_simplifying_your_design_instead.markdown)
 
 ### All: Work Time (1:00 - 4:00)
 
