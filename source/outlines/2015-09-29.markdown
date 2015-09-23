@@ -1,0 +1,64 @@
+---
+title: 20150922
+layout: outline
+---
+
+Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1503
+
+## 1505
+
+### Getting Started with Workers (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1507
+
+### Intro to JQuery (9:00 - 10:00)
+
+### Filtering with JQuery (10:00 - 12:00)
+
+### Final Assessments (1:00 - 4:00)
+
+#### With Josh
+
+* 1:00 - David Stinnette
+* 1:45 - Justin Pease 
+* 2:30 - Michael Wong
+* 3:15 - Adam Jensen
+* 4:00 - Jerrod Paul Junker
+
+#### With Mike
+
+* 1:00 - Bret Doucette
+* 1:45 - Travis Haby
+* 2:30 - Rose Kohn
+* 3:15 - Mary Beth Burch
+* 4:00 - Justin Holzmann
+
+#### With Tess
+
+* 1:00 - Alon Waisman
+* 1:45 - Chris Cenatiempo
+* 2:30 - Mimi Schatz
+* 3:15 - Ryan Asensio
+* 4:00 - Russell Harms
+
+#### With Andrew
+
+* 1:00 - Matt Ewell
+* 1:45 - Regis Boudinot
+* 2:30 - Jeff Ruane
+* 3:15 - Matt Hecker
+* 4:00 - George Hudson
