@@ -35,24 +35,42 @@ Classroom C.
 
 #### ES6 Classes and Computed Properties (10:30 - 12:00)
 
-### Project Work Time & Checkins (1:00 - 4:00)
+### Practice Assessment Evaluations (1:00 - 4:00)
 
-You should be wrapping up your basic "theme" features
-by this point. Meet with Horace to discuss final
-feature selection
+Meet with Horace to discuss your projects from yesterday.
 
-* 1:00 - 1:30 Margarett, Justin, Morgan
-* 1:30 - 2:00 Sally, Josh, Brett
-* 2:00 - 2:30 Drew, Max
+* 1:00 - Margarett
+* 1:15 - Justin
+* 1:30 - Morgan
+* 1:45 - Whitney
+* 2:00 - Drew
+* 2:15 - Vanessa
+* 2:30 - Sally
+* 2:45 - Josh
+* 3:00 - Brett
+* 3:15 - Max
+
+When you're not meeting with Horace, continue working with your group
+on your chat projects. Try to wrap up the functionality for your
+basic "vanilla" chat interface today.
+
+Seek out Josh W. if you get stuck.
 
 __Mini Project Checkins__
 
-* 2:30 - 3:00 Whitney
-* 3:00 - 3:30 Vanessa
+Meet briefly with Horace to discuss your progress on the
+current mini project.
+
+* Whitney - 3:15
+* Vanessa - 3:30
 
 ## 1505
 
 ### Project Work Time (9:00 - 12:00)
+
+Work on your projects. By this point, you should be consuming an external API and displaying that information on your page.
+
+Remember that the project evaluations are on Wednesday afternoon.
 
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
