@@ -50,7 +50,7 @@ __Mini Project Checkins__
 * 2:30 - 3:00 Whitney
 * 3:00 - 3:30 Vanessa
 
-## 1505 
+## 1505
 
 ### Project Work Time (9:00 - 12:00)
 
@@ -155,10 +155,10 @@ Meet with Mike in Classroom A.
 * 3:00 - Sekhar Paladugu & Penney Garrett
 * 3:30 - Matthew Rooney & Aaron Careaga
 
-### Echo: How Databases Work (1:00 - 3:30)
+### Echo: How HTTP works! (1:00 - 3:30)
 
-Classroom A.
+Classroom A, new projects! Zomg, fun times for all!
 
-### Echo: SESQL Kickoff (3:30 - 4:00)
+### Echo: Build your own webserver kickoff (3:30 - 4:00)
 
 Classroom A.
