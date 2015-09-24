@@ -76,9 +76,6 @@ Remember that the project evaluations are on Wednesday afternoon.
 
 #### With Jorge
 
-* 1:00 - Samson Brock
-* 1:15 - Marla Brizel
-* 1:30 - Sebastian Abondano
 * 1:45 - David Shim
 * 2:00 - Max Millington
 * 2:15 - Alex Tideman
@@ -90,17 +87,21 @@ Remember that the project evaluations are on Wednesday afternoon.
 
 #### With Tess
 
-* 1:00 - Mike Reeves
 * 1:15 - Rick Bacci
 * 1:30 - Erik Butcher
-* 1:45 - Rob Cornell
-* 2:00 - Dave Maurer
 * 2:15 - Jack Yeh
 * 2:30 - Tyler Graham
 * 2:45 - Michael Merrill
 * 3:00 - Dmitry Vizersky
-* 3:15 - Michael Dorrance
 
+#### With David Daniel
+
+* 2:15 - Samson Brock
+* 2:30 - Marla Brizel
+* 2:45 - Sebastian Abondano
+* 3:00 - Rob Cornell
+* 3:15 - Dave Maurer
+* 3:30 - Michael Dorrance
 
 ## 1507
 
