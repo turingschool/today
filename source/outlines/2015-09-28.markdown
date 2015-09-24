@@ -33,8 +33,6 @@ Big Workspace
 
 #### With Jorge
 
-* 1:00 - Samson Brock
-* 1:15 - Marla Brizel
 * 1:30 - Sebastian Abondano
 * 1:45 - David Shim
 * 2:00 - Max Millington
@@ -57,6 +55,8 @@ Big Workspace
 * 2:45 - Michael Merrill
 * 3:00 - Dmitry Vizersky
 * 3:15 - Michael Dorrance
+* 3:30 - Samson Brock
+* 3:45 - Marla Brizel
 
 
 ## 1507
@@ -110,7 +110,4 @@ Your Product Overlord will inform you of when your meeting is.
 * 9:00 - Sekhar Paladugu
 * 9:30 - Jason Pilz
 * 10:00 - Matt Stjernholm
-* 10:30 - Emily Dowdle 
-
-
-
+* 10:30 - Emily Dowdle
