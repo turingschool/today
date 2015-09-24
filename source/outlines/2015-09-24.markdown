@@ -20,9 +20,9 @@ These are our visitors for today!
 
 ### Warm Up (8:30 - 9:00)
 
-[Warm Up](https://thewarmup.herokuapp.com)
+Instead of warm up, please fill out this [survey](https://docs.google.com/forms/d/16Iof_uf9I4utm5pOhwZ3LgHv_SnWoV2ZZqbB0rxCxRM/edit)
+for Mary, and so we can improve our mentor-student relations!
 
-[Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
 
 ## 1503
