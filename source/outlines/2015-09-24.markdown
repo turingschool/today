@@ -68,6 +68,10 @@ current mini project.
 
 ### Project Work Time (9:00 - 12:00)
 
+Work on your projects. By this point, you should be consuming an external API and displaying that information on your page.
+
+Remember that the project evaluations are on Wednesday afternoon.
+
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
 #### With Jorge
