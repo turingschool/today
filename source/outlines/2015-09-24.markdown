@@ -130,6 +130,12 @@ Morning of the 24th:
 *  9:30 - Patrick Wey & Jason Pilz
 * 10:00 - Torie Joy-Warren
 
+#### Improving the specification / test harness (11:00 - 11:30)
+
+Meet in A to spitball things that could make more sense.
+Lets improve the specification and the test harness for
+the Foxtrotters! (❤️ ❤️ ❤️  y'all!)
+
 ### Foxtrot: Work Time (9:00 - 11:30)
 
 Work
