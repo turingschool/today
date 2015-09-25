@@ -24,8 +24,16 @@ No survey, no breakfast.
 * Fred Brooks
 * Ada Lovelace
 * James Golick
-* Adele Goldberg
-* Ezra Zygmuntowicz
+
+#### Lightning Talkers
+
+* Jai Misra
+* Dave Maurer
+* Rick Bacci
+* Morgan Miller
+* Regis Boudinot
+* Ryan Asensio
+* Adam Caron
 
 #### Big Workspace
 
@@ -33,10 +41,43 @@ No survey, no breakfast.
 * Donald Knuth
 * Grace Hopper
 * Weirich
+
+#### Lightning Talkers
+
+* Margarett Ly
+* Josh Cass
+* Drew Reynolds
+* Travis Haby 
+* Justin Holmes
+* Max Millington
+* Vanessa Gomez
+* Erik Butcher
+* Jeff Ruane
+
+#### Classroom B
+
+* Adele Goldberg
+* Ezra Zygmuntowicz
 * Dennis Ritchie
 * Yukihiro Matsumoto
 
+#### Lightning Talkers
+
+* Alex Tideman
+* Adam Jensen
+* Jerrod Paul-Junker 
+* Max Tedford
+* Bret Doucette
+* Tyler Graham
+* Matt Ewell
+* Dmitry Vizersky
+
 ### Group Retro (10:00 - 11:00)
+
+* 1503 - Horace in Classroom C.
+* 1505 - Jorge and Joanne in the Big Workspace
+* 1507 - Josh M. and Tess in Classroom B.
+* 1508 - Josh C.and Mike in Classroom A.
 
 ### Guest Speaker (11:00 - 12:00)
 
@@ -87,7 +128,7 @@ Stewart Fortier joins us.
 * 3:30 - Michael Wong
 * 3:45 - Matt Ewell
 
-## With Josh Mejia
+## With Jorge
 
 * 2:00 - Bret Doucette
 * 2:15 - Travis Haby
@@ -109,7 +150,7 @@ Stewart Fortier joins us.
 * 3:30 - Lovisa Svallingson
 * 3:45 - Adam Caron
 
-## With Daisha
+## With Marissa
 
 * 2:00 - Jhun de Andres
 * 2:15 - Regis Boudinot
