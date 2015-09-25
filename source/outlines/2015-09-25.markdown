@@ -144,11 +144,8 @@ Stewart Fortier joins us.
 * 1:00 - Brett Grigsby
 * 1:15 - Max Tedford
 * 1:30 - Sally MacNicholas
-* 1:45 - Mary Beth Burch
-* 2:00 - BREAK
-* 2:15 - Jai Misra 
-* 2:30 - Lovisa Svallingson
-* 2:45 - Adam Caron
+* 1:45 - Jai Misra 
+* 2:00 - Adam Caron
 
 ## With Marissa
 
@@ -161,7 +158,20 @@ Stewart Fortier joins us.
 * 2:30 - Mitch Ashby
 * 2:45 - Aaron Careaga
 
-### Electives and Student Lead Sessions (2:00 - 4:00)
+### Electives and Student Lead Sessions (1:00 - 4:00)
 
-TBA
+#### Recursion Basics with Justin Holzmann (Classroom A)
 
+Why Learn about Recursion?
+
+1 - Many companies view recursion as an acid test for a competent programmer.
+2 - Many people view recursion as an acid test for how well an individual understands computer programming.
+Know recursion well enough to reach for it in a technical interview (not super hard don't worry)? \#Hired.
+3 - Recursion is fun and produces awesome, clean code.
+
+#### Friday DSA with Horace 2:30 - 4:00
+
+Come learn about Trees, Tries, and Hash-Array-Mapped Tries with
+Horace in Classroom B. We'll be pairing up with other students
+and working through one of the problems in this module's
+DSA curriculum.
