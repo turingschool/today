@@ -37,6 +37,7 @@ applications!
 Horace will be available to help you extinguish any last-minute project
 flames.
 
+
 ## 1505
 
 ### Caching Strategies in Rails (9:00 - 12:00)
@@ -114,7 +115,9 @@ Your Product Overlord will inform you of when your meeting is.
 * 10:30 - Emily Dowdle
 
 
-### Echoes (1:00 - 4:00)
+### Project Work Time (1:00 - 2:00) 
+
+#### Echoes
 
 If you don't have Sinatra serving your NightWriter,
 on your server, then check in with me to figure out
@@ -133,7 +136,7 @@ Otherwise, work with the trotters
   So far, no one has submitted a pull request, and I'm a bit worried about that.
   Maybe walk them through the process.
 
-### Trotters: Project Work Time (1:00 - 4:00)
+#### Trotters
 
 Clone my big test suite: [https://github.com/turingschool-examples/headcount_test_harness](https://github.com/turingschool-examples/headcount_test_harness)
 It doesn't contain everything we need, but you need to pass this if you want a 4,
@@ -158,3 +161,24 @@ Help me improve the project!
 ### Echoes / Trotters
 
 Yes, I gave y'all adorable nicknames. You're welcome.
+
+
+### Let's Talk About Portfolios (2:00 - 3:00)
+
+Meet Jeff in Classroom A.
+
+### Portfolio Work Time (3:00 - 4:00)
+
+Work in pairs on your portfolio.
+
+* Tyler Komoroske & Matt Rooney
+* Chad Minnerath & John Slota
+* Edgar Duran & Amber Crawford
+* Robbie Lane & Ryan Johnson
+* Jason Pilz & Matt Stjernholm
+* Shannon Paige & Sekhar Paladugu
+* Jhun de Andres & Torie Warren
+* Nicole Hall & Emily Dowdle
+* Marlo Major & Jill Donohue
+* Penney Garrett & Ross Edfort
+* Aaron Careaga & Pat Wey & Charissa Lawrence
