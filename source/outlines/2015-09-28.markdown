@@ -31,16 +31,12 @@ Same as above, but for Javascript!
 
 ### Project Work Time (1:00 - 4:00)
 
-<<<<<<< HEAD
-Work on yo Project.
-
-=======
 Last project work time for Flack. Finish up some chat-tastic
 applications!
 
 Horace will be available to help you extinguish any last-minute project
 flames.
->>>>>>> a2a597356754e9164b97a531661ab354ad3531cb
+
 
 ## 1505
 
