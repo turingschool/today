@@ -13,8 +13,23 @@ Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-
 ## 1503
+
+### Flack & Mini Project Evals (9:00 - 12:00)
+
+Meet with Horace to evaluate your last projects
+at Turing.
+
+* 9:00 - Whitney
+* 9:30 - Vanessa
+* 10:00 - Sally, Brett, Josh
+* 10:30 - Margarett, Justin, Morgan
+* 11:00 - Max, Drew
+
+### Final Assessment Kick-Off (1:00)
+
+Join Horace in Classroom C for the moment you've been
+waiting for.
 
 ## 1505
 
