@@ -111,3 +111,49 @@ Your Product Overlord will inform you of when your meeting is.
 * 9:30 - Jason Pilz
 * 10:00 - Matt Stjernholm
 * 10:30 - Emily Dowdle
+
+
+### Echoes (1:00 - 4:00)
+
+If you don't have Sinatra serving your NightWriter,
+on your server, then check in with me to figure out
+what hurdle is tripping you up.
+
+Otherwise, work with the trotters
+
+* Ask them how you can help them with Headcount.
+* Opt for removing hurdles over offering design advice,
+  there are many ways to do this project,
+  it's okay if their approach differs from what you did or what I advocated.
+* Make sure their code is passing my high-level test.
+* Hugs are an acceptable way to offer aid.
+* Note that I (Josh) have changed the
+  [evaluation matrix](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown#evaluation-rubric)
+  So far, no one has submitted a pull request, and I'm a bit worried about that.
+  Maybe walk them through the process.
+
+### Trotters: Project Work Time (1:00 - 4:00)
+
+Clone my big test suite: [https://github.com/turingschool-examples/headcount_test_harness](https://github.com/turingschool-examples/headcount_test_harness)
+It doesn't contain everything we need, but you need to pass this if you want a 4,
+and it will keep you from getting too far off track.
+
+I'll come around and check in on you after working with the echoes.
+If you are stuck on something be sure to ask a classmate
+to look at it with you.
+
+If you get all my tests passing,
+and you're hitting your head against the cursor of consensus,
+then band together with the other groups that are in the same situation,
+and help me figure out what the requirements should be.
+Send me pull requests on the project description and on the test harness,
+I haven't gotten that far in my implementation,
+and I don't have the bandwidth to get back to it.
+
+You need to work together on this, or you won't have the consensus,
+and then you won't know what the requirement should be.
+Help me improve the project!
+
+### Echoes / Trotters
+
+Yes, I gave y'all adorable nicknames. You're welcome.
