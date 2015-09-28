@@ -16,20 +16,50 @@ Today, in 2008, SpaceX launches the first private spacecraft, the Falcon 1 into 
 
 ## 1503
 
-### Rails in Review (9:00 - 12:00)
+### Rails in Review (Optional) (9:00 - 10:30)
 
-Classroom C.
+Join Horace in Classroom C for a Q&A session to review
+any topics you'd like to discuss from our 3-month foray
+into Rails.
+
+Here are [some of the topics](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/rails_in_review.markdown)
+we have covered in the past, but bring your own questions as well.
+
+### Javascript in Review (Optional) (10:30 - 12:00)
+
+Same as above, but for Javascript!
 
 ### Project Work Time (1:00 - 4:00)
 
+<<<<<<< HEAD
 Work on yo Project.
 
+=======
+Last project work time for Flack. Finish up some chat-tastic
+applications!
+
+Horace will be available to help you extinguish any last-minute project
+flames.
+>>>>>>> a2a597356754e9164b97a531661ab354ad3531cb
 
 ## 1505
 
 ### Caching Strategies in Rails (9:00 - 12:00)
 
-Big Workspace
+Learn how to use different caching strategies in Rails to improve the performance of your page.
+
+Clone the class repo using the following command:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git caching_strategies
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/j272qacng86g8q0/Turing%20-%20Caching%20Strategies%20in%20Rails%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
+Meet Jorge in the Big Workspace.
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
@@ -114,6 +144,7 @@ Your Product Overlord will inform you of when your meeting is.
 * 10:00 - Matt Stjernholm
 * 10:30 - Emily Dowdle
 
+<<<<<<< HEAD
 ### Project Work Time (1:00 - 2:00) 
 
 Push forward on your projects.
@@ -137,3 +168,50 @@ Work in pairs on your portfolio.
 * Marlo Major & Jill Donohue
 * Penney Garrett & Ross Edfort
 * Aaron Careaga & Pat Wey & Charissa Lawrence
+=======
+
+### Echoes (1:00 - 4:00)
+
+If you don't have Sinatra serving your NightWriter,
+on your server, then check in with me to figure out
+what hurdle is tripping you up.
+
+Otherwise, work with the trotters
+
+* Ask them how you can help them with Headcount.
+* Opt for removing hurdles over offering design advice,
+  there are many ways to do this project,
+  it's okay if their approach differs from what you did or what I advocated.
+* Make sure their code is passing my high-level test.
+* Hugs are an acceptable way to offer aid.
+* Note that I (Josh) have changed the
+  [evaluation matrix](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown#evaluation-rubric)
+  So far, no one has submitted a pull request, and I'm a bit worried about that.
+  Maybe walk them through the process.
+
+### Trotters: Project Work Time (1:00 - 4:00)
+
+Clone my big test suite: [https://github.com/turingschool-examples/headcount_test_harness](https://github.com/turingschool-examples/headcount_test_harness)
+It doesn't contain everything we need, but you need to pass this if you want a 4,
+and it will keep you from getting too far off track.
+
+I'll come around and check in on you after working with the echoes.
+If you are stuck on something be sure to ask a classmate
+to look at it with you.
+
+If you get all my tests passing,
+and you're hitting your head against the cursor of consensus,
+then band together with the other groups that are in the same situation,
+and help me figure out what the requirements should be.
+Send me pull requests on the project description and on the test harness,
+I haven't gotten that far in my implementation,
+and I don't have the bandwidth to get back to it.
+
+You need to work together on this, or you won't have the consensus,
+and then you won't know what the requirement should be.
+Help me improve the project!
+
+### Echoes / Trotters
+
+Yes, I gave y'all adorable nicknames. You're welcome.
+>>>>>>> a2a597356754e9164b97a531661ab354ad3531cb

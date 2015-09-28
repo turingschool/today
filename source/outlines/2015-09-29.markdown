@@ -13,8 +13,23 @@ Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
-
 ## 1503
+
+### Flack & Mini Project Evals (9:00 - 12:00)
+
+Meet with Horace to evaluate your last projects
+at Turing.
+
+* 9:00 - Whitney
+* 9:30 - Vanessa
+* 10:00 - Sally, Brett, Josh
+* 10:30 - Margarett, Justin, Morgan
+* 11:00 - Max, Drew
+
+### Final Assessment Kick-Off (1:00)
+
+Join Horace in Classroom C for the moment you've been
+waiting for.
 
 ## 1505
 
@@ -34,7 +49,7 @@ Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 #### With Josh
 
 * 1:00 - David Stinnette
-* 1:45 - Justin Pease 
+* 1:45 - Justin Pease
 * 2:30 - Michael Wong
 * 3:15 - Adam Jensen
 * 4:00 - Jerrod Paul Junker
@@ -62,3 +77,51 @@ Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 * 2:30 - Jeff Ruane
 * 3:15 - Matt Hecker
 * 4:00 - George Hudson
+
+
+## 1508
+
+### All: Binary, Octal, and Hexadecimal (8:00 - 9:30)
+
+Meet Jeff in classroom:
+
+    65.chr         # =>
+    0b1000001.chr  # =>
+    0101.chr       # =>
+    0x41.chr       # =>
+
+### All: How Computers and Electronics Work (10:30 - 12:00)
+
+### Foxtrot: Project Work Time (1:00 - 4:00)
+
+### Echo: Lunch Evals (12:00 - 2:30)
+
+Meet at the Vault in the upper room for lunch.
+We'll check out the solutions, and grade them.
+
+Maybe try to write the whole thing again together as a big group project!
+
+Maybe try to hook them up to rack,
+it's the thing that defines the interface we're matching.
+To do that, we just have to set some extra keys in the `env` hash
+([https://github.com/rack/rack/blob/028438ffffd95ce1f6197d38c04fa5ea6a034a85/lib/rack/lint.rb#L65](https://github.com/rack/rack/blob/028438ffffd95ce1f6197d38c04fa5ea6a034a85/lib/rack/lint.rb#L65))
+Maybe add middleware (guess what middleware is...
+if you guessed "linked list", you'd be right!)
+
+### Echo: Adding JSON to Headcount (2:30 - 4:00)
+
+Omg, more projects?
+Yep, more projects, We're going to make our Headcounts parse JSON!
+It's like CSV but about a million times better.
+Imma let y'all try on your codebases so you can feel the pain of your decisions,
+then Imma give you mine to actually do it on, so you can feel the difference.
+What's the difference? It's that I kept all the knowledge of the CSVs out of my instances.
+Remember how I said that like a hundred times? This should help make it concrete.
+
+Oh! We could serve that JSON from our servers!
+Then if we call `DistrictRepository.from_api("http://localhost:9292/districts.json")`,
+it could call out to our server to get the JSON data
+rather than pulling it out of a file
+to initialize the DistrictRepository with!
+You don't normally get to play with fun stuff like that until module 3
+I love it! Lets do it!

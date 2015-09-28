@@ -3,7 +3,7 @@ title: 20150925
 layout: outline
 ---
 
-In 1978, the first Tommy John surgery was performed on baseball player, Tommy John. 
+In 1978, the first Tommy John surgery was performed on baseball player, Tommy John.
 
 ## All
 
@@ -47,7 +47,7 @@ No survey, no breakfast.
 * Margarett Ly
 * Josh Cass
 * Drew Reynolds
-* Travis Haby 
+* Travis Haby
 * Justin Holmes
 * Max Millington
 * Vanessa Gomez
@@ -65,7 +65,7 @@ No survey, no breakfast.
 
 * Alex Tideman
 * Adam Jensen
-* Jerrod Paul-Junker 
+* Jerrod Paul-Junker
 * Max Tedford
 * Bret Doucette
 * Tyler Graham
@@ -136,19 +136,15 @@ Stewart Fortier joins us.
 * 1:45 - BREAK
 * 2:00 - Mimi Schatz
 * 2:15 - Justin Holmes
-* 2:30 - Morgan Miller
-* 2:45 - Shannon Paige
+* 2:30 - Shannon Paige
 
 ## With Horace
 
 * 1:00 - Brett Grigsby
 * 1:15 - Max Tedford
 * 1:30 - Sally MacNicholas
-* 1:45 - Mary Beth Burch
-* 2:00 - BREAK
-* 2:15 - Jai Misra 
-* 2:30 - Lovisa Svallingson
-* 2:45 - Adam Caron
+* 1:45 - Jai Misra
+* 2:00 - Adam Caron
 
 ## With Marissa
 
@@ -161,7 +157,58 @@ Stewart Fortier joins us.
 * 2:30 - Mitch Ashby
 * 2:45 - Aaron Careaga
 
-### Electives and Student Lead Sessions (2:00 - 4:00)
+### Electives / Student Lead Sessions / Read-Write-Listen (1:00 - 4:00)
 
-TBA
+#### Recursion Basics with Justin Holzmann (Classroom A)
 
+Why Learn about Recursion?
+
+1 - Many companies view recursion as an acid test for a competent programmer.
+2 - Many people view recursion as an acid test for how well an individual understands computer programming.
+Know recursion well enough to reach for it in a technical interview (not super hard don't worry)? \#Hired.
+3 - Recursion is fun and produces awesome, clean code.
+
+#### Friday DSA with Horace 2:30 - 4:00
+
+Come learn about Trees, Tries, and Hash-Array-Mapped Tries with
+Horace in Classroom B. We'll be pairing up with other students
+and working through one of the problems in this module's
+DSA curriculum.
+
+#### Read/Write/Listen
+
+If you're not participating in an organized session, use this time
+for focused self-study. Use this time for focused self-study.
+
+Explore a new language. Try out an interesting tool or technology. Spend some time honing or configuring
+one of your tools.
+
+If you're looking for some interesting reading or watching material,
+here are a few recommendations to check out:
+
+* [What Happens Next Will Amaze You](http://idlewords.com/talks/what_happens_next_will_amaze_you.htm)
+  The latest talk from Pinboard founder Maciej Ceglowski, discussing issues of privacy and
+  security in today's software ecosystem.
+* [Real Software Engineering](https://www.youtube.com/watch?v=NP9AIUT9nos) by Glenn Vanderburg.
+  Glenn digs in to the topic of what "Engineering" means and how we can
+  benefit from applying these ideas to Software Projects.
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) by
+  Rich Hickey. This Railsconf keynote from a few years ago digs into the
+  inherent problem of complexity in software systems. Rich discusses
+  some ways we consistently get things wrong, and offers some ideas of
+  how to do better.
+* [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+  by Steve Yegge. Yegge produces some of the most prescient technical writing
+  out there, and this analysis of some common pitfalls in
+  Object-Oriented programming is no exception.
+* [The Birth and Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+  by Gary Bernhardt. This talk examines javascript from the perspective
+  of its impact on web development and where things might go in a
+  hypothetical future.
+* [Try some React](https://facebook.github.io/react/docs/tutorial.html). Everyone needs to
+  keep up with the latest JS framework hotness. React is actually a
+  pretty interesting one. Spend some time exploring React. Consider how
+  it is similar to or different from other Javascript tools you've used
+  before.
+* [Try Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/) Everyone's
+  favorite editor!
