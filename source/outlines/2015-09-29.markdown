@@ -31,6 +31,7 @@ at Turing.
 Join Horace in Classroom C for the moment you've been
 waiting for.
 
+
 ## 1505
 
 ### Getting Started with Workers (9:00 - 12:00)
@@ -38,6 +39,26 @@ waiting for.
 Big Workspace
 
 ### Project Work Time (1:00 - 4:00)
+=======
+Learn how to use background workers, Active Job and Sidekiq to improve the performance on your site.
+>>>>>>> cd43d133d6c681746c08eae280ce62aaac1e6945
+
+Clone the class repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/loremore.git background_workers
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/8t90xxg9yuk26l1/Turing%20-%20Introduction%20to%20Background%20Workers%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
+Meet Jorge in the big workspace.
+
+### Project Checkins (1:00 - 4:00)
+
+Schedule TBA.
 
 
 ## 1507
