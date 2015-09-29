@@ -20,17 +20,16 @@ Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 Meet with Horace to evaluate your last projects
 at Turing.
 
-* 9:00 - Whitney
-* 9:30 - Vanessa
+* 9:30 - Whitney
 * 10:00 - Sally, Brett, Josh
 * 10:30 - Margarett, Justin, Morgan
 * 11:00 - Max, Drew
+* 11:30 - Vanessa
 
 ### Final Assessment Kick-Off (1:00)
 
 Join Horace in Classroom C for the moment you've been
 waiting for.
-
 
 ## 1505
 
@@ -38,10 +37,8 @@ waiting for.
 
 Big Workspace
 
-### Project Work Time (1:00 - 4:00)
-=======
+
 Learn how to use background workers, Active Job and Sidekiq to improve the performance on your site.
->>>>>>> cd43d133d6c681746c08eae280ce62aaac1e6945
 
 Clone the class repo by running the following command:
 
