@@ -53,7 +53,7 @@ git clone https://github.com/turingschool-examples/storedom.git caching_strategi
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/j272qacng86g8q0/Turing%20-%20Caching%20Strategies%20in%20Rails%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/140750542)
 
 Meet Jorge in the Big Workspace.
 

@@ -35,8 +35,24 @@ waiting for.
 
 ### Getting Started with Workers (9:00 - 12:00)
 
-### Project Work Time (1:00 - 4:00)
+Learn how to use background workers, Active Job and Sidekiq to improve the performance on your site.
 
+Clone the class repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/lorem.git sending_email
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/8t90xxg9yuk26l1/Turing%20-%20Introduction%20to%20Background%20Workers%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
+Meet Jorge in the big workspace.
+
+### Project Checkins (1:00 - 4:00)
+
+Schedule TBA.
 
 ## 1507
 
