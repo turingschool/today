@@ -63,15 +63,14 @@ Meet Jorge in the big workspace.
 
 #### With Horace
 
-* 1:00 - Rick Bacci
 * 1:15 - Erik Butcher
 * 1:30 - Jack Yeh
 * 1:45 - Tyler Graham
-* 2:00 - Break
-* 2:15 - Michael Merrill
+* 2:00 - Michael Merrill
+* 2:15 - Break
 * 2:30 - Dmitry Vizersky
 * 2:45 - Adam Caron
-
+* 3:00 - Rick Bacci
 
 #### With Nathan Hessler
 
