@@ -40,7 +40,7 @@ Learn how to use background workers, Active Job and Sidekiq to improve the perfo
 Clone the class repo by running the following command:
 
 ```
-git clone https://github.com/turingschool-examples/lorem.git background_workers
+git clone https://github.com/turingschool-examples/loremore.git background_workers
 ```
 
 The materials for this class are the following:
