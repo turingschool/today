@@ -35,9 +35,6 @@ waiting for.
 
 ### Getting Started with Workers (9:00 - 12:00)
 
-Big Workspace
-
-
 Learn how to use background workers, Active Job and Sidekiq to improve the performance on your site.
 
 Clone the class repo by running the following command:
@@ -49,14 +46,43 @@ git clone https://github.com/turingschool-examples/loremore.git background_worke
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/8t90xxg9yuk26l1/Turing%20-%20Introduction%20to%20Background%20Workers%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](http://vimeo.com/140826447)
 
 Meet Jorge in the big workspace.
 
 ### Project Checkins (1:00 - 4:00)
 
-Schedule TBA.
+#### With Jorge
 
+* 1:00 - Max Millington
+* 1:15 - Alex Tideman
+* 1:30 - Lovisa Svallingson
+* 3:00 - Jai Misra
+* 3:30 - Drew Conly
+* 3:45 - Mitch Ashby
+
+#### With Horace
+
+* 1:00 - Rick Bacci
+* 1:15 - Erik Butcher
+* 1:30 - Jack Yeh
+* 1:45 - Tyler Graham
+* 2:00 - Break
+* 2:15 - Michael Merrill
+* 2:30 - Dmitry Vizersky
+* 2:45 - Adam Caron
+
+
+#### With Nathan Hessler
+
+* 1:30 - Samson Brock
+* 1:45 - Marla Brizel
+* 2:00 - Sebastian Abondano
+* 2:15 - Rob Cornell
+* 2:30 - Break
+* 2:45 - Dave Maurer
+* 3:00 - Michael Dorrance
+* 3:15 - David Shim
 
 ## 1507
 
