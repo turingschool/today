@@ -3,7 +3,7 @@ title: 20151001
 layout: outline
 ---
 
-Today, in 1890, Yosemite National Park is established by Congress.
+Today, in 1890, Yosemite National Park is established by Congress so that Apple could have a cool name for its OS in 2014.
 
 ## All
 
@@ -12,9 +12,6 @@ Today, in 1890, Yosemite National Park is established by Congress.
 With everything going on today, no warm up. But you can still do one if you want.
 
 
-## 1503 
+## 1503
 
 ### Final Project Assessments (9:00 - 12:00)
-
-
-
