@@ -11,11 +11,21 @@ Today, in 1890, Yosemite National Park is established by Congress so that Apple 
 
 With everything going on today, no warm up. But you can still do one if you want.
 
-
 ## 1503
 
-### TBA
+### Code Retreat -- Conway's Game of Life (9:00 - 12:00)
 
+This morning we're going to work on a time-honored code retreat problem:
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+![Game of Life](https://media.giphy.com/media/XwRHJ1eCGLju8/giphy.gif)
+
+### Code Retreat -- Visualizing Game of Life (9:00 - 12:00)
+
+For the afternoon, let's take our code from this morning, and see if
+we can build some simple visualizations to make the process more interactive.
+
+Also maybe we will go to Union Station and get some ice cream.
 
 ## 1505
 
@@ -98,6 +108,23 @@ Finish Line.
 * 9:00 - Sekhar & Penney
 * 9:30 - Matt & Aaron
 
+### Portfolio Review (9:30 - Done)
+
+Please make sure you are ready and on time when it is your turn. We will proceed in this order.
+
+* Amber
+* Emily
+* Sekhar
+* Jill
+* Matt
+* Penney
+* Cole
+* Marlo
+* John
+* Edgar
+* Aaron
+* Jhun
+
 #### HUGS FOR JOSH!! (10:00 - 10:30)
 
 QUICK!! QUICK!! Hugs for Josh!
@@ -125,19 +152,6 @@ Probably different than whatever you came up with.
 Probably brilliant! Face of God! Source code of the Matrix!
 Lets explore this world together, considering the decisions that could have been.
 
-#### Things will occur, be in A (1:00 - 3:00)
+#### Things will occur, be in B (1:00 - 3:00)
 
-### Portfolio Review (9:30 - Done)
 
-* Amber
-* Aaron
-* Emily
-* Jill
-* Matt
-* Sekhar
-* Penney
-* Cole
-* Marlo
-* John
-* Edgar
-* Jhun
