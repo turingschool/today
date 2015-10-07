@@ -12,51 +12,34 @@ require 'compass'
 class TodayApp
   def self.for(root)
     Rack::Builder.new do
-      image_sprockets = Sprockets::Environment.new
-      image_sprockets.append_path File.join(root, 'assets', 'images')
+      sprockets = Sprockets::Environment.new
+      sprockets.append_path File.join(root, 'assets')
+      sprockets.append_path File.join(root, 'assets', 'images')
+      sprockets.append_path Compass::Frameworks::ALL.first.stylesheets_directory
+      sprockets.js_compressor  = :uglify
+      sprockets.css_compressor = :scss
 
-      js_sprockets = Sprockets::Environment.new
-      js_sprockets.append_path File.join(root, 'assets', 'javascripts')
-      js_sprockets.js_compressor = :uglify
-
-      css_sprockets = Sprockets::Environment.new
-      css_sprockets.append_path File.join(root, 'assets', 'stylesheets')
-      css_sprockets.append_path Compass::Frameworks::ALL.first.stylesheets_directory
-      css_sprockets.css_compressor = :scss
-
-      today_app = TodayApp.new(
-        views_dir:       File.join(root, 'views'),
-        image_sprockets: image_sprockets,
-        js_sprockets:    js_sprockets,
-        css_sprockets:   css_sprockets,
-      )
-
-      map('/stylesheets') { run css_sprockets }
-      map('/javascripts') { run js_sprockets }
-      map('/images')      { run image_sprockets }
-      map('/')            { run today_app }
+      today_app = TodayApp.new views_dir: File.join(root, 'views'),
+                               sprockets: sprockets
+      run today_app
     end
   end
 
-  attr_accessor :views_dir, :image_sprockets, :js_sprockets, :css_sprockets
+  attr_accessor :views_dir, :sprockets
 
-  def initialize(views_dir:, image_sprockets:, js_sprockets:, css_sprockets:)
-    self.views_dir       = views_dir
-    self.image_sprockets = image_sprockets
-    self.js_sprockets    = js_sprockets
-    self.css_sprockets   = css_sprockets
+  def initialize(views_dir:, sprockets:)
+    self.views_dir = views_dir
+    self.sprockets = sprockets
   end
 
   def call(env)
     request  = Rack::Request.new env
     response = Rack::Response.new
-    view     = ViewContext.new views_dir,
-                               image_sprockets,
-                               js_sprockets,
-                               css_sprockets
-    body     = view.render(request.path)
-
-    if body
+    if %w[/images /javascripts /stylesheets].any? { |asset_type| request.path.start_with? asset_type }
+      # need to find / render the assets here
+      # require "pry"
+      # binding.pry
+    elsif body = ViewContext.new(views_dir, sprockets).render(request.path)
       response.body = [body]
     else
       response.status = 404

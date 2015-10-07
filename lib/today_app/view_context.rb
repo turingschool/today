@@ -30,13 +30,11 @@ class TodayApp
   end
 
   class ViewContext
-    attr_accessor :views_dir, :image_sprockets, :js_sprockets, :css_sprockets
+    attr_accessor :views_dir, :sprockets
 
-    def initialize(views_dir, image_sprockets, js_sprockets, css_sprockets)
-      self.views_dir       = views_dir
-      self.image_sprockets = image_sprockets
-      self.js_sprockets    = js_sprockets
-      self.css_sprockets   = css_sprockets
+    def initialize(views_dir, sprockets)
+      self.views_dir = views_dir
+      self.sprockets = sprockets
     end
 
     def render(path, locals={}, &block)
@@ -52,26 +50,27 @@ class TodayApp
       end
 
       if data.layout
-        wrap_layout data.layout.intern, locals, &render
+        locals[:current_page].wrap_layout data.layout.intern, locals, &render
       else
         render.call
       end
     end
 
     def stylesheet_link_tag(filename)
-      path = find_asset_path css_sprockets, filename
+      path = find_asset_path :stylesheets, filename
       %'<link href="#{path}" rel="stylesheet" type="text/css" />'
     end
 
     def javascript_include_tag(filename)
-      path = find_asset_path js_sprockets, filename
+      path = find_asset_path :javascripts, filename
       %'<script src="#{path}" type="text/javascript"></script>'
     end
 
-    def find_asset_path(sprockets, filename)
+    def find_asset_path(domain, filename)
       return filename if filename.start_with? '//'
-      p asset_path: filename
-      sprockets.each_logical_path.find { |p| p.start_with? filename }
+      filename = File.join domain.to_s, filename
+      path     = sprockets.each_logical_path.find { |p| p.start_with? filename }
+      path     = "/#{path}" unless path.start_with? "/"
     end
 
     def link_to(text, url)

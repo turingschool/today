@@ -1,4 +1,19 @@
-= current_page.wrap_layout :layout do
-  .mod-outline
-    .layout-inner-wrap
-      = yield
+!!! 5
+
+%html{lang: 'en'}
+  %head
+    %meta{charset: 'utf-8'}
+    %meta{name: 'viewport', content: 'width=device-width, initial-scale=1'}
+    %link{href: '/images/turing.ico', rel: 'icon', type: 'image/ico'}
+    = current_page.partial 'layouts/title'
+    = stylesheet_link_tag 'application'
+    = javascript_include_tag '//use.typekit.net/xxm2mvw.js'
+    = javascript_include_tag '//s7.addthis.com/js/300/addthis_widget.js#pubid=novohispano'
+    = javascript_include_tag 'application'
+
+  %body{class: %w[all all_index]}
+    = current_page.partial 'layouts/nav'
+    .mod-outline
+      .layout-inner-wrap
+        = yield
+    = current_page.partial 'layouts/footer'
