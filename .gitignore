@@ -1,7 +1,20 @@
-/tmp
+# Mac files
 .DS_Store
-build/build_status.html
+
+# Editor specific files
 *.un~
 .my-editor
 .bundle
 .idea
+
+# Bundler config
+/.bundle
+
+# Default SQLite database
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Log and temp files
+/log/*
+!/log/.keep
+/tmp
