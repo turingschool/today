@@ -1,4 +1,4 @@
-= wrap_layout :content do
+= current_page.wrap_layout :content do
   .col-article
     %h1= current_page.source_file.split('/').last.split('.').first
     = yield

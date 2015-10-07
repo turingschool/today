@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift File.expand_path('../source', __dir__)
 require 'presenters/outlines_by_cohort'
 
-describe 'outlines by cohort' do
+RSpec.describe 'outlines by cohort' do
   class MockOutline
     def initialize(raw_date)
       @raw_date = raw_date

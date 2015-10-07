@@ -10,7 +10,7 @@ module ViewHelpers
   end
 
   def nav_active(page)
-    current_page.path == "#{page}.html" ? 'active' : nil
+    'active' if path == page
   end
 
   def yyyy_mm_dd_for(date)
