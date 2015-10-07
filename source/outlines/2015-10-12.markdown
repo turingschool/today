@@ -1,0 +1,60 @@
+---
+title: 20151012
+layout: outline
+---
+
+Today, in 1979, *The Hitchhikers Guide to the Galaxy* was first published.
+
+
+## All
+
+Welcome 1510!
+
+
+## 1505
+
+### TBA
+
+
+## 1507
+
+### Building Turing (9:00 - 12:00)
+
+Let's turn our eye into making our home a little better.
+
+### The Pivot Kickoff (1:00 - 2:00)
+
+Welcome to the project that causes the most [existential crises](http://i.imgur.com/XHfE5KR.png)
+at Turing.
+
+Groups and code bases TBA.
+
+### Project Work Time (2:00 - 4:00)
+
+Let's get started.
+
+
+## 1508
+
+### Building Turing (9:00 - 10:30)
+
+Let's work on our space.
+
+### Module 2 Kickoff (10:30 - 11:00)
+
+Classroom C.
+
+### Intro to Sinatra / Task Manager Q & A
+
+Classroom C.
+
+### Intro to Bootstrap (1:00 - 4:00)
+
+Join Andrew in Classroom C.
+
+
+## 1510
+
+TBA.
+
+

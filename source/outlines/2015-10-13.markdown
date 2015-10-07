@@ -1,0 +1,58 @@
+---
+title: 20151013
+layout: outline
+---
+
+Today, in 1970, Fiji joins the United Nations.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### TBA
+
+
+## 1507
+
+### Understanding Multi-Tenancy (9:00 - 11:00)
+
+Join Jorge in Classroom B.
+
+### Seeding Data Efficiently (11:00 - 12:00)
+
+Stay in Classroom B.
+
+### Check-Ins and Project Work Time (1:00 - 4:00)
+
+
+## 1508
+
+### HTML/CSS Homework (9:00 - 9:30)
+
+Check yo homework in Classroom C.
+
+### How the Web Works (9:30 - 11:00)
+
+It's a series of tubes.
+
+### What is Rack? (11:00 - 12:00)
+
+[This never gets old.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1510
+
+TBA
+
+

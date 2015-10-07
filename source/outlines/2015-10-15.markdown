@@ -1,0 +1,44 @@
+---
+title: 20150922
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Student Advisory Board (4:30 - 5:30)
+
+TBA
+
+
+## 1505
+
+TBA
+
+
+## 1507
+
+### Project Work Time (9:00 - 12:00)
+
+### Check-Ins and Project Work Time (1:00 - 4:00)
+
+Schedule tBA
+
+
+## 1508
+
+### SQL (9:00 - 10:00)
+
+### Intro to Sequel (11:00 - 12:00)
+
+### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+
+## 1510
+
+TBA
