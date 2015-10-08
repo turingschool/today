@@ -39,6 +39,6 @@ end
 # test
 group :test do
   gem 'mrspec'
-  gem 'rspec'
+  gem 'rspec-rails'
   gem 'rack-test'
 end

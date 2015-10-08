@@ -1,7 +1,9 @@
-require 'today_app'
-require 'rack/test'
+# require 'today_app'
+# require 'rack/test'
+require 'rails_helper'
 
-RSpec.describe TodayApp do
+RSpec.feature 'api spec' do
+  before { skip }
   include Rack::Test::Methods
 
   def app
