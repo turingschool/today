@@ -1,5 +1,5 @@
-require "helpers/outline_helpers"
-require "helpers/view_helpers"
+require "outline_helpers"
+require "view_helpers"
 require 'time'
 
 class OutlinesByCohort

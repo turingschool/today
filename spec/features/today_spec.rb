@@ -2,6 +2,10 @@
 # require 'rack/test'
 require 'rails_helper'
 
+# looks_like_a_date_to_me = /^\d\d\d\d-\d\d-\d\d$/
+# web_client = Jsl::TodayJson::WebClients::NetHttp.new('http://localhost:3003')
+# today_json = Jsl::TodayJson::Client.new(web_client)
+
 RSpec.feature 'api spec' do
   before { skip }
   include Rack::Test::Methods
