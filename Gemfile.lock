@@ -32,6 +32,12 @@ GEM
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
     byebug (6.0.2)
+    capybara (2.5.0)
+      mime-types (>= 1.16)
+      nokogiri (>= 1.3.3)
+      rack (>= 1.0.0)
+      rack-test (>= 0.5.4)
+      xpath (~> 2.0)
     chunky_png (1.3.1)
     coderay (1.1.0)
     compass (1.0.1)
@@ -62,6 +68,7 @@ GEM
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     method_source (0.8.2)
+    mime-types (2.6.2)
     mini_portile (0.6.2)
     minitest (5.8.1)
     mrspec (0.2.2)
@@ -144,6 +151,8 @@ GEM
       sprockets-rails (>= 2.0, < 4.0)
     what_weve_got_here_is_an_error_to_communicate (0.0.6)
       rouge (~> 1.8, != 1.9.1)
+    xpath (2.0.0)
+      nokogiri (~> 1.3)
 
 PLATFORMS
   ruby
@@ -154,6 +163,7 @@ DEPENDENCIES
   activesupport (= 4.2.4)
   bundler (>= 1.3.0, < 2.0)
   byebug
+  capybara
   compass (= 1.0.1)
   haml (= 4.0.5)
   jquery-rails

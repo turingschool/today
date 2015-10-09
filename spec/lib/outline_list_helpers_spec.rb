@@ -1,5 +1,4 @@
-$LOAD_PATH.unshift File.expand_path('../../old/lib', __dir__)
-require 'presenters/outlines_by_cohort'
+require 'outlines_by_cohort'
 
 RSpec.describe 'outlines by cohort' do
   class MockOutline

@@ -41,4 +41,5 @@ group :test do
   gem 'mrspec'
   gem 'rspec-rails'
   gem 'rack-test'
+  gem 'capybara'
 end

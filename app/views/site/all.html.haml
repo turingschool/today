@@ -2,7 +2,7 @@
 title: All Outlines
 layout: content
 ---
-- require "presenters/outlines_by_cohort"
+- require "outlines_by_cohort"
 .outline_list
   - OutlinesByCohort.call(all_outlines, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|
     .month
@@ -32,4 +32,4 @@ layout: content
     %li= "#{link_to 'here', gh_presenter} is the Ruby class that organizes the data"
     %li= "#{link_to 'here', gh_helpers} are the helpers"
     %li= "Don't break #{link_to 'these', gh_spec} tests (you can change them if you change the functionality)."
-      
+
