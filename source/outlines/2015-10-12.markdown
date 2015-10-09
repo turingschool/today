@@ -10,6 +10,8 @@ Today, in 1979, *The Hitchhikers Guide to the Galaxy* was first published.
 
 Welcome 1510!
 
+NAME TAGS ALL WEEK
+
 ### Friday Lunch Groups
 
 (Insert description here)
@@ -39,12 +41,14 @@ Welcome 1510!
 
 ## 1505
 
+### Building Turing (9:00 - 10:30)
+
 ### TBA
 
 
 ## 1507
 
-### Building Turing (9:00 - 12:00)
+### Building Turing (9:00 - 10:30)
 
 Let's turn our eye into making our home a little better.
 
@@ -81,6 +85,80 @@ Join Andrew in Classroom C.
 
 ## 1510
 
-TBA.
+### Foxtrot Members
 
+* Aaron Greenspan
+* Admir Draganovic
+* Daniel John Winter
+* Emily Blanchard
+* Gregory Thomas Armstrong
+* James Crockett
+* Jordan Lawler
+* Joseph Perry
+* Penney Garrett
+* Steven Olson
+* Taylor Moore
+
+### Echo Members
+
+* Alexis Uriel Navarrete
+* Beth Sebian
+* Brant Wellman
+* Brenna Martenson
+* Brennan Holtzclaw
+* David Michael Codina
+* Elizabeth Anne Secor
+* Hector Noel Huertas Baeza
+* Lauren Thomson
+* Leonard Myerson
+* Steven Pentler
+* Toni Rib
+
+### All: Staff Introductions (8:30 - 9:00)
+
+Gather in Classroom A to meet the staff. If you don't know where Classroom A is,
+you should ask someone.  : )
+
+### All: Tour and Getting Started (9:00 - 9:30)
+
+We're now going to show you your new home for the next seven months.
+
+### All: Building Turing: (9:30 - 12:00)
+
+Our tradition is that with each incoming class, they spend the morning
+building something to improve the space.
+
+### All: Student Introduction Lunch (12:00 - 1:00)
+
+You've heard the staff introduce us, now it's our turn to hear about you.
+Come to Classroom B where you'll have lunch on us.
+
+### All: Success at Turing (1:00 - 2:00)
+
+Join us in Classroom A as we teach you how to be successful at Turing.
+
+### Echo: Tooling Setup (2:00 - 3:00)
+
+You'll be in Classroom A to make sure your computers are all set up.
+
+### Echo: Getting Started with Exercisms (3:00 - 4:00)
+
+Stay in Classroom A as we get you set up with [Exercisms](http://exercism.io]).
+
+### Foxtrot: Computer Set Up and How Your System Works (2:00 - 3:00)
+
+Head to the Staff Mega Table at the back of Classroom A to get things set up
+and to learn the basics of what's going on with your computer.
+
+### Foxtrot: Strings and Integers (3:00 - 4:00)
+
+Stay where you are and let's dive into a discussion on Strings and Integers.
+
+### Echo: Homework
+
+SimpleSearch
+
+### Foxtrot: Homework
+
+SuperFizz
 

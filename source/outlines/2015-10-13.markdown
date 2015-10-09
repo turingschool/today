@@ -53,6 +53,27 @@ Classroom C.
 
 ## 1510
 
-TBA
+### Echo: SimpleSearch Recap (9:00 - 9:30)
 
+Let's review your homework in Classroom A.
+
+### Echo: String and Integer Riddles (9:30 - 10:30)
+
+[String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown)
+
+### Foxtrot: String and Integer Riddles Recap (9:00 - 9:30)
+
+Meet at the Mega Table to talk about SuperFizz and share some implementations.
+
+### Foxtrot: Flow Control (9:30 - 10:30)
+
+The code must flow.
+
+### All: Problems, Solutions and Algorithms (10:30 - 12:00)
+
+Assemble in Classroom A.
+
+### All: Scavenger Hunt (1:00 - 4:00)
+
+There will be a nacho bar on your glorious return.
 
