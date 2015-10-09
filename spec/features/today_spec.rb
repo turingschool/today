@@ -8,33 +8,31 @@ require 'rails_helper'
 
 RSpec.feature 'api spec' do
   it 'can render the outlines' do
-    response = page.visit '/outlines/2015-04-21'
-    expect(response.status).to eq 200
+    page.visit '/outlines/2015-04-21'
+    expect(page.status_code).to eq 200
 
     # renders markdown
-    expect(response.body).to include '<h2>All</h2>'
+    h2s = page.all('h2').map(&:text)
+    expect(h2s).to include 'All'
 
     # for the expected file
-    expect(response.body).to include 'TechHire will have a Hangout with Jeff at 1:30'
+    expect(page.body).to include 'TechHire will have a Hangout with Jeff at 1:30'
 
     # doesn't render frontmatter
-    expect(response.body).to_not include 'layout: outline'
+    expect(page.body).to_not include 'layout: outline'
 
     # outline layout from haml
-    expect(response.body).to match /<h1>\s*2015-04-21\s*<\/h1>/m
+    h1s = page.all('h1').map(&:text)
+    expect(h1s).to include '2015-04-21'
 
     # partial for the title
-    expect(response.body).to match /<title>\s*20150421\s*<\/title>/m
-
-    # stylesheet / js link tags
-    expect(response.body).to include %'<link href="stylesheets/application.css" rel="stylesheet" type="text/css" />'
-    expect(response.body).to include %'<script src="//use.typekit.net/xxm2mvw.js" type="text/javascript"></script>'
+    expect(page.title.strip).to eq '2015-04-21'
   end
 
   it 'renders a 404 page when asked for an unknown path' do
-    response = page.visit '/outlines/9999-99-99'
-    expect(response.status).to eq 404
-    expect(response.body).to eq '404 - page not found'
+    page.visit '/outlines/9999-99-99'
+    expect(page.status_code).to eq 404
+    expect(page.body).to include 'The page you were looking for doesn\'t exist.'
   end
 
   it 'can render all.html.haml'

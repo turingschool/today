@@ -5,19 +5,19 @@
     %meta{charset: 'utf-8'}
     %meta{name: 'viewport', content: 'width=device-width, initial-scale=1'}
     %link{href: '/images/turing.ico', rel: 'icon', type: 'image/ico'}
-    = current_page.partial 'layouts/title'
+    = render 'layouts/title'
     = stylesheet_link_tag 'application'
     = javascript_include_tag '//use.typekit.net/xxm2mvw.js'
     = javascript_include_tag '//s7.addthis.com/js/300/addthis_widget.js#pubid=novohispano'
     = javascript_include_tag 'application'
 
   %body{class: %w[all all_index]}
-    = current_page.partial 'layouts/nav'
+    = render 'layouts/nav'
     .mod-outline
       .layout-inner-wrap
         .col-article
-          %h1= current_page.source_file.split('/').last.split('.').first
+          %h1= @title || raise("Set the title!")
           = yield
         .col-sidebar
-          = partial 'layouts/sidebar'
-    = current_page.partial 'layouts/footer'
+          = render 'layouts/sidebar'
+    = render 'layouts/footer'

@@ -1,8 +1,3 @@
----
-title: 20150421
-layout: outline
----
-
 ## All
 
 ### Posse Warmup (8:30 - 9:00)
@@ -79,9 +74,9 @@ Add users and authentication to your My Jams app:
 * User should be able to create accounts with a unique username
 * User should be able to log into their account
 * User should be able to log out of their account
-* Extension: Associate songs with users. When a user logs in, they should see only their songs when they navigate to `/songs`. When they create a song through the web interface, that song should be associated with the user. 
+* Extension: Associate songs with users. When a user logs in, they should see only their songs when they navigate to `/songs`. When they create a song through the web interface, that song should be associated with the user.
 
-Remember to use the app we created in this morning's lesson and the slides (linked above) for reference. 
+Remember to use the app we created in this morning's lesson and the slides (linked above) for reference.
 
 ## 1503 - Chiselers
 

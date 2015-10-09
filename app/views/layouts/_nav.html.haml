@@ -4,6 +4,6 @@
 
     %nav
       %ul
-        %li{class: current_page.nav_active('today')}= link_to 'Today', '/'
-        %li{class: current_page.nav_active('all')}= link_to 'All Outlines', '/all/'
-        %li{class: current_page.nav_active('main_site')}= link_to 'Main Site', 'http://turing.io/'
+        %li{class: ('active' if @active == 'today')}= link_to 'Today', '/'
+        %li{class: ('active' if @active == 'all')}= link_to 'All Outlines', '/all/'
+        %li{class: ('active' if @active == 'main_site')}= link_to 'Main Site', 'http://turing.io/'

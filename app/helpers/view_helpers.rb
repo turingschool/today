@@ -9,8 +9,8 @@ module ViewHelpers
     text.split("\n\n")[0..1].join("\n\n")
   end
 
-  def nav_active(page)
-    'active' if path == page
+  def nav_active(active, page)
+    'active' if active == page
   end
 
   def yyyy_mm_dd_for(date)
