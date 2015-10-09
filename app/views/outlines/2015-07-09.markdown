@@ -1,8 +1,3 @@
----
-title: 20150709
-layout: outline
----
-
 Today, in 1981, Donkey Kong is released by Nintendo. This marks the first appearance of Mario.
 
 

@@ -1,8 +1,3 @@
----
-title: 20150609
-layout: outline
----
-
 Today in History: In 1934, Donald Duck makes his first appearance.
 
 ## All

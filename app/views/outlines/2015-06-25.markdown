@@ -1,9 +1,3 @@
----
-title: 20150623
-layout: outline
----
-
-
 ## All
 
 ### Warm Up (8:30 - 9:00)

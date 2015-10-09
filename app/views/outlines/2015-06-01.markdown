@@ -1,8 +1,3 @@
----
-title: 20150601
-layout: outline
----
-
 Today in History: It's Morgan Freeman's birthday AND Amy Schumer's birthday.
 
 ## All

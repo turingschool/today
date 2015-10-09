@@ -1,8 +1,3 @@
----
-title: 20150807
-layout: outline
----
-
 ## All
 
 ### Surveys and Breakfast (8:00 - 9:00)

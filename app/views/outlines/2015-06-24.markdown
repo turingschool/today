@@ -1,8 +1,3 @@
----
-title: 20150624
-layout: outline
----
-
 Today in History: Remember that last scene in Braveheart, where Robert the Bruce lead the Scots
 to victory against the English? That happened today in 1314.
 

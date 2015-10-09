@@ -1,8 +1,3 @@
----
-title: 20150610
-layout: outline
----
-
 Today in History: The Apple II goes on sale in 1977.
 
 ## All

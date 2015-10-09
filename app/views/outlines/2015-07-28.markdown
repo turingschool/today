@@ -1,8 +1,3 @@
----
-title: 20150728
-layout: outline
----
-
 Today, in 1935, the Boeing B-17 Flying Fortress flew for the first time.
 
 ## All

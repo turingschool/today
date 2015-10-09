@@ -1,8 +1,3 @@
----
-title: 20150611
-layout: outline
----
-
 Today in History:  In 1963, John F. Kennedy, in an address from the Oval Office, proposes
 what would become the Civil Rights Act of 1964.
 

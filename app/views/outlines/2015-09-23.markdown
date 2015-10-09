@@ -1,8 +1,3 @@
----
-title: 20150923
-layout: outline
----
-
 Today, in 1889, Nintendo was founded.
 
 ## Stranger Danger

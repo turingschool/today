@@ -1,8 +1,3 @@
----
-title: 20150727
-layout: outline
----
-
 Today, in 1929, the [Geneva Convention](https://www.law.cornell.edu/wex/geneva_conventions) was signed.
 
 ## All

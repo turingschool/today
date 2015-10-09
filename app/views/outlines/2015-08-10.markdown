@@ -1,8 +1,3 @@
----
-title: 20150810
-layout: outline
----
-
 ## All
 
 ## 1502

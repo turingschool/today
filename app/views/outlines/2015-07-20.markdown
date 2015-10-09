@@ -1,8 +1,3 @@
----
-title: 20150720
-layout: outline
----
-
 Today, in 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon.
 
 ## All

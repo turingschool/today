@@ -1,8 +1,3 @@
----
-title: 20150714
-layout: outline
----
-
 Today in 1789, citizens of Paris storm the Bastille.
 
 ## All

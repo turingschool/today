@@ -1,8 +1,3 @@
----
-title: 20150825
-layout: outline
----
-
 Today, in 1916, the United States National Park Service is created.
 
 ## All

@@ -1,8 +1,3 @@
----
-title: 20150925
-layout: outline
----
-
 In 1978, the first Tommy John surgery was performed on baseball player, Tommy John.
 
 ## All

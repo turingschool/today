@@ -1,8 +1,3 @@
----
-title: 20150929
-layout: outline
----
-
 Today, in 1988, NASA launches the first shuttle since the Challenger disaster.
 
 ## All

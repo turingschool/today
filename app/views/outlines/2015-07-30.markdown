@@ -1,8 +1,3 @@
----
-title: 20150730
-layout: outline
----
-
 Today in 1975, Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant. He is never seen or heard from again.
 
 ## All

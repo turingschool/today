@@ -1,8 +1,3 @@
----
-title: 20151002
-layout: outline
----
-
 Happy Birthday Avery Brooks!
 
 ## All Except for 1503

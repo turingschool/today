@@ -1,8 +1,3 @@
----
-title: 20150902
-layout: outline
----
-
 Today in 1945, combat ends in the Pacific Theater, as Japan formally surrenders. 70 years and two days later, Hopper Posse will try to deliver breakfast.
 
 ## All

@@ -1,8 +1,3 @@
----
-title: 20150917
-layout: outline
----
-
 Today, in 1630, the worst city in the entire world, Boston, was founded.
 
 It's also [Jens Voigt's](https://en.wikipedia.org/wiki/Jens_Voigt) birthday.

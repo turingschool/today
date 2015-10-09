@@ -1,8 +1,3 @@
----
-title: 20150715
-layout: outline
----
-
 Today, in 1834, the Spanish Inquisition was disbanded. That was unexpected.
 
 ## All

@@ -1,8 +1,3 @@
----
-title: 20151001
-layout: outline
----
-
 Today, in 1890, Yosemite National Park is established by Congress so that Apple could have a cool name for its OS in 2014.
 
 ## All

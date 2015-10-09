@@ -1,8 +1,3 @@
----
-title: 20150622
-layout: outline
----
-
 Today in History: In 1944, President Franklin D. Roosevelt signs into law
 the Servicemen's Readjustment Act of 1944, now known as the G.I. Bill.
 

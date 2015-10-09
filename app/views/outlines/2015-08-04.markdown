@@ -1,8 +1,3 @@
----
-title: 20150804
-layout: outline
----
-
 Today, we celebrate Coast Guard Day.
 
 ## All

@@ -1,8 +1,3 @@
----
-title: 20150401
-layout: outline
----
-
 ## All
 
 ### Warm-Up (8:30 - 8:50)

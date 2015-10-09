@@ -1,8 +1,3 @@
----
-title: 20150911
-layout: outline
----
-
 Today, in 2008, the Large Hadron Collider was turned on.
 
 ## All

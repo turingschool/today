@@ -1,8 +1,3 @@
----
-title: 20150716
-layout: outline
----
-
 Today in 1969, [Apollo 11](https://en.wikipedia.org/wiki/Apollo_11)  was launched from the Kennedy Space Center.
 
 It's also Andre Greipel's birthday!

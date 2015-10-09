@@ -1,7 +1,3 @@
----
-title: 20150915
-layout: outline
----
  Today, in 1835, the HMS Beagle reaches the Galapagos Islands with Charles Darwin on board.
 
  ## All

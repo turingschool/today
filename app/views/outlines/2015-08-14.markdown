@@ -1,8 +1,3 @@
----
-title: 20150814
-layout: outline
----
-
 ## All
 
 ### Please fill these out throughout the day.

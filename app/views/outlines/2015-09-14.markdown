@@ -1,8 +1,3 @@
----
-title: 20150914
-layout: outline
----
-
 Today, in 2000, Microsoft releases Windows ME. Me no like it.
 
 ## All

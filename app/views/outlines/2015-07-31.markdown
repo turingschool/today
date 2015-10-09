@@ -1,8 +1,3 @@
----
-title: 20150731
-layout: outline
----
-
 ## All
 
 ### Group Retrospectives (9:00 - 9:45)
