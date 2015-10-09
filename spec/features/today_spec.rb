@@ -7,19 +7,8 @@ require 'rails_helper'
 # today_json = Jsl::TodayJson::Client.new(web_client)
 
 RSpec.feature 'api spec' do
-  before { skip }
-  include Rack::Test::Methods
-
-  def app
-    described_class.for(root_dir)
-  end
-
-  def root_dir
-    File.expand_path '..', __dir__
-  end
-
   it 'can render the outlines' do
-    response = get '/outlines/2015-04-21'
+    response = page.visit '/outlines/2015-04-21'
     expect(response.status).to eq 200
 
     # renders markdown
@@ -43,7 +32,7 @@ RSpec.feature 'api spec' do
   end
 
   it 'renders a 404 page when asked for an unknown path' do
-    response = get '/outlines/9999-99-99'
+    response = page.visit '/outlines/9999-99-99'
     expect(response.status).to eq 404
     expect(response.body).to eq '404 - page not found'
   end

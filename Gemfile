@@ -17,7 +17,7 @@ gem 'jquery-rails'
 gem 'uglifier', '>= 1.3.0'
 
 # views
-gem 'compass', '1.0.1'
+gem 'compass-rails', '>= 2.0.2'
 gem 'sass-rails', '~> 5.0'
 gem 'haml',   '4.0.5'
 gem 'redcarpet'
