@@ -35,6 +35,16 @@ RSpec.feature 'api spec' do
     expect(page.body).to include 'The page you were looking for doesn\'t exist.'
   end
 
+  it 'can render all the outlines' do
+    outline_dir = File.expand_path '../../app/views/outlines', __dir__
+    pattern     = File.join outline_dir, '*'
+    Dir[pattern].each do |filename|
+      date = File.basename(filename).chomp(".markdown")
+      page.visit "/outlines/#{date}"
+      expect(page.status_code).to eq 200
+    end
+  end
+
   it 'can render all.html.haml'
   # something about index.html.erb
 end

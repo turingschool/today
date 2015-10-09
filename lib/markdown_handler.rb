@@ -1,13 +1,8 @@
 require 'redcarpet'
 
 module MarkdownHandler
-  def self.erb
-    @erb ||= ActionView::Template.registered_template_handler(:erb)
-  end
-
   def self.call(template)
-    compiled_source = erb.call(template)
-    "Redcarpet::Markdown.new(Redcarpet::Render::HTML.new).render((#{compiled_source}));"
+    Redcarpet::Markdown.new(Redcarpet::Render::HTML.new).render(template.source).inspect
   end
 end
 
