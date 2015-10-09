@@ -29,6 +29,7 @@ RSpec.feature 'api spec' do
     expect(page.title.strip).to eq '2015-04-21'
   end
 
+  # TODO: change to a redirect to /all
   it 'renders a 404 page when asked for an unknown path' do
     page.visit '/outlines/9999-99-99'
     expect(page.status_code).to eq 404
@@ -43,6 +44,18 @@ RSpec.feature 'api spec' do
       page.visit "/outlines/#{date}"
       expect(page.status_code).to eq 200
     end
+  end
+
+  def today_is(string_date)
+    date = Date.parse string_date
+    allow(Date).to receive(:today).and_return(date)
+    allow(Date).to receive(:current).and_return(date)
+  end
+
+  it 'redirects from the root path to todays page' do
+    today_is '2015-04-22'
+    page.visit '/'
+    expect(page.current_path).to eq '/outlines/2015-04-22'
   end
 
   it 'can render all.html.haml'

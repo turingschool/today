@@ -1,6 +1,11 @@
 require 'markdown_handler'
 
 class OutlinesController < ApplicationController
+  def today
+    date = Date.current.strftime('%Y-%m-%d')
+    redirect_to outline_path(date)
+  end
+
   def show
     @title = params[:date]
     if has_outline? params[:date]
