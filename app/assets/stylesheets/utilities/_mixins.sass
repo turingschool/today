@@ -9,10 +9,12 @@
 @mixin data-uri-bg($image, $properties: false)
   @if $properties == false
     background-image: inline-image($image)
-    *background-image: image-url($image)
+    *
+      background-image: image-url($image)
   @else
     background: inline-image($image) $properties
-    *background: image-url($image) $properties
+    *
+      background: image-url($image) $properties
 
 @mixin max-width($width)
   @media (max-width: $width)
