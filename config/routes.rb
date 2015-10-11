@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
-  get 'outlines/:date' => 'outlines#show', as: :outline
+  get 'all'            => 'outlines#index', as: :outlines
+  get 'outlines/:date' => 'outlines#show',  as: :outline
   root 'outlines#today'
 end

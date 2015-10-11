@@ -6,8 +6,8 @@ require 'rails_helper'
 # web_client = Jsl::TodayJson::WebClients::NetHttp.new('http://localhost:3003')
 # today_json = Jsl::TodayJson::Client.new(web_client)
 
-RSpec.feature 'api spec' do
-  it 'can render the outlines' do
+RSpec.feature 'today spec' do
+  it 'can render the existing markdown outlines' do
     page.visit '/outlines/2015-04-21'
     expect(page.status_code).to eq 200
 
@@ -29,11 +29,10 @@ RSpec.feature 'api spec' do
     expect(page.title.strip).to eq '2015-04-21'
   end
 
-  # TODO: change to a redirect to /all
-  it 'renders a 404 page when asked for an unknown path' do
+  # TODO: check the remote service before redirecting
+  it 'redirects to /all when asked for an unknown outline' do
     page.visit '/outlines/9999-99-99'
-    expect(page.status_code).to eq 404
-    expect(page.body).to include 'The page you were looking for doesn\'t exist.'
+    expect(page.current_path).to eq '/all'
   end
 
   it 'can render all the outlines' do
@@ -58,6 +57,10 @@ RSpec.feature 'api spec' do
     expect(page.current_path).to eq '/outlines/2015-04-22'
   end
 
-  it 'can render all.html.haml'
-  # something about index.html.erb
+  # TODO: something about when there is no outline for the date
+  #   (pull from portal, if it exists)
+  it 'renders all the outlines here, combined with the oulines from portal' do
+    skip
+    # something about index.html.erb
+  end
 end

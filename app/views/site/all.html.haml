@@ -1,7 +1,3 @@
----
-title: All Outlines
-layout: content
----
 - require "outlines_by_cohort"
 .outline_list
   - OutlinesByCohort.call(all_outlines, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|

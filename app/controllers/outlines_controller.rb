@@ -1,6 +1,10 @@
 require 'markdown_handler'
 
 class OutlinesController < ApplicationController
+  def index
+    render text: 'all outlines'
+  end
+
   def today
     date = Date.current.strftime('%Y-%m-%d')
     redirect_to outline_path(date)
@@ -11,10 +15,7 @@ class OutlinesController < ApplicationController
     if has_outline? params[:date]
       render params[:date], layout: 'outline'
     else
-      # http://stackoverflow.com/questions/2385799/how-to-redirect-to-a-404-in-rails#answer-4983354
-      render file: "#{Rails.root}/public/404",
-             layout: false,
-             status: :not_found
+      redirect_to outlines_path
     end
   end
 
