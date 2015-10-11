@@ -160,9 +160,9 @@ Join us in Classroom A as we teach you how to be successful at Turing.
 
 You'll be in Classroom A to make sure your computers are all set up.
 
-### Echo: Getting Started with Exercisms (3:00 - 4:00)
+### Echo: Getting Started with Exercism (3:00 - 4:00)
 
-Stay in Classroom A as we get you set up with [Exercisms](http://exercism.io]).
+Stay in Classroom A as we get you set up with [Exercism](http://exercism.io).
 
 ### Foxtrot: Computer Set Up and How Your System Works (2:00 - 3:00)
 
