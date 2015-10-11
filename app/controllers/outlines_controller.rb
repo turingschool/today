@@ -13,10 +13,16 @@ class OutlinesController < ApplicationController
   def show
     @title = params[:date]
     if has_outline? params[:date]
-      render params[:date], layout: 'outline'
-    else
-      redirect_to outlines_path
+      return render params[:date], layout: 'outline'
     end
+
+    client = Rails.configuration.today_json
+    day    = client.for(params[:date])
+    if day.unscheduled?
+      return redirect_to outlines_path
+    end
+
+    render inline: day.to_markdown, type: :markdown, layout: 'outline'
   end
 
   private
