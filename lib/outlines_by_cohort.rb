@@ -1,4 +1,3 @@
-require "outline_helpers"
 require "view_helpers"
 require 'time'
 
@@ -16,30 +15,27 @@ class OutlinesByCohort
     ['1406', Date.parse('2014-06-03')...Date.parse('2014-07-21')],
   ]
 
-  def self.call(outlines, cohorts)
+  def self.call(outline_dates, cohorts)
     cohorts.map { |cohort_name, date_range|
       [cohort_name,
-       outlines_by_week(outlines_between(outlines, date_range))
+       outlines_by_week(outlines_between(outline_dates, date_range))
       ]
     }.select { |cohort_name, outlines_by_week| outlines_by_week.any? }
   end
 
   private
 
-  extend OutlineHelpers
   extend ViewHelpers
 
-  def self.outlines_between(outlines, date_range)
-    outlines.select do |outline|
-      date_range.cover? outline_date(outline.path)
+  def self.outlines_between(outline_dates, date_range)
+    outline_dates.select do |date|
+      date_range.cover? date
     end
   end
 
-  def self.outlines_by_week(outlines)
-    outlines.map      { |outline|                 [outline_date(outline.path), outline] }
-            .group_by { |date, outline|           beginning_of_week date                }
-            .each     { |date, dates_to_outlines| dates_to_outlines.sort_by! &:first    }
-            .sort_by  { |date, dates_to_outlines| date                                  }
-            .map      { |date, dates_to_outlines| [date, dates_to_outlines.map(&:last)] }
+  def self.outlines_by_week(ouline_dates)
+    ouline_dates.group_by { |date|        beginning_of_week date }
+                .each     { |week, dates| dates.sort!            }
+                .sort_by  { |week, dates| week                   }
   end
 end

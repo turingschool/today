@@ -1,19 +1,18 @@
 - require "outlines_by_cohort"
 .outline_list
-  - OutlinesByCohort.call(all_outlines, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|
+  - OutlinesByCohort.call(@outline_dates, OutlinesByCohort::COHORTS).each do |cohort_name, weeks_to_outlines|
     .month
       .monthname
         = link_to cohort_name, "/all##{cohort_name}", id: cohort_name
 
-      - weeks_to_outlines.each.with_index(1) do |(week_start, outlines), week_number|
-        - week_id = "week-#{yyyy_mm_dd_for week_start}"
+      - weeks_to_outlines.each.with_index(1) do |(week_start, dates), week_number|
+        - week_id = "week-#{ViewHelpers.yyyy_mm_dd_for week_start}"
         .week{id: week_id}
           .weeknumber
-            = link_to "Week&nbsp;#{week_number}", "##{week_id}"
+            = link_to "Week&nbsp;#{week_number}".html_safe, "##{week_id}"
           %ul.weekdays
-            - outlines.each do |outline|
-              - date = outline_date outline.path
-              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date)
+            - dates.each do |date|
+              %li= link_to date.strftime('%d %b'), outline_path(date), id: ViewHelpers.yyyy_mm_dd_for(date)
 
 %aside
   %h3 Have ideas about how this page could be better?

@@ -1,26 +1,8 @@
 require 'outlines_by_cohort'
 
 RSpec.describe 'outlines by cohort' do
-  class MockOutline
-    def initialize(raw_date)
-      @raw_date = raw_date
-    end
-
-    def data
-      {layout: 'outline'}
-    end
-
-    def path
-      "outlines/#@raw_date"
-    end
-
-    def ==(other)
-      path == other.path
-    end
-  end
-
   def outline_on(date)
-    MockOutline.new(date)
+    Date.parse date
   end
 
   def outlines_between(start_day, end_day)

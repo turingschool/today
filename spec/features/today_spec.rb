@@ -56,7 +56,7 @@ RSpec.feature 'Rendering outlines' do
 
     it 'can render all the outlines' do
       outline_dir = File.expand_path '../../app/views/outlines', __dir__
-      pattern     = File.join outline_dir, '*'
+      pattern     = File.join outline_dir, '[0-9]*'
       Dir[pattern].each do |filename|
         date = File.basename(filename).chomp(".markdown")
         page.visit "/outlines/#{date}"
@@ -67,6 +67,35 @@ RSpec.feature 'Rendering outlines' do
 
 
   describe '/all' do
+    def with_cohort(name, date_range)
+      OutlinesByCohort::COHORTS << [name, date_range]
+      yield
+    ensure
+      OutlinesByCohort::COHORTS.pop
+    end
+
+    it 'renders all the outlines here, combined with the oulines from portal' do
+      with_cohort '1111', Date.parse('1999-01-01')...Date.parse('2003-01-01') do
+        client.knows_dates ['2000-01-01', '2002-02-03']
+        page.visit '/all'
+        expect(page.status_code).to eq 200
+        known_dates = page.all('.weekdays a').map { |a| a[:href] }
+
+        # from portal
+        expect(known_dates).to include outline_path('2000-01-01')
+        expect(known_dates).to include outline_path('2002-02-03')
+
+        # locally
+        expect(known_dates).to include outline_path('2015-04-17')
+
+        # unknown
+        expect(known_dates).to_not include outline_path('2000-01-02')
+      end
+    end
+  end
+
+
+  describe '/' do
     def today_is(string_date)
       date = Date.parse string_date
       allow(Date).to receive(:today).and_return(date)
@@ -77,13 +106,6 @@ RSpec.feature 'Rendering outlines' do
       today_is '2015-04-22'
       page.visit '/'
       expect(page.current_path).to eq '/outlines/2015-04-22'
-    end
-
-    # TODO: something about when there is no outline for the date
-    #   (pull from portal, if it exists)
-    it 'renders all the outlines here, combined with the oulines from portal' do
-      skip
-      # something about index.html.erb
     end
   end
 end
