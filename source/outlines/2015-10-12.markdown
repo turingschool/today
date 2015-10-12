@@ -91,7 +91,11 @@ Let's work on our space.
 
 ### Module 2 Kickoff (10:30 - 11:00)
 
-Classroom C.
+Some important links:
+
+* [Homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
+* [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/module_2_scope_and_sequence.markdown)
+* [Module 2 Calendar](https://www.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9ycHMyaGcxbmZxamloNHJjbDNnbDZzNGxwa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
 
 ### Intro to Sinatra / Task Manager Q & A
 
