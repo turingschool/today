@@ -3,7 +3,7 @@ title: 20151012
 layout: outline
 ---
 
-Today, in 1979, *The Hitchhikers Guide to the Galaxy* was first published.
+Today, in 1979, *The Hitchhikers Guide to the Galaxy* was first published when people still hitchhiked without getting hurt.
 
 
 ## All
@@ -25,7 +25,7 @@ NAME TAGS ALL WEEK
 * Aaron Greenspan, Jai Misra, Penney Garrett, Matt Hecker
 * Chad Minnerath, Mitch Ashby, Jamie Kawahara, Drew Conly
 * David Shim, Adam Caron, Jill Donohue, Matt Ewell
-* Mike Reeves, Mimi Schatz, Rose Kohn, Adam Jensen
+* Stanley Siudzinski, Mimi Schatz, Rose Kohn, Adam Jensen
 * Beth Sebian, Toni Rib, Michael Dorrance, Ross Edfort
 * Lauren Thomson, Robbie Lane, Bret Doucette, Julian Locke
 * Justin Pease, Russell Harms, Erik Butcher, Shannon Paige
@@ -180,4 +180,3 @@ SimpleSearch
 ### Foxtrot: Homework
 
 SuperFizz
-
