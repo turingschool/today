@@ -14,7 +14,10 @@ NAME TAGS ALL WEEK
 
 ### Friday Lunch Roulette
 
-Get ready to meet some of your fellow Turing classmates with Friday Lunch Roulette! During the week, find your group listed below and decide on a plan for Friday lunch (go out to eat, bring lunch to Turing, etc.). 
+We're going to start a new thing this week to help build some stronger cross-cohort
+relationships.
+
+Get ready to meet some of your fellow Turing students with Friday Lunch Roulette! Early this week, find your group listed below and decide on a plan for Friday lunch (go out to eat, bring lunch to Turing, etc.). Just please make sure that'll stay in the 12-1pm window.
 
 * Jordan Lawler, Rick Bacci, Dan Winter, Ryan Asensio
 * Max Millington, Jeff Ruane, Marlo Major, James Crockett
@@ -137,50 +140,44 @@ Join Andrew in Classroom C.
 * Steven Pentler
 * Toni Rib
 
-### All: Staff Introductions (8:30 - 9:00)
+### Staff Introductions (8:30 - 9:00)
 
 Gather in Classroom A to meet the staff. If you don't know where Classroom A is,
 you should ask someone.  : )
 
-### All: Tour and Getting Started (9:00 - 9:30)
+### Building Turing: (9:00 - 10:30)
+
+It's a Turing tradition to spend a chunk of the first day working on our space.
+
+### Tour and Getting Started (10:30 - 11:00)
 
 We're now going to show you your new home for the next seven months.
 
-### All: Building Turing: (9:30 - 12:00)
+### Computer Setup (11:00 - 12:00)
 
-Our tradition is that with each incoming class, they spend the morning
-building something to improve the space.
+You'll be in Classroom A to make sure your computers are all set up and ready to go.
 
-### All: Student Introduction Lunch (12:00 - 1:00)
+### Student Introduction Lunch (12:00 - 1:00)
 
-You've heard the staff introduce us, now it's our turn to hear about you.
-Come to Classroom B where you'll have lunch on us.
+You've heard the staff intros, now it's our turn to hear about you.
+We'll have lunch and chat in Classroom A.
 
-### All: Success at Turing (1:00 - 2:00)
+### Success at Turing (1:00 - 2:30)
 
-Join us in Classroom A as we teach you how to be successful at Turing.
+Meet in Classroom A where we'll talk about the educational theories and general
+strategy of how Turing is setup, then help you turn that into a strategy for success.
 
-### Echo: Tooling Setup (2:00 - 3:00)
+### Split Sessions (2:30 - 4:00)
 
-You'll be in Classroom A to make sure your computers are all set up.
-
-### Echo: Getting Started with Exercism (3:00 - 4:00)
+#### Echo: Getting Started with Exercism (2:30 - 4:00)
 
 Stay in Classroom A as we get you set up with [Exercism](http://exercism.io).
 
-### Foxtrot: Computer Set Up and How Your System Works (2:00 - 3:00)
+### Foxtrot: Strings and Integers (2:30 - 4:00)
 
-Head to the Staff Mega Table at the back of Classroom A to get things set up
-and to learn the basics of what's going on with your computer.
+Join Jeff at the "Mega Table" in the staff area to talk about [Strings & Integers](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown).
 
-### Foxtrot: Strings and Integers (3:00 - 4:00)
+### Homework
 
-Stay where you are and let's dive into a discussion on Strings and Integers.
-
-### Echo: Homework
-
-SimpleSearch
-
-### Foxtrot: Homework
-
-SuperFizz
+* Foxtrot: Complete [these String/Integer exercises for tomorrow](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
+* Echo: Complete [this SuperFizz exercise for tomorrow](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
