@@ -77,7 +77,13 @@ at Turing.
 
 [Details](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/son_of_store_engine.markdown)
 
-Groups and code bases TBA.
+* David Stinnette & George Hudson & Chris Cenatiempo (David's codebase)
+* Bret Doucette & Matt Ewell & Russell Harms (Russell's codebase)
+* Rose Kohn & Jeff Ruane & Regis Boudinot (Rose's codebase)
+* Mimi Schatz & Adam Jensen & Mary Beth Burch (Adam's codebase)
+* Michael Wong & Jerrod Paul Junker & Travis Haby (Jerrod's codebase)
+* Justin Holzmann & Matt Hecker & Stanley Siudzinski (Stanley's codebase)
+* Ryan Asensio & Jason Wright & Alon Waisman (Jason's codebase)
 
 The Big Workspace.
 
