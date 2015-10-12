@@ -53,9 +53,9 @@ Classroom C.
 
 ## 1510
 
-### Echo: SimpleSearch Recap (9:00 - 9:30)
+### Echo: Working With Strings and Integers Recap (9:00 - 9:30)
 
-Let's review your homework in Classroom A.
+Let's review your [homework](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown) in Classroom A.
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
 
