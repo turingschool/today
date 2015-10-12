@@ -83,7 +83,7 @@ Let's turn our eye into making our home a little better.
 Welcome to the project that causes the most [existential crises](http://i.imgur.com/XHfE5KR.png)
 at Turing.
 
-[Details](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/son_of_store_engine.markdown)
+[Details](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 * David Stinnette & George Hudson & Chris Cenatiempo (David's codebase)
 * Bret Doucette & Matt Ewell & Russell Harms (Russell's codebase)
