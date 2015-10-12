@@ -53,15 +53,19 @@ Build things. Make things better. Or, at least do no harm.
 
 Go over your Intermission Assignment in Classroom C with Steve.
 
-* [Project specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+* [Module 4 Intermission Assignments](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown)
 
 ### Introduction to Client Side Development (11:30 - 12:00)
 
 Stick around with Steve in Classroom C to talk about what is and is not client-side development.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/how_javascript_frontends_work.markdown)
+
 ### Ideabox 2.0 (1:00 - 2:00)
 
 Learn how to box some ideas.
+
+* [Project specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
 ### Ideabox 2.0 Work Time (2:00 - 4:00)
 
