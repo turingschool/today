@@ -16,8 +16,37 @@ Today, in 1970, Fiji joins the United Nations.
 
 ## 1505
 
-### TBA
+### Code Challenge: Echo & Countdown (9:00 - 10:00)
 
+You'll work in the following pairs:
+
+* Jai Misra & Erik Butcher
+* Rick Bacci & Alex Tideman
+* Max Millington & Michael Dorrance
+* Dmitry Vizersky & David Shim
+* Jamie Kawahara & Dave Maurer
+* Mitch Ashby & Marla Brizel
+* Samson Brock & Sebastian Abondano
+* Adam Caron & Lovisa Svallingson & Rob Cornell
+
+For the first challenge, you can run the code using Node or in the browser (using something like JSBin). For the second challenge: clone the repository, run `npm install`, run `grunt` to validate your HTML and CSS.
+
+* [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
+* [Countdown](https://github.com/turingschool-examples/countdown)
+
+### Array Prototype Methods (10:00 - 12:00)
+
+Meet with Steve in the Big Workspace to talk about the world's most popular programming language. In this lesson, we'll cover the following.
+
+* How to use `Array.prototype`'s `forEach`, `map`, `filter`, `reduce`, and `sort` methods.
+* How to create DOM nodes from API data and append them to the page
+* Read and write simple unit and DOM tests using [Mocha][].
+
+We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
+
+### Project Work Time (1:00 - 4:00)
+
+Listen, those ideas aren't going to box themselves.
 
 ## 1507
 
