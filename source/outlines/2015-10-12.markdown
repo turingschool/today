@@ -169,7 +169,11 @@ We're now going to show you your new home for the next seven months.
 
 ### Computer Setup (11:00 - 12:00)
 
-You'll be in Classroom A to make sure your computers are all set up and ready to go.
+Join Horace in Classroom A to walk through setting up a
+basic development environment on our machines.
+
+We'll be walking through [this document](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown)
+to get some important dependencies installed and configured.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 
