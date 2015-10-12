@@ -47,21 +47,25 @@ Get ready to meet some of your fellow Turing students with Friday Lunch Roulette
 
 ### Building Turing (9:00 - 10:30)
 
-Build things. Make things better.
+Build things. Make things better. Or, at least do no harm.
 
 ### Intermission Assignment Review (10:30 - 11:30)
 
 Go over your Intermission Assignment in Classroom C with Steve.
 
+* [Project specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+
 ### Introduction to Client Side Development (11:30 - 12:00)
 
-Stay in Classroom C.
+Stick around with Steve in Classroom C to talk about what is and is not client-side development.
 
 ### Ideabox 2.0 (1:00 - 2:00)
 
 Learn how to box some ideas.
 
-### Ideabox 2.0 Work Time.
+### Ideabox 2.0 Work Time (2:00 - 4:00)
+
+Your focus for this work time session should be building out your well-tested Rails API. Emphasis on well-tested.
 
 
 ## 1507
