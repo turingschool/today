@@ -51,11 +51,11 @@ Build things. Make things better.
 
 ### Intermission Assignment Review (10:30 - 11:30)
 
-Go over your Intermission Assignment in Classroom B with Steve.
+Go over your Intermission Assignment in Classroom C with Steve.
 
 ### Introduction to Client Side Development (11:30 - 12:00)
 
-Stay in Classroom B.
+Stay in Classroom C.
 
 ### Ideabox 2.0 (1:00 - 2:00)
 
@@ -94,7 +94,7 @@ Let's work on our space.
 
 ### Module 2 Kickoff (10:30 - 11:00)
 
-Some important links:
+Meet in Classroom B. Some important links:
 
 * [Homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
 * [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/module_2_scope_and_sequence.markdown)
@@ -102,11 +102,11 @@ Some important links:
 
 ### Intro to Sinatra / Task Manager Q & A
 
-Classroom C.
+Classroom B.
 
 ### Intro to Bootstrap (1:00 - 4:00)
 
-Join Andrew in Classroom C.
+Join Andrew in Classroom B.
 
 
 ## 1510
