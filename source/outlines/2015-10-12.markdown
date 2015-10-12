@@ -5,6 +5,7 @@ layout: outline
 
 Today, in 1979, *The Hitchhikers Guide to the Galaxy* was first published when people still hitchhiked without getting hurt.
 
+NAME TAGS ALL WEEK
 
 ## All
 
@@ -31,7 +32,7 @@ Get ready to meet some of your fellow Turing students with Friday Lunch Roulette
 * Stanley Siudzinski, Mimi Schatz, Rose Kohn, Adam Jensen
 * Beth Sebian, Toni Rib, Michael Dorrance, Ross Edfort
 * Lauren Thomson, Robbie Lane, Bret Doucette, Julian Locke
-* Justin Pease, Russell Harms, Erik Butcher, Shannon Paige
+* Russell Harms, Erik Butcher, Shannon Paige
 * Greg Armstrong, David Stinnette, Rob Cornell, Emily Dowdle
 * John Slota, Sebastian Abondano, Jason Pilz, David Codina
 * Nicole Hall, Sekhar Paladugu, Brant Wellman, Torie Warren
@@ -83,7 +84,7 @@ Let's turn our eye into making our home a little better.
 Welcome to the project that causes the most [existential crises](http://i.imgur.com/XHfE5KR.png)
 at Turing.
 
-[Details](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/son_of_store_engine.markdown)
+[Details](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 * David Stinnette & George Hudson & Chris Cenatiempo (David's codebase)
 * Bret Doucette & Matt Ewell & Russell Harms (Russell's codebase)
@@ -169,7 +170,11 @@ We're now going to show you your new home for the next seven months.
 
 ### Computer Setup (11:00 - 12:00)
 
-You'll be in Classroom A to make sure your computers are all set up and ready to go.
+Join Horace in Classroom A to walk through setting up a
+basic development environment on our machines.
+
+We'll be walking through [this document](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown)
+to get some important dependencies installed and configured.
 
 ### Student Introduction Lunch (12:00 - 1:00)
 

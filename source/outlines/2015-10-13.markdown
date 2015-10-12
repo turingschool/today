@@ -13,10 +13,16 @@ Today, in 1970, Fiji joins the United Nations.
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
+### Nacho Bar (3:30)
+
+Nacho, Nacho Bar. I want to eat the Nacho Bar.
+
 
 ## 1505
 
 ### Code Challenge: Echo & Countdown (9:00 - 10:00)
+
+### Project Work Time (1:00 - 3:30)
 
 You'll work in the following pairs:
 
@@ -58,7 +64,20 @@ Join Jorge in Classroom B.
 
 Stay in Classroom B.
 
-### Check-Ins and Project Work Time (1:00 - 4:00)
+### Check-Ins and Project Work Time (1:00 - 3:30)
+
+#### With Jorge
+
+    * 1:00 - David Stinnette, George Hudson, Chris Cenatiempo
+    * 1:30 - Bret Doucette, Matt Ewell, Russell Harms
+    * 2:00 - Rose Kohn, Jeff Ruane, Regis Boudinot
+    * 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
+
+#### With Josh
+
+    * 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
+    * 1:30 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
+    * 2:00 - Ryan Asensio, Jason Wright, Alon Waisman
 
 
 ## 1508
@@ -69,22 +88,23 @@ Check yo homework in Classroom C.
 
 ### How the Web Works (9:30 - 11:00)
 
-It's a series of tubes.
+It's a series of tubes that you will learn about in Classroom C.
 
 ### What is Rack? (11:00 - 12:00)
 
+Stay in Classroom C.
 [This never gets old.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
-### CRUD in Sinatra Workshop (1:00 - 4:00)
+### CRUD in Sinatra Workshop (1:00 - 3:30)
 
 Classroom C.
 
 
 ## 1510
 
-### Echo: SimpleSearch Recap (9:00 - 9:30)
+### Echo: Working With Strings and Integers Recap (9:00 - 9:30)
 
-Let's review your homework in Classroom A.
+Let's review your [homework](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown) in Classroom A.
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
 
@@ -102,7 +122,9 @@ The code must flow.
 
 Assemble in Classroom A.
 
-### All: Scavenger Hunt (1:00 - 4:00)
+### All: Activities (12:00 - 2:30)
+
+You're going to Lucky Strike for lunch and some Bowling.
 
 There will be a nacho bar on your glorious return.
 
