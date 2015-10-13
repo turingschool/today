@@ -153,6 +153,13 @@ for controlling the flow of execution in our code.
 Assemble in Classroom A to talk about everyone's favorite collection data
 structure, the [Array](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
+### All: Homework -- Eloquent Ruby Reading
+
+For your homework, read Chapters 3 and 4 of Eloquent Ruby,
+and complete [these exercises](https://github.com/turingschool/challenges/blob/master/eloquent_ruby_arrays_and_strings.markdown).
+
+If you don't have the book, a PDF of these 2 chapters is available [here](https://www.dropbox.com/s/o9evug40fiw2w22/EloquentRuby--ArraysAndStrings.pdf?dl=0).
+
 ### All: Activities (12:00 - 2:30)
 
 You're going to Lucky Strike for lunch and some Bowling.
