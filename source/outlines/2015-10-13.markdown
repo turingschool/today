@@ -113,11 +113,11 @@ Check yo homework in Classroom C.
 
 ### How the Web Works (9:30 - 11:00)
 
-It's a series of tubes that you will learn about in Classroom C.
+It's a series of tubes that you will learn about in Classroom C with Rachel. Find the outline and slides [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/how_the_web_works.markdown).
 
 ### What is Rack? (11:00 - 12:00)
 
-Stay in Classroom C.
+Stay in Classroom C with Rachel to [learn about Rack](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/what_is_rack.markdown).
 [This never gets old.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
 ### CRUD in Sinatra Workshop (1:00 - 3:30)
