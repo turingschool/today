@@ -16,8 +16,15 @@ Today, in 1947, Chuck Yeager becomes the first person to break the sound barrier
 
 ## 1505
 
-TBA
+### Front-End Debugging (9:00 - 10:00)
 
+Meet with Steve in Classroom A to talk about getting to the bottom of your bugs in your client-side code.
+
+### Functions (10:00 - 12:00)
+
+Stick around with Steve in Classroom A to discuss the inner workings of functions in JavaScript.
+
+* [Resources](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/02-functions)
 
 ## 1507
 
