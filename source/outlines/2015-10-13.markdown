@@ -58,26 +58,40 @@ Listen, those ideas aren't going to box themselves.
 
 ### Understanding Multi-Tenancy (9:00 - 11:00)
 
+Learn how to modify an existing codebase to support multiple tenants.
+
+Before the class, clone the session's repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git multitenancy
+```
+
+The materials for the class are the following:
+
+* [Slides](https://www.dropbox.com/s/kv0s91l6uzrvwwv/Turing%20-%20Understanding%20Multitenancy.key?dl=0)
+* [Notes](https://www.dropbox.com/s/uri3fsi5jsyaf9b/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
 Join Jorge in Classroom B.
 
 ### Seeding Data Efficiently (11:00 - 12:00)
 
-Stay in Classroom B.
+Stay in Classroom B and use these [notes](https://www.dropbox.com/s/z4k6r81nu214u7v/Turing%20-%20Seeding%20Data%20Efficiently%20%28Notes%29.pages?dl=0) to implement your project's seed file.
 
 ### Check-Ins and Project Work Time (1:00 - 3:30)
 
 #### With Jorge
 
-    * 1:00 - David Stinnette, George Hudson, Chris Cenatiempo
-    * 1:30 - Bret Doucette, Matt Ewell, Russell Harms
-    * 2:00 - Rose Kohn, Jeff Ruane, Regis Boudinot
-    * 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
+* 1:00 - David Stinnette, George Hudson, Chris Cenatiempo
+* 1:30 - Bret Doucette, Matt Ewell, Russell Harms
+* 2:00 - Rose Kohn, Jeff Ruane, Regis Boudinot
+* 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
 
 #### With Josh
 
-    * 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
-    * 1:30 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
-    * 2:00 - Ryan Asensio, Jason Wright, Alon Waisman
+* 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
+* 1:30 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
+* 2:00 - Ryan Asensio, Jason Wright, Alon Waisman
 
 
 ## 1508
@@ -127,4 +141,3 @@ Assemble in Classroom A.
 You're going to Lucky Strike for lunch and some Bowling.
 
 There will be a nacho bar on your glorious return.
-
