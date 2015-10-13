@@ -50,6 +50,17 @@ Meet with Steve in the Big Workspace to talk about the world's most popular prog
 
 We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
 
+You'll be working in the following pairs:
+
+* Alex Tideman & Max Millington
+* Marla Brizel & Dmitry Vizersky
+* Lovisa Svallingson & Rob Cornell
+* Samson Brock & Erik Butcher
+* Mitch Ashby & Sebastian Abondano
+* Michael Dorrance & Jamie Kawahara
+* Adam Caron & David Shim
+* Rick Bacci & Dave Maurer & Jai Misra
+
 ### Project Work Time (1:00 - 4:00)
 
 Listen, those ideas aren't going to box themselves.
