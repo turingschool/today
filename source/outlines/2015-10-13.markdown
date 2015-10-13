@@ -122,12 +122,12 @@ Let's review your [homework](https://github.com/turingschool/challenges/blob/mas
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
 
-Join Horace to get some practice working with strings and integers by solving
+Join Horace at the Mega Table to get some practice working with strings and integers by solving
 these [String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
 ### Foxtrot: String and Integer Riddles Recap (9:00 - 9:30)
 
-Meet at the Mega Table to recap your [String and Integer Exercises](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
+Meet in Classroom A to recap your [String and Integer Exercises](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
 from last night.
 
 ### Foxtrot: Flow Control (9:30 - 10:30)
