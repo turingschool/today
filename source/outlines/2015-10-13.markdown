@@ -116,25 +116,31 @@ Classroom C.
 
 ## 1510
 
-### Echo: Working With Strings and Integers Recap (9:00 - 9:30)
+### Echo: SuperFizz Recap (9:00 - 9:30)
 
-Let's review your [homework](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown) in Classroom A.
+Let's review your [homework](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown) in Classroom A.
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
 
-[String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown)
+Join Horace to get some practice working with strings and integers by solving
+these [String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
 ### Foxtrot: String and Integer Riddles Recap (9:00 - 9:30)
 
-Meet at the Mega Table to talk about SuperFizz and share some implementations.
+Meet at the Mega Table to recap your [String and Integer Exercises](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
+from last night.
 
 ### Foxtrot: Flow Control (9:30 - 10:30)
 
-The code must flow.
+Join Jeff at the Mega Table to talk about various techniques
+for controlling the flow of execution in our code.
 
-### All: Problems, Solutions and Algorithms (10:30 - 12:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
 
-Assemble in Classroom A.
+### All: Introducing Arrays (10:30 - 12:00)
+
+Assemble in Classroom A to talk about everyone's favorite collection data
+structure, the [Array](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
 
 ### All: Activities (12:00 - 2:30)
 
