@@ -3,10 +3,10 @@
 #### Big Workspace
 
 * George Hudson - Take my Swift class!
-* Marla Brizel - Rails vs Django: What's the big deal?
 * Bret Doucette - Nokogiri is fun!
 * Travis Haby - Word Processing in Japanese
 * Justin Holzmann - Metaprogramming in Ruby with #send
+* Marla Brizel - Rails vs Django: What's the big deal?
 
 #### Classroom A
 
