@@ -48,7 +48,7 @@ The materials for this class are the following:
 * [Notes](https://www.dropbox.com/s/t31b567438lbn9t/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
 * The video will be posted after the session.
 
-Join Jorge in Classroom B.
+Join Jorge in Classroom C.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -59,15 +59,15 @@ Work Work. Chumbawamba wasn't born famous.
 
 ### CRUD  Homework Review (9:00 - 9:30)
 
-Classroom C.
+Classroom B.
 
 ### Model Testing with Capybara (9:30 - 12:00)
 
-Classroom C.
+Classroom B.
 
 ### Acceptance Testing with Capybara (1:00 - 4:00)
 
-Classroom C.
+Classroom B.
 
 
 ## 1510
