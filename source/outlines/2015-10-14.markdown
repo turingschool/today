@@ -72,7 +72,7 @@ git clone -b multitenancy_authorization https://github.com/turingschool-examples
 The materials for this class are the following:
 
 * [Notes](https://www.dropbox.com/s/t31b567438lbn9t/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](http://vimeo.com/142417673)
 
 Join Jorge in Classroom C.
 
@@ -89,11 +89,11 @@ Classroom B with Rachel. Bring your broken Skill Inventories!
 
 ### Model Testing (9:30 - 12:00)
 
-Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown).
 
 ### Nokogiri (1:00 - 1:30)
 
-Work on the [Parsing HTML Challenge](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown) independently. 
+Work on the [Parsing HTML Challenge](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown) independently.
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
