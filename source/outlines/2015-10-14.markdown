@@ -22,9 +22,17 @@ Meet with Steve in Classroom A to talk about getting to the bottom of your bugs 
 
 ### Functions (10:00 - 12:00)
 
-Stick around with Steve in Classroom A to discuss the inner workings of functions in JavaScript.
+Stick around with Steve in Classroom A to discuss the inner workings of functions in JavaScript. We'll be covering the following learning goals:
 
-* [Resources](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/02-functions)
+1. How to define and call functions in JavaScript
+1. What this is in JavaScript and how to explicitly set its value in your functions
+1. How to bind functions with explicit values for this and other arguments
+1. How to split an array of values among the arguments of a function
+1. How to use partial application and currying to create reusable function templates
+
+We'll be using the following resources:
+
+* [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/02-functions)
 
 ### Project Work Time (1:00 - 4:00)
 
