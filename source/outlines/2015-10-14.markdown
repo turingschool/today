@@ -34,12 +34,24 @@ This is your final work session to finish up your Ideabox applications.
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
+Learn how to build your own authorization from scratch using a service object.
+
+For this lesson, clone the class repo by running the following command:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/t31b567438lbn9t/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
 Join Jorge in Classroom B.
 
 ### Project Work Time (1:00 - 4:00)
 
-Work Work.
-
+Work Work. Chumbawamba wasn't born famous.
 
 ## 1508
 
