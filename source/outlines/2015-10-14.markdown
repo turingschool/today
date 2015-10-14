@@ -30,6 +30,7 @@ Stick around with Steve in Classroom A to discuss the inner workings of function
 
 This is your final work session to finish up your Ideabox applications.
 
+
 ## 1507
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
@@ -53,6 +54,7 @@ Join Jorge in Classroom B.
 
 Work Work. Chumbawamba wasn't born famous.
 
+
 ## 1508
 
 ### CRUD  Homework Review (9:00 - 9:30)
@@ -70,11 +72,11 @@ Classroom C.
 
 ## 1510
 
-### All: Introducing Arrays (9:00 - 10:00)
+### All: Problems, Solutions, and Algorithms (9:00 - 10:30)
 
 Big Workspace.
 
-### All: Introducing Hashes (10:30 - 12:00)
+### All: Exploring .each and Exercises (10:30 - 12:00)
 
 Stay in the Big Workspace.
 
@@ -82,22 +84,23 @@ Stay in the Big Workspace.
 
 Learn how testing works in Classroom A.
 
-### Echo: Sorting Suite Kickoff (2:30 - 3:00)
-
-Kick off your first small project in Classroom A.
-
-### Echo: Intro to TDD Tutorial.
+### Echo: Intro to TDD Tutorial (2:30 - 3:30)
 
 Let's practice those TDD skills.
+
+### Echo: Sorting Suite Kickoff (3:30 - 4:00)
+
+Kick off your first small project in Classroom A.
 
 ### Foxtrot: SuperFizz Recap (1:00 - 1:30)
 
 Get ye to the Staff Mega Table.
 
+### Foxtrot: Array and Hash Exercises (1:30 - 3:30)
+
+Practice makes perfect.
+
 ### Foxtrot: Mastermind Kickoff (1:30 - 2:00)
 
 It's time to get your first project started.
 
-### Foxtrot: Array and Hash Exercises (2:00 - 4:00)
-
-Practice makes perfect.
