@@ -87,7 +87,7 @@ Work Work. Chumbawamba wasn't born famous.
 
 Classroom B with Rachel. Bring your broken Skill Inventories!
 
-### Model Testing with Capybara (9:30 - 12:00)
+### Model Testing (9:30 - 12:00)
 
 Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
