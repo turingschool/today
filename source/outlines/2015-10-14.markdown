@@ -72,35 +72,69 @@ Classroom C.
 
 ## 1510
 
-### All: Problems, Solutions, and Algorithms (9:00 - 10:30)
+### All: Eloquent Ruby Homework Recap (9:00 - 9:30)
 
-Big Workspace.
+Let's warm up for the morning by recapping our homework from last night.
+
+(Big Workspace)
+
+### All: Problems, Solutions, and Algorithms (9:30 - 10:30)
+
+Gather in the __Big Workspace__ to talk about
+[solving problems](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
 
 ### All: Exploring .each and Exercises (10:30 - 12:00)
 
-Stay in the Big Workspace.
+Stay in the Big Workspace and join Josh Mejia to talk about
+Ruby's `each` method and work through some exercises using it.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
 ### Echo: How Testing Works (1:00 - 2:30)
 
-Learn how testing works in Classroom A.
+Join Horace in Classroom A to talk about testing software.
 
-### Echo: Intro to TDD Tutorial (2:30 - 3:30)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-Let's practice those TDD skills.
+### Echo: Intro to TDD Tutorial / Demo (2:30 - 3:30)
+
+Stay with Horace in Classroom A as we transition into a demonstration
+of the TDD process.
+
+### Foxtrot: Core Types Exercises (1:00 - 3:30)
+
+Over the past 2 days, we've covered most of Ruby's core
+data types. Let's solidify that knowledge by working through
+some exercises using each type.
+
+Join Tess in the __Big Workspace__ to kick off this set of exercises.
+She will walk you through the process of cloning this
+[exercises repository](https://github.com/turingschool/ruby-exercises)
+and running the examples.
 
 ### Echo: Sorting Suite Kickoff (3:30 - 4:00)
 
-Kick off your first small project in Classroom A.
+https://github.com/turingschool/sorting-suite
+As a gift to any of you who may be somewhat OCD-inclined,
+we'll be spending the next several days sorting things!
 
-### Foxtrot: SuperFizz Recap (1:00 - 1:30)
+Join Horace in Classroom A to kick off your first project,
+[Sorting Suite](https://github.com/turingschool/sorting-suite).
 
-Get ye to the Staff Mega Table.
+This project will be due Monday.
 
-### Foxtrot: Array and Hash Exercises (1:30 - 3:30)
+### Foxtrot: Enumerable Exercises Kickoff (3:30 - 4:00)
 
-Practice makes perfect.
+Rejoin Tess in Classroom A to kick off your first project,
+a suite of exercises to continue practicing our enumerable
+methods.
 
-### Foxtrot: Mastermind Kickoff (1:30 - 2:00)
+[Project Assignment](https://github.com/turingschool/enums-exercises)
 
-It's time to get your first project started.
+This project will be due Monday.
 
+### Echo Homework: TDD Tutorial
+
+To help solidify the Testing and TDD concepts we discussed today,
+you should work through this [TDD Tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
+on your own tonight.
