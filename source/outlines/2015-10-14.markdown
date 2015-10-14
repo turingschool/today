@@ -91,7 +91,11 @@ Classroom B with Rachel. Bring your broken Skill Inventories!
 
 Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
-### Acceptance Testing with Capybara (1:00 - 4:00)
+### Nokogiri (1:00 - 1:30)
+
+Work on the [Parsing HTML Challenge](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown) independently. 
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
 
 Classroom B.
 
