@@ -56,62 +56,111 @@ We'll be using the following resources:
 
 This is your final work session to finish up your Ideabox applications.
 
+
 ## 1507
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
-Join Jorge in Classroom B.
+Learn how to build your own authorization from scratch using a service object.
+
+For this lesson, clone the class repo by running the following command:
+
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+The materials for this class are the following:
+
+* [Notes](https://www.dropbox.com/s/t31b567438lbn9t/Turing%20-%20Multitenancy%20Authorization%20%28Notes%29.pages?dl=0)
+* The video will be posted after the session.
+
+Join Jorge in Classroom C.
 
 ### Project Work Time (1:00 - 4:00)
 
-Work Work.
+Work Work. Chumbawamba wasn't born famous.
 
 
 ## 1508
 
 ### CRUD  Homework Review (9:00 - 9:30)
 
-Classroom C.
+Classroom B with Rachel. Bring your broken Skill Inventories!
 
 ### Model Testing with Capybara (9:30 - 12:00)
 
-Classroom C.
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
 ### Acceptance Testing with Capybara (1:00 - 4:00)
 
-Classroom C.
+Classroom B.
 
 
 ## 1510
 
-### All: Introducing Arrays (9:00 - 10:00)
+### All: Eloquent Ruby Homework Recap (9:00 - 9:30)
 
-Big Workspace.
+Let's warm up for the morning by recapping our homework from last night.
 
-### All: Introducing Hashes (10:30 - 12:00)
+(Big Workspace)
 
-Stay in the Big Workspace.
+### All: Problems, Solutions, and Algorithms (9:30 - 10:30)
+
+Gather in the __Big Workspace__ to talk about
+[solving problems](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown).
+
+### All: Exploring .each and Exercises (10:30 - 12:00)
+
+Stay in the Big Workspace and join Josh Mejia to talk about
+Ruby's `each` method and work through some exercises using it.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
 ### Echo: How Testing Works (1:00 - 2:30)
 
-Learn how testing works in Classroom A.
+Join Horace in Classroom A to talk about testing software.
 
-### Echo: Sorting Suite Kickoff (2:30 - 3:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-Kick off your first small project in Classroom A.
+### Echo: Intro to TDD Tutorial / Demo (2:30 - 3:30)
 
-### Echo: Intro to TDD Tutorial.
+Stay with Horace in Classroom A as we transition into a demonstration
+of the TDD process.
 
-Let's practice those TDD skills.
+### Foxtrot: Core Types Exercises (1:00 - 3:30)
 
-### Foxtrot: SuperFizz Recap (1:00 - 1:30)
+Over the past 2 days, we've covered most of Ruby's core
+data types. Let's solidify that knowledge by working through
+some exercises using each type.
 
-Get ye to the Staff Mega Table.
+Join Tess in the __Big Workspace__ to kick off this set of exercises.
+She will walk you through the process of cloning this
+[exercises repository](https://github.com/turingschool/ruby-exercises)
+and running the examples.
 
-### Foxtrot: Mastermind Kickoff (1:30 - 2:00)
+### Echo: Sorting Suite Kickoff (3:30 - 4:00)
 
-It's time to get your first project started.
+https://github.com/turingschool/sorting-suite
+As a gift to any of you who may be somewhat OCD-inclined,
+we'll be spending the next several days sorting things!
 
-### Foxtrot: Array and Hash Exercises (2:00 - 4:00)
+Join Horace in Classroom A to kick off your first project,
+[Sorting Suite](https://github.com/turingschool/sorting-suite).
 
-Practice makes perfect.
+This project will be due Monday.
+
+### Foxtrot: Enumerable Exercises Kickoff (3:30 - 4:00)
+
+Rejoin Tess in Classroom A to kick off your first project,
+a suite of exercises to continue practicing our enumerable
+methods.
+
+[Project Assignment](https://github.com/turingschool/enums-exercises)
+
+This project will be due Monday.
+
+### Echo Homework: TDD Tutorial
+
+To help solidify the Testing and TDD concepts we discussed today,
+you should work through this [TDD Tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
+on your own tonight.
