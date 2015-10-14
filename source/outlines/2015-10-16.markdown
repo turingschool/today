@@ -1,0 +1,17 @@
+### Lightning Talks (1:30 - 2:15)
+
+#### Big Workspace
+
+* George Hudson - Take my Swift class!
+* Marla Brizel - Rails vs Django: What's the big deal?
+* Bret Doucette - Nokogiri is fun!
+* Travis Haby - Word Processing in Japanese
+* Justin Holzmann - Metaprogramming in Ruby with #send
+
+#### Classroom A
+
+* Tyler Komoroske - Americans programming abroad
+* Chad Minnerath - UN facilitated technology transfer
+* Ryan Johnson - Sports Analytics and Wearables.. changing the game.
+* Sekhar Paladugu - Japanese: On Language and Programming
+* George Hudson - Take my Swift class!
