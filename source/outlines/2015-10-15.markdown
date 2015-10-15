@@ -93,6 +93,10 @@ this week that you'd like to know more about.
 Join Jeff in Classroom A to talk about everyone's
 favorite associative data structure -- the Hash.
 
+* We'll start with the [hashes section here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown#introducing-hashes)
+* You'll check out the [Ruby in 100 Minutes section on Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes)
+* Then you'll work on [exercises for hashes and other core types](https://github.com/turingschool/ruby-exercises/tree/master/core-types)
+
 ### All: Week 1 Diagnostic (2:30 - 3:30)
 
 Diagnostics are an informal "quiz" we give each week to help you
