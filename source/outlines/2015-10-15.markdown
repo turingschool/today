@@ -52,6 +52,12 @@ Meet with Steve in Classroom B to talk about the fundamentals of Object-Oriented
 
 You don't have a project this weekend, but you do have some homework.
 
+Finish up the exercises from the Array Prototype method lesson [starting from here][apm].
+
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods#arrayprototypereduce
+
+Tess and Steve are available for questions.
+
 #### For Friday
 
 Complete the [Code School course on the Chrome Developer Tools](http://discover-devtools.codeschool.com/).
