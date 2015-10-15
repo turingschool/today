@@ -58,7 +58,7 @@ Complete the [Code School course on the Chrome Developer Tools](http://discover-
 
 #### For Monday
 
-Complete the [blink exercise](https://github.com/advanced-js/blink).
+Complete the [blink exercise](https://github.com/turingschool-examples/blink).
 
 ## 1507
 
