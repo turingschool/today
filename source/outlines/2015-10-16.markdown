@@ -1,3 +1,19 @@
+---
+title: 20151016
+layout: outline
+---
+
+Today, in 1781, George Washington captures Yorktown, Virginia.
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1505 Survey](http://goo.gl/forms/9ckuMWeuhn)
+* [1507 Survey](http://goo.gl/forms/7jKy77OQ7O)
+* [1508 Survey](http://goo.gl/forms/6x8jAcfEbo)
+* [1510 Survey](http://goo.gl/forms/1x2xSBZzNy)
+
 ### Lightning Talks (1:30 - 2:15)
 
 #### Big Workspace
