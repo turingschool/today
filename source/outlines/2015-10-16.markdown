@@ -17,7 +17,7 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 ### Instructional Time (9:00 - 11:00)
 
 * 1505 - Big Workspace
-* 1507 - Classroom B
+* 1507 - Classroom B - [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) - [Submissions](https://github.com/turingschool/ruby-submissions/blob/master/1507/08_mastermind.yml)
 * 1508 - Classroom C
 * 1510 - Classroom A
 
@@ -53,4 +53,3 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 Big Workspace
 
 ### Electives / Student Led Sessions (3:00 - 4:00)
-
