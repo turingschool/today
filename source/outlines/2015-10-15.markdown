@@ -65,6 +65,11 @@ from this week that you'd like to know more about.
 Join Jeff at the Mega-Table. Bring your questions on material from
 this week that you'd like to know more about.
 
+### All: Introducing Hashes (1:00 - 2:30)
+
+Join Jeff in Classroom A to talk about everyone's
+favorite associative data structure -- the Hash.
+
 ### All: Week 1 Diagnostic (2:30 - 3:30)
 
 Diagnostics are an informal "quiz" we give each week to help you
