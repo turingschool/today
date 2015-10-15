@@ -1,3 +1,35 @@
+---
+title: 20151016
+layout: outline
+---
+
+Today, in 1781, George Washington captures Yorktown, Virginia.
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1505 Survey](http://goo.gl/forms/gqNHqOb8YE)
+* [1507 Survey](http://goo.gl/forms/7jKy77OQ7O)
+* [1508 Survey](http://goo.gl/forms/6x8jAcfEbo)
+* [1510 Survey](http://goo.gl/forms/1x2xSBZzNy)
+
+### Instructional Time (9:00 - 11:00)
+
+* 1505 - Big Workspace
+* 1507 - Classroom B
+* 1508 - Classroom C
+* 1510 - Classroom A
+
+### Guest Speaker (11:00 - 12:00)
+
+### Group Retro (1:00 - 1:30)
+
+* 1505 - Big Workspace with Steve and Marissa
+* 1507 - Classroom B with Jorge
+* 1508 - Classroom C with Rachel and Andrew
+* 1510 - Classroom A with Horace and Jeff
+
 ### Lightning Talks (1:30 - 2:15)
 
 #### Big Workspace
@@ -15,3 +47,10 @@
 * Ryan Johnson - Sports Analytics and Wearables.. changing the game.
 * Sekhar Paladugu - Japanese: On Language and Programming
 * George Hudson - Take my Swift class!
+
+### Gear Up (2:15 - 3:00)
+
+Big Workspace
+
+### Electives / Student Led Sessions (3:00 - 4:00)
+

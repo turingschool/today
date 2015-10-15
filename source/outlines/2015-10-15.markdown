@@ -66,7 +66,18 @@ Complete the [blink exercise](https://github.com/advanced-js/blink).
 
 ### Check-Ins and Project Work Time (1:00 - 4:00)
 
-Schedule tBA
+#### With Jorge
+
+* 1:00 - David Stinnette, George Hudson, Chris Cenatiempo
+* 1:30 - Bret Doucette, Matt Ewell, Russell Harms
+* 2:00 - Rose Kohn, Jeff Ruane, Regis Boudinot
+* 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
+
+#### With Josh
+
+* 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
+* 1:30 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
+* 2:00 - Ryan Asensio, Jason Wright, Alon Waisman
 
 
 ## 1508
