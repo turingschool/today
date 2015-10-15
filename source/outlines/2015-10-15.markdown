@@ -34,28 +34,15 @@ Schedule tBA
 
 ### SQL (9:00 - 10:00)
 
-### Intro to Sequel (11:00 - 12:00)
+Classroom B with Andrew. 
+
+### Intro to Sequel (10:00 - 12:00)
+
+This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) either on your own or with a pair to learn about the Ruby library we'll use in order to interact with the database. Meet back in Classroom B at 11:30. 
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-### One-on-Ones
-
-With Andrew:
-
-* 2:00 Tyler
-* 2:15 Chad
-* 2:30 Cole
-* 2:45 Torie
-* 3:00 Jhun
-
-With Rachel:
-
-* 2:45 Pat
-* 3:00 Aaron
-* 3:15 Ross
-* 3:30 Marlo
-* 3:45 Jill
-
+Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol. 
 
 ## 1510
 
