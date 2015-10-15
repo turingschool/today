@@ -34,17 +34,19 @@ Schedule tBA
 
 ### SQL (9:00 - 10:00)
 
-Classroom B with Andrew. 
+Classroom B with Andrew.
+
+Today we're going to start with an intro to SQL, and basic relational databases. You can find the lesson [here.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown) "Knowing SQL is like being a programming-superhero" - Richard
 
 ### Intro to Sequel (10:00 - 12:00)
 
-This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) either on your own or with a pair to learn about the Ruby library we'll use in order to interact with the database. Focus mainly on the "Abstracted SQL" section. Meet back in Classroom B at 11:30. 
+This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) either on your own or with a pair to learn about the Ruby library we'll use in order to interact with the database. Focus mainly on the "Abstracted SQL" section. Meet back in Classroom B at 11:30.
 
-You should also check out the [Sequel Github page](https://github.com/jeremyevans/sequel) or the [Sequel documentation](http://sequel.jeremyevans.net/). 
+You should also check out the [Sequel Github page](https://github.com/jeremyevans/sequel) or the [Sequel documentation](http://sequel.jeremyevans.net/).
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol. 
+Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol.
 
 ## 1510
 
