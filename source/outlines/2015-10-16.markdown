@@ -19,7 +19,22 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 * 1505 - Big Workspace
 * 1507 - Classroom B - [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) (TDD is Dad) - [Submissions](https://github.com/turingschool/ruby-submissions/blob/master/1507/08_mastermind.yml)
 * 1508 - Classroom C
-* 1510 - Classroom A
+
+### 1510
+
+#### All: Objects, Classes, and Instances (9:00 - 11:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+
+#### F - Weekend Homework
+
+__Step 1:__ Work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
+__Step 2:__ Complete the [Objects and Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods) (these are in the Ruby Exercises repo)
+__Step 3:__ Finish the Enums Exercises you started on Wednesday
+
+#### E - Weekend Homework
+
+Finish your sorting suite for Monday.
 
 ### Guest Speaker (11:00 - 12:00)
 
@@ -53,3 +68,4 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 Big Workspace
 
 ### Electives / Student Led Sessions (3:00 - 4:00)
+
