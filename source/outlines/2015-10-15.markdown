@@ -18,8 +18,31 @@ TBA
 
 ## 1505
 
-TBA
+### Project Work Time (9:00 - 10:00)
 
+One last hour to get those ideas into their boxes.
+
+### IdeaBox Peer Review (10:00 - 11:00)
+
+You'll be peer reviewing projects in the following ideas:
+
+* David Shim & Marla Brizel
+* Dave Maurer & Jai Misra & Samson Brock
+* Mitch Ashby & Dmitry Vizersky
+* Jamie Kawahara & Rick Bacci
+* Adam Caron & Alex Tideman
+* Max Millington & Michael Dorrance
+* Sebastian Abondano & Erik Butcher
+
+Spend 30 minutes reviewing and discussing each project (20 minutes if you're in the triplet).
+
+Use [this document](https://public.etherpad-mozilla.org/p/1505-ideabox) to share repository comments as well as record scores and comments.
+
+The rubric is located [here](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown).
+
+### IdeaBox Recap and Refactor (11:00 - 12:00)
+
+Meet with Steve in Classroom C to talk share your fond memories of the Ideabox project.
 
 ## 1507
 
