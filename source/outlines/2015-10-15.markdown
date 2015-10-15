@@ -50,6 +50,11 @@ Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool
 
 ## 1510
 
+### All: Essential Enumerables (9:00 - 10:30)
+
+Join Horace in Classroom A to talk about more useful
+enumerable methods.
+
 ### F: Group Q&A (10:30 - 12:00)
 
 Join Horace in Classroom A. Bring your questions on material
@@ -59,3 +64,16 @@ from this week that you'd like to know more about.
 
 Join Jeff at the Mega-Table. Bring your questions on material from
 this week that you'd like to know more about.
+
+### All: Week 1 Diagnostic (2:30 - 3:30)
+
+Diagnostics are an informal "quiz" we give each week to help you
+assess your progress and identify which topics you understand and which
+you should work on more.
+
+Classroom A.
+
+### All: Week 1 Diagnostic Review (3:30 - 4:00)
+
+Once you've finished your diagnostic, we'll spend a few minutes
+discussing the topics covered and answering any questions.
