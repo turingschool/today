@@ -23,7 +23,7 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 
 ### 1505
 
-#### Introduction to Object-Oriented JavaScript (9:00 - 10:00)
+#### Introduction to Object-Oriented JavaScript (9:00 - 11:00)
 
 **Setup**: Clone down [this repository](https://github.com/mdn/advanced-js-fundamentals-ck).
 
@@ -76,12 +76,13 @@ We're going to talk and work and stuff. Sit with these folks:
 #### F - Weekend Homework
 
 * __Step 1:__ Work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
-* __Step 2:__ Complete the [Objects and Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods) (these are in the Ruby Exercises repo)
+* __Step 2:__ Complete the [Mythical Creatures Exercises](https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures) (these are in the Ruby Exercises repo)
 * __Step 3:__ Finish the Enums Exercises you started on Wednesday
 
 #### E - Weekend Homework
 
-Finish your sorting suite for Monday.
+* Finish your sorting suite for Monday.
+* Complete the [Mythical Creatures Exercises](https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures) (these are in the Ruby Exercises repo)
 
 ### Guest Speaker (11:00 - 12:00)
 
