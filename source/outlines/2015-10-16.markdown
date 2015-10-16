@@ -23,7 +23,7 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 
 ### 1505
 
-#### Introduction to Object-Oriented JavaScript (9:00 - 10:00)
+#### Introduction to Object-Oriented JavaScript (9:00 - 11:00)
 
 **Setup**: Clone down [this repository](https://github.com/mdn/advanced-js-fundamentals-ck).
 
