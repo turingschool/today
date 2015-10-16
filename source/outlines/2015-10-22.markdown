@@ -1,0 +1,57 @@
+---
+title: 20151022
+layout: outline
+---
+
+Happy Birthday, Mark Renshaw!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### Ruby Object Model Revisited (9:00 - 12:00)
+
+### Intracohort Check-Ins (1:00 - 2:00)
+
+### Project Work Time (2:00 - 4:00)
+
+
+## 1507
+
+### Project Work Time (9:00 - 12:00)
+
+### The Pivot Evaluations (1:00 - 4:00)
+
+
+## 1508
+
+### Traffic Spy Work Time & Check-Ins (9:00 - 12:00)
+
+### Traffic Spy Work Time (1:00 - 4:00)
+
+
+## 1510
+
+### All: Week 2 Diagnostic (10:30 - 11:30)
+
+### All: Week 2 Diagnostic Recap (11:30 - 12:00)
+
+### Echo: Linked List Evaluations (9:00 - 12:00)
+
+### Echo: How Binary Search Trees Work (1:00 - 2:30)
+
+### Echo: Project Work Time (2:30 - 4:00)
+
+### Foxtrot: Fibber and POODR Recaps (9:00 - 10:00)
+
+### Foxtrot: Testing Mastermind (1:00 - 3:30)
+
+### Foxtrot: Mastermind Feedback (3:30 - 4:00)
+

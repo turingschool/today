@@ -1,0 +1,44 @@
+---
+title: 20151021
+layout: outline
+---
+
+Today, in 1959, the Guggenheim Museum, opens to the public.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### What is this? (9:00 - 10:30)
+
+### Events in JavaScript (10:30 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1507
+
+### Project Work Time (9:00 - 4:00)
+
+
+## 1508
+
+### Traffic Spy Q & A (9:00 - 10:00)
+
+### Project Work Time (10:00 - 4:00)
+
+
+## 1510
+
+### All: Ruby's Object Model (9:00 - 12:00)
+
+### All: Debugging Techniques (1:00 - 2:30)
+
+### All: Project Work Time (2:30 - 4:00)
