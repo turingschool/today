@@ -47,6 +47,8 @@ Finish your sorting suite for Monday.
 
 ### Lightning Talks (1:30 - 2:15)
 
+### Lightning Talks (1:30 - 2:15)
+
 #### Big Workspace
 
 * George Hudson - Take my Swift class!
@@ -55,17 +57,29 @@ Finish your sorting suite for Monday.
 * Justin Holzmann - Metaprogramming in Ruby with #send
 * Marla Brizel - Rails vs Django: What's the big deal?
 
-#### Classroom A
+#### Classroom B
 
 * Tyler Komoroske - Americans programming abroad
-* Chad Minnerath - UN facilitated technology transfer
 * Ryan Johnson - Sports Analytics and Wearables.. changing the game.
 * Sekhar Paladugu - Japanese: On Language and Programming
 * George Hudson - Take my Swift class!
+
+Make sure to check out Sebastian's [lightning talk screencast](http://sebastianabondano.com/) on using D3JS to visualize data. 
 
 ### Gear Up (2:15 - 3:00)
 
 Big Workspace
 
 ### Electives / Student Led Sessions (3:00 - 4:00)
+
+#### Recommended for Module 1
+* [OS and Editor Tips for Faster Workflow](https://gist.github.com/MowAlon/1641b1208aba11a15d85#file-new_student_machine_speedies-md) with Alon Waisman and Jeff Ruane
+
+#### Recommended for Any Module
+
+* [React.js](https://facebook.github.io/react/) with Lovisa Svallingson
+* Public Speaking Tips and Tricks with Chad Minnerath
+* [Swift: The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) with George Hudson
+* [Vagrant, Rails, and DevOps](https://gist.github.com/selfup/3a7da40919fa7acdc30c) with Regis Boudinot and David Shim
+* [How Cryptography Works](https://gist.github.com/russelleh/51fb2f28e4f0da9df11c) with Russell Harms
 
