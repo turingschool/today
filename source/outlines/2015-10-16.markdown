@@ -29,6 +29,30 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 * [Lesson Plan (Part One)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 * [Lesson Plan (Part Two)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/02-building-a-chainable-api.md)
 
+### 1507
+
+#### Debugging (9:00 - 10ish)
+
+Join Rachel in Classroom B. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). 
+
+Pairs:
+
+* John Slota & Marlo Major
+* Charissa Lawrence & Edgar Duran
+* Shannon Paige & Jhun de Andres
+* Ross Edfort & Nicole Hall
+* Emily Dowdle & Sekhar Paladugu
+* Chad Minnerath & Jason Pilz 
+* Jill Donohue & Aaron Careaga
+* Pat Wey & Robbie Lane
+* Torie Warren & Ryan Johnson
+* Tyler Komoroske & Amber Crawford
+* Matt Stjernholm
+
+#### Database Schemas (10ish - 11:00)
+
+Join Andrew in Classroom B. 
+
 ### 1510
 
 #### All: Objects, Classes, and Instances (9:00 - 11:00)
