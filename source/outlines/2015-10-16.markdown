@@ -17,7 +17,7 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 ### Instructional Time (9:00 - 11:00)
 
 * 1505 - Classroom C
-* 1507 - Classroom B - [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) (TDD is Dad) - [Submissions](https://github.com/turingschool/ruby-submissions/blob/master/1507/08_mastermind.yml)
+* 1507 - Classroom B
 * 1508 - Big Workspace
 * 1510 - Classroom A
 
@@ -30,11 +30,16 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 * [Lesson Plan (Part One)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 * [Lesson Plan (Part Two)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/02-building-a-chainable-api.md)
 
+### 1507
+
+* [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) (TDD is Dad)
+* [Submissions](https://github.com/turingschool/ruby-submissions/blob/master/1507/08_mastermind.yml)
+
 ### 1508
 
 #### Debugging (9:00 - 10ish)
 
-Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). How do you do that? Navigate into your 1508-task-manager project from yesterday's Sequel lesson, then pull down and check out the new branch with `git checkout -b debugging origin/debugging`. 
+Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). How do you do that? Navigate into your 1508-task-manager project from yesterday's Sequel lesson, then pull down and check out the new branch with `git checkout -b debugging origin/debugging`.
 
 Pairs:
 
@@ -43,7 +48,7 @@ Pairs:
 * Shannon Paige & Jhun de Andres
 * Ross Edfort & Nicole Hall
 * Emily Dowdle & Sekhar Paladugu
-* Chad Minnerath & Jason Pilz 
+* Chad Minnerath & Jason Pilz
 * Jill Donohue & Aaron Careaga
 * Pat Wey & Robbie Lane
 * Torie Warren & Ryan Johnson
@@ -52,19 +57,27 @@ Pairs:
 
 #### Database Schemas (10ish - 11:00)
 
-Join Andrew in the big workspace. 
+Join Andrew in the big workspace.
 
 ### 1510
 
 #### All: Objects, Classes, and Instances (9:00 - 11:00)
 
-* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+We're going to talk and work and stuff. Sit with these folks:
+
+* Aaron Greenspan & Admir Draganovic & Alexis Uriel Navarrete
+* Beth Sebian & Brant Wellman & Brenna Martenson
+* Brennan Holtzclaw & Dan Winter & David Codina
+* Beth Secor & Emily Blanchard & Greg Armstrong
+* Hector Huertas Baeza & James Crockett & Jordan Lawler
+* Joseph Perry & Julian Locke & Lauren Thomson & Lenny Myerson
+* Steve Pentler & Steven Olson & Taylor Moore & Toni Rib
 
 #### F - Weekend Homework
 
-__Step 1:__ Work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
-__Step 2:__ Complete the [Objects and Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods) (these are in the Ruby Exercises repo)
-__Step 3:__ Finish the Enums Exercises you started on Wednesday
+* __Step 1:__ Work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html)
+* __Step 2:__ Complete the [Objects and Methods Exercises](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods) (these are in the Ruby Exercises repo)
+* __Step 3:__ Finish the Enums Exercises you started on Wednesday
 
 #### E - Weekend Homework
 
@@ -116,4 +129,3 @@ Big Workspace
 * [Swift: The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) with George Hudson in Classroom B
 * [Vagrant, Rails, and DevOps](https://gist.github.com/selfup/3a7da40919fa7acdc30c) with Regis Boudinot and David Shim at the big staff table
 * [How Cryptography Works](https://gist.github.com/russelleh/51fb2f28e4f0da9df11c) with Russell Harms in the Big Workspace
-
