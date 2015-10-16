@@ -34,7 +34,7 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 
 #### Debugging (9:00 - 10ish)
 
-Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). 
+Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). How do you do that? Navigate into your 1508-task-manager project from yesterday's Sequel lesson, then pull down and check out the new branch with `get checkout -b debugging origin/debugging`. 
 
 Pairs:
 
