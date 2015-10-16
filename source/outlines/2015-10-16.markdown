@@ -16,9 +16,10 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 
 ### Instructional Time (9:00 - 11:00)
 
-* 1505 - Big Workspace
+* 1505 - Classroom C
 * 1507 - Classroom B - [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) (TDD is Dad) - [Submissions](https://github.com/turingschool/ruby-submissions/blob/master/1507/08_mastermind.yml)
-* 1508 - Classroom C
+* 1508 - Big Workspace
+* 1510 - Classroom A
 
 ### 1505
 
@@ -29,11 +30,11 @@ Today, in 1781, George Washington captures Yorktown, Virginia.
 * [Lesson Plan (Part One)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 * [Lesson Plan (Part Two)](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/02-building-a-chainable-api.md)
 
-### 1507
+### 1508
 
 #### Debugging (9:00 - 10ish)
 
-Join Rachel in Classroom B. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). 
+Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/1508-task-manager). 
 
 Pairs:
 
@@ -51,7 +52,7 @@ Pairs:
 
 #### Database Schemas (10ish - 11:00)
 
-Join Andrew in Classroom B. 
+Join Andrew in the big workspace. 
 
 ### 1510
 
