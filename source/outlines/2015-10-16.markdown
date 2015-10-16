@@ -153,3 +153,5 @@ Please sit with your group:
 * [Swift: The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) with George Hudson in Classroom B
 * [Vagrant, Rails, and DevOps](https://gist.github.com/selfup/3a7da40919fa7acdc30c) with Regis Boudinot and David Shim at the big staff table
 * [How Cryptography Works](https://gist.github.com/russelleh/51fb2f28e4f0da9df11c) with Russell Harms in the Big Workspace
+* [Intro To Clojure(Script)](https://github.com/turingschool/lesson_plans/blob/master/electives/intro-to-clojure/setup.markdown). Clojure is a dialect of LISP
+implemented for the JVM and Javascript. Join Horace at the Classroom A couch to check it out.
