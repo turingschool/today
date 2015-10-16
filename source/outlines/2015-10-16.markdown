@@ -115,7 +115,30 @@ Make sure to check out Sebastian's [lightning talk screencast](http://sebastiana
 
 ### Gear Up (2:15 - 3:00)
 
-Big Workspace
+We're going to use [this plan](https://github.com/turingschool/gear-up/blob/master/badass_developers.markdown).
+
+Please sit with your group:
+
+* Taylor Moore & Rick Bacci & Mitch Ashby & Toni Rib
+* Alon Waisman & Jhun de Andres & Bret Doucette & Lenny Myerson
+* Steve Pentler & Amber Crawford & Tyler Komoroske & Adam Caron
+* Michael Dorrance & Jason Pilz & Dave Maurer & David Stinnette
+* Greg Armstrong & Joseph Perry & Alexis Uriel Navarrete & Dan Winter
+* Sebastian Abondano & Shannon Paige & Alex Tideman & Lovisa Svallingson
+* Aaron Careaga & Ross Edfort & Brenna Martenson & Chad Minnerath
+* Brennan Holtzclaw & Rose Kohn & Beth Secor & Erik Butcher
+* David Shim & Aaron Greenspan & George Hudson & Brant Wellman
+* Emily Blanchard & Steven Olson & Adam Jensen & Mimi Schatz
+* Jill Donohue & Lauren Thomson & Dmitry Vizersky & Robbie Lane
+* Chris Cenatiempo & Ryan Johnson & Emily Dowdle & Justin Holzmann
+* Sekhar Paladugu & Mary Beth Burch & James Crockett & Pat Wey
+* Penney Garrett & Admir Draganovic & Travis Haby & Matt Rooney
+* Jamie Kawahara & Rob Cornell & Michael Wong & Russell Harms
+* Regis Boudinot & Nicole Hall & David Codina & Jason Wright
+* Marlo Major & Matt Ewell & Jeff Ruane & Matt Stjernholm
+* Jordan Lawler & John Slota & Beth Sebian & Charissa Lawrence & Stanley Siudzinski
+* Torie Warren & Ryan Asensio & Max Millington & Edgar Duran & Samson Brock
+* Marla Brizel & Hector Huertas Baeza & Matt Hecker & Jai Misra & Jerrod Paul Junker
 
 ### Electives / Student Led Sessions (3:00 - 4:00)
 
