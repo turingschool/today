@@ -95,8 +95,6 @@ We're going to talk and work and stuff. Sit with these folks:
 
 ### Lightning Talks (1:30 - 2:15)
 
-### Lightning Talks (1:30 - 2:15)
-
 #### Big Workspace
 
 * George Hudson - Take my Swift class!
