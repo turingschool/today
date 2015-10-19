@@ -16,14 +16,52 @@ Happy Birthday to Jon Favreau!
 
 ## 1505
 
-### JavaScript Build Tools / Introduction to npm (9:00 - 11:00)
+### Homework Review (9:00 - 9:30)
 
-### Game Time Kickoff (11:00 - 12:00)
+Meet with Steve in Classroom A.
+
+Submit your Blink solution [here](https://public.etherpad-mozilla.org/p/1505-blink).
+
+### Object-Oriented JavaScript and HTML5 Canvas (9:30 - 11:30)
+
+Stick around with Steve in Classroom A.
+
+* [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+### Game Time Kickoff (11:30 - 12:00)
+
+More Steve; more Classroom A.
+
+* [Project Specification][gametime]
+
+[gametime]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
+
+You'll be working in the following pairs (or solo, for you jetsetters):
+
+* Lovisa Svallingson & Marla Brizel
+* Max Millington & Dmitry Vizersky
+* Rick Bacci & David Shim
+* Rob Cornell & Adam Caron
+* Erik Butcher & Samson Brock
+* Jamie Kawahara & Dave Maurer
+* Sebastian Abondano & Jai Misra
+* Alex Tideman
+* Michael Dorrance
+* Mitch Ashby
 
 ### Project Work Time / Recitation (1:00 - 2:30)
 
+Tess is available for 45 minute pairing sessions. DM her for more details and to reserve a time.
+
+**Recitation (1:00 - 2:00)**: DM Steve with specific topics and questions you'd like him to cover by 10am. Recitations are completely optional.
+
+It's time for games. Game proposals are set in stone at 4pm today. This is your time to try out some different ideas and sketch out your plans. Final game selections are due to Steve at the end of the day.
+
+All those things that say "with instructor approval" in the [project specification][gametime]? Today's the day to get instructor approval.
+
 ### Technical Interview Prep (2:30 - 4:00)
 
+Meet with Mike in the biggest of workspaces.
 
 ## 1507
 
