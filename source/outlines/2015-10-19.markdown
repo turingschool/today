@@ -15,7 +15,7 @@ Happy Birthday to Jon Favreau!
 
 ### Friday Lunch Roulette Groups
 
-At some point this week, find your people and come up with a Friday lunch plan. 
+At some point this week, find your people and come up with a Friday lunch plan.
 
 * David Codina, Matt Rooney, Justin Pease, Dmitry Vizersky
 * Brant Wellman, Shannon Paige, Travis Haby, Sebastian Abondano
@@ -80,6 +80,7 @@ You'll be working in the following pairs/triplet:
 More Steve; more Classroom B.
 
 * [Project Specification][gametime]
+* [Game Time Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
 
 [gametime]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown
 
@@ -124,13 +125,13 @@ Meet with Mike in the biggest of workspaces.
 
 ### Project Review / Q & A (9:00 - 9:30)
 
-Join Rachel in Classroom C to review TaskManager Sequel transformations. Bring questions. 
+Join Rachel in Classroom C to review TaskManager Sequel transformations. Bring questions.
 
 ### Traffic Spy Kickoff (9:30 - 10:30)
 
 Join Rachel in Classroom C to kick off your first project, [Traffic Spy](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown).
 
-Then get with your group to comb through the project specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. Andrew will work with you during the next hour to write user stories. 
+Then get with your group to comb through the project specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. Andrew will work with you during the next hour to write user stories.
 
 * Amber Crawford & Jill Donohue & Jason Pilz
 * Emily Dowdle & Marlo Major & Charissa Lawrence
@@ -138,20 +139,20 @@ Then get with your group to comb through the project specifications. Create a re
 * Ross Edfort & Nicole Hall & Sekhar Paladugu
 * Chad Minnerath & Matt Rooney & John Slota
 * Aaron Careaga & Pat Wey & Tyler Komoroske
-* Robbie Lane & Torie Warren 
+* Robbie Lane & Torie Warren
 * Matt Stjernholm & Ryan Johnson
 
 ### Introduction to Project Management (10:30 - 12:00)
 
-Join Andrew in Classroom C. 
+Join Andrew in Classroom C.
 
 ### Database Design and Modeling (1:00 - 2:00)
 
-Join Andrew in Classroom C. 
+Join Andrew in Classroom C.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Join Josh Cheek (he's back!) in Classroom B for a look at [ActiveRecord](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
+Join Josh Cheek (he's back!) in Classroom B for a look at [ActiveRecord](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 
 ## 1510
