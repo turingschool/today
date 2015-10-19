@@ -18,7 +18,11 @@ Today, in 1873, Yale, Princeton, Columbia, and Rutgers universities draft the fi
 
 ### Testing JavaScript (9:00 - 11:00)
 
-### Recursion (11:00 - 12:00
+Meet with Steve in Classroom A to talk about testing all of this JavaScript that y'all have been writing.
+
+### Currying and Partial Application (11:00 - 12:00)
+
+Stick around with Steve in Classroom A to
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 

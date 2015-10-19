@@ -26,12 +26,12 @@ Share your code in the following pairs from **9:00 - 9:15**:
 
 * Adam Caron & Dmitry Vizersky
 * Max Millington & Erik Butcher
-* Marla Brizel & Rob Cornell
+* Marla Brizel & Michael Dorrance
 * Rick Bacci & Mitch Ashby
 * Dave Maurer & Samson Brock
 * Jamie Kawahara & Sebastian Abondano
 * Lovisa Svallingson & David Shim
-* Jai Misra & Alex Tideman & Michael Dorrance
+* Jai Misra & Alex Tideman
 
 ### Object-Oriented JavaScript and HTML5 Canvas (9:30 - 11:30)
 
@@ -45,10 +45,10 @@ You'll be working in the following pairs/triplet:
 * Marla Brizel & Jai Misra
 * Mitch Ashby & Max Millington
 * Sebastian Abondano & Dmitry Vizersky
-* Adam Caron & Rob Cornell
+* Adam Caron & Jamie Kawahara
 * David Shim & Alex Tideman
 * Michael Dorrance & Rick Bacci
-* Samson Brock & Erik Butcher & Jamie Kawahara
+* Samson Brock & Erik Butcher
 
 ### Game Time Kickoff (11:30 - 12:00)
 
@@ -63,11 +63,10 @@ You'll be working in the following pairs (or solo, for you jetsetters):
 * Lovisa Svallingson & Marla Brizel
 * Max Millington & Dmitry Vizersky
 * Rick Bacci & David Shim
-* Rob Cornell & Adam Caron
+* Alex Tideman & Adam Caron
 * Erik Butcher & Samson Brock
 * Jamie Kawahara & Dave Maurer
 * Sebastian Abondano & Jai Misra
-* Alex Tideman
 * Michael Dorrance
 * Mitch Ashby
 
