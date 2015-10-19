@@ -76,7 +76,7 @@ Join Josh in Classroom B.
 
 ### Using Rack::Test in a Sinatra App (9:00 - 11:00)
 
-Join Rachel in Classroom C.
+Join Rachel in Classroom C to [learn how to test HTTP requests and responses](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown). 
 
 ### One-on-Ones (11:00 - 12:00)
 
