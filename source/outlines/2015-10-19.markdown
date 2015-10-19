@@ -131,9 +131,16 @@ Join Rachel in Classroom C to review TaskManager Sequel transformations. Bring q
 
 Join Rachel in Classroom C to kick off your first project, [Traffic Spy](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown).
 
-After kicking off the project, get with your group to comb through the specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. 
+Then get with your group to comb through the project specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. Andrew will work with you during the next hour to write user stories. 
 
-Groups TBA
+* Amber Crawford & Jill Donohue & Jason Pilz
+* Emily Dowdle & Marlo Major & Charissa Lawrence
+* Edgar Duran & Shannon Paige & Jhun de Andres
+* Ross Edfort & Nicole Hall & Sekhar Paladugu
+* Chad Minnerath & Matt Rooney & John Slota
+* Aaron Careaga & Pat Wey & Tyler Komoroske
+* Robbie Lane & Torie Warren 
+* Matt Stjernholm & Ryan Johnson
 
 ### Introduction to Project Management (10:30 - 12:00)
 
