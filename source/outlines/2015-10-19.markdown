@@ -22,11 +22,33 @@ Meet with Steve in Classroom B.
 
 Submit your Blink solution [here](https://public.etherpad-mozilla.org/p/1505-blink).
 
+Share your code in the following pairs from **9:00 - 9:15**:
+
+* Adam Caron & Dmitry Vizersky
+* Max Millington & Erik Butcher
+* Marla Brizel & Rob Cornell
+* Rick Bacci & Mitch Ashby
+* Dave Maurer & Samson Brock
+* Jamie Kawahara & Sebastian Abondano
+* Lovisa Svallingson & David Shim
+* Jai Misra & Alex Tideman & Michael Dorrance
+
 ### Object-Oriented JavaScript and HTML5 Canvas (9:30 - 11:30)
 
 Stick around with Steve in Classroom B.
 
 * [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+You'll be working in the following pairs/triplet:
+
+* Lovisa Svallingson & Dave Maurer
+* Marla Brizel & Jai Misra
+* Mitch Ashby & Max Millington
+* Sebastian Abondano & Dmitry Vizersky
+* Adam Caron & Rob Cornell
+* David Shim & Alex Tideman
+* Michael Dorrance & Rick Bacci
+* Samson Brock & Erik Butcher & Jamie Kawahara
 
 ### Game Time Kickoff (11:30 - 12:00)
 
