@@ -49,7 +49,11 @@ Stick around with Steve in Classroom A to discuss some approaches to Functional 
 
 ## 1507
 
-## Sending E-Mail (10:30 - 12:00)
+### Fundamental Rails Security (9:00 - 10:30)
+
+Josh will be teaching you how to guard against naughty people in Classroom B.
+
+### Sending E-Mail (10:30 - 12:00)
 
 Join Josh in Classroom B.
 
