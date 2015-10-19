@@ -36,6 +36,10 @@ Happy Birthday, Mark Renshaw!
 
 ### Traffic Spy Work Time (1:00 - 4:00)
 
+### Who's CRUD is it anyway? With special guest Mr. Jason Noble (4:00 )
+
+Join Jason to drill down you're understanding of CRUD. 
+
 
 ## 1510
 
@@ -54,4 +58,3 @@ Happy Birthday, Mark Renshaw!
 ### Foxtrot: Testing Mastermind (1:00 - 3:30)
 
 ### Foxtrot: Mastermind Feedback (3:30 - 4:00)
-
