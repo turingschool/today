@@ -125,11 +125,11 @@ Meet with Mike in the biggest of workspaces.
 
 ### Project Review / Q & A (9:00 - 9:30)
 
-Join Rachel in Classroom B to 
+Join Rachel in Classroom C to review TaskManager Sequel transformations. Bring questions. 
 
 ### Traffic Spy Kickoff (9:30 - 10:30)
 
-Join Rachel in Classroom B to kick off your first project, [Traffic Spy](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown).
+Join Rachel in Classroom C to kick off your first project, [Traffic Spy](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown).
 
 After kicking off the project, get with your group to comb through the specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. 
 
@@ -137,15 +137,15 @@ Groups TBA
 
 ### Introduction to Project Management (10:30 - 12:00)
 
-Join Andrew in Classroom B. 
+Join Andrew in Classroom C. 
 
 ### Database Design and Modeling (1:00 - 2:00)
 
-Join Andrew in Classroom B. 
+Join Andrew in Classroom C. 
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Join Josh Cheek (he's back!) in Classroom B for a look at ActiveRecord. 
+Join Josh Cheek (he's back!) in Classroom B for a look at [ActiveRecord](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 
 ## 1510
