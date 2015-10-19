@@ -172,7 +172,7 @@ We will be working with [this repo](https://github.com/turingschool/lesson_plans
 
 ### Database Design and Modeling (1:00 - 2:00)
 
-Join Andrew in Classroom C.
+[This](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown) is our repo.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
