@@ -13,6 +13,31 @@ Happy Birthday to Jon Favreau!
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
+### Friday Lunch Roulette Groups
+
+At some point this week, find your people and come up with a Friday lunch plan. 
+
+* David Codina, Matt Rooney, Justin Pease, Dmitry Vizersky
+* Brant Wellman, Shannon Paige, Travis Haby, Sebastian Abondano
+* James Crockett, Pat Wey, Bret Doucette, Erik Butcher
+* Jordan Lawler, Chad Minnerath, Russell Harms, Alex Tideman
+* Beth Sebian, John Slota, Jeff Ruane, Jamie Kawahara
+* Steven Olson, Jason Pilz, Rose Kohn, Lovisa Svallingson
+* Emily Blanchard, Nicole Hall, Chris Cenatiempo, Adam Caron
+* Brenna Martenson, Charissa Lawrence, Matt Hecker, Mitch Ashby
+* Hector Huertas Baeza, Jill Donohue, Matt Ewell, Samson Brock
+* Beth Secor, Marlo Major, George Hudson, Michael Dorrance
+* Taylor Moore, Ross Edfort, Alon Waisman, Max Millington
+* Greg Armstrong, Torie Warren, David Stinnette, Dave Maurer
+* Alexis Uriel Navarrete, Sekhar Paladugu, Ryan Asensio, David Shim
+* Julian Locke, Aaron Careaga, Mary Beth Burch, Rick Bacci
+* Steve Pentler, Amber Crawford, Justin Holzmann, Marla Brizel
+* Toni Rib, Robbie Lane, Michael Wong, Jai Misra
+* Lauren Thomson, Edgar Duran, Ryan Johnson, Mimi Schatz
+* Aaron Greenspan, Jhun de Andres, Regis Boudinot, Rob Cornell
+* Joseph Perry, Matt Stjernholm, Adam Jensen, Lenny Myerson
+* Dan Winter, Brennan Holtzclaw, Tyler Komoroske, Jerrod Paul Junker
+* Admir Draganovic, Emily Dowdle, Jason Wright
 
 ## 1505
 
@@ -78,13 +103,27 @@ Meet with Mike in the biggest of workspaces.
 
 ### Project Review / Q & A (9:00 - 9:30)
 
+Join Rachel in Classroom B to 
+
 ### Traffic Spy Kickoff (9:30 - 10:30)
+
+Join Rachel in Classroom B to kick off your first project, [Traffic Spy](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown).
+
+After kicking off the project, get with your group to comb through the specifications. Create a repo and a Waffle for your project, but don't start writing implementation code or tests yet. 
+
+Groups TBA
 
 ### Introduction to Project Management (10:30 - 12:00)
 
+Join Andrew in Classroom B. 
+
 ### Database Design and Modeling (1:00 - 2:00)
 
+Join Andrew in Classroom B. 
+
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
+
+Join Josh Cheek (he's back!) in Classroom B for a look at ActiveRecord. 
 
 
 ## 1510
