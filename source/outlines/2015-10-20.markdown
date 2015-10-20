@@ -33,12 +33,6 @@ You'll be working in the following pairs/triplet:
 * Lovisa Svallingson & Jamie Kawahara
 * David Shim & Erik Butcher
 
-### Currying and Partial Application (11:00 - 12:00)
-
-Stick around with Steve in Classroom A to discuss some approaches to Functional JavaScript that should help keep your code nice and dry.
-
-* [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-currying-and-partial-application.md)
-
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
 #### With Tess
@@ -53,9 +47,7 @@ Stick around with Steve in Classroom A to discuss some approaches to Functional 
 * 1:15 - 1:35: Jamie Kawahara & Dave Maurer
 * 1:40 - 2:00: Lovisa Svallingson & Marla Brizel
 * 2:20 - 2:40: Alex Tideman & Adam Caron
-* 2:45 - 3:05: Michael Dorrance
-* 3:10 - 3:30: Mitch Ashby
-
+* 2:40 - 3:00: Mitch Ashby
 
 ## 1507
 
