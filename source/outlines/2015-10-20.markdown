@@ -53,9 +53,13 @@ Stick around with Steve in Classroom A to discuss some approaches to Functional 
 
 Josh will be teaching you how to guard against naughty people in Classroom B.
 
+Run `git clone https://github.com/turingschool-examples/store_engine.git fundamental_security`
+
 ### Sending E-Mail (10:30 - 12:00)
 
 Join Josh in Classroom B.
+
+Run `git clone https://github.com/turingschool-examples/emailery.git sending_email`
 
 ### Project Work Time and Check-ins (1:00 - 4:00)
 
