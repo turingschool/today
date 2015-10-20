@@ -37,7 +37,7 @@ At some point this week, find your people and come up with a Friday lunch plan.
 * Aaron Greenspan, Jhun de Andres, Regis Boudinot, Rob Cornell
 * Joseph Perry, Matt Stjernholm, Adam Jensen, Lenny Myerson
 * Dan Winter, Brennan Holtzclaw, Tyler Komoroske, Jerrod Paul Junker
-* Admir Draganovic, Emily Dowdle, Jason Wright
+* Admir Draganovic, Penney Garrett, Emily Dowdle, Jason Wright
 
 ## 1505
 
@@ -108,24 +108,47 @@ All those things that say "with instructor approval" in the [project specificati
 
 ### Technical Interview Prep (2:30 - 4:00)
 
-Meet with Mike in the biggest of workspaces.
+Meet in the big workspace. Here is your [challenge](https://gist.github.com/mikedao/4fb80d9189fcc5993b29). 
 
 ## 1507
 
 ### Traversing the DOM with jQuery (9:00 - 10:30)
 
+Join Josh in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/jquery_dom_traversal_and_manipulation.md)
+
 ### DOM Events with jQuery (10:30 - 12:00)
+
+Join Josh in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/jquery_dom_traversal_and_manipulation.md)
 
 ### Project Work Time (1:00 - 2:30)
 
 ### Technical Interview Prep (2:30 - 4:00)
 
+Meet in the big workspace. Here is your [challenge](https://gist.github.com/mikedao/4fb80d9189fcc5993b29). 
 
 ## 1508
 
 ### Project Review / Q & A (9:00 - 9:30)
 
-Join Rachel in Classroom C to review TaskManager Sequel transformations. Bring questions.
+Join Rachel in Classroom C to review TaskManager Sequel transformations.
+
+Review pairs:
+
+* Emily Dowdle & Sekhar Paladugu
+* Tyler Komoroske & Ross Edfort
+* Nicole Hall & Chad Minnerath
+* Jhun de Andres & Charissa Lawrence
+* Shannon Paige & Aaron Careaga
+* Matt Rooney & Pat Wey
+* Jason Pilz & Matt Stjernholm
+* Torie Warren & Ryan Johnson
+* Edgar Duran & Robbie Lane
+* Amber Crawford & John Slota
+* Jill Donohue & Marlo Major
 
 ### Traffic Spy Kickoff (9:30 - 10:30)
 
@@ -146,9 +169,12 @@ Then get with your group to comb through the project specifications. Create a re
 
 Join Andrew in Classroom C.
 
-### Database Design and Modeling (1:00 - 2:00)
+We will be working with [this repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_project_management.markdown)
 
-Join Andrew in Classroom C.
+### Database Design and Modeling (1:00 - 2:00)
+Back to classroom C with Andrew
+
+[This](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/database_schema_design.markdown) is our repo. DB schema design is the backbone and central nervous system of your app.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
