@@ -122,8 +122,21 @@ Ship those features.
 
 ## 1510
 
-### All: Ruby's Object Model (9:00 - 12:00)
+### All: Ruby's Object Model (9:00 - 11:00)
 
-### All: Debugging Techniques (1:00 - 2:30)
+Join Jeff in Classroom C to learn about the beating
+heart of Ruby.
 
-### All: Project Work Time (2:30 - 4:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
+
+### All: Debugging Techniques (11:00 - 12:00)
+
+Horace will join you in Classroom C to talk about some practical
+techniques for debugging.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/debugging.markdown)
+
+### All: Project Work Time (1:00 - 4:00)
+
+[Projects due tomorrow.](http://itsalmo.st/#junglebeats)
+Finish them up!
