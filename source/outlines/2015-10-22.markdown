@@ -9,6 +9,8 @@ Happy Birthday, Mark Renshaw!
 
 ### Warm Up (8:30 - 9:00)
 
+You can all thank Lovisa for the new CSS hotness on the site.
+
 [Warm Up](https://thewarmup.herokuapp.com)
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
@@ -19,6 +21,8 @@ Happy Birthday, Mark Renshaw!
 ### Ruby Object Model Episode V: Josh Cheek Strikes Back (9:00 - 12:00)
 
 Classroom C.
+
+Look, material is here: [https://github.com/JoshCheek/object-model-hash-style](https://github.com/JoshCheek/object-model-hash-style)
 
 ### Intracohort Check-Ins (1:00 - 2:00)
 
@@ -93,7 +97,17 @@ With Rachel:
 
 ### Traffic Spy Work Time (1:00 - 4:00)
 
+### Who's CRUD is it Anyway? With the one - the only - Jason Noble! (4:15)
+Join Jason (not JSON) in classroom B to go over CRUD. Do some stretching - this one will have you out of your chairs. 
+
+<<<<<<< HEAD
+### Who's CRUD is it anyway? With special guest Mr. Jason Noble (4:00 )
+
+Join Jason to drill down you're understanding of CRUD.
+
+=======
 No pressure, but you have approximately four days left.
+>>>>>>> 8193b69bae121eaeb8d1c71f14ceddf6747849b1
 
 ## 1510
 
@@ -111,23 +125,23 @@ Finally gather back in Classroom A at 11:40 to recap your diagnostic.
 
 #### With Jeff
 
-* 9:00 - Leonard Myerson
+* 9:00 - Lauren Thomas
 * 9:20 - Penney Garrett
 * 9:40 - Steven Pentler
 * 10:00 - Taylor Moore
 * 10:20 - Beth Secor
-* 10:40 - Steven Olson
-* 11:00 - Toni Rib
+* 10:45 - Steven Olson
+* 11:10 - Toni Rib
 
 #### With Horace
 
 * 9:00 - Aaron Greenspan
-* 9:20 - Beth Sebian
-* 9:40 - Brant Wellman
-* 10:00 - Brennan Holtzclaw
-* 10:20 - Daniel Winter
-* 10:40 - Hector Baeza
-* 11:00 - Joseph Perry
+* 9:25 - Beth Sebian
+* 9:50 - Brant Wellman
+* 10:15 - Brennan Holtzclaw
+* 10:40 - Daniel Winter
+* 11:05 - Hector Baeza
+* 11:30 - Joseph Perry
 
 #### With Mike
 
@@ -138,7 +152,7 @@ Finally gather back in Classroom A at 11:40 to recap your diagnostic.
 * 10:20 - Greg Armstrong
 * 10:40 - James Crockett
 * 11:00 - Jordan Lawler
-* 11:20 - Laren Thomson
+* 11:20 - Leonard Myerson
 
 ### Echo: How Binary Search Trees Work (1:00 - 2:30)
 
@@ -162,6 +176,9 @@ With Horace
 * (3:15 - 3:30) Lauren Thomson
 * (3:30 - 3:45) Lenny Myerson
 
+<<<<<<< HEAD
+### Foxtrot: Mastermind Feedback (3:30 - 4:00)
+=======
 With Jeff
 
 * (2:30 - 2:45) Penney Garrett
@@ -169,3 +186,4 @@ With Jeff
 * (3:00 - 3:15) Steven Olson
 * (3:15 - 3:30) Taylor Moore
 * (3:30 - 3:45) Toni Rib
+>>>>>>> 8193b69bae121eaeb8d1c71f14ceddf6747849b1
