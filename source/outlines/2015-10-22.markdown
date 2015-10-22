@@ -59,7 +59,7 @@ Now would be a good time to make sure that your site works in production.
 
 ### Sinatra Partial Arts (9:00 - 10:00)
 
-Join Rachel in Classroom B to earn your belt.
+Join Rachel in Classroom B to earn your belt in [Partial Arts](https://github.com/rwarbelow/partial-arts). 
 
 ### Traffic Spy Work Time & Check-Ins (10:00 - 12:00)
 
