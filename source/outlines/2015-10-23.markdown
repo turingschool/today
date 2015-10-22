@@ -23,6 +23,14 @@ Today, in 1861, Abraham Lincolm suspends the writ of habeas corpus in military-r
 
 ### 1505
 
+### Instructional Time (9:00 - 11:00)
+
+This week in your came time projects, you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
+
+- [Learn JS Data][jsdata]
+
+[jsdata]: http://learnjsdata.com
+
 ### 1507
 
 ### 1508
