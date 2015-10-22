@@ -59,7 +59,7 @@ Now would be a good time to make sure that your site works in production.
 
 ### Sinatra Partial Arts (9:00 - 10:00)
 
-Join Rachel in Classroom B to earn your belt in [Partial Arts](https://github.com/rwarbelow/partial-arts). 
+Join Rachel in Classroom B to earn your belt in [Partial Arts](https://github.com/rwarbelow/partial-arts).
 
 ### Traffic Spy Work Time & Check-Ins (10:00 - 12:00)
 
@@ -97,6 +97,16 @@ No pressure, but you have approximately four days left.
 
 ## 1510
 
+### When You're Not Doing Your Project Eval (9:00 - 12:00)
+
+*Start* with the Week 2 Diagnostic to help you get a measure of your progress. Work individually, closed book, closed computer. The papers will be at the front of Classroom A. Leave your completed submissions face down next to the fresh copies. You should finish it in well under an hour.
+
+Then *Foxtrotters* need to [work through this Encryptor tutorial](https://github.com/turingschool/curriculum/blob/master/source/projects/encryptor.markdown).
+
+And *Echoes* need to [build a linked list](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown). Check out the resources linked there and, if you're struggling, you can code along with [this iterative approach](https://vimeo.com/77857409).
+
+Finally gather back in Classroom A at 11:40 to recap your diagnostic.
+
 ### All: Project Evaluations (9:00 - 12:00)
 
 #### With Jeff
@@ -130,25 +140,17 @@ No pressure, but you have approximately four days left.
 * 11:00 - Jordan Lawler
 * 11:20 - Laren Thomson
 
-### All: Week 2 Diagnostic (10:00 - 11:30)
-
-If you are not being evaluated, you will be taking the Week 2 Diagnostic. Work individually, closed book, closed computer.
-
-### All: Week 2 Diagnostic Recap (11:40 - 12:00)
-
-Meet Mike in Classroom A where you'll recap the Diagnostic.
-
 ### Echo: How Binary Search Trees Work (1:00 - 2:30)
 
-Staff Mega Table with Jeff.
-
-### Echo: Project Work Time (2:30 - 4:00)
-
-Work.
+Hey hey hey, it's time for your next project. Meet Jeff at the Mega Table to talk about Binary Trees.
 
 ### Foxtrot: Understanding Enigma. (1:00 - 2:30)
 
-Classroom A with Horace.
+Dig Encryptor? It's time to kick it up a few notches. Meet with Horace in Classroom A to check out your Enigma project.
+
+### All: Project Work Time (2:30 - 4:00)
+
+Get 'em started.
 
 ### All: 1-on-1's (2:30 - 4:00)
 
