@@ -96,18 +96,11 @@ With Rachel:
 * 1:30 Shannon Paige
 
 ### Traffic Spy Work Time (1:00 - 4:00)
+No pressure, but you have approximately four days left.
 
 ### Who's CRUD is it Anyway? With the one - the only - Jason Noble! (4:15)
 Join Jason (not JSON) in classroom B to go over CRUD. Do some stretching - this one will have you out of your chairs. 
 
-<<<<<<< HEAD
-### Who's CRUD is it anyway? With special guest Mr. Jason Noble (4:00 )
-
-Join Jason to drill down you're understanding of CRUD.
-
-=======
-No pressure, but you have approximately four days left.
->>>>>>> 8193b69bae121eaeb8d1c71f14ceddf6747849b1
 
 ## 1510
 
@@ -176,9 +169,8 @@ With Horace
 * (3:15 - 3:30) Lauren Thomson
 * (3:30 - 3:45) Lenny Myerson
 
-<<<<<<< HEAD
 ### Foxtrot: Mastermind Feedback (3:30 - 4:00)
-=======
+
 With Jeff
 
 * (2:30 - 2:45) Penney Garrett
@@ -186,4 +178,3 @@ With Jeff
 * (3:00 - 3:15) Steven Olson
 * (3:15 - 3:30) Taylor Moore
 * (3:30 - 3:45) Toni Rib
->>>>>>> 8193b69bae121eaeb8d1c71f14ceddf6747849b1
