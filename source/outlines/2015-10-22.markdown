@@ -9,6 +9,8 @@ Happy Birthday, Mark Renshaw!
 
 ### Warm Up (8:30 - 9:00)
 
+You can all thank Lovisa for the new CSS hotness on the site.
+
 [Warm Up](https://thewarmup.herokuapp.com)
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
