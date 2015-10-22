@@ -153,11 +153,11 @@ Finally gather back in Classroom A at 11:40 to recap your diagnostic.
 
 ### Echo: How Binary Search Trees Work (1:00 - 2:30)
 
-Hey hey hey, it's time for your next project. Meet Jeff at the Mega Table to talk about Binary Trees.
+Hey hey hey, it's time for your next project. Meet Jeff at the Mega Table to talk about [Binary Trees](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown).
 
 ### Foxtrot: Understanding Enigma. (1:00 - 2:30)
 
-Dig Encryptor? It's time to kick it up a few notches. Meet with Horace in Classroom A to check out your Enigma project.
+Dig Encryptor? It's time to kick it up a few notches. Meet with Horace in Classroom A to check out [your Enigma project](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown).
 
 ### All: Project Work Time (2:30 - 4:00)
 
@@ -173,9 +173,8 @@ With Horace
 * (3:15 - 3:30) Lauren Thomson
 * (3:30 - 3:45) Lenny Myerson
 
-<<<<<<< HEAD
 ### Foxtrot: Mastermind Feedback (3:30 - 4:00)
-=======
+
 With Jeff
 
 * (2:30 - 2:45) Penney Garrett
@@ -183,4 +182,3 @@ With Jeff
 * (3:00 - 3:15) Steven Olson
 * (3:15 - 3:30) Taylor Moore
 * (3:30 - 3:45) Toni Rib
->>>>>>> 8193b69bae121eaeb8d1c71f14ceddf6747849b1
