@@ -103,18 +103,31 @@ Big Workspace
 
 #### Big Workspace
 
+* George Hudson - Crucial Conversations
+* Max Millington - Ethical Implications of Job Search
+* Rose Kohn - Who is Alan Kay?
+* Mary Beth Burch - Smart Cities and Civic Tech
+* Jerrod Paul Junker - Twitch.tv and the Kappa gem
+
 #### Classroom B
+
+* Alex Tideman - Getting Started with Meteor
+* Torie Joy-Warren - Language vs. Math: What is Code?
+* Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
+* Jason Pilz - Using CloudKit for a BaaS
+* DJ Greenfield - Prototype-Based Design in an ES6 World with Performance Advice
 
 ### Electives / Student Led Sessions / Self-Study (2:45 - 4:00)
 
-#### Game Programming with Unity3D
+##### Suggested for Module 1:
 
-<<<<<<< HEAD
-### Electives / Student Led Sessions (3:00 - 4:00)
-=======
-Join Mike in Classroom A to learn how to create games using Unity3D.
+* Alon Waisman and other cool people - Module 1 Ruby Recap in Classroom B. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable.
 
-You'll be learning how to use the engine as well as some C#.
+##### Suggested for Anyone:
 
-[Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
->>>>>>> 0db9a48298e75dc1d7aaee561ea8b64cffb9a6d5
+* Game Programming with Unity3D: Join Mike in Classroom A to learn how to create games using Unity3D. You'll be learning how to use the engine as well as some C#. [Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
+* George Hudson - Swift - Continues all module! Classroom C
+* Emily Dowdle - Blogging Q+A in the big workspace
+* Matt Stjernholm - Boostrap Alternatives: Materialize in the big workspace
+* Lovisa Svallingson - React.js 1.2. Follow up to the first React session. This week we will use AJAX to retrieve data from our Rails backend and render it on the DOM. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb. Location TBA app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions.
+* Regis Boudinot - Setting Up A Digital Ocean Server: Security and Version control at the Big Staff Table
