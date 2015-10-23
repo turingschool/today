@@ -18,6 +18,9 @@ Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-r
 
 ### 1505 Classroom B
 
+Push forward on your Game Time if you want.
+
+
 ### Instructional Time (9:00 - 11:00)
 
 This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
@@ -91,7 +94,7 @@ Things to look for:
 * Logic in the views
 * Use of Ruby instead of ActiveRecord
 
-At 10:30, rejoin your original TrafficSpy group to recap. 
+At 10:30, rejoin your original TrafficSpy group to recap.
 
 ### 1510 Classroom A
 
@@ -140,9 +143,9 @@ Big Workspace
 ##### Suggested for Anyone:
 
 * Game Programming with Unity3D: Join Mike to learn how to create games using Unity3D. You'll be learning how to use the engine as well as some C#. [Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
-* George Hudson - Swift - Continues all module! 
-* Emily Dowdle - Blogging Q+A 
-* Matt Stjernholm - Boostrap Alternatives: Materialize 
+* George Hudson - Swift - Continues all module!
+* Emily Dowdle - Blogging Q+A
+* Matt Stjernholm - Boostrap Alternatives: Materialize
 * Lovisa Svallingson - React.js 1.2. Follow up to the first React session. This week we will use AJAX to retrieve data from our Rails backend and render it on the DOM. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb.  app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions.
 * Regis Boudinot - Setting Up A Digital Ocean Server: Security and Version control
 
