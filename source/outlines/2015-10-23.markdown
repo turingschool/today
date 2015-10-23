@@ -9,10 +9,10 @@ Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-r
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-* [1505 Survey]
-* [1507 Survey]
-* [1508 Survey]
-* [1510 Survey]
+* [1505 Survey](http://goo.gl/forms/eaJLio8BDI)
+* [1507 Survey](http://goo.gl/forms/mxnujcXnXC)
+* [1508 Survey](http://goo.gl/forms/ZeebCuCI4n)
+* [1510 Survey](http://goo.gl/forms/QGL5UCVHvn)
 
 ### Instructional Time (9:00 - 11:00)
 
@@ -56,6 +56,14 @@ Round up to the Big Workspace
 
 ### Gear Up (2:15 - 3:00)
 
+Big Workspace
+
 ### Electives / Student Led Sessions (3:00 - 4:00)
 
+#### Game Programming with Unity3D
 
+Join Mike in Classroom A to learn how to create games using Unity3D.
+
+You'll be learning how to use the engine as well as some C#.
+
+[Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
