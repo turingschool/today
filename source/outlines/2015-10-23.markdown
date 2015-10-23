@@ -16,10 +16,22 @@ Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-r
 
 ### Instructional Time (9:00 - 11:00)
 
-* 1505 - Classroom B
-* 1507 - Classroom C
-* 1508 - Big Workspace
-* 1510 - Classroom A
+#### 1505 - Classroom B
+#### 1507 - Classroom C
+#### 1508 - Big Workspace
+
+Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend between 30 and 45 minutes in the following groups doing peer code reviews:
+
+* Amber Crawford & Ryan Johnson & Jason Pilz
+* Emily Dowdle & Jill Donohue & Sekhar Paladugu
+* Edgar Duran & Marlo Major & Charissa Lawrence
+* Ross Edfort & Shannon Paige & & John Slota
+* Chad Minnerath & Nicole Hall & Tyler Komoroske
+* Aaron Careaga & Matt Rooney Jhun de Andres
+* Robbie Lane & Pat Wey 
+* Matt Stjernholm & Torie Warren
+
+#### 1510 - Classroom A
 
 ### 1505
 
