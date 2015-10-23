@@ -143,6 +143,8 @@ Need help spotting at 1510er? [Check out these quick photos](https://drive.googl
 
 #### Big Workspace
 
+Posses: James Golick, Weirich Posse, Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto
+
 * George Hudson - Crucial Conversations
 * Max Millington - Ethical Implications of Job Search
 * Rose Kohn - Who is Alan Kay?
@@ -150,6 +152,8 @@ Need help spotting at 1510er? [Check out these quick photos](https://drive.googl
 * Jerrod Paul Junker - Twitch.tv and the Kappa gem
 
 #### Classroom B
+
+Posses: Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth, Ada Lovelace, Grace Hopper
 
 * Alex Tideman - Getting Started with Meteor
 * Torie Joy-Warren - Language vs. Math: What is Code?
