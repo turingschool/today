@@ -18,6 +18,9 @@ Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-r
 
 ### 1505 Classroom B
 
+Push forward on your Game Time if you want.
+
+
 ### Instructional Time (9:00 - 11:00)
 
 This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
@@ -73,16 +76,25 @@ If you have completed the spec, there are improvements that can be made.
 
 ### 1508 Big Workspace
 
-Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend between 30 and 45 minutes in the following groups doing peer code reviews:
+Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend ~45 minutes in the following groups doing peer code reviews:
 
-* Amber Crawford & Ryan Johnson & Jason Pilz
-* Emily Dowdle & Jill Donohue & Sekhar Paladugu
-* Edgar Duran & Marlo Major & Charissa Lawrence
-* Ross Edfort & Shannon Paige & & John Slota
+* Amber Crawford & Shannon Paige & Jason Pilz
+* Emily Dowdle & Ryan Johnson & Sekhar Paladugu
+* Edgar Duran & Marlo Major & Pat Wey
+* Ross Edfort & Jill Donohue & John Slota
 * Chad Minnerath & Nicole Hall & Tyler Komoroske
-* Aaron Careaga & Matt Rooney Jhun de Andres
-* Robbie Lane & Pat Wey
+* Aaron Careaga & Matt Rooney & Jhun de Andres
+* Robbie Lane & Charissa Lawrence
 * Matt Stjernholm & Torie Warren
+
+Things to look for:
+
+* Confusing methods
+* Logic in the controller
+* Logic in the views
+* Use of Ruby instead of ActiveRecord
+
+At 10:30, rejoin your original TrafficSpy group to recap.
 
 ### 1510 Classroom A
 
@@ -153,9 +165,10 @@ Need help spotting at 1510er? [Check out these quick photos](https://drive.googl
 
 ##### Suggested for Anyone:
 
-* Game Programming with Unity3D: Join Mike in Classroom A to learn how to create games using Unity3D. You'll be learning how to use the engine as well as some C#. [Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
-* George Hudson - Swift - Continues all module! Classroom C
-* Emily Dowdle - Blogging Q+A in the big workspace
-* Matt Stjernholm - Boostrap Alternatives: Materialize in the big workspace
-* Lovisa Svallingson - React.js 1.2. Follow up to the first React session. This week we will use AJAX to retrieve data from our Rails backend and render it on the DOM. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb. Location TBA app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions.
-* Regis Boudinot - Setting Up A Digital Ocean Server: Security and Version control at the Big Staff Table
+* Game Programming with Unity3D: Join Mike to learn how to create games using Unity3D. You'll be learning how to use the engine as well as some C#. [Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
+* George Hudson - Swift - Continues all module!
+* Emily Dowdle - Blogging Q+A
+* Matt Stjernholm - Boostrap Alternatives: Materialize
+* Lovisa Svallingson - React.js 1.2. Follow up to the first React session. This week we will use AJAX to retrieve data from our Rails backend and render it on the DOM. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb.  app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions.
+* Regis Boudinot - Setting Up A Digital Ocean Server: Security and Version control
+
