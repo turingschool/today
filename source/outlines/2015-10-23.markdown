@@ -16,9 +16,19 @@ Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-r
 
 ### Instructional Time (9:00 - 11:00)
 
-#### 1505 - Classroom B
-#### 1507 - Classroom C
-#### 1508 - Big Workspace
+### 1505 Classroom B
+
+### Instructional Time (9:00 - 11:00)
+
+This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
+
+- [Learn JS Data][jsdata]
+
+[jsdata]: http://learnjsdata.com
+
+### 1507 Classroom C
+
+### 1508 Big Workspace
 
 Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend between 30 and 45 minutes in the following groups doing peer code reviews:
 
@@ -31,23 +41,7 @@ Join Rachel in the big workspace at 9am to go over the plan for this morning. Yo
 * Robbie Lane & Pat Wey 
 * Matt Stjernholm & Torie Warren
 
-#### 1510 - Classroom A
-
-### 1505
-
-### Instructional Time (9:00 - 11:00)
-
-This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
-
-- [Learn JS Data][jsdata]
-
-[jsdata]: http://learnjsdata.com
-
-### 1507
-
-### 1508
-
-### 1510
+### 1510 Classroom A
 
 Meet up with Jeff and Horace in Classroom A.
 
