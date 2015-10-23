@@ -39,6 +39,11 @@ This week you've done a lot of work with object-oriented JavaScript in the conte
 
 Meet up with Jeff and Horace in Classroom A.
 
+* 9:00 - Mobbing with Jeff & Horace
+* 9:45ish - General Q&A
+* 10:00 - Enigma Questions
+* 10:30 - BST Questions
+
 ### Gear Up (11:00 - 12:00)
 
 Big Workspace
