@@ -3,27 +3,30 @@ title: 20151023
 layout: outline
 ---
 
-Today, in 1861, Abraham Lincolm suspends the writ of habeas corpus in military-related cases.
+Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-related cases.
 
 ## All
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-* [1505 Survey]
-* [1507 Survey]
-* [1508 Survey]
-* [1510 Survey]
+* [1505 Survey](http://goo.gl/forms/eaJLio8BDI)
+* [1507 Survey](http://goo.gl/forms/mxnujcXnXC)
+* [1508 Survey](http://goo.gl/forms/ZeebCuCI4n)
+* [1510 Survey](http://goo.gl/forms/QGL5UCVHvn)
 
 ### Instructional Time (9:00 - 11:00)
 
-* 1505 - Classroom B
-* 1507 - Classroom C
-* 1508 - Big Workspace
-* 1510 - Classroom A
+### 1505 Classroom B
 
-### 1505
+### Instructional Time (9:00 - 11:00)
 
-### 1507
+This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
+
+- [Learn JS Data][jsdata]
+
+[jsdata]: http://learnjsdata.com
+
+### 1507 Classroom C
 
 The following students haven't opened pull requests for the work they did last Friday. Please open a PR.
 
@@ -68,27 +71,50 @@ If you have completed the spec, there are improvements that can be made.
 * Can you get rid of `until` and `while` loops?
 * Can you get rid of your `if` statements? And no, using `case` statements doesn't count. Take a look at the Open/Closed Principle in the article above and view the `parse` method in the before and after example for inspiration.
 
-### 1508
+### 1508 Big Workspace
 
-### 1510
+Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend between 30 and 45 minutes in the following groups doing peer code reviews:
 
-### Guest Speaker (11:00 - 12:00)
+* Amber Crawford & Ryan Johnson & Jason Pilz
+* Emily Dowdle & Jill Donohue & Sekhar Paladugu
+* Edgar Duran & Marlo Major & Charissa Lawrence
+* Ross Edfort & Shannon Paige & & John Slota
+* Chad Minnerath & Nicole Hall & Tyler Komoroske
+* Aaron Careaga & Matt Rooney Jhun de Andres
+* Robbie Lane & Pat Wey
+* Matt Stjernholm & Torie Warren
 
-Round up to the Big Workspace
+### 1510 Classroom A
 
-### Group Retro (1:00 - 1:30)
+Meet up with Jeff and Horace in Classroom A.
 
-* 1505 - Big Workspace with Steve and Marissa
-* 1507 - Classroom B with Jorge
+### Gear Up (11:00 - 12:00)
+
+Big Workspace
+
+### Group Retro (1:15 - 2:00)
+
+* 1505 - Big Workspace with Mike and Marissa
+* 1507 - Classroom B with Josh
 * 1508 - Classroom C with Rachel and Andrew
 * 1510 - Classroom A with Horace and Jeff
 
-### Lightning Talks (1:30 - 2:15)
+### Lightning Talks (2:00 - 2:45)
 
 #### Big Workspace
 
 #### Classroom B
 
-### Gear Up (2:15 - 3:00)
+### Electives / Student Led Sessions / Self-Study (2:45 - 4:00)
 
+#### Game Programming with Unity3D
+
+<<<<<<< HEAD
 ### Electives / Student Led Sessions (3:00 - 4:00)
+=======
+Join Mike in Classroom A to learn how to create games using Unity3D.
+
+You'll be learning how to use the engine as well as some C#.
+
+[Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class.
+>>>>>>> 0db9a48298e75dc1d7aaee561ea8b64cffb9a6d5
