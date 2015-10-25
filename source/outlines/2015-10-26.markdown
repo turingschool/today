@@ -1,0 +1,57 @@
+---
+title: 20151025
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Posse Clean-Up Duty (After Wrapup)
+
+We're changing up posse clean-up duty. Instead of being on duty for a week, a posse will be assigned to clean-up duties *one day* rotating every twelve days. This week's schedule is as follows:
+
+* Monday: Goldberg (Erik Butcher, Alex Tideman, Adam Jensen, Jerrod Paul Junker, Jill Donohue, Nicole Hall, Greg Armstrong, Joseph Perry)
+* Tuesday: Ritchie (Dmitry Vizersky, Adam Caron, Michael Merrill, Jeffrey Ruane, Amber Crawford, Graham Ray, Tyler Komoroske, Brennan Holtzclaw, Steven Olson)
+* Wednesday: Zygmuntowicz (Max Millington, Russell Harms, Justin Holzmann, Ryan Johnson, Dan Winter, Steve Pentler)
+* Thursday: Matsumoto (Sekhar Paladugu, Shannon Paige, Chad Minnerath, Emily Blanchard) + Turing Staff
+* Friday: Golick (Rick Bacci, Samson Brock, Regis Boudinot, Ryan Asensio, Ross Edfort, Robbie Lane, Beth Secor)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e). 
+
+### Friday Lunch Roulette Groups
+
+At some point this week, find your people and come up with a Friday lunch plan.
+
+* Beth Secor, Emily Dowdle, Travis Haby, Max Millington
+* Alexis Uriel Navarrete, John Slota, Mary Beth Burch, Alex Tideman
+* Brennan Holtzclaw, Edgar Duran, Michael Wong, Dave Maurer
+* Brenna Martenson, Ross Edfort, George Hudson
+* Brant Wellman, Tyler Komoroske, Adam Jensen, Marla Brizel
+* Emily Blanchard, Charissa Lawrence, Rose Kohn, Lovisa Svallingson
+* Admir Draganovic, Matt Stjernholm, Justin Holzmann, Jamie Kawahara
+* Steven Olson, Shannon Paige, Russell Harms, Samson Brock
+* Lenny Myerson, Robbie Lane, Jeff Ruane, David Shim
+* Hector Huertas Baeza, Amber Crawford, Alon Waisman, Dmitry Vizersky
+* Beth Sebian, Jill Donohue, Matt Hecker, Erik Butcher
+* Penny Garrett, Aaron Careaga, Chris Cenatiempo, Mitch Ashby
+* Joseph Perry, Jhun de Andres, Jerrod Paul Junker, Sebastian Abondano
+* Jordan Lawler, Jason Pilz, Mimi Schatz, Rob Cornell
+* Greg Armstrong, Marlo Major, Justin Pease, Adam Caron
+* Dan Winter, Ryan Johnson, Ryan Asensio, Jai Misra
+* James Crockett, Pat Wey, Matt Ewell, Rick Bacci
+* Toni Rib, Torie Warren, Bret Doucette, Jason Wright
+* Steve Pentler, Taylor Moore, Matt Rooney, Regis Boudinot
+* Aaron Greenspan, Chad Minnerath, Nicole Hall, David Stinnette
+
+## 1505
+
+## 1507
+
+## 1508
+
+## 1510
