@@ -20,11 +20,46 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Friday Lunch Roulette Groups
 
-Remember to find your lunch roulette groups and create a plan for Friday. 
+Remember to find your lunch roulette groups and create a plan for Friday.
 
 ## 1505
 
 ## 1507
+
+### Consuming APIs (9:00 - 12:00)
+
+With Jorge in Classroom A.
+
+[Notes](https://www.dropbox.com/s/umxvqrmyc5qxruo/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
+
+### Project Checkins and Worktime (1:00 - 4:00)
+
+#### With Jorge
+
+* 1:00 - Mimi Schatz
+* 1:15 - Jeff Ruane
+* 1:30 - Rose Kohn
+* 1:45 - Russell Harms
+* 2:00 - Mary Beth Burch
+* 2:15 - Travis Haby
+* 2:30 - Ryan Asensio
+* 2:45 - Michael Wong
+* 3:00 - Matt Ewell
+* 3:15 - Alon Waisman
+* 3:30 - Jerrod Paul Junker
+
+#### With Josh
+
+* 1:00 - George Hudson
+* 1:15 - Chris Cenatiempo
+* 1:30 - Adam Jensen
+* 1:45 - Regis Boudinot
+* 2:00 - Bret Doucette
+* 2:15 - Matt Hecker
+* 2:30 - Justin Holzmann
+* 2:45 - David Stinnette
+* 3:00 - Jason Wright
+* 3:15 - Stanley Siudzinski
 
 ## 1508
 
@@ -34,10 +69,10 @@ Join Rachel in Classroom B to talk about most of Rails. Find the outline [here](
 
 ### Rails Basics Work Time (1:00 - 4:00)
 
-Gather in the Big Workspace to work through the [Rails Basics Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown) based on the repo you started this morning. 
+Gather in the Big Workspace to work through the [Rails Basics Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown) based on the repo you started this morning.
 
 * John Slota & Emily Dowdle
-* Jill Donohue & Aaron Careaga 
+* Jill Donohue & Aaron Careaga
 * Tyler Komoroske & Ross Edfort
 * Nicole Hall & Robbie Lane
 * Matt Stjernholm & Charissa Lawrence
