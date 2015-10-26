@@ -1,0 +1,31 @@
+---
+title: 20151028
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Zygmuntowicz (Max Millington, Russell Harms, Justin Holzmann, Ryan Johnson, Dan Winter, Steve Pentler)
+* Tomorrow: Matsumoto (Sekhar Paladugu, Shannon Paige, Chad Minnerath, Emily Blanchard) + Turing Staff
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Friday Lunch Roulette Groups
+
+Have you figured out your lunch plans? 
+
+## 1505
+
+## 1507
+
+## 1508
+
+## 1510
