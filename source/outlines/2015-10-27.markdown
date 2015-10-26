@@ -1,0 +1,31 @@
+---
+title: 20151027
+layout: outline
+---
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Ritchie Posse (Dmitry Vizersky, Adam Caron, Michael Merrill, Jeffrey Ruane, Amber Crawford, Graham Ray, Tyler Komoroske, Brennan Holtzclaw, Steven Olson)
+* Tomorrow: Zygmuntowicz Posse (Max Millington, Russell Harms, Justin Holzmann, Ryan Johnson, Dan Winter, Steve Pentler)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Friday Lunch Roulette Groups
+
+Remember to find your lunch roulette groups and create a plan for Friday. 
+
+## 1505
+
+## 1507
+
+## 1508
+
+## 1510
