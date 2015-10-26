@@ -62,9 +62,29 @@ One of the classic computer science and—maybe more important to you—intervie
 
 For the first hour, you'll be attempting binary search trees in Ruby…
 
+You'll be working in the following pairs:
+
+* Alex Tideman & Dave Maurer
+* Jamie Kawahara & Lovisa Svallingson
+* David Shim & Marla Brizel
+* Erik Butcher & Dmitry Vizersky
+* Samson Brock & Rick Bacci
+* Max Millington & Sebastian Abondano
+* Adam Caron & Mitch Ashby
+
 ### Binary Search Trees in JavaScript (11:00 - 12:00)
 
 …and for the second hour, you'll be doing it in JavaScript with Steve.
+
+You'll be working in the following pairs:
+
+* Dmitry Vizersky & Lovisa Svallingson
+* David Shim & Sebastian Abondano
+* Erik Butcher & Rick Bacci
+* Alex Tideman & Marla Brizel
+* Jamie Kawahara & Max Millington
+* Adam Caron & Dave Maurer
+* Mitch Ashby & Samson Brock
 
 ### Project Work Time / Recitation (1:00 - 2:30)
 
