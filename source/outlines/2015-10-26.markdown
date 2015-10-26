@@ -154,14 +154,20 @@ Join Mike in the Big Workspace to prepare for technical interviews.
 
 Join Jeff in the Big Workspace while you are not being evaluated.
 
-### All: Dynamics (1:00 - 1:30)
+We'll be using [this repo](https://github.com/turingschool/code_retreat), so get it cloned down to your machine.
 
-Classroom A.
+### All: Dynamics (1:00 - 2:00)
 
-### All: Project Planning and Lessons Learned (1:30 - 2:00)
+Get together in Classroom A where we'll be talking about [motivation](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
-Classroom A.
+### All: Project Lessons Learned (2:00 - 2:30)
 
-### All: Work Time or Enigma Kickoff (2:00 - 4:00)
+Continue in Classroom A with Horace where we'll brainstorm tips and lessons learned about executing better projects.
 
-The kickoff will take place in Classroom A.
+### Foxtrot: Work Time (2:30 - 4:00)
+
+You have a bit of work time to push your project forward.
+
+### Echo: Autocomplete Intro and Getting Started (2:30 - 4:00)
+
+Stay with Horace in the front of Classroom A where he'll introduce your new project, [Complete Me](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown).
