@@ -26,16 +26,27 @@ Look, material is here: [https://github.com/JoshCheek/object-model-hash-style](h
 
 ### Intracohort Check-Ins (1:00 - 2:00)
 
+This afternoon you'll swap with a different group. Spend 30 minutes reviewing each team's code.
+
+* Lovisa Svallingson & Adam Caron
+* Max Millington & Samson Brock
+* Rick Bacci & Dave Maurer
+* Alex Tideman & Jai Misra
+* Erik Butcher & David Shim
+* Jamie Kawahara & Dmitry Vizersky
+* Sebastian Abondano & Marla Brizel
+
 ### Project Work Time (2:00 - 4:00)
+
+Take what you've learned from your intra-cohort check-ins and apply it to your projects.
 
 #### Check-ins with Marissa
 
-* 1:00 - 1:15: Ricky
-* 1:20 - 1:35: David
-* 1:40 - 1:55: Sam
-* 2:00 - 2:15: Jamie
-* Sebastian
-* Erik
+* 2:00 - 2:15: Ricky
+* 2:20 - 2:35: David
+* 2:40 - 2:55: Sam
+* 3:00 - 3:15: Jamie
+* 3:20 - 3:35: Sebastian
 
 
 ## 1507
@@ -172,8 +183,6 @@ With Horace
 * (3:00 - 3:15) Joseph Perry
 * (3:15 - 3:30) Lauren Thomson
 * (3:30 - 3:45) Lenny Myerson
-
-### Foxtrot: Mastermind Feedback (3:30 - 4:00)
 
 With Jeff
 

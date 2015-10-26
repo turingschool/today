@@ -1,0 +1,173 @@
+---
+title: 20151025
+layout: outline
+---
+
+Today, in 1941, the P-51 Mustang makes its maiden flight.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Posse Clean-Up Duty (After Wrapup)
+
+We're changing up posse clean-up duty. Instead of being on duty for a week, a posse will be assigned to clean-up duties *one day* rotating every twelve days. This week's schedule is as follows:
+
+* Monday: Goldberg (Erik Butcher, Alex Tideman, Adam Jensen, Jerrod Paul Junker, Jill Donohue, Nicole Hall, Greg Armstrong, Joseph Perry)
+* Tuesday: Ritchie (Dmitry Vizersky, Adam Caron, Michael Merrill, Jeffrey Ruane, Amber Crawford, Graham Ray, Tyler Komoroske, Brennan Holtzclaw, Steven Olson)
+* Wednesday: Zygmuntowicz (Max Millington, Russell Harms, Justin Holzmann, Ryan Johnson, Dan Winter, Steve Pentler)
+* Thursday: Matsumoto (Sekhar Paladugu, Shannon Paige, Chad Minnerath, Emily Blanchard) + Turing Staff
+* Friday: Golick (Rick Bacci, Samson Brock, Regis Boudinot, Ryan Asensio, Ross Edfort, Robbie Lane, Beth Secor)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Friday Lunch Roulette Groups
+
+At some point this week, find your people and come up with a Friday lunch plan.
+
+* Beth Secor, Emily Dowdle, Travis Haby, Max Millington
+* Alexis Uriel Navarrete, John Slota, Mary Beth Burch, Alex Tideman
+* Brennan Holtzclaw, Edgar Duran, Michael Wong, Dave Maurer
+* Brenna Martenson, Ross Edfort, George Hudson
+* Brant Wellman, Tyler Komoroske, Adam Jensen, Marla Brizel
+* Emily Blanchard, Charissa Lawrence, Rose Kohn, Lovisa Svallingson
+* Admir Draganovic, Matt Stjernholm, Justin Holzmann, Jamie Kawahara
+* Steven Olson, Shannon Paige, Russell Harms, Samson Brock
+* Lenny Myerson, Robbie Lane, Jeff Ruane, David Shim
+* Hector Huertas Baeza, Amber Crawford, Alon Waisman, Dmitry Vizersky
+* Beth Sebian, Jill Donohue, Matt Hecker, Erik Butcher
+* Penny Garrett, Aaron Careaga, Chris Cenatiempo, Mitch Ashby
+* Joseph Perry, Jhun de Andres, Jerrod Paul Junker, Sebastian Abondano
+* Jordan Lawler, Jason Pilz, Mimi Schatz, Rob Cornell
+* Greg Armstrong, Marlo Major, Justin Pease, Adam Caron
+* Dan Winter, Ryan Johnson, Ryan Asensio, Jai Misra
+* James Crockett, Pat Wey, Matt Ewell, Rick Bacci
+* Toni Rib, Torie Warren, Bret Doucette, Jason Wright
+* Steve Pentler, Taylor Moore, Matt Rooney, Regis Boudinot
+* Aaron Greenspan, Chad Minnerath, Nicole Hall, David Stinnette
+
+## 1505
+
+### Intra-Cohort Pairing (9:00 - 10:30)
+
+Classroom A.
+
+### Binary Search Trees (10:30 - 12:00)
+
+Classroom A.
+
+### Project Work Time / Recitation (1:00 - 2:30)
+
+Recitation will be at the Staff Mega Table.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Work space with Mike.
+
+
+## 1507
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+[Lesson Plan/Tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.md)
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.md)
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace with Mike.
+
+
+## 1508
+
+Make sure to `gem install rails` at some point before 1pm today.
+
+### Traffic Spy Evaluations and Peer Feedback (9:00 - 11:20)
+
+While you're not in evaluations, complete these two things:
+
+1) Check your email for links to give your Traffic Spy peers feedback. As your giving feedback, make sure to check that it is actionable, kind, and specific. The feedback you give could potentially help someone to become an even stronger teammate on future projects.
+
+2) Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out [this post](http://www.theodinproject.com/ruby-on-rails/a-railsy-web-refresher). Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. *Finish the questions before this afternoon's REST, Controllers, and Routing class*.
+
+With Rachel:
+
+* 9:00 Edgar Duran & Shannon Paige & Jhun de Andres
+* 9:35 Amber Crawford & Jill Donohue & Jason Pilz
+* 10:10 Emily Dowdle & Marlo Major & Charissa Lawrence
+* 10:45 Robbie Lane & Torie Warren
+
+With Andrew:
+
+* 9:00 Ross Edfort & Nicole Hall & Sekhar Paladugu
+* 9:35 Aaron Careaga & Pat Wey & Tyler Komoroske
+* 10:10 Chad Minnerath & Matt Rooney & John Slota
+* 10:45 Matt Stjernholm & Ryan Johnson
+
+### TBA (11:30 - 12:00)
+
+Join Rachel and Andrew in Classroom C.
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Join Andrew in Classroom C for your first look at Rails. Follow the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
+
+Remember to complete the [Routes and Controllers Homework](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown).
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Join Mike in the Big Workspace to prepare for technical interviews.
+
+## 1510
+
+### Binary Search Tree Evaluations (9:00 - 12:00)
+
+#### With Horace
+
+* 9:00 - Aaron Greenspan
+* 9:25 - Brant Wellman
+* 9:50 - Daniel John Winter
+* 10:15 - Steven Olson
+
+#### With Mike
+
+* 9:00 - Beth Sebian
+* 9:25 - Brennan Holtzclaw
+* 9:50 - Elizabeth Anne Secor
+* 10:15 - Joseph Perry
+* 10:40 - Toni Rib
+
+### All: Code Retreat / Pairing Exercises (9:00 - 12:00)
+
+Join Jeff in the Big Workspace while you are not being evaluated.
+
+We'll be using [this repo](https://github.com/turingschool/code_retreat), so get it cloned down to your machine.
+
+### All: Dynamics (1:00 - 2:00)
+
+Get together in Classroom A where we'll be talking about [motivation](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
+
+### All: Project Lessons Learned (2:00 - 2:30)
+
+Continue in Classroom A with Horace where we'll brainstorm tips and lessons learned about executing better projects.
+
+### Foxtrot: Work Time (2:30 - 4:00)
+
+You have a bit of work time to push your project forward.
+
+### Echo: Autocomplete Intro and Getting Started (2:30 - 4:00)
+
+Stay with Horace in the front of Classroom A where he'll introduce your new project, [Complete Me](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown).
