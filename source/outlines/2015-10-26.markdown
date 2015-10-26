@@ -58,9 +58,11 @@ Make sure to `gem install rails` at some point before 1pm today.
 
 ### Traffic Spy Evaluations and Peer Feedback (9:00 - 11:20)
 
-While you're not in evaluations, read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out [this post](http://www.theodinproject.com/ruby-on-rails/a-railsy-web-refresher). 
+While you're not in evaluations, complete these two things:
 
-Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original.
+1) Check your email for links to give your Traffic Spy peers feedback. As your giving feedback, make sure to check that it is actionable, kind, and specific. The feedback you give could potentially help someone to become an even stronger teammate on future projects. 
+
+2) Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out [this post](http://www.theodinproject.com/ruby-on-rails/a-railsy-web-refresher). Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. *Finish the questions before this afternoon's REST, Controllers, and Routing class*. 
 
 With Rachel:
 
