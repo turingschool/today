@@ -102,6 +102,7 @@ Big Work space with Mike.
 Classroom B.
 
 [Lesson Plan/Tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.md)
+
 ### JSON Fundamentals (11:00 - 12:00)
 
 Classroom B.
