@@ -21,7 +21,7 @@ We're changing up posse clean-up duty. Instead of being on duty for a week, a po
 * Thursday: Matsumoto (Sekhar Paladugu, Shannon Paige, Chad Minnerath, Emily Blanchard) + Turing Staff
 * Friday: Golick (Rick Bacci, Samson Brock, Regis Boudinot, Ryan Asensio, Ross Edfort, Robbie Lane, Beth Secor)
 
-Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e). 
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
 
 ### Friday Lunch Roulette Groups
 
@@ -50,19 +50,53 @@ At some point this week, find your people and come up with a Friday lunch plan.
 
 ## 1505
 
+### Intra-Cohort Pairing (9:00 - 10:30)
+
+Classroom A.
+
+### Binary Search Trees (10:30 - 12:00)
+
+Classroom A.
+
+### Project Work Time / Recitation (1:00 - 2:30)
+
+Recitation will be at the Staff Mega Table.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Work space with Mike.
+
+
 ## 1507
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace with Mike.
+
 
 ## 1508
 
-Make sure to `gem install rails` at some point before 1pm today. 
+Make sure to `gem install rails` at some point before 1pm today.
 
 ### Traffic Spy Evaluations and Peer Feedback (9:00 - 11:20)
 
 While you're not in evaluations, complete these two things:
 
-1) Check your email for links to give your Traffic Spy peers feedback. As your giving feedback, make sure to check that it is actionable, kind, and specific. The feedback you give could potentially help someone to become an even stronger teammate on future projects. 
+1) Check your email for links to give your Traffic Spy peers feedback. As your giving feedback, make sure to check that it is actionable, kind, and specific. The feedback you give could potentially help someone to become an even stronger teammate on future projects.
 
-2) Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out [this post](http://www.theodinproject.com/ruby-on-rails/a-railsy-web-refresher). Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. *Finish the questions before this afternoon's REST, Controllers, and Routing class*. 
+2) Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out [this post](http://www.theodinproject.com/ruby-on-rails/a-railsy-web-refresher). Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. *Finish the questions before this afternoon's REST, Controllers, and Routing class*.
 
 With Rachel:
 
@@ -80,16 +114,52 @@ With Andrew:
 
 ### TBA (11:30 - 12:00)
 
-Join Rachel and Andrew in Classroom B. 
+Join Rachel and Andrew in Classroom C.
 
 ### REST, Controllers, and Routing in Rails (1:00 - 2:30)
 
-Join Andrew in Classroom B for your first look at Rails. Follow the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
+Join Andrew in Classroom C for your first look at Rails. Follow the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
 
-Remember to complete the [Routes and Controllers Homework](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown). 
+Remember to complete the [Routes and Controllers Homework](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown).
 
 ### Technical Interview Prep (2:30 - 4:00)
 
-Join Mike in the Big Workspace to prepare for technical interviews. 
+Join Mike in the Big Workspace to prepare for technical interviews.
 
 ## 1510
+
+### Binary Search Tree Evaluations (9:00 - 12:00)
+
+#### With Horace
+
+* 9:00 - Aaron Greenspan
+* 9:25 - Brant Wellman
+* 9:50 - Daniel John Winter
+* 10:15 - Steven Olson
+
+### With Mike
+
+* 9:00 - Beth Sebian
+* 9:25 - Brennan Holtzclaw
+* 9:50 - Elizabeth Anne Secor
+* 10:15 - Joseph Perry
+* 10:40 - Toni Rib
+
+### All: Code Retreat / Pairing Exercises (9:00 - 12:00)
+
+Join Jeff in the Big Workspace while you are not being evaluated.
+
+### All: Dynamics (1:00 - 1:30)
+
+Classroom A.
+
+### All: Project Planning and Lessons Learned (1:30 - 2:00)
+
+Classroom A.
+
+### All: Work Time or Enigma Kickoff (2:00 - 4:00)
+
+The kickoff will take place in Classroom A.
+
+
+
