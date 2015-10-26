@@ -28,4 +28,24 @@ Remember to find your lunch roulette groups and create a plan for Friday.
 
 ## 1508
 
+### Migrations, Databases, Relationships, and Models; AKA "Most of Rails" (9:00 - 12:00)
+
+Join Rachel in Classroom B to talk about most of Rails. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
+
+### Rails Basics Work Time (1:00 - 4:00)
+
+Gather in the Big Workspace to work through the [Rails Basics Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown) based on the repo you started this morning. 
+
+* John Slota & Emily Dowdle
+* Jill Donohue & Aaron Careaga 
+* Tyler Komoroske & Ross Edfort
+* Nicole Hall & Robbie Lane
+* Matt Stjernholm & Charissa Lawrence
+* Jhun de Andres & Pat Wey
+* Matt Rooney & Shannon Paige
+* Jason Pilz & Sekhar Paladugu
+* Torie Warren & Chad Minnerath
+* Ryan Johnson & Edgar Duran
+* Amber Crawford & Marlo Major
+
 ## 1510
