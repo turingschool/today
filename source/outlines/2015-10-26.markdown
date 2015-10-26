@@ -52,13 +52,19 @@ At some point this week, find your people and come up with a Friday lunch plan.
 
 ## 1505
 
-### Intra-Cohort Pairing (9:00 - 10:30)
+### Game Time PSA: Part II (9:00 - 10:00)
 
-Classroom A.
+Join Steve in Classroom A to discuss some strategies for the second week of your Game Time projects.
 
-### Binary Search Trees (10:30 - 12:00)
+### Binary Search Trees in Ruby (10:00 - 11:00)
 
-Classroom A.
+One of the classic computer science and—maybe more important to you—interview questions.
+
+For the first hour, you'll be attempting binary search trees in Ruby…
+
+### Binary Search Trees in JavaScript (11:00 - 12:00)
+
+…and for the second hour, you'll be doing it in JavaScript with Steve.
 
 ### Project Work Time / Recitation (1:00 - 2:30)
 
