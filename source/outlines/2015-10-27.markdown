@@ -104,11 +104,11 @@ Gather in the Big Workspace to work through the [Rails Basics Challenge](https:/
 
 ### All: Testing Strategies (9:00 - 10:30)
 
-Join Jeff in the Big Workspace.
+Join Jeff in the Big Workspace where we'll talk about [testing strategies](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown).
 
 ### All: Character Count (10:30 - 12:00)
 
-Stay in the Big Workspace
+We'll then continue in the Big Workspace to work on [Character Count](https://github.com/turingschool/challenges/blob/master/character_count.markdown).
 
 ### All: Project Work Time (1:00 - 4:00)
 
