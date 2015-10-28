@@ -1,5 +1,5 @@
 ---
-title: 20151025
+title: 20151026
 layout: outline
 ---
 
@@ -52,13 +52,39 @@ At some point this week, find your people and come up with a Friday lunch plan.
 
 ## 1505
 
-### Intra-Cohort Pairing (9:00 - 10:30)
+### Game Time PSA: Part II (9:00 - 10:00)
 
-Classroom A.
+Join Steve in Classroom A to discuss some strategies for the second week of your Game Time projects.
 
-### Binary Search Trees (10:30 - 12:00)
+### Binary Search Trees in Ruby (10:00 - 11:00)
 
-Classroom A.
+One of the classic computer science and—maybe more important to you—interview questions.
+
+For the first hour, you'll be attempting binary search trees in Ruby…
+
+You'll be working in the following pairs:
+
+* Alex Tideman & Dave Maurer
+* Jamie Kawahara & Lovisa Svallingson
+* David Shim & Marla Brizel
+* Erik Butcher & Dmitry Vizersky
+* Samson Brock & Rick Bacci
+* Max Millington & Sebastian Abondano
+* Adam Caron & Mitch Ashby
+
+### Binary Search Trees in JavaScript (11:00 - 12:00)
+
+…and for the second hour, you'll be doing it in JavaScript with Steve.
+
+You'll be working in the following pairs:
+
+* Dmitry Vizersky & Lovisa Svallingson
+* David Shim & Sebastian Abondano
+* Erik Butcher & Rick Bacci
+* Alex Tideman & Marla Brizel
+* Jamie Kawahara & Max Millington
+* Adam Caron & Dave Maurer
+* Mitch Ashby & Samson Brock
 
 ### Project Work Time / Recitation (1:00 - 2:30)
 
@@ -76,6 +102,7 @@ Big Work space with Mike.
 Classroom B.
 
 [Lesson Plan/Tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.md)
+
 ### JSON Fundamentals (11:00 - 12:00)
 
 Classroom B.
