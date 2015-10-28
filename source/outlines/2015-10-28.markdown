@@ -43,6 +43,7 @@ We'll also discuss generators, a new features in JavaScript, which allow you to 
 
 In a lot of the code we've written over the last view months, we've send messages to objects (or, called methods). Another approach, which will come up a lot throughout Module 4 is to flip this paradigm and letting our objects emit events declaring their state. In this session, we'll explore Node's `EventEmitter` library to look at how we can harness events in our code.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
 * [EventEmitter API Documentation](https://nodejs.org/api/events.html)
 
 ### Project Work Time (1:00 - 4:00)
