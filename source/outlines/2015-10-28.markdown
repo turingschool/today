@@ -72,7 +72,7 @@ Be curious. API curious.
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
 
 ### Jobs Q & A (1:00 - 1:30)
 
@@ -80,7 +80,7 @@ Marissa Time in Classroom C.
 
 ### Blogger Kickoff and Work Time (1:30 - 4:00)
 
-Classroom C.
+Join Andrew in Classroom C to kick off [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html). 
 
 
 ## 1510
