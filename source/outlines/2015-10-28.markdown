@@ -53,7 +53,16 @@ You're almost there! The times have almost been gamed!
 
 ### Testing an External API (9:00 - 12:00)
 
-Important class.  Be in B.
+Learn how to test an external API using VCR.
+
+Before this class, please get an API key from the Sunlight Foundation. You can get one here: https://sunlightfoundation.com/api/accounts/register/. After registering, you will get an email with the key.
+
+**Class materials**
+
+* [Notes](https://sunlightfoundation.com/api/accounts/register/)
+* The video will be posted after the session.
+
+Meet Jorge in classroom B.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -87,4 +96,3 @@ Classroom A with Jeff.
 ### Project Work Time (1:00 - 4:00)
 
 Mike is available for your questions.
-
