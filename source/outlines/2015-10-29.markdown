@@ -76,7 +76,35 @@ Classroom C.
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+__With Horace__
+
+* (9:00 - 9:20)   Hector Noel Huertas Baeza
+* (9:20 - 9:40)   Joseph Perry
+* (9:40 - 10:00)  Steven Pentler
+* (10:00 - 10:20) Brant Wellman
+* (10:20 - 10:40) Brennan Holtzclaw
+* (10:40 - 11:00) Leonard Myerson
+* (11:00 - 11:20) Jordan Lawler
+
+__With Jeff__
+
+* (9:00 - 9:20)   Penney Garrett
+* (9:20 - 9:40)   Toni Rib
+* (9:40 - 10:00)  Aaron Greenspan
+* (10:00 - 10:20) Beth Sebian
+* (10:20 - 10:40) Daniel John Winter
+* (10:40 - 11:00) Elizabeth Anne Secor
+* (11:00 - 11:20) Steven Olson
+
+__With Mike__
+
+* (9:00 - 9:20)   Alexis Uriel Navarrete
+* (9:20 - 9:40)   Admir Dragaonovic
+* (9:40 - 10:00)  Brenna Martenson
+* (10:00 - 10:20) Emily Blanchard
+* (10:20 - 10:40) Taylor Moore
+* (10:40 - 11:00) Gregory Thomas Armstrong
+* (11:00 - 11:20) James Crockett
 
 ### All: Programming is Fun (1:00 - 4:00)
 
