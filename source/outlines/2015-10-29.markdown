@@ -76,7 +76,9 @@ Classroom C.
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-__With Horace__
+When you're *not* being evaluated, please begin the [EventManager Tutorial](https://github.com/turingschool/curriculum/blob/master/source/projects/eventmanager.markdown). You may choose to pair on it.
+
+#### With Horace
 
 * (9:00 - 9:20)   Hector Noel Huertas Baeza
 * (9:20 - 9:40)   Joseph Perry
@@ -86,7 +88,7 @@ __With Horace__
 * (10:40 - 11:00) Leonard Myerson
 * (11:00 - 11:20) Toni Rib
 
-__With Jeff__
+#### With Jeff
 
 * (9:00 - 9:20)   Penney Garrett
 * (9:20 - 9:40)   Steven Olson
@@ -96,7 +98,7 @@ __With Jeff__
 * (10:40 - 11:00) Elizabeth Anne Secor
 * (11:00 - 11:20) Emily Blanchard
 
-__With Mike__
+#### With Mike
 
 * (9:00 - 9:20)   Alexis Uriel Navarrete
 * (9:20 - 9:40)   Admir Dragaonovic
@@ -108,4 +110,4 @@ __With Mike__
 
 ### All: Programming is Fun (1:00 - 4:00)
 
-Quality Time with Mike
+Quality Time with Mike in Classroom A.
