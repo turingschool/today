@@ -56,7 +56,7 @@ git clone https://github.com/turingschool-examples/schoolist.git consuming_an_ap
 **Class materials**
 
 * [Notes](https://www.dropbox.com/s/umxvqrmyc5qxruo/Turing%20-%20Consuming%20an%20API%20%28Notes%29.pages?dl=0)
-* The video will be posted after the session.
+* [Video](http://vimeo.com/143957483)
 
 Meet Jorge (and your destiny) in Classroom A.
 
