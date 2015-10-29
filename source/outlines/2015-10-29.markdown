@@ -16,17 +16,52 @@ Today, in 1998, John Glenn returns to space.
 
 ## 1505
 
-### Building Desktop Applications with Electron (9:00 - 12:00)
+### Getting Started with Express (9:00 - 2:00)
 
-You're doing this while you're not being evaluated.
+We've been playing a bit with Node over the last few weeks. [Express][] is a popular web framework for Node. We'll be using it a bit more later on in the module. Your mission this morning is to get comfortable with it.
 
-### Game Time Evaluations (9:00 - 12:00)
+1. Start by working through the [ExpressWorks][ew] NodeSchool workshop.
+2. Can you build a small version of IdeaBox with Express?
+  - A first attempt might include rendering pages like a traditional server-side application.
+  - In a second attempt, you could take the JavaScript from your Rails-version of IdeaBox and retrofit it on top of a RESTful API built in Express.
+  - (For either of these, don't worry too much about databases, you can store all of your objects in array in memory or something along those lines.)
 
-Schedule TBA
+[ew]: https://github.com/azat-co/expressworks
+[Express]: https://github.com/rwaldron/johnny-five
 
-### Programming is Fun (1:00 - 4:00)
+### Game Time Evaluations (9:00 - 2:00)
 
-Fun. Right.
+#### With Steve
+
+- 9:00 - Rick Bacci & David Shim
+- 9:30 - Alex Tideman & Adam Caron
+- 10:00 - Lovisa Svallingson & Marla Brizel
+- 10:30 - Max Millington & Dmitry Vizersky
+- 11:00 - Jamie Kawahara & Dave Maurer
+- 11:30 - Sebastian Abondano & Jai Misra
+- 1:00 - Erik Butcher
+- 1:30 - Samson Brock
+
+### Exploring JavaScript Events with Hardware (2:00 - 4:00)
+
+Yesterday, we continued our discussion on events in JavaScript and how they allow for a lot of interesting approaches to programming. A really good example of this is hardware/robotics. You robot hits a wall; it fires an event saying it hits a wall; you turn it around.
+
+This afternoon, we'll be exploring events (along with some other JavaScript concepts) with hardware (e.g. Arduinos).
+
+- We'll be using the [johnny-five](http://johnny-five.io/) library
+- And, we'll be working through [some of the following challenges][ardx]
+
+[ardx]: http://node-ardx.org/
+
+Meet with Steve in Classroom B.
+
+You'll be working in the following groups:
+
+- Sebastian Abondano & Adam Caron & Dave Maurer
+- David Shim & Dmitry Vizersky & Samson Brock
+- Erik Butcher & Jai Misra & Rick Bacci
+- Lovisa Svallingson & Jamie Kawahara & Marla Brizel
+- Alex Tideman & Max Millington
 
 ### Check Ins with Marissa (1:00 - 4:00)
 
