@@ -7,6 +7,12 @@ Today, in 1998, John Glenn returns to space.
 
 ## All
 
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Matsumoto (Sekhar Paladugu, Shannon Paige, Chad Minnerath, Emily Blanchard) + Turing Staff
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
 ### Warm Up (8:30 - 9:00)
 
 [Warm Up](https://thewarmup.herokuapp.com)
@@ -123,15 +129,23 @@ Stay in Classroom C.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom C for DAYS.
+Classroom C for DAYS. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
 ### Model Testing Work Time (1:00 - 3:00)
 
-Work.
+Work. Here are the [challenges](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
 
 ### Contact Manager Kick Off (3:00 - 4:00)
 
-Classroom C.
+[Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html) will be your weekend project. Minimum checkpoints are as follows:
+
+* Checkpoint 1: I0 and I1 by Friday at 9am.
+* Checkpoint 2: I2 and I3 by Saturday at 11:59pm.
+* Checkpoint 3: I4 by Sunday at 11:59pm.
+
+We _strongly_ recommend also implementing extension "Supporting Users" (EI6) to get a taste of oauth. This will be helpful when you get to Module 3 (just ask 1507). 
+
+Submit the SHA for your checkpoints [here](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
 
 
 ## 1510
