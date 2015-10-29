@@ -16,7 +16,7 @@ Today, in 1998, John Glenn returns to space.
 
 ## 1505
 
-### Getting Started with Express (9:00 - 2:00)
+### Getting Started with Express (9:00 - 12:00)
 
 We've been playing a bit with Node over the last few weeks. [Express][] is a popular web framework for Node. We'll be using it a bit more later on in the module. Your mission this morning is to get comfortable with it.
 
@@ -29,20 +29,23 @@ We've been playing a bit with Node over the last few weeks. [Express][] is a pop
 [ew]: https://github.com/azat-co/expressworks
 [Express]: https://github.com/rwaldron/johnny-five
 
-### Game Time Evaluations (9:00 - 2:00)
+### Game Time Evaluations (9:00 - 12:00)
 
 #### With Steve
 
 - 9:00 - Rick Bacci & David Shim
-- 9:30 - Alex Tideman & Adam Caron
-- 10:00 - Lovisa Svallingson & Marla Brizel
+- 9:30 - Lovisa Svallingson & Marla Brizel
 - 10:30 - Max Millington & Dmitry Vizersky
-- 11:00 - Jamie Kawahara & Dave Maurer
-- 11:30 - Sebastian Abondano & Jai Misra
-- 1:00 - Erik Butcher
-- 1:30 - Samson Brock
+- 11:00 - Samson Brock
 
-### Exploring JavaScript Events with Hardware (2:00 - 4:00)
+#### With Tess
+
+- 9:00 - Alex Tideman & Adam Caron
+- 9:30 - Jamie Kawahara & Dave Maurer
+- 10:30 - Sebastian Abondano & Jai Misra
+- 11:00 - Erik Butcher
+
+### Exploring JavaScript Events with Hardware (1:00 - 4:00)
 
 Yesterday, we continued our discussion on events in JavaScript and how they allow for a lot of interesting approaches to programming. A really good example of this is hardware/robotics. You robot hits a wall; it fires an event saying it hits a wall; you turn it around.
 
