@@ -28,6 +28,8 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 #### 1508
 
+Join Rachel in Classroom C to talk about join tables and messed up migrations. 
+
 #### 1510
 
 ### Gear Up (10:30 - 11:00)
