@@ -24,6 +24,10 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 #### 1505
 
+Meet with Steve in A. We'll review some concepts from the week and/or talk a little bit about generators.
+
+* [Lesson plan on Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
+
 #### 1507
 
 How far can you make it in [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)?
