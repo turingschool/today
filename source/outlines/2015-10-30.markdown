@@ -46,6 +46,29 @@ Submit your questions [here](https://public.etherpad-mozilla.org/p/1510-question
 
 ### Gear Up (10:30 - 11:00)
 
+Get right into your groups below:
+
+* David Shim & Edgar Duran & Mary Beth Burch & Greg Armstrong
+* Nicole Hall & Chad Minnerath & James Crockett & Torie Warren
+* Marlo Major & Rose Kohn & Robbie Lane & Ross Edfort
+* Sekhar Paladugu & John Slota & Samson Brock & Toni Rib
+* Beth Sebian & Stanley Siudzinski & Matt Hecker & Matt Rooney
+* Justin Holzmann & Jhun de Andres & Russell Harms & Beth Secor
+* Dave Maurer & Steven Olson & Jason Wright & Ryan Johnson
+* Lovisa Svallingson & Adam Jensen & Penney Garrett & Emily Blanchard
+* Jill Donohue & Jai Misra & Brennan Holtzclaw & Steve Pentler
+* Amber Crawford & Dan Winter & Admir Draganovic & Rick Bacci
+* Tyler Komoroske & Mimi Schatz & Emily Dowdle & Brant Wellman
+* Jordan Lawler & Charissa Lawrence & Alexis Uriel Navarrete & Regis Boudinot
+* Michael Wong & Matt Ewell & Ryan Asensio & Rob Cornell
+* Joseph Perry & Chris Cenatiempo & Taylor Moore & Bret Doucette
+* Adam Caron & Erik Butcher & Shannon Paige & George Hudson
+* Lenny Myerson & Hector Huertas Baeza & Marla Brizel & Jason Pilz
+* Matt Stjernholm & Travis Haby & Sebastian Abondano & Alon Waisman & Jerrod Paul Junker
+* Jeff Ruane & Aaron Greenspan & Aaron Careaga & Pat Wey & Brenna Martenson
+
+You'll have printed copies of the articles and instructions, but for your reference [here are the instructions](https://github.com/turingschool/gear-up/blob/master/salary.markdown).
+
 ### Guest Speaker (11:00 - 12:00)
 
 Today, you will be hearing from five of Turing's greatest alumni, Allie Larson, Andrew Watkins, Chandra Carney, Sara Simon, and Will Faurot.
