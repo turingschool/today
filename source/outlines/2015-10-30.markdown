@@ -26,9 +26,13 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 #### 1507
 
+How far can you make it in [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)?
+
+Meet in Classroom B.
+
 #### 1508
 
-Join Rachel in Classroom C to talk about join tables and messed up migrations. 
+Join Rachel in Classroom C to talk about join tables and messed up migrations.
 
 #### 1510
 
