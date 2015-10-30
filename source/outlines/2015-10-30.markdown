@@ -101,7 +101,7 @@ Today, you will be hearing from five of Turing's greatest alumni, Allie Larson, 
 
 #### Recommended for Anyone
 
-* Mike Dao - Game Programming with Unity 3D.
+* Mike Dao - Game Programming with Unity 3D. Meeting in Classroom A.
 * Dan Winter - Book Club - Pragmatic Thinking and Learning: Refactor Your Wetware. We know [this is  your brain on drugs](https://www.youtube.com/watch?v=ub_a2t0ZfTs). What does your brain on Turing look like? Let's think about thinking and learn about learning!
 * George Hudson - Swift - Continues all module!
 * Chris Cenatiempo - MATLAB
