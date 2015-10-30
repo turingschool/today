@@ -16,10 +16,6 @@ Today, in 1998, John Glenn returns to space.
 
 ## 1505
 
-### Building Desktop Applications with Electron (9:00 - 12:00)
-
-You're doing this while you're not being evaluated.
-
 ### Game Time Evaluations (9:00 - 12:00)
 
 Schedule TBA
