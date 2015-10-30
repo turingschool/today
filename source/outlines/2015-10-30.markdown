@@ -15,10 +15,10 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-* [1505 Survey]()
-* [1507 Survey]()
-* [1508 Survey]()
-* [1510 Survey]()
+* [1505 Survey](http://goo.gl/forms/fqQIv1feH2)
+* [1507 Survey](http://goo.gl/forms/Q6uO7d6IQR)
+* [1508 Survey](http://goo.gl/forms/nyLbRsrCNJ)
+* [1510 Survey](http://goo.gl/forms/nYKIVZT8IO)
 
 ### Instructional Time (9:00 - 10:30)
 
@@ -37,6 +37,11 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 Today, you will be hearing from five of Turing's greatest alumni, Allie Larson, Andrew Watkins, Chandra Carney, Sara Simon, and Will Faurot.
 
 ### Group Retro (1:15 - 2:00)
+
+* 1505 - Big Workspace with Steve and Marissa
+* 1507 - Classroom B with Jorge
+* 1508 - Classroom C with Rachel
+* 1510 - Classroom A with Jeff
 
 ### Lightning Talks (2:00 - 3:00)
 
@@ -59,9 +64,12 @@ Today, you will be hearing from five of Turing's greatest alumni, Allie Larson, 
 
 #### Recommended for Anyone
 
+* Mike Dao - Game Programming with Unity 3D.
 * Dan Winter - Book Club - Pragmatic Thinking and Learning: Refactor Your Wetware. We know [this is  your brain on drugs](https://www.youtube.com/watch?v=ub_a2t0ZfTs). What does your brain on Turing look like? Let's think about thinking and learn about learning!
 * George Hudson - Swift - Continues all module!
 * Chris Cenatiempo - MATLAB
 * Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
 * Regis Boudinot - Setting up a DO droplet for Rails Production (PG/Git/ENV vars/nginx/puma)
-* Lovisa Svallingson - React.js 1.3 --> continuation of previous two session. This week will add new ideas and delete ideas. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb, app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions.
+* Lovisa Svallingson - React.js 1.3 --> continuation of previous two session. This week will add new ideas and delete ideas. If you want to come but missed the first
+session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb, app/assets/javascripts/components/_dashboard.js.jsx),
+take a look at the code and DM me if you have any questions.
