@@ -1,0 +1,36 @@
+---
+title: 20151102
+layout: outline
+---
+
+(Some fun fact will eventually go here.)
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today:
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+## 1505
+
+### Load Testing and Production Performance Analysis (9:00 - 12:00)
+
+Join Steve in Classroom A to look at some techniques for [scaling up our Ruby on Rails applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown).
+
+### Building a JavaScript Application from Scratch (1:00 - 2:30)
+
+Meet back up with Steve in Classroom A to talk about the inner workings of building a JavaScript application.
+
+## 1507
+
+## 1508
+
+## 1510

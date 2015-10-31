@@ -1,0 +1,45 @@
+---
+title: 20151030
+layout: outline
+---
+
+It's field day!
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Friday:
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1505 Survey](#)
+* [1507 Survey](#)
+* [1508 Survey](#)
+* [1510 Survey](#)
+
+### Instructional Time (9:00 - 10:00)
+
+#### 1505
+
+* Read through [this tutorial on EventEmitter](https://nodesource.com/blog/understanding-the-nodejs-event-loop).
+* You've heard Steve go on and on about ES6/2015. It's time to deepen your knowledge through practice. Work through [this NodeSchool tutorial][es6].
+
+[es6]: https://github.com/domenic/count-to-6
+
+#### 1507
+
+#### 1508
+
+#### 1510
+
+### Group Retro (10:00 - 10:45)
+
+* 1505 - Classroom B with Marissa
+* 1507 - Classroom A with Jorge
+* 1508 - Classroom C with Rachel
+* 1510 - Big Workspace with Jeff
+
+### Lightning Talks (10:45 - 11:30)

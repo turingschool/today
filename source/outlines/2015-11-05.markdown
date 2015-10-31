@@ -1,0 +1,69 @@
+---
+title: 20151105
+layout: outline
+---
+
+(Some fun fact will eventually go here.)
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today:
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### Blogger Performance Dojo (9:00 - 12:00)
+
+Join Horace in Classroom A.
+
+You'll be working through this [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
+
+You'll be working in the following pairs:
+
+* Jai Misra & Alex Tideman
+* Max Millington & Sebastian Abondano
+* Samson Brock & Marla Brizel
+* Dave Maurer & Adam Caron
+* Dmitry Vizersky & David Shim
+* Jamie Kawahara & Rick Bacci
+* Lovisa Svallingson & Erik Butcher
+
+### Project Work Time and Check-ins (1:00 - 4:00)
+
+Mike is available for questions.
+
+#### With Horace
+
+- 1:00 - 1:20: Marla Brizel
+- 1:20 - 1:40: Sebastian Abondano
+- 1:40 - 2:00: David Shim
+- 2:10 - 2:30: Max Millington
+- 2:30 - 2:50: Alex Tideman
+- 3:00 - 3:20: Lovisa Svallingson
+- 3:20 - 3:40: Erik Butcher
+
+#### With Tess
+
+- 1:00 - 1:20: Jai Misra
+- 1:20 - 1:40: Adam Caron
+- 1:40 - 2:00: Rick Bacci
+- 2:40 - 3:00: Dave Maurer
+- 3:00 - 3:20: Dmitry Vizersky
+- 3:20 - 3:40: Jamie Kawahara
+- 3:40 - 4:00: Samson Brock
+
+## 1507
+
+## 1508
+
+## 1510

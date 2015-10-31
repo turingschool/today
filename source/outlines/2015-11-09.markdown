@@ -1,0 +1,59 @@
+---
+title: 20151102
+layout: outline
+---
+
+(Some fun fact will eventually go here.)
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today:
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+## 1505
+
+### Scale-Up Evaluations
+
+When you're not being evaluated, read the first chapter of
+[Node.js The Right Way](https://www.dropbox.com/s/6pa1dgactbcq4ku/NodeJSTheRightWayChap1.pdf?dl=1).
+
+Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http://nodeguide.com/beginner.html).
+
+#### With Horace
+
+- 9:00: Jai Misra
+- 9:30: Adam Caron
+- 10:00: Max Millington
+- 11:00: Samson Brock
+- 11:30: Dmitry Vizersky
+
+#### With Mike
+
+- 9:00: Dave Maurer
+- 9:30: Jamie Kawahara
+- 10:00: Erik Butcher
+- 11:00: David Shim
+- 11:30: Alex Tideman
+
+#### With Tess
+
+- 9:00: Marla Brizel
+- 9:30: Sebastian Abondano
+- 10:00: Lovisa Svallingson
+- 11:00: Rick Bacci
+
+
+## 1507
+
+## 1508
+
+## 1510
