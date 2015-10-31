@@ -25,6 +25,9 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 Join Steve in Classroom A to look at some techniques for [scaling up our Ruby on Rails applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown).
 
+**Warm Up**: Before class begins, please create a Skylight account. Visit [https://www.skylight.io/](https://www.skylight.io/)
+to sign up. We'll be using a free tier of the service, so you won't have to enter any payment information.
+
 ### Building a JavaScript Application from Scratch (1:00 - 2:30)
 
 Meet back up with Steve in Classroom A to talk about the inner workings of building a JavaScript application.
