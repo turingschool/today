@@ -3,7 +3,7 @@ title: 20151102
 layout: outline
 ---
 
-(Some fun fact will eventually go here.)
+Today is the 200th anniversary of George Boole. What do you think he invented?
 
 ## All
 
@@ -34,6 +34,66 @@ Meet back up with Steve in Classroom A to talk about the inner workings of build
 
 ## 1507
 
+### Building and Securing an API (9:00 - 12:00)
+
+Join Jorge in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+
+### ActiveRecord American Gladiators (1:00 - 2:00)
+
+This is just as awesome as it sounds.
+
+Classroom C with Josh.
+
+### Rales Engine Kickoff (2:00 - 2:30)
+
+Stay in Classroom C.
+
+### Technical Interview Prep.
+
+Big Workspace.
+
+
 ## 1508
 
+### Contact Manager Q & A (9:00 - 10:00)
+
+Classroom B with Rachel.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+Stay in Classroom B.
+
+### Sessions, Cookies, and Flashes (1:00 - 2:30)
+
+Classroom B.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
+
 ## 1510
+
+### All: Pairing Games (9:00 - 10:00)
+
+Join Jeff in the Big Workspace.
+
+### All: Git and GitHub for Pairs (10:00 - 11:30)
+
+Horace will arrive.
+
+### All: Project Kickoffs (11:30 - 12:00)
+
+Stay where you are.
+
+### All: Mid Module Diagnostics.
+
+#### With Jeff
+
+#### With Mike
+
+#### with Horace
+
+
