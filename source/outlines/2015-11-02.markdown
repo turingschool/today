@@ -25,6 +25,16 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 Join Steve in Classroom A to look at some techniques for [scaling up our Ruby on Rails applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown).
 
+You'll be working in the following pairs:
+
+* Adam Caron & David Shim
+* Rick Bacci & Lovisa Svallingson
+* Sebastian Abondano & Marla Brizel
+* Samson Brock & Dmitry Vizersky
+* Erik Butcher & Dave Maurer
+* Max Millington & Jamie Kawahara
+* Jai Misra & Alex Tideman
+
 **Warm Up**: Before class begins, please create a Skylight account. Visit [https://www.skylight.io/](https://www.skylight.io/)
 to sign up. We'll be using a free tier of the service, so you won't have to enter any payment information.
 
@@ -36,6 +46,11 @@ Meet back up with Steve in Classroom A to talk about the inner workings of build
 
 * [The Scale Up](https://github.com/turingschool/curriculum/blob/master/source/projects/the_scale_up.markdown)
 * [Keevah](https://github.com/turingschool-examples/keevah)
+
+**Homework**: This morning, we spoke about setting up Skylight to track performance. Skylight is just one option. Another popular option is New Relic. Ideally, you would probably only use one of these in a project. That said, we'd like you to get comfotable with both.
+
+1. Work through [this tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/performance_analysis_with_newrelic.markdown) on setting up New Relic on Blogger.
+1. Set up New Relic on your Scale Up projects.
 
 ## 1507
 
