@@ -99,7 +99,7 @@ Big Workspace
 
 ### Git and GitHub for Pairs (9:00 - 10:30)
 
-Join Horace in Classroom A. We'll start off with a bit of discussion then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown). We'll use these pairings:
+Join Horace in the Big Workspace. We'll start off with a bit of discussion then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown). We'll use these pairings:
 
 * Daniel John Winter & Brennan Holtzclaw
 * Aaron Greenspan & Beth Sebian
@@ -115,7 +115,7 @@ Join Horace in Classroom A. We'll start off with a bit of discussion then [jump 
 
 ### Project Kickoff (10:30 - 11:00)
 
-Continue with Horace in Classroom A where we'll kick off your next project. For the first time, Echo and Foxtrot will be working on the same project, [HTTP Yeah You Know Me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
+Continue with Horace in The Big Workspace where we'll kick off your next project. For the first time, Echo and Foxtrot will be working on the same project, [HTTP Yeah You Know Me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
 
 You'll complete this project in pairs and have it completed by 9AM on Thursday morning.
 
