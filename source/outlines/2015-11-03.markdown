@@ -32,6 +32,14 @@ Tess is on hand for all of your questions. Horace will be around after 2:30.
 
 ## 1507
 
+### Testing an Internal API
+
+Join Steve in Classroom A
+
+### Serving JSON from Rails
+
+Join Steve in Classroom A
+
 ## 1508
 
 ## 1510
