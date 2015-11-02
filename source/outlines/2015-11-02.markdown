@@ -3,7 +3,7 @@ title: 20151102
 layout: outline
 ---
 
-(Some fun fact will eventually go here.)
+Today is the 200th anniversary of George Boole. What do you think he invented?
 
 ## All
 
@@ -39,6 +39,110 @@ Meet back up with Steve in Classroom A to talk about the inner workings of build
 
 ## 1507
 
+### Building and Securing an API (9:00 - 12:00)
+
+In this lesson you will learn how to create an internal API that serves JSON and XML.
+
+Before this session, please clone the class repo using the following command:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+**Class Materials**
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7eUJQcHA2d1VIWGc/view?usp=sharing)
+* The video will be posted after the class.
+
+Join Jorge in Classroom C.
+
+### ActiveRecord American Gladiators (1:00 - 2:00)
+
+This is just as awesome as it sounds.
+
+Classroom C with Josh.
+
+### Rales Engine Kickoff (2:00 - 2:30)
+
+Stay in Classroom C.
+
+### Technical Interview Prep.
+
+Big Workspace.
+
+
 ## 1508
 
+### Contact Manager Q & A (9:00 - 10:00)
+
+Join Rachel in classroom B to go over all things Contact Manger.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository: 'git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git`
+
 ## 1510
+
+### Git and GitHub for Pairs (9:00 - 10:30)
+
+Join Horace in Classroom A. We'll start off with a bit of discussion then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown). We'll use these pairings:
+
+* Daniel John Winter & Brennan Holtzclaw
+* Aaron Greenspan & Beth Sebian
+* Hector Noel Huertas Baeza & Toni Rib
+* Brant Wellman & Elizabeth Anne Secor
+* Joseph Perry & Steven Olson
+* Gregory Thomas Armstrong & Brenna Martenson
+* James Crockett & Taylor Moore
+* Emily Blanchard & Steven Pentler
+* Leonard Myerson & Alexis Uriel Navarrete
+* Admir Dragaonovic & Jordan Lawler
+* Penney Garrett & Mike Dao
+
+### Project Kickoff (10:30 - 11:00)
+
+Continue with Horace in Classroom A where we'll kick off your next project. For the first time, Echo and Foxtrot will be working on the same project, [HTTP Yeah You Know Me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
+
+You'll complete this project in pairs and have it completed by 9AM on Thursday morning.
+
+### Work Time & Mid-Module Diagnostics (11:00 - 12:00, 1:00 - 4:00)
+
+It's time to jump into your project. Remember to DTR!
+
+Everyone will also complete a mid-module diagnostic with an instructor. Look for your 30-minute slot below.
+
+*Before* your session you should [read and follow these instructions](https://github.com/turingschool/curriculum/blob/master/source/academy/assessments/mythical_creatures.markdown).
+
+#### With Horace
+
+* 11:00 -- Toni Rib
+* 11:30 -- Aaron Greenspan
+* 1:00 -- Steve Pentler
+* 1:30 -- Dan Winter
+* 2:00 -- Jordan Lawler
+* 2:30 -- Brant Wellman
+* 3:00 -- Beth Sebian
+
+#### With Mike
+
+* 11:00 -- Steven Olson
+* 11:30 -- Lenny Myerson
+* 1:00 -- Alexis Uriel Navarrete
+* 1:30 -- Taylor Moore
+* 2:00 -- Admir Draganovic
+
+#### With Andrew
+
+* 1:00 -- Beth Secor
+* 1:30 -- Hector Huertas Baeza
+* 2:00 -- Joseph Perry
+
+#### With Jeff
+
+* 1:00 -- Greg Armstrong
+* 1:30 -- Emily Blanchard
+* 2:00 -- James Crockett
+* 2:30 -- Brenna Martenson
+* 3:00 -- Brennan Holtzclaw
+* 3:30 -- Penney Garrett
