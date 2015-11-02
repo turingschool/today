@@ -178,8 +178,6 @@ Everyone will also complete a mid-module diagnostic with an instructor. Look for
 * 1:00 -- Steve Pentler
 * 1:30 -- Dan Winter
 * 2:00 -- Jordan Lawler
-* 2:30 -- Brant Wellman
-* 3:00 -- Beth Sebian
 
 #### With Mike
 
@@ -201,5 +199,10 @@ Everyone will also complete a mid-module diagnostic with an instructor. Look for
 * 1:30 -- Emily Blanchard
 * 2:00 -- James Crockett
 * 2:30 -- Brenna Martenson
-* 3:00 -- Brennan Holtzclaw
-* 3:30 -- Penney Garrett
+
+#### With Tess
+
+* 1:00 -- Penney Garrett
+* 1:30 -- Brennan Holtzclaw
+* 2:00 -- Beth Sebian
+* 2:30 -- Brant Wellman
