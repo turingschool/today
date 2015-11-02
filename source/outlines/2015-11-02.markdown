@@ -63,7 +63,11 @@ Classroom C with Josh.
 
 Stay in Classroom C.
 
-### Technical Interview Prep.
+### Schoolrunner (2:30 - 3:00)
+
+Classroom C.
+
+### Technical Interview Prep (3:00 - 4:00)
 
 Big Workspace.
 
@@ -77,6 +81,15 @@ Join Rachel in classroom B to go over all things Contact Manger.
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
 You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository: 'git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git`
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Classroom B.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
 
 ## 1510
 
