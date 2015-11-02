@@ -37,9 +37,21 @@ Meet back up with Steve in Classroom A to talk about the inner workings of build
 
 ### Building and Securing an API (9:00 - 12:00)
 
-Join Jorge in Classroom C.
+In this lesson you will learn how to create an internal API that serves JSON and XML.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+Before this session, please clone the class repo using the following command:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+**Class Materials**
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7eUJQcHA2d1VIWGc/view?usp=sharing)
+* The video will be posted after the class.
+
+Join Jorge in Classroom C.
 
 ### ActiveRecord American Gladiators (1:00 - 2:00)
 
