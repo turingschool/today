@@ -101,7 +101,13 @@ Join Jorge in Classroom C.
 
 ### ActiveRecord American Gladiators (1:00 - 2:00)
 
-This is just as awesome as it sounds.
+Clone [Storedom](https://github.com/turingschool-examples/storedom) and checkout the branch titled `active_record_american_gladiator`.
+
+Do the normal Rails-y setup stuff. Run your tests using the `rspec` command. You should see one failing test with the remainder skipped. You will only need to edit code in this spec file: `./spec/active_record_american_gladiator_spec.rb`.
+
+For the tests that are failing, get them to pass. For the tests that are passing, you need to refactor them to use ActiveRecord instead of Ruby.
+
+It's highly recommended that you become familiar with the [ActiveRecord Querying page](http://guides.rubyonrails.org/active_record_querying.html) on the Rails Guides, particularly for RailsEngine.
 
 Classroom C with Josh.
 
