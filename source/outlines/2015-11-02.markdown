@@ -74,6 +74,8 @@ It's time to jump into your project. Remember to DTR!
 
 Everyone will also complete a mid-module diagnostic with an instructor. Look for your 30-minute slot below.
 
+*Before* your session you should [read and follow these instructions](https://github.com/turingschool/curriculum/blob/master/source/academy/assessments/mythical_creatures.markdown).
+
 #### With Horace
 
 * 11:00 -- Toni Rib
