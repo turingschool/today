@@ -50,7 +50,17 @@ You asked and you shall receive. Let's practice our ActiveRecord skills in class
 
 Join Horace in Classroom A. We'll start off with a bit of discussion then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown). We'll use these pairings:
 
-* Pairs
+* Daniel John Winter & Brennan Holtzclaw
+* Aaron Greenspan & Beth Sebian
+* Hector Noel Huertas Baeza & Toni Rib
+* Brant Wellman & Elizabeth Anne Secor
+* Joseph Perry & Steven Olson
+* Gregory Thomas Armstrong & Brenna Martenson
+* James Crockett & Taylor Moore
+* Emily Blanchard & Steven Pentler
+* Leonard Myerson & Alexis Uriel Navarrete
+* Admir Dragaonovic & Jordan Lawler
+* Penney Garrett & Mike Dao
 
 ### Project Kickoff (10:30 - 11:00)
 
