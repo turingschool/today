@@ -70,4 +70,16 @@ Join Steve in Classroom A
 
 ## 1508
 
+### Authentication (9:00 - 12:00)
+
+Get ready for some extreme TDD as we add [authentication]() to our Rails apps. Join Rachel in Classroom B. 
+
+### Authentication in MyJams (1:00 - 4:00)
+
+No, it's not pajama day. Add authentication to your MyJams app.
+
+### Mid-Module Assessments
+
+* Jason
+
 ## 1510
