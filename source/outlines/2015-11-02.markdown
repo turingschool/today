@@ -130,14 +130,6 @@ You asked and you shall receive. Let's practice our ActiveRecord skills in class
 
 ```git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git```
 
-### Sessions, Cookies, and Flashes(1:00 - 2:30)
-
-Rachel will be in, you guessed it, classroom B to talk about sessions, cookies, and flashes.
-
-### TIP in the Big Workspace(2:30 - 4:00)
-
-Prep for your TIs with TIP...
-
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
 Classroom B.
