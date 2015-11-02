@@ -105,7 +105,7 @@ Clone [Storedom](https://github.com/turingschool-examples/storedom) and checkout
 
 Do the normal Rails-y setup stuff. Run your tests using the `rspec` command. You should see one failing test with the remainder skipped. You will only need to edit code in this spec file: `./spec/active_record_american_gladiator_spec.rb`.
 
-For the tests that are failing, get them to pass. For the tests that are passing, you need to refactor them to use ActiveRecord instead of Ruby.
+For the tests that are failing, get them to pass. For the tests that are passing, you need to refactor them to use ActiveRecord instead of Ruby. Update the code inside of the `#Changable Start` and `#Changeable End` tags. Leave the rest of the code the same.
 
 It's highly recommended that you become familiar with the [ActiveRecord Querying page](http://guides.rubyonrails.org/active_record_querying.html) on the Rails Guides, particularly for RailsEngine.
 
