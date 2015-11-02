@@ -42,6 +42,6 @@ Join Rachel in classroom B to go over all things Contact Manger.
 
 ### ActiveRecord Obstacle Course(10:00 - 12:00)
 
-You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository. ```git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git
+You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository: ```git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git
 
 ## 1510
