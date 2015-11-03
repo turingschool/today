@@ -26,6 +26,8 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 This morning you'll be joining Josh Mejia in Classroom C to go super deep into the inner workings of ActiveRecord and its cousin, Arel.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
+
 ### Project Work Time
 
 Tess is on hand for all of your questions. Horace will be around after 2:30.
