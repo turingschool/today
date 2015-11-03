@@ -36,9 +36,14 @@ Tess is on hand for all of your questions. Horace will be around after 2:30.
 
 Join Steve in Classroom A.
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_an_internal_api.md)
+
 ### Serving JSON from Rails (10:30 - 12:00)
 
 Stick around with Steve in Classroom A.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.md)
+* [Sample Repository](https://github.com/JumpstartLab/blogger_advanced/tree/serialization)
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
