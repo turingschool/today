@@ -66,7 +66,27 @@ Mike is available for questions.
 
 ## 1508
 
-### Mid-Module Assessments (1:00 - 4:00)
+### Git Workflow (9:00 - 11:30)
+
+### Rails Mini-Project Kickoff (11:30 - 12:00)
+
+This weekend, you'll work on a [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) with your pair listed below. If you don't want to work on IdeaBox or PointBox, you can pitch another idea to Rachel *before* 1pm today. 
+
+* Ross Edfort & Emily Dowdle
+* Jill Donohue & Sekhar Paladugu
+* Tyler Komoroske & John Slota
+* Nicole Hall & Marlo Major
+* Edgar Duran & Charissa Lawrence
+* Shannon Paige & Aaron Careaga
+* Matt Rooney & Pat Wey
+* Jason Pilz & Matt Stjernholm
+* Torie Warren & Ryan Johnson
+* Amber Crawford & Robbie Lane
+* Chad Minnerath & Jhun de Andres
+
+### Rails Mini-Project Work Time & Mid-Module Assessments (1:00 - 4:00)
+
+Continue working with your pair on your Rails Mini-Project. 
 
 With Andrew: 
 
