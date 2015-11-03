@@ -9,7 +9,7 @@ layout: outline
 
 ### Posse Clean-Up Duty (After Wrapup)
 
-* Today: Goldberg Posse (Erik Butcher, Alex Tideman, Adam Jensen, Jerrod Paul Junker, Jill Donohue, Nicole Hall, Greg Armstrong, JP)
+* Today: Kay Posse (Sebastian, Rose, Travis, Torie, Jason, Aaron)
 
 Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
 
@@ -25,6 +25,8 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 ### Advanced ActiveRecord and Arel (9:00 - 12:00)
 
 This morning you'll be joining Josh Mejia in Classroom C to go super deep into the inner workings of ActiveRecord and its cousin, Arel.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
 
 ### Project Work Time
 
@@ -44,6 +46,19 @@ Stick around with Steve in Classroom A.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.md)
 * [Sample Repository](https://github.com/JumpstartLab/blogger_advanced/tree/serialization)
+
+For the final part, you will be working in the following pairs:
+
+* Regis Boudinot & Michael Wong
+* Matt Ewell & Travis Haby
+* Justin Holzmann & Jeff Ruane
+* Mary Beth Burch & Ryan Asensio
+* Rose Kohn & Bret Doucette
+* Mimi Schatz & Matt Hecker
+* Jason Wright & George Hudson
+* Chris Cenatiempo & Adam Jensen
+* Russell Harms & Jerrod Paul Junker
+* Stanley Siudzinski & Alon Waisman
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
@@ -77,7 +92,7 @@ Stick around with Steve in Classroom A.
 
 ### Authentication (9:00 - 12:00)
 
-Get ready for some extreme TDD as we add [authentication]() to our Rails apps. Join Rachel in Classroom B.
+Get ready for some extreme TDD as we add [authentication](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown) to our Rails apps. Join Rachel in Classroom B.
 
 ### Authentication in MyJams (1:00 - 4:00)
 
@@ -103,9 +118,23 @@ With Tess:
 
 Join Horace in the Big Workspace.
 
+We talk about [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown).
+
 ### Paired Refactoring (11:00 - 12:00)
 
-Stay in the Big Workspace.
+__Pairs__
+
+* Penney Garrett & Taylor Moore
+* Toni Rib & Steven Olson
+* Beth Sebian & Dan Winter
+* Aaron Greenspan & Jordan Lawler
+* Brant Wellman & Brenna Martenson
+* Emily Blanchard & Brennan Holtzclaw
+* Beth Secor & James Crockett
+* Lenny Myerson & Joseph Perry
+* Alexis Uriel Navarrete & Admir Draganovic
+* Hector Huertas Baeza & Greg Armstrong
+* Steve Pentler & Special Guest Pair
 
 ### Project Strategy / Q & A (1:00 - 2:00)
 
