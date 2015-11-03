@@ -93,9 +93,9 @@ git clone -b building_api https://github.com/turingschool-examples/storedom.git 
 
 **Class Materials**
 
-* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.md)
 * [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7eUJQcHA2d1VIWGc/view?usp=sharing)
-* The video will be posted after the class.
+* [Video](http://vimeo.com/144528104)
 
 Join Jorge in Classroom C.
 
@@ -134,11 +134,13 @@ Join Rachel in classroom B to go over all things Contact Manger.
 
 You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository:
 
-```git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git```
+```
+git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git
+```
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
-Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown). 
+Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown).
 
 ### Technical Interview Prep (2:30 - 4:00)
 
