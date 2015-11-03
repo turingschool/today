@@ -34,11 +34,11 @@ Tess is on hand for all of your questions. Horace will be around after 2:30.
 
 ### Testing an Internal API (9:00 - 10:30)
 
-Join Steve in Classroom A
+Join Steve in Classroom A.
 
 ### Serving JSON from Rails (10:30 - 12:00)
 
-Join Steve in Classroom A
+Stick around with Steve in Classroom A.
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
@@ -72,7 +72,7 @@ Join Steve in Classroom A
 
 ### Authentication (9:00 - 12:00)
 
-Get ready for some extreme TDD as we add [authentication]() to our Rails apps. Join Rachel in Classroom B. 
+Get ready for some extreme TDD as we add [authentication]() to our Rails apps. Join Rachel in Classroom B.
 
 ### Authentication in MyJams (1:00 - 4:00)
 
