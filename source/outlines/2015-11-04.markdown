@@ -9,7 +9,7 @@ layout: outline
 
 ### Posse Clean-Up Duty (After Wrapup)
 
-* Today:
+* Today: Ritchie Posse (Dmitry Vizersky, Adam Caron, Jeff Ruane, Amber Crawford, Tyler Komoroske, Brennan Holtzclaw, Steven Olson)
 
 Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
 
@@ -66,8 +66,43 @@ Mike is on hand for questions when he's not doing check-ins.
 - 1:20 - 1:40: Rick Bacci
 - 1:40 - 2:00: Jai Misra
 
+
 ## 1507
+
+### Project Work Time (All Day, Except for...)
+
+### Talkin' 'Bout Jobs (1:00 - 1:30)
+
+Meet Marissa in Classroom C.
+
 
 ## 1508
 
+### Routing in Rails (9:00 - 10:30)
+
+Join Andrew in Classroom B.
+
+### Authorization (10:30 - 12:00)
+
+Stay in Classroom B.
+
+### Mid Module Assessments / Authorization in MyJams (1:00 - 4:00)
+
+Schedule TBA
+
+
 ## 1510
+
+### All: Working with Ruby Modules (9:00 - 11:00)
+
+Classroom A.
+
+### Pairing Games (11:00 - 12:00)
+
+Stay in Classroom A.
+
+### All: Cross Group Pairing (1:00 - 2:30)
+
+Classroom A.
+
+### All: Work Time (2:30 - 4:00)
