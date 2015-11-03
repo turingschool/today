@@ -45,6 +45,19 @@ Stick around with Steve in Classroom A.
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.md)
 * [Sample Repository](https://github.com/JumpstartLab/blogger_advanced/tree/serialization)
 
+For the final part, you will be working in the following pairs:
+
+* Regis Boudinot & Michael Wong
+* Matt Ewell & Travis Haby
+* Justin Holzmann & Jeff Ruane
+* Mary Beth Burch & Ryan Asensio
+* Rose Kohn & Bret Doucette
+* Mimi Schatz & Matt Hecker
+* Jason Wright & George Hudson
+* Chris Cenatiempo & Adam Jensen
+* Russell Harms & Jerrod Paul Junker
+* Stanley Siudzinski & Alon Waisman
+
 ### Project Work Time and Checkins (1:00 - 4:00)
 
 #### With Jorge
