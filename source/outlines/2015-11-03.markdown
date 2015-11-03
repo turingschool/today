@@ -118,9 +118,23 @@ With Tess:
 
 Join Horace in the Big Workspace.
 
+We talk about [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown).
+
 ### Paired Refactoring (11:00 - 12:00)
 
-Stay in the Big Workspace.
+__Pairs__
+
+* Penney Garrett & Taylor Moore
+* Toni Rib & Steven Olson
+* Beth Sebian & Dan Winter
+* Aaron Greenspan & Jordan Lawler
+* Brant Wellman & Brenna Martenson
+* Emily Blanchard & Brennan Holtzclaw
+* Beth Secor & James Crockett
+* Lenny Myerson & Joseph Perry
+* Alexis Uriel Navarrete & Admir Draganovic
+* Hector Huertas Baeza & Greg Armstrong
+* Steve Pentler & Special Guest Pair
 
 ### Project Strategy / Q & A (1:00 - 2:00)
 
