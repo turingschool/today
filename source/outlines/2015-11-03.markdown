@@ -92,7 +92,7 @@ For the final part, you will be working in the following pairs:
 
 ### Authentication (9:00 - 12:00)
 
-Get ready for some extreme TDD as we add [authentication]() to our Rails apps. Join Rachel in Classroom B.
+Get ready for some extreme TDD as we add [authentication](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown) to our Rails apps. Join Rachel in Classroom B.
 
 ### Authentication in MyJams (1:00 - 4:00)
 
