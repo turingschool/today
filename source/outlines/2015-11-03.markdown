@@ -77,16 +77,16 @@ For the final part, you will be working in the following pairs:
 
 #### With Josh
 
-* 1:00 - Jeff Ruane
-* 1:15 - Rose Kohn
-* 1:30 - Mary Beth Burch
-* 1:45 - Matt Ewell
-* 2:00 - Michael Wong
-* 2:15 - Adam Jensen
-* 2:30 - Bret Doucette
-* 2:45 - Matt Hecker
-* 3:00 - Chris Cenatiempo
-* 3:15 - Jason Wright
+* 1:00 - Jason Wright
+* 1:15 - Jeff Ruane
+* 1:30 - Rose Kohn
+* 1:45 - Mary Beth Burch
+* 2:00 - Matt Ewell
+* 2:15 - Michael Wong
+* 2:30 - Adam Jensen
+* 2:45 - Bret Doucette
+* 3:00 - Matt Hecker
+* 3:15 - Chris Cenatiempo
 
 ## 1508
 
