@@ -151,27 +151,28 @@ With Rachel:
 
 ## 1510
 
-### All: Working with Ruby Modules (9:00 - 11:00)
+### All: Working with Ruby Modules (9:00 - 10:30)
 
-Classroom A.
+Classroom A with Jeff where we'll [learn about Modules](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/modules.markdown).
 
-### Pairing Games (11:00 - 12:00)
+### Pairing Games (10:30 - 12:00)
 
-Stay in Classroom A.
+Stay in Classroom A where we'll play some games.
 
 ### All: Cross Group Pairing (1:00 - 2:30)
 
-Classroom A.
+This afternoon we're going to do a pairing session across projects. More details to come.
 
 ### All: Work Time (2:30 - 4:00)
 
 Remaining 1-on-1's TBD:
 
-James Crockett
-Jordan Lawler
-Joseph Perry
-Emily Blanchard
-Penney Garrett
-Steve Pentler
-Taylor Moore
-Toni Rib
+* James Crockett
+* Jordan Lawler
+* Joseph Perry
+* Emily Blanchard
+* Penney Garrett
+* Steve Pentler
+* Taylor Moore
+* Toni Rib
+* Lenny Myerson
