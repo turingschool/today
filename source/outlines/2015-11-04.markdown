@@ -110,11 +110,26 @@ Join Marissa in Classroom B
 
 ### Routing in Rails (9:00 - 10:30)
 
-Join Andrew in Classroom B.
+Join Andrew in Classroom B. You can get the slides [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown)
 
 ### Authorization (10:30 - 12:00)
 
-Stay in Classroom B.
+Stay in Classroom B... More Andrew
+
+This one's a "code along". [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown) is the lesson plan. Go ahead and clone the following before class.
+
+```
+git clone -b authentication-finished git@github.com:turingschool-examples/authentication.git
+```
+
+If you don't have your SSH set up you can run this command
+
+```
+git clone -b authentication-finished https://github.com/turingschool-examples/authentication
+```
+
+O yea... And set up your SSH keys. [Here is how!](https://help.github.com/articles/generating-ssh-keys/)
+
 
 ### Mid Module Assessments / Authorization in MyJams (1:00 - 4:00)
 
@@ -126,7 +141,7 @@ With Andrew:
 * 2:45 Robbie Lane
 * 3:20 Matt Rooney
 
-With Rachel: 
+With Rachel:
 
 * 1:00 Ross Edfort
 * 1:35 Matt Stjernholm
