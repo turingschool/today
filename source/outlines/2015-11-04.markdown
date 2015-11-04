@@ -71,6 +71,8 @@ Mike is on hand for questions when he's not doing check-ins.
 
 ### Project Work Time and One-on-Ones (9:00 - 12:00)
 
+Remember to have 3 project ideas for tomorrow afternoon. You can check the individual project requirements [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md).
+
 #### One-on-Ones
 
 ##### With Josh
@@ -81,7 +83,7 @@ Mike is on hand for questions when he's not doing check-ins.
 * 9:45 - Alon Waisman
 * 10:00 - Ryan Asensio
 * 10:15 - Jerrod Paul Junker
-* 10:30 - Regis Boudinot
+* 10:30 - Regis Boudinot a.k.a Regix
 * 10:45 - George Hudson
 * 11:00 - Justin Holzmann
 * 11:15 - Stanley Siudzinski
@@ -101,10 +103,13 @@ Mike is on hand for questions when he's not doing check-ins.
 
 ### Talkin' 'bout Jobs (1:00 - 1:30)
 
-Join Marissa in Classroom B
+Join Marissa in Classroom B to talk about jobs.
 
 ### Project Work Time (1:30 - 4:00)
 
+Keep working on your Rails Engine. You should have the Business Intelligence and the spec harness passing today. The projects are due tomorrow at 9:00 am. For your reference, the requirements are [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md).
+
+If you feel that the spec harness is raising an error but that your implementation is right, come and talk to the instructors after 1:30 pm.
 
 ## 1508
 
