@@ -121,7 +121,7 @@ Join Andrew in Classroom B. You can get the slides [here](https://github.com/tur
 
 Stay in Classroom B... More Andrew
 
-This one's a "code along". [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization-authentication.markdown) is the lesson plan. Go ahead and clone the following before class.
+This one's a "code along". [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown) is the lesson plan. Go ahead and clone the following before class.
 
 ```
 git clone -b authentication-finished git@github.com:turingschool-examples/authentication.git
