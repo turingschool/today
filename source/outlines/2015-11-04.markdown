@@ -190,9 +190,7 @@ __With Horace__
 
 * 2:00 - 2:15 James Crockett
 * 2:15 - 2:30 Jordan Lawler
-* 2:30 - 2:45 Joseph Perry
-* 2:45 - 3:00 Toni Rib
-* 3:15 - 3:30 Penney Garrett
+* 2:45 - 3:00 Penney Garrett
 
 __With Jeff__
 
@@ -201,5 +199,7 @@ __With Jeff__
 
 __With Mike__
 
+* 2:00 - 2:15 Toni Rib
+* 2:15 - 2:30 Joseph Perry
 * 2:30 - 2:45 Steve Pentler
 * 2:45 - 3:00 Lenny Myerson
