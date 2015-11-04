@@ -128,7 +128,20 @@ You'll be doing this while you are not being evaluated in Classroom A.
 
 #### With Horace
 
+* 9:00 - Emily Blanchard & Steven Pentler
+* 9:30 - Leonard Myerson & Alexis Navarrete
+* 10:00 - Brant Wellman & Beth Secor
+* 10:30 - Joseph Perry & Steven Olson
+* 11:00 - Penney Garrett
+
 #### With Mike
+
+* 9:00 - Daniel Winter & Brennan Holtzclaw
+* 9:30 - Aaron Greenspan & Beth Sebian
+* 10:00 - Hector Baeza & Toni Rib
+* 10:30 - Gregory Armstrong & Brenna Martenson
+* 11:00 - James Crockett & Taylor Moore
+* 11:30 - Admir Draganovic & Jordan Lawler
 
 ### Peer Refactoring (1:00 - 2:30)
 
