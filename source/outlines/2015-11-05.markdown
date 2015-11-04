@@ -24,7 +24,7 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Blogger Performance Dojo (9:00 - 12:00)
 
-Join Horace in Classroom A.
+Join Horace in the Big Workspace.
 
 You'll be working through this [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown).
 
@@ -64,13 +64,29 @@ Mike is available for questions.
 
 ## 1507
 
+### Project Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+
+### Self-Directed Projects Intro (1:00 - 2:00)
+
+Classroom B.
+
+### Self-Directed Project Ideation and Prep (2:00 - 4:00)
+
+Classroom B.
+
+
 ## 1508
 
 ### Git Workflow (9:00 - 11:30)
 
+Classroom B.
+
 ### Rails Mini-Project Kickoff (11:30 - 12:00)
 
-This weekend, you'll work on a [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) with your pair listed below. If you don't want to work on IdeaBox or PointBox, you can pitch another idea to Rachel *before* 1pm today. 
+This weekend, you'll work on a [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown) with your pair listed below. If you don't want to work on IdeaBox or PointBox, you can pitch another idea to Rachel *before* 1pm today.
 
 * Ross Edfort & Emily Dowdle
 * Jill Donohue & Sekhar Paladugu
@@ -86,16 +102,16 @@ This weekend, you'll work on a [Rails Mini-Project](https://github.com/turingsch
 
 ### Rails Mini-Project Work Time & Mid-Module Assessments (1:00 - 4:00)
 
-Continue working with your pair on your Rails Mini-Project. 
+Continue working with your pair on your Rails Mini-Project.
 
-With Andrew: 
+With Andrew:
 
 * 1:00 Charissa Lawrence
 * 1:45 Edgar Duran
 * 2:30 Marlo Major
 * 3:15 Chad Minnerath
 
-With Rachel: 
+With Rachel:
 
 * 1:00 Jill Donohue
 * 1:45 Jhun de Andres
@@ -103,3 +119,22 @@ With Rachel:
 * 3:15 John Slota
 
 ## 1510
+
+### Week 4 Diagnostic (9:00 - 12:00)
+
+You'll be doing this while you are not being evaluated in Classroom A.
+
+### Project Evaluations (9:00 - 12:00)
+
+#### With Horace
+
+#### With Mike
+
+### Peer Refactoring (1:00 - 2:30)
+
+Classroom A.
+
+### Regular Expressions for Fun & Profit (2:30 - 4:00)
+
+Classroom A.
+

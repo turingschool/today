@@ -71,6 +71,8 @@ Mike is on hand for questions when he's not doing check-ins.
 
 ### Project Work Time and One-on-Ones (9:00 - 12:00)
 
+Remember to have 3 project ideas for tomorrow afternoon. You can check the individual project requirements [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md).
+
 #### One-on-Ones
 
 ##### With Josh
@@ -81,7 +83,7 @@ Mike is on hand for questions when he's not doing check-ins.
 * 9:45 - Alon Waisman
 * 10:00 - Ryan Asensio
 * 10:15 - Jerrod Paul Junker
-* 10:30 - Regis Boudinot
+* 10:30 - Regis Boudinot a.k.a Regix
 * 10:45 - George Hudson
 * 11:00 - Justin Holzmann
 * 11:15 - Stanley Siudzinski
@@ -101,10 +103,13 @@ Mike is on hand for questions when he's not doing check-ins.
 
 ### Talkin' 'bout Jobs (1:00 - 1:30)
 
-Join Marissa in Classroom B
+Join Marissa in Classroom B to talk about jobs.
 
 ### Project Work Time (1:30 - 4:00)
 
+Keep working on your Rails Engine. You should have the Business Intelligence and the spec harness passing today. The projects are due tomorrow at 9:00 am. For your reference, the requirements are [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md).
+
+If you feel that the spec harness is raising an error but that your implementation is right, come and talk to the instructors after 1:30 pm.
 
 ## 1508
 
@@ -151,27 +156,28 @@ With Rachel:
 
 ## 1510
 
-### All: Working with Ruby Modules (9:00 - 11:00)
+### All: Working with Ruby Modules (9:00 - 10:30)
 
-Classroom A.
+Classroom A with Jeff where we'll [learn about Modules](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/modules.markdown).
 
-### Pairing Games (11:00 - 12:00)
+### Pairing Games (10:30 - 12:00)
 
-Stay in Classroom A.
+Stay in Classroom A where we'll play some games.
 
 ### All: Cross Group Pairing (1:00 - 2:30)
 
-Classroom A.
+This afternoon we're going to do a pairing session across projects. More details to come.
 
 ### All: Work Time (2:30 - 4:00)
 
 Remaining 1-on-1's TBD:
 
-James Crockett
-Jordan Lawler
-Joseph Perry
-Emily Blanchard
-Penney Garrett
-Steve Pentler
-Taylor Moore
-Toni Rib
+* James Crockett
+* Jordan Lawler
+* Joseph Perry
+* Emily Blanchard
+* Penney Garrett
+* Steve Pentler
+* Taylor Moore
+* Toni Rib
+* Lenny Myerson
