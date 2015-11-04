@@ -155,15 +155,24 @@ With Rachel:
 
 Classroom A with Jeff where we'll [learn about Modules](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/modules.markdown).
 
-### Pairing Games (10:30 - 12:00)
+### Cross-Group Pairing (11:00 - 12:00)
+
+* Aaron Greenspan & Brennan Holtzclaw
+* Hector Noel Huertas Baeza & Beth Sebian
+* Brant Wellman & Toni Rib
+* Joseph Perry & Elizabeth Anne Secor
+* Gregory Thomas Armstrong & Steven Olson
+* James Crockett & Brenna Martenson
+* Emily Blanchard & Taylor Moore
+* Leonard Myerson & Steven Pentler
+* Admir Dragaonovic & Alexis Uriel Navarrete
+* Penney Garrett & Jordan Lawler & Daniel John Winter
+
+### Pairing Games (1:00 - 2:00)
 
 Stay in Classroom A where we'll play some games.
 
-### All: Cross Group Pairing (1:00 - 2:30)
-
-This afternoon we're going to do a pairing session across projects. More details to come.
-
-### All: Work Time (2:30 - 4:00)
+### All: Work Time (2:00 - 4:00)
 
 Remaining 1-on-1's TBD:
 
