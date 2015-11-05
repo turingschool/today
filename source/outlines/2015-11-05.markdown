@@ -174,8 +174,53 @@ You'll be doing this while you are not being evaluated in Classroom A.
 
 ### Peer Refactoring (1:00 - 2:30)
 
-Classroom A.
+Join Horace in Classroom A to swap projects around and do
+some Peer Refactoring.
 
-### Regular Expressions for Fun & Profit (2:30 - 4:00)
+Pairings:
 
-Classroom A.
+* Alexis Navarrete, Brant Wellman
+* Beth Secor, Joseph Perry
+* Steven Olson, Penney Garrett
+* Emily Blanchard, Steven Pentler
+* Aaron Greenspan, Beth Sebian
+* Hector Huertas, Toni Rib
+* Gregory Armstrong, Brenna Martenson
+* James Crockett, Taylor Moore
+* Admir Draganovic, Jordan Lawler
+* Daniel Winter, Brennan Holtzclaw
+* Leonard Myerson
+
+Person on the left is __A__, right is __B__
+
+__Iteration 1 (1:00 - 1:45)__
+
+__A__ Should spend 10 minutes reviewing and looking
+at __B__'s code.
+
+Then __A__ and __B__ should pair on a refactoring of
+__B__'s code.
+
+Attempt one of the following improvements:
+
+* Find an important class that is untested
+or under-tested, come up with some good test cases for it and
+implement them. Focus especially on tests that can be phrased in terms of clear
+inputs and outputs -- I input an array of 3 strings and get back a hash with
+these keys, etc.
+* Find a method longer than 6 lines and focus on extracting
+smaller methods from it
+* Find a piece of functionality that doesn't belong in the
+class where it is located. Move it to another class (or create a new
+class for it). (__Hint:__ For each method in the class try saying it
+aloud: "Class Name, can you please do X" -- do these assignments make sense?)
+
+__Iteration 2 (1:45 - 2:30)__
+
+Swap roles and perform the same exercises on the
+other person's code.
+
+### Exercise: OkCuGit (2:30 - 4:00)
+
+Stay in Classroom A to work on the [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
+challenge.
