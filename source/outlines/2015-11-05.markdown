@@ -96,14 +96,14 @@ Mike is available for questions.
 * 11:30 - Jason Wright
 * 11:45 - Jeff Ruane
 
-### Self-Directed Projects Intro (1:00 - 2:00)
+### Self-Directed Projects Intro (1:00 - 4:00)
 
-Classroom B.
+Meet with Jorge in Classroom B to soft-launch your self-directed project. You can check the requirements [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md).
 
-### Self-Directed Project Ideation and Prep (2:00 - 4:00)
+Before this session, you can either:
 
-Classroom B.
-
+1. Have three ideas following the project template contained in the project description.
+2. Join a SchoolRunner project by writing your name [here](https://docs.google.com/document/d/1cOphM8Wqt15RL06gbKcf7S88B6nAXc2VGkyN2zPlaxg/edit#heading=h.j51wpgcw56ru).
 
 ## 1508
 
