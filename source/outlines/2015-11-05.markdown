@@ -3,7 +3,7 @@ title: 20151105
 layout: outline
 ---
 
-(Some fun fact will eventually go here.)
+Every Guy Fawkes mask sold nets Time Warner a royalty payment.
 
 ## All
 
@@ -19,10 +19,14 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
+### All (9:00 - 9:30)
+
+Everyone meet in the Big Workspace!
+
 
 ## 1505
 
-### Blogger Performance Dojo (9:00 - 12:00)
+### Blogger Performance Dojo (9:30 - 12:00)
 
 Join Horace in the Big Workspace.
 
@@ -64,12 +68,10 @@ Mike is available for questions.
 
 ## 1507
 
-### Project Evaluations (9:00 - 12:00)
+### Project Evaluations (9:30 - 12:00)
 
 #### With Jorge
 
-* 9:00 - Mimi Schatz
-* 9:15 - Russell Harms
 * 9:30 - Travis Haby
 * 9:45 - Alon Waisman
 * 10:00 - Ryan Asensio
@@ -78,11 +80,11 @@ Mike is available for questions.
 * 10:45 - George Hudson
 * 11:00 - Justin Holzmann
 * 11:15 - Stanley Siudzinski
+* 11:30 - Mimi Schatz
+* 11:45 - Russell Harms
 
 #### With Josh
 
-* 9:00 - Jason Wright
-* 9:15 - Jeff Ruane
 * 9:30 - Rose Kohn
 * 9:45 - Mary Beth Burch
 * 10:00 - Matt Ewell
@@ -91,7 +93,8 @@ Mike is available for questions.
 * 10:45 - Bret Doucette
 * 11:00 - Matt Hecker
 * 11:15 - Chris Cenatiempo
-
+* 11:30 - Jason Wright
+* 11:45 - Jeff Ruane
 
 ### Self-Directed Projects Intro (1:00 - 2:00)
 
@@ -104,7 +107,7 @@ Classroom B.
 
 ## 1508
 
-### Git Workflow (9:00 - 11:30)
+### Git Workflow (9:30 - 11:30)
 
 Classroom B.
 
@@ -144,28 +147,28 @@ With Rachel:
 
 ## 1510
 
-### Week 4 Diagnostic (9:00 - 12:00)
+### Week 4 Diagnostic (9:30 - 12:00)
 
 You'll be doing this while you are not being evaluated in Classroom A.
 
-### Project Evaluations (9:00 - 12:00)
+### Project Evaluations (9:30 - 12:00)
 
 #### With Horace
 
-* 9:00 - Emily Blanchard & Steven Pentler
 * 9:30 - Leonard Myerson & Alexis Navarrete
-* 10:00 - Brant Wellman & Beth Secor
-* 10:30 - Joseph Perry & Steven Olson
-* 11:00 - Penney Garrett
+* 9:55 - Brant Wellman & Beth Secor
+* 10:20 - Joseph Perry & Steven Olson
+* 10:45 - Penney Garrett
+* 11:10 - Emily Blanchard & Steven Pentler
 
 #### With Mike
 
-* 9:00 - Daniel Winter & Brennan Holtzclaw
 * 9:30 - Aaron Greenspan & Beth Sebian
-* 10:00 - Hector Baeza & Toni Rib
-* 10:30 - Gregory Armstrong & Brenna Martenson
-* 11:00 - James Crockett & Taylor Moore
-* 11:30 - Admir Draganovic & Jordan Lawler
+* 9:55 - Hector Baeza & Toni Rib
+* 10:20 - Gregory Armstrong & Brenna Martenson
+* 10:45 - James Crockett & Taylor Moore
+* 11:10 - Admir Draganovic & Jordan Lawler
+* 11:35 - Daniel Winter & Brennan Holtzclaw
 
 ### Peer Refactoring (1:00 - 2:30)
 
