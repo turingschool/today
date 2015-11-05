@@ -223,3 +223,15 @@ other person's code.
 
 Stay in Classroom A to work on the [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
 challenge.
+
+* Brant Wellman & Emily Blanchard
+* Steven Olson & Admir Draganovic
+* Beth Sebian & Penney Garrett
+* Hector Huertas Baeza & Steve Pentler
+* Beth Secor & Toni Rib
+* Alexis Uriel Navarrete & Brennan Holtzclaw
+* Dan Winter & James Crockett
+* Aaron Greenspan & Lenny Myerson
+* Greg Armstrong & Joseph Perry
+* Jordan Lawler & Brenna Martenson
+* Taylor Moore __SOLO RUBY WARRIOR__
