@@ -183,10 +183,10 @@ Pairings:
 * Steven Olson, Penney Garrett
 * Emily Blanchard, Beth Sebian
 * Aaron Greenspan, Steven Pentler
-* Hector Huertas, Jordan Lawler
-* Gregory Armstrong, Brenna Martenson
-* James Crockett, Taylor Moore
-* Admir Draganovic, Toni Rib
+* Hector Huertas, Gregory Armstrong
+* Jordan Lawler, Brenna Martenson
+* James Crockett, Toni Rib
+* Admir Draganovic, Taylor Moore
 * Leonard Myerson, Brennan Holtzclaw
 * Beth Secor, Joseph Perry, Brant Wellman
 
