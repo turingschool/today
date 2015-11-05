@@ -179,17 +179,16 @@ some Peer Refactoring.
 
 Pairings:
 
-* Alexis Navarrete, Brant Wellman
-* Beth Secor, Joseph Perry
+* Alexis Navarrete, Daniel Winter
 * Steven Olson, Penney Garrett
-* Emily Blanchard, Steven Pentler
-* Aaron Greenspan, Beth Sebian
-* Hector Huertas, Toni Rib
+* Emily Blanchard, Beth Sebian
+* Aaron Greenspan, Steven Pentler
+* Hector Huertas, Jordan Lawler
 * Gregory Armstrong, Brenna Martenson
 * James Crockett, Taylor Moore
-* Admir Draganovic, Jordan Lawler
-* Daniel Winter, Brennan Holtzclaw
-* Leonard Myerson
+* Admir Draganovic, Toni Rib
+* Leonard Myerson, Brennan Holtzclaw
+* Beth Secor, Joseph Perry, Brant Wellman
 
 Person on the left is __A__, right is __B__
 
