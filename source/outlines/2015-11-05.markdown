@@ -109,6 +109,8 @@ Classroom B.
 
 ### Git Workflow (9:30 - 11:30)
 
+We'll be working with [this repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown)
+
 Classroom B.
 
 ### Rails Mini-Project Kickoff (11:30 - 12:00)
@@ -177,4 +179,3 @@ Classroom A.
 ### Regular Expressions for Fun & Profit (2:30 - 4:00)
 
 Classroom A.
-
