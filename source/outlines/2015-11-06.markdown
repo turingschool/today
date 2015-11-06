@@ -51,12 +51,14 @@ To record your comments, use the following template:
 **Template**
 
 ```
+
 Evaluators:
 
 Evaluated Project URL:
 Strengths:
 Weaknesses:
 Recommendations:
+
 ```
 
 **Teams**
