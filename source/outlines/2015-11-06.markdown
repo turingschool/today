@@ -37,7 +37,7 @@ Shake off your Rails Engine. It's time to learn some good design and UX principl
 
 From 9:00 to 9:30, read through the following articles:
 
-1. Dieter Rams' 10 principles of good design: https://www.vitsoe.com/us/about/good-design. Dieter Rams is one of the most influential industrial designers in the modern era. You can check his biography [here](https://en.wikipedia.org/wiki/Dieter_Rams).
+1. Dieter Rams' 10 Principles of Good Design: https://www.vitsoe.com/us/about/good-design. Dieter Rams is one of the most influential industrial designers in the modern era. You can check his biography [here](https://en.wikipedia.org/wiki/Dieter_Rams).
 2. 10 Principles of Effective Web Design: http://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/
 
 From 9:30 to 10:00, please:
