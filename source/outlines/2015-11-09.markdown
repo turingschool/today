@@ -1,5 +1,5 @@
 ---
-title: 20151102
+title: 20151109
 layout: outline
 ---
 
@@ -38,7 +38,7 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 * Samson Brock, Regis Boudinot, Aaron Careaga, Penny Garrett
 * Jason Wright, John Slota, Matt Hecker, Joseph Perry
 * George Hudson, Brant Wellman, Robbie Lane, Matt Stjernholm
-* Beth Secor, Justin Pease, Nicole Hall, Jhun de Andres, 
+* Beth Secor, Justin Pease, Nicole Hall, Jhun de Andres,
 * Alon Waisman, Emily Dowdle, Hector Huertas Baeza, Emily Blanchard
 * Rose Kohn, Marlo Major, Steven Olson
 
