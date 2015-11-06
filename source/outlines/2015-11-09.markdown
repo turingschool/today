@@ -3,7 +3,7 @@ title: 20151102
 layout: outline
 ---
 
-(Some fun fact will eventually go here.)
+Today, in 1988, the Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.
 
 ## All
 
@@ -51,9 +51,66 @@ Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http:
 - 10:00: Lovisa Svallingson
 - 11:00: Rick Bacci
 
+### Something in the Afternoon (1:00 - 2:30)
+
+### Technical Interview Crusher (2:30 - 4:00)
+
+Join Mike in Classroom C.
+
 
 ## 1507
 
+### Working with Ajax (9:00 - 12:00)
+
+Join Josh in Classroom C.
+
+### Project Work Time (1:00 - 2:30)
+
+Work.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Join Tess in the Big Workspace
+
+
 ## 1508
 
+### Little Shop Kickoff and Work Time (9:00 - 12:00)
+
+Classroom B.
+
+### Cart and Order Lifecycle (1:00 - 2:30)
+
+Join Rachel in Classroom B.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Join Tess in the Big Workspace.
+
+
 ## 1510
+
+### Dynamics (9:00 - 10:00)
+
+Classroom A.
+
+### Practicing Remote Pairing (10:00 - 11:00)
+
+Stay in Classroom A.
+
+### Headcount Kickoff (11:00 - 11:30)
+
+Classroom A.
+
+### DTR (11:30 - 12:00)
+
+Time to have that conversation.
+
+### Decomposing Headcount (1:00 - 2:30)
+
+Classroom A.
+
+### Project Work Time (2:30 - 4:00)
+
+Count those heads.
+
