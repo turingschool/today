@@ -31,9 +31,47 @@ Take 15 minutes before lunch roulette to check the items on [this list](https://
 
 #### 1507
 
+Shake off your Rails Engine. It's time to learn some good design and UX principles.
+
+**Instructions**
+
+From 9:00 to 9:30, read through the following articles:
+
+1. Dieter Rams' 10 principles of good design: https://www.vitsoe.com/us/about/good-design. Dieter Rams is one of the most influential industrial designers in the modern era. You can check his biography [here](https://en.wikipedia.org/wiki/Dieter_Rams).
+2. 10 Principles of Effective Web Design: http://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/
+
+From 9:30 to 10:00, please:
+
+1. Get together in teams to check your classmates' Pivot projects. The assignments are below. Get the production urls from the project owners.
+2. In a gist, write at least three strengths, three weaknesses and three recommendations for that project.
+3. Share your comments in your cohort channel on Slack.
+
+To record your comments, use the following template:
+
+**Template**
+
+```
+Evaluators:
+
+Evaluated Project URL:
+Strengths:
+Weaknesses:
+Recommendations:
+```
+
+**Teams**
+
+* **Bret Doucette, Matt Ewell, Russell Harms** check **George Hudson, Chris Cenatiempo** project.
+* **Rose Kohn, Jeff Ruane, Regis Boudinot** check **Bret Doucette, Matt Ewell, Russell Harms** project.
+* **Mimi Schatz, Adam Jensen, Mary Beth Burch** check **Rose Kohn, Jeff Ruane, Regis Boudinot** project.
+* **Michael Wong, Jerrod Paul Junker, Travis Haby** check **Mimi Schatz, Adam Jensen, Mary Beth Burch** project.
+* **Justin Holzmann, Matt Hecker, Stanley Siudzinski** check **Michael Wong, Jerrod Paul Junker, Travis Haby** project.
+* **Ryan Asensio, Jason Wright, Alon Waisman** check **Justin Holzmann, Matt Hecker, Stanley Siudzinski** project.
+* **George Hudson, Chris Cenatiempo** check **Ryan Asensio, Jason Wright, Alon Waisman** project.
+
 #### 1508
 
-Join Rachel in Classroom B to tackle [Error Engine](https://github.com/rwarbelow/error-engine). You'll practice reading tests, reading errors, and implementing relationships at both the database level and model level. 
+Join Rachel in Classroom B to tackle [Error Engine](https://github.com/rwarbelow/error-engine). You'll practice reading tests, reading errors, and implementing relationships at both the database level and model level.
 
 Pairs:
 
