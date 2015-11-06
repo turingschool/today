@@ -35,16 +35,23 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 #### 1510
 
-### Group Retro (10:00 - 10:45)
+### Group Retro (10:15 - 11:00)
 
 * 1505 - Classroom B with Marissa
 * 1507 - Classroom A with Jorge
 * 1508 - Classroom C with Rachel
 * 1510 - Big Workspace with Jeff
 
-### Lightning Talks (10:45 - 11:30)
+### Lightning Talks (11:00 - 11:45)
 
-### Friday Lunch Roulette (11:30 - 1:00)
+* Jai Misra - Global Startup Culture
+* Erik Butcher - Listening for Events with JavaScript Objects
+* Dmitry Vizersky - Pitch Anything To Get Anything
+* Ryan Asensio - Life as Code: An exploration of common themes.
+* Amber Crawford - Apps for Apes: Tech in the Zoo World
+* Adam Caron - Why Sass Kicks Ass
+
+### Friday Lunch Roulette (11:45 - 1:00)
 
 * Aaron Greenspan, Matt Rooney, Chris Cenatiempo, Erik Butcher
 * Jordan Lawler, Robbie Lane, Mary Beth Burch, Rob Cornell
