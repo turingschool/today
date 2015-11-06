@@ -86,6 +86,9 @@ Pairs:
 
 #### 1510
 
+Join Horace in __Classroom A__ to recap OkCuGit and other topics
+of great import!
+
 ### Group Retro (10:15 - 11:00)
 
 * 1505 - Classroom B with Allison and Mike
