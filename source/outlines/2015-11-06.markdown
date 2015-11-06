@@ -33,6 +33,22 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 #### 1508
 
+Join Rachel in Classroom B to tackle [Error Engine](https://github.com/rwarbelow/error-engine). You'll practice reading tests, reading errors, and implementing relationships at both the database level and model level. 
+
+Pairs:
+
+* John Slota & Amber Crawford
+* Jill Donohue & Ryan Johnson
+* Jhun de Andres & Ross Edfort
+* Shannon Paige & Nicole Hall
+* Chad Minnerath & Edgar Duran
+* Sekhar Paladugu & Pat Wey
+* Marlo Major & Matt Stjernholm
+* Jason Pilz & Charissa Lawrence
+* Aaron Careaga & Matt Rooney
+* Robbie Lane & Tyler Komoroske
+* Emily Dowdle & Torie Joy-Warren
+
 #### 1510
 
 ### Group Retro (10:15 - 11:00)
