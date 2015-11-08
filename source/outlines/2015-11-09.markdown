@@ -49,7 +49,9 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 When you're not being evaluated, read the first chapter of
 [Node.js The Right Way](https://www.dropbox.com/s/6pa1dgactbcq4ku/NodeJSTheRightWayChap1.pdf?dl=1).
 
-Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http://nodeguide.com/beginner.html).
+Use Redis to build a notifications service in Rails by working the [Building a Notification Service][bns] tutorial. We'll be exploring Redis in a little more depth tomorrow.
+
+[bns]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
 
 #### With Horace
 
@@ -74,7 +76,14 @@ Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http:
 - 10:00: Lovisa Svallingson
 - 11:00: Rick Bacci
 
-### Something in the Afternoon (1:00 - 2:30)
+### Work Time (1:00 - 2:30)
+
+Congratulations—you're now _web scale_. This afternoon you'll be finishing up the tutorials from this morning so that you're ready to hit the ground running with Steve tomorrow.
+
+The expectation is that you have the following done:
+
+- You've read the first chapter of _Node.js: The Right Way_.
+- You've completed the [Building a Notification Service][bns] tutorial.
 
 ### Technical Interview Crusher (2:30 - 4:00)
 
@@ -136,4 +145,3 @@ Classroom A.
 ### Project Work Time (2:30 - 4:00)
 
 Count those heads.
-
