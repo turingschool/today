@@ -46,11 +46,21 @@ This afternoon, we'll kick off your final project: [Real Time][rt].
 
 [rt]: https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown
 
-It's due on Tuesday, November 16.
+It's due on Tuesday, November 17.
+
+You'll have in-person check-ins on the following days:
+
+- Wednesday, November 11
+- Monday, November 16
 
 ### Project Work Time (2:00 - 4:00)
 
 This afternoon, you'll have some time to take your initial first pass at your real time applications. You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.
+
+Please also take care of the following administrivia:
+
+- Add Steve as a collaborator on your repository.
+- Tag Steve on any and all pull requests that you want reviewed.
 
 
 ## 1507
