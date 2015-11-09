@@ -128,13 +128,27 @@ Start in Classroom A with Jeff where we'll talk about and practice some remote p
 
 We'll use [this exercise](https://github.com/turingschool/challenges/blob/master/fundamental_logic_gates.markdown).
 
+And these pairings:
+
+* Aaron Greenspan & Beth Secor
+* James Crockett & Steven Olson
+* Steve Pentler & Taylor Moore
+* Toni Rib & Alexis Uriel Navarrete
+* Joseph Perry & Jordan Lawler
+* Beth Sebian & Brennan Holtzclaw
+* Lenny Myerson & Dan Winter
+* Greg Armstrong & Penney Garrett
+* Brenna Martenson & Admir Draganovic
+* Emily Blanchard & Brant Wellman
+* Hector Huertas Baeza
+
 ### Dynamics (10:15 - 11:00)
 
 Continue with Jeff in Classroom A where we'll work on setting you up for pair programming success.
 
 ### Headcount Kickoff (11:00 - 11:30)
 
-Classroom A.
+Stay in A where we'll start talking about [Headcount](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown).
 
 ### DTR (11:30 - 12:00)
 
