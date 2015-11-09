@@ -122,13 +122,15 @@ Join Tess in the Big Workspace.
 
 ## 1510
 
-### Dynamics (9:00 - 10:00)
+### Practicing Remote Pairing (9:00 - 10:15)
 
-Classroom A.
+Start in Classroom A with Jeff where we'll talk about and practice some remote pairing.
 
-### Practicing Remote Pairing (10:00 - 11:00)
+We'll use [this exercise](https://github.com/turingschool/challenges/blob/master/fundamental_logic_gates.markdown).
 
-Stay in Classroom A.
+### Dynamics (10:15 - 11:00)
+
+Continue with Jeff in Classroom A where we'll work on setting you up for pair programming success.
 
 ### Headcount Kickoff (11:00 - 11:30)
 
