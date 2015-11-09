@@ -94,6 +94,19 @@ Join Mike in Classroom C.
 
 ### Working with Ajax (9:00 - 12:00)
 
+Learn about how to send http request from the client via AJAX.
+
+Before this class, please clone the following repo:
+
+```
+git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
+```
+
+**Class Materials**
+
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7X3V1Z19qeFhwY0U/view?usp=sharing)
+* The video will be posted after the session.
+
 Join Jorge in Classroom C.
 
 ### Project Work Time (1:00 - 2:30)
@@ -109,9 +122,9 @@ Join Tess in the Big Workspace
 
 ### Mini-Project Show & Tell (9:00 - 9:30)
 
-Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. 
+Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation.
 
-* Ross Edfort & Jhun de Andres 
+* Ross Edfort & Jhun de Andres
 * Jill Donohue & Emily Dowdle
 * Tyler Komoroske & Pat Wey
 * Edgar Duran & Matt Stjernholm
@@ -124,19 +137,19 @@ Gather in Classroom B and find your pair listed below. This your chance to show 
 
 ### Little Shop Kickoff (9:30 - 12:00)
 
-Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
+Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown).
 
-Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original. 
+Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original.
 
-* John Slota & Amber Crawford & Shannon Paige 
-* Edgar Duran & Matt Rooney & Matt Stjernholm 
+* John Slota & Amber Crawford & Shannon Paige
+* Edgar Duran & Matt Rooney & Matt Stjernholm
 * Jhun de Andres & Ryan Johnson & Charissa Lawrence
-* Emily Dowdle & Jason Pilz & Sekhar Paladugu 
+* Emily Dowdle & Jason Pilz & Sekhar Paladugu
 * Jill Donohue & Pat Wey & Marlo Major
 * Aaron Careaga & Torie Warren & Nicole Hall
-* Robbie Lane & Tyler Komoroske & Ross Edfort 
+* Robbie Lane & Tyler Komoroske & Ross Edfort
 
-You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel. 
+You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel.
 
 Next steps:
 
