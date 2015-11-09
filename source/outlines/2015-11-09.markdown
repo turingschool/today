@@ -109,9 +109,9 @@ Join Tess in the Big Workspace
 
 ### Mini-Project Show & Tell (9:00 - 9:30)
 
-Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. 
+Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation.
 
-* Ross Edfort & Jhun de Andres 
+* Ross Edfort & Jhun de Andres
 * Jill Donohue & Emily Dowdle
 * Tyler Komoroske & Pat Wey
 * Edgar Duran & Matt Stjernholm
@@ -124,19 +124,19 @@ Gather in Classroom B and find your pair listed below. This your chance to show 
 
 ### Little Shop Kickoff (9:30 - 12:00)
 
-Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
+Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown).
 
-Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original. 
+Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original.
 
-* John Slota & Amber Crawford & Shannon Paige 
-* Edgar Duran & Matt Rooney & Matt Stjernholm 
+* John Slota & Amber Crawford & Shannon Paige
+* Edgar Duran & Matt Rooney & Matt Stjernholm
 * Jhun de Andres & Ryan Johnson & Charissa Lawrence
-* Emily Dowdle & Jason Pilz & Sekhar Paladugu 
+* Emily Dowdle & Jason Pilz & Sekhar Paladugu
 * Jill Donohue & Pat Wey & Marlo Major
 * Aaron Careaga & Torie Warren & Nicole Hall
-* Robbie Lane & Tyler Komoroske & Ross Edfort 
+* Robbie Lane & Tyler Komoroske & Ross Edfort
 
-You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel. 
+You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel.
 
 Next steps:
 
@@ -179,9 +179,9 @@ And these pairings:
 * Emily Blanchard & Brant Wellman
 * Hector Huertas Baeza
 
-### Dynamics (10:15 - 11:00)
+### Recapping CSVs (10:15 - 11:00)
 
-Continue with Jeff in Classroom A where we'll work on setting you up for pair programming success.
+We're going to revisit CSV files and [check out these notes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/file_io_and_csvs.markdown#working-with-csvs).
 
 ### Headcount Kickoff (11:00 - 11:30)
 
