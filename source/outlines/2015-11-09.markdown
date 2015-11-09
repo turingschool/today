@@ -38,8 +38,8 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 * Samson Brock, Regis Boudinot, Aaron Careaga, Penny Garrett
 * Jason Wright, John Slota, Matt Hecker, Joseph Perry
 * George Hudson, Brant Wellman, Robbie Lane, Matt Stjernholm
-* Beth Secor, Justin Pease, Nicole Hall, Jhun de Andres,
 * Alon Waisman, Emily Dowdle, Hector Huertas Baeza, Emily Blanchard
+* Beth Secor, Nicole Hall, Jhun de Andres,
 * Rose Kohn, Marlo Major, Steven Olson
 
 ## 1505
@@ -93,6 +93,19 @@ Join Mike in Classroom C.
 ## 1507
 
 ### Working with Ajax (9:00 - 12:00)
+
+Learn about how to send http request from the client via AJAX.
+
+Before this class, please clone the following repo:
+
+```
+git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
+```
+
+**Class Materials**
+
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7X3V1Z19qeFhwY0U/view?usp=sharing)
+* The video will be posted after the session.
 
 Join Jorge in Classroom C.
 
