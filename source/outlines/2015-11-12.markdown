@@ -34,6 +34,16 @@ It's time to take a look at each other's implementations. For the first hour thi
 
 Leave feedback [here](https://public.etherpad-mozilla.org/p/real-time-intracohort-1505).
 
+You'll work in the follow pairs:
+
+* Rick Bacci & Alex Tideman
+* Dave Maurer & Max Millington
+* Jai Misra & Erik Butcher
+* Samson Brock & Lovisa Svallingson
+* Dmitry Vizersky & Marla Brizel
+* Adam Caron & David Shim
+* Sebastian Abondano & Jamie Kawahara
+
 ### Project Work Time (2:00 - 4:00)
 
 
