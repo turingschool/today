@@ -144,7 +144,6 @@ Next steps:
 * create a waffle.io and add Rachel (rwarbelow) and Andrew (Carmer) as collaborators
 * push to Heroku (get in the habit of pushing to Heroku frequently)
 * create wireframes for most important views: Think about what you think the workflow should be on the site. Which of those views is most important? In addition to the home page wireframe, create wireframes for the next two most important pages. Examples might be: A users' profile page, a product page, an admin dashboard etc.
-* 
 
 ### Cart and Order Lifecycle (1:00 - 2:30)
 
