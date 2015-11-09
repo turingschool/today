@@ -198,11 +198,31 @@ We're going to revisit CSV files and [check out these notes](https://github.com/
 
 ### Headcount Kickoff (11:00 - 11:30)
 
-Stay in A where we'll start talking about [Headcount](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown).
+Stay in A where we'll start talking about [Headcount](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown). You'll complete the project in these pairs:
+
+* Brennan Holtzclaw & Toni Rib
+* Beth Sebian & Aaron Greenspan
+* Alexis Uriel Navarrete & Admir Draganovic
+* Hector Huertas Baeza & Taylor Moore
+* James Crockett & Beth Secor
+* Greg Armstrong & Steven Olson
+* Steve Pentler & Jordan Lawler
+* Lenny Myerson & Brant Wellman
+* Brenna Martenson & Dan Winter
+* Joseph Perry & Penney Garrett
 
 ### DTR (11:30 - 12:00)
 
-Time to have that conversation.
+The *most important* thing you can do first is to set expections. Consider questions like this:
+
+* What did you struggle with in your last project *academically*?
+* What went right / what went wrong with your most recent pair?
+* What helps you do your best work?
+* What cuts down your productivity?
+* What times of day are you smartest?
+* What outside constraints do you have (kids, SO, pets, etc)?
+* What would make this project a success for you?
+* What would make it a failure?
 
 ### Decomposing Headcount (1:00 - 2:30)
 
