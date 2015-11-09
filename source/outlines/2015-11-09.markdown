@@ -107,17 +107,55 @@ Join Tess in the Big Workspace
 
 ## 1508
 
-### Little Shop Kickoff and Work Time (9:00 - 12:00)
+### Mini-Project Show & Tell (9:00 - 9:30)
 
-Classroom B.
+Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. 
+
+* Ross Edfort & Jhun de Andres 
+* Jill Donohue & Emily Dowdle
+* Tyler Komoroske & Pat Wey
+* Edgar Duran & Matt Stjernholm
+* Shannon Paige & Charissa Lawrence
+* Matt Rooney & Aaron Careaga
+* Jason Pilz & Sekhar Paladugu
+* Torie Warren & Marlo Major
+* Amber Crawford & Ryan Johnson
+* Nicole Hall & John Slota & Robbie Lane
+
+### Little Shop Kickoff (9:30 - 12:00)
+
+Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
+
+Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original. 
+
+* John Slota & Amber Crawford & Shannon Paige 
+* Edgar Duran & Matt Rooney & Matt Stjernholm 
+* Jhun de Andres & Ryan Johnson & Charissa Lawrence
+* Emily Dowdle & Jason Pilz & Sekhar Paladugu 
+* Jill Donohue & Pat Wey & Marlo Major
+* Aaron Careaga & Torie Warren & Nicole Hall
+* Robbie Lane & Tyler Komoroske & Ross Edfort 
+
+You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel. 
+
+Next steps:
+
+* generate a new Rails project for your little shop (don't forget to use Postgres for your database)
+* create a waffle.io and add Rachel (rwarbelow) and Andrew (Carmer) as collaborators
+* push to Heroku (get in the habit of pushing to Heroku frequently)
+* create wireframes for most important views: Think about what you think the workflow should be on the site. Which of those views is most important? In addition to the home page wireframe, create wireframes for the next two most important pages. Examples might be: A users' profile page, a product page, an admin dashboard etc.
+* 
 
 ### Cart and Order Lifecycle (1:00 - 2:30)
+
+Let's [catch 'em all](https://github.com/rwarbelow/catch-em-all). Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown).
 
 Join Rachel in Classroom B.
 
 ### Technical Interview Prep (2:30 - 4:00)
 
 Join Tess in the Big Workspace.
+
 
 
 ## 1510
