@@ -22,9 +22,26 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1505
 
-### Mystery Class (9:00 - 12:00)
+### Project Work Time and Check Ins (9:00 - 4:00)
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+Tess is available for questions the entire time while Steve is doing check-ins.
+
+#### With Steve
+
+- 9:00: Marla Brizel
+- 9:20: Sebastian Abondano
+- 9:40: David Shim
+- 10:00: Max Millington
+- 10:30: Alex Tideman
+- 10:50: Lovisa Svallingson
+- 11:10: Jai Misra
+- 11:30: Adam Caron
+- 1:00: Rick Bacci
+- 1:20: Erik Butcher
+- 1:40: Dave Maurer
+- 2:20: Samson Brock
+- 2:50: Dmitry Vizersky
+- 3:30: Jamie Kawahara
 
 
 ## 1507
@@ -46,5 +63,3 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 ### Testing Small Datasets, Dependencies, and Edge Cases (10:30 - 12:00)
 
 ### Project Work Time (1:00 - 4:00)
-
-

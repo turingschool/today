@@ -49,7 +49,9 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 When you're not being evaluated, read the first chapter of
 [Node.js The Right Way](https://www.dropbox.com/s/6pa1dgactbcq4ku/NodeJSTheRightWayChap1.pdf?dl=1).
 
-Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http://nodeguide.com/beginner.html).
+Use Redis to build a notifications service in Rails by working the [Building a Notification Service][bns] tutorial. We'll be exploring Redis in a little more depth tomorrow.
+
+[bns]: http://tutorials.jumpstartlab.com/projects/monsterporium/extract_notification_service.html
 
 #### With Horace
 
@@ -74,7 +76,14 @@ Then work through this beginning Node tutorial: [Node.JS Beginner's Guide](http:
 - 10:00: Lovisa Svallingson
 - 11:00: Rick Bacci
 
-### Something in the Afternoon (1:00 - 2:30)
+### Work Time (1:00 - 2:30)
+
+Congratulations—you're now _web scale_. This afternoon you'll be finishing up the tutorials from this morning so that you're ready to hit the ground running with Steve tomorrow.
+
+The expectation is that you have the following done:
+
+- You've read the first chapter of _Node.js: The Right Way_.
+- You've completed the [Building a Notification Service][bns] tutorial.
 
 ### Technical Interview Crusher (2:30 - 4:00)
 
@@ -85,7 +94,7 @@ Join Mike in Classroom C.
 
 ### Working with Ajax (9:00 - 12:00)
 
-Join Josh in Classroom C.
+Join Jorge in Classroom C.
 
 ### Project Work Time (1:00 - 2:30)
 
@@ -98,11 +107,47 @@ Join Tess in the Big Workspace
 
 ## 1508
 
-### Little Shop Kickoff and Work Time (9:00 - 12:00)
+### Mini-Project Show & Tell (9:00 - 9:30)
 
-Classroom B.
+Gather in Classroom B and find your pair listed below. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. 
+
+* Ross Edfort & Jhun de Andres 
+* Jill Donohue & Emily Dowdle
+* Tyler Komoroske & Pat Wey
+* Edgar Duran & Matt Stjernholm
+* Shannon Paige & Charissa Lawrence
+* Matt Rooney & Aaron Careaga
+* Jason Pilz & Sekhar Paladugu
+* Torie Warren & Marlo Major
+* Amber Crawford & Ryan Johnson
+* Nicole Hall & John Slota & Robbie Lane
+
+### Little Shop Kickoff (9:30 - 12:00)
+
+Join Rachel in Classroom B to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
+
+Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original. 
+
+* John Slota & Amber Crawford & Shannon Paige 
+* Edgar Duran & Matt Rooney & Matt Stjernholm 
+* Jhun de Andres & Ryan Johnson & Charissa Lawrence
+* Emily Dowdle & Jason Pilz & Sekhar Paladugu 
+* Jill Donohue & Pat Wey & Marlo Major
+* Aaron Careaga & Torie Warren & Nicole Hall
+* Robbie Lane & Tyler Komoroske & Ross Edfort 
+
+You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel. 
+
+Next steps:
+
+* generate a new Rails project for your little shop (don't forget to use Postgres for your database)
+* create a waffle.io and add Rachel (rwarbelow) and Andrew (Carmer) as collaborators
+* push to Heroku (get in the habit of pushing to Heroku frequently)
+* create wireframes for most important views: Think about what you think the workflow should be on the site. Which of those views is most important? In addition to the home page wireframe, create wireframes for the next two most important pages. Examples might be: A users' profile page, a product page, an admin dashboard etc.
 
 ### Cart and Order Lifecycle (1:00 - 2:30)
+
+Let's [catch 'em all](https://github.com/rwarbelow/catch-em-all). Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown).
 
 Join Rachel in Classroom B.
 
@@ -111,19 +156,36 @@ Join Rachel in Classroom B.
 Join Tess in the Big Workspace.
 
 
+
 ## 1510
 
-### Dynamics (9:00 - 10:00)
+### Practicing Remote Pairing (9:00 - 10:15)
 
-Classroom A.
+Start in Classroom A with Jeff where we'll talk about and practice some remote pairing.
 
-### Practicing Remote Pairing (10:00 - 11:00)
+We'll use [this exercise](https://github.com/turingschool/challenges/blob/master/fundamental_logic_gates.markdown).
 
-Stay in Classroom A.
+And these pairings:
+
+* Aaron Greenspan & Beth Secor
+* James Crockett & Steven Olson
+* Steve Pentler & Taylor Moore
+* Toni Rib & Alexis Uriel Navarrete
+* Joseph Perry & Jordan Lawler
+* Beth Sebian & Brennan Holtzclaw
+* Lenny Myerson & Dan Winter
+* Greg Armstrong & Penney Garrett
+* Brenna Martenson & Admir Draganovic
+* Emily Blanchard & Brant Wellman
+* Hector Huertas Baeza
+
+### Dynamics (10:15 - 11:00)
+
+Continue with Jeff in Classroom A where we'll work on setting you up for pair programming success.
 
 ### Headcount Kickoff (11:00 - 11:30)
 
-Classroom A.
+Stay in A where we'll start talking about [Headcount](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown).
 
 ### DTR (11:30 - 12:00)
 
@@ -136,4 +198,3 @@ Classroom A.
 ### Project Work Time (2:30 - 4:00)
 
 Count those heads.
-
