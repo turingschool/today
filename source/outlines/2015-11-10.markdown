@@ -78,6 +78,10 @@ Please also take care of the following administrivia:
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
+Join Josh in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md)
+
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
 
