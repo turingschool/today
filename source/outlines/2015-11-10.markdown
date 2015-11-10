@@ -29,6 +29,7 @@ Meet with Steve in Classroom A.
 This morning we'll be discussing using Redis to implement the pub/sub pattern on the server-side.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [The Publish-Subscribe Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 
 ### Real-Time Applications in Node (10:30 - 12:00)
 
@@ -37,6 +38,16 @@ Stick around with Steve in Classroom A.
 Now that we've seen the pattern on the server-side with Ruby, let's look at pushing events from the server to the client using Node.js.
 
 * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+
+For all pair work today, you'll be working in the following pairs:
+
+* Rick Bacci & Jamie Kawahara
+* Sebastian Abondano & Alex Tideman
+* Marla Brizel & Erik Butcher
+* David Shim & Max Millington
+* Adam Caron & Dmitry Vizersky
+* Jai Misra & Dave Maurer
+* Samson Brock & Lovisa Svallingson
 
 ### Real Time Kickoff (1:00 - 2:00)
 
