@@ -94,6 +94,16 @@ Please also take care of the following administrivia:
 
 ### The Performance of Code (9:00 - 10:30)
 
-### Throwdown (10:30 - 12:00)
+Join Jeff in *Classroom B* where we'll be talking about [Performance](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown).
+
+### The Horace & Jeff Show (10:30 - 12:00)
+
+Once we wrapup the performance session, stay in Classroom B where Horace and Jeff are going to do a pairing exercise modeling how we might attack building a data access layer for a dataset.
 
 ### Headcount Work Time (1:00 - 4:00)
+
+* Did you DTR?
+* Did you start with something small to help build momentum?
+* Did you setup your project tracker?
+* Did you write some stories/cards/to-dos?
+* Are you on a track to finish the first iteration by Wednesday night?
