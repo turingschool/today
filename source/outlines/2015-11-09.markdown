@@ -105,7 +105,7 @@ git clone https://github.com/turingschool-examples/birdeck.git fundamental_ajax
 **Class Materials**
 
 * [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7X3V1Z19qeFhwY0U/view?usp=sharing)
-* The video will be posted after the session.
+* [Video](https://vimeo.com/145191372)
 
 Join Jorge in Classroom C.
 
