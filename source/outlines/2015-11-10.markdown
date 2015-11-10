@@ -86,30 +86,25 @@ Join Josh in Classroom B.
 
 #### With Jorge
 
-* Mimi Schatz
-* Jeff Ruane
 * Russell Harms
 * Rose Kohn
-* Travis Haby
-* Alon Waisman
-* Mary Beth Burch
 * Matt Ewell
 * Michael Wong
-* Ryan Asensio
+* Travis Haby & Mimi Schatz
+* Matt Hecker & Alon Waisman
+* Mary Beth Burch & George Hudson
+* Jeff Ruane & Chris Cenatiempo
 
 #### With Josh
 
+* Ryan Asensio
 * Jerrod Paul Junker
 * Adam Jensen
 * Regis Boudinot
 * Bret Doucette
-* George Hudson
-* Matt Hecker
-* Chris Cenatiempo
 * Justin Holzmann
 * Jason Wright
 * Stanley Siudzinski
-
 
 ## 1508
 
@@ -117,22 +112,22 @@ Join Josh in Classroom B.
 
 ### Rails Views Tips and Tricks (10:30 - 12:00)
 
-Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown). 
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time and Check Ins (1:00 - 4:00)
 
 #### With Rachel:
 
-* 1:00 John Slota & Amber Crawford & Shannon Paige 
-* 1:40 Edgar Duran & Matt Rooney & Matt Stjernholm 
-* 2:20 Emily Dowdle & Jason Pilz & Sekhar Paladugu 
+* 1:00 John Slota & Amber Crawford & Shannon Paige
+* 1:40 Edgar Duran & Matt Rooney & Matt Stjernholm
+* 2:20 Emily Dowdle & Jason Pilz & Sekhar Paladugu
 * 3:00 Jhun de Andres & Ryan Johnson & Charissa Lawrence
 
 #### With Tess:
 
 * 1:00 Jill Donohue & Pat Wey & Marlo Major
 * 1:40 Aaron Careaga & Torie Warren & Nicole Hall
-* 2:20 Robbie Lane & Tyler Komoroske & Ross Edfort 
+* 2:20 Robbie Lane & Tyler Komoroske & Ross Edfort
 
 ## 1510
 
