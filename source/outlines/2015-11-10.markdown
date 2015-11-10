@@ -66,7 +66,7 @@ You'll have in-person check-ins on the following days:
 
 ### Project Work Time (2:00 - 4:00)
 
-This afternoon, you'll have some time to take your initial first pass at your real time applications. You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.
+This afternoon, you'll have some time to take your initial first pass at your real time applications. **You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.**
 
 Please also take care of the following administrivia:
 
