@@ -81,6 +81,10 @@ And you'll work together on [this exercise](https://github.com/turingschool/less
 
 Continue in Classroom A where Horace is going to try and make your life easier. Not simpler. But easier.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/designing_data_oriented_programs_for_testability.markdown)
+
+[Additionally, a parable](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_small_datasets%E2%80%A6_the_fictional_story_of_a_plumber_who_learns_about_fixtures_mocks_and_stubs_and_ignoring_all_that_shit_and_simplifying_your_design_instead.markdown)
+
 ### Project Work Time (1:00 - 4:00)
 
 Work work work work work work work work.
