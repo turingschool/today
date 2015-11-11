@@ -53,6 +53,8 @@ Tess is available for questions the entire time while Steve is doing check-ins.
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
+Clasroom B.
+
 ### Little Shop Work Time (10:30 - 12:00)
 
 
@@ -60,6 +62,12 @@ Tess is available for questions the entire time while Steve is doing check-ins.
 
 ### Refactoring in Pairs (9:00 - 10:30)
 
+Classroom A.
+
 ### Testing Small Datasets, Dependencies, and Edge Cases (10:30 - 12:00)
 
+Classroom A.
+
 ### Project Work Time (1:00 - 4:00)
+
+ Work!
