@@ -60,14 +60,27 @@ Clasroom B.
 
 ## 1510
 
-### Refactoring in Pairs (9:00 - 10:30)
+### Paired Refactoring (9:00 - 10:30)
 
-Classroom A.
+Let's get together in Classroom A and practice some refactoring and some pairing. You'll use these pairs:
+
+* Brant Wellman & Taylor Moore
+* Jordan Lawler & Joseph Perry
+* James Crockett & Penney Garrett
+* Steven Olson & Aaron Greenspan
+* Toni Rib & Brenna Martenson
+* Beth Sebian & Beth Secor
+* Admir Draganovic & Brennan Holtzclaw
+* Steve Pentler & Dan Winter
+* Lenny Myerson & Greg Armstrong
+* Hector Huertas Baeza & Alexis Uriel Navarrete
+
+And you'll work together on [this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/paired_refactoring.markdown). Before you begin writing code, you should start with a micro-DTR.  
 
 ### Testing Small Datasets, Dependencies, and Edge Cases (10:30 - 12:00)
 
-Classroom A.
+Continue in Classroom A where Horace is going to try and make your life easier. Not simpler. But easier.
 
 ### Project Work Time (1:00 - 4:00)
 
- Work!
+Work work work work work work work work.
