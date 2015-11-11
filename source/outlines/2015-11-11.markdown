@@ -51,9 +51,9 @@ Tess is available for questions the entire time while Steve is doing check-ins.
 
 ## 1508
 
-### Pushing Logic Down the Stack (9:00 - 10:30)
+### Intro to the Asset Pipeline (9:00 - 10:30)
 
-Clasroom B.
+Join Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown). 
 
 ### Little Shop Work Time (10:30 - 12:00)
 
