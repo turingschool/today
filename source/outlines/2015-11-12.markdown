@@ -89,6 +89,7 @@ Join Jeff in Classroom B to [Push Logic Down the Stack](http://tutorials.jumpsta
 #### One-on-Ones
 
 With Rachel:
+
 * 10:40 Tyler Komoroske
 * 10:50 Chad Minnerath
 * 11:00 Torie Warren
@@ -96,6 +97,7 @@ With Rachel:
 * 11:20 Pat Wey
 
 With Andrew:
+
 * 10:40 Edgar Duran
 * 10:50 Marlo Major
 * 11:00 Emily Dowdle
