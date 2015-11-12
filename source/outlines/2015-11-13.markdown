@@ -45,8 +45,19 @@ No Survey, No Breakfast.
 
 ### Lightning Talks (2:00 - 3:00)
 
+Samson Brock - Elixir on Phoenix
+Dave Maurer - New Developer Considerations
+Matt Ewell - How not to get ripped off by your enterprise IT services provider
+Matt Hecker - pry neato's
+Marlo Major - How to Start a Medical Device Startup
+Matt Rooney - Plasma Torch Recycling
+Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
+Justin Holzmann - Big Pond Effect
 
 ### Electives and Student Lead Sessions (3:00 - 4:00)
 
 * Mike Dao - Game Programming with Unity3D - This week is a discussion about design. You need not have attended a previous session.
-
+* Aaron Careaga and Edgar Duran - How to Contribute to Open Source
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Struggling with the project du jour? Feel like you're the only one who doesn't get some general concept (protip: you're not)? Fear not... we'll review All The Things!
+* Jamie Kawahara - Make Custom 3D Printed Business Cards
+* Regis - Programming Arduinos with Ruby/JavaScript/C
