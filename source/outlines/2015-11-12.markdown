@@ -19,6 +19,27 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 [Pull requests accepted](https://github.com/mikedao/the-warm-up).
 
+### Intro to SQL
+
+Join [Nate](https://twitter.com/neight) in Classroom B
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+
+* Dan Winter
+* Brenna Martenson
+* Alex Navarrete
+* Shannon Paige
+* Ross Edfort
+* Robbie Lane
+* Steven Olson
+* Gregory Armstrong
+* Jhun de Andres
+* Sekhar Paladugu
+* Jason Pilz
+* Ryan Johnson
+* Emily Dowdle
+* Brennan Holtzclaw
+* Beth Sebian
 
 ## 1505
 
