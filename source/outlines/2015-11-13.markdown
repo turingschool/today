@@ -44,6 +44,13 @@ Join Rachel in Classroom B. First, we'll talk a bit about [Scopes and Callbacks]
 
 #### 1510
 
+We'll be in the workspace to talk about portfolios, assessments, and what to expect from "Hell Week".
+
+* [Your assessment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+* [Portfolios Repo](https://github.com/turingschool/portfolios) and a [great example from the last cohort](https://github.com/turingschool/portfolios/blob/master/students/1508/emily-dowdle/20151002-emily_dowdle-m1.markdown)
+* Project expectations
+* Makeups and Retakes
+
 ### Gear Up (10:30 - 11:00)
 
 ### Guest Speaker (11:00 - 12:00)
