@@ -80,3 +80,4 @@ We'll be in the workspace to talk about portfolios, assessments, and what to exp
 * Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Struggling with the project du jour? Feel like you're the only one who doesn't get some general concept (protip: you're not)? Fear not... we'll review All The Things!
 * Jamie Kawahara - Make Custom 3D Printed Business Cards
 * Regis - Programming Arduinos with Ruby/JavaScript/C
+* Marlo - Medtech Startups
