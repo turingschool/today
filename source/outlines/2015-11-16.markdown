@@ -1,0 +1,93 @@
+---
+title: 20151116
+layout: outline
+---
+
+Today, in 1974, NASA launches Skylab 4.
+
+## All
+
+###  Posse Clean-Up Duty
+
+* Today: Matsumoto Posse
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### A Very Special Warm Up with Mike (8:00 - 9:00)
+
+Head to the Big Workspace!
+
+
+## 1505
+
+### Technical Interview Crusher (2:30 - 4:00)
+
+Meet Mike in Classroom C, where he will help you get a job.
+
+
+## 1507
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Meet Josh in Classroom C.
+
+### Project Work Time (1:00 - 2:30)
+
+Work Work.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
+
+## 1508
+
+### Intro to JavaScript (9:00 - 12:00)
+
+Join Andrew in Classroom B.
+
+### Little Shop Check-Ins (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1510
+
+### Module 1 Assessments (9:00 - 12:00)
+
+#### With Horace
+
+* 9:00 - Aaron Greenspan
+* 9:30 - Admir Draganovic
+* 10:00 - Beth Secor
+* 10:30 - Hector Huertas
+* 11:00 - James Crockett
+* 11:30 - Jordan Lawler
+
+#### With Jeff
+
+* 9:00 - Emily Blanchard
+* 9:30 - Alex Navarrete
+* 10:00 - Lenny Myerson
+* 10:30 - Taylor Moore
+* 11:00 - Joseph Perry
+* 11:30 - Penney Garrett
+
+#### With Mike
+
+* 9:00 - Brenna Martenson
+* 9:30 - Brennan Holtzclaw
+* 10:00 - Dan Winter
+* 10:30 - Beth Sebian
+* 11:00 - Brant Wellman
+* 11:30 - Greg Armstrong
+
+#### With Rachel
+
+* 9:00 - Steve Pentler
+* 9:30 - Steven Olson
+* 10:00 - Toni Rib
+
+### Project Work Time (1:00 - 4:00)
+
+Work
