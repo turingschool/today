@@ -36,7 +36,7 @@ This morning, you'll start on [Pizza Express][pe] a "little" tutorial that will 
 
 #### 1508
 
-First, we'll talk a bit about [Scopes and Callbacks](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/transactions_scopes_callbacks.markdown). Then we'll finish [Pushing Logic Down the Stack](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html). 
+Join Rachel in Classroom B. First, we'll talk a bit about [Scopes and Callbacks](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/transactions_scopes_callbacks.markdown). Then we'll finish [Pushing Logic Down the Stack](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html). 
 
 #### 1510
 
