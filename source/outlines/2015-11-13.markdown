@@ -53,7 +53,31 @@ We'll be in the workspace to talk about portfolios, assessments, and what to exp
 
 ### Gear Up (10:30 - 11:00)
 
+Meet up with Jeff in the Workspace. Please be ready to start on time exactly at 10:30. Sit/gather in the groups below. We're not going to do anything full-group since time is short, so if your group has their pens, notebooks, and printed exercise then you're welcome to scatter out to Classroom B, Classroom C, or stay in the workspace.
+
+* Aaron Greenspan & Dmitry Vizersky & Emily Dowdle & Adam Jensen
+* Bret Doucette & Alexis Uriel Navarrete & Joseph Perry & Samson Brock
+* Matt Stjernholm & Regis Boudinot & Toni Rib & Dan Winter
+* Sebastian Abondano & Brant Wellman & Erik Butcher & Jamie Kawahara
+* Beth Secor & Rose Kohn & Brennan Holtzclaw & Dave Maurer
+* Alex Tideman & Mary Beth Burch & Rick Bacci & Stanley Siudzinski
+* Ross Edfort & Shannon Paige & Mimi Schatz & Sekhar Paladugu
+* John Slota & Jerrod Paul Junker & Travis Haby & Jai Misra
+* Adam Caron & Marla Brizel & Alon Waisman & Ryan Johnson
+* Jhun de Andres & Torie Warren & Brenna Martenson & Justin Holzmann
+* Michael Wong & Jeff Ruane & Beth Sebian & Jordan Lawler
+* Steve Pentler & Jill Donohue & David Shim & Marlo Major
+* Matt Ewell & Lovisa Svallingson & Matt Hecker & Edgar Duran
+* Charissa Lawrence & Chris Cenatiempo & Taylor Moore & Steven Olson
+* Amber Crawford & Hector Huertas Baeza & Pat Wey & Admir Draganovic
+* Jason Wright & Robbie Lane & Emily Blanchard & Tyler Komoroske
+* Lenny Myerson & Ryan Asensio & Nicole Hall & Jason Pilz
+* Matt Rooney & James Crockett & George Hudson & Greg Armstrong
+* Penney Garrett & Max Millington & Russell Harms & Aaron Careaga
+
 ### Guest Speaker (11:00 - 12:00)
+
+Gather back in the workspace at 11:00 for an in-person guest talk from Kagen Sound.
 
 ### Group Retro (1:15 - 2:00)
 
@@ -64,10 +88,12 @@ We'll be in the workspace to talk about portfolios, assessments, and what to exp
 
 ### Lightning Talks (2:00 - 3:00)
 
+Meet in the workspace for some great lightning talks:
+
+* Matt Hecker - pry neatos
 * Samson Brock - Elixir on Phoenix
 * Dave Maurer - New Developer Considerations
 * Matt Ewell - How not to get ripped off by your enterprise IT services provider
-* Matt Hecker - pry neato's
 * Marlo Major - How to Start a Medical Device Startup
 * Matt Rooney - Plasma Torch Recycling
 * Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
