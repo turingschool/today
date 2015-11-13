@@ -26,6 +26,12 @@ No Survey, No Breakfast.
 
 #### 1505
 
+Meet with Tess in Classroom C.
+
+This morning, you'll start on [Pizza Express][pe] a "little" tutorial that will show you how to unit test and build an Express application from first principles.
+
+[pe]: https://github.com/turingschool-examples/pizza-express
+
 #### 1507
 
 #### 1508
