@@ -90,10 +90,10 @@ Gather back in the workspace at 11:00 for an in-person guest talk from Kagen Sou
 
 Meet in the workspace for some great lightning talks:
 
+* Matt Hecker - pry neatos
 * Samson Brock - Elixir on Phoenix
 * Dave Maurer - New Developer Considerations
 * Matt Ewell - How not to get ripped off by your enterprise IT services provider
-* Matt Hecker - pry neatos
 * Marlo Major - How to Start a Medical Device Startup
 * Matt Rooney - Plasma Torch Recycling
 * Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
