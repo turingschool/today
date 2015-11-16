@@ -91,7 +91,10 @@ Big Workspace.
 
 ### Intro to JavaScript (9:00 - 12:00)
 
-Join Andrew in Classroom B.
+Join Andrew in Classroom B. Here's your [repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+
+
+
 
 ### Little Shop Check-Ins (1:00 - 4:00)
 
