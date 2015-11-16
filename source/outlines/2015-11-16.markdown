@@ -72,6 +72,8 @@ Schedule TBA.
 
 ## 1510
 
+Today is primarily a work day along with the individual assessments scheduled below. Good luck!
+
 ### Module 1 Assessments (9:00 - 12:00)
 
 #### With Horace
@@ -107,6 +109,12 @@ Schedule TBA.
 * 9:30 - Steven Olson
 * 10:00 - Toni Rib
 
-### Project Work Time (1:00 - 4:00)
+### Pairing Pairs & Project Work Time (1:00 - 4:00)
 
-Work
+This afternoon please spend the hour 1:00 to 2:00 collaborating with another pair (listed below). This could mean meeting as a foursome to review code / share ideas, breaking into cross-group pairs to write code, reviewing each other's code and posting feedback/pull-requests/etc, or whatever else feels useful.
+
+* Brennan Holtzclaw & Toni Rib with Beth Sebian & Aaron Greenspan
+* Alexis Uriel Navarrete & Admir Draganovic with Hector Huertas Baeza & Taylor Moore
+* James Crockett & Beth Secor with Greg Armstrong & Steven Olson
+* Steve Pentler & Jordan Lawler with Lenny Myerson & Brant Wellman
+* Brenna Martenson & Dan Winter with Joseph Perry & Penney Garrett
