@@ -94,12 +94,20 @@ And then there was Regis...
 
 Join Andrew in Classroom B. Here's your [repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
 
-
-
-
 ### Little Shop Check-Ins (1:00 - 4:00)
 
-Schedule TBA.
+#### With Rachel:
+
+* 1:00 Jhun de Andres & Ryan Johnson & Charissa Lawrence
+* 1:45 John Slota & Amber Crawford & Shannon Paige
+* 2:30 Emily Dowdle & Jason Pilz & Sekhar Paladugu
+* 3:15 Edgar Duran & Matt Rooney & Matt Stjernholm
+
+#### With Andrew:
+
+* 1:00 Jill Donohue & Pat Wey & Marlo Major
+* 1:45 Robbie Lane & Tyler Komoroske & Ross Edfort
+* 2:30 Aaron Careaga & Torie Warren & Nicole Hall
 
 
 ## 1510
