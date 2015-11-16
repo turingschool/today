@@ -39,6 +39,34 @@ Head to the Big Workspace!
 
 ## 1505
 
+### Project Check-ins (9:00 - 1:40)
+
+- 9:00: Rick Bacci
+- 9:20: Erik Butcher
+- 9:40: Dmitry Vizersky
+- 10:00: Jai Misra
+- 10:20: Marla Brizel
+- 10:40: Sebastian Abondano
+- 11:00: David Shim
+- 11:20: Max Millington
+- 11:40: Alex Tideman
+- 1:00: Lovisa Svallingson
+- 1:20: Adam Caron
+
+### Intra-Cohort Check-ins (10:00 - 12:00)
+
+This morning, you _must_ find one hour to meet up with your assigned pair and review one another's approach and code.
+
+- Max Millington and Jai Misra
+- Dmitry Vizersky and Adam Caron
+- David Shim and Sebastian Abondano
+- Rick Bacci and Lovisa Svallingson
+- Erik Butcher and Alex Tideman and Marla Brizel
+
+### Real Time Public Service Announcements (1:45 - 2:30)
+
+Meet with Steve in Classroom B.
+
 ### Technical Interview Crusher (2:30 - 4:00)
 
 Meet Mike in Classroom C, where he will help you get a job.
