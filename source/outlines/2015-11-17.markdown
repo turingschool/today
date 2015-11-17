@@ -79,11 +79,11 @@ git clone https://github.com/turingschool-examples/loremore.git background_worke
 
 ### Intro to jQuery (9:00 - 10:00)
 
-Join Andrew in Classroom B.
+Join Andrew in Classroom B. [REPO!](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown)
 
 ### Filtering with jQuery (10:00 - 12:00)
 
-Stay in Classroom B.
+Stay in Classroom B. Same repo as before...
 
 ### Module 2 Assessments (1:00 - 4:00)
 
