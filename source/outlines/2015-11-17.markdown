@@ -114,12 +114,13 @@ Stay in Classroom B.
 
 ### Binary, Octal and Hex (9:00 - 10:30)
 
-Classroom A.
+Join Jeff in Classroom A where you'll learn how to count.
 
 ### How Computers and Electronics Work (10:30 - 12:00)
 
-Classroom A.
+Then let's talk about how all this stuff actually works under the hood.
 
-### Headcount Check-Ins and Work Time (1:00 - 4:00)
+### Headcount Work Time & Testing (1:00 - 4:00)
 
-Schedule TBA.
+Horace will be ironing out the test harness (and would love your pull requests)
+and answering questions.
