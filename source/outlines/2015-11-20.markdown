@@ -19,7 +19,7 @@ talk to you about your intermission week work.
 
 * 1507 - Classroom C
 * 1508 - Classroom B
-* 1510 - Classroom A.
+* 1510 - Classroom A. Find intermission week prep work [here](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-2.markdown). 
 
 ### Lightning Talks (10:00 - 11:00)
 
@@ -35,8 +35,7 @@ Join Marissa in Classroom A as you begin The Hunt.
 
 ### Portfolio Review (11:00 - 12:00 & 1:15 - ?)
 
-You can leave when youre done. Just don't go to The Vault. You finished a module.
-You deserve better.
+While you're not in portfolio review, work on [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html) with your cross-cohort pair listed at the bottom of today's outline. 
 
 * Tyler
 * Cole
@@ -59,13 +58,11 @@ You deserve better.
 * Shannon
 * John
 
-
 ## 1510
 
 ### Portfolio Review (11:00 - 12:00 & 1:15 - ?)
 
-You can leave when youre done. Just don't go to The Vault. You finished a module.
-You deserve better.
+While you're not in portfolio review, work on [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html) with your cross-cohort pair listed at the bottom of today's outline. 
 
 * Aaron
 * Admir
@@ -89,3 +86,26 @@ You deserve better.
 * Taylor
 * Toni
 
+## 1508 and 1510 [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html) Pairs
+
+* Aaron & Tyler
+* Admir & Cole
+* Alexis & Torie
+* Beth Sebian
+* Brant & Jhun
+* Brenna & Pat
+* Brennan & Aaron
+* Dan & Ross
+* Beth Secor & Marlo
+* Emily & Jill
+* Greg & Ryan
+* Hector & Sekhar
+* James & Jason
+* Jordan & Matt S.
+* Joseph & Matt R.
+* Lenny & Edgar
+* Penney & Emily
+* Steve P. & Charissa
+* Steve O. & Robbie
+* Taylor & Shannon
+* Toni & John
