@@ -106,9 +106,15 @@ If you are not being assessed, put the finishing touches on your portfolio.
 
 ## 1508
 
+<<<<<<< HEAD
 ### Little Shop Work Time & Evaluations (9:00 - 4:00)
 
 Thinking about force pushing to master 5 minutes before your evaluation? Don't do it.
+=======
+Little Shop Work Time & Evaluations (9:00 - 4:00)
+
+Thinking about force pushing to master 5 minutes before your evaluation? Don't do it. 
+>>>>>>> bed0f254f8b8336264152284cb70d5339a3f2ab4
 
 With Rachel:
 
@@ -117,7 +123,11 @@ With Rachel:
 * 1:45 Edgar Duran & Matt Rooney & Matt Stjernholm
 * 2:30 Robbie Lane & Tyler Komoroske & Ross Edfort
 
+<<<<<<< HEAD
 With Andrew:
+=======
+With Andrew: 
+>>>>>>> bed0f254f8b8336264152284cb70d5339a3f2ab4
 
 * 1:00 Aaron Careaga & Torie Warren & Nicole Hall
 * 1:45 Jill Donohue & Pat Wey & Marlo Major
