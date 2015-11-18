@@ -60,14 +60,15 @@ You can do it.
 
 ## 1510
 
-### Algorithmic Complexity (9:00 - 10:30)
+### Boolean Logic Deep Dive (9:00 - 10:30)
 
-Classroom A.
+Join Jeff in Classroom A where we'll [learn about Boolean Logic](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/boolean_logic.markdown
+).
 
-### Boolean Logic Deep Dive (10:30 - 12:00)
+### Project Work Time (10:30 - 4:00)
 
 Stay in Classroom A.
 
 ### Project Work Time (1:00 - 4:00)
 
-Almost there.
+In the 10:30-12:00 area Jeff will be working on gathering/posting missing data about your past projects. Horace will be available for questions, especially fixes/additions to the spec harness.
