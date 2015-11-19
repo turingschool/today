@@ -110,16 +110,14 @@ If you are not being assessed, put the finishing touches on your portfolio.
 
 Thinking about force pushing to master 5 minutes before your evaluation? Don't do it.
 
-Little Shop Work Time & Evaluations (9:00 - 4:00)
-
-With Rachel:
+#### With Rachel
 
 * 9:00 Jhun de Andres & Ryan Johnson & Charissa Lawrence
 * 1:00 John Slota & Amber Crawford & Shannon Paige
 * 1:45 Edgar Duran & Matt Rooney & Matt Stjernholm
 * 2:30 Robbie Lane & Tyler Komoroske & Ross Edfort
 
-With Andrew:
+#### With Andrew
 
 * 1:00 Aaron Careaga & Torie Warren & Nicole Hall
 * 1:45 Jill Donohue & Pat Wey & Marlo Major
@@ -129,6 +127,13 @@ With Andrew:
 ## 1510
 
 ### Headcount Evaluations (9:00 - 12:00)
+
+When you're not doing your evaluation this morning, please:
+
+* Get your portfolio done
+* Exchange feedback with each other
+* Check that your markdown skills are working and your document is presentable
+* Get at least one other person to read/edit your portfolio
 
 #### With Horace
 
