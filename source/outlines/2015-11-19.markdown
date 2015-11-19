@@ -91,18 +91,18 @@ If you are not being assessed, put the finishing touches on your portfolio.
 * Rose Kohn
 * Adam Jensen
 * Matt Ewell
-* Regis Boudinot
 * Michael Wong
+* Jason Wright
+* Chris Cenatiempo
+* Stanley Siudzinski
+* Regis Boudinot
 * Bret Doucette
 * Travis Haby
 * Mimi Schatz
 * Justin Holzmann
 * Mary Beth Burch
 * George Hudson
-* Jason Wright
 * Jeff Ruane
-* Chris Cenatiempo
-* Stanley Siudzinski
 
 ## 1508
 
