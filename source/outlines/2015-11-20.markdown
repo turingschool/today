@@ -23,10 +23,10 @@ talk to you about your intermission week work.
 
 ### Lightning Talks (10:00 - 10:30)
 
-Adam Jensen - What's up with JS scopes?
-George Hudson - Contributing to Open Source (as a Turing student)
-Jill Donohue - The Science Behind Gratitude
-Robbie Lane - Optimizing photos for the web
+* Adam Jensen - What's up with JS scopes?
+* George Hudson - Contributing to Open Source (as a Turing student)
+* Jill Donohue - The Science Behind Gratitude
+* Robbie Lane - Optimizing photos for the web
 
 ## 1507
 
