@@ -21,10 +21,12 @@ talk to you about your intermission week work.
 * 1508 - Classroom B. Find intermission week prep work [here](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-3.markdown).
 * 1510 - Classroom A. Find intermission week prep work [here](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-2.markdown).
 
-### Lightning Talks (10:00 - 11:00)
+### Lightning Talks (10:00 - 10:30)
 
-Gather ye all in the Big Workspace.
-
+Adam Jensen - What's up with JS scopes?
+George Hudson - Contributing to Open Source (as a Turing student)
+Jill Donohue - The Science Behind Gratitude
+Robbie Lane - Optimizing photos for the web
 
 ## 1507
 
@@ -35,7 +37,7 @@ Join Marissa in Classroom A as you begin The Hunt.
 
 ## 1508
 
-### Portfolio Review (11:00 - 12:00 & 1:15 - ?)
+### Portfolio Review (10:30 - 12:00 & 1:15 - ?)
 
 While you're not in portfolio review, work on [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html) with your cross-cohort pair listed at the bottom of today's outline.
 
@@ -62,7 +64,7 @@ While you're not in portfolio review, work on [Webguesser](http://tutorials.jump
 
 ## 1510
 
-### Portfolio Review (11:00 - 12:00 & 1:15 - ?)
+### Portfolio Review (10:30 - 12:00 & 1:15 - ?)
 
 While you're not in portfolio review, work on [Webguesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html) with your cross-cohort pair listed at the bottom of today's outline.
 
