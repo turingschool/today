@@ -74,7 +74,7 @@ Classroom C.
 Gather in Classroom A to meet the staff. If you don't know where Classroom A is,
 you should ask someone.  : )
 
-### Bulding Turing (9:00 - 10:30)
+### Building Turing (9:00 - 10:30)
 
 It's a Turing Tradition to spend the first part of the morning the first day
 of the module working on our space.
@@ -94,4 +94,7 @@ You've heard the staff intros, now it's our turn to hear about you.
 
 We'll have lunch and chat in Classroom A.
 
+### Team Building Improv (1:00 - 3:00)
 
+What builds a team? Improv. I wasn't sure what to put here, so I just made that up on the spot.
+Know what we call that? Improv. You, too, can hone these skills. Where? At Improv.
