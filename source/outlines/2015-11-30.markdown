@@ -118,7 +118,9 @@ You've heard the staff intros, now it's our turn to hear about you.
 
 We'll have lunch and chat in Classroom A.
 
-### Team Building Improv (1:00 - 3:00)
+### All: Success At Turing (1:00 - 2:30)
 
-What builds a team? Improv. I wasn't sure what to put here, so I just made that up on the spot.
-Know what we call that? Improv. You, too, can hone these skills. Where? At Improv. In the Big Workspace.
+### Echo: Getting Started with Exercism (2:30 - 4:00)
+
+### Foxtrot: Strings and Integers (2:30 - 4:00)
+
