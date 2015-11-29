@@ -40,7 +40,7 @@ Gather in the Big Workspace
 
 ### Module 4 Kickoff (11:00 - 12:00)
 
-Gather up in Classroom B.
+Gather up in Classroom A.
 
 ### Ideabox 2.0 Kickoff (1:00 - 2:00)
 
@@ -55,7 +55,7 @@ Gather in the Big Workspace
 
 ### The Pivot Kickoff (10:30 - 12:00)
 
-Classroom C.
+Classroom B.
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -64,7 +64,15 @@ Classroom C.
 
 ### Module 2 Kickoff (10:30 - 11:00)
 
+Let's get things [started](https://www.youtube.com/watch?v=IKqV7DB8Iwg) in Classroom C.
+
+### Introduction to Sinatra (11:00 - 12:00)
+
+Stay in Classroom C.
+
 ### Introduction to Materialize (1:00 - 4:00)
+
+Learn how to customize by making use of Materialize. Classroom C.
 
 
 ## 1511
