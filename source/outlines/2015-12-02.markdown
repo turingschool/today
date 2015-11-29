@@ -1,0 +1,66 @@
+---
+title: 20151202
+layout: outline
+---
+
+In 1851, Louis-Napoleon Bonaparte overthrows the Second Republic.
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Brooks Posse (MB, Matt Rooney, David S., Beth Sebian, Hector, Deborah, Allan)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1507
+
+### Exercise: Countdown (9:00 - 10:00)
+
+### Functions in JavaScript; (10:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1508
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1510
+
+### Crud Homework Review (9:00 - 9:30)
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+### Nokogiri (1:00 - 1:30)
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
+
+
+## 1511
+
+### All: Problems, Solutions and Algorithms (9:00 - 10:30)
+
+### All: Exploring .each & Exercises (10:30 - 12:00)
+
+### Echo: How Testing Works (1:00 - 2:30)
+
+### Echo: Intro to TDD Tutorial (2:30 - 3:30)
+
+### Echo: Sorting Suite Kickoff (3:30 - 4:00)
+
+### Foxtrot: Kickoff Core Types Exercises (1:00 - 1:30)
+
+### Foxtrot: Core Types Exercies (1:30 - 3:30)
+
+### Foxtrot: Project Kickoff (3:30 - 4:00)

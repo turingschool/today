@@ -1,0 +1,65 @@
+---
+title: 20151201
+layout: outline
+---
+
+Today, in 1941, Fiorello La Guardia creates the Civil Air Patrol.
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Berners-Lee Posse (Stanley, Jhun, Matt, Justin P., Brenna, Lenny, David W., Ali, Nate)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### Array Prototype Methods (9:00 - 12:00)
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+
+## 1507
+
+### Understanding Multi-Tenancy (9:00 - 11:00)
+
+### Sending Data Efficiently (11:00 - 12:00)
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+
+## 1508
+
+### HTML/CSS Homework Review (9:00 - 9:30)
+
+### How the Web Works (9:30 - 11:00)
+
+### What is Rack? (11:00 - 12:00)
+
+[What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+### Crud in Sinatra Workshop (1:00 - 4:00)
+
+
+## 1510
+
+### Echo: Working with Strings and Integers Recap (9:00 - 9:30)
+
+### Echo: String and Integer Riddles (9:30 - 10:30)
+
+### Foxtrot: Strings and Integers Recap (9:00 - 9:30)
+
+### Foxtrot: Flow Control (9:30 - 10:30)
+
+### All: Introducing Arrays (10:30 - 12:00)
+
+### All: Team Building: Improv (1:00 - 3:00)
+
