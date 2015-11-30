@@ -144,6 +144,8 @@ Stay in Classroom A where you'll dive into a series of challenges with Josh Chee
 * [99 Bottles](https://github.com/turingschool/challenges/blob/master/99_bottles.markdown)
 * [Flatten without Flatten](https://github.com/turingschool/challenges/blob/master/flatten.markdown)
 
+They can be solved using just the examples from [this cheatsheet](https://gist.github.com/JoshCheek/eda1d51b52b41ea3f544).
+
 ### Foxtrot: Strings and Integers (2:30 - 4:00)
 
 Join Horace in Classroom B to talk about some fundamental Ruby data types.
