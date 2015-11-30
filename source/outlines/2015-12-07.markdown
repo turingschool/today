@@ -1,0 +1,27 @@
+
+## 1511
+
+### Foxtrot: How Linked Lists Work (9:00 - 10:30)
+
+Join Horace in **Classroom A** to talk about a
+fascinating Data Structure called a Linked List
+
+[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
+
+### Echo: Sorting Suite Demos & Review (9:00 - 10:30)
+
+### Foxtrot: How Testing Works (10:30 - 12:00)
+
+Join Josh Cheek in **Classroom A** to talk about how to
+write and use automated software tests.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+
+### Echo: File I/O (10:30 - 12:00)
+
+### All: Spiraling Design and Tests (1:00 - 3:00)
+
+Join Jeff in **Classroom A** to talk about using iterative
+processes to guide our development of software.
+
+### All: Project Kickoffs and Work Time

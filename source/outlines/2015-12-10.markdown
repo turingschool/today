@@ -1,0 +1,15 @@
+## 1511
+
+### All: Project Evals and Weekly Diagnostics (9:00 - 12:00)
+
+### Echo: How BSTs Work
+
+### Foxtrot: Understanding Enigma
+
+Join Jeff in Classroom A to break down the Enigma Project
+
+[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+
+### All: Work Time (2:30 - 4:00)
+
+Work on your projects.
