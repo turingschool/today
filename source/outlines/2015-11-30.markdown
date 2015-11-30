@@ -118,6 +118,9 @@ Wer're now going to show you your new home for the next seven months.
 Join us in the Big Workspace to walk through setting up a basic development
 environment on your computer.
 
+We'll be focusing on setting up the tools covered
+in [this document](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown).
+
 ### Student Introduction Lunch (12:00 - 1:00)
 
 You've heard the staff intros, now it's our turn to hear about you.
@@ -129,4 +132,8 @@ We'll have lunch and chat in Classroom A.
 ### Echo: Getting Started with Exercism (2:30 - 4:00)
 
 ### Foxtrot: Strings and Integers (2:30 - 4:00)
+
+Join Horace in Classroom B to talk about some fundamental Ruby data types.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown)
 
