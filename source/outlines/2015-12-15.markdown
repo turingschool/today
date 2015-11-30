@@ -1,0 +1,17 @@
+## 1511
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Join Horace in **Classroom A** to talk about
+some common strategies for testing code
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+
+### All: Character Count (10:30 - 12:00)
+
+Join Josh Cheek in **Classroom A** to work on
+an exercise for counting characters in ruby strings.
+
+[Exercise](https://github.com/turingschool/challenges/blob/master/character_count.markdown)
+
+### All: Work Time (1:00 - 4:00)

@@ -1,0 +1,17 @@
+## 1511
+
+### All: Understanding Call Stacks and Return Values (9:00 - 10:30)
+
+Join Horace in **Classroom A** to talk about how Ruby internally
+manages execution in your programs.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
+
+### All: Protocols for Pairing (10:30 - 12:00)
+
+Join Jeff in **Classroom A** to talk about some common
+pairing approaches.
+
+### All: Work Time (1:00 - 4:00)
+
+
