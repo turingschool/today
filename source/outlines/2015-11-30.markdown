@@ -101,17 +101,15 @@ Learn how to customize by making use of Materialize. Classroom C.
 
 ### Staff Introductions (8:30 - 9:00)
 
-Gather in Classroom A to meet the staff. If you don't know where Classroom A is,
-you should ask someone.  : )
+Gather in Classroom A to meet the staff. If you don't know where Classroom A is, you should ask someone.  : )
 
 ### Building Turing (9:00 - 10:30)
 
-It's a Turing Tradition to spend the first part of the morning the first day
-of the module working on our space.
+It's a Turing Tradition to spend the first part of the morning the first day of the module working on our space. You'll be based out of Classroom A.
 
 ### Tour and Getting Started (10:30 - 11:00)
 
-Wer're now going to show you your new home for the next seven months.
+We're now going to show you your new home for the next seven months.
 
 ### Computer Setup (11:00 - 12:00)
 
@@ -129,7 +127,16 @@ We'll have lunch and chat in Classroom A.
 
 ### All: Success At Turing (1:00 - 2:30)
 
-### Echo: Getting Started with Exercism (2:30 - 4:00)
+Meet in Classroom A where we'll talk about the educational theories and general strategy of how Turing is setup, then help you turn that into a plan for success.
+
+### Split Sessions (2:30 - 4:00)
+
+#### Echo: First Challenges (2:30 - 4:00)
+
+Stay in Classroom A where you'll dive into a series of challenges with Josh Cheek:
+
+* [99 Bottles](https://github.com/turingschool/challenges/blob/master/99_bottles.markdown)
+* [Flatten without Flatten](https://github.com/turingschool/challenges/blob/master/flatten.markdown)
 
 ### Foxtrot: Strings and Integers (2:30 - 4:00)
 
@@ -137,3 +144,7 @@ Join Horace in Classroom B to talk about some fundamental Ruby data types.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown)
 
+### Homework
+
+* Foxtrot: Complete [these String/Integer exercises for tomorrow](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
+* Echo: Complete [this SuperFizz exercise for tomorrow](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
