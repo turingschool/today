@@ -50,15 +50,28 @@ Schedule TBA
 
 ### All: Essential Enumerables (9:00 - 10:30)
 
+Join Jeff in Classroom A to talk about some essential
+method's from Ruby's large Enumerable toolbox.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown)
+
 ### Echo: Group Q & A (10:30 - 12:00)
+
+Convene in Classroom A to answer some questions about the material from this first week.
 
 ### Foxtrot: Group Q & A (10:30 - 12:00)
 
 ### All: Introducing Hashes (1:00 - 2:30)
 
+Join Jeff in Classroom A to introduce another essential
+collection data structure, Ruby's Hash.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
+
 ### All: Week 1 Diagnostic (2:30 - 3:30)
+
+Convene in Classroom A to work through our week 1 diagnostic quiz.
 
 ### All: Week 1 Diagnostic Review (3:30 - 4:00)
 
-
-
+Regroup in Classroom A to briefly review the Diagnostic.

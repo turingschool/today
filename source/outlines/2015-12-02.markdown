@@ -51,11 +51,31 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### All: Problems, Solutions and Algorithms (9:00 - 10:30)
 
+Join Jeff in Classroom A to talk about problem solving and
+algorithm design.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown)
+
 ### All: Exploring .each & Exercises (10:30 - 12:00)
+
+Join Horace in Classroom A to talk about Ruby's
+fundamental enumerator method, `each`.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
 ### Echo: How Testing Works (1:00 - 2:30)
 
+Join Josh Cheek in Classroom A to introduce the concepts
+of Software Testing.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+
 ### Echo: Intro to TDD Tutorial (2:30 - 3:30)
+
+Stick with Josh in Classroom A to talk about using tests
+to drive our development process.
+
+[Lesson Plan (continued)](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
 ### Echo: Sorting Suite Kickoff (3:30 - 4:00)
 

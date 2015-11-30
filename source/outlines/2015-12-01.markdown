@@ -59,7 +59,16 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Foxtrot: Flow Control (9:30 - 10:30)
 
+Join Jeff in Classroom A to talk about Flow Control in programs.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
+
 ### All: Introducing Arrays (10:30 - 12:00)
+
+Join Jeff in Classroom A to introduce Ruby's first collection data
+structure -- the Array.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
 ### All: Team Building: Improv (1:00 - 3:00)
 
