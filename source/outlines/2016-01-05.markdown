@@ -1,0 +1,17 @@
+## 1511
+
+### All: Fundamental Refactorings (9:00 - 11:00)
+
+Join Horace in **Classroom A** to talk about some common
+patterns for refactoring code.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown)
+
+### All: Paired Refactorings (11:00 - 12:00)
+
+Join Josh Cheek in **Classroom A** to work on some directed
+paired refactoring.
+
+### All: Project Strategy / Q&A (1:00 - 2:00)
+
+Join Jeff in **Classroom A** to discuss the current project.

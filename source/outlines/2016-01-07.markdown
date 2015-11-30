@@ -1,0 +1,15 @@
+## 1511
+
+### All: Project Evals and Weekly Diagnostic (9:00 - 12:00)
+
+### All: Peer Refactoring (1:00 - 2:30)
+
+Join Jeff in **Classroom A** to work on refactoring our latest project
+with a friend.
+
+### All: Regular Expressions for Fun and Profit (2:30 - 4:00)
+
+Join Josh Cheek in **Classroom A** to talk about regular
+expressions.
+
+[Relevant](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
