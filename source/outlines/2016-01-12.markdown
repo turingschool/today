@@ -1,0 +1,15 @@
+## 1511
+
+### Performance of Code (9:00 - 10:30)
+
+Join Jeff in Classroom A to talk about measuring and improving
+the speed of our code.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/performance_of_code.markdown)
+
+### Live Pairing (10:30 - 12:00)
+
+The Horace and Josh roadshow comes to town -- convene in
+Classroom A for some live pairing demos.
+
+### Work Time (1:00 - 4:00)
