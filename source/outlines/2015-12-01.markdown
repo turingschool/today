@@ -101,11 +101,11 @@ Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom C
 
 ### Echo: SuperFizz Recap (9:00 - 9:30)
 
-Join Horace in the Workspace to go over some SuperFizz results.
+Join Horace at the Mega Table in the back of Classroom A to go over some SuperFizz results.
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
 
-Join Horace in the Big Workspace to work on some string and integer puzzles.
+Join Horace at the Mega Table at the back of Classroom A to work on some string and integer puzzles.
 
 We'll be splitting up and working on [these challenges](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
