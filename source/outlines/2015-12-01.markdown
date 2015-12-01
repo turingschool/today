@@ -136,7 +136,7 @@ Join Mike in Classroom C.
 
 ### Crud in Sinatra Workshop (1:00 - 4:00)
 
-Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
 
 ## 1511
 
@@ -170,3 +170,5 @@ structure -- the Array.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
 ### All: Team Building: Improv (1:00 - 3:00)
+
+Be in the Big Workspace.
