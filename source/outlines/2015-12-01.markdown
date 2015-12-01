@@ -22,25 +22,51 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
-### Array Prototype Methods (9:00 - 12:00)
+### Public Service Announcements (9:00 - 9:30)
 
 Meet with Steve in the Big Workspace.
+
+### Array Prototype Methods (9:30 - 12:00)
+
+Meet with Steve in the Big Workspace.
+
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
 #### With Meeka
 
-- Dave Maurer
+- 1:00 - 1:20: Dave Maurer
+- 1:20 - 1:40: Travis Haby
+- 1:45 - 2:05: Erik Butcher
+- 2:05 - 2:25: Mimi Schatz
+- 2:30 - 2:50: Mary Beth Burch
+- 2:50 - 3:10: Russell Harms
+- 3:15 - 3:35: Matt Ewell
 
 #### With Steve
 
-- Ryan Asensio
-- Tyler Graham
+- 1:45 - 2:05: Ryan Asensio
+- 2:05 - 2:25: Tyler Graham
+- 2:30 - 2:50: George Hudson
+- 2:50 - 3:10: Justin Holzmann
+- 3:15 - 3:35: Matt Hecker
+- 3:40 - 4:00: Chris Cenatiempo
 
 #### Lovisa
 
-- Rick Bacci
-- Alon Waisman
+- 1:00 - 1:20: Rick Bacci
+- 1:20 - 1:40: Alon Waisman
+- 1:45 - 2:05: Bret Doucette
+- 2:05 - 2:25: Regis Boudinot
+- 2:30 - 2:50: Jack Yeh
+- 2:50 - 3:10: Rose Kohn
+- 3:15 - 3:35: Jeff Ruane
+- 3:40 - 4:00: Michael Merrill
 
 ## 1508
 
