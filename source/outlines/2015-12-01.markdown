@@ -31,7 +31,7 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Understanding Multi-Tenancy (9:00 - 11:00)
 
-Join Andrew in Classroom B to talk about one of the core concept of The Pivot... Multi-Tenancy. We'll be using [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy-understanding.md)
+Join Andrew in Classroom B to talk about one of the core concept of The Pivot... Multi-Tenancy. We'll be using [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
 
 ### Sending Data Efficiently (11:00 - 12:00)
 
