@@ -31,9 +31,30 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Understanding Multi-Tenancy (9:00 - 11:00)
 
+Join Andrew in Classroom B to talk about one of the core concept of The Pivot... Multi-Tenancy. We'll be using [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy-understanding.md)
+
 ### Sending Data Efficiently (11:00 - 12:00)
 
 ### Check Ins and Project Work Time (1:00 - 4:00)
+
+#### Product Check-Ins:
+
+#### With Tess:
+
+* Matt Stjernholm & Nicole Hall & Michael Wong & Shannon Paige - http://github.com/toriejw/global-pursuit (1:00-1:30)
+* Jill Donohue & Ross Edfort & Jerrod Paul Junker - https://github.com/marlomajor/colorideo (1:30-2:00)
+* Robbie Lane & Aaron Careaga & Jhun de Andres & Adam Jensen - http://github.com/toriejw/global-pursuit (2:30)
+
+#### With Andrew:
+
+* Ryan Johnson & Amber Crawford & Tyler Komoroske - http://github.com/robbielane/lens_lease (1:00-1:30)
+* Pat Wey & Matt Rooney & Sekhar Paladugu - http://github.com/jasonpilz/sticker_shop (1:30-2:00)
+* Marlo Major & Torie Warren & David Stinnette & Edgar Duran - http://github.com/MattRooney/GnarPow (2:00 - 2:30)
+* Justin Pease & Emily Dowdle & Jason Pilz & John Slota - http://github.com/amcrawford/slota-shop (2:30-3:00)
+
+#### Technical Check-Ins with Josh:
+
+TBD
 
 
 ## 1510
@@ -71,4 +92,3 @@ structure -- the Array.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
 ### All: Team Building: Improv (1:00 - 3:00)
-
