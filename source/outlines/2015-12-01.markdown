@@ -158,6 +158,8 @@ Join Jeff in Classroom A to recap your homework from last night.
 
 Join Jeff in Classroom A to talk about Flow Control in programs.
 
+- [JSBin](http://jsbin.com/ropoxo/2/edit?js,output)
+
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
 
 ### All: Introducing Arrays (10:30 - 12:00)
