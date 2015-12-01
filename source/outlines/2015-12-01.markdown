@@ -111,6 +111,8 @@ We'll be splitting up and working on [these challenges](https://github.com/turin
 
 ### Foxtrot: Strings and Integers Recap (9:00 - 9:30)
 
+Join Jeff in Classroom A to recap your homework from last night.
+
 ### Foxtrot: Flow Control (9:30 - 10:30)
 
 Join Jeff in Classroom A to talk about Flow Control in programs.
