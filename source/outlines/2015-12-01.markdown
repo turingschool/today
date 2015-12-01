@@ -38,6 +38,21 @@ Meet with Steve in the Big Workspace.
 [apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
 [cfu]: https://gist.github.com/stevekinney/98fb8a6e62bfbd959fb2
 
+You'll be working in the following pairs:
+
+* Bret Doucette & Mimi Schatz
+* Travis Haby & Rick Bacci
+* Tyler Graham & Samson Brock
+* Rose Kohn & Regis Boudinot
+* Justin Holzmann & Erik Butcher
+* Robert Cornell & Dave Maurer
+* Stanley Siudzinski & Jack Yeh
+* Russell Harms & Matt Hecker
+* Ryan Asensio & Mary Beth Burch
+* Michael Merrill & Jeff Ruane
+* Chris Cenatiempo & Alon Waisman
+* Matt Ewell & George Hudson
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
 #### With Meeka
@@ -142,25 +157,21 @@ Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom B
 
 ## 1511
 
-### All: Mentoring & Posses (9:00 - 9:30)
-
-Start in Classroom A all together where we'll have a Skype chat with Mary about mentoring and posses.
-
-### Echo: SuperFizz Recap (9:30 - 10:00)
+### Echo: SuperFizz Recap (9:00 - 9:30)
 
 Join Horace at the Mega Table in the back of Classroom A to go over some SuperFizz results.
 
-### Echo: String and Integer Riddles (10:00 - 11:00)
+### Echo: String and Integer Riddles (9:30 - 10:30)
 
 Join Horace at the Mega Table at the back of Classroom A to work on some string and integer puzzles.
 
 We'll be splitting up and working on [these challenges](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
-### Foxtrot: Strings and Integers Recap (9:30 - 10:00)
+### Foxtrot: Strings and Integers Recap (9:00 - 9:30)
 
 Join Jeff in Classroom A to recap your homework from last night.
 
-### Foxtrot: Flow Control (10:00 - 11:00)
+### Foxtrot: Flow Control (9:30 - 10:30)
 
 Join Jeff in Classroom A to talk about Flow Control in programs.
 
@@ -168,7 +179,7 @@ Join Jeff in Classroom A to talk about Flow Control in programs.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
 
-### All: Introducing Arrays (11:00 - 12:00)
+### All: Introducing Arrays (10:30 - 12:00)
 
 Join Jeff in Classroom A to introduce Ruby's first collection data
 structure -- the Array.
@@ -177,4 +188,4 @@ structure -- the Array.
 
 ### All: Team Building: Improv (1:00 - 3:00)
 
-You'll be in the workspace this afternoon for some improv!
+Be in the Big Workspace.
