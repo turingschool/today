@@ -157,21 +157,25 @@ Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom B
 
 ## 1511
 
-### Echo: SuperFizz Recap (9:00 - 9:30)
+### All: Mentoring & Posses (9:00 - 9:30)
+
+Start in Classroom A all together where we'll have a Skype chat with Mary about mentoring and posses.
+
+### Echo: SuperFizz Recap (9:30 - 10:00)
 
 Join Horace at the Mega Table in the back of Classroom A to go over some SuperFizz results.
 
-### Echo: String and Integer Riddles (9:30 - 10:30)
+### Echo: String and Integer Riddles (10:00 - 11:00)
 
 Join Horace at the Mega Table at the back of Classroom A to work on some string and integer puzzles.
 
 We'll be splitting up and working on [these challenges](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
-### Foxtrot: Strings and Integers Recap (9:00 - 9:30)
+### Foxtrot: Strings and Integers Recap (9:30 - 10:00)
 
 Join Jeff in Classroom A to recap your homework from last night.
 
-### Foxtrot: Flow Control (9:30 - 10:30)
+### Foxtrot: Flow Control (10:00 - 11:00)
 
 Join Jeff in Classroom A to talk about Flow Control in programs.
 
@@ -179,7 +183,7 @@ Join Jeff in Classroom A to talk about Flow Control in programs.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
 
-### All: Introducing Arrays (10:30 - 12:00)
+### All: Introducing Arrays (11:00 - 12:00)
 
 Join Jeff in Classroom A to introduce Ruby's first collection data
 structure -- the Array.
