@@ -35,6 +35,10 @@ Join Andrew in Classroom B to talk about one of the core concept of The Pivot...
 
 ### Seeding Data Efficiently (11:00 - 12:00)
 
+You're probably doing it wrong. Join Josh in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
 ### Check Ins and Project Work Time (1:00 - 4:00)
 
 #### Product Check-Ins:
@@ -54,8 +58,13 @@ Join Andrew in Classroom B to talk about one of the core concept of The Pivot...
 
 #### Technical Check-Ins with Josh:
 
-TBD
-
+* Justin Pease & Emily Dowdle & Jason Pilz & John Slota
+* Robbie Lane & Aaron Careaga & Jhun de Andres & Adam Jensen
+* Ryan Johnson & Amber Crawford & Tyler Komoroske
+* Matt Stjernholm & Nicole Hall & Michael Wong & Shannon Paige
+* Marlo Major & Torie Warren & David Stinnette & Edgar Duran
+* Jill Donohue & Ross Edfort & Jerrod Paul Junker
+* Pat Wey & Matt Rooney & Sekhar Paladugu
 
 ## 1510
 
