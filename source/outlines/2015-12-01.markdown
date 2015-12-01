@@ -61,14 +61,32 @@ TBD
 
 ### HTML/CSS Homework Review (9:00 - 9:30)
 
-### How the Web Works (9:30 - 11:00)
+Join Mike in Classroom C. Spend the first 15 minutes doing a TaskManager styling show-and-tell in the following pairs. Start a [gist](http://gist.github.com/) and jot down the following:
 
-### What is Rack? (11:00 - 12:00)
+1. One thing I learned looking at my partner's css/Bootstrap/styling was...
+2. One thing I suggested to my partner was...
+3. The thing I liked best about my partner's css/Bootstrap/styling was...
 
-[What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+* Brant Wellman & James Crockett
+* Steven Olson & Jordan Lawler
+* Brenna Martenson & Toni Rib
+* Beth Secor & Aaron Greenspan
+* Taylor Moore & Greg Armstrong
+* Penney Garrett & Hector Huertas Baeza
+* Lenny Myerson & Dan Winter
+* Beth Sebian & Steve Pentler & Joseph Perry
+
+### How the Web Works (9:30 - 11:30)
+
+Join Mike in Classroom C. 
+
+### What is Rack? (11:30 - 12:00)
+
+[What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I). Join Rachel in Classroom C. Find the goals and slide link [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/what_is_rack.markdown). 
 
 ### Crud in Sinatra Workshop (1:00 - 4:00)
 
+Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown). 
 
 ## 1511
 
