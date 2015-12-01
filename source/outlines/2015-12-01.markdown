@@ -99,9 +99,15 @@ Let's add full CRUD functionality to our TaskManager. Join Rachel in Classroom C
 
 ## 1511
 
-### Echo: Working with Strings and Integers Recap (9:00 - 9:30)
+### Echo: SuperFizz Recap (9:00 - 9:30)
+
+Join Horace in the Workspace to go over some SuperFizz results.
 
 ### Echo: String and Integer Riddles (9:30 - 10:30)
+
+Join Horace in the Big Workspace to work on some string and integer puzzles.
+
+We'll be splitting up and working on [these challenges](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
 
 ### Foxtrot: Strings and Integers Recap (9:00 - 9:30)
 
