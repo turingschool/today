@@ -37,18 +37,30 @@ Meet with Steve in Classroom B.
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
+Big Workspace wooo!
+
 ### Project Work Time (1:00 - 4:00)
+
+Push forward on your projects.
 
 
 ## 1510
 
 ### Crud Homework Review (9:00 - 9:30)
 
+Meet in Classroom C.
+
 ### Model Testing in Sinatra (9:30 - 12:00)
+
+Stay in Classroom C.
 
 ### Nokogiri (1:00 - 1:30)
 
+Classroom Cee is where you will bee.
+
 ### Acceptance Testing with Capybara (1:30 - 4:00)
+
+Learn how to test all of the things.
 
 
 ## 1511
@@ -69,22 +81,30 @@ fundamental enumerator method, `each`.
 
 ### Echo: How Testing Works (1:00 - 2:30)
 
-Join Josh Cheek in Classroom A to introduce the concepts
+Join Josh Cheek in at the Staff Mega Table to introduce the concepts
 of Software Testing.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
 ### Echo: Intro to TDD Tutorial (2:30 - 3:30)
 
-Stick with Josh in Classroom A to talk about using tests
+Stick with Josh at the Staff Mega Table to talk about using tests
 to drive our development process.
 
 [Lesson Plan (continued)](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
 ### Echo: Sorting Suite Kickoff (3:30 - 4:00)
 
+Staff Mega Table
+
 ### Foxtrot: Kickoff Core Types Exercises (1:00 - 1:30)
+
+Classroom A.
 
 ### Foxtrot: Core Types Exercies (1:30 - 3:30)
 
+Classroom A.
+
 ### Foxtrot: Project Kickoff (3:30 - 4:00)
+
+Classroom A.
