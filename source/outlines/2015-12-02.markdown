@@ -111,7 +111,7 @@ of Software Testing.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-[Waypoints](https://vimeo.com/147628364)
+[Waypoints](https://github.com/turingschool/waypoints#how-testing-works)
 
 #### Intro to TDD Tutorial (2:30 - 3:30)
 
