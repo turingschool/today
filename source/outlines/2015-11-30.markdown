@@ -39,7 +39,7 @@ make sure that'll stay in the 12:00 - 1:15pm window.
 * Allan Blair, Michael Merrill, John Slota, David Stinnette
 * Nate Venn, Marlo Major, Jack Yeh, Robbie Lane, Chris Cenatiempo
 * Russell Harms, Alexis Navarrete, Nicole Hall, Stanley Siudzinski
-* Matt Rooney, Matt DesMarteau, Erik Butcher, Marina Corona
+* Matt Rooney, Matt DesMarteau, Erik Butcher, Marina Corona, Hedy Woo
 
 
 ## 1507
