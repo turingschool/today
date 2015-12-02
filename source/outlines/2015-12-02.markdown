@@ -128,7 +128,8 @@ Stay in A where Jeff will help you get started with Nightwriter.
 
 #### Just Enough Testing (1:00 - 1:30)
 
-Horace will explain a little more about how testing works and just what you need to know to complete your homework.
+Join Horace in Classroom B to cover just enough about how testing works
+to complete your homework.
 
 #### Mythical Creatures & Ruby Exercises Kickoff (1:30 - 2:00)
 
