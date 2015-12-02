@@ -23,14 +23,32 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
+### IdeaBox Peer Reviews (9:00 - 10:00)
+
+Classroom B.
+
+### Ideabox Tutorial (10:00 - 12:00)
+
+Classroom B.
+
+### IdeaBox Code Review (9:00 - 12:00)
+
+Classroom B.
+
 ### Idea Box Recap: Closures and Events (1:00 - 2:30)
 
+Classroom B.
+
 ### Debugging JavaScript; (2:30 - 4:00)
+
+Classroom B.
 
 
 ## 1508
 
 ### Project Work Time (9:00 - 12:00)
+
+ZUG ZUG
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
@@ -41,9 +59,34 @@ Schedule TBA
 
 ### SQL (9:00 - 10:00)
 
+Start down the path of learning all about databases with Mike in Classroom C.
+
+There will be some group activities where you will work in the following pairs:
+
+* Dan Winter & James Crockett
+* Greg Armstrong & Steven Olson
+* Brenna Martenson & Lenny Myerson
+* Penney Garrett & Brant Wellman
+* Beth Secor & Jordan Lawler
+* Beth Sebian & Hector Huertas Baeza
+* Taylor Moore & Joseph Perry
+* Toni Rib & Steve Pentler
+* Aaron Greenspan
+
 ### Intro to Sequel (10:00 - 12:00)
 
+Classroom C.
+
+You just learned about SQL, now you learn about Sequel.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+
+
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+Classroom C.
+
+You're now going to work on your Task Manager and get it using Sequel.
 
 
 ## 1511
