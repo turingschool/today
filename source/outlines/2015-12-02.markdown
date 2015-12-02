@@ -48,12 +48,18 @@ Join Josh in Classroom C
 
 ### Crud Homework Review (9:00 - 9:30)
 
+Join Rachel in the Big Workspace. 
+
 ### Model Testing in Sinatra (9:30 - 12:00)
 
+We've gone two whole days without testing. Let's add some model tests. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 ### Nokogiri (1:00 - 1:30)
 
-### Acceptance Testing with Capybara (1:30 - 4:00)
+A [Nokogiri](https://www.google.com/search?q=nokogiri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwialLDNtb3JAhVBHGMKHSg5CHYQ_AUICCgC&biw=1600&bih=864&dpr=0.9) is a Japanese sword. Come learn some sweet moves in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
+### Feature Testing with Capybara (1:30 - 4:00)
+
+[Capybaras](http://www.zooborns.com/.a/6a010535647bf3970b01a3fd3d706c970b-800wi) are rodents that live in South America. Come learn about them in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown). 
 
 ## 1511
 
