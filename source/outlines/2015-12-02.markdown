@@ -48,18 +48,18 @@ Join Josh in Classroom C
 
 ### Crud Homework Review (9:00 - 9:30)
 
-Join Rachel in the Big Workspace. 
+Join Rachel in the Big Workspace.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-We've gone two whole days without testing. Let's add some model tests. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
+We've gone two whole days without testing. Let's add some model tests. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown).
 ### Nokogiri (1:00 - 1:30)
 
-A [Nokogiri](https://www.google.com/search?q=nokogiri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwialLDNtb3JAhVBHGMKHSg5CHYQ_AUICCgC&biw=1600&bih=864&dpr=0.9) is a Japanese sword. Come learn some sweet moves in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
+A [Nokogiri](https://www.google.com/search?q=nokogiri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwialLDNtb3JAhVBHGMKHSg5CHYQ_AUICCgC&biw=1600&bih=864&dpr=0.9) is a Japanese sword. Come learn some sweet moves in Classroom C. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown).
 
 ### Feature Testing with Capybara (1:30 - 4:00)
 
-[Capybaras](http://www.zooborns.com/.a/6a010535647bf3970b01a3fd3d706c970b-800wi) are rodents that live in South America. Come learn about them in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown). 
+[Capybaras](http://www.zooborns.com/.a/6a010535647bf3970b01a3fd3d706c970b-800wi) are rodents that live in South America. Come learn about them in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown).
 
 ## 1511
 
@@ -77,24 +77,36 @@ fundamental enumerator method, `each`.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/primer_on_each.markdown)
 
-### Echo: How Testing Works (1:00 - 2:30)
+### Echo
+
+#### How Testing Works (1:00 - 2:30)
 
 Join Josh Cheek in Classroom A to introduce the concepts
 of Software Testing.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-### Echo: Intro to TDD Tutorial (2:30 - 3:30)
+#### Intro to TDD Tutorial (2:30 - 3:30)
 
 Stick with Josh in Classroom A to talk about using tests
 to drive our development process.
 
 [Lesson Plan (continued)](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-### Echo: Sorting Suite Kickoff (3:30 - 4:00)
+#### Nightwriter Kickoff (3:30 - 4:00)
 
-### Foxtrot: Kickoff Core Types Exercises (1:00 - 1:30)
+Stay in A where Jeff will help you get started with Nightwriter.
 
-### Foxtrot: Core Types Exercies (1:30 - 3:30)
+### Foxtrot
 
-### Foxtrot: Project Kickoff (3:30 - 4:00)
+#### Just Enough Testing (1:00 - 1:30)
+
+Horace will explain a little more about how testing works and just what you need to know to complete your homework.
+
+#### Mythical Creatures & Ruby Exercises Kickoff (1:30 - 2:00)
+
+Then you'll take a look at the specific exercises and how to approach them.
+
+#### Work Time (2:00 - 4:00)
+
+And finally you'll have some time to get started.
