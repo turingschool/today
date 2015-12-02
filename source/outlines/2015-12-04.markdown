@@ -1,6 +1,126 @@
-## 1511
+---
+title: 20151204
+layout: outline
+---
 
-### All: Objects, Classes, and Methods (9:00 - 11:00)
+Today, in 1954, the first [Burger King](https://www.bk.com/careers/opportunities/handle?param=eyJ0aXRsZSI6IklUIiwicGFyYW0iOiJodHRwczpcL1wvd2ZhLmtyb25vc3RtLmNvbVwvaW5kZXguanNwP2xvY2FsZT1lbl9VUyZBUFBMSUNBVElPTk5BTUU9QnVyZ2VyS2luZ0NvcnBvcmF0aW9uS1RNRFJlcUV4dCZzZXE9am9iQmlkIn0=) opens.
+
+## All
+
+### Posse Clean-Up Duty
+
+Lovelace Posse (George, Mimi, Aaron, Emily D., Jordan, Sunny, Chelsea)
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+No Survey, No Breakfast.
+
+* [1505]()
+* [1507]()
+* [1508]()
+* [1510]()
+
+### Instructional Time (9:00 - 10:30)
+
+#### 1507 - Introduction to Object Oriented JavaScript;
+
+Classroom B.
+
+#### 1508
+
+Big Workspace
+
+#### 1510 - Debugging Sinatra Errors
+
+Classroom C.
+
+#### 1511 - Objects, Classes, and Methods
 
 Join Josh Cheek in **Classroom A** to talk about working
 with Objects in Ruby.
+
+### Gear Up (10:30 - 11:15)
+
+Meet Up for Gear Up.  (Big Workspace)
+
+These will be your groups:
+
+* Mary Beth Burch & Charles Ellison & Admir Draganovic & Justin Holzmann
+* Brian Rippeto & Jack Yeh & Dave Maurer & Edgar Duran
+* Joseph Perry & Ross Edfort & Shannon Paige & Adam Hundley
+* David Whitaker & Adam Jensen & Marlo Major & Rick Bacci
+* Brennan Holtzclaw & Steve Pentler & Sekhar Paladugu & Emily Dowdle
+* Brenna Martenson & Matt Ewell & Erik Butcher & Matt Packer
+* John Slota & Lenny Myerson & Chelsea Johnson & Matt Hecker
+* Deborah Hamel & Nick Weiland & Heidi Hoopes & Mimi Schatz
+* George Hudson & Alireza Andersen & Jerrod Paul Junker & Steven Olson
+* Gurusundesh Khalsa & Alon Waisman & Allan Blair & Jhun de Andres
+* Toni Rib & Amber Crawford & Erinna Chen & Julian Feliciano
+* Adrienne Domingus & Jeff Ruane & Robert Cornell & Torie Warren
+* Penney Garrett & Nicole Hall & Jordan Lawler & Aaron Careaga
+* Thomas Pickett & Alexis Navarrete & Michael Wong & Regis Boudinot
+* Tyler Komoroske & Jason Wright & Taylor Moore & Stanley Siudzinski
+* Matt Stjernholm & David Stinnette & Hedy Woo & Michael Merrill
+* Hector Huertas Baeza & Bret Doucette & Matt Rooney & Jill Donohue
+* Emily Blanchard & Travis Haby & Kimiko Kano & Jason Pilz
+* Ryan Asensio & July Tran & Beth Secor & James Crockett
+* Scott Firestone & Robbie Lane & Rose Kohn & Brant Wellman
+* Nate Venn & Tyler Graham & Russell Harms & Ryan Johnson
+* Marina Corona & Dan Winter & Chris Cenatiempo & Greg Armstrong
+* Matt DesMarteau & Justin Pease & Pat Wey & Nicholas Dorans
+* Matt Pindell & Aaron Greenspan & Beth Sebian
+
+### Meet Meeka (11:15 - 12:00)
+
+Stay in the Big Workspace.
+
+### Lunch Roulette (12:00 - 1:15)
+
+Groups:
+
+* Torie Warren, Julian Feliciano, Lenny Myerson, Matt Ewell
+* Dan Winter, Nicholas Dorans, Aaron Careaga, Erinna Chen
+* Matt Hecker, Scott Firestone, Aaron Greenspan, Edgar Duran
+* Steven Olson, Emily Blanchard, Emily Dowdle, Ryan Asensio
+* Greg Armstrong, Jerrod Paul Junker, Adam Hundley, Justin Holzmann
+* Shannon Paige, Dave Maurer, Brian Rippeto, Penney Garrett
+* Kimiko Kano, Beth Sebian, Ross Edfort, Rose Kohn
+* Mary Beth Burch, Beth Secor, Matt Pindell, Justin Pease
+* Joseph Perry, Nick Weiland, Ryan Johnson, George Hudson
+* Adam Jensen, Mimi Schatz, Brant Wellman, Brennan Holtzclaw
+* Heidi Hoopes, Taylor Moore, Rick Bacci, Matt Stjernholm
+* Regis Boudinot, David Whitaker, Michael Wong, Steve Pentler
+* Charles Ellison, Chad Minnerath, Tyler Graham, Tyler Komoroske
+* Jordan Lawler, Jhun de Andres, Admir Draganovic, Alon Waisman
+* Jason Pilz, Travis Haby, Gurusundesh Khalsa, Hector Huertas Baeza
+* Pat Wey, Deborah Hamel, James Crockett, Bret Doucette
+* Toni Rib, Alireza Andersen, Amber Crawford, Jeff Ruane
+* Adrienne Domingus, Sekhar Paladugu, Brenna Martenson, July Tran
+* Allan Blair, Michael Merrill, John Slota, David Stinnette
+* Nate Venn, Marlo Major, Jack Yeh, Robbie Lane, Chris Cenatiempo
+* Russell Harms, Alexis Navarrete, Nicole Hall, Stanley Siudzinski
+* Matt Rooney, Matt DesMarteau, Erik Butcher, Marina Corona, Hedy Woo
+
+### Group Retro (1:15 - 2:00)
+
+* 1507 - Classroom B with Steve, Lovisa, and Meeka
+* 1508 - Classroom Big Workspace with Jandress
+* 1510 - Classroom C with Machel
+* 1511 - Classroom A with Jeff, and Horace and Josh.
+
+### Lightning Talks (2:00 - 3:00)
+
+Meet in the workspace for some great lightning talks:
+
+
+### Electives and Student Lead Sessions (3:00 - 4:00)
+
+####  Mike - Game Programming with Unity3D - Side Mega Table in Staff Area
+
+We're going to be starting a new project, you do not have to have attended previously
+to enjoy this! Download [Unity3D](http://unity3d.com/get-unity) ahead of time. We
+will also start preparing for Ludum Dare.
+
+#### Marissa - Networking and Liking it It - Classroom A
+
+Strongly recommended for module 3 and 4 students.
