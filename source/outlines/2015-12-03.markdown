@@ -23,37 +23,88 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
-### IdeaBox Peer Reviews (9:00 - 10:00)
+### Kickoff (9:00 - 9:15)
 
-Classroom B.
+Meet with Steve and Meeka in Classroom B.
+
+### IdeaBox Peer Reviews (9:15 - 10:15)
+
+Classroom B. You'll be working in the following pairs. Please spend 30 minutes on each project doing a through code review.
+
+- Open issues on your partner's code base either asking questions about an approach or suggesting an alternative approach
+- Open pull requests to fix bugs in your partner's code base.
+
+You'll be working in the following pairs:
+
+* Chris Cenatiempo & Robert Cornell
+* Ryan Asensio & Stanley Siudzinski
+* Travis Haby & George Hudson
+* Rose Kohn & Mary Beth Burch
+* Jason Wright & Jack Yeh
+* Regis Boudinot & Matt Ewell
+* Justin Holzmann & Rick Bacci
+* Jeff Ruane & Alon Waisman
+* Erik Butcher & Matt Hecker
+* Mimi Schatz & Russell Harms
+* Dave Maurer & Michael Merrill
+* Bret Doucette & Tyler Graham
 
 ### Ideabox Tutorial (10:00 - 12:00)
 
-Classroom B.
+Classroom B. While Steve and Meeka doing code reviews, you'll work through Steve's first pass at the project. Don't try to print it out, it's about the quarter of the length of a book.
 
-### IdeaBox Code Review (9:00 - 12:00)
+- [Idea Box](https://github.com/stevekinney/idea-box)
 
-Classroom B.
+### Debugging JavaScript (1:00 - 1:30)
 
-### Idea Box Recap: Closures and Events (1:00 - 2:30)
+Meet with Meeka in Classroom B to discuss the finder points of debugging JavaScript.
 
-Classroom B.
+### Introduction to Object-Oriented JavaScript (1:30 - 3:00)
 
-### Debugging JavaScript; (2:30 - 4:00)
+Stick around in Classroom B as Steve drops in to talk about object-oriented JavaScript.
 
-Classroom B.
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 
+### Refactoring Ideabox (3:00 - 4:00)
+
+Join Steve in Classroom B to live refactor his bad code.
 
 ## 1508
 
-### Project Work Time (9:00 - 12:00)
+### Super Important Meeting (9:00 - 9:15)
 
-ZUG ZUG
+Join Josh in the Big Workspace
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+It may or may not involve rakes... OK so it won't, but I really want you all to show up.
 
-Schedule TBA
+### Project Work Time (9:15 - 12:00)
 
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+#### Product Check-Ins:
+
+#### With Tess:
+
+* Matt Stjernholm & Nicole Hall & Michael Wong & Shannon Paige - (1:00-1:30)
+* Jill Donohue & Ross Edfort & Jerrod Paul Junker - (1:30-2:00)
+* Robbie Lane & Aaron Careaga & Jhun de Andres & Adam Jensen - (2:30)
+
+#### With Andrew:
+
+* Ryan Johnson & Amber Crawford & Tyler Komoroske - (1:00-1:30)
+* Pat Wey & Matt Rooney & Sekhar Paladugu - (1:30-2:00)
+* Marlo Major & Torie Warren & David Stinnette & Edgar Duran - (2:00 - 2:30)
+* Justin Pease & Emily Dowdle & Jason Pilz & John Slota - (2:30-3:00)
+
+#### Technical Check-Ins with Josh:
+
+* Justin Pease & Emily Dowdle & Jason Pilz & John Slota
+* Robbie Lane & Aaron Careaga & Jhun de Andres & Adam Jensen
+* Ryan Johnson & Amber Crawford & Tyler Komoroske
+* Matt Stjernholm & Nicole Hall & Michael Wong & Shannon Paige
+* Marlo Major & Torie Warren & David Stinnette & Edgar Duran
+* Jill Donohue & Ross Edfort & Jerrod Paul Junker
+* Pat Wey & Matt Rooney & Sekhar Paladugu
 
 ## 1510
 
@@ -73,20 +124,19 @@ There will be some group activities where you will work in the following pairs:
 * Toni Rib & Steve Pentler
 * Aaron Greenspan
 
-### Intro to Sequel (10:00 - 12:00)
+### Intro to Sequel (10:00 - 11:30)
 
-Classroom C.
+This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) with your pair listed above in order to learn about the Ruby library we'll use in order to interact with the database. Focus mainly on the "Abstracted SQL" section.
 
-You just learned about SQL, now you learn about Sequel.
+You should also check out the [Sequel Github page](https://github.com/jeremyevans/sequel) or the [Sequel documentation](http://sequel.jeremyevans.net/).
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sequel.markdown)
+### What are Migrations? (11:30 - 12:00)
 
+[Caribou](http://s.hswstatic.com/gif/animal-migration-caribou.jpg), [red crabs](http://i2.cdn.turner.com/cnn/dam/assets/130923160142-christmas-island-crab-migration-horizontal-gallery.jpg), and [butterflies](http://photos.cntraveler.com/2014/07/31/53da6d306dec627b149e989d_monarch-butterfly-migration-ingo-arndt-minden-pictures.jpg) are all animals that migrate. Let's talk about other things that can migrate in Classroom C with Rachel. 
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-Classroom C.
-
-You're now going to work on your Task Manager and get it using Sequel.
+Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol.
 
 
 ## 1511
@@ -98,20 +148,21 @@ method's from Ruby's large Enumerable toolbox.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/enumerable_methods.markdown)
 
-### Echo: Group Q & A (10:30 - 12:00)
-
-Convene in Classroom A to answer some questions about the material from this first week.
-
-### Foxtrot: Group Q & A (10:30 - 12:00)
-
-### All: Introducing Hashes (1:00 - 2:30)
+### All: Introducing Hashes (10:30 - 12:00)
 
 Join Jeff in Classroom A to introduce another essential
 collection data structure, Ruby's Hash.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
-### All: Week 1 Diagnostic (2:30 - 3:30)
+### All: Objects, Instances, and Classes (1:00 - 3:00)
+
+Join Josh Cheek in **Classroom A** to talk about working
+with Objects in Ruby.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+
+### All: Week 1 Diagnostic (3:00 - 3:30)
 
 Convene in Classroom A to work through our week 1 diagnostic quiz.
 
