@@ -34,10 +34,10 @@ Big Workspace
 
 Classroom C.
 
-#### 1511 - Objects, Classes, and Methods
+#### 1511 - Group Q & A
 
-Join Josh Cheek in **Classroom A** to talk about working
-with Objects in Ruby.
+Join Horace and Josh in Classroom A to answer
+questions about the material we covered this week.
 
 ### Gear Up (10:30 - 11:15)
 
