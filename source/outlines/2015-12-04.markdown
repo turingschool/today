@@ -108,19 +108,43 @@ Groups:
 * 1510 - Classroom C with Machel
 * 1511 - Classroom A with Jeff, and Horace and Josh.
 
-### Lightning Talks (2:00 - 3:00)
+### Lightning Talks (2:00 - 2:45)
 
-Meet in the workspace for some great lightning talks:
+Big Workspace:
 
+* Jeff Ruane - Ken Thompson's Reflections on Trusting Trust
+* Bret Doucette - A Basic Guide to Time in Rails
+* Justin Holzmann - Loosely Coupled Interfaces (summary of Chapter 4 of POODR).
+* Regis Boudinot - DevOps: Metal and Code Symbiosis
+* Amber Crawford - Coding for a Cause - Non-Profit Web Development and You
+* Nicole Hall - Communication in the digital age
 
-### Electives and Student Lead Sessions (3:00 - 4:00)
+Classroom A:
 
-####  Mike - Game Programming with Unity3D - Side Mega Table in Staff Area
+* Brant Wellman - Refactoring Code and Evolution
+* Pat Wey - Habit Loops
+* Aaron Greenspan - How long is the coastline of England?
+* Beth Sebian - Islam in the Digital Age
+* Toni Rib - The Art of PowerPoint
+
+### Electives and Student Lead Sessions (2:45 - 4:00)
+
+####  Mike - Game Programming with Unity3D
 
 We're going to be starting a new project, you do not have to have attended previously
 to enjoy this! Download [Unity3D](http://unity3d.com/get-unity) ahead of time. We
 will also start preparing for Ludum Dare.
 
-#### Marissa - Networking and Liking it It - Classroom A
+#### Marissa - Networking and Liking it It
 
 Strongly recommended for module 3 and 4 students.
+
+#### Aaron Careaga & Jason Pilz - Getting Started with Sketch
+
+#### Adam Jensen - Build a Chat application in meteor.js
+
+#### Sekhar Paladugu & Matt Rooney - Intro to Elm Programming
+
+#### Alon Waisman & Matt Hecker - Tips for faster workflow in your text editor and OS
+
+#### Ross Edfort - Intro to p5.js
