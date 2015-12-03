@@ -126,7 +126,7 @@ There will be some group activities where you will work in the following pairs:
 
 ### Intro to Sequel (10:00 - 11:30)
 
-This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) either on your own or with a pair to learn about the Ruby library we'll use in order to interact with the database. Focus mainly on the "Abstracted SQL" section. Meet back in Classroom B at 11:30.
+This afternoon, we'll pull out YAML::Store from our TaskManager projects and replace it with a *real* database. In preparation for this transformation, follow [this Sequel tutorial](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) either on your own or with a pair to learn about the Ruby library we'll use in order to interact with the database. Focus mainly on the "Abstracted SQL" section.
 
 You should also check out the [Sequel Github page](https://github.com/jeremyevans/sequel) or the [Sequel documentation](http://sequel.jeremyevans.net/).
 
