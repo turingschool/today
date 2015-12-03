@@ -132,11 +132,11 @@ You should also check out the [Sequel Github page](https://github.com/jeremyevan
 
 ### What are Migrations? (11:30 - 12:00)
 
-[Caribou](http://s.hswstatic.com/gif/animal-migration-caribou.jpg), [red crabs](http://i2.cdn.turner.com/cnn/dam/assets/130923160142-christmas-island-crab-migration-horizontal-gallery.jpg), and [butterflies](http://photos.cntraveler.com/2014/07/31/53da6d306dec627b149e989d_monarch-butterfly-migration-ingo-arndt-minden-pictures.jpg) are all animals that migrate. Let's talk about other things that can migrate in Classroom C with Rachel. 
+[Caribou](http://s.hswstatic.com/gif/animal-migration-caribou.jpg), [red crabs](http://i2.cdn.turner.com/cnn/dam/assets/130923160142-christmas-island-crab-migration-horizontal-gallery.jpg), and [butterflies](http://photos.cntraveler.com/2014/07/31/53da6d306dec627b149e989d_monarch-butterfly-migration-ingo-arndt-minden-pictures.jpg) are all animals that migrate. Let's talk about other things that can migrate in Classroom C with Rachel.
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-Classroom B with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol.
+Classroom C with Rachel. You'll need [this repo](https://github.com/turingschool-examples/1508-task-manager) and some Tylenol.
 
 
 ## 1511
