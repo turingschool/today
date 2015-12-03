@@ -30,9 +30,29 @@ Classroom B.
 
 Big Workspace
 
-#### 1510 - Debugging Sinatra Errors
+#### 1510
 
-Classroom C.
+#### Debugging Sinatra Errors (9:00 - 10:30)
+
+Join Rachel in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/task-manager-transformation). How do you do that? Navigate into your `task-manager-transformation` repo from yesterday's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging`).
+
+Pairs:
+
+* Brant Wellman & Hector Huertas Baeza & Aaron Greenspan
+* Steven Olson & James Crockett
+* Brenna Martenson & Jordan Lawler
+* Beth Secor & Greg Armstrong
+* Penney Garrett & Taylor Moore
+* Lenny Myerson & Joseph Perry
+* Beth Sebian & Dan Winter
+* Steve Pentler & Toni Rib
+
+Finished early? Here are some options: 
+
+* Work on SkillInventory or RobotWorld
+* Watch [Sharif Ramadan's intro to 1NF, 2NF and 3NF databases](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
+* Read [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
+* Read [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
 
 #### 1511 - Group Q & A
 
