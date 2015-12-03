@@ -84,7 +84,7 @@ Groups:
 * Steven Olson, Emily Blanchard, Emily Dowdle, Ryan Asensio
 * Greg Armstrong, Jerrod Paul Junker, Adam Hundley, Justin Holzmann
 * Shannon Paige, Dave Maurer, Brian Rippeto, Penney Garrett
-* Kimiko Kano, Beth Sebian, Ross Edfort, Rose Kohn
+* Kimiko Kano, Beth Sebian, Ross Edfort, Rose Kohn, Matt Rooney
 * Mary Beth Burch, Beth Secor, Matt Pindell, Justin Pease
 * Joseph Perry, Nick Weiland, Ryan Johnson, George Hudson
 * Adam Jensen, Mimi Schatz, Brant Wellman, Brennan Holtzclaw
