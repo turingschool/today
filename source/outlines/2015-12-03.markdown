@@ -23,26 +23,51 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
-### IdeaBox Peer Reviews (9:00 - 10:00)
+### Kickoff (9:00 - 9:15)
 
-Classroom B.
+Meet with Steve and Meeka in Classroom B.
+
+### IdeaBox Peer Reviews (9:15 - 10:15)
+
+Classroom B. You'll be working in the following pairs. Please spend 30 minutes on each project doing a through code review.
+
+- Open issues on your partner's code base either asking questions about an approach or suggesting an alternative approach
+- Open pull requests to fix bugs in your partner's code base.
+
+You'll be working in the following pairs:
+
+* Chris Cenatiempo & Robert Cornell
+* Ryan Asensio & Stanley Siudzinski
+* Travis Haby & George Hudson
+* Rose Kohn & Mary Beth Burch
+* Jason Wright & Jack Yeh
+* Regis Boudinot & Matt Ewell
+* Justin Holzmann & Rick Bacci
+* Jeff Ruane & Alon Waisman
+* Erik Butcher & Matt Hecker
+* Mimi Schatz & Russell Harms
+* Dave Maurer & Michael Merrill
+* Bret Doucette & Tyler Graham
 
 ### Ideabox Tutorial (10:00 - 12:00)
 
-Classroom B.
+Classroom B. While Steve and Meeka doing code reviews, you'll work through Steve's first pass at the project. Don't try to print it out, it's about the quarter of the length of a book.
 
-### IdeaBox Code Review (9:00 - 12:00)
+- [Idea Box](https://github.com/stevekinney/idea-box)
 
-Classroom B.
+### Debugging JavaScript (1:00 - 1:30)
 
-### Idea Box Recap: Closures and Events (1:00 - 2:30)
+Meet with Meeka in Classroom B to discuss the finder points of debugging JavaScript.
 
-Classroom B.
+### Introduction to Object-Oriented JavaScript (1:30 - 3:00)
 
-### Debugging JavaScript; (2:30 - 4:00)
+Stick around in Classroom B as Steve drops in to talk about object-oriented JavaScript.
 
-Classroom B.
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 
+### Refactoring Ideabox (3:00 - 4:00)
+
+Join Steve in Classroom B to live refactor his bad code.
 
 ## 1508
 
