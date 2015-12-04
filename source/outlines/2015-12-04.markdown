@@ -26,7 +26,7 @@ No Survey, No Breakfast.
 
 ##### Homework
 
-This weekend, plesse complete the following assignments:
+This weekend, please complete the following assignments:
 
 - Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end. (5 points)
 - Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
