@@ -22,9 +22,35 @@ No Survey, No Breakfast.
 
 ### Instructional Time (9:00 - 10:30)
 
-#### 1507 - Introduction to Object Oriented JavaScript;
+#### 1507
 
-Classroom B.
+##### Homework
+
+This weekend, plesse complete the following assignments:
+
+- Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end. (5 points)
+- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
+
+[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
+
+##### Recitation (9:00 - 9:45)
+
+_Optional_: Steve will be in Classroom B for the first half of this period to review concepts taught from earlier this week. Please come with specific questions and topics.
+
+##### Instructor Pairing && Code Review
+
+Instructors are available to pair this morning. Please come with a piece of code you want to refactor, an Exercism problem that you want to tackle, or something else along those lines. DM them to schedule a pairing session.
+
+Lovisa has the following time slots open:
+
+- 9:00 - 9:45
+- 9:45 - 10:30
+- 2:45 - 4:00
+
+Meeka has the following time slots open:
+
+- 9:00 - 9:45
+- 9:45 - 10:30
 
 #### 1508
 
