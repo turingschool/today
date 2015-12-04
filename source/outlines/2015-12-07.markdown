@@ -1,3 +1,7 @@
+---
+title: 20151207
+layout: outline
+---
 
 ## Lunch Roulette
 
@@ -25,6 +29,30 @@ Find your group and decide on a place to eat on Friday.
 * Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley
 * Emily Dowdle, Chelsea Johnson, Ryan Asensio
 * Tyler Graham, Michael Wong, Marina Corona
+
+## 1510
+
+### Project Review (9:00 - 9:30)
+
+Join Rachel in Classroom C.
+
+### Traffic Spy Kick Off (9:30 - 10:30)
+
+Join Rachel in Classroom C to kick off everyone's favorite module 2 project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
+[Setting Group Expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1)
+
+### Intro to Project Management (10:30 - 12:00)
+
+Join Jorge in Classroom C.
+
+### Visualizing and Implementing Database Relationships (1:00 - 2:00)
+
+Join Mike in Classroom C. 
+
+### Intro to ActiveRecord (2:00 - 4:00)
+
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 ## 1511
 
