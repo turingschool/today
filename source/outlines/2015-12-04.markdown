@@ -28,7 +28,20 @@ Classroom B.
 
 #### 1508
 
-Big Workspace
+##### Small Group Session
+
+Meet with Josh at one of the big tables in Classroom A to discuss how to build successful projects.
+
+* Amber
+* Emily
+* Torie
+* Pat
+* Marlo
+* Robbie
+
+##### Large Group Session
+
+Join Tess and Andrew in the Big Workspace to work on [Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md).
 
 #### 1510 - Debugging Sinatra Errors
 
