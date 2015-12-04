@@ -1,4 +1,31 @@
 
+## Lunch Roulette
+
+Find your group and decide on a place to eat on Friday. 
+
+* David Whitaker, Mary Beth Burch, Sekhar Paladugu, Dan Winter
+* Regis Boudinot, Matt Packer, John Slota, Steven Olson
+* Deborah Hamel, Justin Pease, Russell Harms, Hector Huertas Baeza
+* George Hudson, Steve Pentler, Alireza Andersen, Matt Rooney
+* Jerrod Paul Junker, Robbie Lane, Toni Rib, Travis Haby
+* Aaron Greenspan, Adrienne Domingus, Erik Butcher, Rose Kohn
+* Kimiko Kano, Charles Ellison, Amber Crawford, Lenny Myerson
+* Nick Weiland, Justin Holzmann, Jordan Lawler, Ross Edfort
+* Joseph Perry, Jason Wright, Jill Donohue, Brian Rippeto
+* Jhun de Andres, Stanley Siudzinski, Nicholas Dorans, Beth Secor
+* Greg Armstrong, Michael Merrill, Alexis Navarrete, Pat Wey
+* Hedy Woo, Brenna Martenson, Ryan Johnson, Dave Maurer
+* James Crockett, Nate Venn, Matt Hecker, Tyler Komoroske
+* Matt Pindell, Chris Cenatiempo, Jason Pilz, Beth Sebian
+* Alon Waisman, Taylor Moore, Matt DesMarteau, Adam Jensen
+* Jeff Ruane, Nicole Hall, Penney Garrett, July Tran
+* Bret Doucette, Scott Firestone, Brant Wellman, David Stinnette
+* Matt Stjernholm, Jack Yeh, Emily Blanchard, Shannon Paige
+* Julian Feliciano, Aaron Careaga, Mimi Schatz, Rick Bacci
+* Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley
+* Emily Dowdle, Chelsea Johnson, Ryan Asensio
+* Tyler Graham, Michael Wong, Marina Corona
+
 ## 1511
 
 ### Foxtrot: How Linked Lists Work (9:00 - 10:30)
