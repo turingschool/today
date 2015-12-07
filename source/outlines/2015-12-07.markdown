@@ -149,6 +149,8 @@ write and use automated software tests.
 
 And you'll want to work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
 
+[Waypoint](https://github.com/turingschool/waypoints#how-testing-works)
+
 #### Project Kickoff & Project Research (1:00 - 2:30)
 
 Join Horace in **Classroom A** where you'll briefly go over the parameters of your new project, then have some time to learn and research on your own.
@@ -183,8 +185,6 @@ But when you're *not* in your review, you need to [teach yourself about / practi
 * 9:30 - 10:00   Julian Feliciano
 * 10:00 - 10:30  Kimiko Kano
 * 10:30 - 11:00  Scott Firestone
-
-[Waypoint](https://github.com/turingschool/waypoints#how-testing-works)
 
 #### Project Kickoff & Project Research (1:00 - 2:30)
 
