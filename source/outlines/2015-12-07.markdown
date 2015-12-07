@@ -5,7 +5,7 @@ layout: outline
 
 ## Lunch Roulette
 
-Find your group and decide on a place to eat on Friday. 
+Find your group and decide on a place to eat on Friday.
 
 * David Whitaker, Mary Beth Burch, Sekhar Paladugu, Dan Winter
 * Regis Boudinot, Matt Packer, John Slota, Steven Olson
@@ -30,6 +30,20 @@ Find your group and decide on a place to eat on Friday.
 * Emily Dowdle, Chelsea Johnson, Ryan Asensio
 * Tyler Graham, Michael Wong, Marina Corona
 
+## 1507
+
+### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
+
+Join Steve in Classroom B.
+
+### Game Time Kickoff (1:00 - 2:30)
+
+Join Steve in Classroom B.
+
+### Ideabox Code Review (2:30 - 4:00)
+
+(Your appointment may overlap with Technical Interview Preparation.)
+
 ## 1510
 
 ### Project Review (9:00 - 9:30)
@@ -48,15 +62,15 @@ Join Jorge in Classroom C.
 
 ### Traffic Spy Work Time (11:30 - 12:00)
 
-Get together with your group and load your waffle with stories. 
+Get together with your group and load your waffle with stories.
 
 ### Visualizing and Implementing Database Relationships (1:00 - 2:00)
 
-Join Mike in Classroom C. 
+Join Mike in Classroom C.
 
 ### Intro to ActiveRecord (2:00 - 4:00)
 
-Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ## 1511
 
