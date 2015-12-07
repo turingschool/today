@@ -36,15 +36,19 @@ Find your group and decide on a place to eat on Friday.
 
 Join Rachel in Classroom C.
 
-### Traffic Spy Kick Off (9:30 - 10:30)
+### Traffic Spy Kick Off (9:30 - 10:00)
 
 Join Rachel in Classroom C to kick off everyone's favorite module 2 project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
 
 [Setting Group Expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1)
 
-### Intro to Project Management (10:30 - 12:00)
+### Intro to Project Management (10:00 - 11:30)
 
 Join Jorge in Classroom C.
+
+### Traffic Spy Work Time (11:30 - 12:00)
+
+Get together with your group and load your waffle with stories. 
 
 ### Visualizing and Implementing Database Relationships (1:00 - 2:00)
 
