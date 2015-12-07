@@ -109,27 +109,47 @@ Join Rachel in Classroom C. Find the outline [here](https://github.com/turingsch
 
 ## 1511
 
-### Foxtrot: How Linked Lists Work (9:00 - 10:30)
+We'll be split all day:
 
-Join Horace in **Classroom A** to talk about a
-fascinating Data Structure called a Linked List
+### Foxtrot
 
-[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
-
-### Echo: Sorting Suite Demos & Review (9:00 - 10:30)
-
-### Foxtrot: How Testing Works (10:30 - 12:00)
+#### How Testing Works (9:00 - 12:00)
 
 Join Josh Cheek in **Classroom A** to talk about how to
 write and use automated software tests.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-### Echo: File I/O (10:30 - 12:00)
+And you'll want to work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
 
-### All: Spiraling Design and Tests (1:00 - 3:00)
+#### Project Kickoff & Project Research (1:00 - 2:30)
 
-Join Jeff in **Classroom A** to talk about using iterative
-processes to guide our development of software.
+Join Horace in **Classroom A** where you'll briefly go over the parameters of your new project, then have some time to learn and research on your own.
 
-### All: Project Kickoffs and Work Time
+#### How Linked Lists Work (2:30 - 4:00)
+
+Join Horace in **Classroom A** to talk about a
+fascinating Data Structure called a Linked List
+
+[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
+
+### Echo
+
+#### Reviews & Linked Lists (9:00 - 12:00)
+
+This morning you'll review your NightWriter project with an instructor.
+
+But when you're *not* in your review, you need to [teach yourself about / practice building a linked list](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown).
+
+##### With Jeff
+
+##### With Horace
+
+#### Project Kickoff & Project Research (1:00 - 2:30)
+
+Join Jeff at the **MegaTable** where you'll briefly go over the parameters of your new project, then have some time to learn and research on your own.
+
+#### How Binary Trees Work (2:30 - 4:00)
+
+Rejoin Jeff at the **MegaTable** to explore how Binary Trees work and answer your
+questions.
