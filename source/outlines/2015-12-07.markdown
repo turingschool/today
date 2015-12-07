@@ -1,7 +1,159 @@
+---
+title: 20151207
+layout: outline
+---
+
+Today in 1999, the RIAA sues Napster for copyright infringement.
+
+## All
+
+### Posse Clean-Up Duty
+
+Goldberg Posse (Erik, Jill, Cole, Jerrod, Adam, Greg, JP, Marina, Nick)
+
+## Lunch Roulette
+
+Find your group and decide on a place to eat on Friday.
+
+* David Whitaker, Mary Beth Burch, Sekhar Paladugu, Dan Winter
+* Regis Boudinot, Matt Packer, John Slota, Steven Olson
+* Deborah Hamel, Justin Pease, Russell Harms, Hector Huertas Baeza
+* George Hudson, Steve Pentler, Alireza Andersen, Matt Rooney
+* Jerrod Paul Junker, Robbie Lane, Toni Rib, Travis Haby
+* Aaron Greenspan, Adrienne Domingus, Erik Butcher, Rose Kohn
+* Kimiko Kano, Charles Ellison, Amber Crawford, Lenny Myerson
+* Nick Weiland, Justin Holzmann, Jordan Lawler, Ross Edfort
+* Joseph Perry, Jason Wright, Jill Donohue, Brian Rippeto
+* Jhun de Andres, Stanley Siudzinski, Nicholas Dorans, Beth Secor
+* Greg Armstrong, Michael Merrill, Alexis Navarrete, Pat Wey
+* Hedy Woo, Brenna Martenson, Ryan Johnson, Dave Maurer
+* James Crockett, Nate Venn, Matt Hecker, Tyler Komoroske
+* Matt Pindell, Chris Cenatiempo, Jason Pilz, Beth Sebian
+* Alon Waisman, Taylor Moore, Matt DesMarteau, Adam Jensen
+* Jeff Ruane, Nicole Hall, Penney Garrett, July Tran
+* Bret Doucette, Scott Firestone, Brant Wellman, David Stinnette
+* Matt Stjernholm, Jack Yeh, Emily Blanchard, Shannon Paige
+* Julian Feliciano, Aaron Careaga, Mimi Schatz, Rick Bacci
+* Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley
+* Emily Dowdle, Chelsea Johnson, Ryan Asensio
+* Tyler Graham, Michael Wong, Marina Corona
+
+
+## 1507
+
+### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
+
+Join Steve in Classroom B.
+
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+You'll be working in the following pairs:
+
+* Russell Harms & Alon Waisman
+* Matt Ewell & Jack Yeh
+* Stanley Siudzinski & Mimi Schatz
+* Robert Cornell & George Hudson
+* Justin Holzmann & Matt Hecker
+* Dave Maurer & Rose Kohn
+* Travis Haby & Michael Merrill
+* Erik Butcher & Ryan Asensio
+* Mary Beth Burch & Jason Wright
+* Tyler Graham & Chris Cenatiempo
+* Jeff Ruane & Regis Boudinot
+* Bret Doucette & Rick Bacci
+
+### Game Time Kickoff (1:00 - 2:30)
+
+Join Steve in Classroom B.
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+You'll be working in the following pairs:
+
+* Michael Merrill & Matt Ewell
+* Jack Yeh & Travis Haby
+* Russell Harms & Mary Beth Burch
+* Justin Holzmann & George Hudson
+* Rick Bacci & Alon Waisman
+* Bret Doucette & Mimi Schatz
+* Rose Kohn & Jeff Ruane
+* Stanley Siudzinski & Regis Boudinot
+* Dave Maurer & Erik Butcher
+* Chris Cenatiempo & Tyler Graham
+* Robert Cornell
+* Matt Hecker
+* Ryan Asensio
+
+### Technical Interview Preparation (2:30 - 4:00)
+
+Mike will have more details in the Big Workspace. Be on time.
+
+## 1508
+
+### jQuery DOM Traversal and Manipulation (9:00 - 12:00)
+
+Meet in the Big Workspace with Josh.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
+
+### Project Work Time (1:00 - 2:30)
+
+Push forward.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
+
+## 1510
+
+### Project Review (9:00 - 9:30)
+
+Join Rachel in Classroom C.
+
+### Traffic Spy Kick Off (9:30 - 10:00)
+
+Join Rachel in Classroom C to kick off everyone's favorite module 2 project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
+[Setting Group Expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1)
+
+### Intro to Project Management (10:00 - 11:30)
+
+Join Jorge in Classroom C.
+
+### Traffic Spy Work Time (11:30 - 12:00)
+
+Get together with your group and load your waffle with stories.
+
+### Visualizing and Implementing Database Relationships (1:00 - 2:00)
+
+Join Mike in Classroom C.
+
+### Intro to ActiveRecord (2:00 - 4:00)
+
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
+
 
 ## 1511
 
-### Foxtrot: How Linked Lists Work (9:00 - 10:30)
+We'll be split all day:
+
+### Foxtrot
+
+#### How Testing Works (9:00 - 12:00)
+
+Join Josh Cheek in **Classroom A** to talk about how to
+write and use automated software tests.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+
+And you'll want to work through this [Intro to TDD tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html).
+
+#### Project Kickoff & Project Research (1:00 - 2:30)
+
+Join Horace in **Classroom A** where you'll briefly go over the parameters of your new project, then have some time to learn and research on your own.
+
+#### How Linked Lists Work (2:30 - 4:00)
 
 Join Horace in **Classroom A** to talk about a
 fascinating Data Structure called a Linked List
@@ -12,20 +164,33 @@ fascinating Data Structure called a Linked List
 
 ### Echo: Sorting Suite Demos & Review (9:00 - 10:30)
 
-### Foxtrot: How Testing Works (10:30 - 12:00)
+#### Reviews & Linked Lists (9:00 - 12:00)
 
-Join Josh Cheek in **Classroom A** to talk about how to
-write and use automated software tests.
+This morning you'll review your NightWriter project with an instructor.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
+But when you're *not* in your review, you need to [teach yourself about / practice building a linked list](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown).
+
+##### With Jeff
+
+* 9:00 - 9:30   Allan Blair
+* 9:30 - 10:00  Emily Blanchard
+* 10:00 - 10:30 Erinna Chen
+* 10:30 - 11:00 Nicholas Dorans
+
+##### With Horace
+
+* 9:00 - 9:30    Heidi Hoopes
+* 9:30 - 10:00   Julian Feliciano
+* 10:00 - 10:30  Kimiko Kano
+* 10:30 - 11:00  Scott Firestone
 
 [Waypoint](https://github.com/turingschool/waypoints#how-testing-works)
 
-### Echo: File I/O (10:30 - 12:00)
+#### Project Kickoff & Project Research (1:00 - 2:30)
 
-### All: Spiraling Design and Tests (1:00 - 3:00)
+Join Jeff at the **MegaTable** where you'll briefly go over the parameters of your new project, then have some time to learn and research on your own.
 
-Join Jeff in **Classroom A** to talk about using iterative
-processes to guide our development of software.
+#### How Binary Trees Work (2:30 - 4:00)
 
-### All: Project Kickoffs and Work Time
+Rejoin Jeff at the **MegaTable** to explore how Binary Trees work and answer your
+questions.
