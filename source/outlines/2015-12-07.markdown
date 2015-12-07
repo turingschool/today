@@ -34,14 +34,38 @@ Find your group and decide on a place to eat on Friday.
 * Bret Doucette, Scott Firestone, Brant Wellman, David Stinnette
 * Matt Stjernholm, Jack Yeh, Emily Blanchard, Shannon Paige
 * Julian Feliciano, Aaron Careaga, Mimi Schatz, Rick Bacci
-* Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley
-* Emily Dowdle, Chelsea Johnson, Ryan Asensio
-* Tyler Graham, Michael Wong, Marina Corona
+* Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley, Torie Joy-Warren
+* Emily Dowdle, Chelsea Johnson, Ryan Asensio, Brennan Holzclaw
+* Tyler Graham, Michael Wong, Marina Corona, Heidi Hoopes
 
 
 ## 1507
 
-### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
+### Morning Challenge (9:00 - 10:00)
+
+Create an interface that meets the following criteria:
+
+1. It starts out with five buttons.
+2. When you click the first button, it alerts the us that "Button #1" has been clicked.
+3. The equivalent works for the second, third, fourth, and fifth buttons.
+4. There is an additional button for adding new buttons.
+5. When added and subsequently clicked, the sixth button will log that "Button #6" was clicked.
+
+You'll be working in the following pairs:
+
+* Rose Kohn & Travis Haby
+* Stanley Siudzinski & Alon Waisman
+* Matt Hecker & Russell Harms
+* Michael Merrill & George Hudson
+* Jack Yeh & Matt Ewell
+* Dave Maurer & Jeff Ruane
+* Mimi Schatz & Erik Butcher
+* Ryan Asensio & Rick Bacci
+* Justin Holzmann & Regis Boudinot
+* Chris Cenatiempo & Tyler Graham
+* Mary Beth Burch & Bret Doucette
+
+### Object-Oriented JavaScript with HTML5 Canvas (10:00 - 12:00)
 
 Join Steve in Classroom B.
 
@@ -109,11 +133,30 @@ Big Workspace
 
 ### Project Review (9:00 - 9:30)
 
+In the following pairs, take a look at your SkillInventory or RobotWorld. Show and discuss the implementation of any extensions. For RobotWorld, take a look at statistics methods. Are you using Ruby? Could you use a [calculation](http://sequel.jeremyevans.net/rdoc/files/doc/querying_rdoc.html) in Sequel instead? Why would you want to do this as opposed to Ruby? 
+
+* Joseph Perry & James Crockett
+* Steven Olson & Beth Secor
+* Penney Garrett & Brenna Martenson
+* Aaron Greenspan & Dan Winter
+* Greg Armstrong & Beth Sebian
+* Hector Huertas Baeza & Steve Pentler
+* Taylor Moore & Lenny Myerson
+* Toni Rib & Jordan Lawler
+* Brant Wellman
+
 Join Rachel in Classroom C.
 
 ### Traffic Spy Kick Off (9:30 - 10:00)
 
 Join Rachel in Classroom C to kick off everyone's favorite module 2 project: [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html).
+
+* Brant Wellman & Dan Winter & Steven Olson
+* Beth Secor & Steve Pentler & Toni Rib
+* Penney Garrett & Aaron Greenspan & Taylor Moore
+* Greg Armstrong & Lenny Myerson & James Crockett
+* Joseph Perry & Jordan Lawler & Brenna Martenson
+* Beth Sebian & Hector Huertas Baeza
 
 [Setting Group Expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1)
 
