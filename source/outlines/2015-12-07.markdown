@@ -114,10 +114,10 @@ Mike will have more details in the Big Workspace. Be on time.
 
 ### Homework
 
-Writing Testable JavaScript - Rebecca Murphey from Full Frontal 2012 (award for worst conference name ever?)
-https://www.youtube.com/watch?v=OzjogCFO4Zo
+[Writing Testable JavaScript - Rebecca Murphey](https://www.youtube.com/watch?v=OzjogCFO4Zo) from Full Frontal 2012 (award for worst conference name ever?)
 
-Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/b6dbcdc937b45563b2e4) and respond the question. (3 points)
+
+Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/b6dbcdc937b45563b2e4) and respond to the question. (3 points)
 
 ## 1508
 
