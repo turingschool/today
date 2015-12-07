@@ -36,13 +36,48 @@ Find your group and decide on a place to eat on Friday.
 
 Join Steve in Classroom B.
 
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+You'll be working in the following pairs:
+
+* Russell Harms & Alon Waisman
+* Matt Ewell & Jack Yeh
+* Stanley Siudzinski & Mimi Schatz
+* Robert Cornell & George Hudson
+* Justin Holzmann & Matt Hecker
+* Dave Maurer & Rose Kohn
+* Travis Haby & Michael Merrill
+* Erik Butcher & Ryan Asensio
+* Mary Beth Burch & Jason Wright
+* Tyler Graham & Chris Cenatiempo
+* Jeff Ruane & Regis Boudinot
+* Bret Doucette & Rick Bacci
+
 ### Game Time Kickoff (1:00 - 2:30)
 
 Join Steve in Classroom B.
 
-### Ideabox Code Review (2:30 - 4:00)
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-(Your appointment may overlap with Technical Interview Preparation.)
+You'll be working in the following pairs:
+
+* Michael Merrill & Matt Ewell
+* Jack Yeh & Travis Haby
+* Russell Harms & Mary Beth Burch
+* Justin Holzmann & George Hudson
+* Rick Bacci & Alon Waisman
+* Bret Doucette & Mimi Schatz
+* Rose Kohn & Jeff Ruane
+* Stanley Siudzinski & Regis Boudinot
+* Dave Maurer & Erik Butcher
+* Chris Cenatiempo & Tyler Graham
+* Robert Cornell
+* Matt Hecker
+* Ryan Asensio
+
+### Technical Interview Preparation (2:30 - 4:00)
+
+Mike will have more details.
 
 ## 1510
 
