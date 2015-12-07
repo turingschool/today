@@ -51,6 +51,20 @@ Create an interface that meets the following criteria:
 4. There is an additional button for adding new buttons.
 5. When added and subsequently clicked, the sixth button will log that "Button #6" was clicked.
 
+You'll be working in the following pairs:
+
+* Rose Kohn & Travis Haby
+* Stanley Siudzinski & Alon Waisman
+* Matt Hecker & Russell Harms
+* Michael Merrill & George Hudson
+* Jack Yeh & Matt Ewell
+* Dave Maurer & Jeff Ruane
+* Mimi Schatz & Erik Butcher
+* Ryan Asensio & Rick Bacci
+* Justin Holzmann & Regis Boudinot
+* Chris Cenatiempo & Tyler Graham
+* Mary Beth Burch & Bret Doucette
+
 ### Object-Oriented JavaScript with HTML5 Canvas (10:00 - 12:00)
 
 Join Steve in Classroom B.
