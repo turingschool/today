@@ -62,13 +62,21 @@ Join Steve in Classroom B.
 You'll be working in the following pairs:
 
 * Michael Merrill & Matt Ewell
+<<<<<<< HEAD
 * Jack Yeh & Travis Haby
+=======
+* Jack Yeh & Stanley Siudzinski
+>>>>>>> 31a661e6ad8127e626750321ee874833bfdc09ed
 * Russell Harms & Mary Beth Burch
 * Justin Holzmann & George Hudson
 * Rick Bacci & Alon Waisman
 * Bret Doucette & Mimi Schatz
 * Rose Kohn & Jeff Ruane
+<<<<<<< HEAD
 * Stanley Siudzinski & Regis Boudinot
+=======
+* Travis Haby & Regis Boudinot
+>>>>>>> 31a661e6ad8127e626750321ee874833bfdc09ed
 * Dave Maurer & Erik Butcher
 * Chris Cenatiempo & Tyler Graham
 * Robert Cornell
