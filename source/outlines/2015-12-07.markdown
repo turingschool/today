@@ -133,6 +133,18 @@ Big Workspace
 
 ### Project Review (9:00 - 9:30)
 
+In the following pairs, take a look at your SkillInventory or RobotWorld. Show and discuss the implementation of any extensions. For RobotWorld, take a look at statistics methods. Are you using Ruby? Could you use a [calculation](http://sequel.jeremyevans.net/rdoc/files/doc/querying_rdoc.html) in Sequel instead? Why would you want to do this as opposed to Ruby? 
+
+* Joseph Perry & James Crockett
+* Steven Olson & Beth Secor
+* Penney Garrett & Brenna Martenson
+* Aaron Greenspan & Dan Winter
+* Greg Armstrong & Beth Sebian
+* Hector Huertas Baeza & Steve Pentler
+* Taylor Moore & Lenny Myerson
+* Toni Rib & Jordan Lawler
+* Brant Wellman
+
 Join Rachel in Classroom C.
 
 ### Traffic Spy Kick Off (9:30 - 10:00)
