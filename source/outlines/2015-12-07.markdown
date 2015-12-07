@@ -112,6 +112,13 @@ You'll be working in the following pairs:
 
 Mike will have more details in the Big Workspace. Be on time.
 
+### Homework
+
+[Writing Testable JavaScript - Rebecca Murphey](https://www.youtube.com/watch?v=OzjogCFO4Zo) from Full Frontal 2012 (award for worst conference name ever?)
+
+
+Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/b6dbcdc937b45563b2e4) and respond to the question. (3 points)
+
 ## 1508
 
 ### jQuery DOM Traversal and Manipulation (9:00 - 12:00)
@@ -133,7 +140,7 @@ Big Workspace
 
 ### Project Review (9:00 - 9:30)
 
-In the following pairs, take a look at your SkillInventory or RobotWorld. Show and discuss the implementation of any extensions. For RobotWorld, take a look at statistics methods. Are you using Ruby? Could you use a [calculation](http://sequel.jeremyevans.net/rdoc/files/doc/querying_rdoc.html) in Sequel instead? Why would you want to do this as opposed to Ruby? 
+In the following pairs, take a look at your SkillInventory or RobotWorld. Show and discuss the implementation of any extensions. For RobotWorld, take a look at statistics methods. Are you using Ruby? Could you use a [calculation](http://sequel.jeremyevans.net/rdoc/files/doc/querying_rdoc.html) in Sequel instead? Why would you want to do this as opposed to Ruby?
 
 * Joseph Perry & James Crockett
 * Steven Olson & Beth Secor
