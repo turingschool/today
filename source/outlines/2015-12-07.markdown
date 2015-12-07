@@ -5,7 +5,7 @@ layout: outline
 
 ## Lunch Roulette
 
-Find your group and decide on a place to eat on Friday. 
+Find your group and decide on a place to eat on Friday.
 
 * David Whitaker, Mary Beth Burch, Sekhar Paladugu, Dan Winter
 * Regis Boudinot, Matt Packer, John Slota, Steven Olson
@@ -67,7 +67,10 @@ fascinating Data Structure called a Linked List
 
 [Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
-### Echo: Sorting Suite Demos & Review (9:00 - 10:30)
+### Echo: Nightwriter Demos and Review (9:00 - 10:30)
+
+Join Jeff around the Classroom A work table to recap
+your Nightwriter projects.
 
 ### Foxtrot: How Testing Works (10:30 - 12:00)
 
@@ -76,11 +79,17 @@ write and use automated software tests.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown)
 
-### Echo: File I/O (10:30 - 12:00)
+### Echo: Working with Files (10:30 - 12:00)
+
+Join Horace around the Classroom A work table to talk about working with Files
+on our computers.
 
 ### All: Spiraling Design and Tests (1:00 - 3:00)
 
 Join Jeff in **Classroom A** to talk about using iterative
 processes to guide our development of software.
 
-### All: Project Kickoffs and Work Time
+### All: Project Kickoffs and Work Time (3:00 - 4:00)
+
+Join us in Classroom A to talk about your next projects. Foxtrot
+will be in the main Class Area and Echo will be at the work table.
