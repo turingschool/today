@@ -22,6 +22,13 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
+### Homework
+
+Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and respond to [this gist][mrcq].
+
+[mrc]: https://vimeo.com/105955605
+[mrcq]: https://gist.github.com/stevekinney/353182d7cd10fb4a5b27
+
 ### Unit Testing JavaScript (9:00 - 10:30)
 
 Meet with Meeka in Classroom B to discuss testing in JavaScript.
@@ -102,24 +109,29 @@ Schedule TBA.
 
 ### All: Dynamics (9:00 - 9:30)
 
-Join Jeff in **Classroom A** to discuss some dynamic things.
+Join Josh (the benevolent and humble) Cheek in **Classroom A** to discuss some dynamic things.
 
-### All: How Git Works (9:30 - 11:00)
+### All: How Git Works (9:30 - 10:30)
 
 Join Horace in **Classroom A** to talk about the conceptual
 and technical underpinnings of Git.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown)
+You'll choose one of the 3 options outlined in this [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/choose_your_own_adventure_intro_to_git.markdown).
 
-### All: Using Source Control (11:00 - 12:00)
+### All: Using Source Control (10:30 - 12:00)
 
 Stick with Horace in **Classroom A** to talk about
-actually using Git.
+actually using Git. We'll focus on outlining a simple but reliable
+workflow that you can use on your projects.
 
 [Relevant](https://xkcd.com/1597/)
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_git.markdown#a-basic-git-workflow)
 
-### All: Work Time (1:00 - 4:00)
+### All: Debugging Techniques (1:00 - 2:30)
+
+Join Josh in **Classroom A** for debugging techniques!
+
+### All: Work Time (2:30 - 4:00)
 
 Make those projects sing.

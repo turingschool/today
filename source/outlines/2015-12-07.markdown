@@ -246,7 +246,7 @@ Join Horace in **Classroom A** where you'll briefly go over the parameters of yo
 Join Horace in **Classroom A** to talk about a
 fascinating Data Structure called a Linked List
 
-[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
+[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
 
 [Waypoint](https://github.com/turingschool/waypoints#linked-lists)
 
