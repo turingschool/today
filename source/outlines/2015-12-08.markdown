@@ -156,6 +156,11 @@ workflow that you can use on your projects.
 
 Join Josh in **Classroom A** for debugging techniques!
 
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/debugging.markdown)
+* [Exercise](https://github.com/turingschool/waypoints/tree/0e6d9153badcd7210062be9136856c22914b16e7#debugging)
+* [Pry notes](https://github.com/turingschool/curriculum/blob/ecc5e440311bb1689f9e98db25a25f5ada20b480/source/topics/debugging/debugging.markdown#pry)
+* [Exercises](https://github.com/turingschool-examples/erroneous_creatures)
+
 ### All: Work Time (2:30 - 4:00)
 
 Make those projects sing.
