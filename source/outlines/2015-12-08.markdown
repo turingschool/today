@@ -92,7 +92,7 @@ Josh will find you to see what is in production. Be sure to set up at a screen l
 
 ### Using Rack::Test in a Sinatra App (9:00 - 11:00)
 
-Classroom B.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown).
 
 ### Project Work Time (11:00 - 12:00)
 
