@@ -33,6 +33,8 @@ Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and 
 
 Meet with Meeka in Classroom B to discuss testing in JavaScript.
 
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/unit_testing_javascript_an_overview.md)
+
 ### A Test-Driven Approach to Game Time (10:30 - 12:00)
 
 Meet with Steve in Classroom B to talk about test-driving your Game Time applications.
