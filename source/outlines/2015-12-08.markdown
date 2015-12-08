@@ -22,6 +22,13 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
+### Homework
+
+Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and respond to [this gist][mrcq].
+
+[mrc]: https://vimeo.com/105955605
+[mrcq]: https://gist.github.com/stevekinney/353182d7cd10fb4a5b27
+
 ### Unit Testing JavaScript (9:00 - 10:30)
 
 Meet with Meeka in Classroom B to discuss testing in JavaScript.
