@@ -1,3 +1,66 @@
+---
+title: 20151209
+layout: outline
+---
+
+Today, in 1965, A Charlie Brown Christmas airs for the first time on CBS.
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Zygmuntowicz Posse (Russell, Justin, Ryan, Dan, Steve, Matthew, Adam)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1507
+
+### JavaScript Events (9:00 - 10:30)
+
+Classroom B.
+
+### Custom Events in JavaScript (10:30 - 12:00)
+
+Classroom B.
+
+### Ideabox Code Review / Project Work Time (1:00 - 4:00)
+
+Details forthcoming.
+
+
+## 1508
+
+### Project Work Time (All Day)
+
+Peevottt.
+
+
+## 1510
+
+### Traffic Spy Q & A (9:00 - 10:00)
+
+Classroom C.
+
+### Traffic Spy Work Time (10:00 - 12:00)
+
+Spy that Traffic.
+
+### One on Ones (11:00 - 12:00)
+
+Schedule TBA
+
+### Traffic Spy Work Time (1:00 - 4:00)
+
+Work Work.
+
+
 ## 1511
 
 ### All: Ruby's Object Model (9:00 - 12:00)
