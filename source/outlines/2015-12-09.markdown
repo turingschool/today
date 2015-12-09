@@ -135,15 +135,13 @@ Join venerated sensei Josh Cheek in **Classroom A**
 to take the Red Pill and find out what exactly is going
 on under the hood when we make objects in Ruby.
 
+![Take the Red Pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
+
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
 
-### All: Debugging Techniques (1:00 - 2:30)
 
-Join Jeff in **Classroom A** to talk about some common debugging
-techniques.
+### All: Work Time (1:00 - 4:00)
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/debugging.markdown)
-
-### All: Work Time (2:30 - 4:00)
+Classroom A, everybody!
 
 WORK WROK WKRO
