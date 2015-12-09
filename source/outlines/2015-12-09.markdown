@@ -139,6 +139,9 @@ on under the hood when we make objects in Ruby.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
 
+Omg, do [these quizzes!](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d)... omg, and
+[this challenge](https://quizzes-ruby-object-model.herokuapp.com/1)
+
 
 ### All: Work Time (1:00 - 4:00)
 
