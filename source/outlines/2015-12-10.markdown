@@ -21,6 +21,14 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ### Ruby Object Model Revisited (9:00 - 12:00)
 
+![Take the Red Pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)
+
+Omg, do [these quizzes!](https://quizzes-ruby-object-model.herokuapp.com/1)...
+
+Omg, clone [this thing](https://github.com/JoshCheek/object-model-with-lovisa) and buckle up!
+
+Omg, [do challenge](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d).
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
 Schedule TBA
@@ -43,7 +51,7 @@ Classroom B.
 
 ### View Templating in Sinatra (9:00 - 10:00)
 
-Join Rachel in Classroom C to become a master of the [Partial Arts](https://github.com/turingschool-examples/partial-arts). 
+Join Rachel in Classroom C to become a master of the [Partial Arts](https://github.com/turingschool-examples/partial-arts).
 
 ### Traffic Spy Work Time and Check Ins (10:00 - 12:00)
 
@@ -65,12 +73,12 @@ Work Work.
 
 ### One on Ones
 
-#### With Rachel: 
+#### With Rachel:
 
 * 1:00 Lenny Myerson
 * 1:10 James Crockett
 
-#### With Mike: 
+#### With Mike:
 
 * 1:00 Joseph Perry
 * 1:10 Jordan Lawler
