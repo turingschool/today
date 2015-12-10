@@ -8,7 +8,7 @@ TBD
 
 ##### Large Group: Mastermind in 90 Minutes
 
-Join Andrew in the Big Workspace
+Join Andrew in the **Big Workspace**
 
 You all are tired and have been working on similar Rails projects for over a month now. Let's switch things up. No databases, no frameworks, no project manager.
 
