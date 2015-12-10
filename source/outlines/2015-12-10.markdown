@@ -104,43 +104,43 @@ desks in the staff area; check slack if you need to find someone
 
 __With Horace__
 
-9:00  - Allan Blair
-9:20  - Erinna Chen
-9:40  - Nicholas Dorans
-10:20 - Julian Feliciano
-10:40 - Kimiko Kano
-11:00 - Thomas Pickett
-11:20 - Hedy Woo
+* 9:00  - Allan Blair
+* 9:20  - Erinna Chen
+* 9:40  - Nicholas Dorans
+* 10:20 - Julian Feliciano
+* 10:40 - Kimiko Kano
+* 11:00 - Thomas Pickett
+* 11:20 - Hedy Woo
 
 __With Lovisa__
 
-9:00  - Scott Firestone (BST)
-9:20  - Chelsea Johnson
-9:40  - Matt Pindell
-10:20 - Brian Rippeto
-10:40 - Matthew Packer
-11:00 - Alireza Andersen
-11:20 - Nick Weiland
+* 9:00  - Scott Firestone (BST)
+* 9:20  - Chelsea Johnson
+* 9:40  - Matt Pindell
+* 10:20 - Brian Rippeto
+* 10:40 - Matthew Packer
+* 11:00 - Alireza Andersen
+* 11:20 - Nick Weiland
 
 __With Andrew__
 
-9:00  - Adam Hundley
-9:20  - Gurusundesh Khalsa
-9:40  - Charles Ellison
-10:20 - Deborah Hamel
-10:40 - David Whitaker
-11:00 - Adrienne Domingus
-11:20 - Nathan Venn
+* 9:00  - Adam Hundley
+* 9:20  - Gurusundesh Khalsa
+* 9:40  - Charles Ellison
+* 10:20 - Deborah Hamel
+* 10:40 - David Whitaker
+* 11:00 - Adrienne Domingus
+* 11:20 - Nathan Venn
 
 __With Steve__
 
-9:00  - Admir Draganovic
-9:20  - Marina Corona
-9:40  - July Tran
-10:20 - Brennan Holtzclaw
-10:40 - Matt Desmarteau
-11:00 - Heidi Hoopes
-11:20 - Alex Navarrete
+* 9:00  - Admir Draganovic
+* 9:20  - Marina Corona
+* 9:40  - July Tran
+* 10:20 - Brennan Holtzclaw
+* 10:40 - Matt Desmarteau
+* 11:00 - Heidi Hoopes
+* 11:20 - Alex Navarrete
 
 ### All - Diagnostic Recap (1:00 - 1:30)
 
