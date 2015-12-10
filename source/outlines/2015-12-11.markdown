@@ -3,15 +3,13 @@ title: 20151211
 layout: outline
 ---
 
-### Instructional Time (9:00 - 10:30)
-
-#### 1507
+### 1507
 
 TBD
 
-#### 1508
+### 1508
 
-##### Large Group: Mastermind in 90 Minutes
+#### Large Group: Mastermind in 90 Minutes
 
 Join Andrew in the **Big Workspace**
 
@@ -21,7 +19,7 @@ Work either on your own or in self-selected pairs to see how far you can get bui
 
 If you finish, some of you will, try to refactor. Can you write it using recursion instead of `until` or `while` loops? Can you remove all `if` and `case` statements? An easy approach is to build a hash with valid inputs that point to corresponding classes. Another more advanced approach would be to use the [command pattern](https://dockyard.com/blog/2013/11/05/design-patterns-command-pattern). Notice that all classes define the same `execute` method. Hold off on attempting to use the command pattern until you have a working implementation of Mastermind first.
 
-##### Small Group Session
+#### Small Group Session
 
 Meet with Josh at one of the big tables in Classroom A to discuss how to build successful projects.
 
@@ -32,17 +30,17 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 * Sekhar
 * David
 
-#### 1510
+### 1510
 
-##### Swift Stats Review
+#### Swift Stats Review (9:00 - 9:15)
 
 Join Mike in Classroom C to review your Ruby challenge from this week. 
 
-##### Week 2 Diagnostic (9:15 - ?)
+#### Week 2 Diagnostic (9:15 - ?)
 
 Stay in Classroom C as Rachel explains the [Week 2 Diagnostic](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a).
 
-##### Peer Traffic Spy Review (? - 10:30)
+#### Peer Traffic Spy Review (? - 10:30)
 
 When you finish with the diagnostic,spend ~45 minutes in the following groups doing peer code reviews:
 
@@ -61,9 +59,9 @@ Things to look for:
 * Logic in the views
 * Use of Ruby instead of ActiveRecord
 
-#### 1511
+### 1511
 
-##### All: Recitation (9:00 - 10:30)
+#### All: Recitation (9:00 - 10:30)
 
 Join Josh Cheek in **Classroom A** to review the topics
 we've covered this week.
