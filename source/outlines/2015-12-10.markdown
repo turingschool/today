@@ -82,7 +82,14 @@ Work Work.
 
 When you're not being evaluated, complete your weekly diagnostic.
 
-Additionally, ...
+Additionally, **foxtrot** should spend the morning working
+through the [Cryptographer Exercise](https://github.com/turingschool/challenges/blob/master/cryptographer.markdown).
+
+**Echo** should take a crack at implementing the [Luhn Algorithm](https://github.com/turingschool/challenges/blob/master/credit_check.markdown).
+
+These exercises involve some of the same ideas and techniques
+as you'll use on your new projects this afternoon, so use this
+time to get some practice in for the next project.
 
 ### All: Project Evals an (9:00 - 12:00)
 
