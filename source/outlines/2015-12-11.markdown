@@ -3,6 +3,15 @@ title: 20151211
 layout: outline
 ---
 
+### Surveys and Breakfast (8:30 - 9:00)
+
+No Survey, No Breakfast.
+
+* [1507]()
+* [1508]()
+* [1510]()
+* [1511]()
+
 ### 1507
 
 TBD
@@ -65,6 +74,38 @@ Things to look for:
 
 Join Josh Cheek in **Classroom A** to review the topics
 we've covered this week.
+
+### Lunch Roulette (12:00 - 1:15)
+
+* David Whitaker, Mary Beth Burch, Sekhar Paladugu, Dan Winter
+* Regis Boudinot, Matt Packer, John Slota, Steven Olson
+* Deborah Hamel, Justin Pease, Russell Harms, Hector Huertas Baeza
+* George Hudson, Steve Pentler, Alireza Andersen, Matt Rooney
+* Jerrod Paul Junker, Robbie Lane, Toni Rib, Travis Haby
+* Aaron Greenspan, Adrienne Domingus, Erik Butcher, Rose Kohn
+* Kimiko Kano, Charles Ellison, Amber Crawford, Lenny Myerson
+* Nick Weiland, Justin Holzmann, Jordan Lawler, Ross Edfort
+* Joseph Perry, Jason Wright, Jill Donohue, Brian Rippeto
+* Jhun de Andres, Stanley Siudzinski, Nicholas Dorans, Beth Secor
+* Greg Armstrong, Michael Merrill, Alexis Navarrete, Pat Wey
+* Hedy Woo, Brenna Martenson, Ryan Johnson, Dave Maurer
+* James Crockett, Nate Venn, Matt Hecker, Tyler Komoroske
+* Matt Pindell, Chris Cenatiempo, Jason Pilz, Beth Sebian
+* Alon Waisman, Taylor Moore, Matt DesMarteau, Adam Jensen
+* Jeff Ruane, Nicole Hall, Penney Garrett, July Tran
+* Bret Doucette, Scott Firestone, Brant Wellman, David Stinnette
+* Matt Stjernholm, Jack Yeh, Emily Blanchard, Shannon Paige
+* Julian Feliciano, Aaron Careaga, Mimi Schatz, Rick Bacci, Gurusundesh Khalsa
+* Matt Ewell, Marlo Major, Erinna Chen, Adam Hundley, Torie Joy-Warren
+* Emily Dowdle, Chelsea Johnson, Ryan Asensio, Brennan Holzclaw
+* Tyler Graham, Michael Wong, Marina Corona, Heidi Hoopes
+
+### Group Retro (1:15 - 2:00)
+
+* 1507 - Classroom B with Steve, Lovisa, and Meeka
+* 1508 - Classroom Big Workspace with Josh and Andrew
+* 1510 - Classroom C with Mike and Rachel
+* 1511 - Classroom A with Horace and Josh
 
 ### Lightning Talks (2:00 - 2:45)
 
