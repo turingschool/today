@@ -6,7 +6,26 @@ TBD
 
 #### 1508
 
-TBD
+##### Large Group: Mastermind in 90 Minutes
+
+Join Andrew in the Big Workspace
+
+You all are tired and have been working on similar Rails projects for over a month now. Let's switch things up. No databases, no frameworks, no project manager.
+
+Work either on your own or in self-selected pairs to see how far you can get building [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown). Don't worry about writing a perfect implementation. Hack out your code and have fun. Some of you may choose to write tests, others may choose to test manually. Totally up to you.
+
+If you finish, some of you will, try to refactor. Can you write it using recursion instead of `until` or `while` loops? Can you remove all `if` and `case` statements? An easy approach is to build a hash with valid inputs that point to corresponding classes. Another more advanced approach would be to use the [command pattern](https://dockyard.com/blog/2013/11/05/design-patterns-command-pattern). Notice that all classes define the same `execute` method. Hold off on attempting to use the command pattern until you have a working implementation of Mastermind first.
+
+##### Small Group Session
+
+Meet with Josh at one of the big tables in Classroom A to discuss how to build successful projects.
+
+* Edgar
+* Ryan
+* Jill
+* Jhun
+* Sekhar
+* David
 
 #### 1510
 
