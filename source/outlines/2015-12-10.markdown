@@ -78,7 +78,13 @@ Work Work.
 
 ## 1511
 
-### All: Project Evals and Weekly Diagnostics (9:00 - 12:00)
+### All: Weekly Diagnostics (9:00 - 12:00)
+
+When you're not being evaluated, complete your weekly diagnostic.
+
+Additionally, ...
+
+### All: Project Evals an (9:00 - 12:00)
 
 A few notes:
 
@@ -101,7 +107,7 @@ __With Horace__
 
 __With Lovisa__
 
-9:00  - Scott Firestone
+9:00  - Scott Firestone (BST)
 9:20  - Chelsea Johnson
 9:40  - Matt Pindell
 10:20 - Brian Rippeto
@@ -129,16 +135,18 @@ __With Steve__
 11:00 - Heidi Hoopes
 11:20 - Alex Navarrete
 
-### All - Diagnostic Recap
+### All - Diagnostic Recap (1:00 - 1:30)
 
 Join Horace in Classroom A to quickly go over the diagnostic.
 
-### Echo: Intro to Sorting Algorithms
+### Echo: Intro to Sorting Algorithms (1:30 - 2:00)
 
 Join Josh at the big worktable to talk about sorting algorithms
 and your next project, [Sorting Suite](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 ### Foxtrot: Working with Files (1:30 - 2:30)
+
+Join Horace in Classroom A to talk about [Working with Files](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/working_with_files.markdown)
 
 ### Foxtrot: Understanding Enigma and Work Time (2:30 - 4:00)
 
