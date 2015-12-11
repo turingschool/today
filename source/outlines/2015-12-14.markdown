@@ -1,3 +1,32 @@
+
+## Lunch Roulette
+
+Find your group and decide on a place to eat on Friday. 
+
+* Shannon Paige, Matt Hecker, Adam Hundley, Aaron Greenspan
+* Alexis Navarrete, Emily Dowdle, Brenna Martenson, Matt Ewell
+* Steven Olson, Michael Wong, Admir Draganovic, Stanley Siudzinski
+* James Crockett, Torie Warren, Ryan Asensio, Adrienne Domingus
+* Jack Yeh, Taylor Moore, Aaron Careaga, Alireza Andersen
+* Russell Harms, Allan Blair, Greg Armstrong, Matt Stjernholm
+* Toni Rib, Jason Wright, Brennan Holtzclaw, Sekhar Paladugu
+* Jordan Lawler, Alon Waisman, Nicole Hall, Brian Rippeto
+* Charles Ellison, Mary Beth Burch, David Stinnette, Penney Garrett
+* Ryan Johnson, Chelsea Johnson, Lenny Myerson, George Hudson
+* Hector Huertas Baeza, Edgar Duran, Rick Bacci, David Whitaker
+* Adam Jensen, Regis Boudinot, Beth Sebian, Deborah Hamel
+* Brant Wellman, Emily Blanchard, Jason Pilz, Tyler Graham
+* Jill Donohue, Erinna Chen, Jeff Ruane, Dan Winter
+* Rose Kohn, Gurusundesh Khalsa, Robbie Lane, Joseph Perry
+* Dave Maurer, Hedy Woo, Jhun de Andres, Steve Pentler
+* Heidi Hoopes, Beth Secor, Jerrod Paul Junker, Michael Merrill
+* Julian Feliciano, Bret Doucette, Pat Wey, Thomas Pickett
+* Justin Pease, July Tran, Justin Holzmann, Scott Firestone
+* Kimiko Kano, Marlo Major, Mimi Schatz, Nick Weiland
+* Matt Rooney, Travis Haby, Marina Corona, Nicholas Dorans
+* Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
+* Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
+
 ## 1511
 
 ### All: Code Retreat and Pairing Exercises (9:00 - 12:00)
