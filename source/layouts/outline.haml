@@ -1,6 +1,16 @@
 = wrap_layout :content do
   .col-article
     %h1= current_page.source_file.split('/').last.split('.').first
+    .calendars
+      %ul
+        %li
+          %a{:href => "https://www.google.com/calendar/embed?src=casimircreative.com_59k8msrrc2ddhcv787vubvp0s4%40group.calendar.google.com&ctz=America/Denver"} Module 1 Calendar
+        %li
+          %a{:href => "https://www.google.com/calendar/embed?src=casimircreative.com_rps2hg1nfqjih4rcl3gl6s4lpk%40group.calendar.google.com&ctz=America/Denver"} Module 2 Calendar
+        %li
+          %a{:href => "https://www.google.com/calendar/embed?src=casimircreative.com_e9k9b6n7bok174ilmqbfdr0sc4%40group.calendar.google.com&ctz=America/Denver"} Module 3 Calendar
+        %li
+          %a{:href => "https://www.google.com/calendar/embed?src=casimircreative.com_r9jfiq9f37h6rdt2s8ssofss4k%40group.calendar.google.com&ctz=America/Denver"} Module 4 Calendar
     = yield
   .col-sidebar
     = partial 'layouts/sidebar'
