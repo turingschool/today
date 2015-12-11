@@ -34,7 +34,19 @@ This week you've done a lot of work with object-oriented JavaScript in the conte
 
 #### Pairing
 
-Reach out to either Steve, Meeka, or Lovisa to schedule a 30-45 pairing session.
+Reach out to either Steve or Lovisa to schedule a 30-45 pairing session.
+
+##### With Steve
+
+- 9:00: Rose and Jeff
+- 9:30: Bret and Mimi
+- 10:00: Regis
+
+##### With Lovisa
+
+- 9:00: MB
+- 9:30: Alon
+- 10:00: Tyler
 
 ### 1508
 
