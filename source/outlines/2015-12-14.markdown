@@ -1,7 +1,15 @@
+---
+title: 20151214
+layout: outline
+---
 
-## Lunch Roulette
+## All
 
-Find your group and decide on a place to eat on Friday. 
+### Posse Cleanup
+
+### Lunch Roulette
+
+Find your group and decide on a place to eat on Friday.
 
 * Shannon Paige, Matt Hecker, Adam Hundley, Aaron Greenspan
 * Alexis Navarrete, Emily Dowdle, Brenna Martenson, Matt Ewell
@@ -26,6 +34,12 @@ Find your group and decide on a place to eat on Friday.
 * Matt Rooney, Travis Haby, Marina Corona, Nicholas Dorans
 * Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
 * Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
+
+## 1507
+
+## 1508
+
+## 1510
 
 ## 1511
 

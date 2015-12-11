@@ -1,3 +1,18 @@
+---
+title: 20160106
+layout: outline
+---
+
+## All
+
+### Posse Cleanup
+
+## 1507
+
+## 1508
+
+## 1510
+
 ## 1511
 
 ### All: Working with Ruby Modules (9:00 - 11:00)

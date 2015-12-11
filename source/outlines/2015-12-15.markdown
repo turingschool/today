@@ -1,3 +1,18 @@
+---
+title: 20151215
+layout: outline
+---
+
+## All
+
+### Posse Cleanup
+
+## 1507
+
+## 1508
+
+## 1510
+
 ## 1511
 
 ### All: Testing Strategies (9:00 - 10:30)
