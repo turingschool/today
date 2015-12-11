@@ -8,8 +8,8 @@ layout: outline
 No Survey, No Breakfast.
 
 * [1507](https://docs.google.com/forms/d/1-olQVOvwFUP00ELjqjoMIA2KdsfiZUyq-x3xGD-qwIs/viewform)
-* 1508 - [Special Survey](http://goo.gl/forms/2jvz5nkpyz) - [Easy Survey](http://goo.gl/forms/hT6xJTivfc)
-* [1510]()
+* 1508 - [Special Survey](http://goo.gl/forms/2jvz5nkpyz) - [Easy Survey](http://goo.gl/forms/hT6xJTivfc) Fill out both, please.
+* [1510](https://docs.google.com/a/casimircreative.com/forms/d/1Dmng0dUeaD-wiFyygqW7H9Fdu72c-rtGv2EYmhX7Fx0/viewform)
 * [1511]()
 
 ### 1507
@@ -102,10 +102,16 @@ Things to look for:
 
 ### 1511
 
+#### All: Weekly Survey
+
+[Give us your hopes, your dreams, your fears](https://docs.google.com/forms/d/1CsDOTiOhw4xidcCj_mIb2d_G6MSDXPAYFUzcGzeA6n8/viewform)
+
 #### All: Recitation (9:00 - 10:30)
 
 Join Josh Cheek in **Classroom A** to review the topics
 we've covered this week.
+
+Special guest appearance by Horace.
 
 ### Gear-Up (10:30 - 11:15)
 
@@ -113,7 +119,7 @@ Join Lovisa in the big workspace.
 
 ### Guest Speaker (11:15 - 12:00)
 
-TBA
+Gather in the big workspace to hear from Joey, who works at GoSpotCheck.
 
 ### Lunch Roulette (12:00 - 1:15)
 
@@ -162,7 +168,7 @@ Gather in the big workspace.
 
 * Chris Cenatiempo - Intro to C Programming
 * Rose Kohn & Mimi Schatz - Therapeudic Refactoring Conference Talk
-* Ryan Asensio - Intro to Clojure
+* Ryan Asensio - Intro to Clojure (!!!!)
 * MB Burch - Play with Music with Sonic Pi
 * Justin Pease - Beginner object model class (good for Foxtrotters!)
 * Brenna Martenson - Intro to CSS: Code-along
