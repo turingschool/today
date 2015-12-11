@@ -8,7 +8,7 @@ layout: outline
 No Survey, No Breakfast.
 
 * [1507]()
-* [1508]()
+* [1508 - HyperMegaSuperSpecial Survey Spectacular](http://goo.gl/forms/2jvz5nkpyz)
 * [1510]()
 * [1511]()
 
@@ -35,7 +35,7 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 * Edgar
 * Ryan
 * Jill
-* Jhun
+* Jerrod
 * Sekhar
 * David
 
@@ -43,7 +43,7 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 
 #### Swift Stats Review (9:00 - 9:15)
 
-Join Mike in Classroom C to review your Ruby challenge from this week. 
+Join Mike in Classroom C to review your Ruby challenge from this week.
 
 #### Week 2 Diagnostic (9:15 - ?)
 
@@ -58,7 +58,7 @@ When you finish with the diagnostic,spend ~45 minutes in the following groups do
 * Penney Garrett & Dan Winter & Brenna Martenson
 * Brant Wellman & Steve Pentler & Taylor Moore
 * Beth Secor & Hector Huertas Baeza & Steven Olson
-* Greg Armstrong & Jordan Lawler 
+* Greg Armstrong & Jordan Lawler
 
 Things to look for:
 
@@ -77,7 +77,7 @@ we've covered this week.
 
 ### Gear-Up (10:30 - 11:15)
 
-Join Lovisa in the big workspace. 
+Join Lovisa in the big workspace.
 
 ### Guest Speaker (11:15 - 12:00)
 
@@ -117,7 +117,7 @@ TBA
 
 ### Lightning Talks (2:00 - 2:45)
 
-Gather in the big workspace. 
+Gather in the big workspace.
 
 * Russell Harms - Funcational and Object Oriented Programming
 * David Stinnette - Combating PTSD with Tech
