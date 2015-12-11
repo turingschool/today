@@ -172,3 +172,4 @@ Gather in the big workspace.
 * MB Burch - Play with Music with Sonic Pi
 * Justin Pease - Beginner object model class (good for Foxtrotters!)
 * Brenna Martenson - Intro to CSS: Code-along
+* Ross Edfort - p5.js continued - p5.sound!
