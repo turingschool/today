@@ -7,14 +7,34 @@ layout: outline
 
 No Survey, No Breakfast.
 
-* [1507]()
+* [1507](https://docs.google.com/forms/d/1-olQVOvwFUP00ELjqjoMIA2KdsfiZUyq-x3xGD-qwIs/viewform)
 * 1508 - [Special Survey](http://goo.gl/forms/2jvz5nkpyz) - [Easy Survey](http://goo.gl/forms/hT6xJTivfc)
 * [1510]()
 * [1511]()
 
 ### 1507
 
-TBD
+#### In Review
+
+- Testing Game Time ([Video](https://vimeo.com/148618912))
+- Events in JavaScript ([Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/README.md))
+- Object-Oriented JavaScript with Canvas ([Video](https://vimeo.com/148156565), [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md))
+- Functions ([Video](https://vimeo.com/147635265), [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/README.md))
+- Adding Buttons to Closures ([Video](https://vimeo.com/148619196))
+
+#### Self-Study
+
+##### Learn JavaScript Data
+
+This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, we want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that we think will be really useful when you return back to your web applications.
+
+- [Learn JS Data][jsdata]
+
+[jsdata]: http://learnjsdata.com
+
+#### Pairing
+
+Reach out to either Steve, Meeka, or Lovisa to schedule a 30-45 pairing session.
 
 ### 1508
 
