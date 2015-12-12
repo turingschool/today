@@ -1,3 +1,12 @@
+---
+title: 20151216
+layout: outline
+---
+
+## All
+
+### Posse Cleanup
+
 ## 1507
 
 ### Recursion (9.00 - 10.00)
@@ -17,6 +26,10 @@ Stay in **Classroom B** with Steve to learn about function generators.
 More JavaScript awesomeness in **Classroom B**.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
+
+## 1508
+
+## 1510
 
 ## 1511
 

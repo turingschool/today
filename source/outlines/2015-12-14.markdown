@@ -1,5 +1,13 @@
+---
+title: 20151214
+layout: outline
+---
 
-## Lunch Roulette
+## All
+
+### Posse Cleanup
+
+### Lunch Roulette
 
 Find your group and decide on a place to eat on Friday.
 
@@ -46,6 +54,10 @@ Work on completing your project goals!
 ### Technical Interview Prep (2.30 - 4.00)
 
 Meet Mike in the Big Workspace, work through the challenge, get a job.
+
+## 1508
+
+## 1510
 
 ## 1511
 
