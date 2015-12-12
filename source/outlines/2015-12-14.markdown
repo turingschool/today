@@ -1,7 +1,7 @@
 
 ## Lunch Roulette
 
-Find your group and decide on a place to eat on Friday. 
+Find your group and decide on a place to eat on Friday.
 
 * Shannon Paige, Matt Hecker, Adam Hundley, Aaron Greenspan
 * Alexis Navarrete, Emily Dowdle, Brenna Martenson, Matt Ewell
@@ -27,6 +27,26 @@ Find your group and decide on a place to eat on Friday.
 * Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
 * Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
 
+## 1507
+
+### Sinon and stuff (9.00 - 10.00)
+
+Meet Meeka in **Classroom B** and learn more about Sinon... and stuff.
+
+### Currying and Partial Application (10.30 - 12.00)
+
+Stay in **Classroom B** and Steve will tell you all about currying and partial application.
+
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+
+### Work Time (1.00 - 2.30)
+
+Work on completing your project goals!
+
+### Technical Interview Prep (2.30 - 4.00)
+
+Meet Mike in the Big Workspace, work through the challenge, get a job.
+
 ## 1511
 
 ### All: Code Retreat and Pairing Exercises (9:00 - 12:00)
@@ -47,4 +67,3 @@ Stick with Horace in **Classroom A** to talk about some
 techniques for succeeding in projects.
 
 ### All: Work Time (2:00 - 4:00)
-

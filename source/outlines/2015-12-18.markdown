@@ -1,3 +1,9 @@
+## 1507
+
+### React revisited (9.00 - 10.30)
+
+Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://github.com/applegrain/creact). 
+
 ## 1511
 
 ### All: Recitation (9:00 - 11:00)

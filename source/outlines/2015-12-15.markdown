@@ -1,3 +1,19 @@
+## 1507
+
+### React in Theory (9.00 - 10.30)
+
+Join Lovisa in **Classroom B** and learn more about React and why it is the best library around.
+
+[Lesson Plan](https://www.youtube.com/watch?v=tau8up04Igo)
+
+### Ideabox in React (10.30 - 12.00)
+
+Start working on this [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the react-rails gem. Lovisa will be in **Classroom B** for questions.
+
+### Project Work Time and Check-ins (1.00 - 4.00)
+
+Schedule TBA.
+
 ## 1511
 
 ### All: Testing Strategies (9:00 - 10:30)
