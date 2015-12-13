@@ -13,7 +13,7 @@ layout: outline
 
 Join Lovisa in **Classroom B** and learn more about React and why it is the best library around.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
 
 ### Ideabox in React (10.30 - 12.00)
 
@@ -21,7 +21,28 @@ Start working on this [tutorial](http://github.com/applegrain/creact). You'll be
 
 ### Project Work Time and Check-ins (1.00 - 4.00)
 
-Schedule TBA.
+#### With Meeka
+
+* 1:00: Russell Harms & Mary Beth Burch
+* 1:30: Matt Hecker
+* 2:00: Ryan Asensio
+* 2:30: Rick Bacci
+* 3:00: Alon Waisman
+
+#### With Lovisa
+
+* 1:00: Justin Holzmann & George Hudson
+* 1:30: Chris Cenatiempo & Tyler Graham
+* 2:00: Michael Merrill & Matt Ewell
+* 2:30: Zach Routhier & Regis Boudinot
+
+#### With Steve
+
+* 1:00: Bret Doucette & Mimi Schatz
+* 1:30: Jack Yeh & Travis Haby
+* 2:00: Dave Maurer & Erik Butcher
+* 2:30: Rose Kohn & Jeff Ruane
+* 3:00: Robert Cornell
 
 ## 1508
 
