@@ -37,7 +37,7 @@ Find your group and decide on a place to eat on Friday.
 
 ## 1507
 
-### Sinon and stuff (9.00 - 10.00)
+### Sinon and stuff (9.00 - 10.30)
 
 Meet Meeka in **Classroom B** and learn more about Sinon... and stuff.
 
@@ -51,7 +51,7 @@ Meet Meeka in **Classroom B** and learn more about Sinon... and stuff.
 * We'll spend some time looking at the `Event Emitter` library in [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
 * We'll walk through using the Event Emitter [in a game](https://github.com/turingschool-examples/sinon-and-event-gametime)
 
-* Time permitting (it won't) we'll have a Q & A on common Game Time questions. 
+* Time permitting (it won't) we'll have a Q & A on common Game Time questions.
 
 ### Currying and Partial Application (10.30 - 12.00)
 
