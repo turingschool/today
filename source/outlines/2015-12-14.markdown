@@ -99,7 +99,8 @@ Meet Meeka in **Classroom B** and learn more about Sinon and EventEmitters.
 
 Stay in **Classroom B** and Steve will tell you all about currying and partial application.
 
-[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+- [Monster JSBin](http://jsbin.com/kinuvi/1/edit?js)
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
 
 ### Work Time (1:00 - 2:30)
 

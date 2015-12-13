@@ -9,6 +9,12 @@ layout: outline
 
 ## 1507
 
+### Understanding Logical Operators (9:00 - 10:00)
+
+Working in pairs, make the tests in [this repository][lojs] pass and then come with a set of golden rules for how logical operators work.
+
+[lojs]: https://github.com/turingschool-examples/logical-operators-in-javascript/tree/master
+
 ## 1508
 
 ## 1510
