@@ -45,7 +45,7 @@ Meet Meeka in **Classroom B** and learn more about Sinon... and stuff.
 * [Clone This Example Library](https://github.com/turingschool-examples/spy-vs-spy)
 * [We'll Go Through This Lesson Together](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript-mocks_and_stubs.markdown)
 
-* Afterwards we'll walk through how to hack our way into adding Sinon to the game-time-starter-kit and see an example of using Sinon to [test a game](https://github.com/turingschool-examples/sinon-and-event-gametime).
+* Afterwards we'll walk through how to hack our way into [adding Sinon to the game-time-starter-kit](https://gist.github.com/rrgayhart/cf5dcefdf3975598f491) and see an example of using Sinon to [test a game](https://github.com/turingschool-examples/sinon-and-event-gametime).
 
 ##### Stuff
 * We'll spend some time looking at the `Event Emitter` library in [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
