@@ -3,9 +3,15 @@ title: 20151214
 layout: outline
 ---
 
+Word of the Day - Sidereal, adj. Determined by or from the stars.
+
 ## All
 
 ### Posse Cleanup
+
+* Today: Golick Posse (Regis, Ryan, Rick, Tyler, Ross, Robbie, Beth, July, Heidi)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
 
 ### Lunch Roulette
 
@@ -69,7 +75,51 @@ Meet Mike in the Big Workspace, work through the challenge, get a job.
 
 ## 1508
 
+### Getting Started with OAuth (9:00 - 11:00)
+
+Authorize all of the things with Josh in the Big Workspace.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Stay in the Big Workspace to learn about the JSON.
+
+### APICurious (1:00 - 2:30)
+
+Big Workspace.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
+
 ## 1510
+
+### Traffic Spy Evaluations (9:00 - 11:15)
+
+#### With Rachel
+
+* 9:00 - Greg & Lenny & James
+* 9:45 - Beth & Hector
+* 10:30 - Beth & Steve & Toni
+
+#### With Mike
+
+* 9:00 - Penney & Aaron & Taylor
+* 9:45 - Brant & Dan & Steven
+* 10:30 - JP & Jordan & Brenna
+
+### Traffic Spy Group Debrief (11:15 - 12:00)
+
+Meet in Classroom C.
+
+### REST, Controllers and Routing in Rails (1:00 - 2:30)
+
+Meet Rachel in Classroom C.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
 
 ## 1511
 

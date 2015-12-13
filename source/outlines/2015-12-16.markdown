@@ -3,9 +3,17 @@ title: 20151216
 layout: outline
 ---
 
+Word of the Day: matutinal, adjective. Relating to or occurring in the morning.
+
 ## All
 
 ### Posse Cleanup
+
+* Kay Posse (Rose, Jack, Dave, Travis, Torie, Jason, Aaron, Chad, Adreienne,
+Matt D.)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
 
 ## 1507
 
@@ -29,7 +37,29 @@ More JavaScript awesomeness in **Classroom B**.
 
 ## 1508
 
+### Testing an External API (9:00 - 12:00)
+
+Big Workspace with Josh.
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+
 ## 1510
+
+### Form and Route Helpers in Rails (9:00 - 12:00)
+
+Join Rachel in Classroom C.
+
+### Jobs Q & A (1:00 - 1:30)
+
+Join Marissa in Classroom C to talk about The Hunt.
+
+### Blogger Kickoff and Work Time (1:30 - 4:00)
+
+Stick around and Mike will kick off Blogger for you.
+
 
 ## 1511
 
