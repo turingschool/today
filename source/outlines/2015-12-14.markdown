@@ -162,7 +162,7 @@ While you're not in evaluations, read [this article](http://www.theodinproject.c
 
 ### Ruby Challenge / Blogging (11:15 - 12:00)
 
-Work on either a) one of your two module 2 blog entries, or b) your Ruby challenge for this week. 
+Work on either a) one of your two module 2 blog entries, or b) your Ruby challenge for this week.
 
 ### REST, Controllers and Routing in Rails (1:00 - 2:30)
 
@@ -206,4 +206,9 @@ strategies for testing code.
 
 *Foxtrot*: you have a little work time for your Enigma projects and Josh Cheek will be available for questions.
 
-*Echo*: no rest for the weary -- it's time to kickoff your next project. Meet Jeff at the Mega Table where we'll talk about [CompleteMe](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown).
+*Echo*: no rest for the weary -- it's time to kickoff your next project. Meet Jeff at the Mega Table where we'll talk about your CompleteMe project:
+
+* The assignment can be found [here](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+* Features/expectations may change between now and 8pm Tuesday
+* Your project will be due and evaluated at 9AM on Thursday
+* The spec harness is [here](https://github.com/turingschool-examples/complete_me_spec_harness) and may have new features or just new tests between now and 8pm Tuesday. Between 8pm Tuesday and 8pm Wednesday the only changes would be bug/typo fixes.
