@@ -116,13 +116,19 @@ Meet Mike in the Big Workspace, work through the challenge, get a job.
 
 Authorize all of the things with Josh in the Big Workspace.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.md)
+
 ### JSON Fundamentals (11:00 - 12:00)
 
 Stay in the Big Workspace to learn about the JSON.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.md)
+
 ### APICurious (1:00 - 2:30)
 
 Big Workspace.
+
+[Project Requirements](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
 
 ### Technical Interview Prep (2:30 - 4:00)
 
