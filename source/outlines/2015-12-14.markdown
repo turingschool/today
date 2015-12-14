@@ -163,24 +163,34 @@ Meet Rachel in Classroom C.
 
 Big Workspace.
 
-
 ## 1511
 
 ### All: Code Retreat and Pairing Exercises (9:00 - 12:00)
 
-Join Horace in **Classroom A** to work on some pairing exercises.
+Join Josh Cheek in **Classroom A** to work on some pairing exercises.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
 
-### Echo: BST Evals (9:00 - 12:00)
+### Echo: Sorting Suite Evaluations (9:00 - 12:00)
 
-### All: Dynamics (1:00 - 1:30)
+__With Jeff__
 
-Join Horace in **Classroom A** to get dynamic.
+* (9:00 - 9:30) Scott Firestone
+* (9:30 - 10:00) Kimi Kano
+* (10:00 - 10:30) Julian Feliciano
 
-### All: Project Planning & Lessons Learned (1:30 - 2:00)
+__With Horace__
 
-Stick with Horace in **Classroom A** to talk about some
-techniques for succeeding in projects.
+* (9:00 - 9:30) Heidi Hoopes
+* (9:30 - 10:00) Nick Dorans
+* (10:00 - 10:30) Erinna Chen
+* (10:30 - 11:00) Allan Blair
 
-### All: Work Time (2:00 - 4:00)
+### All: Testing Strategies (1:00 - 2:30)
+
+Join Jeff in **Classroom A** to look at some common
+strategies for testing code.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+
+### All: Work Time (2:30 - 4:00)
