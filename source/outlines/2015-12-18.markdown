@@ -15,6 +15,21 @@ Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://gi
 
 ## 1508
 
+### Large Group Session
+
+[ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
+### Small Group Session
+
+Meet with Josh at one of the big tables in Classroom A to discuss how to build successful projects.
+
+* Cole
+* Tyler
+* John
+* Jason
+* Michael
+* Adam
+
 ## 1510
 
 ## 1511
