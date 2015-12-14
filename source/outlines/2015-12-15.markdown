@@ -87,18 +87,33 @@ Tess is on hand for questions.
 
 ## 1511
 
-### All: Testing Strategies (9:00 - 10:30)
+### All: Dynamics (9:00 - 9:30)
 
-Join Horace in **Classroom A** to talk about
-some common strategies for testing code
+Start with Jeff in **Classroom A**. Please sit in the following groups:
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+* Matt DesMarteau & Deborah Hamel & Scott Firestone & Nicholas Dorans
+* Erinna Chen & Kimiko Kano & July Tran & Gurusundesh Khalsa
+* Julian Feliciano & Alexis Navarrete & Adrienne Domingus & Hedy Woo
+* Nick Weiland & Matt Packer & Chelsea Johnson & David Whitaker
+* Nate Venn & Charles Ellison & Admir Draganovic & Thomas Pickett
+* Brennan Holtzclaw & Matt Pindell & Adam Hundley & Marina Corona
+* Brian Rippeto & Alireza Andersen & Allan Blair & Heidi Hoopes
 
-### All: Character Count (10:30 - 12:00)
+### All: Test Coverage, Sanitation, and CI (9:30 - 11:00)
 
-Join Josh Cheek in **Classroom A** to work on
+Continue with Jeff in **Classroom A** where we'll talk about tools to support your testing and development.
+
+### All: Character Count (11:00 - 12:00)
+
+Stay with Josh Cheek in **Classroom A** to work on
 an exercise for counting characters in ruby strings.
 
 [Exercise](https://github.com/turingschool/challenges/blob/master/character_count.markdown)
 
-### All: Work Time (1:00 - 4:00)
+### All: Pairing Patterns (1:00 - 3:00)
+
+Guess where? **Classroom A** with Horace for [Pairing Patterns](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown).
+
+### All: Work Time (3:00 - 4:00)
+
+Finally we'll have a little work time to finish out the day.
