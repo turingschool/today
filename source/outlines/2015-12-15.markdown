@@ -41,8 +41,7 @@ Start working on this [tutorial](http://github.com/applegrain/creact). You'll be
 * 1:00: Bret Doucette & Mimi Schatz
 * 1:30: Jack Yeh & Travis Haby
 * 2:00: Dave Maurer & Erik Butcher
-* 2:30: Rose Kohn & Jeff Ruane
-* 3:00: Robert Cornell
+* 2:30: Robert Cornell
 
 ## 1508
 
