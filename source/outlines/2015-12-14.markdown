@@ -166,7 +166,7 @@ Work on either a) one of your two module 2 blog entries, or b) your Ruby challen
 
 ### REST, Controllers and Routing in Rails (1:00 - 2:30)
 
-Meet Rachel in Classroom C.
+Meet Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
 
 ### Technical Interview Prep (2:30 - 4:00)
 
