@@ -7,7 +7,7 @@ layout: outline
 
 ### Clone Wars Peer Review (9:00 - 10:30)
 
-First up let's get together in pairs. 
+First up let's get together in pairs.
 
 During Session A look at the first person's project. During Session B, look at the second person's project.
 
@@ -30,43 +30,43 @@ Use these questions to guide your exploration together:
 
 #### User Perspective
 
-* How does the code work from the user perspective? 
+* How does the code work from the user perspective?
 * What functionality is available?
 * How does the user interface handle misuse, like entering a blank idea or entering the URL for an idea that doesn't exist.
 
 #### Automated Tests
 
 * Run the tests. Are there many or just a few? Do they all pass?
-* Are there "feature" or "acceptance" tests that mimic the user? 
+* Are there "feature" or "acceptance" tests that mimic the user?
 * Do they test the important features of the interface?
-* Are there "unit" tests that interact with just a single model? 
+* Are there "unit" tests that interact with just a single model?
 * Do they test both the "happy path" and possible error cases?
 
 #### Sinatra
 
-* Look at the Sinatra application/server file. 
-* Is the logic all embedded there, or is it pulled out into other classes/components? 
+* Look at the Sinatra application/server file.
+* Is the logic all embedded there, or is it pulled out into other classes/components?
 * Is there a lot of switching (like `if` statements) or is the code simple?
 
 #### Ruby
 
-* Look at the child classes. How was logic extracted from the Sinatra app? 
+* Look at the child classes. How was logic extracted from the Sinatra app?
 * Does the code encapsulate the complicated ideas?
 * Is the code well written and clear?
 * Are the methods short and well named?
-* Are the files and folders well organized? 
+* Are the files and folders well organized?
 * Does it use a namespace for the whole project?
 
 #### Storage
 
-* Look at the storage mechanism. 
-* Did they hide the SQL in a few classes, or sprinkle it all over the application? 
+* Look at the storage mechanism.
+* Did they hide the SQL in a few classes, or sprinkle it all over the application?
 * Are there any clear SQL injection vulnerabilities?
 
 #### View Templates
 
-* Look at the view templates. 
-* Do they have a lot of logic or is it just data getting injected into HTML? 
+* Look at the view templates.
+* Do they have a lot of logic or is it just data getting injected into HTML?
 * How might they have moved that logic elsewhere?
 
 ### Instructor Feedback Sessions (10:30-12:00)
@@ -91,7 +91,7 @@ The rest of you can meet with Jeff in the classroom. One of the eight projects w
 
 At the end of your session, pick work pairs for the afternoon. From 1:00-2:20, you and this pair should work on improving the project your group looked at this morning (**not** your own project).
 
-### Clone Wars Rework & Refactor (1:00 - 2:30) 
+### Clone Wars Rework & Refactor (1:00 - 2:30)
 
 Get together with your pair selected during the instructor review and spend 90 minutes:
 
