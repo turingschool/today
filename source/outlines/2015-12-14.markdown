@@ -7,6 +7,13 @@ Word of the Day - Sidereal, adj. Determined by or from the stars.
 
 ## All
 
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
 ### Posse Cleanup
 
 * Today: Golick Posse (Regis, Ryan, Rick, Tyler, Ross, Robbie, Beth, July, Heidi)
