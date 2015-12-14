@@ -7,6 +7,13 @@ Word of the Day - Sidereal, adj. Determined by or from the stars.
 
 ## All
 
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
 ### Posse Cleanup
 
 * Today: Golick Posse (Regis, Ryan, Rick, Tyler, Ross, Robbie, Beth, July, Heidi)
@@ -151,36 +158,57 @@ Big Workspace.
 * 9:45 - Brant & Dan & Steven
 * 10:30 - JP & Jordan & Brenna
 
-### Traffic Spy Group Debrief (11:15 - 12:00)
+While you're not in evaluations, read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails. If you need a refresher on the terms used in the article, check out this post. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
-Meet in Classroom C.
+### Ruby Challenge / Blogging (11:15 - 12:00)
+
+Work on either a) one of your two module 2 blog entries, or b) your Ruby challenge for this week.
 
 ### REST, Controllers and Routing in Rails (1:00 - 2:30)
 
-Meet Rachel in Classroom C.
+Meet Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
 
 ### Technical Interview Prep (2:30 - 4:00)
 
 Big Workspace.
 
-
 ## 1511
 
 ### All: Code Retreat and Pairing Exercises (9:00 - 12:00)
 
-Join Horace in **Classroom A** to work on some pairing exercises.
+Join Josh Cheek in **Classroom A** to work on some pairing exercises.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
 
-### Echo: BST Evals (9:00 - 12:00)
+### Echo: Sorting Suite Evaluations (9:00 - 12:00)
 
-### All: Dynamics (1:00 - 1:30)
+__With Jeff__
 
-Join Horace in **Classroom A** to get dynamic.
+* (9:00 - 9:30) Scott Firestone
+* (9:30 - 10:00) Kimi Kano
+* (10:00 - 10:30) Julian Feliciano
 
-### All: Project Planning & Lessons Learned (1:30 - 2:00)
+__With Horace__
 
-Stick with Horace in **Classroom A** to talk about some
-techniques for succeeding in projects.
+* (9:00 - 9:30) Heidi Hoopes
+* (9:30 - 10:00) Nick Dorans
+* (10:00 - 10:30) Erinna Chen
+* (10:30 - 11:00) Allan Blair
 
-### All: Work Time (2:00 - 4:00)
+### All: Testing Strategies (1:00 - 3:00)
+
+Join Jeff in **Classroom A** to look at some common
+strategies for testing code.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+
+### Work Period (3:00 - 4:00)
+
+*Foxtrot*: you have a little work time for your Enigma projects and Josh Cheek will be available for questions.
+
+*Echo*: no rest for the weary -- it's time to kickoff your next project. Meet Jeff at the Mega Table where we'll talk about your CompleteMe project:
+
+* The assignment can be found [here](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+* Features/expectations may change between now and 8pm Tuesday
+* Your project will be due and evaluated at 9AM on Thursday
+* The spec harness is [here](https://github.com/turingschool-examples/complete_me_spec_harness) and may have new features or just new tests between now and 8pm Tuesday. Between 8pm Tuesday and 8pm Wednesday the only changes would be bug/typo fixes.
