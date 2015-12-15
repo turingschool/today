@@ -103,25 +103,13 @@ Join Rachel remotely. Find the outline [here](https://github.com/turingschool/le
 
 ### Work Time (1:00 - 4:00
 
-Work through the [Rails Basics](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown) challenge. Rachel will be available on Slack for questions. 
+Work through the [Rails Basics](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown) challenge. Rachel will be available on Slack for questions.
 
 ## 1511
 
-### All: Dynamics (9:00 - 9:30)
+### All: Test Coverage, Sanitation, and CI (10:00 - 11:30)
 
-Start with Jeff in **Classroom A**. Please sit in the following groups:
-
-* Matt DesMarteau & Deborah Hamel & Scott Firestone & Nicholas Dorans
-* Erinna Chen & Kimiko Kano & July Tran & Gurusundesh Khalsa
-* Julian Feliciano & Alexis Navarrete & Adrienne Domingus & Hedy Woo
-* Nick Weiland & Matt Packer & Chelsea Johnson & David Whitaker
-* Nate Venn & Charles Ellison & Admir Draganovic & Thomas Pickett
-* Brennan Holtzclaw & Matt Pindell & Adam Hundley & Marina Corona
-* Brian Rippeto & Alireza Andersen & Allan Blair & Heidi Hoopes
-
-### All: Test Coverage, Sanitation, and CI (9:30 - 11:00)
-
-Continue with Jeff in **Classroom A** where we'll talk about [tools to support your testing and development](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/test_coverage_sanitation_and_ci.markdown).
+Join Jeff in **Classroom A** where we'll talk about [tools to support your testing and development](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/test_coverage_sanitation_and_ci.markdown).
 
 #### Research Groups
 
@@ -141,17 +129,11 @@ Continue with Jeff in **Classroom A** where we'll talk about [tools to support y
 * Matt DesMarteau & Matt Packer & Nate Venn
 * Nicholas Dorans & Nick Weiland & Scott Firestone & Thomas Pickett
 
-### All: Character Count (11:00 - 12:00)
+### Project Q&A (11:30 - 12:00)
 
-Stay with Josh Cheek in **Classroom A** to work on
-an exercise for counting characters in ruby strings.
-
-[Exercise](https://github.com/turingschool/challenges/blob/master/character_count.markdown)
+Jeff will field Enigma questions in Classroom A. Horace will dish answer about CompleteMe
+at the Mega Table.
 
 ### All: Pairing Patterns (1:00 - 3:00)
 
 Guess where? **Classroom A** with Horace for [Pairing Patterns](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown).
-
-### All: Work Time (3:00 - 4:00)
-
-Finally we'll have a little work time to finish out the day.
