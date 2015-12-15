@@ -45,9 +45,11 @@ Start working on this [tutorial](http://github.com/applegrain/creact). You'll be
 
 ## 1508
 
-### Consuming APIs (9:00 - 12:00)
+### Consuming APIs (9:30 - 12:00)
 
 Join Andrew in **Big Workspace**
+
+or (via remote)[https://plus.google.com/events/cgvg4rdl223i854r5e175u497lk]
 
 Today we'll be jammin' and curating some tunes with the interwebs newest - _hippest_ - opensource API - [My Chaims](http://my-chaims.herokuapp.com). We're going to learn how to consume an external api with [Hurley](https://github.com/lostisland/hurley), one of many different HTTP clients available.
 
