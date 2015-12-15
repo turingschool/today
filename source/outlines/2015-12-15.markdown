@@ -49,6 +49,10 @@ Start working on this [tutorial](http://github.com/applegrain/creact). You'll be
 
 Join Andrew in **Big Workspace**
 
+Today we'll be jammin' and curating some tunes with the interwebs newest - _hippest_ - opensource API - [My Chaims](http://my-chaims.herokuapp.com). We're going to learn how to consume an external api with [Hurley](https://github.com/lostisland/hurley), one of many different HTTP clients available.
+
+[Here is the general outline for our lesson today.](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md)
+
 ### Checkins & Project Worktime (1:00 - 4:00)
 
 Tess is on hand for questions.
