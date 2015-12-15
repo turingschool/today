@@ -17,20 +17,17 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
-### Recursion (9.00 - 10.00)
+### React in Theory (9.00 - 10.30)
 
-Join Steve in **Classroom B**.
+Join Lovisa in **Classroom B** and learn more about React and why it is the best library around.
 
-- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
 
-### Function Generators (10.00 - 11.00)
+### Ideabox in React (10.30 - 12.00)
 
-Stay in **Classroom B** with Steve to learn about function generators.
+Start working on this [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the react-rails gem. Lovisa will be in **Classroom B** for questions.
 
-- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
-- [JS Bin where we implement a generator as a custom iterator](http://jsbin.com/hogafu/2/edit?js,console)
-
-### Game Time Peer Review
+### Game Time Peer Review (11:00 - 12:00)
 
 Stick around in Classroom B. You'll be working in the following pairs. Please spend 30 minutes on each project doing a through code review.
 

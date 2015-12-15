@@ -9,15 +9,21 @@ layout: outline
 
 ## 1507
 
-### React in Theory (9.00 - 10.30)
+### Recursion and Generators (9.00 - 10.00)
 
-Join Lovisa in **Classroom B** and learn more about React and why it is the best library around.
+This morning you'll be working through the following:
 
-- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
+- [Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
+- [Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
+- [Example where we implement a generator as a custom iterator](http://jsbin.com/hogafu/edit?js,console,output)
 
-### Ideabox in React (10.30 - 12.00)
+At the end, you should have completed the following:
 
-Start working on this [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the react-rails gem. Lovisa will be in **Classroom B** for questions.
+- [Recursive Countdown](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md#countdown) (5 points)
+- [Fibonacci Sequence](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md#fibonacci-sequence) (5 points)
+- [Factorial](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md#your-turn) (10 points)
+
+**Submission**: You can add multiple files to a Github gist. Add all of your responses to different files in one gist and submit a link to that gist [here](https://docs.google.com/a/casimircreative.com/forms/d/1Y5U4IT4saGGZpYZrt0dFB6j3Qa-d1IXBUwfe-iBbg7w/viewform).
 
 ### Project Work Time and Check-ins (1.00 - 4.00)
 
