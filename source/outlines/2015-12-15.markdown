@@ -101,7 +101,25 @@ Start with Jeff in **Classroom A**. Please sit in the following groups:
 
 ### All: Test Coverage, Sanitation, and CI (9:30 - 11:00)
 
-Continue with Jeff in **Classroom A** where we'll talk about tools to support your testing and development.
+Continue with Jeff in **Classroom A** where we'll talk about [tools to support your testing and development](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/test_coverage_sanitation_and_ci.markdown).
+
+#### Research Groups
+
+* Adam Hundley, Adrienne Domingus, Brennan Holtzclaw, Chelsea Johnson, Erinna Chen, Heidi Hoopes, Kimiko Kano, Matt DesMarteau, Nicholas Dorans
+* Alexis Navarrete, Alireza Andersen, Brian Rippeto, David Whitaker, Gurusundesh Khalsa, Julian Feliciano, Marina Corona, Matt Packer, Nick Weiland
+* Admir Draganovic, Allan Blair, Charles Ellison, Deborah Hamel, Hedy Woo, July Tran, Matt Pindell, Nate Venn, Scott Firestone, Thomas Pickett
+
+#### Learning Groups
+
+* Adam Hundley & Alexis Navarrete & Admir Draganovic
+* Adrienne Domingus & Alireza Andersen & Allan Blair
+* Brennan Holtzclaw & Brian Rippeto & Charles Ellison
+* Chelsea Johnson & David Whitaker & Deborah Hamel
+* Erinna Chen & Gurusundesh Khalsa & Hedy Woo
+* Heidi Hoopes & Julian Feliciano & July Tran
+* Kimiko Kano & Marina Corona & Matt Pindell
+* Matt DesMarteau & Matt Packer & Nate Venn
+* Nicholas Dorans & Nick Weiland & Scott Firestone & Thomas Pickett
 
 ### All: Character Count (11:00 - 12:00)
 
