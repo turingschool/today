@@ -11,7 +11,7 @@ First up let's get together in pairs.
 
 During Session A look at the first person's project. During Session B, look at the second person's project.
 
-#### Pairings
+#### Pairings 
 
 * Jonah Moses, Nikhil Taneja
 * Simon Taranto, Ben Lewis
