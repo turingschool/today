@@ -53,9 +53,9 @@ At the end, you should have completed the following:
 
 ### Consuming APIs (9:30 - 12:00)
 
-Join Andrew in **Big Workspace**
+Join Andrew in **Classroom C**
 
-or (via remote)(https://plus.google.com/events/cgvg4rdl223i854r5e175u497lk)
+or [via remote](https://plus.google.com/events/cgvg4rdl223i854r5e175u497lk)
 
 Today we'll be jammin' and curating some tunes with the interwebs newest - _hippest_ - opensource API - [My Chaims](http://my-chaims.herokuapp.com). We're going to learn how to consume an external api with [Hurley](https://github.com/lostisland/hurley), one of many different HTTP clients available.
 
