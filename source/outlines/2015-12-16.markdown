@@ -81,7 +81,7 @@ manages execution in your programs.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
 
-Josh will follow up Horace's session with some exercised to reinforce your understanding.
+Josh will follow up Horace's session with some exercises to reinforce your understanding.
 
 ### All: Mocking, Stubbing, and Dependency Injection (1:30 - 3:00)
 
