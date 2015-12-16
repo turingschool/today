@@ -61,13 +61,13 @@ Work.
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown). 
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown).
 
-### Jobs Q & A (1:00 - 1:30)
+### Jobs Q & A (1:30 - 2:00)
 
 Join Marissa in Classroom C to talk about The Hunt.
 
-### Blogger Kickoff and Work Time (1:30 - 4:00)
+### Blogger Kickoff and Work Time (2:00 - 4:00)
 
 Stick around and Mike will kick off Blogger for you.
 
