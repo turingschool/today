@@ -87,6 +87,23 @@ Josh will follow up Horace's session with some exercised to reinforce your under
 
 This afternoon Jeff will be in Classroom A to teach you about [test doubles](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_mocks_stubs_and_dependencies.markdown).
 
+We'll do work in these pairs:
+
+* Alexis Navarrete & July Tran
+* Brennan Holtzclaw & Nicholas Dorans
+* Julian Feliciano & Charles Ellison
+* Nick Weiland & Matt Packer
+* Kimiko Kano & Thomas Pickett
+* Hedy Woo & Matt DesMarteau
+* Alireza Andersen & Deborah Hamel
+* Gurusundesh Khalsa & Nate Venn
+* Erinna Chen & Adam Hundley
+* Admir Draganovic & Brian Rippeto
+* David Whitaker & Heidi Hoopes
+* Matt Pindell & Adrienne Domingus
+* Marina Corona & Allan Blair
+* Scott Firestone & Chelsea Johnson
+
 Either before or after the session, consider watching Justin Searls' [To Mock or Not to Mock](https://vimeo.com/54045166).
 
 ### All: Work Time (3:00 - 4:00)
