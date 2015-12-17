@@ -110,16 +110,17 @@ Classroom C.
 
 ### Model Testing in Rails with RSpec (10:30 - 12:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Work Time: Model Testing (1:00 - 3:30)
 
 Mike is on hand for questions.
 
-### MixMaster KickOff (3:30 - 4:00)
+### What is Polymorphism? (3:30 - 4:00)
 
-Classroom C.
+Join Rachel in Classroom C to watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) and then model your own polymorphic relationship. 
 
+Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
 
 ## 1511
 
