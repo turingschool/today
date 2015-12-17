@@ -78,9 +78,6 @@ Put the finishing touches on your project.
 * 2:15 - Michael Wong
 * 2:30 - Jerrod Paul Junker
 * 2:45 - Marlo Major
-* 3:00 - Jhun de Andres
-* 3:15 - Edgar Duran
-* 3:30 - Adam Jensen
 
 #### With Josh
 
@@ -91,8 +88,6 @@ Put the finishing touches on your project.
 * 2:15 - Matt Stjernholm
 * 2:30 - Ryan Johnson
 * 2:45 - Sekhar Paladugu
-* 3:00 - Shannon Paige
-* 3:15 - Torie Warren
 * 3:30 - Emily Dowdle
 
 ### With Jorge
@@ -100,6 +95,14 @@ Put the finishing touches on your project.
 * 3:00 - 3:20 - Ross Edfort
 * 3:20 - 3:40 - Tyler Komoroske
 * 3:40 - 4:00 - Pat Wey
+
+### With Jorace
+
+* 1:45 - Shannon Paige
+* 2:00 - Torie Warren
+* 2:15 - Edgar Duran
+* 2:30 - Adam Jensen
+* 2:45 - Jhun de Andres
 
 ## 1510
 
