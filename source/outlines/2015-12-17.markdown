@@ -116,9 +116,54 @@ Classroom C.
 
 ## 1511
 
-### All: Project Evals (9:00 - 12:00)
+### All: Diagnostic, Tutorial, and Project Evals (9:00 - 12:00)
 
-( Erinna Chen is out today, makeup tomorrow )
+* Make sure your last commit is made before 9AM
+* Find your project eval time below and be there on time
+* When your not in eval, spend 30 minutes on the printed diagnostic that you can find at the front of Classroom A
+* When you're done with the diagnostic, *find a pair* and work through the [tutorial on Mocks, Stubs, and Dependency Injection](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_mocks_stubs_and_dependencies.markdown). It's a new tutorial, so there'll be some problems. You can figure it out. Edits/pull requests welcome!
+
+#### With Horace
+
+* 9:00 -- Julian Feliciano
+* 9:30 -- Kimiko Kano
+* 10:00 -- Heidi Hoopes
+* 10:30 -- Nicholas Dorans
+* 11:00 -- Allan Blair
+* 11:30 -- Scott Firestone
+
+#### With Josh Cheek
+
+* 9:00 -- Nick Weiland
+* 9:30 -- Matt Pindell
+* 10:00 -- Adam Hundley
+* 10:30 -- Matt Packer
+* 11:00 -- Alireza Andersen
+
+#### With Andrew
+
+* 9:00 -- Deborah Hamel
+* 9:30 -- David Whitaker
+* 10:00 -- Marina Corona
+* 10:30 -- Thomas Pickett
+
+#11:00 ### With Tess
+
+* 9:00 -- Adrienne Domingus
+* 9:30 -- Nate Venn
+* 10:00 -- Gurusundesh Khalsa
+* 10:30 -- Brennan Holtzclaw
+* 11:00 -- Hedy Woo
+* 11:30 -- Alexis Navarrete
+
+#### With Meeka
+
+* 9:00 -- July Tran
+* 9:30 -- Admir Draganovic
+* 10:00 -- Chelsea Johnson
+* 10:30 -- Matt DesMarteau
+* 11:00 -- Charles Ellison
+* 11:30 -- Brian Rippeto
 
 ### All: Programming is Fun (1:00 - 4:00)
 
