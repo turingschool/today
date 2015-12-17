@@ -77,26 +77,29 @@ Put the finishing touches on your project.
 * 2:00 - Robbie Lane
 * 2:15 - Michael Wong
 * 2:30 - Jerrod Paul Junker
-* 2:45 - Pat Wey
-* 3:00 - Marlo Major
-* 3:15 - Jhun de Andres
-* 3:30 - Edgar Duran
-* 3:45 - Adam Jensen
+* 2:45 - Marlo Major
+* 3:00 - Jhun de Andres
+* 3:15 - Edgar Duran
+* 3:30 - Adam Jensen
 
 #### With Josh
 
 * 1:00 - Aaron Careaga
-* 1:15 - Emily Dowdle
-* 1:30 - Jason Pilz
-* 1:45 - Jill Donohue
+* 1:15 - Jason Pilz
+* 1:30 - Jill Donohue
 * 2:00 - Justin Pease
 * 2:15 - Matt Stjernholm
-* 2:30 - Ross Edfort
-* 2:45 - Ryan Johnson
-* 3:00 - Sekhar Paladugu
-* 3:15 - Shannon Paige
-* 3:30 - Torie Warren
-* 3:45 - Tyler Komoroske
+* 2:30 - Ryan Johnson
+* 2:45 - Sekhar Paladugu
+* 3:00 - Shannon Paige
+* 3:15 - Torie Warren
+* 3:30 - Emily Dowdle
+
+### With Jorge
+
+* 3:00 - 3:20 - Ross Edfort
+* 3:20 - 3:40 - Tyler Komoroske
+* 3:40 - 4:00 - Pat Wey
 
 ## 1510
 
@@ -110,16 +113,17 @@ Classroom C.
 
 ### Model Testing in Rails with RSpec (10:30 - 12:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Work Time: Model Testing (1:00 - 3:30)
 
 Mike is on hand for questions.
 
-### MixMaster KickOff (3:30 - 4:00)
+### What is Polymorphism? (3:30 - 4:00)
 
-Classroom C.
+Join Rachel in Classroom C to watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) and then model your own polymorphic relationship. 
 
+Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
 
 ## 1511
 
