@@ -126,9 +126,9 @@ Mike is on hand for questions.
 
 Join Rachel in Classroom C to talk about Polymorphism.
 
-* 1. Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
-* 2. Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails) and stop when you see the heading "Terminal Commands".
-* 3. Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that. 
+* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
+* Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails) and stop when you see the heading "Terminal Commands".
+* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that. 
 
 #### Pairs
 
