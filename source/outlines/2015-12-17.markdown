@@ -124,7 +124,22 @@ Mike is on hand for questions.
 
 ### What is Polymorphism? (3:30 - 4:00)
 
-Join Rachel in Classroom C to watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) and then model your own polymorphic relationship. 
+Join Rachel in Classroom C to talk about Polymorphism.
+
+* 1. Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
+* 2. Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails)
+* 3. Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. 
+
+#### Pairs
+
+* Steven Olson & Brenna Martenson
+* Penney Garrett & Dan Winter
+* Aaron Greenspan & Beth Sebian
+* Greg Armstrong & Jordan Lawler
+* Hector Huertas Baeza & Brant Wellman
+* Taylor Moore & Beth Secor
+* Toni Rib & James Crockett
+* Joseph Perry & Steve Pentler & Lenny Myerson
 
 Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
 
