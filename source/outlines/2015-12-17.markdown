@@ -147,7 +147,7 @@ Classroom C.
 * 10:00 -- Marina Corona
 * 10:30 -- Thomas Pickett
 
-#11:00 ### With Tess
+#### With Tess
 
 * 9:00 -- Adrienne Domingus
 * 9:30 -- Nate Venn
