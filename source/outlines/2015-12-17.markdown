@@ -8,6 +8,13 @@ antiquated.
 
 ## All
 
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
 ### Posse Cleanup
 
 * Today: Hopper Posse (Matt, Alon, Penney, Toni, Admir, Hedy, Nicky)
