@@ -17,17 +17,13 @@ Take 15 minutes after wrap-up to check the items on [this list](https://gist.git
 
 ## 1507
 
-### React in Theory (9.00 - 10.30)
+### React in Theory (10.00 - 11.30)
 
 Join Lovisa in **Classroom B** and learn more about React and why it is the best library around.
 
 - [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
 
-### Ideabox in React (10.30 - 12.00)
-
-Start working on this [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the react-rails gem. Lovisa will be in **Classroom B** for questions.
-
-### Game Time Peer Review (11:00 - 12:00)
+### Game Time Peer Review (11:30 - 12:30)
 
 Stick around in Classroom B. You'll be working in the following pairs. Please spend 30 minutes on each project doing a through code review.
 
@@ -44,7 +40,7 @@ You'll be working in the following pairs:
 * Russell Harms & Mary Beth Burch && Dave Maurer & Erik Butcher
 * Justin Holzmann & George Hudson && Ryan Asensio
 
-### Project Work Time (1.00 - 4.00)
+### Project Work Time (1.30 - 4.00)
 
 Meeka and Lovisa are on hand for questions.
 
@@ -65,29 +61,26 @@ Work.
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Join Rachel in Classroom C.
+Join Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown).
 
-### Jobs Q & A (1:00 - 1:30)
+### Jobs Q & A (1:30 - 2:00)
 
 Join Marissa in Classroom C to talk about The Hunt.
 
-### Blogger Kickoff and Work Time (1:30 - 4:00)
+### Blogger Kickoff and Work Time (2:00 - 4:00)
 
 Stick around and Mike will kick off Blogger for you.
 
 
 ## 1511
 
-### All: Understanding Call Stacks and Return Values (9:00 - 10:30)
+### All: Understanding Call Stacks and Return Values (10:00 - 12:30)
 
 Join Horace in **Classroom A** to talk about how Ruby internally
 manages execution in your programs.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
 
-### All: Protocols for Pairing (10:30 - 12:00)
+### All: Work Time (1:30 - 4:00)
 
-Join Jeff in **Classroom A** to talk about some common
-pairing approaches.
-
-### All: Work Time (1:00 - 4:00)
+Finally a bit of work time this afternoon.
