@@ -49,7 +49,7 @@ Join Mike in Classroom C to review your weekly ruby challenge and talk about you
 
 ### Mix Master
 
-Join Rachel in Classroom C to kick off [Mix Master](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master.markdown). 
+Join Rachel in Classroom C to kick off [Mix Master](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown). 
 
 If you'd like a pairing session with Mike or Rachel, DM us! 
 
