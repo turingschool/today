@@ -8,7 +8,7 @@ layout: outline
 No Survey, No Breakfast.
 
 * [1507]()
-* [1508](http://goo.gl/forms/3mLo50NW6x) - We need 100% participation on this
+* [1508](http://goo.gl/forms/oF7lEASc7T) - We need 100% participation on this
 * [1510](https://docs.google.com/forms/d/1gvWbda1Z92Ju-pXJN91N-fdlrfG5yAPVCbAy59Yso-0/viewform)
 * [1511]()
 
@@ -45,13 +45,13 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 
 ### Ruby Challenge Review
 
-Join Mike in Classroom C to review your weekly ruby challenge and talk about your challenge for mid-module break. 
+Join Mike in Classroom C to review your weekly ruby challenge and talk about your challenge for mid-module break.
 
 ### Mix Master
 
-Join Rachel in Classroom C to kick off [Mix Master](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown). 
+Join Rachel in Classroom C to kick off [Mix Master](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown).
 
-If you'd like a pairing session with Mike or Rachel, DM us! 
+If you'd like a pairing session with Mike or Rachel, DM us!
 
 ## 1511
 
