@@ -96,7 +96,11 @@ there right at 10:30.
 * Rick Bacci & Adam Jensen & Justin Holzmann & Adam Hundley
 * Taylor Moore & Brennan Holtzclaw & Torie Warren & Beth Secor
 
-### Friday Lunch Roulette (11:30 - 1:00)
+### 24 Pull Requests (11:25 - 12:00)
+
+Join Meeka in the Big Workspace.
+
+### Friday Lunch Roulette (12:00 - 1:15)
 
 Remember to be back on time. Groups are as follows:
 
@@ -124,18 +128,14 @@ Remember to be back on time. Groups are as follows:
 * Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
 * Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
 
-### 24 Pull Requests (1:00 - 1:30)
-
-Join Meeka in the Big Workspace.
-
-### Group Retro (1:30 - 2:15)
+### Group Retro (1:15 - 2:00)
 
 * 1507 - Classroom B with Steve, Lovisa and Meeka
 * 1508 - Classroom Big Workspace with Josh and Andrew
 * 1510 - Classroom C with Mike and Rachel
 * 1511 - Classroom A with Horace and Josh and Jeff
 
-### Lightning Talks - (2:15 - 3:00)
+### Lightning Talks - (2:00 - 2:45)
 
 * Erik Butcher - Extreme Val(or)idation
 * George Hudson - Teach Coding To Anyone
@@ -146,7 +146,7 @@ Join Meeka in the Big Workspace.
 * Greg Armstrong - Can Programming Solve Spinal-Cord Injury?
 * Hector Huertas Baeza - Why bundler exists and how does it works?
 
-### Student Lead Sessions & Self Study (3:00 - 4:00)
+### Student Lead Sessions & Self Study (2:45 - 4:00)
 
 * Matt Hecker - Module 1 Recap and Review
 * Jhun & Ryan - Coding and the Inner-city
