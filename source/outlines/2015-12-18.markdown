@@ -59,6 +59,8 @@ material we've covered this week.
 Today we're going to break up into four rooms for Gear Up. Please find your folks
 there right at 10:30.
 
+[Here's our session plan](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
 #### Classroom A
 
 * Joseph Perry & Edgar Duran & Ryan Johnson & Emily Dowdle
