@@ -5,32 +5,26 @@ layout: outline
 
 ### Surveys and Breakfast (8:30 - 9:00)
 
-No Survey, No Breakfast.
+Happy last day before the holidays :)
 
 * [1507]()
 * [1508](http://goo.gl/forms/oF7lEASc7T) - We need 100% participation on this
 * [1510](https://docs.google.com/forms/d/1gvWbda1Z92Ju-pXJN91N-fdlrfG5yAPVCbAy59Yso-0/viewform)
-* [1511]()
+* [1511](https://docs.google.com/forms/d/13VQFLYn5_ukb8zcRZlPaXYt24JxizKvSicHeedGyBLc/viewform)
 
-## All
+## Instructional Time
 
-### Posse Cleanup
-
-### 1511 is on Cleanup Duty Today!
-
-## 1507
-
-### React revisited (9:00 - 10:30)
+### 1507 - React revisited (9:00 - 10:30)
 
 Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://github.com/applegrain/creact).
 
-## 1508
+### 1508
 
-### Large Group Session
+#### Large Group Session
 
 [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/01-web_application_development/03-professional_rails_applications/active_record_american_gladiators.md) in the **Big Workspace**
 
-### Small Group Session
+#### Small Group Session
 
 Meet with Josh at one of the big tables in Classroom A to discuss how to build successful projects.
 
@@ -41,50 +35,62 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 * Michael
 * Adam
 
-## 1510
+### 1510
 
-### Ruby Challenge Review
+#### Ruby Challenge Review
 
 Join Mike in Classroom C to review your weekly ruby challenge and talk about your challenge for mid-module break.
 
-### Mix Master
+#### Mix Master
 
 Join Rachel in Classroom C to kick off [Mix Master](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown).
 
 If you'd like a pairing session with Mike or Rachel, DM us!
 
-## 1511
-
-### All: Recitation (9:00 - 10:30)
+### 1511 - Recitation (9:00 - 10:30)
 
 Join Horace in **Classroom A** to review the
 material we've covered this week.
 
-### Gear Up  (10:00 - 11:15)
+## Community Time
 
-Meet in the Big Workspace, the following are your groups.
+### Gear Up  (10:30 - 11:15)
+
+Today we're going to break up into four rooms for Gear Up. Please find your folks
+there right at 10:30.
+
+#### Classroom A
 
 * Joseph Perry & Edgar Duran & Ryan Johnson & Emily Dowdle
 * James Crockett & Aaron Careaga & Matt Stjernholm & Matt Rooney
 * Alexis Navarrete & Robert Cornell & Tyler Komoroske & Matt Pindell
 * Dave Maurer & Brant Wellman & Brenna Martenson & Matt Packer
+* Kimiko Kano & Hedy Woo & Erik Butcher & Alon Waisman
+
+#### Classroom B
+
 * Admir Draganovic & Greg Armstrong & Jerrod Paul Junker & David Whitaker
 * Nate Venn & Adrienne Domingus & Michael Wong & Nick Weiland
 * Steven Olson & Bret Doucette & Marlo Major & Marina Corona
 * Nicole Hall & Brian Rippeto & John Slota & George Hudson
+* Sekhar Paladugu & Gurusundesh Khalsa & Steve Pentler & Ross Edfort
+
+#### Classroom C
+
 * Tyler Graham & Michael Merrill & Ryan Asensio & Chris Cenatiempo
 * Pat Wey & Matt Hecker & Rose Kohn & Jeff Ruane
 * Erinna Chen & Jordan Lawler & July Tran & Jhun de Andres
 * Matt DesMarteau & Scott Firestone & Emily Blanchard & Nicholas Dorans
 * Regis Boudinot & Russell Harms & Hector Huertas Baeza & Penney Garrett
+
+#### Workspace
+
 * Jack Yeh & Shannon Paige & Aaron Greenspan & Mary Beth Burch
 * Toni Rib & Deborah Hamel & Justin Pease & Alireza Andersen
 * Robbie Lane & Beth Sebian & Allan Blair & Jason Pilz
 * Travis Haby & Heidi Hoopes & Dan Winter & Jill Donohue
 * Matt Ewell & Julian Feliciano & Mimi Schatz & Chelsea Johnson
 * Charles Ellison & Thomas Pickett & Lenny Myerson & Amber Crawford
-* Kimiko Kano & Hedy Woo & Erik Butcher & Alon Waisman
-* Sekhar Paladugu & Gurusundesh Khalsa & Steve Pentler & Ross Edfort
 * Rick Bacci & Adam Jensen & Justin Holzmann & Adam Hundley
 * Taylor Moore & Brennan Holtzclaw & Torie Warren & Beth Secor
 
@@ -94,7 +100,7 @@ Big Workspace.
 
 ### Friday Lunch Roulette (12:00 - 1:15)
 
-Remember to be back on time, or you'll be marked late. Groups are as follows:
+Remember to be back on time. Groups are as follows:
 
 * Shannon Paige, Matt Hecker, Adam Hundley, Aaron Greenspan
 * Alexis Navarrete, Emily Dowdle, Brenna Martenson, Matt Ewell
@@ -129,19 +135,19 @@ Remember to be back on time, or you'll be marked late. Groups are as follows:
 
 ### Lightning Talks - (2:00 - 3:00)
 
-Erik Butcher - Extreme Val(or)idation
-George Hudson - Teach Coding To Anyone
-Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
-Jerrod Paul Junker
-John Slota - How to save your money effectively
-Beth Secor - Applying Statistics to Benchmarking
-Greg Armstrong - Can Programming Solve Spinal-Cord Injury?
-Hector Huertas Baeza - Why bundler exists and how does it works?
+* Erik Butcher - Extreme Val(or)idation
+* George Hudson - Teach Coding To Anyone
+* Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
+* Jerrod Paul Junker
+* John Slota - How to save your money effectively
+* Beth Secor - Applying Statistics to Benchmarking
+* Greg Armstrong - Can Programming Solve Spinal-Cord Injury?
+* Hector Huertas Baeza - Why bundler exists and how does it works?
 
-### Student Lead Sessions (3:00 - 4:00)
+### Student Lead Sessions & Self Study (3:00 - 4:00)
 
-Matt Hecker - Module 1 Recap and Review
-Jhun & Ryan - Coding and the Inner-city
-Ross Edfort - p5.js continued p5bots
-Brennan Holzclaw - Intro to Podcasting
-Erinna Chen - Recursion
+* Matt Hecker - Module 1 Recap and Review
+* Jhun & Ryan - Coding and the Inner-city
+* Ross Edfort - p5.js continued p5bots
+* Brennan Holzclaw - Intro to Podcasting
+* Erinna Chen - Recursion
