@@ -138,9 +138,6 @@ Remember to be back on time. Groups are as follows:
 ### Lightning Talks - (2:00 - 2:45)
 
 * Erik Butcher - Extreme Val(or)idation
-* George Hudson - Teach Coding To Anyone
-* Matt Ewell - My biggest IT fails, and lessons to apply to dev careers
-* Jerrod Paul Junker
 * John Slota - How to save your money effectively
 * Beth Secor - Applying Statistics to Benchmarking
 * Greg Armstrong - Can Programming Solve Spinal-Cord Injury?
