@@ -7,7 +7,7 @@ layout: outline
 
 Happy last day before the holidays :)
 
-* [1507]()
+* [1507](http://goo.gl/forms/Tkg1WIcmdX)
 * [1508](http://goo.gl/forms/oF7lEASc7T) - We need 100% participation on this
 * [1510](https://docs.google.com/forms/d/1gvWbda1Z92Ju-pXJN91N-fdlrfG5yAPVCbAy59Yso-0/viewform)
 * [1511](https://docs.google.com/forms/d/13VQFLYn5_ukb8zcRZlPaXYt24JxizKvSicHeedGyBLc/viewform)
@@ -54,7 +54,7 @@ material we've covered this week.
 
 ## Community Time
 
-### Gear Up  (10:30 - 11:15)
+### Gear Up  (10:30 - 11:30)
 
 Today we're going to break up into four rooms for Gear Up. Please find your folks
 there right at 10:30.
@@ -96,11 +96,7 @@ there right at 10:30.
 * Rick Bacci & Adam Jensen & Justin Holzmann & Adam Hundley
 * Taylor Moore & Brennan Holtzclaw & Torie Warren & Beth Secor
 
-### Guest Speaker (11:15 - 12:00)
-
-Big Workspace.
-
-### Friday Lunch Roulette (12:00 - 1:15)
+### Friday Lunch Roulette (11:30 - 1:00)
 
 Remember to be back on time. Groups are as follows:
 
@@ -128,14 +124,14 @@ Remember to be back on time. Groups are as follows:
 * Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
 * Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
 
-### Group Retro (1:15 - 2:00)
+### Group Retro (1:30 - 2:15)
 
 * 1507 - Classroom B with Steve, Lovisa and Meeka
 * 1508 - Classroom Big Workspace with Josh and Andrew
 * 1510 - Classroom C with Mike and Rachel
 * 1511 - Classroom A with Horace and Josh and Jeff
 
-### Lightning Talks - (2:00 - 3:00)
+### Lightning Talks - (2:15 - 3:00)
 
 * Erik Butcher - Extreme Val(or)idation
 * George Hudson - Teach Coding To Anyone
