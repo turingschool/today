@@ -17,7 +17,7 @@ Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://gi
 
 ### Large Group Session
 
-[ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+[ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/01-web_application_development/03-professional_rails_applications/active_record_american_gladiators.md)
 
 ### Small Group Session
 
