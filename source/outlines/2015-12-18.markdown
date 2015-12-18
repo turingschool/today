@@ -3,20 +3,24 @@ title: 20151218
 layout: outline
 ---
 
-## All
+### Surveys and Breakfast (8:30 - 9:00)
 
-### Surveys (8:30 - 9:00)
+No Survey, No Breakfast.
 
 * [1507]()
 * [1508](http://goo.gl/forms/3mLo50NW6x) - We need 100% participation on this
 * [1510]()
 * [1511]()
 
+## All
+
 ### Posse Cleanup
+
+### 1511 is on Cleanup Duty Today!
 
 ## 1507
 
-### React revisited (9.00 - 10.30)
+### React revisited (9:00 - 10:30)
 
 Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://github.com/applegrain/creact).
 
@@ -24,7 +28,7 @@ Join Lovisa in **Classroom B** to keep working on the [React tutorial](http://gi
 
 ### Large Group Session
 
-[ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+[ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/01-web_application_development/03-professional_rails_applications/active_record_american_gladiators.md)
 
 ### Small Group Session
 
@@ -41,7 +45,84 @@ Meet with Josh at one of the big tables in Classroom A to discuss how to build s
 
 ## 1511
 
-### All: Recitation (9:00 - 11:00)
+### All: Recitation (9:00 - 10:30)
 
 Join Horace in **Classroom A** to review the
 material we've covered this week.
+
+
+### Gear Up  (10:00 - 11:15)
+
+Meet in the Big Workspace, the following are your groups.
+
+* Joseph Perry & Edgar Duran & Ryan Johnson & Emily Dowdle
+* James Crockett & Aaron Careaga & Matt Stjernholm & Matt Rooney
+* Alexis Navarrete & Robert Cornell & Tyler Komoroske & Matt Pindell
+* Dave Maurer & Brant Wellman & Brenna Martenson & Matt Packer
+* Admir Draganovic & Greg Armstrong & Jerrod Paul Junker & David Whitaker
+* Nate Venn & Adrienne Domingus & Michael Wong & Nick Weiland
+* Steven Olson & Bret Doucette & Marlo Major & Marina Corona
+* Nicole Hall & Brian Rippeto & John Slota & George Hudson
+* Tyler Graham & Michael Merrill & Ryan Asensio & Chris Cenatiempo
+* Pat Wey & Matt Hecker & Rose Kohn & Jeff Ruane
+* Erinna Chen & Jordan Lawler & July Tran & Jhun de Andres
+* Matt DesMarteau & Scott Firestone & Emily Blanchard & Nicholas Dorans
+* Regis Boudinot & Russell Harms & Hector Huertas Baeza & Penney Garrett
+* Jack Yeh & Shannon Paige & Aaron Greenspan & Mary Beth Burch
+* Toni Rib & Deborah Hamel & Justin Pease & Alireza Andersen
+* Robbie Lane & Beth Sebian & Allan Blair & Jason Pilz
+* Travis Haby & Heidi Hoopes & Dan Winter & Jill Donohue
+* Matt Ewell & Julian Feliciano & Mimi Schatz & Chelsea Johnson
+* Charles Ellison & Thomas Pickett & Lenny Myerson & Amber Crawford
+* Kimiko Kano & Hedy Woo & Erik Butcher & Alon Waisman
+* Sekhar Paladugu & Gurusundesh Khalsa & Steve Pentler & Ross Edfort
+* Rick Bacci & Adam Jensen & Justin Holzmann & Adam Hundley
+* Taylor Moore & Brennan Holtzclaw & Torie Warren & Beth Secor
+
+### Guest Speaker (11:15 - 12:00)
+
+Big Workspace.
+
+### Friday Lunch Roulette (12:00 - 1:15)
+
+Remember to be back on time, or you'll be marked late. Groups are as follows:
+
+
+* Shannon Paige, Matt Hecker, Adam Hundley, Aaron Greenspan
+* Alexis Navarrete, Emily Dowdle, Brenna Martenson, Matt Ewell
+* Steven Olson, Michael Wong, Admir Draganovic, Stanley Siudzinski
+* James Crockett, Torie Warren, Ryan Asensio, Adrienne Domingus
+* Jack Yeh, Taylor Moore, Aaron Careaga, Alireza Andersen
+* Russell Harms, Allan Blair, Greg Armstrong, Matt Stjernholm
+* Toni Rib, Jason Wright, Brennan Holtzclaw, Sekhar Paladugu
+* Jordan Lawler, Alon Waisman, Nicole Hall, Brian Rippeto
+* Charles Ellison, Mary Beth Burch, David Stinnette, Penney Garrett
+* Ryan Johnson, Chelsea Johnson, Lenny Myerson, George Hudson
+* Hector Huertas Baeza, Edgar Duran, Rick Bacci, David Whitaker
+* Adam Jensen, Regis Boudinot, Beth Sebian, Deborah Hamel
+* Brant Wellman, Emily Blanchard, Jason Pilz, Tyler Graham
+* Jill Donohue, Erinna Chen, Jeff Ruane, Dan Winter
+* Rose Kohn, Gurusundesh Khalsa, Robbie Lane, Joseph Perry
+* Dave Maurer, Hedy Woo, Jhun de Andres, Steve Pentler
+* Heidi Hoopes, Beth Secor, Jerrod Paul Junker, Michael Merrill
+* Julian Feliciano, Bret Doucette, Pat Wey, Thomas Pickett
+* Justin Pease, July Tran, Justin Holzmann, Scott Firestone
+* Kimiko Kano, Marlo Major, Mimi Schatz, Nick Weiland
+* Matt Rooney, Travis Haby, Marina Corona, Nicholas Dorans
+* Matt Pindell, Amber Crawford, Chris Cenatiempo, Nate Venn, John Slota
+* Erik Butcher, Tyler Komoroske, Matt DesMarteau, Ross Edfort, Matt Packer
+
+### Group Retro (1:15 - 2:00)
+
+* 1507 - Classroom B with Steve, Lovisa and Meeka
+* 1508 - Classroom Big Workspace with Josh and Andrew
+* 1510 - Classroom C with Mike and Rachel
+* 1511 - Classroom A with Horace and Josh and Jeff
+
+### Lightning Talks - (2:00 - 3:00)
+
+Schedule TBA.
+
+### Student Lead Sessions (3:00 - 4:00)
+
+Schedule TBA.
