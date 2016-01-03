@@ -16,21 +16,105 @@ Today, it is staff.
 
 ### Linked Lists in JavaScript and Ruby (9:00 - 10:30)
 
-Meet with Steve in **Classroom B** to revisit Linked Lists.
+Meet with Steve in **Classroom B** to revisit [Linked Lists][ll].
+
+[ll]: https://github.com/turingschool/challenges/blob/master/linked_lists.markdown
+
+#### Ruby (9:00 - 9:30)
+
+You'll work in the following pairs:
+
+* Robert Cornell & Bret Doucette
+* George Hudson & Mimi Schatz
+* Mary Beth Burch & Jack Yeh
+* Russell Harms & Ryan Asensio
+* Justin Holzmann & Chris Cenatiempo
+* Jeff Ruane & Matt Ewell
+* Michael Merrill & Erik Butcher
+* Matt Hecker & Travis Haby
+* Regis Boudinot & Rose Kohn
+* Tyler Graham & Rick Bacci
+* Alon Waisman & Dave Maurer
+
+Steve will review some approaches from 9:30 to 9:45.
+
+#### JavaScript (9:45 - 10:15)
+
+You'll work in the following pairs:
+
+* Ryan Asensio & Erik Butcher
+* Robert Cornell & Dave Maurer
+* Michael Merrill & Mimi Schatz
+* Rick Bacci & Rose Kohn
+* Travis Haby & Justin Holzmann
+* Matt Hecker & Russell Harms
+* Alon Waisman & Matt Ewell
+* George Hudson & Bret Doucette
+* Regis Boudinot & Mary Beth Burch
+* Jeff Ruane & Jack Yeh
+* Chris Cenatiempo & Tyler Graham
+
+Steve will review some approaches from 10:15 to 10:30.
 
 ### Binary Search Trees in JavaScript and Ruby (10:30 - 12:00)
 
 Stay in **Classroom B** for more coding and thinking with Steve.
 
-### Dangerous Denver (1:00 - 4:00)
+#### Pair Practice (10:45 - 11:30)
 
-Come back to **Classroom B** after lunch and figure out which Denver street corners are the most dangerous.
+You'll work in the following pairs and tackle Binary Search Trees in either Ruby or JavaScript:
+
+* Travis Haby & Tyler Graham
+* Mary Beth Burch & Russell Harms
+* Dave Maurer & Matt Hecker
+* Robert Cornell & Chris Cenatiempo
+* Erik Butcher & Michael Merrill
+* Rose Kohn & Justin Holzmann
+* Jeff Ruane & Rick Bacci
+* Ryan Asensio & Jack Yeh
+* Matt Ewell & Bret Doucette
+* Mimi Schatz & George Hudson
+* Alon Waisman & Regis Boudinot
+
+#### Peer Review (11:30 - 12:00)
+
+Spend 15 minutes on each person's approach.
+
+* Mimi Schatz & Tyler Graham
+* Chris Cenatiempo & Ryan Asensio
+* Robert Cornell & Bret Doucette
+* Jeff Ruane & Rick Bacci
+* Alon Waisman & Matt Hecker
+* Erik Butcher & Justin Holzmann
+* Dave Maurer & George Hudson
+* Matt Ewell & Russell Harms
+* Regis Boudinot & Michael Merrill
+* Mary Beth Burch & Travis Haby
+* Rose Kohn & Jack Yeh
+
+### Dangerous Denver (1:00 - 2:30)
+
+Come back to **Classroom B** after lunch and figure out which parts of Denver are the most dangerous.
 
 Clone this [repo](https://github.com/turingschool-examples/dangerous-denver) before class.
 
+You'll be working in the following pairs until 2:15:
+
+* Mary Beth Burch & Travis Haby
+* Ryan Asensio & Rose Kohn
+* Rick Bacci & Michael Merrill
+* Mimi Schatz & Tyler Graham
+* Russell Harms & Justin Holzmann
+* Chris Cenatiempo & Regis Boudinot
+* Matt Ewell & Alon Waisman
+* George Hudson & Dave Maurer
+* Matt Hecker & Jack Yeh
+* Erik Butcher & Jeff Ruane
+* Robert Cornell & Bret Doucette
+
 ### Technical Interivew Prep (2:30 - 4:00)
 
-Big Workspace
+Big Workspace.
 
 
 ## 1508
