@@ -5,27 +5,69 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+* Prepossessing - adjective - that impresses favorably; engaging or attractive
+
+### Cleanup
+
+Today, it is staff.
+
 
 ## 1507
 
-### Linked Lists in JavaScript and Ruby (9.00 - 10.30)
+### Linked Lists in JavaScript and Ruby (9:00 - 10:30)
 
-Meet with Steve in **Classroom B** to revisit Linked Lists. 
+Meet with Steve in **Classroom B** to revisit Linked Lists.
 
-### Binary Search Trees in JavaScript and Ruby (10.30 - 12.00)
+### Binary Search Trees in JavaScript and Ruby (10:30 - 12:00)
 
-Stay in **Classroom B** for more coding and thinking with Steve. 
+Stay in **Classroom B** for more coding and thinking with Steve.
 
-### Dangerous Denver (1.00 - 4.00)
+### Dangerous Denver (1:00 - 4:00)
 
-Come back to **Classroom B** after lunch and figure out which Denver street corners are the most dangerous. 
+Come back to **Classroom B** after lunch and figure out which Denver street corners are the most dangerous.
 
-Clone this [repo](https://github.com/turingschool-examples/dangerous-denver) before class. 
+Clone this [repo](https://github.com/turingschool-examples/dangerous-denver) before class.
+
+### Technical Interivew Prep (2:30 - 4:00)
+
+Big Workspace
+
 
 ## 1508
 
+### Building and Securing an API (9:00 - 12:00)
+
+Join Andrew in the Big Workspace to learn how to build and secure an API. (
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Kickin' Off Rales Engine! Big Workspace
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
+
 ## 1510
+
+### Mix Master Q & A (9:00 - 10:00)
+
+Classroom C.
+
+### Active Record Obstacle Course (10:00 - 12:00)
+
+It's dangerous to go alone. Take [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown)
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Classroom C.
+
+### Technical Interivew Prep (2:30 - 4:00)
+
+Big Workspace
+
 
 ## 1511
 
