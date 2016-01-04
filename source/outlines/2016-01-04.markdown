@@ -156,10 +156,8 @@ Big Workspace
 
 ### All: Git & Github for Pairs (9:00 - 10:30)
 
-Join Horace in **Classroom A** to talk about a standard
-git workflow for pairing.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
+Join Horace in **Classroom A**. We'll start off with a bit of discussion
+then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown).
 
 **For the exercise, use these pairs:**
 
