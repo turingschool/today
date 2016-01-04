@@ -194,6 +194,11 @@ Don't forget to DTR.
 * **11:00 - 11:30** - Alireza Andersen
 * **11:30 - 12:00** - Allan Blair
 
+#### With Rachel
+
+* **11:00 - 11:30** - David Whitaker
+* **11:30 - 12:00** - Heidi Hoopes
+
 #### With Jeff
 
 * **11:00 - 11:30** - Matt Packer
@@ -211,7 +216,6 @@ Don't forget to DTR.
 * **1:30 - 2:00** - Brian Rippeto
 * **2:00 - 2:30** - Charles Ellison
 * **2:30 - 3:00** - Chelsea Johnson
-* **3:00 - 3:30** - David Whitaker
 
 #### With Josh
 
@@ -221,7 +225,6 @@ Don't forget to DTR.
 * **1:30 - 2:00** - Erinna Chen
 * **2:00 - 2:30** - Gurusundesh Khalsa
 * **2:30 - 3:00** - Hedy Woo
-* **3:00 - 3:30** - Heidi Hoopes
 
 #### With Lovisa
 
