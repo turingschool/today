@@ -120,9 +120,9 @@ Big Workspace.
 
 ### Building and Securing an API (9:00 - 12:00)
 
-Join Andrew in the Big Workspace to learn how to build and secure an API. (
+Join Andrew in the Big Workspace to learn how to build and secure an API.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_up_an_api.md)
 
 ### Rales Engine Kickoff (1:00 - 2:30)
 
@@ -132,12 +132,13 @@ Kickin' Off Rales Engine! Big Workspace
 
 Big Workspace
 
-
 ## 1510
 
 ### Mix Master Q & A (9:00 - 10:00)
 
-Classroom C.
+Join Rachel in Classroom C to talk about Mix Master.
+
+If time permits, start on the extensions with [Part 6: Controller Testing](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/6_controller_tests.markdown) and/or [Part 7: Implementing User OAuth login with Spotify](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/7_implementing_users.markdown).
 
 ### Active Record Obstacle Course (10:00 - 12:00)
 
@@ -145,12 +146,11 @@ It's dangerous to go alone. Take [this](https://github.com/turingschool/lesson_p
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
-Classroom C.
+Join guest insructor Nate in Classroom C.
 
 ### Technical Interivew Prep (2:30 - 4:00)
 
 Big Workspace
-
 
 ## 1511
 
