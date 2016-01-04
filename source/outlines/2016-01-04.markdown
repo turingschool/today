@@ -189,6 +189,11 @@ Find your diagnostic time below and make sure you're there on time.
 When you're not doing the diagnostic, get with your pair and start diving into your project.
 Don't forget to DTR.
 
+#### With Tess
+
+* **11:00 - 11:30** - Alireza Andersen
+* **11:30 - 12:00** - Allan Blair
+
 #### With Jeff
 
 * **11:00 - 11:30** - Matt Packer
@@ -197,8 +202,6 @@ Don't forget to DTR.
 * **1:30 - 2:00** - Alexis Navarrete
 * **2:00 - 2:30** - Admir Draganovic
 * **2:30 - 3:00** - Adrienne Domingus
-* **3:00 - 3:30** - Alireza Andersen
-* **3:30 - 4:00** - Allan Blair
 
 #### With Horace
 
