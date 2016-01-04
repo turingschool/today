@@ -17,6 +17,10 @@ Working in pairs, make the tests in [this repository][lojs] pass and then come w
 
 ## 1508
 
+### Building an API - STOREDOM - (9:00 - 12:00 ish)
+
+We will help Storedom become more than just a showroom. Today we will learn how to utilize rails to serve up an API. Join Andrew in classroom B to kick things back into gear.
+
 ## 1510
 
 ## 1511
