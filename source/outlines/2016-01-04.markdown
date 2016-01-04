@@ -182,15 +182,17 @@ Today we'll kick off your first paired project, [HTTP - Yeah you know me](https:
 
 Join us in Classroom A.
 
-### All: Work Time (11:00 - 12:00)
+### All: Diagnostics & Work Time (11:00 - 4:00)
 
-Get with your pair and start diving into your project.
+Find your diagnostic time below and make sure you're there on time.
+
+When you're not doing the diagnostic, get with your pair and start diving into your project.
 Don't forget to DTR.
 
-### All: Mid-Module Diagnostic and Work Time (1:00 - 4:00)
+#### With Jeff
 
-**With Jeff**
-
+* **11:00 - 11:30** - Matt Packer
+* **11:30 - 12:00** - Nate Venn
 * **1:00 - 1:30** - Adam Hundley
 * **1:30 - 2:00** - Alexis Navarrete
 * **2:00 - 2:30** - Admir Draganovic
@@ -198,33 +200,31 @@ Don't forget to DTR.
 * **3:00 - 3:30** - Alireza Andersen
 * **3:30 - 4:00** - Allan Blair
 
-**With Horace**
+#### With Horace
 
+* **11:00 - 11:30** - Matt Pindell
+* **11:30 - 12:00** - Matt DesMarteau
 * **1:00 - 1:30** - Brennan Holtzclaw
 * **1:30 - 2:00** - Brian Rippeto
 * **2:00 - 2:30** - Charles Ellison
 * **2:30 - 3:00** - Chelsea Johnson
 * **3:00 - 3:30** - David Whitaker
-* **3:30 - 4:00** - Deborah Hamel
 
-**With Josh**
+#### With Josh
 
+* **11:00 - 11:30** - Kimiko Kano
+* **11:30 - 12:00** - Marina Corona
 * **1:00 - 1:30** - July Tran
 * **1:30 - 2:00** - Erinna Chen
 * **2:00 - 2:30** - Gurusundesh Khalsa
 * **2:30 - 3:00** - Hedy Woo
 * **3:00 - 3:30** - Heidi Hoopes
-* **3:30 - 4:00** - Julian Feliciano
 
-**TBD**
+#### With Meeka
 
-* **1:00 - 1:30** - Kimiko Kano
-* **1:00 - 1:30** - Marina Corona
-* **1:00 - 1:30** - Matt Pindell
-* **1:00 - 1:30** - Matt DesMarteau
-* **1:00 - 1:30** - Matt Packer
-* **1:00 - 1:30** - Nate Venn
-* **1:00 - 1:30** - Nicholas Dorans
-* **1:00 - 1:30** - Nick Weiland
+* **11:00 - 11:30** - Nicholas Dorans
+* **11:30 - 12:00** - Nick Weiland
 * **1:00 - 1:30** - Scott Firestone
-* **1:00 - 1:30** - Thomas Pickett'
+* **1:30 - 2:00** - Thomas Pickett'
+* **2:00 - 2:30** - Julian Feliciano
+* **2:30 - 3:00** - Deborah Hamel
