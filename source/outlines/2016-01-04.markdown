@@ -161,6 +161,23 @@ git workflow for pairing.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
 
+**For the exercise, use these pairs:**
+
+* David Whitaker & Matt Packer
+* Allan Blair & Scott Firestone
+* Brian Rippeto & Admir Draganovic
+* Matt DesMarteau & Hedy Woo
+* Adam Hundley & Thomas Pickett
+* Gurusundesh Khalsa & Nick Weiland
+* Alexis Navarrete & Chelsea Johnson
+* Brennan Holtzclaw & July Tran
+* Marina Corona & Charles Ellison
+* Julian Feliciano & Nate Venn
+* Deborah Hamel & Kimiko Kano
+* Erinna Chen & Nicholas Dorans
+* Heidi Hoopes & Adrienne Domingus
+* Matt Pindell & Alireza Andersen
+
 ### All: Project Kickoffs (10:30 - 11:00)
 
 Today we'll kick off your first paired project, [HTTP - Yeah you know me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
