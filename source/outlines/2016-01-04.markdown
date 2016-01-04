@@ -116,7 +116,6 @@ You'll be working in the following pairs until 2:15:
 
 Big Workspace.
 
-
 ## 1508
 
 ### Building and Securing an API (9:00 - 12:00)
@@ -164,6 +163,53 @@ git workflow for pairing.
 
 ### All: Project Kickoffs (10:30 - 11:00)
 
+Today we'll kick off your first paired project, [HTTP - Yeah you know me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
+
+Join us in Classroom A.
+
 ### All: Work Time (11:00 - 12:00)
 
+Get with your pair and start diving into your project.
+Don't forget to DTR.
+
 ### All: Mid-Module Diagnostic and Work Time (1:00 - 4:00)
+
+**With Jeff**
+
+* **1:00 - 1:30** - Adam Hundley
+* **1:30 - 2:00** - Alexis Navarrete
+* **2:00 - 2:30** - Admir Draganovic
+* **2:30 - 3:00** - Adrienne Domingus
+* **3:00 - 3:30** - Alireza Andersen
+* **3:30 - 4:00** - Allan Blair
+
+**With Horace**
+
+* **1:00 - 1:30** - Brennan Holtzclaw
+* **1:30 - 2:00** - Brian Rippeto
+* **2:00 - 2:30** - Charles Ellison
+* **2:30 - 3:00** - Chelsea Johnson
+* **3:00 - 3:30** - David Whitaker
+* **3:30 - 4:00** - Deborah Hamel
+
+**With Josh**
+
+* **1:00 - 1:30** - July Tran
+* **1:30 - 2:00** - Erinna Chen
+* **2:00 - 2:30** - Gurusundesh Khalsa
+* **2:30 - 3:00** - Hedy Woo
+* **3:00 - 3:30** - Heidi Hoopes
+* **3:30 - 4:00** - Julian Feliciano
+
+**TBD**
+
+* **1:00 - 1:30** - Kimiko Kano
+* **1:00 - 1:30** - Marina Corona
+* **1:00 - 1:30** - Matt Pindell
+* **1:00 - 1:30** - Matt DesMarteau
+* **1:00 - 1:30** - Matt Packer
+* **1:00 - 1:30** - Nate Venn
+* **1:00 - 1:30** - Nicholas Dorans
+* **1:00 - 1:30** - Nick Weiland
+* **1:00 - 1:30** - Scott Firestone
+* **1:00 - 1:30** - Thomas Pickett'
