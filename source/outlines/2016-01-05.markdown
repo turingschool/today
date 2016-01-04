@@ -11,6 +11,53 @@ layout: outline
 
 ## 1508
 
+### Testing an Internal API (9:00 - 10:30)
+
+Join Steve in **Classroom B**
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_an_internal_api.md)
+
+### Serving JSON from Rails (10:30 - 12:00)
+
+Join Nate in **Classroom B**
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/serving_json_from_rails.md)
+
+### Checkins and Project Worktime (1:00 - 4:00)
+
+#### With Andrew
+
+* Amber Crawford
+* Marlo Major
+* Ross Edfort
+* Jhun de Andres
+* Aaron Careaga
+* Matt Rooney
+* Ryan Johnson
+* Jerrod Paul Junker
+
+#### With Josh
+
+* Sekhar Paladugu
+* Emily Dowdle
+* Jason Pilz
+* Edgar Duran
+* Tyler Komoroske
+* Torie Warren
+* Adam Jensen
+* Justin Pease
+
+#### With Tess
+
+* Jill Donohue
+* Nicole Hall
+* John Slota
+* Shannon Paige
+* Matt Stjernholm
+* Pat Wey
+* Robbie Lane
+* Michael Wong
+
 ## 1510
 
 ## 1511
