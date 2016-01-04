@@ -31,7 +31,7 @@ layout: outline
 * (9:00) - Sekhar Paladugu
 * (9:15) - Emily Dowdle
 * (9:30) - Jason Pilz
-* (9:45) - Edgar Duran 
+* (9:45) - Edgar Duran
 * (10:00) - Pat Wey
 * (10:15) - Tyler Komoroske
 * (10:30) - Robbie Lane
@@ -46,7 +46,7 @@ layout: outline
 * (11:30) - Adam Jensen
 * (11:45) - Shannon Paige
 
-### Project Work Time (1:00 - 4:00)
+### Trelora Pitch & Project Work Time (1:00 - 4:00)
 
 ## 1510
 
