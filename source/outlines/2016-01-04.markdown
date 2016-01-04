@@ -5,35 +5,234 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+* Prepossessing - adjective - that impresses favorably; engaging or attractive
+
+### Cleanup
+
+Today, it is staff.
+
 
 ## 1507
 
-### Understanding Logical Operators (9:00 - 10:00)
+### Linked Lists in JavaScript and Ruby (9:00 - 10:30)
 
-Working in pairs, make the tests in [this repository][lojs] pass and then come with a set of golden rules for how logical operators work.
+Meet with Steve in **Classroom B** to revisit [Linked Lists][ll].
 
-[lojs]: https://github.com/turingschool-examples/logical-operators-in-javascript/tree/master
+[ll]: https://github.com/turingschool/challenges/blob/master/linked_lists.markdown
+
+#### Ruby (9:00 - 9:30)
+
+You'll work in the following pairs:
+
+* Robert Cornell & Bret Doucette
+* George Hudson & Mimi Schatz
+* Mary Beth Burch & Jack Yeh
+* Russell Harms & Ryan Asensio
+* Justin Holzmann & Chris Cenatiempo
+* Jeff Ruane & Matt Ewell
+* Michael Merrill & Erik Butcher
+* Matt Hecker & Travis Haby
+* Regis Boudinot & Rose Kohn
+* Tyler Graham & Rick Bacci
+* Alon Waisman & Dave Maurer
+
+Steve will review some approaches from 9:30 to 9:45.
+
+#### JavaScript (9:45 - 10:15)
+
+You'll work in the following pairs:
+
+* Ryan Asensio & Erik Butcher
+* Robert Cornell & Dave Maurer
+* Michael Merrill & Mimi Schatz
+* Rick Bacci & Rose Kohn
+* Travis Haby & Justin Holzmann
+* Matt Hecker & Russell Harms
+* Alon Waisman & Matt Ewell
+* George Hudson & Bret Doucette
+* Regis Boudinot & Mary Beth Burch
+* Jeff Ruane & Jack Yeh
+* Chris Cenatiempo & Tyler Graham
+
+Steve will review some approaches from 10:15 to 10:30.
+
+### Binary Search Trees in JavaScript and Ruby (10:30 - 12:00)
+
+Stay in **Classroom B** for more coding and thinking with Steve.
+
+#### Pair Practice (10:45 - 11:30)
+
+You'll work in the following pairs and tackle Binary Search Trees in either Ruby or JavaScript:
+
+* Travis Haby & Tyler Graham
+* Mary Beth Burch & Russell Harms
+* Dave Maurer & Matt Hecker
+* Robert Cornell & Chris Cenatiempo
+* Erik Butcher & Michael Merrill
+* Rose Kohn & Justin Holzmann
+* Jeff Ruane & Rick Bacci
+* Ryan Asensio & Jack Yeh
+* Matt Ewell & Bret Doucette
+* Mimi Schatz & George Hudson
+* Alon Waisman & Regis Boudinot
+
+#### Peer Review (11:30 - 12:00)
+
+Spend 15 minutes on each person's approach.
+
+* Mimi Schatz & Tyler Graham
+* Chris Cenatiempo & Ryan Asensio
+* Robert Cornell & Bret Doucette
+* Jeff Ruane & Rick Bacci
+* Alon Waisman & Matt Hecker
+* Erik Butcher & Justin Holzmann
+* Dave Maurer & George Hudson
+* Matt Ewell & Russell Harms
+* Regis Boudinot & Michael Merrill
+* Mary Beth Burch & Travis Haby
+* Rose Kohn & Jack Yeh
+
+### Dangerous Denver (1:00 - 2:30)
+
+Come back to **Classroom B** after lunch and figure out which parts of Denver are the most dangerous.
+
+Clone this [repo](https://github.com/turingschool-examples/dangerous-denver) before class.
+
+You'll be working in the following pairs until 2:15:
+
+* Mary Beth Burch & Travis Haby
+* Ryan Asensio & Rose Kohn
+* Rick Bacci & Michael Merrill
+* Mimi Schatz & Tyler Graham
+* Russell Harms & Justin Holzmann
+* Chris Cenatiempo & Regis Boudinot
+* Matt Ewell & Alon Waisman
+* George Hudson & Dave Maurer
+* Matt Hecker & Jack Yeh
+* Erik Butcher & Jeff Ruane
+* Robert Cornell & Bret Doucette
+
+### Technical Interivew Prep (2:30 - 4:00)
+
+Big Workspace.
 
 ## 1508
 
-### Building an API - STOREDOM - (9:00 - 12:00 ish)
+### Building and Securing an API (9:00 - 12:00)
 
-We will help Storedom become more than just a showroom. Today we will learn how to utilize rails to serve up an API. Join Andrew in classroom B to kick things back into gear.
+Join Andrew in the Big Workspace to learn how to build and secure an API.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.md)
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Kickin' Off Rales Engine! Big Workspace
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
+>>>>>>> a104f6090436540deae4fdfb1b4ad1d040087858
 
 ## 1510
+
+### Mix Master Q & A (9:00 - 10:00)
+
+Join Rachel in Classroom C to talk about Mix Master.
+
+If time permits, start on the extensions with [Part 6: Controller Testing](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/6_controller_tests.markdown) and/or [Part 7: Implementing User OAuth login with Spotify](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/7_implementing_users.markdown).
+
+### Active Record Obstacle Course (10:00 - 12:00)
+
+It's dangerous to go alone. Take [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown)
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Join guest insructor Nate in Classroom C.
+
+### Technical Interivew Prep (2:30 - 4:00)
+
+Big Workspace
 
 ## 1511
 
 ### All: Git & Github for Pairs (9:00 - 10:30)
 
-Join Horace in **Classroom A** to talk about a standard
-git workflow for pairing.
+Join Horace in **Classroom A**. We'll start off with a bit of discussion
+then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown).
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
+**For the exercise, use these pairs:**
+
+* David Whitaker & Matt Packer
+* Allan Blair & Scott Firestone
+* Brian Rippeto & Admir Draganovic
+* Matt DesMarteau & Hedy Woo
+* Adam Hundley & Thomas Pickett
+* Gurusundesh Khalsa & Nick Weiland
+* Alexis Navarrete & Chelsea Johnson
+* Brennan Holtzclaw & July Tran
+* Marina Corona & Charles Ellison
+* Julian Feliciano & Nate Venn
+* Deborah Hamel & Kimiko Kano
+* Erinna Chen & Nicholas Dorans
+* Heidi Hoopes & Adrienne Domingus
+* Matt Pindell & Alireza Andersen
 
 ### All: Project Kickoffs (10:30 - 11:00)
 
-### All: Work Time (11:00 - 12:00)
+Today we'll kick off your first paired project, [HTTP - Yeah you know me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
 
-### All: Mid-Module Diagnostic and Work Time (1:00 - 4:00)
+Join us in Classroom A.
+
+### All: Diagnostics & Work Time (11:00 - 4:00)
+
+Find your diagnostic time below and make sure you're there on time.
+
+When you're not doing the diagnostic, get with your pair and start diving into your project.
+Don't forget to DTR.
+
+#### With Tess
+
+* **11:00 - 11:30** - Alireza Andersen
+* **11:30 - 12:00** - Allan Blair
+
+#### With Rachel
+
+* **11:00 - 11:30** - David Whitaker
+* **11:30 - 12:00** - Heidi Hoopes
+
+#### With Jeff
+
+* **11:00 - 11:30** - Matt Packer
+* **11:30 - 12:00** - Nate Venn
+* **1:00 - 1:30** - Adam Hundley
+* **1:30 - 2:00** - Alexis Navarrete
+* **2:00 - 2:30** - Admir Draganovic
+* **2:30 - 3:00** - Adrienne Domingus
+
+#### With Horace
+
+* **11:00 - 11:30** - Matt Pindell
+* **11:30 - 12:00** - Matt DesMarteau
+* **1:00 - 1:30** - Brennan Holtzclaw
+* **1:30 - 2:00** - Brian Rippeto
+* **2:00 - 2:30** - Charles Ellison
+* **2:30 - 3:00** - Chelsea Johnson
+
+#### With Josh
+
+* **11:00 - 11:30** - Kimiko Kano
+* **11:30 - 12:00** - Marina Corona
+* **1:00 - 1:30** - July Tran
+* **1:30 - 2:00** - Erinna Chen
+* **2:00 - 2:30** - Gurusundesh Khalsa
+* **2:30 - 3:00** - Hedy Woo
+
+#### With Lovisa
+
+* **11:00 - 11:30** - Nicholas Dorans
+* **11:30 - 12:00** - Nick Weiland
+* **1:00 - 1:30** - Scott Firestone
+* **1:30 - 2:00** - Thomas Pickett'
+* **2:00 - 2:30** - Julian Feliciano
+* **2:30 - 3:00** - Deborah Hamel
