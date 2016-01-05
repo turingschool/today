@@ -115,10 +115,50 @@ patterns for refactoring code.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown)
 
+#### Station 1 Groups
+
+* Thomas Pickett, Gurusundesh Khalsa, Brian Rippeto
+* Kimiko Kano, Emily Blanchard, Adam Hundley
+* Hedy Woo, Matt DesMarteau, Nate Venn
+* Admir Draganovic, Heidi Hoopes, Nick Weiland
+* Alireza Andersen, July Tran, Charles Ellison
+* Matt Pindell, Nicholas Dorans, Adrienne Domingus
+* Chelsea Johnson, Matt Packer, Alexis Navarrete
+* Brennan Holtzclaw, Scott Firestone, Erinna Chen
+* Allan Blair, Deborah Hamel, Julian Feliciano
+* Marina Corona, David Whitaker
+
+#### Station 2 Groups
+* Chelsea Johnson, July Tran, Matt Pindell
+* Scott Firestone, Nick Weiland, Thomas Pickett
+* Kimiko Kano, Gurusundesh Khalsa, Emily Blanchard
+* Nicholas Dorans, Marina Corona, Erinna Chen
+* Nate Venn, Charles Ellison, Matt DesMarteau
+* Adam Hundley, David Whitaker, Julian Feliciano
+* Brennan Holtzclaw, Brian Rippeto, Admir Draganovic
+* Heidi Hoopes, Alexis Navarrete, Deborah Hamel
+* Matt Packer, Allan Blair, Adrienne Domingus
+* Alireza Andersen, Hedy Woo
+
+#### Station 3 Groups
+
+* Brennan Holtzclaw, Matt DesMarteau, Alireza Andersen
+* Heidi Hoopes, Nate Venn, Admir Draganovic
+* Charles Ellison, Julian Feliciano, Deborah Hamel
+* Kimiko Kano, Marina Corona, Adrienne Domingus
+* Alexis Navarrete, Nick Weiland, Matt Packer
+* July Tran, Thomas Pickett, Hedy Woo
+* Gurusundesh Khalsa, Scott Firestone, David Whitaker
+* Adam Hundley, Emily Blanchard, Brian Rippeto
+* Chelsea Johnson, Matt Pindell, Erinna Chen
+* Allan Blair, Nicholas Dorans
+
 ### All: Paired Refactorings (11:00 - 12:00)
 
 Join Josh Cheek in **Classroom A** to work on some directed
 paired refactoring.
+
+[Exercises](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/paired_refactoring.markdown)
 
 ### All: Load Paths & Requires
 
