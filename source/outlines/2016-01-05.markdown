@@ -90,7 +90,7 @@ Join Rachel in Classroom C.
 
 ### Authentication in ToolChest (1:00 - 4:00)
 
-Add account creation, login, and logout functionality to ToolChest. Then make it so that each tool belongs to a user, and a logged in user only sees their own tools. 
+Add account creation, login, and logout functionality to ToolChest. Then make it so that each tool belongs to a user, and a logged in user only sees their own tools.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
@@ -116,6 +116,8 @@ Join Horace in **Classroom A** to talk about some common
 patterns for refactoring code.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown)
+
+If you want moar, [here's a video](https://vimeo.com/130882701) of Josh actually refactoring his Enigma.
 
 #### Station 1 Groups
 
