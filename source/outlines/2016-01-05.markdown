@@ -23,6 +23,8 @@ Module 4, it is your time to shine.
 
 Join Josh in the Big Workspace.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
+
 ### Building and Unit Testing an Express Application (1:00 - 4:00)
 
 Meet with Lovisa in Classroom B.
