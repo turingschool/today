@@ -111,6 +111,12 @@ patterns for refactoring code.
 Join Josh Cheek in **Classroom A** to work on some directed
 paired refactoring.
 
-### All: Project Strategy / Q&A (1:00 - 2:00)
+### All: Load Paths & Requires
 
-Join Jeff in **Classroom A** to discuss the current project.
+Come back to **Classroom A** after lunch where Josh will work with you on load paths and requires.
+
+### All: Project Q&A and Work Time (2:30 - 3:00)
+
+*Optionally* join Jeff in **Classroom A** to discuss the current project and answer your questions.
+
+Then push forward with your project for the rest of the day.
