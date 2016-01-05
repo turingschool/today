@@ -184,6 +184,7 @@ paired refactoring.
 ### All: Load Paths & Requires
 
 Come back to **Classroom A** after lunch where Josh will work with you on load paths and requires.
+Lesson Plan: [https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/load_path_and_require.markdown](https://github.com/turingschool/lesson_plans/blob/09d7c87815fa60d4b917cf90c21337fad9e74a0f/ruby_01-object_oriented_programming_with_ruby/load_path_and_require.markdown)
 
 ### All: Project Q&A and Work Time (2:30 - 3:00)
 
