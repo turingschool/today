@@ -162,6 +162,23 @@ paired refactoring.
 
 [Exercises](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/paired_refactoring.markdown)
 
+#### Pairs
+
+* July Tran & Matt DesMarteau
+* Alexis Navarrete & Brennan Holtzclaw
+* Admir Draganovic & Brian Rippeto
+* Deborah Hamel & Chelsea Johnson
+* Matt Pindell & Adrienne Domingus
+* Scott Firestone & Heidi Hoopes
+* Julian Feliciano & Gurusundesh Khalsa
+* Nick Weiland & Thomas Pickett
+* Hedy Woo & Adam Hundley
+* Nate Venn & David Whitaker
+* Marina Corona & Erinna Chen
+* Matt Packer & Allan Blair
+* Alireza Andersen & Kimiko Kano
+* Charles Ellison & Nicholas Dorans
+
 ### All: Load Paths & Requires
 
 Come back to **Classroom A** after lunch where Josh will work with you on load paths and requires.
