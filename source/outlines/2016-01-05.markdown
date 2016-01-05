@@ -15,14 +15,21 @@ layout: outline
 
 ### Cleanup
 
-#### Module 4, it is your time to shime.
+Module 4, it is your time to shine.
 
 ## 1507
 
 ### Advanced ActiveRecord and Arel (9:00 - 12:00)
 
-### TBA (1:00 - 4:00)
+Join Josh in the Big Workspace.
 
+### Building and Unit Testing an Express Application (1:00 - 4:00)
+
+Meet with Lovisa in Classroom B.
+
+This afternoon, you'll start on [Pizza Express][pe] a "little" tutorial that will show you how to unit test and build an Express application from first principles.
+
+[pe]: https://github.com/turingschool-examples/pizza-express
 
 ## 1508
 
