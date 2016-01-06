@@ -10,6 +10,12 @@ with pride, as over one's family.
 
 (True Facts: This is how we feel about all of you.)
 
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
 ### Module 3 Cleanup
 
 ## 1507
