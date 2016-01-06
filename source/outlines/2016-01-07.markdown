@@ -101,3 +101,10 @@ Join Josh Cheek in **Classroom A** to talk about regular
 expressions.
 
 [Relevant](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+
+### Pairing with Lovisa 
+
+* 2.30 - 3.00 Admir
+* 3.00 - 3.30 Matt Desmarteau 
+* 3.30 - 4.00 Nate Venn
+
