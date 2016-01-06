@@ -31,7 +31,7 @@ In preparation for our performance crash course, please take a moment to do 2 th
 
 ### Mini-Scale Up (1:00 - 4:00)
 
-This afternoon you'll be working through a scaled-down, Scale-Up. Horace and Lovisa are on hand for questions.
+This afternoon you'll be working through a scaled-down, [Scale-Up](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/scaled_down_scale_up.markdown). Horace and Lovisa are on hand for questions.
 
 ### Pairing with Nate (2:30 - 3:30)
 
