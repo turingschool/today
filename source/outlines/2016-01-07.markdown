@@ -74,6 +74,23 @@ Big Workspace.
 
 ## 1510
 
+### Trump Git Burritos (9:00 - 11:00)
+
+Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C. 
+
+### Mini-Project Kick-Off (11:00 - 11:30)
+
+Today is the first day of the [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown). 
+
+* Aaron Greenspan & Beth Secor
+* Greg Armstrong & Steve Pentler
+* Hector Huertas Baeza & Dan Winter
+* Steven Olson & Brenna Martenson
+* Penney Garrett & Jordan Lawler
+* Joseph Perry & Taylor Moore 
+* Brant Wellman & James Crockett
+* Toni Rib & Beth Sebian & Lenny Myerson
+
 ### Mid-Module Assessments (1:00 - 4:00)
 
 With Rachel:
