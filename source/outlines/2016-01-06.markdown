@@ -31,11 +31,11 @@ In preparation for our performance crash course, please take a moment to do 2 th
 
 ### Mini-Scale Up (1:00 - 4:00)
 
-This afternoon you'll be working through a scaled-down [Scale Up](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/scaled_down_scale_up.markdown). Horace and Lovisa are on hand for questions.
+This afternoon you'll be working through a scaled-down, Scale-Up. Horace and Lovisa are on hand for questions.
 
 ### Pairing with Nate (2:30 - 3:30)
 
-- 2:30 - 3:00: Regis
+- 2:30 - 3:00: MB
 - 3:00 - 3:30: Jeff
 
 ### One-on-Ones (1:00 - 4:00)
@@ -104,11 +104,7 @@ This morning, Mike will teach you how to pronounce route correctly.
 ### Authorization (10:30 - 12:00)
 
 You learned you some authentication yesterday. Today, you meet its twin sibling,
-Authorization. 
-
-Join Rachel in Classroom C. You'll need the `authentication-finished` branch of the [authentication-authorization](https://github.com/turingschool-examples/authentication-authorization/tree/authentication-finished) repo. 
-
-If you want the lesson outline, you can find that [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). 
+Authorization.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
