@@ -107,10 +107,32 @@ Ruby's Module system.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/modules.markdown)
 
-### All: Cross-Cohort Pairing
+### All: Cross-Team Pairing (11:00 - 12:00)
 
-### All: Pairing Games
+Get together with the classmate listed below. Spend the hour exploring each other's code. Consider some of these questions:
 
-Join Jeff in **Classroom A** to play some pairing games!
+* What is similar between your implementations? Are there similarities beyond what you used from the tutorial?
+* What's different? Try and get deeper than the characters on the screen -- what's different about *the approach*?
+* Any key insights that can accelerate your work?
 
-### All: Work Time (2:00 - 4:00)
+#### Pairings
+
+* Heidi Hoopes & Alex Navarrete
+* Julian Feliciano & Nicholas Dorans
+* Erinna Chen & Scott Firestone
+* Allan Blair & Kimiko Kano
+* Matt Desmarteau & July Tran
+* Nick Weiland & Marina Corona
+* Hedy Woo & Adam Hundley
+* Nathan Venn & Thomas Pickett
+* Admir Draganovic & Adrienne Domingus
+* David Whitaker & Alireza Andersen
+* Chelsea Johnson & Gurusundesh Khalsa
+* Matt Pindell & Brennan Holtzclaw
+* Matthew Packer & Deborah Hamel
+* Brian Rippeto & Charles Ellison
+
+### All: Work Time (1:00 - 4:00)
+
+This afternoon you can push forward with your work. Make sure to share and reflect
+on what you learned in your cross-team pairing.
