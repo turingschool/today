@@ -76,7 +76,7 @@ Big Workspace.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
-With Rachel: 
+With Rachel:
 
 * 1:00 Steve Pentler
 * 1:45 Joseph Perry
@@ -88,23 +88,63 @@ With Mike:
 
 ## 1511
 
-### All: Project Evals and Weekly Diagnostic (9:00 - 12:00)
-
-### All: Peer Refactoring (1:00 - 2:30)
-
-Join Jeff in **Classroom A** to work on refactoring our latest project
-with a friend.
-
-### All: Regular Expressions for Fun and Profit (2:30 - 4:00)
+### All: Regular Expressions for Fun and Profit (9:00 - 11:00)
 
 Join Josh Cheek in **Classroom A** to talk about regular
 expressions.
 
 [Relevant](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 
-### Pairing with Lovisa 
+### All: Weekly Diagnostic (11:00 - 12:00)
+
+In Classroom A we'll spend the first 40 minutes working on the diagnostic, then the last 20 going over it with Horace.
+
+### All: Peer Refactoring (1:00 - 2:30)
+
+Yesterday you did some cross-pair collaboration looking at ideas and approaches. Today let's focus on *applying* the refactoring techniques you studied earlier this week. It's probably best to just focus on one project during this time, so use the project of the person listed on the left below:
+
+* Heidi Hoopes & Scott Firestone
+* Julian Feliciano & Kimiko Kano
+* Erinna Chen & July Tran
+* Allan Blair & Marina Corona
+* Matt Desmarteau & Adam Hundley
+* Nick Weiland & Thomas Pickett
+* Hedy Woo & Adrienne Domingus
+* Nathan Venn & Alireza Andersen
+* Admir Draganovic & Gurusundesh Khalsa
+* David Whitaker & Brennan Holtzclaw
+* Chelsea Johnson & Deborah Hamel
+* Matt Pindell & Charles Ellison
+* Matthew Packer & Alex Navarrete
+* Brian Rippeto & Nicholas Dorans
+
+Look for opportunities to use *extract method* or maybe *extract class*. Can you simplify some of the conditional logic?
+
+### Work Time & 1-on-1s
+
+#### With Jeff
+
+* 3:00 -- Nate Venn
+* 3:15 -- Allan Blair
+* 3:30 -- Matt Pindell
+* 3:45 -- Hedy Woo
+
+#### With Horace
+
+* 3:00 -- Admir Draganovic
+* 3:15 -- Kimiko Kano
+* 3:30 -- Marina Corona
+* 3:45 -- Matt Packer
+
+#### With Josh Cheek
+
+* 3:00 -- Brennan Holtzclaw
+* 3:15 -- Matt DesMarteau
+* 3:30 -- Adrienne Domingus
+* 3:45 -- Nick Weiland
+
+### Pairing with Lovisa
 
 * 2.30 - 3.00 Admir
-* 3.00 - 3.30 Matt Desmarteau 
+* 3.00 - 3.30 Matt Desmarteau
 * 3.30 - 4.00 Nate Venn
-
