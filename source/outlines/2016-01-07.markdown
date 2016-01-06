@@ -63,37 +63,72 @@ Big Workspace.
 
 ## 1508
 
-### Traversing the DOM with jQuery (9:00 - 10:30)
+### Rails Engine Evals (9:00 - 12:00)
 
-### DOM Events with jQuery (10:30 - 12:00)
+#### With Andrew
 
-### Project Work Time (1:00 - 2:30)
+* Amber Crawford(9:00 - 9:20)
+* Ross Edfort(9:20 - 9:40)
+* Jhun de Andres(9:40 - 10:00)
+* Aaron Careaga(10:00 - 10:20)
+* Matt Rooney(10:20 - 10:40)
+* Sekhar Paladugu(10:50 - 11:10)
+* Emily Dowdle(11:10 - 11:30)
+* Edgar Duran(11:30 - 11:50)
 
-### Technical Interview Prep (2:30 - 4:00)
+#### With Josh
+
+* Ryan Johnson(9:00 - 9:20)
+* Shannon Paige(9:20 - 9:40)
+* Nicole Hall(9:40 - 10:00)
+* Marlo Major(10:00 - 10:20)
+* Jason Pilz(10:20 - 10:40)
+* Torie Warren(10:50 - 11:10)
+* Jerrod Paul Junker(11:10 - 11:30)
+* Robbie Lane(11:30 - 11:50)
+
+#### With Tess
+
+* Jill Donohue(9:00 - 9:20)
+* John Slota(9:20 - 9:40)
+* Matt Stjernholm(9:40 - 10:00)
+* Pat Wey(10:00 - 10:20)
+* Michael Wong(10:20 - 10:40)
+* Tyler Komoroske(10:50 - 11:10)
+* Adam Jensen(11:10 - 11:30)
+* Justin Pease(11:30 - 11:50)
+
+### Personal Project Bucket Time! (1:00 - 2:30)
+
+Let's all get together in the Big Workspace to share ideas, confirm our project ideas are valid, clear up any questions about the personal project and get started on your personal projects!
+
+### Getting Started with the Personal Project (2:30 - 4:00)
+
+1..2..3.. Do it. Explore your API. Make sure you aren't taking on an impossible project or that you're idea is generally possible. 
 
 
 ## 1510
 
 ### Trump Git Burritos (9:00 - 11:00)
 
-Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C. 
+Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C.
 
 ### Mini-Project Kick-Off (11:00 - 11:30)
 
-Today is the first day of the [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown). 
+Today is the first day of the [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown).
 
 * Aaron Greenspan & Beth Secor
 * Greg Armstrong & Steve Pentler
 * Hector Huertas Baeza & Dan Winter
 * Steven Olson & Brenna Martenson
 * Penney Garrett & Jordan Lawler
-* Joseph Perry & Taylor Moore 
+* Joseph Perry & Taylor Moore
 * Brant Wellman & James Crockett
 * Toni Rib & Beth Sebian & Lenny Myerson
 
 ### The "Jobs" Talk (11:30 - 12:00)
 
-It's that time. Join Marissa in Classroom C. 
+It's that time. Join Marissa in Classroom C.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
@@ -101,7 +136,7 @@ With Rachel:
 
 * 1:00 Steve Pentler
 
-With Lovisa: 
+With Lovisa:
 
 * 1:00 Joseph Perry
 
