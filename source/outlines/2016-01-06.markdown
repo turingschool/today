@@ -22,12 +22,16 @@ with pride, as over one's family.
 
 ### Performance Dojo (9:00 - 12:00)
 
-Head to Classroom B where you will sharpen the edge to your coding blade.
+Head to Classroom B (back home, where it's safe) where you will sharpen the edge to your coding blade with the your sensei, Horace M. B. X. G. Williams.
+
+In preparation for our performance crash course, please take a moment to do 2 things:
+
+1. make sure you have redis installed and running on your machine (you know it's working when you can run `redis-cli` and get the redis prompt.
+2. clone the `blogger-perf-workshop` branch of the JSBlogger project. You can do this with `git clone -b blogger-perf-workshop https://github.com/JumpstartLab/blogger_advanced.git`
 
 ### Mini-Scale Up (1:00 - 4:00)
 
-Scale it up!
-
+This afternoon you'll be working through a scaled-down, Scale-Up. Horace and Lovisa are on hand for questions.
 
 ## 1508
 
@@ -66,9 +70,11 @@ Scale it up!
 * (11:30) - Adam Jensen
 * (11:45) - Shannon Paige
 
-### Trelora Pitch & Project Work Time (1:00 - 4:00)
+### Trelora Pitch (1:00 - 2:00)
 
 Meet in the Big Workspace
+
+### Project Work Time (2:00 - 4:00)
 
 ## 1510
 
@@ -83,20 +89,20 @@ Authorization.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
-With Rachel:
-
-* 1:00 Jordan Lawler
-* 1:45 Penney Garrett
-
 With Mike:
 
 * 1:00 Lenny Myerson
 * 1:45 Brenna Martenson
+* 2:30 Jordan Lawler
 
 With Nate:
 
-* 1:00 James Crockett
+* 1:00 Steven Olson
 * 1:45 Toni Rib
+
+With Andrew:
+
+* 1:15 Penney Garrett
 
 ## 1511
 
