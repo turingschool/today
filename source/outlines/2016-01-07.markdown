@@ -129,8 +129,8 @@ Look for opportunities to use *extract method* or maybe *extract class*. Can you
 #### With Jeff
 
 * 3:00 -- Nate Venn
-* 3:15 -- Allan Blair
-* 3:30 -- Matt Pindell
+* 3:15 -- Matt Pindell
+* 3:30 -- Allan Blair
 * 3:45 -- Hedy Woo
 
 #### With Horace
