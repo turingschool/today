@@ -5,9 +5,23 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+* kvell - verb - to be extraordinarily pleased; especially, to be bursting
+with pride, as over one's family.
+
+(True Facts: This is how we feel about all of you.)
+
+### Module 3 Cleanup
 
 ## 1507
+
+### Performance Dojo (9:00 - 12:00)
+
+Head to Classroom B where you will sharpen the edge to your coding blade.
+
+### Mini-Scale Up (1:00 - 4:00)
+
+Scale it up!
+
 
 ## 1508
 
@@ -36,7 +50,7 @@ layout: outline
 * (10:15) - Tyler Komoroske
 * (10:30) - Robbie Lane
 * (10:45) - Justin Pease
-* (11:00) - Nicole Hall  
+* (11:00) - Nicole Hall
 * (11:15) - Michael Wong
 
 #### With Josh
@@ -51,6 +65,15 @@ layout: outline
 Meet in the Big Workspace
 
 ## 1510
+
+### Routing in Rails (9:00 - 10:30)
+
+This morning, Mike will teach you how to pronounce route correctly.
+
+### Authorization (10:30 - 12:00)
+
+You learned you some authentication yesterday. Today, you meet its twin sibling,
+Authorization.
 
 ### Mid-Module Assessments (1:00 - 4:00)
 
