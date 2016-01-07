@@ -211,8 +211,8 @@ Look for opportunities to use *extract method* or maybe *extract class*. Can you
 #### With Josh Cheek
 
 * 3:00 -- Brennan Holtzclaw
-* 3:15 -- Matt DesMarteau
-* 3:30 -- Adrienne Domingus
+* 3:15 -- Adrienne Domingus
+* 3:30 -- Matt DesMarteau
 * 3:45 -- Nick Weiland
 
 ### Pairing with Lovisa
