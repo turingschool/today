@@ -113,14 +113,12 @@ Let's all get together in the Big Workspace to share ideas, confirm our project 
 
 Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C.
 
-* Taylor Moore & Beth Secor
-* Greg Armstrong & Toni Rib
-* Steve Pentler & Brant Wellman 
-* Hector Huertas Baeza & Jordan Lawler 
-* Dan Winter & Steven Olson
-* Brenna Martenson & Penney Garrett
-* James Crockett & Lenny Myerson
-* Aaron Greenspan & Joseph Perry & Beth Sebian
+* Taylor Moore & Beth Secor & Toni Rib
+* Greg Armstrong & Steve Pentler & Brant Wellman 
+* Hector Huertas Baeza & Jordan Lawler & Steven Olson
+* Dan Winter & Brenna Martenson & Penney Garrett
+* James Crockett & Lenny Myerson & Beth Sebian
+* Aaron Greenspan & Joseph Perry 
 
 ### Mini-Project Kick-Off (11:00 - 11:30)
 
