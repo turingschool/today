@@ -48,17 +48,45 @@ Archipelago.
 
 ## 1507
 
-### Object-Oriented JavaScript with HTML Canvas (9:00 - 12:00)
+### Refactor Tractor - The JS Edition (9:00 - 12:00)
 
 Classroom B.
 
-### Game Time Kickoff (1:00 - 2:30)
+__Refactor Buddy Pairs__
 
-Classroom B.
+* Ryan Asensio & Rose Kohn & Zach Roth
+* Michael Merrill & Matt Hecker
+* Matt Ewell & Robert Cornell
+* Jack Yeh & Tyler Graham
+* Travis Haby & Chris Cenatiempo
+* Russell Harms & Justin Holzmann
+* MB Burch & Alon Waisman
+* Rick Bacci & George Hudson
+* Bret Doucette & Erik Butcher
+* Mimi Schatz & Jeff Ruane
+* Regis Boudinot & Dave Maurer
 
-### Technical Interview Prep (2:30 - 4:00)
+### Web Scraping for Fun and Profit (1:00 - 4:00)
 
-Big Workspace.
+Meet with Nate in Classroom B and in your Nightmares.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/web_scraping_for_fun_and_profit.markdown)
+
+[Github Repo](https://github.com/turingschool-examples/kickscrape)
+
+"Code in Pairs" pairs
+
+* Russell Harms & Mimi Schatz
+* Jeff Ruane & Bret Doucette
+* Mary Beth Burch & Regis Boudinot
+* Matt Ewell & Alon Waisman
+* Ryan Asensio & Travis Haby
+* George Hudson & Matt Hecker
+* Justin Holzmann & Rick Bacci
+* Erik Butcher & Robert Cornell
+* Dave Maurer & Michael Merrill
+* Jack Yeh & Tyler Graham
+* Rose Kohn & Chris Cenatiempo
 
 
 ## 1508
@@ -111,7 +139,14 @@ Let's work on our personas for your personal project and get our heads inside th
 
 ### Trump Git Burritos (9:00 - 11:00)
 
-Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C.
+Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/git_redux.markdown).
+
+* Taylor Moore & Beth Secor & Toni Rib
+* Greg Armstrong & Steve Pentler & Brant Wellman
+* Hector Huertas Baeza & Jordan Lawler & Steven Olson
+* Dan Winter & Brenna Martenson & Penney Garrett
+* James Crockett & Lenny Myerson & Beth Sebian
+* Aaron Greenspan & Joseph Perry
 
 ### Mini-Project Kick-Off (11:00 - 11:30)
 
@@ -185,8 +220,8 @@ Look for opportunities to use *extract method* or maybe *extract class*. Can you
 #### With Jeff
 
 * 3:00 -- Nate Venn
-* 3:15 -- Allan Blair
-* 3:30 -- Matt Pindell
+* 3:15 -- Matt Pindell
+* 3:30 -- Allan Blair
 * 3:45 -- Hedy Woo
 
 #### With Horace
@@ -199,8 +234,8 @@ Look for opportunities to use *extract method* or maybe *extract class*. Can you
 #### With Josh Cheek
 
 * 3:00 -- Brennan Holtzclaw
-* 3:15 -- Matt DesMarteau
-* 3:30 -- Adrienne Domingus
+* 3:15 -- Adrienne Domingus
+* 3:30 -- Matt DesMarteau
 * 3:45 -- Nick Weiland
 
 ### Pairing with Lovisa
