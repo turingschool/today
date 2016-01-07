@@ -52,9 +52,12 @@ Archipelago.
 
 Classroom B.
 
-### Game Time Kickoff (1:00 - 2:30)
+### Web scraping for fun and profit (1:00 - 2:30)
 
-Classroom B.
+Join Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/web_scraping_for_fun_and_profit.markdown)
+[Github Repo](https://github.com/turingschool-examples/kickscrape)
 
 ### Technical Interview Prep (2:30 - 4:00)
 
