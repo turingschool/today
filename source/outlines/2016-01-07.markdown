@@ -132,7 +132,7 @@ Let's all get together in the Big Workspace to share ideas, confirm our project 
 
 ### Getting Started with the Personal Project (2:30 - 4:00)
 
-Let's work on our personas for your personal project and get our heads inside the heads of our target customers. 
+Let's work on our personas for your personal project and get our heads inside the heads of our target customers.
 
 
 ## 1510
@@ -185,10 +185,13 @@ With Mike:
 
 ### All: Regular Expressions for Fun and Profit (9:00 - 11:00)
 
-Join Josh Cheek in **Classroom A** to talk about regular
-expressions.
+Join Josh Cheek in **Classroom A** to talk about regular expressions.
 
-[Relevant](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+**Coalesce our knowledge into this single cheatsheet! [https://github.com/JoshCheek/regular-expression-knowledge-we-have-discovered](https://github.com/JoshCheek/regular-expression-knowledge-we-have-discovered)**
+
+* 20 Posse points to whoever figures out [the second one challenge!](https://gist.github.com/JoshCheek/8fecdd87323742e12dcd#file-regexp_challenge-rb-L31)
+* Do the [https://regexcrossword.com/](https://regexcrossword.com/) to challenge yourself!
+* [Relevant](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 
 ### All: Weekly Diagnostic (11:00 - 12:00)
 
