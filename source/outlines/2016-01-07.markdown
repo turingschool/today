@@ -111,7 +111,7 @@ Let's all get together in the Big Workspace to share ideas, confirm our project 
 
 ### Trump Git Burritos (9:00 - 11:00)
 
-Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C.
+Come learn about words like "interactive" and "rebase" and "squash" and "commit" in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/git_redux.markdown). 
 
 * Taylor Moore & Beth Secor & Toni Rib
 * Greg Armstrong & Steve Pentler & Brant Wellman 
