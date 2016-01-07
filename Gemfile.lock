@@ -145,6 +145,3 @@ DEPENDENCIES
   rack-contrib
   rspec
   sass (= 3.4.5)
-
-BUNDLED WITH
-   1.10.6
