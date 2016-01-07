@@ -66,6 +66,10 @@ __Refactor Buddy Pairs__
 * Mimi Schatz & Jeff Ruane
 * Regis Boudinot & Dave Maurer
 
+### Web Scraping for Fun and Profit (1:00 - 4:00)
+
+Meet with Nate in Classroom B and in your Nightmares.
+
 ## 1508
 
 ### Rails Engine Evals (9:00 - 12:00)
