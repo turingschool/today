@@ -5,16 +5,46 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+* terpischorean - adjective - pertaining to dancing.
 
-## 1507
+### Surveys and Breakfast (8:30 - 9:00)
 
-## 1508
+Your input is important to us.
 
-## 1510
+* [1507]()
+* [1508]()
+* [1510]()
+* [1511]()
 
-## 1511
+### Module 1 Clean Up
 
-### All: Recitation (9:00 - 11:00)
+### Academic Time (9:00 - 10:30)
 
-Join Horace in **Classroom A** to recap the material for this week.
+#### 1507
+
+Meet in Classroom B.
+
+#### 1508
+
+Meet in the Big Workspace
+
+#### 1510
+
+Meet in the Classroom C.
+
+#### 1511
+
+Meet in the Classroom A.
+
+### Gear Up (10:30 - 11:15)
+
+Gather in the Big Workspace.
+
+### Group Retro (11:15 - 12:00)
+
+* 1507 - Classroom B.
+* 1508 - El gran espacio de trabajo.
+* 1510 - Classroom C.
+* 1511 - Classroom A.
+
+
