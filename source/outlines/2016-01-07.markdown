@@ -72,7 +72,7 @@ Meet with Nate in Classroom B and in your Nightmares.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/web_scraping_for_fun_and_profit.markdown)
 
-[Github Repo](https://github.com/turingschool-examples/kickscrape
+[Github Repo](https://github.com/turingschool-examples/kickscrape)
 
 "Code in Pairs" pairs
 
