@@ -37,7 +37,7 @@ Stick around in Classroom B as Meeka drops by to show you how use your skills to
 
 ### 1508
 
-Meet in the Big Workspace so we can (How-To)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/howto-howto.md]
+Meet in the Big Workspace so we can [How-To](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/howto-howto.md)
 
 ### 1510
 
