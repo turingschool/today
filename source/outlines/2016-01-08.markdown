@@ -45,7 +45,9 @@ Meet in the Classroom C.
 
 ### 1511
 
-It's time to assess those projects!
+It's time to assess those projects! Find your time slot below.
+
+When you're not doing your project evaluation, please being [the EventManager tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html) which you should finish by Monday morning.
 
 #### With Jeff
 
@@ -65,7 +67,7 @@ It's time to assess those projects!
 * 9:30 - Nathan Venn & Adrienne Domingus
 * 10:00 - Admir Draganovic & Alireza Andersen
 
-#### With Mike
+#### With Lovisa
 
 * 9:30 Chelsea Johnson & Brennan Holtzclaw
 * 10:00 - David Whitaker & Gurusundesh Khalsa
