@@ -72,14 +72,14 @@ When you're not doing your project evaluation, please being [the EventManager tu
 * 9:30 Chelsea Johnson & Brennan Holtzclaw
 * 10:00 - David Whitaker & Gurusundesh Khalsa
 
+#### With Romeeka
+
+* 9:30 - Brian Rippeto & Alex Navarrete
+* 10:00 - Matt Pindell & Deborah Hamel
+
 #### With Tess
 
 * 9:30 Matthew Packer & Charles Ellison
-* 10:00 - Matt Pindell & Deborah Hamel
-
-#### With ?
-
-* 9:30 - Brian Rippeto & Alex Navarrete
 
 ## Group Retro (10:30 - 11:10)
 
