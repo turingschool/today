@@ -12,7 +12,7 @@ layout: outline
 Your input is important to us.
 
 * [1507]()
-* [1508]()
+* [1508](http://goo.gl/forms/Sfj4L2WIH3)
 * [1510](https://docs.google.com/a/casimircreative.com/forms/d/1M_cAQ_kSMlCwLyqfO1li4HFi8ynFB2l-sBGcdDhCw-E/viewform)
 * [1511]()
 
@@ -46,5 +46,3 @@ Gather in the Big Workspace.
 * 1508 - El gran espacio de trabajo.
 * 1510 - Classroom C.
 * 1511 - Classroom A.
-
-
