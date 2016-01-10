@@ -9,6 +9,10 @@ layout: outline
 
 ## 1507
 
+### Thoughtbox (9:00 - 4:00)
+
+This morning you'll be working though a simulated version of the assessment called [Thoughtbox](https://gist.github.com/stevekinney/82831c5b25029415ce8b). Steve, Meeka, and Lovisa being doing code review later in the week. That said, you should aim to have it finished no later than 4pm.
+
 ## 1508
 
 ## 1510
