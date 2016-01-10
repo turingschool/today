@@ -5,17 +5,61 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+* cineaste - noun - any person, especially a director or producer,
+associated professionally with filmmaking.
+
+### Staff Cleanup
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
 
 ## 1507
 
 ### Thoughtbox (9:00 - 4:00)
 
-This morning you'll be working though a simulated version of the assessment called [Thoughtbox](https://gist.github.com/stevekinney/82831c5b25029415ce8b). Steve, Meeka, and Lovisa being doing code review later in the week. That said, you should aim to have it finished no later than 4pm.
+This morning you'll be working though a simulated version of the assessment
+called [Thoughtbox](https://gist.github.com/stevekinney/82831c5b25029415ce8b).
+Steve, Meeka, and Lovisa being doing code review later in the week. That said,
+you should aim to have it finished no later than 4pm.
+
 
 ## 1508
 
+### Working with AJAX (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 2:30)
+
+Work.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
+
 ## 1510
+
+### Mini Project Peer Show and Tell (9:00 - 9:30)
+
+Classroom C.
+
+### Little Shop of Orders Kickoff & Work Time (9:30 - 12:00)
+
+Groups TBA.
+
+### Card and Order Life Cycle (1:00 - 2:30)
+
+Classroom C.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
 
 ## 1511
 
