@@ -9,6 +9,71 @@ layout: outline
 
 ## 1507
 
+### Thoughtbox Code Review (9:00 - 12:00)
+
+### With Meeka
+
+- 9:00:  Jack Yeh
+- 9:20:  Matt Hecker
+- 9:40:  Mary Beth Burch
+- 10:00: Alon Waisman
+- 10:20: Michael Merrill
+- 10:40: Matt Ewell
+- 11:00: Chris Cenatiempo
+- 11:20: Travis Haby
+- 11:40: Jeff Ruane
+
+### With Lovisa
+
+- 9:00:  Russell Harms
+- 9:20:  Rose Kohn
+- 9:40:  Regis Boudinot
+- 10:00: Dave Maurer
+- 10:20: Rick Bacci
+- 10:40: Mimi Schatz
+- 11:00: Bret Doucette
+- 11:20: George Hudson
+- 11:40: Tyler Graham
+
+### With Steve
+
+- 11:00: Robert Cornell
+- 11:20: Erik Butcher
+- 11:40: Justin Holzmann
+
+### Project Work Time (1:00 - 4:00)
+
+Steve, Meeka, and Lovisa are around for questions when they're not doing one-on-ones.
+
+You'll be meeting up with a colleague to review each other's approaches. Spend 30 minutes on each project (unless you're in a triplet—then spend 20 minutes):
+
+#### Round One
+
+* Robert Cornell & Chris Cenatiempo
+* Rose Kohn & Mimi Schatz
+* Travis Haby & Dave Maurer
+* Justin Holzmann & Jeff Ruane
+* Erik Butcher & Alon Waisman
+* Matt Ewell & Regis Boudinot
+* Russell Harms & Rick Bacci
+* Michael Merrill & George Hudson
+* Mary Beth Burch & Matt Hecker
+* Tyler Graham & Bret Doucette & Jack Yeh
+
+#### Round Two
+
+* Jack Yeh & Dave Maurer
+* Regis Boudinot & Chris Cenatiempo
+* Rose Kohn & Michael Merrill
+* Erik Butcher & Travis Haby
+* Rick Bacci & Jeff Ruane
+* Tyler Graham & Mimi Schatz
+* Alon Waisman & Mary Beth Burch
+* Matt Hecker & Russell Harms
+* Robert Cornell & Bret Doucette
+* George Hudson & Matt Ewell & Justin Holzmann
+
+
 ## 1508
 
 ## 1510

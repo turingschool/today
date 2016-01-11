@@ -9,6 +9,38 @@ layout: outline
 
 ## 1507
 
+### Pub/Sub on the Server (9:00 - 10:30)
+
+Meet with Steve in Classroom B.
+
+This morning we'll be discussing using Redis to implement the pub/sub pattern on the server-side.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+* [The Publish-Subscribe Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+
+### Real-Time Applications in Node (10:30 - 12:00)
+
+Stick around with Steve in Classroom B.
+
+Now that we've seen the pattern on the server-side with Ruby, let's look at pushing events from the server to the client using Node.js.
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+
+### Real Time Kickoff (1:00 - 2:00)
+
+Meet with Steve in Classroom B.
+
+This afternoon, we'll kick off your final project: [Real Time][rt].
+
+[rt]: https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown
+
+It's due on Tuesday, January 19, 2016.
+
+### Project Work Time (2:00 - 4:00)
+
+This afternoon, you'll have some time to take your initial first pass at your real time applications. **You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.**
+
+
 ## 1508
 
 ## 1510
