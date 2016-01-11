@@ -122,7 +122,7 @@ Here are your pairs for the project:
 * Deborah Hamel & Gurusundesh Khalsa working on *project name here*
 * Nicholas Dorans & Julian Feliciano working on *project name here*
 * Marina Corona & Heidi Hoopes working on *project name here*
-* Adrienne Domingus & Matt Packer working on *project name here*
+* Adrienne Domingus & Matt Packer working on Headcount
 * Alireza Andersen & Erinna Chen working on *project name here*
 * Matt Pindell & Hedy Woo working on *project name here*
 * Adam Hundley & Brian Rippeto working on *project name here*
