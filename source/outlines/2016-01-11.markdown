@@ -128,7 +128,7 @@ Here are your pairs for the project:
 * Adam Hundley & Brian Rippeto working on *project name here*
 * Charles Ellison & Scott Firestone working on *project name here*
 * Nate Venn & July Tran working on *project name here*
-* Thomas Pickett & Chelsea Johnson working on *project name here*
+* Thomas Pickett & Chelsea Johnson working on Head Count
 * Kimiko Kano & David Whitaker working on Head Count
 
 By noon you need to submit a pull request [to this outline](https://github.com/turingschool/today/blob/master/source/outlines/2016-01-11.markdown) editing your team's line above with the project you've chosen.
