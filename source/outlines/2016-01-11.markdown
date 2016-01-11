@@ -59,7 +59,7 @@ Gather in Classroom C and find your pair listed below. This your chance to show 
 
 ### Little Shop of Orders Kickoff & Work Time (9:30 - 12:00)
 
-Join Rachel in Classroom C to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown.
+Join Rachel in Classroom C to kick off [Little Shop of Orders](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown).
 
 Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original.
 
