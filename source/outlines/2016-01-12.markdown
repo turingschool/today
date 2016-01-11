@@ -11,6 +11,11 @@ layout: outline
 
 ## 1508
 
+### Understanding the Asset Pipeline (9:00 - 12:00)
+
+Join Josh for some jive in classroom B. We'll be learning about the Asset Pipeline. [Here is the outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md)  
+
+
 ## 1510
 
 ## 1511
