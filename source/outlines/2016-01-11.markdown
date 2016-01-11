@@ -117,7 +117,7 @@ For the first time we're offering a choice of projects:
 Here are your pairs for the project:
 
 * Alexis Navarrete & Matt DesMarteau working on *project name here*
-* Admir Draganovic & Nick Weiland working on *project name here*
+* Admir Draganovic & Nick Weiland working on *Black Thursday*
 * Brennan Holtzclaw & Allan Blair working on *Black Thursday*
 * Deborah Hamel & Gurusundesh Khalsa working on ~**Headcount**~
 * Nicholas Dorans & Julian Feliciano working on Headcount
