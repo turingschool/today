@@ -31,7 +31,8 @@ you should aim to have it finished no later than 4pm.
 
 ### Working with AJAX (9:00 - 12:00)
 
-Classroom B.
+Come prepared to tengo with Tess and some JavaScript in Classroom B. Andrew will get you started with, but Tess will take care of the heavy lifting in today's into to AJAX class. You can find the [outline here.](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
+
 
 ### Project Work Time (1:00 - 2:30)
 
@@ -50,7 +51,7 @@ Gather in Classroom C and find your pair listed below. This your chance to show 
 
 * Aaron Greenspan & Lenny Myerson
 * Greg Armstrong  & Beth Secor
-* Hector Huertas Baeza & Toni Rib 
+* Hector Huertas Baeza & Toni Rib
 * Steven Olson & Steve Pentler
 * Penney Garrett & Brenna Martenson
 * Joseph Perry & Jordan Lawler
@@ -65,7 +66,7 @@ Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814ea
 
 * Aaron Greenspan & Lenny Myerson
 * Greg Armstrong  & Beth Secor
-* Hector Huertas Baeza & Toni Rib 
+* Hector Huertas Baeza & Toni Rib
 * Steven Olson & Steve Pentler
 * Penney Garrett & Brenna Martenson
 * Joseph Perry & Jordan Lawler
