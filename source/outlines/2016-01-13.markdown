@@ -9,41 +9,45 @@ layout: outline
 
 ## 1507
 
-### Thoughtbox Code Review (9:00 - 12:00)
+### WebSocket Workshop (9:00 - 12:00)
 
-### With Meeka
+Meet with Lovisa is Classroom B.
 
-- 9:00:  Jack Yeh
-- 9:20:  Matt Hecker
-- 9:40:  Mary Beth Burch
-- 10:00: Alon Waisman
-- 10:20: Michael Merrill
-- 10:40: Matt Ewell
-- 11:00: Chris Cenatiempo
-- 11:20: Travis Haby
-- 11:40: Jeff Ruane
+This morning, you'll be working through [a guided implementation of a small WebSocket application][ww] that should look eerily familiar.
 
-### With Lovisa
+[ww]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown
 
-- 9:00:  Russell Harms
-- 9:20:  Rose Kohn
-- 9:40:  Regis Boudinot
-- 10:00: Dave Maurer
-- 10:20: Rick Bacci
-- 10:40: Mimi Schatz
-- 11:00: Bret Doucette
-- 11:20: George Hudson
-- 11:40: Tyler Graham
+### Real Time Check-ins (1:00 - 4:00)
 
-### With Steve
+#### With Steve
 
-- 11:00: Robert Cornell
-- 11:20: Erik Butcher
-- 11:40: Justin Holzmann
+- 1:00: Tyler Graham
+- 1:25: Rick Bacci
+- 1:50: Chris Cenatiempo
+- 2:15: Matt Hecker
+- 2:40: Mary Beth Burch
+- 3:05: Erik Butcher
+- 3:30: Mimi Schatz
 
-### Project Work Time (1:00 - 4:00)
+#### With Meeka
 
-Steve, Meeka, and Lovisa are around for questions when they're not doing one-on-ones.
+- 1:00: Regis Boudinot
+- 1:25: George Hudson
+- 1:50: Alon Waisman
+- 2:15: Michael Merrill
+- 2:40: Rose Kohn
+- 3:05: Dave Maurer
+- 3:30: Russell Harms
+
+#### With Lovisa
+
+- 1:00: Matt Ewell
+- 1:25: Jeff Ruane
+- 1:50: Justin Holzmann
+- 2:15: Travis Haby
+- 2:40: Jack Yeh
+- 3:05: Bret Doucette
+- 3:30: Robert Cornell
 
 ## 1508
 
