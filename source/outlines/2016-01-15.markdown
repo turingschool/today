@@ -5,16 +5,83 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+### Lightning Talks (1:00 - 1:45)
+
+#### Group A - Classroom A
+
+#### Group B - Big Workspace
+
+### Group Retro (1:45 - 2:30)
+
+* 1507 - Classroom B
+* 1508 - Big Workspace
+* 1510 - Classroom C
+* 1511 - Classroom A
+
 
 ## 1507
 
+### Introduction to Ember (9:00 - 10:45)
+
+Classroom B.
+
+### Routing in Ember (10:45 - 12:00)
+
+Classroom B.
+
+### Project Work Time and Check-ins (2:30 - 4:00)
+
+Do things.
+
+
 ## 1508
 
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Big Workspace.
+
+### Project Work Time (2:30 - 4:00)
+
+We are almost there!
+
+
 ## 1510
+
+### Final Assessments (9:00 - 12:00)
+
+#### With Rachel
+* 9:00 - Lenny Myerson
+* 9:45 - Steve Oscaro
+* 10:30 - Hector Huertas Baeza
+
+#### With Mike
+* 9:00 - Toni Rib
+* 9:45 - Beth Secor
+* 10:30 - Dan Winter
+
 
 ## 1511
 
 ### Intro to Portfolios (9:00 - 10:30)
 
 Join Jeff in Classroom A to talk about how portfolios work.
+
+### Final Assessments (10:30 - 12:00)
+
+#### With Jeff
+* 10:30 - Thomas Pickett
+* 11:00 - Matt Pindell
+* 11:30 - Kimiko Kano
+
+#### With Josh
+* 10:30 - July Tran
+* 11:00 - Julian Feliciano
+* 11:30 - Heidi Hoopes
+
+#### With Horace
+* 10:30 - Erinna Chen
+* 11:00 - Brennan Holtzclaw
+* 11:30 - Alex Navarrete
+
+#### With Mike
+* 11:30 - Adrienne Domingus

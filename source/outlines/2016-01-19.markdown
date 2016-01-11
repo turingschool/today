@@ -1,0 +1,131 @@
+---
+title: 20160119
+layout: outline
+---
+
+## All
+
+* linctus - noun - a syrupy liquid medicine, especially for treating coughs
+
+### Staff Cleanup
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1507
+
+### Project Work Time (9:00 - 12:00)
+
+Finish your projects.
+
+### Real Time Evaluations (1:00 - 4:00)
+
+#### With Steve
+* 12:30 - Tyler Graham
+* 1:00 - Alon Waisman
+* 1:30 - Bret Doucette
+* 2:00 - Chris Cenatiempo
+* 3:00 - George Hudson
+* 3:30 - Jack Yeh
+
+#### With Meeka
+* 1:00 - Dave Maurer
+* 1:30 - Erik Butcher
+* 2:00 - Jeff Ruane
+* 3:00 - Justin Holzmann
+* 3:30 - Rose Kohn
+
+#### With Lovisa
+* 1:00 - Mary Beth Burch
+* 1:30 - Matt Ewell
+* 2:00 - Matt Hecker
+* 3:00 - Michael Merrill
+* 3:30 - Mimi Schatz
+
+#### With Horace
+* 1:00 - Regis Boudinot
+* 1:30 - Rick Bacci
+* 2:00 - Robert Cornell
+* 2:30 - Russell Harms
+* 3:00 - Ryan Asensio
+* 3:30 - Travis Haby
+
+3
+## 1508
+
+### Getting Started With Workers (9:00 - 12:00)
+
+Big Workspace.
+
+### Project Check-ins and Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1510
+
+### Intro to JQuery (9:00 - 10:00)
+
+Classroom C.
+
+### Filtering with JQuery (10:00 - 12:00)
+
+Classroom C.
+
+### Final Assessments (1:00 - 4:00)
+
+#### With Rachel
+* 1:00 - Aaron Greenspan
+* 1:45 - Beth Sebian
+* 2:30 - Brant Wellman
+* 3:15 - Penney Garrett
+
+#### With Mike
+* 1:00 - Steve Pentler
+* 1:45 - Taylor Moore
+* 2:30 - Greg Armstrong
+* 3:15 - James Crockett
+
+#### With Tess
+* 1:00 - Brenna Martenson
+* 1:45 - Jordan Lawler
+* 2:30 - Joseph Perry
+
+
+## 1511
+
+### Final Assessments (9:00 - 12:00)
+
+#### With Josh Cheek
+* 9:00 - Adam Hundley
+* 9:30 - Allan Blair
+* 10:00 - Charles Ellison
+
+#### With Jeff
+* 9:00 - Alireza Andersen
+* 9:30 - Brian Rippeto
+* 10:00 - Deborah Hamel
+
+#### With Horace
+* 9:00 - Admir Draganovic
+* 9:30 - Matt DesMarteau
+* 10:00 - Nate Venn
+
+### With Mike
+* 9:00 - Chelsea Johnson
+* 9:30 - Marina Corona
+* 10:00 - Matt Packer
+
+### With Andrew
+* 9:00 - Scott Firestone
+* 9:30 - Hedy Woo
+* 10:00 - Nicholas Dorans
+
+### With Lovisa
+* 9:00 - Gurusundesh Khalsa
+* 9:30 - David Whitaker
+* 10:00 - Nick Weiland
