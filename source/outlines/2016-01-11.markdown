@@ -120,7 +120,7 @@ Here are your pairs for the project:
 * Admir Draganovic & Nick Weiland working on *project name here*
 * Brennan Holtzclaw & Allan Blair working on *Black Thursday*
 * Deborah Hamel & Gurusundesh Khalsa working on *project name here*
-* Nicholas Dorans & Julian Feliciano working on *project name here*
+* Nicholas Dorans & Julian Feliciano working on Headcount
 * Marina Corona & Heidi Hoopes working on *project name here*
 * Adrienne Domingus & Matt Packer working on *project name here*
 * Alireza Andersen & Erinna Chen working on Black Thursday?!?!?
