@@ -64,14 +64,11 @@ Join Rachel in Classroom C to kick off [Little Shop of Orders](https://github.co
 
 Create a [team expectations](https://gist.github.com/rwarbelow/0fed3529495a814eabb1) document by forking the original.
 
-* Aaron Greenspan & Lenny Myerson
-* Greg Armstrong  & Beth Secor
-* Hector Huertas Baeza & Toni Rib
-* Steven Olson & Steve Pentler
-* Penney Garrett & Brenna Martenson
-* Joseph Perry & Jordan Lawler
-* Brant Wellman & Dan Winter
-* Taylor Moore & Beth Sebian & James Crockett
+* Brant Wellman & Penney Garrett & James Crockett
+* Greg Armstrong & Beth Sebian & Jordan Lawler
+* Toni Rib & Taylor Moore & Brenna Martenson
+* Beth Secor & Lenny Myerson & Dan Winter & Steven Olson 
+* Aaron Greenspan & Steve Pentler & Joseph Perry & Hector Huertas Baeza
 
 You'll have ~30 minutes to brainstorm your Little Shop idea with your group. When you're ready to pitch your idea, sign up on the whiteboard for a slot with Rachel.
 
@@ -119,20 +116,20 @@ For the first time we're offering a choice of projects:
 
 Here are your pairs for the project:
 
-* Alexis Navarrete & Matt DesMarteau working on *project name here*
-* Admir Draganovic & Nick Weiland working on *project name here*
-* Brennan Holtzclaw & Allan Blair working on *project name here*
-* Deborah Hamel & Gurusundesh Khalsa working on *project name here*
-* Nicholas Dorans & Julian Feliciano working on *project name here*
-* Marina Corona & Heidi Hoopes working on *project name here*
-* Adrienne Domingus & Matt Packer working on *project name here*
-* Alireza Andersen & Erinna Chen working on *project name here*
-* Matt Pindell & Hedy Woo working on *project name here*
-* Adam Hundley & Brian Rippeto working on *project name here*
-* Charles Ellison & Scott Firestone working on *project name here*
-* Nate Venn & July Tran working on *project name here*
-* Thomas Pickett & Chelsea Johnson working on *project name here*
-* Kimiko Kano & David Whitaker working on *project name here*
+* Alexis Navarrete & Matt DesMarteau working on *Black Thursday*
+* Admir Draganovic & Nick Weiland working on *Black Thursday*
+* Brennan Holtzclaw & Allan Blair working on *Black Thursday*
+* Deborah Hamel & Gurusundesh Khalsa working on ~**Headcount**~
+* Nicholas Dorans & Julian Feliciano working on *Headcount*
+* Marina Corona & Heidi Hoopes working on *Headcount YOLO*
+* Adrienne Domingus & Matt Packer working on *Headcount*
+* Alireza Andersen & Erinna Chen working on *Black Thursday?!?!?*
+* Matt Pindell & Hedy Woo working on Blank Thursday! J/k *Black Thursday!*
+* Adam Hundley & Brian Rippeto working on *Black Thursday*
+* Charles Ellison & Scott Firestone working on *Black Thursday*
+* Nate Venn & July Tran working on *Black Thursday!*
+* Thomas Pickett & Chelsea Johnson working on *Head Count*
+* Kimiko Kano & David Whitaker working on *Head Count*
 
 By noon you need to submit a pull request [to this outline](https://github.com/turingschool/today/blob/master/source/outlines/2016-01-11.markdown) editing your team's line above with the project you've chosen.
 
