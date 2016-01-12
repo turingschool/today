@@ -95,3 +95,5 @@ The Horace and Josh roadshow comes to town -- convene in
 Classroom A for some live pairing demos.
 
 ### Work Time (1:00 - 4:00)
+
+Then this afternoon get deep in your projects. You'd like to have Iteration 0 wrapped up by this evening.
