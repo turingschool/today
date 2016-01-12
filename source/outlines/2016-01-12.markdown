@@ -5,7 +5,14 @@ layout: outline
 
 ## All
 
-### Posse Cleanup
+### Module 4 Cleanup
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
 
 ## 1507
 
@@ -43,9 +50,11 @@ This afternoon, you'll have some time to take your initial first pass at your re
 
 ## 1508
 
-### Understanding the Asset Pipeline (9:00 - 12:00)
+### "Understanding" the Asset Pipeline (9:00 - 12:00)
 
-Join Josh for some jive in classroom C. We'll be learning about the Asset Pipeline. [Here is the outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md)  
+Join Josh for some jive in classroom C. We'll be learning about the Asset Pipeline. [Here is the outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md)
+
+Clone [this project](git clone https://github.com/turingschool-examples/storedom.git asset_pipeline)
 
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
@@ -80,6 +89,21 @@ Join Josh for some jive in classroom C. We'll be learning about the Asset Pipeli
 
 ## 1510
 
+### Rails Views Tips and Tricks (9:00 - 10:30)
+
+Classroom C!
+
+WOOOOOOO
+
+### Little Shop Work Time (10:30 - 12:00)
+
+Shop all the things!
+
+### Little Shop Check Ins (1:00 - 4:00)
+
+Schedule TBA.
+
+
 ## 1511
 
 ### Performance of Code (9:00 - 10:30)
@@ -95,3 +119,5 @@ The Horace and Josh roadshow comes to town -- convene in
 Classroom A for some live pairing demos.
 
 ### Work Time (1:00 - 4:00)
+
+Then this afternoon get deep in your projects. You'd like to have Iteration 0 wrapped up by this evening.
