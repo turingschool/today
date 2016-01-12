@@ -60,12 +60,18 @@ DO IT DO IT
 
 ### Intro to Heroku and the Asset Pipeline (9:00 - 10:30)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown). 
+
+* Joseph Perry & Toni Rib & Dan Winter
+* Taylor Moore & Greg Armstrong & Steve Pentler
+* Lenny Myerson & Jordan Lawler & Beth Sebian
+* Steven Olson & James Crockett & Hector Huertas Baeza
+* Beth Secor & Brenna Martenson & Penney Garrett
+* Brant Wellman & Aaron Greenspan
 
 ### Project Work Time (10:30 - FOREVER)
 
 Little Shop! Little Shop!
-
 
 ## 1511
 
