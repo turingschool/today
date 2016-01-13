@@ -88,11 +88,15 @@ You'll be meeting up with a colleague to review each other's approaches. Spend 3
 
 ## 1508
 
+### Rails Cacheing Strategies (9:00 - 12:00)
+
+Join josh in classroom B.
+
 ## 1510
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
 
-Join Rachel in Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html). 
+Join Rachel in Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
 
 ### Callbacks and Scopes (10:30 - 12:00)
 
