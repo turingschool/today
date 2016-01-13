@@ -73,6 +73,31 @@ Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plan
 
 Little Shop! Little Shop!
 
+### One On Ones (1:00 - 4:00)
+
+#### With Mike
+* 1:00 - Aaron Greenspan
+* 1:10 - Beth Sebian
+* 1:20 - Brant Wellman
+* 1:30 - Brenna Martenson
+* 1:40 - Dan Winter
+* 1:50 - Beth Secor
+* 2:00 - Greg Armstrong
+* 2:10 - Taylor Moore
+* 2:20 - Steve Olson
+
+#### With Rachel
+* 1:00 - Hector Huertas Baeza
+* 1:10 - James Crockett
+* 1:20 - Jordan Lawler
+* 1:30 - Joseph Perry
+* 1:40 - Lenny Myerson
+* 1:50 - Penney Garrett
+* 2:00 - Steve Pentler
+* 2:10 - Toni Rib
+
+#### With Mike
+
 ## 1511
 
 ### Refactoring in Pairs (9:00 - 10:30)
