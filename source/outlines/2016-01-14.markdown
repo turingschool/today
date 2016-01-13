@@ -41,6 +41,18 @@ layout: outline
 - 11:20: Erik Butcher
 - 11:40: Justin Holzmann
 
+### One on Ones
+
+#### With Steve
+1:00 - Matt E
+1:20 - Dave
+1:40 - Jack
+
+#### With Meeka
+1:00 - Rose
+1:20 - Ryan
+1:40 - Bret
+
 ### Project Work Time (1:00 - 4:00)
 
 Steve, Meeka, and Lovisa are around for questions when they're not doing one-on-ones.
