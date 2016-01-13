@@ -60,7 +60,7 @@ DO IT DO IT
 
 ### Intro to Heroku and the Asset Pipeline (9:00 - 10:30)
 
-Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown). 
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown).
 
 * Joseph Perry & Toni Rib & Dan Winter
 * Taylor Moore & Greg Armstrong & Steve Pentler
@@ -77,7 +77,31 @@ Little Shop! Little Shop!
 
 ### Refactoring in Pairs (9:00 - 10:30)
 
-Join Jeff in Classroom A to do some paired refactoring.
+This morning you should get together with the pair below to work on refactoring your Iteration 0. Work on the project of the person on the left of the pair below. The main questions you should try to work on include:
+
+* Are there holes in the test coverage? Edge cases that should be tested?
+* What refactoring would set this project up for success in the later iterations?
+* What lessons/ideas can be brought over from the other person's project?
+
+#### Black Thursdays
+
+* Alexis Navarrete & July Tran
+* Admir Draganovic & Matt DesMarteau
+* Brennan Holtzclaw & Nick Weiland
+* Alireza Andersen & Allan Blair
+* Matt Pindell & Erinna Chen
+* Adam Hundley & Hedy Woo
+* Charles Ellison & Brian Rippeto
+* Nate Venn & Scott Firestone
+
+#### Headcount
+
+* Thomas Pickett & Matt Packer
+* Kimiko Kano & Chelsea Johnson
+* Deborah Hamel & David Whitaker
+* Nicholas Dorans & Gurusundesh Khalsa
+* Marina Corona & Julian Feliciano
+* Adrienne Domingus & Heidi Hoopes
 
 ### Testing, Small Datasets, and Dependencies (10:30 - 12:00)
 
@@ -86,9 +110,8 @@ test suite across a large project with a lot of data.
 
 [Related: a Parable](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_small_datasets%E2%80%A6_the_fictional_story_of_a_plumber_who_learns_about_fixtures_mocks_and_stubs_and_ignoring_all_that_shit_and_simplifying_your_design_instead.markdown)
 
-### Headcount Q & A (1:00 - 2:00)
+### Project Q & A + Work Time (1:00 - 3:00)
 
-Join Jeff and Josh in Classroom A to talk about questions
-around the Headcount project.
+Jeff will be in Classroom A at 1pm to talk about Black Thursday.
 
-### Work Time (2:00 - 4:00)
+Josh/Horace will be in Classroom A at 2pm to talk about Headcount.
