@@ -5,11 +5,30 @@ layout: outline
 
 ## All
 
+#### Surveys
+
+* 1507
+* 1508
+* [1510](https://docs.google.com/a/casimircreative.com/forms/d/1LHIwo8DMuUYBgCUTc0eYAIxCCD0nfxs--SyI72N5CA0/viewform)
+* 1511
+
 ### Lightning Talks (1:00 - 1:45)
 
 #### Group A - Classroom A
 
+* Jerrod Paul Junker Upcoming Game Technologies
+* Jordan Lawler - Slack Pro Tips, AND YOU CAN TOO!
+* Michael Merrill - Hacking the Job Interview
+* Jill Donohue - Front End is Your Friend!
+* Justin Pease - Smart is Not a Thing!
+
 #### Group B - Big Workspace
+
+* Shannon Paige - The Cult of Pythagoras
+* James Crockett - Wearable Analytics and the NFL
+* Tyler Graham - The Global Hacking War
+* Joseph Perry - Programming Careers in Energy and Commodities Trading
+* Alon Waisman - ??
 
 ### Group Retro (1:45 - 2:30)
 
@@ -17,7 +36,6 @@ layout: outline
 * 1508 - Big Workspace
 * 1510 - Classroom C
 * 1511 - Classroom A
-
 
 ## 1507
 
@@ -47,19 +65,24 @@ We are almost there!
 
 ## 1510
 
-### Final Assessments (9:00 - 12:00)
+### Little Shop Work Time & Final Assessments (9:00 - 12:00)
 
 #### With Rachel
+
 * 9:00 - Lenny Myerson
 * 9:45 - Steve Oscaro
 * 10:30 - Hector Huertas Baeza
 * 11:15 - Beth Sebian
 
 #### With Mike
+
 * 9:00 - Toni Rib
 * 9:45 - Beth Secor
 * 10:30 - Dan Winter
 
+### Intro to JavaScript (2:30 - 4:00)
+
+Join Steve in classroom B. 
 
 ## 1511
 
