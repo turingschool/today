@@ -81,30 +81,37 @@ We are almost there!
 
 ### Intro to JavaScript (2:30 - 4:00)
 
-Join Steve in classroom B. 
+Join Steve in classroom B.
 
 ## 1511
 
-### Intro to Portfolios (9:00 - 10:30)
+### Intro to Portfolios (9:00 - 9:30)
 
 Join Jeff in Classroom A to talk about how portfolios work.
 
-### Final Assessments (10:30 - 12:00)
+### Final Assessments (10:00 - 12:00)
 
 #### With Jeff
-* 10:30 - Thomas Pickett
-* 11:00 - Matt Pindell
+
+* 10:00 - Admir Draganovic
+* 10:30 - Ali Andersen
+* 11:00 - Thomas Pickett
 * 11:30 - Kimiko Kano
 
 #### With Josh
+
+* 10:00 - Matt Pindell
 * 10:30 - July Tran
 * 11:00 - Julian Feliciano
 * 11:30 - Heidi Hoopes
 
 #### With Horace
+
+* 10:00 - Nick Dorans
 * 10:30 - Erinna Chen
 * 11:00 - Brennan Holtzclaw
 * 11:30 - Alex Navarrete
 
 #### With Mike
+
 * 11:30 - Adrienne Domingus
