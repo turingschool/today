@@ -97,7 +97,7 @@ You'll be meeting up with a colleague to review each other's approaches. Spend 3
 
 ### Rails Caching Strategies (9:00 - 12:00)
 
-Join josh in classroom B.
+Join josh in classroom A.
 
 ### Project Work Time and Check-Ins (1:00 - 4:00)
 
