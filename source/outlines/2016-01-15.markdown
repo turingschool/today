@@ -117,8 +117,33 @@ Join Jeff in Classroom A to talk about how portfolios work.
 
 * 11:30 - Adrienne Domingus
 
+### Wizarding Bank "Diagnostic" (9:30 - 12:00)
+
+If you're not being assessed, work on the [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+exercise with a pair. This exercise is intended to simulate
+the types of skills and process you'll need to demonstrate on your
+assessment.
+
+**Pairs**
+
+* Admir & Matt Pindell
+* Ali & July Tran
+* Thom & Jules
+* Kimi & Heidi
+* Adrienne & Alex
+* Nick & Adam
+* Erinna & Allan
+* Brennan & Brian
+* Marina & Matt D
+* David & Matt Packer
+* Chelsea & Nate
+* Deb & Scott
+* Chad & Hedy
+* Sunny & Nick W.
+
 ### Afternoon
 
 * 1:00 we'll have Lightning Talks
 * 1:45 we'll do Group Retro
 * 2:30 meet in Classroom A where we will workshop on your portfolios
+
