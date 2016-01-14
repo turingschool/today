@@ -20,7 +20,6 @@ layout: outline
 * Jordan Lawler - Slack Pro Tips, AND YOU CAN TOO!
 * Michael Merrill - Hacking the Job Interview
 * Jill Donohue - Front End is Your Friend!
-* Justin Pease - Smart is Not a Thing!
 
 #### Group B - Big Workspace
 
