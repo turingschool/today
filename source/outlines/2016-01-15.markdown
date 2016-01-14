@@ -53,9 +53,9 @@ Do things.
 
 ## 1508
 
-### Caching Strategies in Rails (9:00 - 12:00)
+### The Jobs Talk (9:00 - 12:00)
 
-Big Workspace.
+Join Marissa in the Big Workspace.
 
 ### Project Work Time (2:30 - 4:00)
 
