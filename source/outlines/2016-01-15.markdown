@@ -28,7 +28,7 @@ layout: outline
 * James Crockett - Wearable Analytics and the NFL
 * Tyler Graham - The Global Hacking War
 * Joseph Perry - Programming Careers in Energy and Commodities Trading
-* Alon Waisman - ??
+* Alon Waisman - Six Degrees of Safe Navigation in Ruby 2.3
 
 ### Group Retro (1:45 - 2:30)
 
