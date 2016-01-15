@@ -9,7 +9,7 @@ layout: outline
 
 #### Surveys
 
-* 1507
+* [1507](https://docs.google.com/forms/d/1kQk2byAaMeIDmf16WPyjLxDJFPDqfx0AFJeUe4ox97Y/viewform)
 * [1508](http://goo.gl/forms/OhVYIb4c74)
 * [1510](https://docs.google.com/a/casimircreative.com/forms/d/1LHIwo8DMuUYBgCUTc0eYAIxCCD0nfxs--SyI72N5CA0/viewform)
 * 1511
@@ -40,17 +40,13 @@ layout: outline
 
 ## 1507
 
-### Introduction to Ember (9:00 - 10:45)
+### Real Time Project Work Time (9:00 - 4:00)
 
-Classroom B.
+All instructors are available for quick questions or longer-form pairing sessions. Reach out to them via DM or ambush them. It's totally cool.
 
-### Routing in Ember (10:45 - 12:00)
+### Project Work Time (2:30 - 4:00)
 
-Classroom B.
-
-### Project Work Time and Check-ins (2:30 - 4:00)
-
-Do things.
+Meeka and Lovia are available for questions and pairing.
 
 
 ## 1508
@@ -83,7 +79,10 @@ We are almost there!
 
 ### Intro to JavaScript (2:30 - 4:00)
 
-Join Steve in classroom B.
+Meet with Steve in Classroom B to talk a little bit about the world's most popular programming language.
+
+* [Exercises](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+* [Additional Resources](http://tutorials.jumpstartlab.com/projects/javascript/)
 
 ## 1511
 
