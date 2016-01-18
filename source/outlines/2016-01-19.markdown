@@ -110,9 +110,8 @@ Classroom C.
 * 10:00 - Deborah Hamel
 
 #### With Horace
-* 9:00 - Admir Draganovic
-* 9:30 - Matt DesMarteau
-* 10:00 - Nate Venn
+* 9:00 - Matt DesMarteau
+* 9:30 - Nate Venn
 
 ### With Mike
 * 9:00 - Chelsea Johnson
@@ -125,5 +124,4 @@ Classroom C.
 
 ### With Lovisa
 * 9:00 - Gurusundesh Khalsa
-* 9:30 - David Whitaker
-* 10:00 - Nick Weiland
+* 9:30 - Nick Weiland
