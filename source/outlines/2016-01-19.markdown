@@ -54,7 +54,7 @@ Finish your projects.
 * 3:00 - Ryan Asensio
 * 3:30 - Travis Haby
 
-3
+
 ## 1508
 
 ### Getting Started With Workers (9:00 - 12:00)
