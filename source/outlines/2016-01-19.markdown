@@ -7,7 +7,7 @@ layout: outline
 
 * linctus - noun - a syrupy liquid medicine, especially for treating coughs
 
-### Staff Cleanup
+### 1507 Cleanup
 
 ### Warm Up (8:30 - 9:00)
 
@@ -25,6 +25,7 @@ Finish your projects.
 ### Real Time Evaluations (1:00 - 4:00)
 
 #### With Steve
+
 * 12:30 - Tyler Graham
 * 1:00 - Alon Waisman
 * 1:30 - Bret Doucette
@@ -33,6 +34,7 @@ Finish your projects.
 * 3:30 - Jack Yeh
 
 #### With Meeka
+
 * 1:00 - Dave Maurer
 * 1:30 - Erik Butcher
 * 2:00 - Jeff Ruane
@@ -40,6 +42,7 @@ Finish your projects.
 * 3:30 - Rose Kohn
 
 #### With Lovisa
+
 * 1:00 - Mary Beth Burch
 * 1:30 - Matt Ewell
 * 2:00 - Matt Hecker
@@ -47,6 +50,7 @@ Finish your projects.
 * 3:30 - Mimi Schatz
 
 #### With Horace
+
 * 1:00 - Regis Boudinot
 * 1:30 - Rick Bacci
 * 2:00 - Robert Cornell
@@ -97,7 +101,7 @@ Big Workspace. [Here](https://github.com/turingschool/lesson_plans/blob/master/r
 
 ### Intro to JQuery (9:00 - 10:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Filtering with JQuery (10:00 - 12:00)
 
@@ -106,22 +110,19 @@ Classroom C.
 ### Final Assessments (1:00 - 4:00)
 
 #### With Rachel
+
 * 1:00 - Penney Garrett
 
 #### With Mike
+
 * 1:00 - Steve Pentler
 * 1:45 - Taylor Moore
 
-#### With Horace
-* 1:00 - Brenna Martenson
-* 1:45 - Jordan Lawler
-* 2:30 - Joseph Perry
-* 3:15 - Greg Armstrong
-
 #### With Mary
-* 1:00 - Brant Wellman
-* 1:45 - James Crockett
-* 2:30 - Aaron Greenspan
+
+* 1:45 - Brant Wellman
+* 2:30 - James Crockett
+* 3:15 - Aaron Greenspan
 
 ### Little Shop Check Ins (Afternoon)
 
@@ -139,31 +140,66 @@ With Mike:
 
 ## 1511
 
-### Final Assessments (9:00 - 12:00)
+### Final Assessments & Project Work Time (9:00 - 10:30)
+
+Back to the code mines, yon intrepid explorers!
+
+Check below for this morning's assessment schedule.
 
 #### With Josh Cheek
+
 * 9:00 - Adam Hundley
 * 9:30 - Allan Blair
 * 10:00 - Charles Ellison
 
 #### With Jeff
-* 9:00 - Alireza Andersen
-* 9:30 - Brian Rippeto
-* 10:00 - Deborah Hamel
+
+* 9:00 - Brian Rippeto
+* 9:30 - Deborah Hamel
 
 #### With Horace
+
 * 9:00 - Matt DesMarteau
 * 9:30 - Nate Venn
-
-### With Mike
-* 9:00 - Chelsea Johnson
-* 9:30 - Marina Corona
 * 10:00 - Matt Packer
 
-### With Andrew
+#### With Mike
+* 9:00 - Chelsea Johnson
+* 9:30 - Marina Corona
+
+#### With Lovisa
+* 9:00 - Gurusundesh Khalsa
+* 9:30 - Nick Weiland
+
+#### With Tess
 * 9:00 - Scott Firestone
 * 9:30 - Hedy Woo
 
-### With Lovisa
-* 9:00 - Gurusundesh Khalsa
-* 9:30 - Nick Weiland
+### How Computers & Electronics (10:30 - 12:00)
+
+Join Jeff in Classroom A to nerd out about gadgets
+and gizmos galore. There's a [little bullet list of key points](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown).
+
+### Meet with Josh (1:00 - 2:30)
+
+Meet with Josh in Classroom A to revisit some topics you've seen before and push deeper.
+
+### Cross-Pairing (2:30 - 4:00)
+
+Then let's finish out the day with a bit of cross-team pairing. Work on the project **on the right**:
+
+* Alexis Navarrete & Scott Firestone
+* Admir Draganovic & July Tran
+* Brennan Holtzclaw & Matt DesMarteau
+* Alireza Andersen & Nick Weiland
+* Matt Pindell & Allan Blair
+* Adam Hundley & Erinna Chen
+* Charles Ellison & Hedy Woo
+* Nate Venn & Brian Rippeto
+
+* Thomas Pickett & Heidi Hoopes
+* Kimiko Kano & Matt Packer
+* Deborah Hamel & Chelsea Johnson
+* Nicholas Dorans & David Whitaker
+* Marina Corona & Gurusundesh Khalsa
+* Adrienne Domingus & Julian Feliciano
