@@ -125,9 +125,8 @@ With Mike:
 * 10:00 - Deborah Hamel
 
 #### With Horace
-* 9:00 - Admir Draganovic
-* 9:30 - Matt DesMarteau
-* 10:00 - Nate Venn
+* 9:00 - Matt DesMarteau
+* 9:30 - Nate Venn
 
 ### With Mike
 * 9:00 - Chelsea Johnson
@@ -137,9 +136,7 @@ With Mike:
 ### With Andrew
 * 9:00 - Scott Firestone
 * 9:30 - Hedy Woo
-* 10:00 - Nicholas Dorans
 
 ### With Lovisa
 * 9:00 - Gurusundesh Khalsa
-* 9:30 - David Whitaker
-* 10:00 - Nick Weiland
+* 9:30 - Nick Weiland
