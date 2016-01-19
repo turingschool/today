@@ -136,12 +136,14 @@ Check below for this morning's assessment schedule.
 #### With Mike
 * 9:00 - Chelsea Johnson
 * 9:30 - Marina Corona
-* 10:00 - Scott Firestone
 
 #### With Lovisa
 * 9:00 - Gurusundesh Khalsa
 * 9:30 - Nick Weiland
-* 10:00 - Hedy Woo
+
+#### With Tess
+* 9:00 - Scott Firestone
+* 9:30 - Hedy Woo
 
 ### How Computers & Electronics (10:30 - 12:00)
 
@@ -154,7 +156,7 @@ Meet with Josh in Classroom A to revisit some topics you've seen before and push
 
 ### Cross-Pairing (2:30 - 4:00)
 
-Then let's finish out the day with a bit of cross-team pairing. Work on the project **on the right*:
+Then let's finish out the day with a bit of cross-team pairing. Work on the project **on the right**:
 
 * Alexis Navarrete & Scott Firestone
 * Admir Draganovic & July Tran
