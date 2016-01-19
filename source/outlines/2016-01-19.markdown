@@ -92,9 +92,9 @@ Classroom C.
 * 3:15 - Greg Armstrong
 
 #### With Mary
-* 1:00 - Brant Wellman
-* 1:45 - James Crockett
-* 2:30 - Aaron Greenspan
+* 1:45 - Brant Wellman
+* 2:30 - James Crockett
+* 3:15 - Aaron Greenspan
 
 ### Little Shop Check Ins (Afternoon)
 
@@ -130,23 +130,20 @@ and gizmos galore.
 * 10:00 - Charles Ellison
 
 #### With Jeff
-* 9:00 - Alireza Andersen
-* 9:30 - Brian Rippeto
-* 10:00 - Deborah Hamel
+* 9:00 - Brian Rippeto
+* 9:30 - Deborah Hamel
 
 #### With Horace
 * 9:00 - Matt DesMarteau
 * 9:30 - Nate Venn
+* 10:00 - Matt Packer
 
 ### With Mike
 * 9:00 - Chelsea Johnson
 * 9:30 - Marina Corona
-* 10:00 - Matt Packer
-
-### With Andrew
-* 9:00 - Scott Firestone
-* 9:30 - Hedy Woo
+* 10:00 - Scott Firestone
 
 ### With Lovisa
 * 9:00 - Gurusundesh Khalsa
 * 9:30 - Nick Weiland
+* 10:00 - Hedy Woo
