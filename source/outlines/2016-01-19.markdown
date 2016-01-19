@@ -59,7 +59,7 @@ Finish your projects.
 
 ### Getting Started With Workers (9:00 - 12:00)
 
-Big Workspace.
+Big Workspace. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intro_to_background_workers.md) is your lesson plan. 
 
 ### Project Check-ins and Work Time (1:00 - 4:00)
 
