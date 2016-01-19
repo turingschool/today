@@ -74,7 +74,7 @@ Schedule TBA
 
 ### Intro to JQuery (9:00 - 10:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown).
 
 ### Filtering with JQuery (10:00 - 12:00)
 
@@ -83,13 +83,16 @@ Classroom C.
 ### Final Assessments (1:00 - 4:00)
 
 #### With Rachel
+
 * 1:00 - Penney Garrett
 
 #### With Mike
+
 * 1:00 - Steve Pentler
 * 1:45 - Taylor Moore
 
 #### With Mary
+
 * 1:45 - Brant Wellman
 * 2:30 - James Crockett
 * 3:15 - Aaron Greenspan
