@@ -95,7 +95,6 @@ Big Workspace. [Here](https://github.com/turingschool/lesson_plans/blob/master/r
 * Sekhar Paladugu
 * Torie Warren
 
-
 ## 1510
 
 ### Intro to JQuery (9:00 - 10:00)
