@@ -144,7 +144,21 @@ Schedule TBA.
 
 ### Portfolio Reviews (12:00 - 4:00)
 
-Schedule TBA
+* Admir Draganovic
+* Alireza Andersen
+* Deborah Hamel
+* Erinna Chen
+* Gurusundesh Khalsa
+* Heidi Hoopes
+* Kimiko Kano
+* Marina Corona
+* Matt DesMarteau
+* Matt Packer
+* Nate Venn
+* Scott Firestone
+* Thomas Pickett
+
+
 
 ### Programming is Fun: An Introduction to Ruby Processing (1:00 - 4:00)
 
