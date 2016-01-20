@@ -52,20 +52,52 @@ Retakes.
 
 ### Binary, Octal and Hex (9:00 - 10:30)
 
-Meet in Classroom A with Jeff.
+Meet in Classroom A with Jeff. We'll start all together by introducing the idea of [number systems](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems.markdown), then break apart to learn about [binary](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-binary.markdown), [octal](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-octal.markdown), and [hex](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-hexadecimal.markdown) systems.
+
+For the later segment we'll divide up this way:
+
+* Adam Hundley: hex, octal, binary
+* Admir Draganovic: hex, octal, binary
+* Adrienne Domingus: octal, hex, binary
+* Alexis Navarrete: binary, hex, octal
+* Alireza Andersen: binary, octal, hex
+* Allan Blair: binary, octal, hex
+* Brennan Holtzclaw: octal, binary, hex
+* Brian Rippeto: octal, hex, binary
+* Charles Ellison: octal, binary, hex
+* Chelsea Johnson: hex, octal, binary
+* David Whitaker: binary, hex, octal
+* Deborah Hamel: binary, hex, octal
+* Erinna Chen: octal, binary, hex
+* Gurusundesh Khalsa: octal, hex, binary
+* Hedy Woo: octal, binary, hex
+* Heidi Hoopes: binary, hex, octal
+* Julian Feliciano: hex, octal, binary
+* July Tran: hex, binary, octal
+* Kimiko Kano: hex, binary, octal
+* Marina Corona: binary, hex, octal
+* Matt DesMarteau: hex, binary, octal
+* Matt Packer: binary, octal, hex
+* Matt Pindell: hex, octal, binary
+* Nate Venn: hex, binary, octal
+* Nicholas Dorans: octal, binary, hex
+* Nick Weiland: octal, hex, binary
+* Scott Firestone: binary, octal, hex
+* Thomas Pickett: binary, octal, hex
+
 
 ### Boolean Logic Deep Dive (10:30 - 12:00)
 
-Classroom A.
+Join Horace in Classroom A to talk about TRUTH.
 
 ### Final Assessment Retakes (1:00 - 4:00)
 
-Retakes.
+Retakes will happen this afternoon. If you're retaking you should already know when your assessment is.
 
 ### Project Work Time & Early Portfolios (12:00 - 4:00)
 
-Portfolio reviews will happen in this following order. Expect 10-15 minutes
-per review.
+Portfolio reviews will happen in this following order. Expect 5-12 minutes
+per review. Please queue up so we can keep things rolling as quickly as possible.
 
 * Adam Hundley
 * Adrienne Domingus
@@ -82,4 +114,3 @@ per review.
 * Matt Pindell
 * Nick Dorans
 * Nick Weiland
-
