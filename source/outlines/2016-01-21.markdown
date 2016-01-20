@@ -18,11 +18,45 @@ layout: outline
 
 ### Final Assessment (9:00 - 12:00)
 
-Schedule TBA
+#### With Meeka
+* 9:00 - Chris
+* 9:30 - Dave
+* 10:00 - George
+* 10:30 - Erik
+* 11:00 - Jack
 
-### Portfolio Reviews (9:00 - 12:00)
+#### With Lovisa
+* 9:00 - Justin
+* 9:30 - Ricky
+* 10:00 - Rob
+* 10:30 - Russell
 
-Schedule TBA
+### Portfolio Reviews (8:00 - 12:00)
+
+#### Order:
+* Alon Waisman
+* Bret Doucette
+* Jeff Ruane
+* Mary Beth Burch
+* Matt Ewell
+* Matt Hecker
+* Michael Merrill
+* Mimi Schatz
+* Regis Boudinot
+* Rose Kohn
+* Ryan Asensio
+* Travis Haby
+* Tyler Graham
+* Chris Cenatiempo
+* Justin Holzmann
+* Dave Maurer
+* Ricky Bacci
+* George Hudson
+* Rob Cornell
+* Erik Butcher
+* Russell Harms
+* Jack Yeh
+
 
 ### Building Electron Applications
 
@@ -110,7 +144,21 @@ Schedule TBA.
 
 ### Portfolio Reviews (12:00 - 4:00)
 
-Schedule TBA
+* Admir Draganovic
+* Alireza Andersen
+* Deborah Hamel
+* Erinna Chen
+* Gurusundesh Khalsa
+* Heidi Hoopes
+* Kimiko Kano
+* Marina Corona
+* Matt DesMarteau
+* Matt Packer
+* Nate Venn
+* Scott Firestone
+* Thomas Pickett
+
+
 
 ### Programming is Fun: An Introduction to Ruby Processing (1:00 - 4:00)
 
