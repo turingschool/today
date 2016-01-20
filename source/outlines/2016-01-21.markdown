@@ -37,13 +37,13 @@ layout: outline
 * Alon Waisman
 * Bret Doucette
 * Jeff Ruane
-* Rose Kohn
 * Mary Beth Burch
 * Matt Ewell
 * Matt Hecker
 * Michael Merrill
 * Mimi Schatz
 * Regis Boudinot
+* Rose Kohn
 * Ryan Asensio
 * Travis Haby
 * Tyler Graham
