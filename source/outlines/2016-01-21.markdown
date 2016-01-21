@@ -62,6 +62,8 @@ layout: outline
 
 Classroom B.
 
+- [Lesson Plan and Notes](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/super-introduction-to-ember.markdown)
+
 
 ## 1508
 
