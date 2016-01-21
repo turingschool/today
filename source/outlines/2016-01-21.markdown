@@ -183,4 +183,6 @@ Classroom B.
 
 ### Programming is Fun: An Introduction to Ruby Processing (1:00 - 4:00)
 
-Classroom A.
+[Lesson Plan](https://github.com/stevekinney/ruby-processing-session)
+
+Big Workspace
