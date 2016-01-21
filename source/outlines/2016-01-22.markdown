@@ -5,7 +5,11 @@ layout: outline
 
 ## All
 
-### Warm Up (8:30 - 9:00)
+### Surveys (8:30 - 9:00)
+* [1507 Mega Survey]
+* [1508]
+* [1510]
+* [1511]
 
 ## 1507
 
@@ -28,4 +32,15 @@ layout: outline
 
 ## 1510
 
+### Pairing with 1511
+
+### Portfolio Reviews
+
+* Jordan Lawler
+* Joseph Perry
+* Lenny Myerson
+* Penney Garrett
+
 ## 1511
+
+### Pairing with 1510
