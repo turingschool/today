@@ -58,7 +58,7 @@ layout: outline
 * Jack Yeh
 
 
-### Building Electron Applications
+### Building Ember Applications
 
 Classroom B.
 
