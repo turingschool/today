@@ -185,3 +185,5 @@ Classroom B.
 [Lesson Plan](https://github.com/stevekinney/ruby-processing-session)
 
 Big Workspace
+
+Check out [blogpost by Ben Lewis](https://quickleft.com/blog/getting-started-ruby-processing/) (gSchool[1] grad and mentor)
