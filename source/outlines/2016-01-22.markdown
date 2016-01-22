@@ -53,7 +53,18 @@ For the activity, meet in the following groups:
 * Brackets with Taylor
 * Launching the Side Project of Your Dreams with Steve
 * Mining GitCoins for <strike>profit</strike> **fun** with Horace
-* Mystery Class with Josh Cheek
+* "Lets draw cool shit in the browser!! No, but seriously!" with Josh Cheek
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/dots.gif" style="width: 300px; float: left;" />
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/trippy-circles3.gif" style="width: 200px; float: left;" />
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/swatches2.gif" style="width: 200px; float: left;" />
+
+  <video width="320" height="240" controls>
+    <source src="https://s3.amazonaws.com/josh.cheek/scratch/circles4.mp4" type="video/mp4">
+  </video>
+
 
 ## 1508
 
