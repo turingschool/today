@@ -9,7 +9,7 @@ layout: outline
 * [1507 Mega Survey]
 * [1508]
 * [1510]
-* [1511]
+* [1511](https://docs.google.com/forms/d/1Bo8QYyqwkfLW6uBn_X2hz5yjNZy08tCAZzPoJ1dcoaE/viewform)
 
 ### Academic Time (9:00 - 10:30)
 
@@ -19,7 +19,11 @@ Big Workspace
 
 ### Gear Up - (11:00 - 12:00)
 
+This morning Mary Cutrali will be joining us to talk about techniques
+for establishing strong peer mentoring relationships.
+
 ### Group Retro / Intermission Week Work (1:00 - 2:00)
+
 * 1508 - Classroom B
 * 1510 - Classroom C
 * 1511 - Classroom A
@@ -28,6 +32,7 @@ Big Workspace
 
 * Brackets with Taylor
 * Side Hustles with Steve.
+* Mining GitCoins for ~profit~ **fun** with Horace
 
 ## 1508
 
@@ -80,9 +85,13 @@ Work on Webguesser!
 
 ## 1511
 
-### Pairing with 1510
+### Academic Time: Pairing with 1510 (9:00 - 10:30)
 
-Work on Webguesser!
+This morning, you'll spend 90 minutes pairing with
+a member of 1510 on a basic web development project:
+[WebGuesser](https://github.com/turingschool/curriculum/blob/master/source/projects/web_guesser.markdown)
+
+Gather in the following groups:
 
 * Aaron Greenspan & Adam Hundley & July Tran
 * Beth SebianA & Alexis Navarrete & Kimiko Kano
@@ -100,3 +109,7 @@ Work on Webguesser!
 * Steve Pentler & Hedy Woo
 * Taylor Moore & Heidi Hoopes
 * Toni Rib & Julian Feliciano
+
+### Lightning Talks (10:30 - 11:00)
+
+Big Workspace
