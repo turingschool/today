@@ -22,6 +22,26 @@ Big Workspace
 This morning Mary Cutrali will be joining us to talk about techniques
 for establishing strong peer mentoring relationships.
 
+For the activity, meet in the following groups:
+
+* Nicole Hall, Steve Pentler, Jhun de Andres, Robbie Lane
+* July Tran, Matt Rooney, Torie Warren, Marlo Major
+* John Slota, Brian Rippeto, Hedy Woo, Shannon Paige
+* Marina Corona, Nick Weiland, Charles Ellison, Alexis Navarrete
+* Adrienne Domingus, Aaron Careaga, Greg Armstrong, Brennan Holtzclaw
+* Emily Dowdle, Matt Stjernholm, Erinna Chen, Pat Wey
+* Joseph Perry, Adam Hundley, Tyler Komoroske, Matt Packer
+* Penney Garrett, Beth Sebian, Dan Winter, Brenna Martenson
+* Nate Venn, Hector Huertas Baeza, Matt DesMarteau, Sekhar Paladugu
+* James Crockett, Ross Edfort, Taylor Moore, Lenny Myerson
+* Heidi Hoopes, Brant Wellman, Michael Wong, Nicholas Dorans
+* Ryan Johnson, Adam Jensen, Allan Blair, Aaron Greenspan
+* Jordan Lawler, Julian Feliciano, Edgar Duran, Matt Pindell
+* Jason Pilz, Scott Firestone, David Whitaker, Kimiko Kano
+* Thomas Pickett, Jill Donohue, Admir Draganovic, Amber Crawford
+* Gurusundesh Khalsa, Steven Olson, Deborah Hamel, Justin Pease
+* Beth Secor, Chelsea Johnson, Jerrod Paul Junker, Toni Rib, Alireza Andersen
+
 ### Group Retro / Intermission Week Work (1:00 - 2:00)
 
 * 1508 - Classroom B
@@ -31,8 +51,20 @@ for establishing strong peer mentoring relationships.
 ### Student Lead Sessions (2:00 - 3:00)
 
 * Brackets with Taylor
-* Side Hustles with Steve.
-* Mining GitCoins for ~~profit~~ **fun** with Horace
+* Launching the Side Project of Your Dreams with Steve
+* Mining GitCoins for <strike>profit</strike> **fun** with Horace
+* "Lets draw cool shit in the browser!! No, but seriously!" with Josh Cheek
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/dots.gif" style="width: 300px; float: left;" />
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/trippy-circles3.gif" style="width: 200px; float: left;" />
+
+  <img src="https://s3.amazonaws.com/josh.cheek/scratch/swatches2.gif" style="width: 200px; float: left;" />
+
+  <video width="320" height="240" controls>
+    <source src="https://s3.amazonaws.com/josh.cheek/scratch/circles4.mp4" type="video/mp4">
+  </video>
+
 
 ## 1508
 
