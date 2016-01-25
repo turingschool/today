@@ -62,6 +62,7 @@ for establishing strong peer mentoring relationships.
 * Joseph Perry
 * Lenny Myerson
 * Penney Garrett
+* James Crockett
 
 ### Pairing with 1511
 
