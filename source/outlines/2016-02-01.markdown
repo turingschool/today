@@ -48,6 +48,10 @@ It's time to start boxing those ideas.
 
 Meeka and Steve are both around for all of your questioning needs.
 
+### Homework
+
+[Fork this Gist about ES6 and Respond](https://gist.github.com/rrgayhart/7314cb7da3ee8b1e131d) (3 points)
+
 
 ## 1510
 
