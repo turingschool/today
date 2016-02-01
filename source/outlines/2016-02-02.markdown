@@ -1,0 +1,57 @@
+---
+title: 20160202
+layout: outline
+---
+
+## 1508
+
+### Array Prototype Methods (9:00 - 11:20)
+
+Meet with Steve in the Big Workspace.
+
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/42706e9eadbaae34238d
+
+You'll be working in the following pairs:
+
+ * Marlo Major & Michael Wong
+ * Pat Wey & Tyler Komoroske
+ * Emily Dowdle & Matt Stjernholm
+ * Robbie Lane & Jill Donohue
+ * Aaron Careaga & Matt Rooney
+ * Jhun de Andres & Jason Pilz
+ * Torie Warren & Adam Jense
+ * Sekhar Paladugu & Ross Edfort
+ * Ryan Johnson & Amber Crawford
+
+### Project Work Time and Check Ins (11:20 - 4:00)
+
+#### With Meeka
+
+- 11:20 - 11:40 - Adam Jense
+- 11:40 - 12:00 Jhun de Andres
+
+- 1:00 - 1:20: Michael Wong
+- 1:20 - 1:40: Pat Wey
+- 1:45 - 2:05: Matt Rooney
+- 2:05 - 2:25: Emily Dowdle
+- 2:30 - 2:50: Tyler Komoroske
+- 2:50 - 3:10: Jill Donohue
+- 3:15 - 3:35: Marlo Major
+- 3:35 - 3:55: Torie Warren
+
+#### With Steve
+
+- 1:00 - 1:20: Ryan Johnson
+- 1:20 - 1:40: Aaron Carega
+- 1:45 - 2:05: Ross Edfort
+- 2:05 - 2:25: Jason Pilz
+- 2:30 - 2:50: Sekhar Paladugu
+- 2:50 - 3:10: Matt Sthernholm
+- 3:15 - 3:35: Amber Craford
+- 3:35 - 3:55: Robbie Lane
