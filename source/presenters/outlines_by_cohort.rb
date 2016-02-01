@@ -16,7 +16,7 @@ class OutlinesByCohort
     ['1410', Date.parse('2014-10-27')...Date.parse('2014-12-15')],
     ['1409', Date.parse('2014-09-08')...Date.parse('2014-10-27')],
     ['1407', Date.parse('2014-07-21')...Date.parse('2014-09-08')],
-    ['1406', Date.parse('2014-06-03')...Date.parse('2014-07-21')],
+    ['1406', Date.parse('2014-06-03')...Date.parse('2014-07-21')]
   ]
 
   def self.call(outlines, cohorts)
