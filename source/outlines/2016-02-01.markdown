@@ -152,7 +152,9 @@ Classroom A.
 If you want to start [installing xcode](macappstores://itunes.apple.com/us/app/xcode/id497799835?mt=12#), you'll be way ahead of the game
 
 
-### Echo: TBA (2:30 - 3:30)
+### Echo: Strings the Hard Way (2:30 - 3:30)
+
+Join Mike to work through these [string exercises](https://github.com/turingschool/challenges/blob/master/strings_the_hard_way.markdown)
 
 ### Foxtrot: Strings and Integers (2:30 - 4:00)
 
