@@ -31,6 +31,7 @@ Meet in the Big Workspace with Jeff.
 
 Meet in Classroom C with Meeka and Steve.
 
+- [Module 4 Cheatsheet](https://gist.github.com/rrgayhart/042665ce6d3a0c265a05)
 - [Etherpad for topics for further discussion from the homework](https://public.etherpad-mozilla.org/p/1508-javascript)
 - [Module 4 Kickoff Slides](https://www.icloud.com/keynote/000zBCx40R8iIKl_vdN6PEjdA#Module_4_Kickoff%2C_2015-11-30)
 
