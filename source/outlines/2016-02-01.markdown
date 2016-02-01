@@ -149,6 +149,9 @@ You know about us, now it's time for us to know about you. Continue in Classroom
 
 Classroom A.
 
+If you want to start [installing xcode](macappstores://itunes.apple.com/us/app/xcode/id497799835?mt=12#), you'll be way ahead of the game
+
+
 ### Echo: TBA (2:30 - 3:30)
 
 ### Foxtrot: Strings and Integers (2:30 - 4:00)
@@ -157,9 +160,11 @@ Classroom A.
 
 ### Echo: Mastermind Kickoff (3:30 - 4:00)
 
+[Project link](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown)
+
 
 ## Homework
 
-### Echo: SuperFizz
+### Echo: [SuperFizz](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)
 
-### Foxtrot: Working with Strings and Integers
+### Foxtrot: [Working with Strings and Integers](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
