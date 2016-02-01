@@ -5,11 +5,13 @@ layout: outline
 
 ## All
 
-* cupidity - noun - eager or excessive desire, especially to possess something; greed; avarice.
+### Word of the Day
 
-Welcome 1602!
+**cupidity** - *noun* - eager or excessive desire, especially to possess something; greed; avarice.
 
-Please, name tags all week!
+### Welcome 1602
+
+Feel free to introduce yourselves to anyone you don't recognize. Please wear your name tags all week.
 
 ### Friday Lunch Roulette
 
@@ -23,19 +25,26 @@ make sure that'll stay in the 12:00 - 1:15pm window.
 
 ### Building Turing (9:00 - 9:30)
 
-Meet in the Big Workspace.
+Meet in the Big Workspace with Jeff.
 
 ### Module 4 Kickoff (9:30 - 11:00)
 
-Classroom C
+Meet in Classroom C with Meeka and Steve.
 
-### Ideabox 2.0 Kickoff (11:00 - 2:00)
+- [Etherpad for topics for further discussion from the homework](https://public.etherpad-mozilla.org/p/1508-javascript)
+- [Module 4 Kickoff Slides](https://www.icloud.com/keynote/000zBCx40R8iIKl_vdN6PEjdA#Module_4_Kickoff%2C_2015-11-30)
 
-Classroom C
+### Ideabox 2.0 Kickoff (11:00 - 12:00)
+
+We don't waste any time around here. Stick around with Steve in Classroom C to learn about your first project.
+
+- [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Wherever.
+It's time to start boxing those ideas.
+
+Meeka and Steve are both around for all of your questioning needs.
 
 
 ## 1510
