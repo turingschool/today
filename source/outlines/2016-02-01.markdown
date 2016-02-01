@@ -97,7 +97,7 @@ Big Workspace
 
 ### Intro to Bootstrap (1:00 - 4:00)
 
-The fun continues in the Big Workspace.
+The fun continues in classroom B. Check out [this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown)
 
 
 ## 1602
