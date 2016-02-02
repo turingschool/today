@@ -131,10 +131,9 @@ the materials from [this list](https://gist.github.com/worace/22cf499ca7a5041dec
 
 Gather back around in Classroom A to learn about Arrays.
 
-### All: Improv (1:00 - 3:00)
+### All: Homework -- Eloquent Ruby
 
-Classroom A.
+Tonight, read the chapters from Eloquent Ruby about
+Arrays and Strings, then work through [these exercises](https://github.com/turingschool/challenges/blob/master/eloquent_ruby_arrays_and_strings.markdown).
 
-### All: Mixer (3:00 - 4:00)
-
-Hang out in Classroom A and meet some other students!
+You can download the reading [here](https://drive.google.com/file/d/0B4C6lfVKu-E7WjRhNnRKa0k4NHc/view?usp=sharing).
