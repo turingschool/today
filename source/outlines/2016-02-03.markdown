@@ -32,7 +32,7 @@ You'll be working in the following pairs:
 
 ### Functions in JavaScript (1:00 - 2:30)
 
-Meet with Steve in Classroom B. We'll be using the same repository as yesterday.
+Meet with Steve in Classroom B. We'll be using the same repository as earlier.
 
 - [Lesson Plan, Part One](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
 - [Lesson Plan, Part Two](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
@@ -43,4 +43,9 @@ Please [fork this gist][cfu4] and add your scores as we go along.
 
 ### Project Work Time & Check-Ins Overflow (2:30 - 4:00)
 
-Meeka and Steve love it when you tag them in pull requests on Github and make them do PR reviews
+Meeka and Steve love it when you tag them in pull requests on Github and make them do PR reviews. (Seriously, this is not a joke. Tag us in some PRs.)
+
+#### With Steve
+
+- 1:00 - 1:20: Ryan Johnson
+- 1:20 - 1:40: Aaron Carega

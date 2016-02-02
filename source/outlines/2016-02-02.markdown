@@ -26,8 +26,8 @@ Meet with Meeka in Classroom B. This morning, you'll be introduced to some ways 
 
 #### With Meeka
 
-- 11:20 - 11:40 - Adam Jensen
-- 11:40 - 12:00 Jhun de Andres
+- 11:20 - 11:40: Adam Jensen
+- 11:40 - 12:00: Jhun de Andres
 
 - 1:00 - 1:20: Michael Wong
 - 1:20 - 1:40: Pat Wey
@@ -40,8 +40,6 @@ Meet with Meeka in Classroom B. This morning, you'll be introduced to some ways 
 
 #### With Steve
 
-- 1:00 - 1:20: Ryan Johnson
-- 1:20 - 1:40: Aaron Carega
 - 1:45 - 2:05: Ross Edfort
 - 2:05 - 2:25: Jason Pilz
 - 2:30 - 2:50: Sekhar Paladugu
