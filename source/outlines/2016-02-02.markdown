@@ -87,6 +87,8 @@ Classroom C.
 
 ### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
 
+We'll join Mary remotely using Hangouts on Air!
+
 Everyone in Classroom A.
 
 ### Echo: SuperFizz Recap (9:30 - 10:00)
@@ -106,6 +108,9 @@ Stay at your table.
 Stay in Classroom A where Horace will be joining you.
 
 ### All: Introducing Arrays (11:00 - 12:00)
+
+In preparation for remote work, take a few moments to gather
+the materials from [this list](https://gist.github.com/worace/22cf499ca7a5041decb4).
 
 Gather back around in Classroom A to learn about Arrays.
 
