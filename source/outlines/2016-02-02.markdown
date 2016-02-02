@@ -2,6 +2,18 @@
 title: 20160202
 layout: outline
 ---
+## All
+
+Please continue to wear your name tags!
+
+### Word of the Day
+
+* nonce - noun - the present, or immediate, occasion or purpose.
+
+### Posse Challenge (8:30 - 9:00)
+
+* [Link](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
 
 ## 1508
 
@@ -34,7 +46,7 @@ You'll be working in the following pairs:
 
 #### With Meeka
 
-- 11:20 - 11:40 - Adam Jense
+- 11:20 - 11:40 - Adam Jensen
 - 11:40 - 12:00 Jhun de Andres
 
 - 1:00 - 1:20: Michael Wong
@@ -56,3 +68,71 @@ You'll be working in the following pairs:
 - 2:50 - 3:10: Matt Sthernholm
 - 3:15 - 3:35: Amber Craford
 - 3:35 - 3:55: Robbie Lane
+
+## 1510
+
+### Understanding Multitenancy (9:00 - 11:00)
+
+Classroom B.
+
+### Seeding Data Efficiently (11:00 - 12:00)
+
+Classroom B.
+
+### Check-ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1511
+
+### HTML/CSS Review (9:00 - 9:30)
+
+Classroom C.
+
+### How the Web Works (9:30 - 11:00)
+
+Classroom C.
+
+### What is Rack? (11:00 - 12:00)
+
+[I never get tired of making this joke.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1602
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Everyone in Classroom A.
+
+### Echo: SuperFizz Recap (9:30 - 10:00)
+
+Join Nate at the Staff Table.
+
+### Foxtrot: Strings and Integers Recap (9:30 - 10:00)
+
+Join Mike in Classroom A.
+
+### Echo: String and Integer Riddles (10:00 - 11:00)
+
+Stay at your table.
+
+### Foxtrot: Flow Control (10:00 - 11:00)
+
+Stay in Classroom A where Horace will be joining you.
+
+### All: Introducing Arrays (11:00 - 12:00)
+
+Gather back around in Classroom A to learn about Arrays.
+
+### All: Improv (1:00 - 3:00)
+
+Classroom A.
+
+### All: Mixer (3:00 - 4:00)
+
+Hang out in Classroom A and meet some other students!
