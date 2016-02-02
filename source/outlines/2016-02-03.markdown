@@ -63,6 +63,10 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 - 1:00 - 1:20: Ryan Johnson
 - 1:20 - 1:40: Aaron Carega
 
+#### With Meeka
+
+- 1:00 - 1:20: Pat Wey
+
 ## 1510
 
 ### Multitenancy Authorization (9:00 - 12:00)
