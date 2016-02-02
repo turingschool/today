@@ -3,6 +3,19 @@ title: 20160203
 layout: outline
 ---
 
+## All
+
+Please continue to wear your name tags!
+
+### Word of the Day
+
+* aeromancy - noun - the prediction of future events from observation of weather conditions
+
+### Posse Challenge (8:30 - 9:00)
+
+* [Link](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
+
 ## 1508
 
 ### Array Prototype Methods (9:00 - 12:00)
@@ -49,3 +62,61 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 
 - 1:00 - 1:20: Ryan Johnson
 - 1:20 - 1:40: Aaron Carega
+
+## 1510
+
+### Multitenancy Authorization (9:00 - 12:00)
+
+The Big Workspace
+
+### Project Work Time (1:00 - 4:00)
+
+Pivot Ahead!
+
+
+## 1511
+
+### CRUD Homework Review (9:00 - 9:30)
+
+Classroom C.
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+Classroom C.
+
+### Nokogiri (1:00 - 1:30)
+
+Classroom C.
+
+### Acceptance Testing with Capybara (1:30 - 4:00)
+
+Classroom C.
+
+
+## 1602
+
+### All: Team Building (9:00 - 11:00)
+
+Classrom A.
+
+### Echo: How Testing Works (11:00 - 12:00)
+
+Staff Conference Table
+
+### Foxtrot: TBA (11:00 - 12:00)
+
+Classroom A.
+
+### All: Exploring .each and Exercises (1:00 - 2:30)
+
+Join Mike in Classroom A.
+
+### All: Problems, Solutions, and Algorithms
+
+Horace time in Classroom A.
+
+### Foxtrot: Mythical Creatures Kickoff (3:30 - 4:00)
+
+Mike joins you in Classroom A.
+
+>>>>>>> 4423b8757485ae7fd5e8c110b031726d5067fa9c
