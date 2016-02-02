@@ -18,13 +18,32 @@ Please continue to wear your name tags!
 
 ## 1508
 
-### Exercise: Unit Testing with Teaspoon (9:00 - 10:30)
+### Array Prototype Methods (9:00 - 12:00)
 
-Meet with Meeka in Classroom B. This morning, you'll be introduced to some ways to unit test JavaScript in Rails.
+Meet with Steve in the Big Workspace.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
 
-### Functions in JavaScript (10:30 - 12:00)
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/42706e9eadbaae34238d
+
+You'll be working in the following pairs:
+
+* Ross Edfort & Jason Pilz
+* Tyler Komoroske & Pat Wey
+* Amber Crawford & Michael Wong
+* Marlo Major & Jessica Goulding
+* Emily Dowdle & Jhun de Andres
+* Robbie Lane & Torie Warren
+* Aaron Careaga & Matt Stjernholm
+* Vanessa Gomez & Matt Rooney
+* Jill Donohue & Ryan Johnson
+* Sekhar Paladugu & Adam Jense
+
+### Functions in JavaScript (1:00 - 2:30)
 
 Meet with Steve in Classroom B. We'll be using the same repository as yesterday.
 
@@ -35,7 +54,7 @@ Please [fork this gist][cfu4] and add your scores as we go along.
 
 [cfu4]: https://gist.github.com/stevekinney/6604447c4e91037af50e
 
-### Project Work Time (1:00 - 4:00)
+### Project Work Time & Check-Ins Overflow (2:30 - 4:00)
 
 Meeka and Steve love it when you tag them in pull requests on Github and make them do PR reviews
 
