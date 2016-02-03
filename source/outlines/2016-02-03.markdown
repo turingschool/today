@@ -18,9 +18,27 @@ Please continue to wear your name tags!
 
 ## 1508
 
-### Array Prototype Methods (9:00 - 12:00)
+### Challenge: Echo (9:00 - 9:45)
 
-Meet with Steve in the Big Workspace.
+Meet with Steve in Classroom B. You'll be working on a small challenge called Echo.
+
+* [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
+
+You'll be working in the following pairs:
+
+* Adam Jensen & Jill Donohue
+* Amber Crawford & Sekhar Paladugu
+* Aaron Careaga & Robbie Lane
+* Pat Wey & Torie Warren
+* Ross Edfort & Matt Stjernholm
+* Marlo Major & Matt Rooney
+* Jhun de Andres & Michael Wong
+* Jason Pilz & Emily Dowdle
+* Tyler Komoroske & Ryan Johnson
+
+### Array Prototype Methods (9:45 - 12:00)
+
+Meet with Steve in the Classroom B.
 
 - [Clone down this repository][mdn]. You'll be using it all module.
 - We'll be working through [this lesson plan][apm].
@@ -52,7 +70,7 @@ Meet with Steve in Classroom B. We'll be using the same repository as earlier.
 
 Please [fork this gist][cfu4] and add your scores as we go along.
 
-[cfu4]: https://gist.github.com/stevekinney/6604447c4e91037af50e
+[cfu4]: https://gist.github.com/stevekinney/c5e02b695f9a6e89cfa5
 
 ### Project Work Time & Check-Ins Overflow (2:30 - 4:00)
 
@@ -60,8 +78,9 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 
 #### With Steve
 
-- 1:00 - 1:20: Ryan Johnson
-- 1:20 - 1:40: Aaron Carega
+- 2:30 - 2:50: Ryan Johnson
+- 3:00 - 3:20: Aaron Carega
+- 3:30 - 3:50: Jason Pilz
 
 #### With Meeka
 
