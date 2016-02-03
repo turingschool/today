@@ -20,7 +20,7 @@ Please continue to wear your name tags!
 
 ### Array Prototype Methods (9:00 - 12:00)
 
-Meet with Steve in the Big Workspace.
+Meet with Steve in Classroom B.
 
 - [Clone down this repository][mdn]. You'll be using it all module.
 - We'll be working through [this lesson plan][apm].
@@ -69,6 +69,7 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 - 1:20 - 1:40: Michael Wong
 - 1:40 - 2:00: Tyler Komoroske
 
+
 ## 1510
 
 ### Multitenancy Authorization (9:00 - 12:00)
@@ -105,24 +106,26 @@ Classroom C.
 
 Classroom A.
 
-### Echo: How Testing Works (11:00 - 12:00)
-
-Meet with Nate at the Staff Conference Table. We'll learn about testing, which would have been really useful yesterday during core types exercises.
-
-### Foxtrot: TBA (11:00 - 12:00)
+### All: Student Activities Mixer (11:00 - 12:00)
 
 Classroom A.
 
-### All: Exploring .each and Exercises (1:00 - 2:30)
+### Exploring .each (1:00 - 2:30)
 
-Join Mike in Classroom A.
+Classroom A with Mike.
 
-### All: Problems, Solutions, and Algorithms
+### Foxtrot: Exercise Kickoff of DOOM (2:30 - 3:00)
 
-Horace time in Classroom A.
+Stay with Mike in Classroom A.
 
-### Foxtrot: Mythical Creatures Kickoff (3:30 - 4:00)
+### Echo: How Testing Works (2:30 - 4:00)
 
-Mike joins you in Classroom A.
+Join Nate at the Staff Conference table.
 
->>>>>>> 4423b8757485ae7fd5e8c110b031726d5067fa9c
+### Foxtrot: Work Time (3:00 - 4:00)
+
+Work away at the things.
+
+### Horace Office Hours - (4:15 - 5:15)
+
+Horace is available for questions.
