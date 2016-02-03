@@ -47,6 +47,8 @@ While Steve, Jorge and Meeka doing code reviews, you'll work through Steve's fir
 
 ### IdeaBox Evals (1:30 - 4:00)
 
+[Make Sure You Have A Submission Form Completed!](https://github.com/turingschool/ruby-submissions/tree/master/1508/module_4_assignments/ideabox2.0)
+
 #### With Steve
 - 1:30 - 1:50: Jill Donohue
 - 1:50 - 2:10: Michael Wong
