@@ -38,7 +38,7 @@ You'll be working in the following pairs:
 
 ### Array Prototype Methods (9:45 - 12:00)
 
-Meet with Steve in the Classroom B.
+Meet with Steve in Classroom B.
 
 - [Clone down this repository][mdn]. You'll be using it all module.
 - We'll be working through [this lesson plan][apm].
@@ -61,7 +61,7 @@ You'll be working in the following pairs:
 * Jill Donohue & Ryan Johnson
 * Sekhar Paladugu & Adam Jense
 
-### Functions in JavaScript (1:00 - 2:30)
+### Functions in JavaScript (11:00 - 1:00)
 
 Meet with Steve in Classroom B. We'll be using the same repository as earlier.
 
@@ -72,7 +72,7 @@ Please [fork this gist][cfu4] and add your scores as we go along.
 
 [cfu4]: https://gist.github.com/stevekinney/c5e02b695f9a6e89cfa5
 
-### Project Work Time & Check-Ins Overflow (2:30 - 4:00)
+### Project Work Time & Check-Ins Overflow (1:00 - 4:00)
 
 Meeka and Steve love it when you tag them in pull requests on Github and make them do PR reviews. (Seriously, this is not a joke. Tag us in some PRs.)
 
@@ -84,9 +84,10 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 
 #### With Meeka
 
-- 1:00 - 1:20: Pat Wey
-- 1:20 - 1:40: Michael Wong
-- 1:40 - 2:00: Tyler Komoroske
+- 2:30 - 2:50: Pat Wey
+- 3:00 - 3:20: Michael Wong
+- 3:30 - 3:50: Tyler Komoroske
+
 
 ## 1510
 
@@ -107,11 +108,11 @@ Classroom C.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown).
 
 ### Nokogiri (1:00 - 1:30)
 
-Classroom C.
+Join Andrew in Classroom C to learn about [Nokogiri](https://www.google.com/search?q=nokogiri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi8vf7G99vKAhXonIMKHS2dAVAQ_AUIBygB&biw=1440&bih=778), a Japanese wood saw. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown).
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
@@ -124,24 +125,26 @@ Classroom C.
 
 Classroom A.
 
-### Echo: How Testing Works (11:00 - 12:00)
-
-Meet with Nate at the Staff Conference Table. We'll learn about testing, which would have been really useful yesterday during core types exercises.
-
-### Foxtrot: TBA (11:00 - 12:00)
+### All: Student Activities Mixer (11:00 - 12:00)
 
 Classroom A.
 
-### All: Exploring .each and Exercises (1:00 - 2:30)
+### Exploring .each (1:00 - 2:30)
 
-Join Mike in Classroom A.
+Classroom A with Mike.
 
-### All: Problems, Solutions, and Algorithms
+### Foxtrot: Exercise Kickoff of DOOM (2:30 - 3:00)
 
-Horace time in Classroom A.
+Stay with Mike in Classroom A.
 
-### Foxtrot: Mythical Creatures Kickoff (3:30 - 4:00)
+### Echo: How Testing Works (2:30 - 4:00)
 
-Mike joins you in Classroom A.
+Join Nate at the Staff Conference table.
 
->>>>>>> 4423b8757485ae7fd5e8c110b031726d5067fa9c
+### Foxtrot: Work Time (3:00 - 4:00)
+
+Work away at the things.
+
+### Horace Office Hours - (4:15 - 5:15)
+
+Horace is available for questions.
