@@ -89,11 +89,11 @@ Classroom C.
 
 ### Model Testing in Sinatra (9:30 - 12:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_sinatra.markdown). 
 
 ### Nokogiri (1:00 - 1:30)
 
-Classroom C.
+Join Andrew in Classroom C to learn about [Nokogiri](https://www.google.com/search?q=nokogiri&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi8vf7G99vKAhXonIMKHS2dAVAQ_AUIBygB&biw=1440&bih=778), a Japanese wood saw. Find the challenge [here](https://github.com/turingschool/challenges/blob/master/parsing_html.markdown). 
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
