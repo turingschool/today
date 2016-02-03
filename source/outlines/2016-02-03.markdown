@@ -118,7 +118,13 @@ Join Andrew in Classroom C to learn about [Nokogiri](https://www.google.com/sear
 
 ### Acceptance Testing with Capybara (1:30 - 4:00)
 
-Classroom C.
+Classroom C. Don't get stuck in the fire swamp by not TDD-ing your web apps... Let's learn how to test our web apps with the the help of an R.O.U.S. You can find our lesson [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_in_sinatra_with_capybara.markdown)
+
+and here is an ROUS
+![ROUS](http://38.media.tumblr.com/1efd9968db616105fa9397e8cb5beaae/tumblr_inline_nt4r5zfkYf1sk823x_500.gif)
+
+and here is a capybara
+![capybara](https://media.giphy.com/media/npgWXDvVl2cik/giphy.gif)
 
 
 ## 1602
