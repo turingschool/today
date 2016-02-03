@@ -1,0 +1,72 @@
+---
+title: 20160204
+layout: outline
+---
+
+## 1508
+
+### Homework
+- Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end and [submit it here](https://github.com/turingschool/ruby-submissions/tree/master/1508/module_4_assignments/dev-tools-homework). (5 points)
+
+### Debugging JavaScript (9:00 - 10:00)
+
+Meet with Meeka in Classroom C to discuss the finer points of debugging JavaScript.
+
+### Introduction to Object-Oriented JavaScript (10:00 - 11:00)
+
+Stick around in Classroom C for a quick introduction to object-oriented JavaScript.
+
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
+- [Checks for Understanding](https://gist.github.com/stevekinney/d02403d8190f8e87a731)
+
+### IdeaBox Peer Reviews (11:00 - 12:00)
+
+Classroom C. You'll be working in the following pairs. Please spend 30 minutes on each project doing a through code review.
+
+- Open issues on your partner's code base either asking questions about an approach or suggesting an alternative approach
+- Open pull requests to fix bugs in your partner's code base.
+
+You'll be working in the following pairs:
+
+* Ross Edfort & Matt Rooney
+* Jason Pilz & Robbie Lane
+* Adam Jense & Sekhar Paladugu
+* Jill Donohue & Jhun de Andres
+* Aaron Careaga & Tyler Komoroske
+* Matt Stjernholm & Pat Wey
+* Marlo Major & Michael Wong
+* Ryan Johnson & Emily Dowdle
+* Torie Warren & Amber Crawford
+
+### Ideabox Tutorial (1:30 - 4:00)
+Classroom C.
+
+While Steve, Jorge and Meeka doing code reviews, you'll work through Steve's first pass at the project. Don't try to print it out, it's about the quarter of the length of a book.
+
+- [Idea Box](https://github.com/stevekinney/idea-box)
+
+### IdeaBox Evals (1:30 - 4:00)
+
+#### With Steve
+- 1:30 - 1:50: Jill Donohue
+- 1:50 - 2:10: Michael Wong
+- 2:10 - 2:30: Emily Dowdle
+- 2:40 - 3:00: Adam Jense
+- 3:00 - 3:20: Matt Rooney
+- 3:20 - 3:40: Amber Crawford
+
+#### With Meeka
+- 1:30 - 1:50: Aaron Careaga
+- 1:50 - 2:10: Sekhar Paladugu
+- 2:10 - 2:30: Marlo Major
+- 2:40 - 3:00: Tyler Komoroske
+- 3:00 - 3:20: Pat Wey
+- 3:20 - 3:40: Torie Warren
+
+#### With Jorge
+- 1:30 - 1:50: Jason Pilz
+- 1:50 - 2:10: Robbie Lane
+- 2:10 - 2:30: Ryan Johnson
+- 2:40 - 3:00: Jhun de Andres
+- 3:00 - 3:20: Ross Edfort
+- 3:20 - 3:40: Matt Stjernholm
