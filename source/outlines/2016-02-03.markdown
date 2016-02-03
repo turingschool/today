@@ -75,6 +75,8 @@ Meeka and Steve love it when you tag them in pull requests on Github and make th
 
 The Big Workspace
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.md)
+
 ### Project Work Time (1:00 - 4:00)
 
 Pivot Ahead!
