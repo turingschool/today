@@ -103,11 +103,11 @@ Classroom C.
 
 ### All: Team Building (9:00 - 11:00)
 
-Classrom A.
+Classroom A.
 
 ### Echo: How Testing Works (11:00 - 12:00)
 
-Staff Conference Table
+Meet with Nate at the Staff Conference Table. We'll learn about testing, which would have been really useful yesterday during core types exercises.
 
 ### Foxtrot: TBA (11:00 - 12:00)
 
