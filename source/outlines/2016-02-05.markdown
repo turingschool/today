@@ -16,3 +16,44 @@ This weekend, please complete the following assignment:
 - Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
 
 [sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
+
+## 1511
+
+#### Debugging Sinatra Errors & Blogging (9:00 - 10:30)
+
+Join Mike in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/task-manager-transformation). How do you do that? Navigate into your `task-manager-transformation` repo from yesterday's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging`).
+
+Pairs:
+
+* Hedy Woo & Erinna Chen
+* Allan Blair & Alexis Navarrete
+* Scott Firestone & Brian Rippeto
+* Adam Hundley & Admir Draganovic
+* Charles Ellison & July Tran
+* Kimiko Kano & Nicholas Dorans
+* Nate Venn & Brennan Holtzclaw
+* David Whitaker & Julian Feliciano
+* Heidi Hoopes & Chelsea Johnson
+* Nick Weiland & Adrienne Domingus
+
+When you finish, write a blog post on anything that you learned in week 1. Over the course of this module, you should publish *at least two* blogs posts. You'll add these to your module 2 portfolio.
+
+## Lightning Talks
+
+* Michael Wong - Drones: For more than just spying on your neighbors
+* Marlo Major - Write User Stories like a 12 year old
+* Beth Sebian - Libertarian Paternalism: ways to use tech and choice architecture to help people make good decisions
+* Edgar Duran - AR- Augmented Reality, seeing things differently.
+* Tyler Komoroske - ClojureScript vs JavaScript
+* Brian Rippeto - Community Transformation through Technology and Entrepreneurship
+* Charles Ellison - Artificial intelligence: Bridging the gap
+* Allan Blair - Go nuts for Golang!
+
+## Student-Led Sessions & Electives
+
+* How to create and use SVG's - With Robbie and Ross
+* How to get started with Vim - Adam Jensen
+* Getting Started With Phoenix - Torie and Pat
+* Tips for faster workflow in your text editor and OS - Alon (good for Module 1 students)
+* How Ruby reads code - Justin Pease (good for Module 1 students)
+* Go Code Colorado - Aaron Greenspan and Dan Winter
