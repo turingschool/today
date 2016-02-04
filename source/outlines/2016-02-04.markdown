@@ -12,6 +12,8 @@ layout: outline
 
 Meet with Meeka in Classroom C to discuss the finer points of debugging JavaScript.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
 ### Introduction to Object-Oriented JavaScript (10:00 - 11:00)
 
 Stick around in Classroom C for a quick introduction to object-oriented JavaScript.
