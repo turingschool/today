@@ -3,6 +3,18 @@ title: 20160204
 layout: outline
 ---
 
+## All
+
+### Word of the Day
+
+* alpenglow - noun - a reddish glow often seen on the summits of mountains just before sunrise or just after sunset.
+
+
+### Posse Challenge (8:30 - 9:00)
+
+* [Link](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
+
 ## 1508
 
 ### Homework
@@ -72,3 +84,50 @@ While Steve, Jorge and Meeka doing code reviews, you'll work through Steve's fir
 - 2:40 - 3:00: Jhun de Andres
 - 3:00 - 3:20: Ross Edfort
 - 3:20 - 3:40: Matt Stjernholm
+
+
+## 1510
+
+### Project Work Time (9:00 - 4:00)
+
+All Day, Erry Day.
+
+
+## 1511
+
+### What is Rack? (9:00 - 9:30)
+
+Classroom B.
+
+### SQL (9:30 - 10:30)
+
+Classroom B.
+
+### Intro to Sequel (10:30 - 12:00)
+
+Guess where?
+
+### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1602
+
+### All:  Map, Select, Find (9:00 - 10:30)
+
+Join Mike in Classroom A as you learn about three more enumerables.
+
+### All: Introducing Hashes (10:30 - 12:00)
+
+Stay in Classroom A with Nate as you have more arts and crafts time.
+
+### All: Objects, Instances and Classes (1:00 - 3:00)
+
+Classroom A with Horace.
+
+### Week 1 Diagnostic and Review (3:00 - 4:00)
+
+Classroom A.
+
+
