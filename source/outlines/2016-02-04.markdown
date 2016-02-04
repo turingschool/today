@@ -101,11 +101,13 @@ Classroom B.
 
 ### SQL (9:30 - 10:30)
 
-Classroom B.
+Classroom B. [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown) is your outline
 
 ### Intro to Sequel (10:30 - 12:00)
 
-Guess where?
+Guess where? Wait for it... Wait for it... it's B.
+
+Let's work through [this](http://tutorials.jumpstartlab.com/topics/sql/sequel.html) tutorial.  
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
@@ -129,5 +131,3 @@ Classroom A with Horace.
 ### Week 1 Diagnostic and Review (3:00 - 4:00)
 
 Classroom A.
-
-
