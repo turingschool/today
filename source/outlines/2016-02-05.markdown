@@ -29,6 +29,14 @@ This weekend, please complete the following assignment:
 
 [sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
 
+## 1510
+
+### Intermediate SQL (9:00 - 10:30)
+
+Join Tess in Classroom B to brush up on your SQL skills.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
+
 ## 1511
 
 #### Debugging Sinatra Errors & Blogging (9:00 - 10:30)
