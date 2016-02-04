@@ -3,6 +3,10 @@ title: 20160205
 layout: outline
 ---
 
+## Surveys
+
+* [1511](https://docs.google.com/a/casimircreative.com/forms/d/1UJcJCcwBB8qiGdYqiqAvo2IZCOcYx-eGiOmMC4-IUc8/viewform)
+
 ## 1508
 
 ### Refactoring Ideabox (9:00 - 10:30)
@@ -54,6 +58,7 @@ When you finish, write a blog post on anything that you learned in week 1. Over 
 * How to create and use SVG's - With Robbie and Ross
 * How to get started with Vim - Adam Jensen
 * Getting Started With Phoenix - Torie and Pat
+* Go Code Colorado - Aaron Greenspan and Dan Winter
 * Tips for faster workflow in your text editor and OS - Alon (good for Module 1 students)
 * How Ruby reads code - Justin Pease (good for Module 1 students)
-* Go Code Colorado - Aaron Greenspan and Dan Winter
+* Thomas Pickett and Penney Garrett are offering pairing slots for Module 1 students. If you want to pair with either of them, send a DM on Slack to see if they have any openings. 
