@@ -6,12 +6,12 @@ layout: outline
 ## Posse Challenge Show & Tell (8:30 - 9:00)
 
 * Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth: in the big workspace with @horace
-* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @mike 
-* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @neight 
+* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @mike
+* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @neight
 
 ## Surveys
 
-Please complete your survey by 5pm today. 
+Please complete your survey by 5pm today.
 
 * [1511](https://docs.google.com/a/casimircreative.com/forms/d/1UJcJCcwBB8qiGdYqiqAvo2IZCOcYx-eGiOmMC4-IUc8/viewform)
 
@@ -58,18 +58,36 @@ Pairs:
 
 When you finish, write a blog post on anything that you learned in week 1. Over the course of this module, you should publish *at least two* blogs posts. You'll add these to your module 2 portfolio.
 
-## Lightning Talks
+### Gear Up (10:30 - 11:15)
 
+Big Workspace.
+
+### Guest Speaker (11:15 - 12:00)
+
+Big Workspace
+
+### Group Retro (1:15 - 2:00)
+
+* 1508 - Classroom B.
+* 1510 - Big Workspace
+* 1511 - Classroom C.
+* 1602 - Classroom A.
+
+### Lightning Talks (2:00 - 2:30)
+
+#### Big Workspace - Kay, Berners-Lee, Brooks, Knuth, Lovelace, Hopper
 * Michael Wong - Drones: For more than just spying on your neighbors
 * Marlo Major - Write User Stories like a 12 year old
 * Beth Sebian - Libertarian Paternalism: ways to use tech and choice architecture to help people make good decisions
 * Edgar Duran - AR- Augmented Reality, seeing things differently.
+
+#### Classroom A - Golick, Goldberg, Ritchie, Zygmuntowicz, Matsumoto
 * Tyler Komoroske - ClojureScript vs JavaScript
 * Brian Rippeto - Community Transformation through Technology and Entrepreneurship
 * Charles Ellison - Artificial intelligence: Bridging the gap
 * Allan Blair - Go nuts for Golang!
 
-## Student-Led Sessions & Electives
+### Student-Led Sessions & Electives (2:30 - 4:00)
 
 * How to create and use SVG's - With Robbie and Ross
 * How to get started with Vim - Adam Jensen
@@ -77,4 +95,8 @@ When you finish, write a blog post on anything that you learned in week 1. Over 
 * Go Code Colorado - Aaron Greenspan and Dan Winter
 * Tips for faster workflow in your text editor and OS - Alon (good for Module 1 students)
 * How Ruby reads code - Justin Pease (good for Module 1 students)
-* Thomas Pickett and Penney Garrett are offering pairing slots for Module 1 students. If you want to pair with either of them, send a DM on Slack to see if they have any openings. 
+* Thomas Pickett and Penney Garrett are offering pairing slots for Module 1 students. If you want to pair with either of them, send a DM on Slack to see if they have any openings.
+
+### Dave from 8th Light (3:00 - 4:00)
+
+Classroom C.
