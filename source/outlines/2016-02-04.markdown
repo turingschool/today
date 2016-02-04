@@ -158,6 +158,9 @@ Stay in Classroom A with Nate as you have more arts and crafts time.
 
 Classroom A with Horace.
 
+We'll discuss the fundamentals of Object-Oriented Programming
+using [this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+
 ### Week 1 Diagnostic and Review (3:00 - 4:00)
 
-Classroom A.
+Gather in Classroom A to take your weekly Diagnostic Quiz.
