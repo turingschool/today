@@ -17,9 +17,11 @@ Please complete your survey by 5pm today.
 
 ## 1508
 
-### Refactoring Ideabox (9:00 - 10:30)
+### Refactoring Ideabox and Other Questions from the Week (9:00 - 10:30)
 
-Join Steve in Classroom C to live refactor his bad code.
+Join Steve in Classroom C to live refactor his bad code, answer your questions, and wax poetic.
+
+- [Steve's Idea Box](https://github.com/stevekinney/idea-box)
 
 ##### Homework
 
@@ -87,8 +89,12 @@ Big Workspace
 * Charles Ellison - Artificial intelligence: Bridging the gap
 * Allan Blair - Go nuts for Golang!
 
-### Student-Led Sessions & Electives (2:30 - 4:00)
+### Student-(and an Instructor-)Led Sessions & Electives (2:30 - 4:00)
 
+* Building Desktop Applications with Electron - with Steve in Classroom A
+  - Install [Node.js](https://nodejs.org/en/)
+  - `npm install -g electron-prebuilt`
+  - Steve's talk at [EmpireNode](http://www.stevekinney.net/videos/2015/11/building-desktop-applications-with-node-and-electron)
 * How to create and use SVG's - With Robbie and Ross
 * How to get started with Vim - Adam Jensen
 * Getting Started With Phoenix - Torie and Pat
