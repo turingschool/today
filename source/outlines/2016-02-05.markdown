@@ -18,46 +18,7 @@ Please complete your survey by 5pm today.
 * [1511](https://docs.google.com/a/casimircreative.com/forms/d/1UJcJCcwBB8qiGdYqiqAvo2IZCOcYx-eGiOmMC4-IUc8/viewform)
 * [1602](https://docs.google.com/forms/d/1uq2XMKC0Ai5s5pAQOH2LGo2r5IS9osA-6BUcC23okNQ/viewform)
 
-## 1508
-
-### Refactoring Ideabox and Other Questions from the Week (9:00 - 10:30)
-
-Join Steve in Classroom C to live refactor his bad code, answer your questions, and wax poetic.
-
-- [Steve's Idea Box](https://github.com/stevekinney/idea-box)
-
-##### Homework
-
-This weekend, please complete the following assignment:
-
-- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
-
-[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
-
-## 1510
-
-### Intermediate SQL (9:00 - 10:30)
-
-Join Tess in Classroom B to brush up on your SQL skills.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
-
-## 1511
-
-### Debugging Sinatra Errors and/or Database Relationships (9:00 - 10:30)
-
-Join Mike in the big workspace. This morning, you'll complete one of the following options:
-
-#### Choice 1: Debugging Sinatra Errors
-
-You'll need the `debugging-practice` branch of [this repo](https://github.com/rwarbelow/1511_task_manager/tree/debugging-practice). How do you do that? Navigate into your `1511_task_manager` repo from yesterday afternoon's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging-practice`). Run `rake test`, then start fixing those errors.
-
-#### Choice 2: Implementing Database Relationships
-
-Follow [this gist](https://gist.github.com/rwarbelow/73301b9f2bfb07ec5b6c) to experiment with adding categories to your Task Manager.
-#### Done?
-
-If you finish, this would be a good opportunity to write a blog post on anything that you learned in week 1. Over the course of this module, you will publish *at least one* blog post for your Module 2 portfolio.
+## All
 
 ### Gear Up (10:30 - 11:15)
 
@@ -101,3 +62,45 @@ Big Workspace
 ### Dave from 8th Light (3:00 - 4:00)
 
 Classroom C.
+
+## 1508
+
+### Refactoring Ideabox and Other Questions from the Week (9:00 - 10:30)
+
+Join Steve in Classroom C to live refactor his bad code, answer your questions, and wax poetic.
+
+- [Steve's Idea Box](https://github.com/stevekinney/idea-box)
+
+##### Homework
+
+This weekend, please complete the following assignment:
+
+- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
+
+[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
+
+## 1510
+
+### Intermediate SQL (9:00 - 10:30)
+
+Join Tess in Classroom B to brush up on your SQL skills.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
+
+## 1511
+
+### Debugging Sinatra Errors and/or Database Relationships (9:00 - 10:30)
+
+Join Mike in the big workspace. This morning, you'll complete one of the following options:
+
+#### Choice 1: Debugging Sinatra Errors
+
+You'll need the `debugging-practice` branch of [this repo](https://github.com/rwarbelow/1511_task_manager/tree/debugging-practice). How do you do that? Navigate into your `1511_task_manager` repo from yesterday afternoon's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging-practice`). Run `rake test`, then start fixing those errors.
+
+#### Choice 2: Implementing Database Relationships
+
+Follow [this gist](https://gist.github.com/rwarbelow/73301b9f2bfb07ec5b6c) to experiment with adding categories to your Task Manager.
+#### Done?
+
+If you finish, this would be a good opportunity to write a blog post on anything that you learned in week 1. Over the course of this module, you will publish *at least one* blog post for your Module 2 portfolio.
+
