@@ -43,24 +43,20 @@ Join Tess in Classroom B to brush up on your SQL skills.
 
 ## 1511
 
-#### Debugging Sinatra Errors & Blogging (9:00 - 10:30)
+### Debugging Sinatra Errors and/or Database Relationships (9:00 - 10:30)
 
-Join Mike in the big workspace. You'll need the `debugging` branch of [this repo](https://github.com/turingschool-examples/task-manager-transformation). How do you do that? Navigate into your `task-manager-transformation` repo from yesterday's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging`).
+Join Mike in the big workspace. This morning, you'll complete one of the following options: 
 
-Pairs:
+#### Choice 1: Debugging Sinatra Errors
 
-* Hedy Woo & Erinna Chen
-* Allan Blair & Alexis Navarrete
-* Scott Firestone & Brian Rippeto
-* Adam Hundley & Admir Draganovic
-* Charles Ellison & July Tran
-* Kimiko Kano & Nicholas Dorans
-* Nate Venn & Brennan Holtzclaw
-* David Whitaker & Julian Feliciano
-* Heidi Hoopes & Chelsea Johnson
-* Nick Weiland & Adrienne Domingus
+You'll need the `debugging-practice` branch of [this repo](https://github.com/rwarbelow/1511_task_manager/tree/debugging-practice). How do you do that? Navigate into your `1511_task_manager` repo from yesterday afternoon's Sequel lesson, then fetch all remote branches (`git fetch`) then checkout the debugging branch (`git checkout debugging-practice`). Run `rake test`, then start fixing those errors. 
 
-When you finish, write a blog post on anything that you learned in week 1. Over the course of this module, you should publish *at least two* blogs posts. You'll add these to your module 2 portfolio.
+#### Choice 2: Implementing Database Relationships
+
+Follow [this gist](https://gist.github.com/rwarbelow/73301b9f2bfb07ec5b6c) to experiment with adding categories to your Task Manager.  
+#### Done? 
+
+If you finish, this would be a good opportunity to write a blog post on anything that you learned in week 1. Over the course of this module, you will publish *at least one* blog post for your Module 2 portfolio. 
 
 ### Gear Up (10:30 - 11:15)
 
