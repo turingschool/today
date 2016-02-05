@@ -83,7 +83,6 @@ Big Workspace
 * Edgar Duran - AR- Augmented Reality, seeing things differently.
 
 #### Classroom A - Golick, Goldberg, Ritchie, Zygmuntowicz, Matsumoto
-* Tyler Komoroske - ClojureScript vs JavaScript
 * Brian Rippeto - Community Transformation through Technology and Entrepreneurship
 * Charles Ellison - Artificial intelligence: Bridging the gap
 * Allan Blair - Go nuts for Golang!
