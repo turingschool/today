@@ -77,6 +77,8 @@ You'll be working in the following pairs:
 Join Steve in Classroom C.
 
 - [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+- [Project Submission Folder](https://github.com/turingschool/ruby-submissions/tree/master/1508/module_4_assignments/gametime)
+- You Will Need to Complete the [First Check In Form & README](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in1.markdown) by checkins tomorrow afternoon. 
 
 You'll be working in the following pairs:
 
@@ -162,6 +164,3 @@ Staff Conference Table.
 ### Foxtrot: How Linked Lists Work / Project Kickoff (1:00 - 2:30)
 
 Classroom A.
-
-
-
