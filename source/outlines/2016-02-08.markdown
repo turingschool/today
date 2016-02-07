@@ -26,6 +26,7 @@ Create an interface that meets the following criteria:
 5. When added and subsequently clicked, the sixth button will log that "Button #6" was clicked.
 
 You'll be working in the following pairs:
+
 * Amber Crawford & Adam Jensen
 * Aaron Careaga & Matt Stjernholm
 * Matt Rooney & Sekhar Paladugu
@@ -43,6 +44,7 @@ Join Steve in Classroom C.
 - [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
 
 You'll be working in the following pairs:
+
 * Jhun de Andres & Matt Rooney
 * Emily Dowdle & Matt Stjernholm
 * Jason Pilz & Sekhar Paladugu
