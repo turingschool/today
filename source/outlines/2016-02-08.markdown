@@ -2,6 +2,23 @@
 title: 20160208
 layout: outline
 ---
+## All
+
+### Word of the Day:
+
+* nugatory - adjective - of no real value; trifling; worthless
+
+### Friday Lunch Roulette Groups
+
+* TBA
+
+### Posse Challenge
+
+* Challenge goes here.
+
+### Protocol (2:30 - 4:00)
+
+
 
 ## 1508
 
@@ -72,3 +89,79 @@ You'll be working in the following pairs:
 * Marlo Major & Michael Wong
 * Jill Donohue & Tyler Komoroske
 * Matt Stjernholm & Emily Dowdle
+
+## 1510
+
+### Traversing the DOM with jQuery (9:00 - 10:30)
+
+Classroom B.
+
+## DOM Events with jQUery (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 2:30)
+
+Do the things.
+
+
+## 1511
+
+### Project Review (9:00 - 9:30)
+
+Big Workspace
+
+### Rush Hour Kickoff (9:30 - 10:00)
+
+Big Workspace
+
+### Introduction to Project Management (10:00 - 11:30)
+
+Guess where?
+
+### Visualizing and Implementing Database Relationships (11:30 - 12:00)
+
+Big Workspace
+
+### Introduction to ActiveRecord with Sinatra (1:00 - 2:30)
+
+Big Workspace
+
+
+## 1602
+
+### All: Problems, Solutions and Algorithms (9:00 - 10:30)
+
+Classroom A.
+
+### Echo: Mastermind Evals (10:30 - 12:00)
+
+### With Mike
+* 10:30 - Marina Corona
+* 11:00 - Jonathan Bernesser
+* 11:30 - Kami Boers
+
+### With Horace
+* 10:30 - Matt Pindell
+* 11:00 - Gurusundesh Khalsa
+* 11:30 - Sal Espinosa
+
+### With Tess
+* 10:30 - Andrew Thompson
+* 11:00 - Jonathan Liss
+* 11:30 - Joshua Washke
+
+### Foxtrot: How Testing Works (10:30 - 12:00)
+
+Classroom A.
+
+### Echo: How Binary Search Trees Work / Project Kickoff (1:00 - 2:30)
+
+Staff Conference Table.
+
+### Foxtrot: How Linked Lists Work / Project Kickoff (1:00 - 2:30)
+
+Classroom A.
+
+
+
