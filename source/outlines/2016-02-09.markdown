@@ -1,5 +1,5 @@
 ---
-title: 20160208
+title: 20160209
 layout: outline
 ---
 
@@ -7,7 +7,6 @@ layout: outline
 
 #### Homework
 
-Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and respond to [this gist][mrcq]. (3 points)
+[Writing Testable JavaScript - Rebecca Murphey](https://www.youtube.com/watch?v=OzjogCFO4Zo) from Full Frontal 2012 (award for worst conference name ever?)
 
-[mrc]: https://vimeo.com/105955605
-[mrcq]: https://gist.github.com/stevekinney/353182d7cd10fb4a5b27
+Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/b6dbcdc937b45563b2e4) and respond to the question. (3 points)
