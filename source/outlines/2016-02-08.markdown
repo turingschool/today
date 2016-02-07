@@ -5,7 +5,7 @@ layout: outline
 
 ## 1508
 
-##### Homework
+#### Homework
 
 Read [Node.js, Require and Exports][rblog] and [Organize Your Code with RequireJS][rblog2]
 
