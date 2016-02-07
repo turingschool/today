@@ -2,6 +2,7 @@
 title: 20160208
 layout: outline
 ---
+
 ## All
 
 ### Word of the Day:
@@ -10,14 +11,45 @@ layout: outline
 
 ### Friday Lunch Roulette Groups
 
-* TBA
+* Mark Miranda, Alireza Andersen, Nate Venn, Steve Kinney
+* Jason Pilz, Kimiko Kano, Ashwin Rao, Meeka Gayhart
+* Joseph Perry, Alexis Navarrete, Christine Gamble, Josh Mejia
+* Aaron Careaga, Christopher Soden, Admir Draganovic, Lovisa Svallingson
+* Ross Edfort, Adrienne Domingus, Claudia Kiesenhofer, Tess Griffin
+* Cole Hall, Deborah Hamel, Robbie Lane, Andrew Carmer
+* Jhun de Andres, Emily Blanchard, Adam Hundley, Rachel Warbelow
+* Colin Osborn, Torie Warren, Chelsea Johnson, Mike Dao
+* Erinna Chen, Joshua Washke, Charissa Lawrence, Horace Williams
+* Julian Feliciano, Kami Boers, Taylor Moore, Nate Allen
+* Kris Foss, Greg Armstrong, Thomas Pickett, Joanne Liu
+* Aaron Greenspan, Ling Tran, Steve Pentler, Allison Reu Singer
+* Nicholas Dorans, Sal Espinosa, Brenna Martenson, Jorge Tellez
+* Patrick Hardy, Penney Garrett, Brant Wellman, Marissa Smith
+* Ryan Johnson, Gurusundesh Khalsa, Charles Ellison, Jordan Lawler
+* Ilana Corson, Michael Wong, Hector Huertas Baeza, July Tran
+* Amber Crawford, Beth Sebian, Emily McClung, Heidi Hoopes
+* Justin Pease, Jared Roth, Matt Stjernholm, Scott Firestone
+* Adam Jensen, David Stinnette, Jeneve Parrish, Brian Rippeto
+* Andrew Thompson, Emily Dowdle, Hedy Woo, Shannon Paige
+* Jennifer Soden, Allan Blair, Pat Wey, Dan Winter
+* Edgar Duran, Marlo Major, Nick Weiland, Ji Kim
+* Jill Donohue, Jonathan Bernesser, Toni Rib, David Whitaker
+* Brennan Holtzclaw, Matt Rooney, John Slota, Jonathan Liss
+* Marina Corona, Tyler Komoroske, Lenny Myerson
+* Matt DesMarteau, James Crockett, Steven Olson
+* Matt Pindell, Sekhar Paladugu, Beth Secor
 
-### Posse Challenge
+### Posse Challenge - CODEBREAKERS (8:30 - 9:00)
 
-* Challenge goes here.
+* [Codecreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+
+Reminder, you don't have to work on it from 8:30 - 9:00, so long as everyone
+in your posse agrees.
+
+8:30 am Friday Morning is when we present our solutions and talk about it.
+
 
 ### Protocol (2:30 - 4:00)
-
 
 
 ## 1508
