@@ -1,0 +1,16 @@
+---
+title: 20160208
+layout: outline
+---
+
+## 1508
+
+##### Homework
+
+Read [Node.js, Require and Exports][rblog] and [Organize Your Code with RequireJS][rblog2]
+
+- Fork [this gist][rgist] and respond the question. (3 points)
+
+[rblog]: http://openmymind.net/2012/2/3/Node-Require-and-Exports/
+[rblog2]: http://blog.teamtreehouse.com/organize-your-code-with-requirejs
+[rgist]: https://gist.github.com/rrgayhart/706de83a136d69ce54a7
