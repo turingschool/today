@@ -14,3 +14,59 @@ Read [Node.js, Require and Exports][rblog] and [Organize Your Code with RequireJ
 [rblog]: http://openmymind.net/2012/2/3/Node-Require-and-Exports/
 [rblog2]: http://blog.teamtreehouse.com/organize-your-code-with-requirejs
 [rgist]: https://gist.github.com/rrgayhart/706de83a136d69ce54a7
+
+### Morning Challenge (9:00 - 10:00)
+
+Create an interface that meets the following criteria:
+
+1. It starts out with five buttons.
+2. When you click the first button, it alerts the us that "Button #1" has been clicked.
+3. The equivalent works for the second, third, fourth, and fifth buttons.
+4. There is an additional button for adding new buttons.
+5. When added and subsequently clicked, the sixth button will log that "Button #6" was clicked.
+
+You'll be working in the following pairs:
+* Amber Crawford & Adam Jensen
+* Aaron Careaga & Matt Stjernholm
+* Matt Rooney & Sekhar Paladugu
+* Jason Pilz & Emily Dowdle
+* Tyler Komoroske & Marlo Major
+* Michael Wong & Ryan Johnson
+* Pat Wey & Torie Warren
+* Jill Donohue & Ross Edfort
+* Jhun de Andres & Robbie Lane
+
+### Object-Oriented JavaScript with HTML5 Canvas (10:00 - 12:00)
+
+Join Steve in Classroom C.
+
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+You'll be working in the following pairs:
+* Jhun de Andres & Matt Rooney
+* Emily Dowdle & Matt Stjernholm
+* Jason Pilz & Sekhar Paladugu
+* Torie Warren & Marlo Major
+* Aaron Careaga & Pat Wey
+* Michael Wong & Ryan Johnson
+* Robbie Lane & Amber Crawford
+* Adam Jensen & Ross Edfort
+* Jill Donohue & Tyler Komoroske
+
+### Game Time Kickoff and WebPack Overview (1:00 - 2:30)
+
+Join Steve in Classroom C.
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+You'll be working in the following pairs:
+
+* Jhun de Andres & Aaron Careaga
+* Amber Crawford & Sekhar Paladugu
+* Robbie Lane & Ross Edfort
+* Pat Wey & Torie Warren
+* Matt Rooney & Adam Jensen
+* Jason Pilz & Ryan Johnson
+* Marlo Major & Michael Wong
+* Jill Donohue & Tyler Komoroske
+* Matt Stjernholm & Emily Dowdle
