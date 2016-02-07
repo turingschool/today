@@ -1,0 +1,17 @@
+---
+title: 20160212
+layout: outline
+---
+
+## 1508
+
+### Homework
+
+Over the weekend complete the following:
+
+- [Exercism Assignment from Intermission Week][esub]
+  - Submit a gist comparing 5 exercises you've completed with five other submissions.
+  - If you completed during intermission week, you get 15 out of 10 points
+  - Otherwise, you can get 10 points.
+
+[esub]: https://github.com/turingschool/intermission-assignments/issues/49

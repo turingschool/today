@@ -5,7 +5,7 @@ layout: outline
 
 ## 1508
 
-#### Homework
+### Homework
 
 [Writing Testable JavaScript - Rebecca Murphey](https://www.youtube.com/watch?v=OzjogCFO4Zo) from Full Frontal 2012 (award for worst conference name ever?)
 

@@ -5,7 +5,7 @@ layout: outline
 
 ## 1508
 
-#### Homework
+### Homework
 
 Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and respond to [this gist][mrcq]. (3 points)
 
