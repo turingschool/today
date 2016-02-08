@@ -169,8 +169,7 @@ Stay in the Big Workspace with Andrew.
 
 ### Introduction to ActiveRecord with Sinatra (1:00 - 2:30)
 
-Join Rachel in Classroom B.
-
+Join Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 ## 1602
 

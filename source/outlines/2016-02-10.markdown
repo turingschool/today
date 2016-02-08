@@ -3,6 +3,21 @@ title: 20160210
 layout: outline
 ---
 
+## All
+
+### Word of the Day:
+
+* provenance - noun - place or source of origin
+
+### Posse Challenge - CODEBREAKERS (8:30 - 9:00)
+
+* [Codebreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+
+Reminder, you don't have to work on it from 8:30 - 9:00, so long as everyone
+in your posse agrees.
+
+8:30 am Friday Morning is when we present our solutions and talk about it.
+
 ## 1508
 
 ### Homework
@@ -11,3 +26,66 @@ Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and 
 
 [mrc]: https://vimeo.com/105955605
 [mrcq]: https://gist.github.com/stevekinney/353182d7cd10fb4a5b27
+
+
+## 1510
+
+### Project Work Time (9:00 - 12:00)
+
+Peeevottttt.
+
+### On on Ones (9:00 - 12:00)
+
+Schedule TBA
+
+### Project Work Time (1:00 - 4:00)
+
+Zug zug.
+
+
+## 1511
+
+### Using Rack::Test in Sinatra (9:00 - 11:00)
+
+Classroom C.
+
+### Rush Hour Work Time (11:00 - 4:00)
+
+Work Time.
+
+
+## 1602
+
+### All: Dynamics (9:00 - 9:30)
+
+Classroom A.
+
+### Ruby's Object Model (9:30 - 12:00)
+
+Stay in Classroom A.
+
+### All: Work Time (1:00 - 4:00)
+
+Work on your respective projects.
+
+### All: One on Ones (1:00 - 4:00)
+
+#### With Horace
+* 1:00 - Claudia Kiesenhofer
+* 1:10 - Colin Osborn
+* 1:20 - Deborah Hamel
+* 1:30 - Emily Blanchard
+* 1:40 - Emily McClung
+
+#### With Mike
+* 1:00 - Ji Kim
+* 1:20 - Jonathan Bernesser
+* 1:30 - Jonathan Liss
+* 1:40 - Joshua Washke
+* 1:50 - Kami Boers
+
+#### With Nate
+* 1:00 - Matt Pindell
+* 1:10 - Patrick Hardy
+* 1:20 - Sal Espinosa
+* 1:30 - Thomas Pickett
