@@ -41,7 +41,7 @@ layout: outline
 
 ### Posse Challenge - CODEBREAKERS (8:30 - 9:00)
 
-* [Codecreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+* [Codebreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
 
 Reminder, you don't have to work on it from 8:30 - 9:00, so long as everyone
 in your posse agrees.
@@ -149,7 +149,7 @@ Big Workspace
 
 ### Rush Hour Kickoff (9:30 - 10:00)
 
-Join Rachel in the Big Workspace to kick off [Rush Hour](). 
+Join Rachel in the Big Workspace to kick off [Rush Hour]().
 
 * Nicholas Dorans & Erinna Chen
 * Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
@@ -165,11 +165,11 @@ Join Andrew in the Big Workspace
 
 ### Visualizing and Implementing Database Relationships (11:30 - 12:00)
 
-Stay in the Big Workspace with Andrew. 
+Stay in the Big Workspace with Andrew.
 
 ### Introduction to ActiveRecord with Sinatra (1:00 - 2:30)
 
-Join Rachel in Classroom B. 
+Join Rachel in Classroom B.
 
 
 ## 1602
