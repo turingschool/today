@@ -3,4 +3,132 @@ title: 20160211
 layout: outline
 ---
 
+## All
+
+### Word of the Day:
+
+* cryophilic - noun - preferring or thriving at low temperatures
+
+### Posse Challenge - CODEBREAKERS (8:30 - 9:00)
+
+* [Codebreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+
+Reminder, you don't have to work on it from 8:30 - 9:00, so long as everyone
+in your posse agrees.
+
+8:30 am Friday Morning is when we present our solutions and talk about it.
+
+
 ## 1508
+
+### Project Work Time (9:00 - 12:00)
+
+Work away.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1510
+
+### Project Work Time (9:00 - 12:00)
+
+You're almost done!
+
+### Pivot Evaluations (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1511
+
+### View Templating in Sinatra (9:00 - 10:00)
+
+Classroom C.
+
+### Rush Hour Work Time and Check Ins (10:00 - 12:00)
+
+Schedule TBA.
+
+### Rush Hour Work Time (1:00 - 4:00)
+
+Work time, work time, everybody every where.
+
+Work time, work time, everybody do your share.
+
+
+## 1602
+
+### All: Suggestions and Jungle Beats Evaluations (9:00 - 12:00)
+
+#### With Nate
+* 9:00 - Andrew Thompson
+* 9:30 - Gurusundesh Khalsa
+* 10:00 - Jonathan Bernesser
+* 10:30 - Jonathan Liss
+* 11:00 - Joshua Washke
+* 11:30 - Kami Boers
+
+#### With Horace
+* 9:00 - Marina Corona
+* 9:30 - Matt Pindell
+* 10:00 - Thomas Pickett
+* 10:30 - Alireza Andersen
+* 11:00 - Matt DesMarteau
+* 10:30 - Emily Blanchard
+
+#### With Lovisa
+* 9:00 - Emily McClung
+* 9:30 - Claudia Kiesenhofer
+* 10:00 - Christine Gamble
+* 10:30 - Jeneve Parrish
+* 11:00 - Mark Miranda
+
+#### With Mike
+* 9:00 - Deborah Hamel
+* 9:30 - Colin Osborn
+* 10:00 - Jared Roth
+* 10:30 - Ling Tran
+* 11:00 - Kris Foss
+* 11:30 - Ashwin Rao
+
+#### With Andrew
+* 9:00 - Jennifer Soden
+* 9:30 - Ji Kim
+
+#### With Tess
+* 9:00 - Patrick Hardy
+* 9:30 - Christopher Soden
+* 9:00 - Ilana Corson
+* 11:00 - Sal Espinosa
+
+### All: Week 2 Diagnostic (9:00 - 12:00)
+
+Closed book, closed computer, open minds.
+
+### Echo: Pattern Generator Exercise (9:00 - 12:00)
+
+Work on this when you are not being evaluated and after you finish the diagnostic.
+
+### Foxtrot: Cryptographer Exercise (9:00 - 12:00)
+
+Work on this when you are not being evaluated and after you finish the diagnostic.
+
+### All: Diagnostic Recaps (1:00 - 1:30)
+
+Classroom A.
+
+### Echo: Intro to Sorting Suite & Sorting Suite Kickoff (1:30 - 3:00)
+
+Staff Table.
+
+### Foxtrot: File I/O (1:30 - 3:00)
+
+Classroom A.
+
+### Foxtrot: Understanding Enigma (3:00 - 4:00)
+
+### Foxtrot: Understanding Night Writer (3:00 - 4:00)
+
+
