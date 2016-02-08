@@ -149,19 +149,27 @@ Big Workspace
 
 ### Rush Hour Kickoff (9:30 - 10:00)
 
-Big Workspace
+Join Rachel in the Big Workspace to kick off [Rush Hour](). 
+
+* Nicholas Dorans & Erinna Chen
+* Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
+* Julian Feliciano & Scott Firestone & Nate Venn
+* Hedy Woo & Heidi Hoopes & David Whitaker
+* Charles Ellison & Allan Blair & Admir Draganovic
+* Nick Weiland & Alexis Navarrete & Chelsea Johnson
+* Adrienne Domingus & July Tran & Adam Hundley
 
 ### Introduction to Project Management (10:00 - 11:30)
 
-Guess where?
+Join Andrew in the Big Workspace
 
 ### Visualizing and Implementing Database Relationships (11:30 - 12:00)
 
-Big Workspace
+Stay in the Big Workspace with Andrew. 
 
 ### Introduction to ActiveRecord with Sinatra (1:00 - 2:30)
 
-Big Workspace
+Join Rachel in Classroom B. 
 
 
 ## 1602
