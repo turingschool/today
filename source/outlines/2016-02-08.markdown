@@ -149,7 +149,7 @@ Big Workspace
 
 ### Rush Hour Kickoff (9:30 - 10:00)
 
-Join Rachel in the Big Workspace to kick off [Rush Hour](). 
+Join Rachel in the Big Workspace to kick off [Rush Hour](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md).
 
 * Nicholas Dorans & Erinna Chen
 * Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
@@ -165,11 +165,11 @@ Join Andrew in the Big Workspace
 
 ### Visualizing and Implementing Database Relationships (11:30 - 12:00)
 
-Stay in the Big Workspace with Andrew. 
+Stay in the Big Workspace with Andrew. We will work with [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_project_management.markdown)
 
 ### Introduction to ActiveRecord with Sinatra (1:00 - 2:30)
 
-Join Rachel in Classroom B. 
+Join Rachel in Classroom B.
 
 
 ## 1602
