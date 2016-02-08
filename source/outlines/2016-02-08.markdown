@@ -132,7 +132,7 @@ You'll be working in the following pairs:
 
 Join Lovisa in Classroom B. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
 
-## DOM Events with jQUery (10:30 - 12:00)
+### DOM Events with jQUery (10:30 - 12:00)
 
 Classroom B.
 
