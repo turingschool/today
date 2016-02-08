@@ -176,7 +176,9 @@ Join Rachel in Classroom B.
 
 ### All: Problems, Solutions and Algorithms (9:00 - 10:30)
 
-Classroom A.
+Join Horace in Classroom A to talk about the most important skill in Module 1.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/problems_solutions_algorithms.markdown)
 
 ### Echo: Mastermind Evals (10:30 - 12:00)
 
