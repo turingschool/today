@@ -3,6 +3,22 @@ title: 20160209
 layout: outline
 ---
 
+## All
+
+### Word of the Day:
+
+* sagacity - noun acuteness of mental discernment and soundness of judgement
+
+### Posse Challenge - CODEBREAKERS (8:30 - 9:00)
+
+* [Codebreakers](https://gist.github.com/mikedao/b855ac8a2ca21a00662f)
+
+Reminder, you don't have to work on it from 8:30 - 9:00, so long as everyone
+in your posse agrees.
+
+8:30 am Friday Morning is when we present our solutions and talk about it.
+
+
 ## 1508
 
 ### Homework
@@ -37,3 +53,82 @@ Meet with Meeka in Classroom C to talk about test-driving your Game Time applica
 * 1:30: Robbie Lane & Ross Edfort
 * 2:00: Marlo Major & Michael Wong
 * 2:30: Jill Donohue & Tyler Komoroske
+
+
+## 1510
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Classroom B.
+
+### Sending Email (10:30 - 12:00)
+
+Classroom B.
+
+### Project Check-Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1511
+
+### Rush Hour Work Time (9:00 - 12:00)
+
+Rush those hours.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1602
+
+### All: Getting Started with Git (9:00 - 11:30)
+
+Classroom A with Horace.
+
+### All: Debugging Techniques (1:00 - 2:30)
+
+Join Mike in Classroom A.
+
+### Work Time (2:30 - 4:00)
+
+Work Away on Your Projects!
+
+### One on Ones
+
+#### With Horace
+* 2:30 - Alireza Andersen
+* 2:40 - Andrew Thompson
+* 2:50 - Ashwin Rao
+* 3:00 - Christine Gamble
+* 3:10 - Christopher Soden
+* 3:20 - Claudia Kiesenhofer
+* 3:30 - Colin Osborn
+* 3:40 - Deborah Hamel
+* 3:50 - Emily Blanchard
+* 4:00 - Emily McClung
+
+#### With Mike
+* 2:30 - Gurusundesh Khalsa
+* 2:40 - Ilana Corson
+* 2:50 - Jared Roth
+* 3:00 - Jeneve Parrish
+* 3:10 - Jennifer Soden
+* 3:20 - Ji Kim
+* 3:30 - Jonathan Bernesser
+* 3:40 - Jonathan Liss
+* 3:50 - Joshua Washke
+* 4:00 - Kami Boers
+
+#### With Nate
+* 2:30 - Kris Foss
+* 2:40 - Ling Tran
+* 2:50 - Marina Corona
+* 3:00 - Mark Miranda
+* 3:10 - Matt DesMarteau
+* 3:20 - Matt Pindell
+* 3:30 - Patrick Hardy
+* 3:40 - Sal Espinosa
+* 3:50 - Thomas Pickett
+
