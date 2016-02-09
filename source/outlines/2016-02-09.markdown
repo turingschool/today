@@ -31,6 +31,8 @@ Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/b6dbcdc937b4
 
 Meet with Meeka in Classroom C to talk about test-driving your Game Time applications.
 
+[Lesson Plan](https://github.com/turingschool-examples/game-time-testing)
+
 ### BRONCOS PARADE (or project work time and lunch) (11:00 - 2:00)
 
 Go check out the parade, if you're feeling saucy. Or work on your project. Or have a really, absurdly, profoundly long lunch.
