@@ -18,6 +18,7 @@ in your posse agrees.
 
 8:30 am Friday Morning is when we present our solutions and talk about it.
 
+
 ## 1508
 
 ### Homework
@@ -30,6 +31,7 @@ Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and 
 
 ## Check In Overflow
 * 1:00: Marlo Major & Michael Wong
+
 
 ## 1510
 
@@ -54,7 +56,7 @@ Peeevottttt.
 
 * 9:00 - Aaron Greenspan
 * 9:15 - Beth Secor
-* 9:30 - Dan Winter    
+* 9:30 - Dan Winter
 * 9:45 - Taylor Moore
 * 10:00 - John Slota
 * 10:15 - Penney Garrett
@@ -92,9 +94,17 @@ Work Time.
 
 ### All: Dynamics (9:00 - 9:30)
 
-Classroom A.
+You'll be working in these groups in Classroom A.
+
 
 ### Ruby's Object Model (9:30 - 12:00)
+
+* Thomas Pickett & Andrew Thompson & Ashwin Rao & Christine Gamble & Christopher Soden
+* Claudia Kiesenhofer & Colin Osborn & Deborah Hamel & Emily Blanchard & Emily McClung
+* Gurusundesh Khalsa & Ilana Corson & Jared Roth & Jeneve Parrish & Jennifer Soden
+* Jonathan Bernesser & Jonathan Liss & Joshua Washke & Kami Boers & Kris Foss
+* Ling Tran & Marina Corona & Mark Miranda & Matt DesMarteau
+* Matt Pindell & Patrick Hardy & Sal Espinosa & Alireza Andersen
 
 Stay in Classroom A.
 
@@ -112,7 +122,6 @@ Work on your respective projects.
 * 1:40 - Emily McClung
 
 #### With Mike
-* 1:00 - Ji Kim
 * 1:20 - Jonathan Bernesser
 * 1:30 - Jonathan Liss
 * 1:40 - Joshua Washke
