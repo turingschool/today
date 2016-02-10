@@ -21,13 +21,33 @@ in your posse agrees.
 
 ## 1508
 
-### Project Work Time (9:00 - 12:00)
+### Currying and Partial Application (9:00 - 10:30)
 
-Work away.
+### Project Work Time & Check-Ins (10:30 - 12:00)
+
+#### With Lovisa
+
+* 10:30: Jill Donohue & Tyler Komoroske
+* 11:00: Robbie Lane & Ross Edfort
+* 11:30: Matt Rooney & Adam Jensen
+
+#### With Meeka
+
+* 10:30: Jessica Goulding
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBA.
+#### With Steve
+
+* 1:00: Marlo Major & Michael Wong
+* 1:30: Amber Crawford & Sekhar Paladugu
+* 2:00: Pat Wey & Torie Warren
+
+#### With Meeka
+
+* 1:00: Matt Stjernholm & Emily Dowdle
+* 1:30: Jhun de Andres & Aaron Careaga
+* 2:00: Jason Pilz & Ryan Johnson
 
 
 ## 1510
@@ -130,5 +150,3 @@ Classroom A.
 ### Foxtrot: Understanding Enigma (3:00 - 4:00)
 
 ### Foxtrot: Understanding Night Writer (3:00 - 4:00)
-
-
