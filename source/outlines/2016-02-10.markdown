@@ -24,9 +24,9 @@ in your posse agrees.
 
 Meet with Steve in Classroom B to discuss events in JavaScript.
 
-- [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md)
-- [Event Delegation](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/05-event-delegation.md)
-- [EventEmitter](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
+- [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/hogoye/edit?js,console,output "JS Bin - Collaborative JavaScript Debugging") to try out some examples.)
+- [Event Delegation](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/05-event-delegation.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/yavimu/edit?js,console,output) to try out some examples.)
+- [EventEmitter](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md) (**Note**: We'll be using [this repository](https://github.com/turingschool-examples/tetris) to try out some examples.)
 
 ### Homework
 
