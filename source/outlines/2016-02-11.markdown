@@ -25,6 +25,8 @@ in your posse agrees.
 
 ### Project Work Time & Check-Ins (10:30 - 12:00)
 
+Don't Forget, you'll need to have a PR in with the [Second Check](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in2.markdown) In form filled out prior to your check in
+
 #### With Lovisa
 
 * 10:30: Jill Donohue & Tyler Komoroske
@@ -36,6 +38,8 @@ in your posse agrees.
 * 10:30: Jessica Goulding
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
+
+Don't Forget the [Second Check](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in2.markdown) form
 
 #### With Steve
 
