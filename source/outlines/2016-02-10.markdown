@@ -21,6 +21,14 @@ in your posse agrees.
 
 ## 1508
 
+### Events in JavaScript (9:00 - 10:30)
+
+Meet with Steve in Classroom B to discuss events in JavaScript.
+
+- [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md)
+- [Event Delegation](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/05-event-delegation.md)
+- [EventEmitter](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/event_emitter.md)
+
 ### Homework
 
 Watch [Mary Rose Cook live-codes a JavaScript game from scratch][mrc]. Fork and respond to [this gist][mrcq]. (3 points)
