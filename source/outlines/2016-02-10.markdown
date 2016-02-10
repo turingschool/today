@@ -125,15 +125,14 @@ With Andrew:
 
 You'll be working in these groups in Classroom A.
 
-
-### Ruby's Object Model (9:30 - 12:00)
-
 * Thomas Pickett & Andrew Thompson & Ashwin Rao & Christine Gamble & Christopher Soden
 * Claudia Kiesenhofer & Colin Osborn & Deborah Hamel & Emily Blanchard & Emily McClung
 * Gurusundesh Khalsa & Ilana Corson & Jared Roth & Jeneve Parrish & Jennifer Soden
 * Jonathan Bernesser & Jonathan Liss & Joshua Washke & Kami Boers & Kris Foss
 * Ling Tran & Marina Corona & Mark Miranda & Matt DesMarteau
 * Matt Pindell & Patrick Hardy & Sal Espinosa & Alireza Andersen
+
+### Ruby's Object Model (9:30 - 12:00)
 
 Stay in Classroom A.
 
