@@ -106,7 +106,7 @@ With Rachel:
 * 1:00 Kimiko Kano
 * 1:10 Brian Rippeto
 * 1:20 Brennan Holtzclaw
-* 1:30 Hedy Woo
+* 1:30 July Tran
 * 1:40 Heidi Hoopes
 * 1:50 David Whitaker
 
@@ -115,7 +115,7 @@ With Andrew:
 * 1:00 Nicholas Dorans
 * 1:10 Erinna Chen
 * 1:20 Adrienne Domingus
-* 1:30 July Tran
+* 1:30 Hedy Woo
 * 1:40 Adam Hundley
 * 1:50 Nick Weiland
 
@@ -125,15 +125,14 @@ With Andrew:
 
 You'll be working in these groups in Classroom A.
 
-
-### Ruby's Object Model (9:30 - 12:00)
-
 * Thomas Pickett & Andrew Thompson & Ashwin Rao & Christine Gamble & Christopher Soden
 * Claudia Kiesenhofer & Colin Osborn & Deborah Hamel & Emily Blanchard & Emily McClung
 * Gurusundesh Khalsa & Ilana Corson & Jared Roth & Jeneve Parrish & Jennifer Soden
 * Jonathan Bernesser & Jonathan Liss & Joshua Washke & Kami Boers & Kris Foss
 * Ling Tran & Marina Corona & Mark Miranda & Matt DesMarteau
 * Matt Pindell & Patrick Hardy & Sal Espinosa & Alireza Andersen
+
+### Ruby's Object Model (9:30 - 12:00)
 
 Stay in Classroom A.
 
