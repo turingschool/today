@@ -119,11 +119,10 @@ Work time, work time, everybody do your share.
 
 #### With Horace
 * 9:00 - Marina Corona
-* 9:30 - Matt Pindell
-* 10:00 - Thomas Pickett
-* 10:30 - Alireza Andersen
-* 11:00 - Matt DesMarteau
+* 9:30 - Thomas Pickett
+* 10:00 - Alireza Andersen
 * 10:30 - Emily Blanchard
+* 11:00 - Matt Pindell
 
 #### With Lovisa
 * 9:00 - Emily McClung
@@ -138,29 +137,40 @@ Work time, work time, everybody do your share.
 * 10:00 - Jared Roth
 * 10:30 - Ling Tran
 * 11:00 - Kris Foss
-* 11:30 - Ashwin Rao
 
 #### With Andrew
 * 9:00 - Jennifer Soden
-* 9:30 - Ji Kim
+* 9:30 - Ashwin Rao
 
 #### With Tess
 * 9:00 - Patrick Hardy
 * 9:30 - Christopher Soden
-* 9:00 - Ilana Corson
-* 11:00 - Sal Espinosa
+* 10:00 - Ilana Corson
+* 10:30 - Sal Espinosa
 
 ### All: Week 2 Diagnostic (9:00 - 12:00)
 
 Closed book, closed computer, open minds.
 
+Do this as you wait for to be evaluated. Spend about an hour on it.
+
+When you're done, move onto the challenges below.
+
 ### Echo: Pattern Generator Exercise (9:00 - 12:00)
 
 Work on this when you are not being evaluated and after you finish the diagnostic.
 
-### Foxtrot: Cryptographer Exercise (9:00 - 12:00)
+[Link](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+
+### Foxtrot: Wizarding Bank Exercise (9:00 - 11:30)
 
 Work on this when you are not being evaluated and after you finish the diagnostic.
+
+[Link](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+### Foxtrot: Enigma/ Night Writer Project Pitch (11:30 - 12:00)
+
+Classroom A.
 
 ### All: Diagnostic Recaps (1:00 - 1:30)
 
@@ -176,4 +186,8 @@ Classroom A.
 
 ### Foxtrot: Understanding Enigma (3:00 - 4:00)
 
+Find Horace to talk about Enigma.
+
 ### Foxtrot: Understanding Night Writer (3:00 - 4:00)
+
+Find Mike to talk about Night Writer.
