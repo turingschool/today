@@ -183,7 +183,7 @@ Exercise (Echo). For these assignments, work in the pairs outlined below.
 
 #### Exercise Pairs -- Foxtrot
 
-* colinosborn, mdesmarteau
+* colinosborn, mdesmarteau, markmiranda
 * claudia, jeneve.parrish
 * emily.blanchard, msjennygiraffe
 * christinecgamble, jared_roth
