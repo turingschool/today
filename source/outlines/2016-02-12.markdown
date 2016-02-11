@@ -38,6 +38,8 @@ Over the weekend complete the following:
 
 #### 1511
 
+Continue working on Rush Hour. Rachel and Andrew will have two open pairing slots each.  
+
 #### 1602
 
 ### Gear Up (10:00 - 11:00)
@@ -90,6 +92,22 @@ Today, you'll be meeting [Eric Starling](http://ericstarling.com/)
 
 ### Lighting Talks (2:00 - 3:00)
 
+Gather in the Big Workspace. 
+
+* Brenna Martenson: Avoid a Bad Time with BootstrapStudio
+* David Stinnette: How to make the most of a Meetup
+* Sekhar Paladugu: Who Really Was Alan Turing?
+* Erinna Chen: Fun with Linear Algebra
+* Hedy Woo Staying Alive: algorithms in cardiac arrest
+* Nicholas Dorans: Alternative Energy Sources
+* July Tran: Systems Thinking for Fun and for Profit
+
 ### Electives and Student Lead Sessions (3:00 - 4:00)
 
-
+* Intro to R Programming (and statistics too!) - Beth Secor in *Classroom A*
+* Justin Pease - Intro to the object model in *Big Workspace* 
+* Greg Armstrong - Custom audio visualizers with p5.sound in *Horace's Lair*
+* Jason Pilz & Ryan Johnson - DevOps in *Classroom B* 
+* Emily Dowdle - Introduction to Docker at *Big Workspace Kitchen Table* 
+* Dan Winter - Go Code Colorado in *Classroom C* 
+* Steve Kinney - Introduction to Electron at *Big Staff Table*
