@@ -115,6 +115,7 @@ Work time, work time, everybody do your share.
 ### All: Suggestions and Jungle Beats Evaluations (9:00 - 12:00)
 
 #### With Nate
+
 * 9:00 - Andrew Thompson
 * 9:30 - Gurusundesh Khalsa
 * 10:00 - Jonathan Bernesser
@@ -123,6 +124,7 @@ Work time, work time, everybody do your share.
 * 11:30 - Joshua Washke
 
 #### With Horace
+
 * 9:00 - Marina Corona
 * 9:30 - Thomas Pickett
 * 10:00 - Alireza Andersen
@@ -130,6 +132,7 @@ Work time, work time, everybody do your share.
 * 11:00 - Matt Pindell
 
 #### With Mystery
+
 * 10:30 - Jeneve Parrish
 * 11:00 - Mark Miranda
 
@@ -142,10 +145,12 @@ Work time, work time, everybody do your share.
 * 11:30 - Jonathan Liss
 
 #### With Andrew
+
 * 9:00 - Jennifer Soden
 * 9:30 - Ashwin Rao
 
 #### With Tess
+
 * 9:00 - Patrick Hardy
 * 9:30 - Christopher Soden
 * 10:00 - Ilana Corson
@@ -153,29 +158,38 @@ Work time, work time, everybody do your share.
 * 11:00 - Claudia Kiesenhofer
 * 11:30 - Kami Boers
 
-### All: Week 2 Diagnostic (9:00 - 12:00)
+### All: Activities During Evaluation Time
 
-Closed book, closed computer, open minds.
+When you're not being evaluated, you should be working on
+the following things:
 
-Do this as you wait for to be evaluated. Spend about an hour on it.
+1. Your weekly diagnostic. Pick up a copy from the front of Classroom A. (~ 45 minutes)
+2. Either the [__Wizarding Bank__](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+Exercise (Foxtrot) __OR__ the [__Pattern Generator__](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+Exercise (Echo). For these assignments, work in the pairs outlined below.
 
-When you're done, move onto the challenges below.
+#### Exercise Pairs -- Echo
 
-### Echo: Pattern Generator Exercise (9:00 - 12:00)
+* jdliss, mpindell
+* marinacor, kamiboers
+* jbernesser16, gurusundesh
+* josh_washke, s-espinosa, drew.t
 
-Work on this when you are not being evaluated and after you finish the diagnostic.
+#### Exercise Pairs -- Foxtrot
 
-[Link](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
-
-### Foxtrot: Wizarding Bank Exercise (9:00 - 11:30)
-
-Work on this when you are not being evaluated and after you finish the diagnostic.
-
-[Link](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+* colinosborn, mdesmarteau
+* claudia, jeneve.parrish
+* emily.blanchard, msjennygiraffe
+* christinecgamble, jared_roth
+* icorson3, patrickwhardy
+* topher105, k_foss
+* lingtran, thomp
+* e.mcc, deborah
+* theonlyrao, alireza.andersen
 
 ### Foxtrot: Enigma/ Night Writer Project Pitch (11:30 - 12:00)
 
-Classroom A.
+Join Horace in Classroom A to hear about your exciting project options for the next week!
 
 ### All: Diagnostic Recaps (1:00 - 1:30)
 
