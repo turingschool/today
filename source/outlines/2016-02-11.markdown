@@ -97,7 +97,7 @@ You're almost done!
 
 ### View Templating in Sinatra (9:00 - 10:00)
 
-Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sinatra_partial_arts.markdown). 
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sinatra_partial_arts.markdown).
 
 ### Rush Hour Work Time and One on ones (10:00 - 12:00)
 
@@ -139,8 +139,9 @@ With Andrew:
 
 #### With Mystery
 
-* 10:30 - Jeneve Parrish
-* 11:00 - Mark Miranda
+* 9:00 - Jeneve Parrish
+* 9:30 - Mark Miranda
+* 10:00 - Jonathan Liss
 
 #### With Mike
 * 9:00 - Deborah Hamel
@@ -148,7 +149,6 @@ With Andrew:
 * 10:00 - Jared Roth
 * 10:30 - Ling Tran
 * 11:00 - Kris Foss
-* 11:30 - Jonathan Liss
 
 #### With Andrew
 
