@@ -97,7 +97,7 @@ You're almost done!
 
 ### View Templating in Sinatra (9:00 - 10:00)
 
-Classroom C.
+Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sinatra_partial_arts.markdown). 
 
 ### Rush Hour Work Time and One on ones (10:00 - 12:00)
 
