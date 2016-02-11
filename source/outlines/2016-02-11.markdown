@@ -23,9 +23,14 @@ in your posse agrees.
 
 ### Currying and Partial Application (9:00 - 10:30)
 
+Meet with Steve in **Classroom B** and Steve will tell you all about currying and partial application.
+
+- [Monster JSBin](http://jsbin.com/kinuvi/1/edit?js)
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+
 ### Project Work Time & Check-Ins (10:30 - 12:00)
 
-Don't Forget, you'll need to have a PR in with the [Second Check](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in2.markdown) In form filled out prior to your check in
+Don't Forget, you'll need to have a PR in with the [Second Check](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in2.markdown) In form filled out prior to your check in.
 
 #### With Lovisa
 
