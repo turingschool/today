@@ -99,11 +99,26 @@ You're almost done!
 
 Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sinatra_partial_arts.markdown).
 
-### Rush Hour Work Time and One on ones (10:00 - 12:00)
+### Rush Hour Work Time and One-on-Ones (10:00 - 12:00)
 
-Schedule TBA.
+With Rachel: 
+
+* 11:00 Admir Draganovic
+* 11:10 Charles Ellison
+* 11:20 Julian Feliciano 
+* 11:30 Nate Venn
+* 11:40 Scott Firestone 
+
+With Andrew: 
+
+* 11:00 Alexis Navarrete
+* 11:10 Chelsea Johnson
+* 11:20 Brennan Holtzclaw 
+* 11:30 Allan Blair
 
 ### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+With Rachel: 
 
 * 1:00 Adrienne Domingus & July Tran & Adam Hundley
 * 1:40 Nick Weiland & Alexis Navarrete & Chelsea Johnson
