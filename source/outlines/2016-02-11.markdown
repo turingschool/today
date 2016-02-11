@@ -183,7 +183,7 @@ Classroom A.
 
 ### Echo: Intro to Sorting Suite & Sorting Suite Kickoff (1:30 - 3:00)
 
-Staff Table.
+Classroom C.
 
 ### Foxtrot: File I/O (1:30 - 3:00)
 
@@ -191,8 +191,8 @@ Classroom A.
 
 ### Foxtrot: Understanding Enigma (3:00 - 4:00)
 
-Find Horace to talk about Enigma.
+Classroom A.
 
 ### Foxtrot: Understanding Night Writer (3:00 - 4:00)
 
-Find Mike to talk about Night Writer.
+Classroom C.
