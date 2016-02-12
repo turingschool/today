@@ -1,0 +1,66 @@
+---
+title: 20160218
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* fubsy - adjective - short and stout
+
+### Posse Challenge (8:30 - 9:00)
+
+Deets incoming.
+
+
+## 1508
+
+### Thoughtbin Kick Off (9:00 - 9:30)
+
+Big Workspace
+
+### Game Time Evaluations (9:30 - 4:00)
+
+Schedule TBA
+
+### Thoughtbin Work Time (9:30 - 4:00)
+
+Bin some thoughts.
+
+
+## 1510
+
+### Testing an External API (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+API-CURIOUS
+
+
+## 1511
+
+### Form and Route Helpers in Rails (9:00 - 12:00)
+
+Classroom C.
+
+### Jobs Q and A (1:00 - 1:30)
+
+Join Marissa in Classroom C.
+
+### Blogger Kickoff and Work Time (1:30 - 4:00)
+
+Classroom C.
+
+
+## 1602
+
+### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+

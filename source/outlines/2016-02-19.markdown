@@ -1,0 +1,69 @@
+---
+title: 20160219
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* hortatory - adjective - urging to some course of conduct or action; encouraging.
+
+
+### Posse Challenge Show and Tell (8:30 - 9:00)
+
+Details Incoming!
+
+
+## 1508
+
+### Ember Tutorial (9:00 - 12:00)
+
+Classroom C.
+
+## 1510
+
+### Project Work Time (9:00 - 12:00)
+
+You're almost there! You can do it!
+
+### Apicurious (1:00 - 4:00)
+
+Schedule TBA.
+
+## 1511
+
+### Blogger Recap (9:00 - 9:30)
+
+Recap in the Classroom B.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom B.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom B.
+
+### Work Time: Model Testing (1:00 - 3:00)
+
+Test those models woooo.
+
+### MixMaster Kick Off (3:00 - 4:00)
+
+Classroom B.
+
+
+## 1602
+
+### All: Paired Code Challenge (9:00 - 12:00)
+
+Classroom A.
+
+### All: Project Evaluations (9:00 - 12:00)
+
+Schedule TBA
+
+### All: Programming is Fun (1:00 - 4:00)
+
+Classroom A.

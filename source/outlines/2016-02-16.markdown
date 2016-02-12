@@ -1,0 +1,80 @@
+---
+title: 20160216
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* calumniate - verb - to make false and malicious statements about; slander
+
+### Posse Challenge (8:30 - 9:00)
+
+Deets incoming.
+
+### Protocol (2:30 - 4:00)
+
+
+## 1508
+
+### Recursion and Generators (9:00 - 10:30)
+
+Classroom C.
+
+### Project Work Time (10:30 - 12:00)
+
+Work.
+
+### Project Work Time and Check Ins (1:00 - 2:30)
+
+Schedule TBA.
+
+
+## 1510
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+### APICurious Kickoff (1:00 - 2:30)
+
+Curious.
+
+
+## 1511
+
+### Rush Hour Evaluations, Group Debrief (9:00 - 12:00)
+
+Schedule TBA.
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Big Workspace.
+
+
+## 1602
+
+### Sorting Suite Evals (9:00 - 11:30)
+
+Schedule TBA
+
+### All: Pairing Patterns (9:00 - 11:30)
+
+Classroom A.
+
+### Echo: Project Kickoff (11:30 - 12:00)
+
+Staff Table.
+
+### All: Testing Strategies: (1:00 - 2:30)
+
+Classroom A.
+
+
+
+

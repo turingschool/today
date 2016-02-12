@@ -1,0 +1,67 @@
+---
+title: 20160217
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* interstitial - adjective - pertaining to small or narrow spaces or intervals between things or parts.
+
+### Posse Challenge (8:30 - 9:00)
+
+Deets incoming.
+
+
+## 1508
+
+### React in Theory (9:00 - 12:00)
+
+Classroom C.
+
+### Game Time Peer Reviews (1:00 - 2:30)
+
+Classroom C.
+
+### Project Work Time (2:30 - 4:00)
+
+
+## 1510
+
+### Consuming APIs (9:00 - 12:00)
+
+Classroom B.
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+## 1511
+
+### Migrations, Databases, Models, and Relationships in Rails (9:00 - 12:00)
+
+Classroom A.
+
+### Rails Basics Work Time (1:00 - 4:00)
+
+Mike is available for questions.
+
+## 1602
+
+### All: Dynamics (9:00 - 9:30)
+
+Classroom A.
+
+### All: Intermediate Enumerables (9:30 - 11:30)
+
+Learn some more enumerable techniques.
+
+### Project Q & A (11:30 - 12:00)
+
+Classroom A.
+
+### All: Code Retreat / Pairing Exercises (1:00 - 4:00)
+
+Classroom A.
+
