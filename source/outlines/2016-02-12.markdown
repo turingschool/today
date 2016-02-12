@@ -36,6 +36,8 @@ Over the weekend complete the following:
 
 #### 1510
 
+Join Lovisa and Tess in classroom B to introduce APIs [tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/pokemon_api.md)
+
 #### 1511
 
 Continue working on Rush Hour. Rachel and Andrew will have two open pairing slots each.
