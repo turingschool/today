@@ -8,7 +8,7 @@ layout: outline
 
 * Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth: in the big workspace with @horace
 * Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @mike
-* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @neight
+* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @lovisa
 
 ### Surveys
 
@@ -38,7 +38,7 @@ Over the weekend complete the following:
 
 #### 1511
 
-Continue working on Rush Hour. Rachel and Andrew will have two open pairing slots each.  
+Continue working on Rush Hour. Rachel and Andrew will have two open pairing slots each.
 
 #### 1602
 
