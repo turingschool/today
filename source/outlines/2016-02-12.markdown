@@ -15,7 +15,7 @@ layout: outline
 Please complete your survey by 5pm today.
 
 * [1508]()
-* [1510]()
+* [1510](http://goo.gl/forms/h2NfQFC9Yx)
 * [1511](https://docs.google.com/forms/d/13nMPQPl4p8CpCtTds0a04IyzxU3PVTsbmb4y-K0xPs4/viewform?usp=send_form)
 * [1602]()
 
@@ -92,7 +92,7 @@ Today, you'll be meeting [Eric Starling](http://ericstarling.com/)
 
 ### Lighting Talks (2:00 - 3:00)
 
-Gather in the Big Workspace. 
+Gather in the Big Workspace.
 
 * Brenna Martenson: Avoid a Bad Time with BootstrapStudio
 * David Stinnette: How to make the most of a Meetup
@@ -105,9 +105,9 @@ Gather in the Big Workspace.
 ### Electives and Student Lead Sessions (3:00 - 4:00)
 
 * Intro to R Programming (and statistics too!) - Beth Secor in *Classroom A*
-* Justin Pease - Intro to the object model in *Big Workspace* 
+* Justin Pease - Intro to the object model in *Big Workspace*
 * Greg Armstrong - Custom audio visualizers with p5.sound in *Horace's Lair*
-* Jason Pilz & Ryan Johnson - DevOps in *Classroom B* 
-* Emily Dowdle - Introduction to Docker at *Big Workspace Kitchen Table* 
-* Dan Winter - Go Code Colorado in *Classroom C* 
+* Jason Pilz & Ryan Johnson - DevOps in *Classroom B*
+* Emily Dowdle - Introduction to Docker at *Big Workspace Kitchen Table*
+* Dan Winter - Go Code Colorado in *Classroom C*
 * Steve Kinney - Introduction to Electron at *Big Staff Table*
