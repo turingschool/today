@@ -115,3 +115,4 @@ Gather in the Big Workspace.
 * Emily Dowdle - Introduction to Docker at *Big Workspace Kitchen Table*
 * Dan Winter - Go Code Colorado in *Classroom C*
 * Steve Kinney - Introduction to Electron at *Big Staff Table*
+* Horace - ((((program snake in clojurescript)))) at *horace's desk*
