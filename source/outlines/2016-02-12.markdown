@@ -14,7 +14,7 @@ layout: outline
 
 Please complete your survey by 5pm today.
 
-* [1508]()
+* [1508](https://docs.google.com/forms/d/1qg3WLybAZ2PDIxFBlgWX0BPoIPtNTcrt0YYbiaiSgHM/viewform?usp=send_form)
 * [1510](http://goo.gl/forms/h2NfQFC9Yx)
 * [1511](https://docs.google.com/forms/d/13nMPQPl4p8CpCtTds0a04IyzxU3PVTsbmb4y-K0xPs4/viewform?usp=send_form)
 * [1602](https://docs.google.com/forms/d/17DcagXgL27UZ_9Y_z-QyHzgssHDhOdndUZBR0X7MY1E/viewform)
@@ -22,6 +22,8 @@ Please complete your survey by 5pm today.
 ### Academic Time (9:00 - 10:00)
 
 #### 1508
+
+Join Steve and Meeka in Classroom C to talk about localstorage, week 4 and Github.
 
 ##### Homework
 
