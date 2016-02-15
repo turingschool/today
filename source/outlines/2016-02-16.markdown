@@ -11,7 +11,7 @@ layout: outline
 
 ### Posse Challenge (8:30 - 9:00)
 
-Deets incoming.
+Check out [this week's Posse Challenge](https://github.com/turingschool/posse_challenges/tree/master/people_database). 
 
 ### Protocol (2:30 - 4:00)
 
@@ -50,14 +50,38 @@ Curious.
 
 ## 1511
 
-### Rush Hour Evaluations, Group Debrief (9:00 - 12:00)
+### Rush Hour Evaluations (9:00 - 11:15)
 
-Schedule TBA.
+Bring your notebook to evalutions so that you can take notes to add to your Module 2 portfolio. 
 
-### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+#### With Rachel
+
+* 9:00 Nick Weiland & Alexis Navarrete & Chelsea Johnson
+* 9:45 Adrienne Domingus & July Tran & Adam Hundley
+* 10:30 Nicholas Dorans & Erinna Chen
+
+With Andrew: 
+
+* 9:00 Julian Feliciano & Scott Firestone & Nate Venn
+* 9:45 Hedy Woo & Heidi Hoopes & David Whitaker
+* 10:30 Charles Ellison & Allan Blair & Admir Draganovic
+* 11:15 Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
+
+While you're not in evaluations, read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
+
+Other than completing the questions in that gist, there are no other requirements for this morning. Take a breather before we jump into Rails this afternoon. You might also choose to:
+
+* add your Rush Hour scores and notes to your Module 2 portfolio
+* start or continue a blog post for your portfolio
+* explore the [Rails Guides](http://guides.rubyonrails.org/routing.html) for routing
+
+### REST, Controllers and Routing in Rails (1:00 - 2:30)
+
+Meet Rachel in Classroom C. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
+
+### Protocol (2:30 - 4:00)
 
 Big Workspace.
-
 
 ## 1602
 
