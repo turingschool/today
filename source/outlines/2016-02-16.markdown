@@ -35,7 +35,9 @@ Schedule TBA.
 
 ### Getting Started with OAuth (9:00 - 11:00)
 
-Classroom B.
+Join Lovisa in Classroom B to learn about OAuth.
+
+Please clone the [secretit](https://github.com/turingschool-examples/secretic) repo before class.
 
 ### JSON Fundamentals (11:00 - 12:00)
 
