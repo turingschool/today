@@ -18,6 +18,12 @@ Check out [this week's Posse Challenge](https://github.com/turingschool/posse_ch
 
 ## 1508
 
+### Homework
+
+[Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+
+Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/495f806c254d0891267c) and respond to the question. (3 points)
+
 ### Recursion and Generators (9:00 - 10:30)
 
 Classroom C.
