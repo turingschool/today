@@ -31,6 +31,30 @@ Classroom C. This morning you'll be working through the following:
 - [Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
 - [Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
 
+#### Recursion Pairs
+
+* Robbie Lane & Sekhar Paladugu
+* Tyler Komoroske & Pat Wey
+* Jhun de Andres & Matt Stjernholm
+* Ross Edfort & Adam Jensen
+* Torie Warren & Jill Donohue
+* Michael Wong & Ryan Johnson
+* Amber Crawford & Emily Dowdle
+* Aaron Careaga & Jason Pilz
+* Matt Rooney & Marlo Major & Jessica Goulding
+
+#### Generator Pairs
+
+* Ryan Johnson & Sekhar Paladugu
+* Adam Jensen & Matt Rooney
+* Jhun de Andres & Amber Crawford
+* Emily Dowdle & Marlo Major
+* Jason Pilz & Jill Donohue
+* Torie Warren & Pat Wey
+* Michael Wong & Tyler Komoroske
+* Aaron Careaga & Matt Stjernholm
+* Robbie Lane & Ross Edfort & Jessica Goulding
+
 ### Project Work Time (10:30 - 12:00)
 
 Work.
