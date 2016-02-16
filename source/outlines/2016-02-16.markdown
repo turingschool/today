@@ -26,6 +26,8 @@ Classroom C.
 
 Work.
 
+Don't forget to fill out the [Third Check In Form](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/gametime/template/check_in3.markdown) prior to checkins.
+
 ### Project Work Time and Check Ins (1:00 - 2:30)
 
 #### With Nate
