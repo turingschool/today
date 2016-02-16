@@ -110,13 +110,18 @@ Big Workspace.
 
 ### Sorting Suite Evals (9:00 - 11:30)
 
-#### With Horace
+#### With Meeka
+
 * 9:00 - Gurusundesh Khalsa
+
+#### With Horace
+
 * 9:30 - Andrew Thompson
 * 10:00 - Jonathan Bernesser
 * 10:30 - Jonathan Liss
 
 #### With Nate
+
 * 9:00- Matt Pindell
 * 9:30 - Joshua Washke
 * 10:00 - Kami Boers
@@ -142,14 +147,15 @@ Classroom A. You will be working in the following pairs.
 * Mark Miranda & Matthew DesMarteau
 * Patrick Hardy & Thomas Pickett
 
-### Echo: Project Kickoff (11:30 - 12:00)
+### Echo: Project Kickoffs (11:30 - 12:00)
 
 Staff Table.
 
 ### Foxtrot: Project Q & A (11:30 - 12:00)
 
-Classroom A.
+Join Mike in Classroom A where he will be fielding questions
+related to your Enigmae and Nightwriters.
 
 ### All: Testing Strategies: (1:00 - 2:30)
 
-Classroom A.
+Join Horace in Classroom A to talk bout dat testing.
