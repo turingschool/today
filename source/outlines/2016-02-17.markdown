@@ -18,7 +18,9 @@ Deets incoming.
 
 ### React in Theory (9:00 - 12:00)
 
-Classroom C.
+Join Lovisa in Classroom C, we will be working through [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown) lesson plan.
+
+Please read through the lesson plan before the class starts and write down any questions you have.
 
 ### Game Time Peer Reviews (1:00 - 2:30)
 
