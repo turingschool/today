@@ -26,7 +26,10 @@ Watch ^ and then fork [this gist](https://gist.github.com/rrgayhart/495f806c254d
 
 ### Recursion and Generators (9:00 - 10:30)
 
-Classroom C.
+Classroom C. This morning you'll be working through the following:
+
+- [Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
+- [Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
 
 ### Project Work Time (10:30 - 12:00)
 
