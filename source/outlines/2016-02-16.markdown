@@ -105,26 +105,26 @@ Big Workspace.
 ### Sorting Suite Evals (9:00 - 11:30)
 
 #### With Horace
-* 9:00 - Andrew Thompson
-* 9:30 - Gurusundesh Khalsa
+* 9:00 - Gurusundesh Khalsa
+* 9:30 - Andrew Thompson
 * 10:00 - Jonathan Bernesser
 * 10:30 - Jonathan Liss
 
 #### With Nate
-* 9:00 - Joshua Washke
-* 9:30 - Kami Boers
-* 10:00 - Marina Corona
-* 10:30 - Matt Pindell
+* 9:00- Matt Pindell
+* 9:30 - Joshua Washke
+* 10:00 - Kami Boers
+* 10:30 - Marina Corona
 * 11:00 - Sal Espinosa
 
 ### All: Pairing Patterns (9:00 - 11:30)
 
 Classroom A. You will be working in the following pairs.
 
+* Gurusundesh Khalsa & Matt Pindell
 * Andrew Thompson & Joshua Washke
-* Gurusundesh Khalsa & Kami Boers
-* Jonathan Bernesser & Marina Corona
-* Jonathan Liss & Matt Pindell
+* Jonathan Bernesser & Kami Boers
+* Jonathan Liss & Marina Corona
 * Sal Espinosa & Alireza Andersen
 * Ashwin Rao & Christine Gamble
 * Christopher Soden & Claudia Kiesenhofer
