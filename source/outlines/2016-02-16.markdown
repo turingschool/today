@@ -11,7 +11,7 @@ layout: outline
 
 ### Posse Challenge (8:30 - 9:00)
 
-Check out [this week's Posse Challenge](https://github.com/turingschool/posse_challenges/tree/master/people_database). 
+Check out [this week's Posse Challenge](https://github.com/turingschool/posse_challenges/tree/master/people_database).
 
 ### Protocol (2:30 - 4:00)
 
@@ -52,7 +52,7 @@ Curious.
 
 ### Rush Hour Evaluations (9:00 - 11:15)
 
-Bring your notebook to evalutions so that you can take notes to add to your Module 2 portfolio. 
+Bring your notebook to evalutions so that you can take notes to add to your Module 2 portfolio.
 
 #### With Rachel
 
@@ -60,7 +60,7 @@ Bring your notebook to evalutions so that you can take notes to add to your Modu
 * 9:45 Adrienne Domingus & July Tran & Adam Hundley
 * 10:30 Nicholas Dorans & Erinna Chen
 
-With Andrew: 
+With Andrew:
 
 * 9:00 Julian Feliciano & Scott Firestone & Nate Venn
 * 9:45 Hedy Woo & Heidi Hoopes & David Whitaker
@@ -87,15 +87,45 @@ Big Workspace.
 
 ### Sorting Suite Evals (9:00 - 11:30)
 
-Schedule TBA
+#### With Horace
+* 9:00 - Andrew Thompson
+* 9:30 - Gurusundesh Khalsa
+* 10:00 - Jonathan Bernesser
+* 10:30 - Jonathan Liss
+
+#### With Nate
+* 9:00 - Joshua Washke
+* 9:30 - Kami Boers
+* 10:00 - Marina Corona
+* 10:30 - Matt Pindell
+* 11:00 - Sal Espinosa
 
 ### All: Pairing Patterns (9:00 - 11:30)
 
-Classroom A.
+Classroom A. You will be working in the following pairs.
+
+* Andrew Thompson & Joshua Washke
+* Gurusundesh Khalsa & Kami Boers
+* Jonathan Bernesser & Marina Corona
+* Jonathan Liss & Matt Pindell
+* Sal Espinosa & Alireza Andersen
+* Ashwin Rao & Christine Gamble
+* Christopher Soden & Claudia Kiesenhofer
+* Colin Osborn & Deborah Hamel
+* Emily Blanchard & Emily McClung
+* Ilana Corson & Jared Roth
+* Jeneve Parrish & Jennifer Soden
+* Kris Foss & Ling Tran
+* Mark Miranda & Matthew DesMarteau
+* Patrick Hardy & Thomas Pickett
 
 ### Echo: Project Kickoff (11:30 - 12:00)
 
 Staff Table.
+
+### Foxtrot: Project Q & A (11:30 - 12:00)
+
+Classroom A.
 
 ### All: Testing Strategies: (1:00 - 2:30)
 
