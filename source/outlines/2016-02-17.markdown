@@ -39,6 +39,7 @@ Classroom B.
 
 Schedule TBA
 
+
 ## 1511
 
 ### Migrations, Databases, Models, and Relationships in Rails (9:00 - 12:00)
@@ -55,7 +56,7 @@ Mike is available for questions.
 
 Classroom A.
 
-### All: Intermediate Enumerables (9:30 - 11:30)
+### All: Intermediate Enumerables - Enumerables Strike Back (9:30 - 11:30)
 
 Learn some more enumerable techniques.
 
