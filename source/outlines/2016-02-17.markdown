@@ -18,7 +18,9 @@ Deets incoming.
 
 ### React in Theory (9:00 - 12:00)
 
-Join Lovisa in Classroom C to learn about the joys of React.
+Join Lovisa in Classroom C, we will be working through [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown) lesson plan.
+
+Please read through the lesson plan before the class starts and write down any questions you have.
 
 ### Game Time Peer Reviews (1:00 - 2:30)
 
@@ -47,11 +49,12 @@ Get work done!
 
 ### Consuming APIs (9:00 - 12:00)
 
-Classroom B.
+Join Tess in Classroom B. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md)
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
 Schedule TBA
+
 
 ## 1511
 
@@ -69,7 +72,7 @@ Mike is available for questions.
 
 Classroom A.
 
-### All: Intermediate Enumerables (9:30 - 11:30)
+### All: Intermediate Enumerables - Enumerables Strike Back (9:30 - 11:30)
 
 Learn some more enumerable techniques.
 
