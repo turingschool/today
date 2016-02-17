@@ -33,7 +33,7 @@ Classroom C.
 
 ### Consuming APIs (9:00 - 12:00)
 
-Classroom B.
+Join Tess in Classroom B. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md)
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
