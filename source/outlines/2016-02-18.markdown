@@ -13,21 +13,47 @@ layout: outline
 
 Deets incoming.
 
-
 ## 1508
 
-### Thoughtbin Kick Off (9:00 - 9:30)
+### Homework
 
-Big Workspace
+Read [this gist](https://gist.github.com/rrgayhart/91bba7bb39ea60136e5c)
 
-### Game Time Evaluations (9:30 - 4:00)
+Fork the gist and link to your GameTime project and one other project. Both projects should have good examples of READMEs (either they already had a good README in place or update the READMEs for this assignment). (5 points)
 
-Schedule TBA
+### Ideabox in React (Creact) (9:00 - 10:00am)
 
-### Thoughtbin Work Time (9:30 - 4:00)
+We will meet in Classroom C to code along starting the Ideabox in React project.
 
-Bin some thoughts.
+[tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the `react-rails` gem.
 
+### Creact/GameTime Work Time (10am - 4:00pm)
+
+When you're not in your evaluation with an instructor:
+
+Work on GameTime wrap up
+
+or
+
+Continue working on Creact
+
+### Game Time Evaluations (1:00pm - 4:00pm)
+
+#### With Steve
+
+* 1:00: Jason Pilz & Ryan Johnson
+* 1:30: Jill Donohue & Tyler Komoroske
+* 2:00: Amber Crawford & Sekhar Paladugu
+* 2:30: Robbie Lane & Ross Edfort
+* 3:00 Jennifer Goulding
+
+#### With Meeka
+
+* 1:00: Marlo Major & Michael Wong
+* 1:30: Jhun de Andres & Aaron Careaga
+* 2:00: Matt Stjernholm & Emily Dowdle
+* 2:30: Matt Rooney & Adam Jensen
+* 3:00: Pat Wey & Torie Warren
 
 ## 1510
 
@@ -62,5 +88,3 @@ Classroom C.
 Classroom A.
 
 ### Work Time (1:00 - 4:00)
-
-
