@@ -30,6 +30,7 @@ Stick around in Classroom B. You'll be working in the following pairs. Please sp
 - Open pull requests to fix bugs in your partner teams's code base.
 
 You'll be working in the following pairs:
+
 * Pat Wey & Robbie Lane
 * Marlo Major & Matt Stjernholm
 * Jason Pilz & Aaron Careaga
