@@ -54,14 +54,44 @@ Join Tess in Classroom B. [Lesson Plan](https://github.com/turingschool/lesson_p
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBA
+#### With Josh
 
+* Aaron Greenspan
+* Beth Sebian
+* Dan Winter
+* Lenny Myerson
+* Toni Rib
+* Hector Huertas Baeza
+* Justin Pease
+* Penney Garrett
+
+#### With Tess
+
+* Beth Secor
+* Greg Armstrong
+* James Crockett
+* John Slota
+* Joseph Perry
+* Brant Wellman
+* Brenna Martenson
+* Charissa Lawrence
+
+#### With Lovisa
+
+* Jordan Lawler
+* Shannon Paige
+* Edgar Duran
+* Steve Pentler
+* Steven Olson
+* Taylor Moore
+* Cole Hall
+* David Stinnette
 
 ## 1511
 
 ### Migrations, Databases, Models, and Relationships in Rails (9:00 - 12:00)
 
-Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown). 
+Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
 
 ### Rails Basics Work Time (1:00 - 4:00)
 
