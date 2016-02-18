@@ -87,6 +87,8 @@ Classroom C.
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
+
 Classroom A.
 
 ### Work Time (1:00 - 4:00)
