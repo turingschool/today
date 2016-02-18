@@ -59,11 +59,11 @@ Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
 ### Work Time: Model Testing (1:00 - 3:30)
 
-Test those models woooo. [Here are the things to test](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
+Test those models woooo. [Here are the things to test](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown).
 
 Here are your pairs:
 
@@ -92,19 +92,19 @@ Classroom A.
 
 #### With Horace
 * 9:00 - Andrew Thompson
-* 9:30 - Gurusundesh Khalsa
+* 9:30 - Matt Pindell
 * 10:00 - Jonathan Bernesser
 * 10:30 - Jonathan Liss
-* 11:00 - Joshua Washke
-* 11:30 - Kami Boers
+* 11:00 - Ashwin Rao
+* 11:30 - Christine Gamble
 
 #### With Nate
 * 9:00 - Marina Corona
-* 9:30 - Matt Pindell
+* 9:30 - Gurusundesh Khalsa
 * 10:00 - Sal Espinosa
 * 10:30 - Alireza Andersen
-* 11:00 - Ashwin Rao
-* 11:30 - Christine Gamble
+* 11:00 - Joshua Washke
+* 11:30 - Kami Boers
 
 #### With Mike
 * 9:00 - Jared Roth
