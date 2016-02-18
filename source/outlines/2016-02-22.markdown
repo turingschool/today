@@ -45,9 +45,31 @@ Classroom B.
 
 ## 1511
 
-### MixMaster Q & A (9:00 - 10:00)
+### MixMaster Q & A (9:00 - 9:30)
 
-Big Workspace
+Join Rachel in the Big Workspace. 
+
+### What is Polymorphism? (9:30 - 10:00)
+
+Let's talk about Polymorphism.
+
+* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
+* Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails) and stop when you see the `rails g controller` stuff.
+* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that. 
+
+#### Pairs
+
+* Scott Firestone & Julian Feliciano
+* Adam Hundley & Kimiko Kano
+* Nicholas Dorans & David Whitaker
+* Brennan Holtzclaw & Erinna Chen
+* Allan Blair & July Tran
+* Alexis Navarrete & Nate Venn
+* Charles Ellison & Adrienne Domingus
+* Heidi Hoopes & Admir Draganovic 
+* Chelsea Johnson & Nick Weiland & Brian Rippeto 
+
+Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
@@ -55,7 +77,7 @@ Big Workspace
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
-Big Workspace
+Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown). 
 
 
 ## 1602
