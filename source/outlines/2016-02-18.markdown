@@ -71,7 +71,7 @@ API-CURIOUS
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Classroom C.
+You'll find Andrew in Classroom C today to talk about Forms, Route Helpers, and more things Rails. [This is our lesson plan for today.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown)
 
 ### Jobs Q and A (1:00 - 1:30)
 
