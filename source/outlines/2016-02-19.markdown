@@ -51,13 +51,25 @@ Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom B.
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
-### Work Time: Model Testing (1:00 - 3:00)
+### Work Time: Model Testing (1:00 - 3:30)
 
-Test those models woooo.
+Test those models woooo. [Here are the things to test](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
 
-### MixMaster Kick Off (3:00 - 4:00)
+Here are your pairs:
+
+* Heidi Hoopes & Adrienne Domingus
+* Alexis Navarrete & Julian Feliciano
+* July Tran & Brennan Holtzclaw
+* Erinna Chen & Chelsea Johnson
+* Admir Draganovic & Nick Weiland
+* Nicholas Dorans & Scott Firestone
+* Kimiko Kano & Brian Rippeto
+* Charles Ellison & Adam Hundley
+* Nate Venn & Allan Blair & David Whitaker
+
+### MixMaster Kick Off (3:30 - 4:00)
 
 Classroom B.
 
