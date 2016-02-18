@@ -57,6 +57,18 @@ Classroom B with Rachel. Find the outline [here](https://github.com/turingschool
 
 Test those models woooo. [Here are the things to test](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
 
+Here are your pairs:
+
+* Heidi Hoopes & Adrienne Domingus
+* Alexis Navarrete & Julian Feliciano
+* July Tran & Brennan Holtzclaw
+* Erinna Chen & Chelsea Johnson
+* Admir Draganovic & Nick Weiland
+* Nicholas Dorans & Scott Firestone
+* Kimiko Kano & Brian Rippeto
+* Charles Ellison & Adam Hundley
+* Nate Venn & Allan Blair & David Whitaker
+
 ### MixMaster Kick Off (3:30 - 4:00)
 
 Classroom B.
