@@ -28,6 +28,8 @@ We will meet in Classroom C to code along starting the Ideabox in React project.
 
 [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the `react-rails` gem.
 
+The completed repo should be [submitted here](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75)
+
 ### Creact/GameTime Work Time (10am - 4:00pm)
 
 When you're not in your evaluation with an instructor:
@@ -39,6 +41,8 @@ or
 Continue working on Creact
 
 ### Game Time Evaluations (1:00pm - 4:00pm)
+
+Don't forget - you will need to submit a Submission form prior to your evaluation.
 
 #### With Steve
 
@@ -86,6 +90,8 @@ Classroom C.
 ## 1602
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
 
 Classroom A.
 
