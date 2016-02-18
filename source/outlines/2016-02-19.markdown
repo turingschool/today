@@ -18,7 +18,8 @@ Details Incoming!
 ## 1508
 
 ### Homework
-  We'll discuss the homework in the afternoon.
+
+We'll discuss the homework in the afternoon.
 
 ### Ember Tutorial (9:00 - 12:00)
 
@@ -69,7 +70,42 @@ Classroom A.
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+#### With Horace
+* 9:00 - Andrew Thompson
+* 9:30 - Gurusundesh Khalsa
+* 10:00 - Jonathan Bernesser
+* 10:30 - Jonathan Liss
+* 11:00 - Joshua Washke
+* 11:30 - Kami Boers
+
+#### With Nate
+* 9:00 - Marina Corona
+* 9:30 - Matt Pindell
+* 10:00 - Sal Espinosa
+* 10:30 - Alireza Andersen
+* 11:00 - Ashwin Rao
+* 11:30 - Christine Gamble
+
+#### With Mike
+* 9:00 - Jared Roth
+* 9:30 - Jeneve Parrish
+* 10:00 - Jennifer Soden
+* 10:30 - Kris Foss
+* 11:00 - Ling Tran
+* 11:30 - Mark Miranda
+
+#### With Tess
+* 9:00 - Claudia Kiesenhofer
+* 9:30 - Colin Osborn
+* 10:00 - Deborah Hamel
+* 10:30 - Emily Blanchard
+* 11:00 - Emily McClung
+
+#### With Meeka
+* 9:00 - Matt DesMarteau
+* 9:30 - Patrick Hardy
+* 10:00 - Thomas Pickett
+* 10:30 - Ilana Corson
 
 ### All: Programming is Fun (1:00 - 4:00)
 

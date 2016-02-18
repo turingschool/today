@@ -1,0 +1,123 @@
+---
+title: 20160222
+layout: outline
+---
+
+## All
+
+### Word of the Day:
+
+* celerity - noun - swiftness; speed.
+
+### Friday Lunch Roulette Groups
+
+To Be Determined
+
+### Posse Challenge - (8:30 - 9:00)
+
+Challenge TBD.
+
+### Protocol (2:30 - 4:00)
+
+Details forthcoming.
+
+
+## 1508
+
+### Fecho Lesson (9:00 - 12:00)
+
+Classroom C.
+
+### Capybara Script Lesson (1:00 - 2:30)
+
+Classroom C.
+
+## 1510
+
+### Building and Securing an API (9:00 - 12:00)
+
+Classroom B.
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+
+## 1511
+
+### MixMaster Q & A (9:00 - 10:00)
+
+Big Workspace
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+Big Workspace
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Big Workspace
+
+
+## 1602
+
+### All: Git and GitHub for Pairs (9:00 - 10:30)
+
+Classroom A.
+
+### All: Project Kickoff
+
+### Work time and Mid Module Diagnostic (11:00 - 12:00)
+
+#### With Horace
+* 11:00 - Patrick Hardy
+* 11:30 - Matthew DesMarteau
+
+#### With Nate
+* 11:00 - Claudia Kiesenhofer
+* 11:30 - Jonathan Liss
+
+#### With Mike
+* 11:00 - Ling Tran
+* 11:30 - Sal Espinosa
+
+#### With Rachel
+* 11:00 - Emily McClung
+* 11:30 - Kris Foss
+
+#### With Tess
+* 11:00 - Ashwin Rao
+* 11:30 - Jennifer Soden
+
+
+### Mid Module Diagnostic (1:00 - 2:30)
+
+#### With Horace
+* 1:00 - Jeneve Parrish
+* 1:30 - Emily Blanchard
+* 2:00 - Kami Boers
+
+#### With Nate
+* 1:00 - Deborah Hamel
+* 1:30 - Christopher Soden
+* 2:00 - Colin Osborn
+
+#### With Mike
+* 1:00 - Joshua Washke
+* 1:30 - Marina Corona
+* 2:00 - Mark Miranda
+
+#### With Andrew
+* 1:00 - Jared Roth
+* 1:30 - Andrew Thompson
+* 2:00 - Jonathan Bernesser
+
+#### With Tess
+* 1:00 - Gurusundesh Khalsa
+* 1:30 - Thomas Pickett
+* 2:00 - Matt Pindell
+
+#### With Jorge
+* 1:00 - Alireza Andersen
+* 1:30 - Ilana Corson
+* 2:00 - Christine Gamble
+
