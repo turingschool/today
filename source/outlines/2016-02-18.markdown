@@ -11,7 +11,8 @@ layout: outline
 
 ### Posse Challenge (8:30 - 9:00)
 
-Deets incoming.
+Do the thing!
+
 
 ## 1508
 
@@ -27,6 +28,8 @@ We will meet in Classroom C to code along starting the Ideabox in React project.
 
 [tutorial](http://github.com/applegrain/creact). You'll be cloning down a Rails API and build out CRUD functionality using the `react-rails` gem.
 
+The completed repo should be [submitted here](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75)
+
 ### Creact/GameTime Work Time (10am - 4:00pm)
 
 When you're not in your evaluation with an instructor:
@@ -39,6 +42,8 @@ Continue working on Creact
 
 ### Game Time Evaluations (1:00pm - 4:00pm)
 
+Don't forget - you will need to submit a Submission form prior to your evaluation.
+
 #### With Steve
 
 * 1:00: Jason Pilz & Ryan Johnson
@@ -49,12 +54,12 @@ Continue working on Creact
 
 #### With Meeka
 
-
 * 1:30: Jhun de Andres & Aaron Careaga
 * 2:00: Matt Stjernholm & Emily Dowdle
 * 2:30: Matt Rooney & Adam Jensen
 * 3:00: Pat Wey & Torie Warren
 * 3:30: Marlo Major & Michael Wong
+
 
 ## 1510
 
@@ -71,7 +76,7 @@ API-CURIOUS
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Classroom C.
+You'll find Andrew in Classroom C today to talk about Forms, Route Helpers, and more things Rails. [This is our lesson plan for today.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown)
 
 ### Jobs Q and A (1:00 - 1:30)
 
@@ -86,6 +91,10 @@ Classroom C.
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
+
 Classroom A.
 
 ### Work Time (1:00 - 4:00)
+
+Put some finishing touches on your projects. You can do it!
