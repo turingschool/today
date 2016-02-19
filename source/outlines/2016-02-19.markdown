@@ -167,6 +167,12 @@ Classroom A.
 * 10:00 - Thomas Pickett
 * 10:30 - Ilana Corson
 
-### All: Programming is Fun (1:00 - 4:00)
+### All: Weekly Diagnostic (1:00 - 1:45)
 
-Classroom A.
+Classroom A
+
+### All: Review Diagnostic (1:45 - 2:30)
+
+### All: Mining GitCoins for Fun and Profit (2:30 - 4:00)
+
+[$$$ COINZ $$$](https://github.com/worace/git-coin)
