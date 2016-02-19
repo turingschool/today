@@ -80,15 +80,15 @@ You're almost there! You can do it!
 
 ## 1511
 
-### Blogger Recap (9:00 - 9:30)
+### Blogger Recap (9:00 - 9:15)
 
 Recap in the Classroom B.
 
-### Feature Testing in Rails (9:30 - 10:30)
+### Feature Testing in Rails (9:15 - 10:00)
 
 Classroom B.
 
-### Model Testing in Rails (10:30 - 12:00)
+### Model Testing in Rails (10:00 - 11:15)
 
 Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
