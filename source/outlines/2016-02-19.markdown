@@ -33,7 +33,9 @@ We'll discuss the homework in the afternoon.
 
 ### Ember Tutorial (9:00 - 12:00)
 
-Classroom C.
+Classroom C. We'll be working through this [lesson plan][ember] in sort of a Quentin Tarrantino fashion.
+
+[ember]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/super-introduction-to-ember.markdown
 
 ### Fecho and Boxtrot KickOffs (1:00 - 4:00)
 
