@@ -46,7 +46,7 @@ Recap in the Classroom B.
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-Classroom B.
+Classroom B [Here is the lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md).
 
 ### Model Testing in Rails (10:30 - 12:00)
 
