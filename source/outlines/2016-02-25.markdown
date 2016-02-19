@@ -1,0 +1,67 @@
+---
+title: 20160217
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* oeillade - noun - an amourous glance; ogle
+
+
+### Posse Challenge (8:30 - 9:00)
+
+Things need doing. You can do them.
+
+
+## 1508
+
+### Morning Class (9:00 - 12:00)
+
+Classroom C.
+
+### Building and Testing Express Applications (1:00 - 4:00)
+
+### Project Evals (1:00 - 4:00)
+
+
+## 1510
+
+### Rails Engine Evals (9:00 - 11:30)
+
+Schedule TBA.
+
+### Self Directed Projects Intro (1:00 - 2:00)
+
+Classroom B.
+
+### Self Directed Project Ideation and Prep (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1511
+
+### Git Workflow (9:00 - 11:30)
+
+Big Workspace.
+
+### Rails Mini Project KickOff (11:30 - 12:00)
+
+Big Workspace.
+
+### Mid Module Diagnostics / Rails Mini Project Work Time (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1602
+
+### Work Time and One on Ones (9:00 - 10:30)
+
+### Peer Refactoring (10:30 - 12:00)
+
+### Work Time (1:00 - 4:00)
+
+Don't let your dreams be just dreams.

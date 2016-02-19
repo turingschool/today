@@ -12,17 +12,30 @@ layout: outline
 
 ### Posse Challenge Show and Tell (8:30 - 9:00)
 
-Details Incoming!
+* Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth: in the big workspace with @horace
+* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @carmer
+* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @nate
 
+### Surveys
+
+At some point before 5pm today, please fill out and submit your survey:
+
+* [1508]()
+* [1510](http://goo.gl/forms/DjDJsYiuaG)
+* [1511](https://docs.google.com/forms/d/1DEsKWPe783mP2KE_TVoF9DRGPGWmNWc9KSW2cOFBuuI/viewform)
+* [1602]()
 
 ## 1508
 
 ### Homework
-  We'll discuss the homework in the afternoon.
+
+We'll discuss the homework in the afternoon.
 
 ### Ember Tutorial (9:00 - 12:00)
 
-Classroom C.
+Classroom C. We'll be working through this [lesson plan][ember] in sort of a Quentin Tarrantino fashion.
+
+[ember]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/super-introduction-to-ember.markdown
 
 ### Fecho and Boxtrot KickOffs (1:00 - 4:00)
 
@@ -34,29 +47,72 @@ Meet in Classroom C. We'll be kicking off both projects and talking about the pl
 
 You're almost there! You can do it!
 
-### Apicurious (1:00 - 4:00)
+### Apicurious Review (1:00 - 4:00)
 
-Schedule TBA.
+#### With Josh
+
+* 1:00 - Aaron Greenspan
+* 1:22 - Beth Sebian
+* 1:42 - Dan Winter
+* 2:02 - Lenny Myerson
+* 2:22 - Toni Rib
+* 2:42 - Hector Huertas Baeza
+* 3:02 - Justin Pease
+* 3:22 - Penney Garrett
+
+#### With Tess
+
+* 1:00 - Beth Secor
+* 1:22 - Greg Armstrong
+* 1:42 - James Crockett
+* 2:02 - John Slota
+* 2:22 - Joseph Perry
+* 2:42 - Brant Wellman
+* 3:02 - Brenna Martenson
+* 3:22 - Charissa Lawrence
+
+#### With Lovisa
+
+* 1:00 - Jordan Lawler
+* 1:22 - Shannon Paige
+* 1:42 - Cole Hall
+* 2:02 - Steve Pentler
+* 2:22 - Steven Olson
+* 2:42 - Taylor Moore
+* 3:02 - Edgar Duran
+* 3:22 - David Stinnette
 
 ## 1511
 
-### Blogger Recap (9:00 - 9:30)
+### Blogger Recap (9:00 - 9:15)
 
 Recap in the Classroom B.
 
-### Feature Testing in Rails (9:30 - 10:30)
+### Feature Testing in Rails (9:15 - 10:00)
 
 Classroom B [Here is the lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md).
 
-### Model Testing in Rails (10:30 - 12:00)
+### Model Testing in Rails (10:00 - 11:15)
 
-Classroom B.
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
-### Work Time: Model Testing (1:00 - 3:00)
+### Work Time: Model Testing (1:00 - 3:30)
 
-Test those models woooo.
+Test those models woooo. [Here are the things to test](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown).
 
-### MixMaster Kick Off (3:00 - 4:00)
+Here are your pairs:
+
+* Heidi Hoopes & Adrienne Domingus
+* Alexis Navarrete & Julian Feliciano
+* July Tran & Brennan Holtzclaw
+* Erinna Chen & Chelsea Johnson
+* Admir Draganovic & Nick Weiland
+* Nicholas Dorans & Scott Firestone
+* Kimiko Kano & Brian Rippeto
+* Charles Ellison & Adam Hundley
+* Nate Venn & Allan Blair & David Whitaker
+
+### MixMaster Kick Off (3:30 - 4:00)
 
 Classroom B.
 
@@ -69,7 +125,42 @@ Classroom A.
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBA
+#### With Horace
+* 9:00 - Andrew Thompson
+* 9:30 - Matt Pindell
+* 10:00 - Jonathan Bernesser
+* 10:30 - Jonathan Liss
+* 11:00 - Ashwin Rao
+* 11:30 - Christine Gamble
+
+#### With Nate
+* 9:00 - Marina Corona
+* 9:30 - Gurusundesh Khalsa
+* 10:00 - Sal Espinosa
+* 10:30 - Alireza Andersen
+* 11:00 - Joshua Washke
+* 11:30 - Kami Boers
+
+#### With Mike
+* 9:00 - Jared Roth
+* 9:30 - Jeneve Parrish
+* 10:00 - Jennifer Soden
+* 10:30 - Kris Foss
+* 11:00 - Ling Tran
+* 11:30 - Mark Miranda
+
+#### With Tess
+* 9:00 - Claudia Kiesenhofer
+* 9:30 - Colin Osborn
+* 10:00 - Deborah Hamel
+* 10:30 - Emily Blanchard
+* 11:00 - Emily McClung
+
+#### With Meeka
+* 9:00 - Matt DesMarteau
+* 9:30 - Patrick Hardy
+* 10:00 - Thomas Pickett
+* 10:30 - Ilana Corson
 
 ### All: Programming is Fun (1:00 - 4:00)
 
