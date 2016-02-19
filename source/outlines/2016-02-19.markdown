@@ -114,7 +114,7 @@ Here are your pairs:
 
 ### MixMaster Kick Off (3:30 - 4:00)
 
-Classroom B.
+[MixMaster](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master). Classroom B.
 
 
 ## 1602
