@@ -13,7 +13,7 @@ layout: outline
 ### Posse Challenge Show and Tell (8:30 - 9:00)
 
 * Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth: in the big workspace with @horace
-* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @mike
+* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @carmer
 * Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @nate
 
 ### Surveys
