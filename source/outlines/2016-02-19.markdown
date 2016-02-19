@@ -159,6 +159,7 @@ Classroom A.
 * 10:00 - Deborah Hamel
 * 10:30 - Emily Blanchard
 * 11:00 - Emily McClung
+* 11:30 - Chris Soden
 
 #### With Meeka
 * 9:00 - Matt DesMarteau
