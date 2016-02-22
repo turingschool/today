@@ -47,15 +47,15 @@ Classroom B.
 
 ### MixMaster Q & A (9:00 - 9:30)
 
-Join Rachel in the Big Workspace. 
+Join Rachel in the Big Workspace.
 
 ### What is Polymorphism? (9:30 - 10:00)
 
 Let's talk about Polymorphism.
 
-* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
+* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30.
 * Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails) and stop when you see the `rails g controller` stuff.
-* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that. 
+* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that.
 
 #### Pairs
 
@@ -66,10 +66,10 @@ Let's talk about Polymorphism.
 * Allan Blair & July Tran
 * Alexis Navarrete & Nate Venn
 * Charles Ellison & Adrienne Domingus
-* Heidi Hoopes & Admir Draganovic 
-* Chelsea Johnson & Nick Weiland & Brian Rippeto 
+* Heidi Hoopes & Admir Draganovic
+* Chelsea Johnson & Nick Weiland & Brian Rippeto
 
-Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
+Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised).
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
@@ -77,7 +77,7 @@ Big Workspace
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
-Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown). 
+Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown).
 
 
 ## 1602
@@ -86,7 +86,25 @@ Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_pl
 
 Classroom A.
 
-### All: Project Kickoff
+### All: Project Kickoff (10:30 - 11:00)
+
+Pairs are as Follows:
+
+* Matt Pindell & Kami Boers
+* Joshua Washke & Marina Corona
+* Jonathan Liss &  Andrew Thompson
+* Jonathan Bernesser & Gurusundesh Khalsa
+* Sal Espinosa & Christopher Soden
+* Kris Foss & Ling Tran
+* Alireza Andersen & Christine Gamble
+* Colin Osborn & Mark Miranda
+* Jennifer Soden & Patrick Hardy
+* Ashwin Rao & Emily Blanchard
+* Jared Roth & Jeneve Parrish
+* Deborah Hamel & Thomas Pickett
+* Matthew DesMarteau & Ilana Corson
+* Claudia Kiesenhofer
+
 
 ### Work time and Mid Module Diagnostic (11:00 - 12:00)
 
