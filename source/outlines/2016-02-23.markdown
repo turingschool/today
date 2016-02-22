@@ -13,17 +13,33 @@ layout: outline
 
 Deets incoming.
 
-
 ## 1508
 
-### Arel and Advanced Active Record (9:00 - 12:00)
+### Fecho & Boxtrot
+
+#### Arel and Advanced Active Record (9:00 - 12:00)
 
 Classroom C with the inestimable Josh Mejia.
 
-### Caching and Redis (1:00 - 4:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
 
-Stay in Classroom C where you will be learned a Redis.
+### Fecho
 
+#### Work Time (1:00 - 4:00)
+
+Not in Classroom C.
+
+### Boxtrot
+
+#### Daily Stand Up (1:00 - 1:30)
+
+Classroom C.
+
+#### Capybara and Load Testing/Performance Monitoring
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
 
 ## 1510
 
@@ -80,6 +96,3 @@ Classroom A.
 ### Project Work Time (3:00 - 4:00)
 
 Do great things.
-
-
-

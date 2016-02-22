@@ -24,11 +24,33 @@ Details forthcoming.
 
 ## 1508
 
+## Fecho
+
 ### Fecho Lesson (9:00 - 12:00)
+
+(optional for Boxtrot)
 
 Classroom C.
 
-### Capybara Script Lesson (1:00 - 2:30)
+### Work Time (1:00 - 2:30)
+
+Not Classroom C.
+
+## Boxtrot
+
+### Work Time (9:00 - 12:00)
+
+- Attend Steve's lesson in classroom C OR
+- Make sure you have [LookingFor](https://github.com/LookingForMe/lookingfor) cloned and running locally
+- Read through the code base and write down any questions or anything that you notice is unfamiliar.
+- Look through the [existing issues](https://github.com/LookingForMe/lookingfor/issues)
+- You can claim an issue by assigning it to yourself/commenting on it and create new issues
+- Brainstorm features that are not outlined in existing issues
+- Come hang out in the staff area with Meeka
+
+### Daily Stand Up & Whiteboarding (1:00 - 2:30)
+
+(optional for Fecho)
 
 Classroom C.
 
@@ -160,4 +182,3 @@ Pairs are as Follows:
 * 1:00 - Alireza Andersen
 * 1:30 - Ilana Corson
 * 2:00 - Christine Gamble
-
