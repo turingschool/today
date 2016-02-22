@@ -82,7 +82,6 @@ Not Classroom C.
 - Look through the [existing issues](https://github.com/LookingForMe/lookingfor/issues)
 - You can claim an issue by assigning it to yourself/commenting on it and create new issues
 - Brainstorm features that are not outlined in existing issues
-- Come hang out in the staff area with Meeka
 
 ### Daily Stand Up & Whiteboarding (1:00 - 2:30)
 
