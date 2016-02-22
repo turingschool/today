@@ -165,19 +165,18 @@ Pairs are as Follows:
 ### Work time and Mid Module Diagnostic (11:00 - 12:00)
 
 #### With Horace
-* 11:00 - Patrick Hardy
-* 11:30 - Matthew DesMarteau
+* 11:00 - Colin Osborn
 
 #### With Nate
 * 11:00 - Claudia Kiesenhofer
-* 11:30 - Jonathan Liss
+* 11:00 - Emily McClung
 
 #### With Mike
 * 11:00 - Ling Tran
 * 11:30 - Sal Espinosa
 
 #### With Rachel
-* 11:00 - Emily McClung
+* 11:00 - Jonathan Liss
 * 11:30 - Kris Foss
 
 #### With Tess
@@ -194,18 +193,19 @@ Pairs are as Follows:
 
 #### With Nate
 * 1:00 - Deborah Hamel
-* 1:30 - Christopher Soden
-* 2:00 - Colin Osborn
+* 1:30 - Marina Corona
+* 1:00 - Alireza Andersen
 
 #### With Mike
 * 1:00 - Joshua Washke
-* 1:30 - Marina Corona
+* 1:30 - Ilana Corson
 * 2:00 - Mark Miranda
+* 2:30 - Matthew DesMarteau
 
 #### With Andrew
 * 1:00 - Jared Roth
+* 1:30 - Jonathan Bernesser
 * 1:30 - Andrew Thompson
-* 2:00 - Jonathan Bernesser
 
 #### With Tess
 * 1:00 - Gurusundesh Khalsa
@@ -213,6 +213,6 @@ Pairs are as Follows:
 * 2:00 - Matt Pindell
 
 #### With Jorge
-* 1:00 - Alireza Andersen
-* 1:30 - Ilana Corson
-* 2:00 - Christine Gamble
+* 1:00 - Christopher Soden
+* 1:30 - Christine Gamble
+* 2:00 - Patrick Hardy
