@@ -64,15 +64,23 @@ Big Workspace
 
 ### Authentication Work Time (1:00 - 3:00)
 
-Work Work.
+Work Work. Finished? Check out [your homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown) for tonight.
 
 ### Mid Module Diagnostics (1:00 - 3:00)
 
-Schedule TBA
+With Rachel: 
 
-### API Mini Project Kick Off (3:00 - 4:00)
+* Adam Hundley
+* Alexis Navarrete
+* Admir Draganovic
+* Adrienne Domingus
 
-Classroom B.
+With Andrew:
+
+* Allan Blair
+* Brennan Holtzclaw
+* Brian Rippeto
+* Charles Ellison
 
 
 ## 1602
