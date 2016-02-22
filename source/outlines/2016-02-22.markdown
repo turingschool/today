@@ -56,6 +56,8 @@ Steve will review and answer questions about the assigned pre-work in Classroom 
 
 Let's get the bare minimum up and running with our project.
 
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting-bartleby-started.md)
+
 #### Asynchronous JavaScript: Callbacks and Promises (10:30 - 11:15)
 
 One of the problems with this application is that we have to deal with two different approaches to asynchronous JavaScript: Node's callback pattern and Ember's promises. In this lesson, we'll spend a little bit of time discussing each before we move along to talk about building an abstraction of Node's callbacks in order to eliminate the need to deal with two different styles.
