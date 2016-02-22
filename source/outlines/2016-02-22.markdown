@@ -15,7 +15,9 @@ To Be Determined
 
 ### Posse Challenge - (8:30 - 9:00)
 
-Challenge TBD.
+This week we are focusing on Procs and Enumerables. If your posse writes implementation for other enumerables, please submit them as comments to this gist!
+
+[Code Challenge](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
 ### Protocol (2:30 - 4:00)
 
@@ -107,7 +109,24 @@ Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_pl
 
 Classroom A.
 
-### All: Project Kickoff
+### All: Project Kickoff (10:30 - 11:00)
+
+Pairs are as Follows:
+
+* Matt Pindell & Kami Boers
+* Joshua Washke & Marina Corona
+* Jonathan Liss &  Andrew Thompson
+* Jonathan Bernesser & Gurusundesh Khalsa
+* Sal Espinosa & Christopher Soden
+* Kris Foss & Ling Tran
+* Alireza Andersen & Christine Gamble
+* Claudia Kiesenhofer & Mark Miranda
+* Jennifer Soden & Patrick Hardy
+* Ashwin Rao & Emily Blanchard
+* Jared Roth & Jeneve Parrish
+* Deborah Hamel & Thomas Pickett
+* Matthew DesMarteau & Ilana Corson
+
 
 ### Work time and Mid Module Diagnostic (11:00 - 12:00)
 
