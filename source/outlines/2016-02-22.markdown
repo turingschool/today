@@ -26,15 +26,49 @@ Details forthcoming.
 
 ## 1508
 
-## Fecho
+### Bartleby Project
 
-### Fecho Lesson (9:00 - 12:00)
+#### Prerequisites
 
-(optional for Boxtrot)
+Try to have the following installed and set up before 9:00am.
 
-Classroom C.
+- Ember CLI: `npm install -g ember-cli`
+- Ember Inspector: [Chrome][eic]. [Firefox][eiff]
+- Electron: `npm install -g electron-prebuilt`
+- Project setup:
+  - `ember new bartleby` (or, whatever you want to name your project)
+  - `cd bartleby`
+  - `ember install ember-electron`
+  - `npm install file-bin --save`
 
-### Work Time (1:00 - 2:30)
+[eic]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
+[eiff]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/
+
+#### Prework Review and Questions (9:00 - 9:30)
+
+Steve will review and answer questions about the assigned pre-work in Classroom C.
+
+1. [Building Desktop Applications with Node and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
+1. [Getting Started with Electron](https://vimeo.com/155240396)
+1. [Building Real-Time Applications with Ember](https://www.youtube.com/watch?v=nfGORL8ebn8)
+
+#### Getting Off the Ground with Bartleby (9:30 - 10:30)
+
+Let's get the bare minimum up and running with our project.
+
+#### Asynchronous JavaScript: Callbacks and Promises (10:30 - 11:15)
+
+One of the problems with this application is that we have to deal with two different approaches to asynchronous JavaScript: Node's callback pattern and Ember's promises. In this lesson, we'll spend a little bit of time discussing each before we move along to talk about building an abstraction of Node's callbacks in order to eliminate the need to deal with two different styles.
+
+#### Contributing to File Bin (11:15 - 12:00)
+
+With our the foundation of our project in place and an understanding of how to work with promises and callbacks. We'll take a look at the file system APIs in Node in order to figure out what tools we have at our disposal to implement additional features.
+
+- [Node's File System APIs](https://nodejs.org/api/fs.html)
+- [File Bin](https://github.com/stevekinney/file-bin)
+- [mock-fs](https://github.com/tschaub/mock-fs)
+
+#### Work Time (1:00 - 2:30)
 
 Not Classroom C.
 
