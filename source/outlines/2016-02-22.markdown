@@ -205,7 +205,8 @@ Pairs are as Follows:
 #### With Andrew
 * 1:00 - Jared Roth
 * 1:30 - Jonathan Bernesser
-* 1:30 - Andrew Thompson
+* 2:00 - Andrew Thompson
+* 2:30 - Patrick Hardy
 
 #### With Tess
 * 1:00 - Gurusundesh Khalsa
@@ -215,4 +216,3 @@ Pairs are as Follows:
 #### With Jorge
 * 1:00 - Christopher Soden
 * 1:30 - Christine Gamble
-* 2:00 - Patrick Hardy
