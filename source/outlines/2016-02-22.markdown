@@ -24,11 +24,33 @@ Details forthcoming.
 
 ## 1508
 
+## Fecho
+
 ### Fecho Lesson (9:00 - 12:00)
+
+(optional for Boxtrot)
 
 Classroom C.
 
-### Capybara Script Lesson (1:00 - 2:30)
+### Work Time (1:00 - 2:30)
+
+Not Classroom C.
+
+## Boxtrot
+
+### Work Time (9:00 - 12:00)
+
+- Attend Steve's lesson in classroom C OR
+- Make sure you have [LookingFor](https://github.com/LookingForMe/lookingfor) cloned and running locally
+- Read through the code base and write down any questions or anything that you notice is unfamiliar.
+- Look through the [existing issues](https://github.com/LookingForMe/lookingfor/issues)
+- You can claim an issue by assigning it to yourself/commenting on it and create new issues
+- Brainstorm features that are not outlined in existing issues
+- Come hang out in the staff area with Meeka
+
+### Daily Stand Up & Whiteboarding (1:00 - 2:30)
+
+(optional for Fecho)
 
 Classroom C.
 
@@ -47,15 +69,15 @@ Classroom B.
 
 ### MixMaster Q & A (9:00 - 9:30)
 
-Join Rachel in the Big Workspace. 
+Join Rachel in the Big Workspace.
 
 ### What is Polymorphism? (9:30 - 10:00)
 
 Let's talk about Polymorphism.
 
-* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30. 
+* Watch [this RailsCast](https://www.youtube.com/watch?v=WOFAcbxdWjY) up to 3:30.
 * Read [this blog post](https://richonrails.com/articles/polymorphic-associations-in-rails) and stop when you see the `rails g controller` stuff.
-* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that. 
+* Work in pairs to create the migrations and models that would represent this sitaution: The principal of a school needs to keep track of her meetings with students, parents, and employees. Create four models (`Student`, `Parent`, `Employee`, and `Meeting`) so that the first three models can have many meetings, and a meeting can belong to either a student, parent, or employee. Try out your associations in the console (`rails c`). Refer back to the RailsCast if you've forgotten how to do that.
 
 #### Pairs
 
@@ -66,10 +88,10 @@ Let's talk about Polymorphism.
 * Allan Blair & July Tran
 * Alexis Navarrete & Nate Venn
 * Charles Ellison & Adrienne Domingus
-* Heidi Hoopes & Admir Draganovic 
-* Chelsea Johnson & Nick Weiland & Brian Rippeto 
+* Heidi Hoopes & Admir Draganovic
+* Chelsea Johnson & Nick Weiland & Brian Rippeto
 
-Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised). 
+Want the source code for the RailsCast? Check it out [here](https://github.com/railscasts/154-polymorphic-association-revised).
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
@@ -77,7 +99,7 @@ Big Workspace
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
-Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown). 
+Big Workspace. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown).
 
 
 ## 1602
@@ -142,4 +164,3 @@ Classroom A.
 * 1:00 - Alireza Andersen
 * 1:30 - Ilana Corson
 * 2:00 - Christine Gamble
-
