@@ -15,7 +15,9 @@ To Be Determined
 
 ### Posse Challenge - (8:30 - 9:00)
 
-[Details](https://gist.github.com/applegrain/744468d56507d000e9d4)
+This week we are focusing on Procs and Enumerables. If your posse writes implementation for other enumerables, please submit them as comments to this gist!
+
+[Code Challenge](https://gist.github.com/applegrain/744468d56507d000e9d4)
 
 ### Protocol (2:30 - 4:00)
 
