@@ -178,11 +178,11 @@ Classroom A.
 
 Pairs are as Follows:
 
-* Matt Pindell & Kami Boers
+* Matt Pindell & Sal Espinosa
 * Joshua Washke & Marina Corona
 * Jonathan Liss &  Andrew Thompson
 * Jonathan Bernesser & Gurusundesh Khalsa
-* Sal Espinosa & Christopher Soden
+* Christopher Soden & Colin Osborn
 * Kris Foss & Ling Tran
 * Alireza Andersen & Christine Gamble
 * Claudia Kiesenhofer & Mark Miranda
@@ -191,6 +191,7 @@ Pairs are as Follows:
 * Jared Roth & Jeneve Parrish
 * Deborah Hamel & Thomas Pickett
 * Matthew DesMarteau & Ilana Corson
+* Kami Boers **SOLO RUBY WARRIOR**
 
 
 ### Work time and Mid Module Diagnostic (11:00 - 12:00)
