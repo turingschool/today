@@ -57,6 +57,7 @@ Steve will review and answer questions about the assigned pre-work in Classroom 
 Let's get the bare minimum up and running with our project.
 
 - [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting-bartleby-started.md)
+- [Example Completed Version](https://github.com/turingschool-examples/bartleby-electron-example)
 
 #### Asynchronous JavaScript: Callbacks and Promises (10:30 - 11:15)
 
