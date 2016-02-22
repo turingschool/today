@@ -23,10 +23,10 @@ layout: outline
 * Emily McClung, Chelsea Johnson, Robbie Lane, Josh
 * Scott Firestone, , Pat Wey, Gurusundesh Khalsa, Rachel
 * Justin Pease, Jared Roth, Ryan Johnson, Andrew
-* Toni Rib, Joshua Washke, Hedy Woo, Nate
+* Toni Rib, Joshua Washke, Kimiko Kano, Nate
 * Erinna Chen, Matt Stjernholm, James Crockett, Mike
 * Admir Draganovic, Jennifer Soden, Tyler Komoroske, Horace
-* Charissa Lawrence, Adam Jensen, Kimiko Kano, Jonathan Bernesser
+* Charissa Lawrence, Adam Jensen, Jonathan Bernesser
 * Hector Huertas Baeza, Brian Rippeto, Thomas Pickett
 * Dan Winter, Jill Donohue, Ilana Corson, Heidi Hoopes
 * Jeneve Parrish, Jason Pilz, Beth Secor, Allan Blair
@@ -200,7 +200,7 @@ Pairs are as Follows:
 
 #### With Nate
 * 11:00 - Claudia Kiesenhofer
-* 11:30 - Emily McClung
+* 11:30 - Patrick Hardy
 
 #### With Mike
 * 11:00 - Ling Tran
@@ -237,7 +237,6 @@ Pairs are as Follows:
 * 1:00 - Jared Roth
 * 1:30 - Jonathan Bernesser
 * 2:00 - Andrew Thompson
-* 2:30 - Patrick Hardy
 
 #### With Tess
 * 1:00 - Gurusundesh Khalsa
