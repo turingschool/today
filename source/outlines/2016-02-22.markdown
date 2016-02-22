@@ -11,7 +11,35 @@ layout: outline
 
 ### Friday Lunch Roulette Groups
 
-To Be Determined
+* Joseph Perry, Charles Ellison, Alireza Andersen, Allison
+* Greg Armstrong, Nate Venn, Andrew Thompson, Joanne
+* David Whitaker, Aaron Greenspan, Ashwin Rao, Jeff C.
+* Christine Gamble, Edgar Duran, July Tran, Jorge
+* Nicholas Dorans, Christopher Soden, Beth Sebian, Marissa
+* Adrienne Domingus, Cole Hall, Claudia Kiesenhofer, Meeka
+* Aaron Careaga, Nick Weiland, Colin Osborn, Steve
+* Penney Garrett, Deborah Hamel,  Alexis Navarrete, Tess
+* Taylor Moore, Emily Blanchard, Julian Feliciano, Lovisa
+* Emily McClung, Chelsea Johnson, Robbie Lane, Josh
+* Scott Firestone, , Pat Wey, Gurusundesh Khalsa, Rachel
+* Justin Pease, Jared Roth, Ryan Johnson, Andrew
+* Toni Rib, Joshua Washke, Kimiko Kano, Nate
+* Erinna Chen, Matt Stjernholm, James Crockett, Mike
+* Admir Draganovic, Jennifer Soden, Tyler Komoroske, Horace
+* Charissa Lawrence, Adam Jensen, Jonathan Bernesser
+* Hector Huertas Baeza, Brian Rippeto, Thomas Pickett
+* Dan Winter, Jill Donohue, Ilana Corson, Heidi Hoopes
+* Jeneve Parrish, Jason Pilz, Beth Secor, Allan Blair
+* Emily Dowdle, Steven Olson, Jonathan Liss
+* Kami Boers, Adam Hundley, Lenny Myerson
+* Kris Foss, Brenna Martenson, Marlo Major
+* Ling Tran, Shannon Paige, Ross Edfort
+* Marina Corona, David Stinnette, Amber Crawford
+* John Slota, Mark Miranda, Matt Rooney
+* Matt DesMarteau, Jordan Lawler, Torie Warren
+* Matt Pindell, Jhun de Andres, Sekhar Paladugu
+* Patrick Hardy, Michael Wong, Steve Pentler
+* Sal Espinosa, Brant Wellman, Brennan Holtzclaw
 
 ### Posse Challenge - (8:30 - 9:00)
 
@@ -26,15 +54,52 @@ Details forthcoming.
 
 ## 1508
 
-## Fecho
+### Bartleby Project
 
-### Fecho Lesson (9:00 - 12:00)
+#### Prerequisites
 
-(optional for Boxtrot)
+Try to have the following installed and set up before 9:00am.
 
-Classroom C.
+- Ember CLI: `npm install -g ember-cli`
+- Ember Inspector: [Chrome][eic]. [Firefox][eiff]
+- Electron: `npm install -g electron-prebuilt`
+- Project setup:
+  - `ember new bartleby` (or, whatever you want to name your project)
+  - `cd bartleby`
+  - `ember install ember-electron`
+  - `npm install file-bin --save`
 
-### Work Time (1:00 - 2:30)
+[eic]: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
+[eiff]: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/
+
+#### Prework Review and Questions (9:00 - 9:30)
+
+Steve will review and answer questions about the assigned pre-work in Classroom C.
+
+1. [Building Desktop Applications with Node and Electron](https://www.youtube.com/watch?v=rbSvc8_BHaw)
+1. [Getting Started with Electron](https://vimeo.com/155240396)
+1. [Building Real-Time Applications with Ember](https://www.youtube.com/watch?v=nfGORL8ebn8)
+
+#### Getting Off the Ground with Bartleby (9:30 - 10:30)
+
+Let's get the bare minimum up and running with our project.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting-bartleby-started.md)
+- [Example Completed Version](https://github.com/turingschool-examples/bartleby-electron-example)
+
+#### Asynchronous JavaScript: Callbacks and Promises (10:30 - 11:15)
+
+One of the problems with this application is that we have to deal with two different approaches to asynchronous JavaScript: Node's callback pattern and Ember's promises. In this lesson, we'll spend a little bit of time discussing each before we move along to talk about building an abstraction of Node's callbacks in order to eliminate the need to deal with two different styles.
+
+#### Contributing to File Bin (11:15 - 12:00)
+
+With our the foundation of our project in place and an understanding of how to work with promises and callbacks. We'll take a look at the file system APIs in Node in order to figure out what tools we have at our disposal to implement additional features.
+
+- [Node's File System APIs](https://nodejs.org/api/fs.html)
+- [File Bin](https://github.com/stevekinney/file-bin)
+- [mock-fs](https://github.com/tschaub/mock-fs)
+
+#### Work Time (1:00 - 2:30)
 
 Not Classroom C.
 
@@ -98,7 +163,7 @@ Want the source code for the RailsCast? Check it out [here](https://github.com/r
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
-Big Workspace
+Big Workspace [Here is the challenge.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown)
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
@@ -115,11 +180,11 @@ Classroom A.
 
 Pairs are as Follows:
 
-* Matt Pindell & Kami Boers
+* Matt Pindell & Sal Espinosa
 * Joshua Washke & Marina Corona
 * Jonathan Liss &  Andrew Thompson
 * Jonathan Bernesser & Gurusundesh Khalsa
-* Sal Espinosa & Christopher Soden
+* Christopher Soden & Colin Osborn
 * Kris Foss & Ling Tran
 * Alireza Andersen & Christine Gamble
 * Claudia Kiesenhofer & Mark Miranda
@@ -128,24 +193,24 @@ Pairs are as Follows:
 * Jared Roth & Jeneve Parrish
 * Deborah Hamel & Thomas Pickett
 * Matthew DesMarteau & Ilana Corson
+* Kami Boers **SOLO RUBY WARRIOR**
 
 
 ### Work time and Mid Module Diagnostic (11:00 - 12:00)
 
 #### With Horace
-* 11:00 - Patrick Hardy
-* 11:30 - Matthew DesMarteau
+* 11:00 - Colin Osborn
 
 #### With Nate
 * 11:00 - Claudia Kiesenhofer
-* 11:30 - Jonathan Liss
+* 11:30 - Patrick Hardy
 
 #### With Mike
 * 11:00 - Ling Tran
 * 11:30 - Sal Espinosa
 
 #### With Rachel
-* 11:00 - Emily McClung
+* 11:00 - Jonathan Liss
 * 11:30 - Kris Foss
 
 #### With Tess
@@ -162,18 +227,19 @@ Pairs are as Follows:
 
 #### With Nate
 * 1:00 - Deborah Hamel
-* 1:30 - Christopher Soden
-* 2:00 - Colin Osborn
+* 1:30 - Marina Corona
+* 2:00 - Alireza Andersen
 
 #### With Mike
 * 1:00 - Joshua Washke
-* 1:30 - Marina Corona
+* 1:30 - Ilana Corson
 * 2:00 - Mark Miranda
+* 2:30 - Matthew DesMarteau
 
 #### With Andrew
 * 1:00 - Jared Roth
-* 1:30 - Andrew Thompson
-* 2:00 - Jonathan Bernesser
+* 1:30 - Jonathan Bernesser
+* 2:00 - Andrew Thompson
 
 #### With Tess
 * 1:00 - Gurusundesh Khalsa
@@ -181,6 +247,5 @@ Pairs are as Follows:
 * 2:00 - Matt Pindell
 
 #### With Jorge
-* 1:00 - Alireza Andersen
-* 1:30 - Ilana Corson
-* 2:00 - Christine Gamble
+* 1:00 - Christopher Soden
+* 1:30 - Christine Gamble
