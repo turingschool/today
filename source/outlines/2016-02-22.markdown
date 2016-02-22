@@ -49,11 +49,13 @@ Not Classroom C.
 - You can claim an issue by assigning it to yourself/commenting on it and create new issues
 - Brainstorm features that are not outlined in existing issues
 
-### Daily Stand Up & Whiteboarding (1:00 - 2:30)
+### Daily Stand Up & Agile Lesson (1:00 - 2:30)
 
 (optional for Fecho)
 
 Classroom C.
+
+[Agile Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
 
 ## 1510
 

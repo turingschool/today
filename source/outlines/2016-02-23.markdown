@@ -35,7 +35,7 @@ Not in Classroom C.
 
 Classroom C.
 
-#### Capybara and Load Testing/Performance Monitoring
+#### Capybara and Load Testing/Performance Monitoring (1:30 - 4:00)
 
 Classroom C.
 
