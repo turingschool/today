@@ -98,12 +98,43 @@ With Andrew:
 * Brian Rippeto
 * Charles Ellison
 
-
 ## 1602
 
 ### Fundamental Refactoring Patterns (9:00 - 11:00)
 
 Classroom A with Horace.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown)
+
+#### Station 1 Groups
+
+* jdliss, marinacor, christinecgamble, k_foss
+* deborah, jared_roth, kamiboers, msjennygiraffe
+* topher105, colinosborn, markmiranda, patrickwhardy
+* theonlyrao, e.mcc, lingtran, claudia
+* thomp, jbernesser16, jeneve.parrish, emily.blanchard
+* alireza.andersen, s-espinosa, icorson3, mdesmarteau
+* gurusundesh, mpindell, josh_washke, drew.t
+
+#### Station 2 Groups
+
+* gurusundesh, theonlyrao, mpindell, deborah
+* claudia, emily.blanchard, christinecgamble, patrickwhardy
+* jbernesser16, msjennygiraffe, colinosborn, jdliss
+* markmiranda, s-espinosa, drew.t, lingtran
+* jeneve.parrish, jared_roth, kamiboers, mdesmarteau
+* k_foss, alireza.andersen, marinacor, icorson3
+* e.mcc, topher105, josh_washke, thomp
+
+#### Station 3 Groups
+
+* josh_washke, patrickwhardy, topher105, jdliss
+* mdesmarteau, gurusundesh, jbernesser16, mpindell
+* s-espinosa, icorson3, markmiranda, lingtran
+* claudia, alireza.andersen, thomp, jeneve.parrish
+* msjennygiraffe, jared_roth, emily.blanchard, e.mcc
+* marinacor, drew.t, k_foss, kamiboers
+* christinecgamble, theonlyrao, colinosborn, deborah
 
 ### Paired Refactoring (11:00 - 12:00)
 
