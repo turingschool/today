@@ -60,7 +60,7 @@ Classroom B with Jorge.
 
 Learn how to use ActiveModel Serializers and JBuilder to serve gorgeous looking JSON. JSON never looked this good before, except that time that JSON was hanging out with XML, and XML was like totally using this outfit that was lame-o.
 
-Before the class, please clone the repo by running this command in your terminal: `git clone -b serving_json_from_rails https://github.com/turingschool-examples/storedom.git serving_json_from_rails`.
+Before the class, please clone the repo by running this command in your terminal: `git clone -b serving_json_from_rails https://github.com/turingschool-examples/storedom.git serving_json_from_rails`
 
 The materials for this class are the following:
 
