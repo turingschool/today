@@ -45,7 +45,14 @@ Classroom C.
 
 ### Testing an Internal API (9:00 - 10:30)
 
-Classroom B.
+Classroom B with Jorge.
+
+Learn how to test an internal API using controller tests and `minitest`, that testing library that you haven't used since module 1.
+
+The materials for this class are the following:
+
+* Notes
+* Video (this will be posted after the lesson)
 
 ### Serving a JSON from Rails (10:30 - 12:00)
 
@@ -68,7 +75,7 @@ Work Work. Finished? Check out [your homework](https://github.com/turingschool/h
 
 ### Mid Module Diagnostics (1:00 - 3:00)
 
-With Rachel: 
+With Rachel:
 
 * Adam Hundley
 * Alexis Navarrete
