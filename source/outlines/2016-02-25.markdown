@@ -68,16 +68,16 @@ Classroom B.
 
 [Rails Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-* Charles Ellison & Julian Feliciano
-* Nate Venn & Nicholas Dorans
+* Nate Venn & Julian Feliciano
+* Charles Ellison & Nicholas Dorans
 * Scott Firestone & Brennan Holtzclaw
 * Erinna Chen & Kimiko Kano
 * Alexis Navarrete & Nick Weiland
 * Brian Rippeto & Allan Blair
-* Adam Hundley & Admir Draganovic
+* Chelsea Johnson & Admir Draganovic
 * David Whitaker & July Tran
 * Heidi Hoopes & Adrienne Domingus
-* Chelsea Johnson
+* Adam Hundley 
 
 ### Mid Module Diagnostics / Rails Mini Project Work Time (1:00 - 4:00)
 
