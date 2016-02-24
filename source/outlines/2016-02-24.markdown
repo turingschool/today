@@ -19,7 +19,13 @@ Keep on Keeping on.
 
 #### Front End Class
 
-Classroom C
+Meet with Steve in Classroom C to discuss the following topics:
+
+- Building and publishing your very own npm module from scratch
+- Ember Components
+- Ember Computed Properties
+
+After that it's back to work. Steve is on hand all day for all of your pairing and questioning needs.
 
 #### Work Time (1:00 - 4:00)
 
