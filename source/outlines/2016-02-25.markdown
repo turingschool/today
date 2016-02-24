@@ -68,12 +68,12 @@ Classroom B.
 
 [Rails Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
-* Nate Venn & Julian Feliciano
+* Kimiko Kano & Julian Feliciano
 * Charles Ellison & Nicholas Dorans
-* Scott Firestone & Brennan Holtzclaw
-* Erinna Chen & Kimiko Kano
+* Nate Venn & Brennan Holtzclaw
+* Erinna Chen & Allan Blair
 * Alexis Navarrete & Nick Weiland
-* Brian Rippeto & Allan Blair
+* Brian Rippeto & Scott Firestone
 * Chelsea Johnson & Admir Draganovic
 * David Whitaker & July Tran
 * Heidi Hoopes & Adrienne Domingus
