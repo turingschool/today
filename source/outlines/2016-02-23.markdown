@@ -52,7 +52,7 @@ Learn how to test an internal API using controller tests and `minitest`, that te
 The materials for this class are the following:
 
 * [Notes](https://drive.google.com/a/casimircreative.com/file/d/0B4C6lfVKu-E7TDF0YUdwUmZ4dmM/view). You need to download this file, since it's a Pages document.
-* Video (this will be posted after the lesson)
+* [Video](https://vimeo.com/156463469)
 
 ### Serving a JSON from Rails (10:30 - 12:00)
 
@@ -66,7 +66,7 @@ The materials for this class are the following:
 
 * [Repo](https://github.com/turingschool-examples/storedom/tree/serving_json_from_rails)
 * [Notes](https://drive.google.com/a/casimircreative.com/file/d/0B4C6lfVKu-E7ODNmaElrekpNTTA/view). You need to download this file, since it's a Pages document.
-* Video (this will be posted after the lesson)
+* [Video](https://vimeo.com/156467440)
 
 ### Project Check Ins and Work Time (1:00 - 4:00)
 
