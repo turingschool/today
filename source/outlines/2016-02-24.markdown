@@ -68,23 +68,25 @@ Classroom B.[ Authorization Outline. ](https://github.com/turingschool/lesson_pl
 
 ### Authorization Work Time (1:00 - 4:00)
 
-Work away.
+Work away. Find your [classwork and homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown) listed in the homework repo. 
 
 ### Experimenting with APIs (3:15 - 4:00)
 
-### Mid Module Assessments (1:00 - 4:00)
+If you haven't yet started the [Experimenting with APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) tutorial, join Rachel in Classroom B. 
+
+### Mid Module Assessments (1:00 - 3:15)
 
 With Rachel:
 
-* Chelsea Johnson
-* David Whitaker
-* Erinna Chen
+* 1:00 Chelsea Johnson
+* 1:45 David Whitaker
+* 2:30 Erinna Chen
 
 With Andrew:
 
-* Heidi Hoopes
-* Julian Feliciano
-* July Tran
+* 1:00 Heidi Hoopes
+* 1:45 Julian Feliciano
+* 2:30 July Tran
 
 ## 1602
 
