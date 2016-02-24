@@ -49,16 +49,60 @@ Classroom C.
 
 ### Testing an Internal API (9:00 - 10:30)
 
-Classroom B.
+Classroom B with Jorge.
+
+Learn how to test an internal API using controller tests and `minitest`, that testing library that you haven't used since module 1.
+
+The materials for this class are the following:
+
+* [Notes](https://drive.google.com/a/casimircreative.com/file/d/0B4C6lfVKu-E7TDF0YUdwUmZ4dmM/view). You need to download this file, since it's a Pages document.
+* Video (this will be posted after the lesson)
 
 ### Serving a JSON from Rails (10:30 - 12:00)
 
-Classroom B.
+Classroom B with Jorge.
+
+Learn how to use ActiveModel Serializers and JBuilder to serve gorgeous looking JSON. JSON never looked this good before, except that time that JSON was hanging out with XML, and XML was like totally using this outfit that was lame-o.
+
+Before the class, please clone the repo by running this command in your terminal: `git clone -b serving_json_from_rails https://github.com/turingschool-examples/storedom.git serving_json_from_rails`
+
+The materials for this class are the following:
+
+* [Repo](https://github.com/turingschool-examples/storedom/tree/serving_json_from_rails)
+* [Notes](https://drive.google.com/a/casimircreative.com/file/d/0B4C6lfVKu-E7ODNmaElrekpNTTA/view). You need to download this file, since it's a Pages document.
+* Video (this will be posted after the lesson)
 
 ### Project Check Ins and Work Time (1:00 - 4:00)
 
-Schedule TBA.
+With Josh:
 
+* Edgar Duran
+* Justin Pease
+* Hector Huertas Baeza
+* Toni Rib
+* Cole Hall
+* John Slota
+* Steve Pentler
+* Jordan Lawler
+* Lenny Myerson
+* Charissa Lawrence
+* Steven Olson
+* Dan Winter
+
+With Tess:
+
+* Beth Sebian
+* Penney Garrett
+* Beth Secor
+* Greg Armstrong
+* Aaron Greenspan
+* James Crockett
+* Joseph Perry
+* Brant Wellman
+* Brenna Martenson
+* Shannon Paige
+* Taylor Moore
+* David Stinnette
 
 ## 1511
 
@@ -86,12 +130,43 @@ With Andrew:
 * Brian Rippeto
 * Charles Ellison
 
-
 ## 1602
 
 ### Fundamental Refactoring Patterns (9:00 - 11:00)
 
 Classroom A with Horace.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns.markdown)
+
+#### Station 1 Groups
+
+* jdliss, marinacor, christinecgamble, k_foss
+* deborah, jared_roth, kamiboers, msjennygiraffe
+* topher105, colinosborn, markmiranda, patrickwhardy
+* theonlyrao, e.mcc, lingtran, claudia
+* thomp, jbernesser16, jeneve.parrish, emily.blanchard
+* alireza.andersen, s-espinosa, icorson3, mdesmarteau
+* gurusundesh, mpindell, josh_washke, drew.t
+
+#### Station 2 Groups
+
+* gurusundesh, theonlyrao, mpindell, deborah
+* claudia, emily.blanchard, christinecgamble, patrickwhardy
+* jbernesser16, msjennygiraffe, colinosborn, jdliss
+* markmiranda, s-espinosa, drew.t, lingtran
+* jeneve.parrish, jared_roth, kamiboers, mdesmarteau
+* k_foss, alireza.andersen, marinacor, icorson3
+* e.mcc, topher105, josh_washke, thomp
+
+#### Station 3 Groups
+
+* josh_washke, patrickwhardy, topher105, jdliss
+* mdesmarteau, gurusundesh, jbernesser16, mpindell
+* s-espinosa, icorson3, markmiranda, lingtran
+* claudia, alireza.andersen, thomp, jeneve.parrish
+* msjennygiraffe, jared_roth, emily.blanchard, e.mcc
+* marinacor, drew.t, k_foss, kamiboers
+* christinecgamble, theonlyrao, colinosborn, deborah
 
 ### Paired Refactoring (11:00 - 12:00)
 
