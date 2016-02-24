@@ -58,9 +58,17 @@ Classroom B.
 
 ## 1511
 
-### Git Workflow (9:00 - 11:30)
+### Git Tips and Tricks (9:00 - 11:30)
 
 Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/git_redux.markdown). 
+
+* Scott Firestone & Nicholas Dorans & Brennan Holtzclaw
+* Kimiko Kano & Charles Ellison & July Tran
+* Heidi Hoopes & Chelsea Johnson & Adrienne Domingus
+* Nate Venn & Alexis Navarrete & Adam Hundley
+* Allan Blair & David Whitaker & Nick Weiland
+* Julian Feliciano & Admir Draganovic 
+* Brian Rippeto & Erinna Chen
 
 ### Rails Mini Project KickOff (11:30 - 12:00)
 
