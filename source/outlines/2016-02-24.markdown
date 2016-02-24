@@ -11,7 +11,10 @@ layout: outline
 
 ### Posse Challenge (8:30 - 9:00)
 
-Keep on Keeping on.
+This week we are focusing on Procs and Enumerables. If your posse writes implementation for other enumerables, please submit them as comments to this gist!
+
+[Code Challenge](https://gist.github.com/applegrain/744468d56507d000e9d4)
+
 
 ## 1508
 
@@ -38,6 +41,7 @@ Classroom C.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/blogger_performance_workshop.markdown)
 
 [Relevant](https://www.youtube.com/watch?v=jhUkGIsKvn0).
+
 
 ## 1510
 
@@ -68,7 +72,7 @@ Work away.
 
 ### Mid Module Assessments (1:00 - 4:00)
 
-With Rachel: 
+With Rachel:
 
 * Chelsea Johnson
 * David Whitaker
@@ -79,6 +83,7 @@ With Andrew:
 * Heidi Hoopes
 * Julian Feliciano
 * July Tran
+
 
 ## 1602
 
@@ -94,6 +99,42 @@ Horace taks over in Classroom A.
 
 Classroom A.
 
-### Work Time and One on ONes
+### Work Time and One on Ones (2:00 - 4:00)
 
-Schedule TBA.
+#### With Horace
+* 2:00 - Deborah Hamel
+* 2:10 - Emily Blanchard
+* 2:20 - Ashwin Rao
+* 2:30 - Jennifer Soden
+* 2:40 - Christopher Soden
+* 2:50 - Ilana Corson
+* 3:00 - BREAK
+* 3:10 - Gurusundesh Khalsa
+* 3:20 - Jeneve Parrish
+* 3:30 - Jared Roth
+
+#### With Nate
+* 2:00 - Claudia Kiesenhofer
+* 2:10 - Kami Boers
+* 2:20 - Colin Osborn
+* 2:30 - Joshua Washke
+* 2:40 - Patrick Hardy
+* 2:50 - Emily McClung
+* 3:00 - BREAK
+* 3:10 - Christine Gamble
+* 3:20 - Sal Espinosa
+* 3:30 - Matt Pindell
+
+#### With Mike
+* 2:00 - Thomas Pickett
+* 2:10 - Andrew Thompson
+* 2:20 - Kris Foss
+* 2:30 - Matt DesMarteau
+* 2:40 - Alireza Andersen
+* 2:50 - Mark Miranda
+* 3:00 - BREAK
+* 3:10 - Ling Tran
+* 3:20 - Marina Corona
+* 3:30 - Jonathan Bernesser
+
+

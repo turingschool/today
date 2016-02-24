@@ -11,7 +11,10 @@ layout: outline
 
 ### Posse Challenge (8:30 - 9:00)
 
-Deets incoming.
+This week we are focusing on Procs and Enumerables. If your posse writes implementation for other enumerables, please submit them as comments to this gist!
+
+[Code Challenge](https://gist.github.com/applegrain/744468d56507d000e9d4)
+
 
 ## 1508
 
@@ -41,6 +44,7 @@ Classroom C.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
 
+
 ## 1510
 
 ### Testing an Internal API (9:00 - 10:30)
@@ -68,7 +72,7 @@ Work Work. Finished? Check out [your homework](https://github.com/turingschool/h
 
 ### Mid Module Diagnostics (1:00 - 3:00)
 
-With Rachel: 
+With Rachel:
 
 * Adam Hundley
 * Alexis Navarrete
