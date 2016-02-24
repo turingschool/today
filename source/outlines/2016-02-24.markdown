@@ -72,11 +72,11 @@ Classroom B.[ Authorization Outline. ](https://github.com/turingschool/lesson_pl
 
 ### Authorization Work Time (1:00 - 4:00)
 
-Work away. Find your [classwork and homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown) listed in the homework repo. 
+Work away. Find your [classwork and homework](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown) listed in the homework repo.
 
 ### Experimenting with APIs (3:15 - 4:00)
 
-If you haven't yet started the [Experimenting with APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) tutorial, join Rachel in Classroom B. 
+If you haven't yet started the [Experimenting with APIs](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) tutorial, join Rachel in Classroom B.
 
 ### Mid Module Assessments (1:00 - 3:15)
 
@@ -111,15 +111,14 @@ Classroom A.
 
 #### With Horace
 * 2:00 - Deborah Hamel
-* 2:10 - Emily Blanchard
-* 2:20 - Ashwin Rao
-* 2:30 - Jennifer Soden
-* 2:40 - Christopher Soden
-* 2:50 - Ilana Corson
-* 3:00 - BREAK
-* 3:10 - Gurusundesh Khalsa
-* 3:20 - Jeneve Parrish
-* 3:30 - Jared Roth
+* 2:10 - Ashwin Rao
+* 2:20 - Jennifer Soden
+* 2:30 - Christopher Soden
+* 2:40 - Ilana Corson
+* 2:50 - BREAK
+* 3:00 - Gurusundesh Khalsa
+* 3:10 - Jeneve Parrish
+* 3:20 - Jared Roth
 
 #### With Nate
 * 2:00 - Claudia Kiesenhofer
