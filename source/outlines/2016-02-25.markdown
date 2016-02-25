@@ -168,7 +168,22 @@ With Andrew:
 
 Join Nate in Classroom A to pair up with a partner and refactor projects.
 
-Yesterday you did some cross-pair collaboration looking at ideas and approaches. Today let's focus on *applying* the refactoring techniques you studied earlier this week. It's probably best to just focus on one project during this time, so use the project of the person listed on the left below:
+Yesterday you did some cross-pair collaboration looking at ideas and approaches. Today let's focus on *applying* the refactoring techniques you studied earlier this week. It's probably best to just focus on one project during this time, so use the project of the pair above you:
+
+* Matt Pindell & Sal Espinosa
+* Joshua Washke & Marina Corona
+* Jonathan Liss & Andrew Thompson
+* Jonathan Bernesser & Gurusundesh Khalsa
+* Christopher Soden & Colin Osborn
+* Kris Foss & Ling Tran
+* Alireza Andersen & Christine Gamble
+* Claudia Kiesenhofer & Mark Miranda
+* Jennifer Soden & Patrick Hardy
+* Ashwin Rao
+* Jared Roth & Jeneve Parrish
+* Deborah Hamel & Thomas Pickett
+* Matthew DesMarteau & Ilana Corson
+* Kami Boers
 
 ### Work Time and One on Ones (1:00 - 4:00)
 
