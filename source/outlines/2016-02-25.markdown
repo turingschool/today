@@ -67,7 +67,7 @@ Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plan
 * Heidi Hoopes & Chelsea Johnson & Adrienne Domingus
 * Nate Venn & Alexis Navarrete & Adam Hundley
 * Allan Blair & David Whitaker & Nick Weiland
-* Julian Feliciano & Admir Draganovic 
+* Julian Feliciano & Admir Draganovic
 * Brian Rippeto & Erinna Chen
 
 ### Rails Mini Project KickOff (11:30 - 12:00)
@@ -102,21 +102,36 @@ With Andrew:
 
 ## 1602
 
-### Work Time and One on Ones (9:00 - 10:30)
+### Work Time and Check Ins (9:00 - 10:30)
+
+#### With Mike
+* 9:00 - Marina Corona & Joshua Washke
 
 #### With Horace
-* 9:00 - Deborah Hamel
-* 9:10 - Ashwin Rao
-* 9:20 - Jennifer Soden
-* 9:30 - Christopher Soden
-* 9:40 - Ilana Corson
-* 9:50 - BREAK
-* 10:00 - Gurusundesh Khalsa
-* 10:10 - Jeneve Parrish
-* 10:20 - Jared Roth
+* 9:00 - Kami Boers
+* 9:30 - Jonathan Liss & Andrew Thompson
+
+#### With Nate
+* 9:00 - Jeneve Parrish and Jared Roth
 
 ### Peer Refactoring (10:30 - 12:00)
 
-### Work Time (1:00 - 4:00)
+### Work Time and One on Ones (1:00 - 4:00)
+
+#### With Horace
+* 1:00 - Deborah Hamel
+* 1:10 - Ashwin Rao
+* 1:20 - Jennifer Soden
+* 1:30 - Christopher Soden
+* 1:40 - Ilana Corson
+* 1:50 - BREAK
+* 2:00 - Gurusundesh Khalsa
+* 2:10 - Jeneve Parrish
+* 2:20 - Jared Roth
+
+#### With Nate
+
+* 1:00 - Emily McClung
+* 1:10 - Colin Osborn
 
 Don't let your dreams be just dreams.
