@@ -141,14 +141,17 @@ With Andrew:
 ### Work Time and Check Ins (9:00 - 10:30)
 
 #### With Mike
-* 9:00 - Marina Corona & Joshua Washke
+* 9:00 - Marina Corona and Joshua Washke
+* 9:30 - Jeneve Parrish and Jared Roth
 
 #### With Horace
 * 9:00 - Kami Boers
-* 9:30 - Jonathan Liss & Andrew Thompson
+* 9:30 - Jonathan Liss and Andrew Thompson
+* 10:00 - Christopher Soden & Colin Osborn
 
 #### With Nate
-* 9:00 - Jeneve Parrish and Jared Roth
+* 9:00 - Patrick Hardy and Jennifer Soden
+* 9:30 - Ashwin Rao
 
 ### Peer Refactoring (10:30 - 12:00)
 
