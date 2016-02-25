@@ -20,7 +20,7 @@ At some point before 5pm today, please fill out and submit your survey:
 
 Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest. 
 
-## Gear Up (10:00 - 11:00
+## Gear Up (10:00 - 11:00)
 
 Gather in the Big Workspace. 
 
@@ -30,20 +30,18 @@ Gather in the Big Workspace.
 
 ## Student-Led Electives (3:00 - 4:00)
 
-* *Intro to Node.js* with Julian Feliciano: Interested in learning Node.js but terrified of all those curly braces, semi-colons and asynchronous talk? Join me as we break down the differences between Ruby and Node and build out some small applications to whet your appetite!
+* *Intro to Node.js* with Julian Feliciano in **Classroom A**: Interested in learning Node.js but terrified of all those curly braces, semi-colons and asynchronous talk? Join me as we break down the differences between Ruby and Node and build out some small applications to whet your appetite!
 
-* *Intro to Angular.js* with Matt Rooney & Matt Stjernhom: Learn the basics of AngularJS. The world’s most popular JS framework, even though it’s probably not the best... Jobs though?
+* *Intro to Angular.js* with Matt Rooney & Matt Stjernhom in **Classroom B**: Learn the basics of AngularJS. The world’s most popular JS framework, even though it’s probably not the best... Jobs though?
 
-* *Rails Application Templates & .railsrc files* with Toni Rib: For mod 2-4 students. Get a quick walkthrough on how to set up a template for a Rails application that will set up your custom gems and configuration every time you run the `rails new` command. Also go over setting up a .railsrc file. Good for anyone who ever forgets to include/setup postgres, database_cleaner, or whatever other things you have to remember to do at the beginning of every Rails project.
+* *Protocol Blog Writing Follow-Up: Writing Techniques* with Allison Reu Singer at **the Big Staff Table**: This session will dive more specifically into technical writing, focusing on how to write about code and other technical topics. We’ll look at exemplar blog posts on coding to critique the quality of their writing. Please bring a blog post that you are currently working on to share and get feedback.
 
-* *Protocol Blog Writing Follow-Up: Writing Techniques* with Allison Reu Singer: This session will dive more specifically into technical writing, focusing on how to write about code and other technical topics. We’ll look at exemplar blog posts on coding to critique the quality of their writing. Please bring a blog post that you are currently working on to share and get feedback.
+* *Environmental Responsibility GearUp Workshop* with Beth Sebian et. al. at **kitchen table in big workspace**: In this Friday's student-led workshop, we'll pilot the an environmental responsibility GearUp we've drafted, assess readings and explore additional resources, and dissect our proposed discussion questions. If you believe in GearUp, come; if you want more from GearUp, come and rabble-rouse.
 
-* *Environmental Responsibility GearUp Workshop* with Beth Sebian et. al.: In this Friday's student-led workshop, we'll pilot the an environmental responsibility GearUp we've drafted, assess readings and explore additional resources, and dissect our proposed discussion questions. If you believe in GearUp, come; if you want more from GearUp, come and rabble-rouse.
+* *Podcasting with Brennan* in **the closet**:  We’ll be talking about how to make a technical/programming-related podcast, that doesn’t suck! (which is hard)
 
-* *Podcasting with Brennan*:  We’ll be talking about how to make a technical/programming-related podcast, that doesn’t suck! (which is hard)
+* *Technical Interview Prep* with Allan Blair & Erinna Chen in **Classroom C**: Are you stressed about what a technical interview entails and feel completely unprepared? Don’t know how to write on a whiteboard? Come and get your questions answered about technical interviews, practice your Big-O notation, share your knowledge about those data structures and algorithms, and just generally keep those Ruby skills sharp.
 
-* *Technical Interview Prep* with Allan Blair & Erinna Chen: Are you stressed about what a technical interview entails and feel completely unprepared? Don’t know how to write on a whiteboard? Come and get your questions answered about technical interviews, practice your Big-O notation, share your knowledge about those data structures and algorithms, and just generally keep those Ruby skills sharp.
+* *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler in **Classroom B**: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
 
-* *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
-
-* *Module 4 Cover Letters and Resumes*​ with Sekhar Paladugu ​_[description pending]_​ (MODULE 4 STUDENTS ONLY)
+* *Module 4 Cover Letters and Resumes* with Sekhar Paladugu in **Horace's Lair** (MODULE 4 STUDENTS ONLY)
