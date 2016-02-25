@@ -11,26 +11,41 @@ layout: outline
 
 At some point before 5pm today, please fill out and submit your survey:
 
-* [1508]()
+* [1508](https://docs.google.com/forms/d/1CFX-DVFyYTyN0WfQaidfo5GgY25zYu8r5AXRI8nAXw8/viewform)
 * [1510]()
 * [1511](https://docs.google.com/forms/d/19k8QgkXQQkmBW-XHU7XzvI7yRK_UYCnhhdLcEn-nLkQ/viewform)
 * [1602](https://docs.google.com/forms/d/1qPWgx7FmKS-OM3wL-C_2G-2iMadOSnTCNoDQf10Xq90/viewform)
 
-### Instructional Time (9:00 - 10:00) 
+### Instructional Time (9:00 - 10:00)
+
+#### 1508
+
+Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
+##### Refactor Buddy Pairs
+* Jessica Goulding & Michael Wong
+* Jason Pilz & Robbie Lane
+* Torie Warren & Matt Rooney & Jill Donohue
+* Adam Jensen & Tyler Komoroske
+* Marlo Major & Ryan Johnson
+* Ross Edfort & Amber Crawford
+* Pat Wey & Aaron Careaga
+* Sekhar Paladugu & Emily Dowdle
+* Jhun de Andres & Matt Stjernholm
 
 #### 1511
 
-Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest. 
+Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest.
 
 ### Gear Up (10:00 - 11:00)
 
-Gather in the Big Workspace. 
+Gather in the Big Workspace.
 
 ### Guest Speaker: Rick Newman, VP of Engineering at WayIn (11:00 - 12:00)
 
-Gather in the Big Workspace. 
+Gather in the Big Workspace.
 
-### Lunch Roulette (12:00 - 1:15) 
+### Lunch Roulette (12:00 - 1:15)
 
 * Joseph Perry, Charles Ellison, Alireza Andersen, Allison
 * Greg Armstrong, Nate Venn, Andrew Thompson, Joanne
