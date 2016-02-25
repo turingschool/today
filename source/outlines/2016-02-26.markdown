@@ -16,6 +16,12 @@ At some point before 5pm today, please fill out and submit your survey:
 * [1511](https://docs.google.com/forms/d/19k8QgkXQQkmBW-XHU7XzvI7yRK_UYCnhhdLcEn-nLkQ/viewform)
 * [1602](https://docs.google.com/forms/d/1qPWgx7FmKS-OM3wL-C_2G-2iMadOSnTCNoDQf10Xq90/viewform)
 
+### Instructional Time (9:00 - 10:00) 
+
+#### 1511
+
+Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest. 
+
 ### Gear Up (10:00 - 11:00)
 
 Gather in the Big Workspace. 
@@ -23,6 +29,50 @@ Gather in the Big Workspace.
 ### Guest Speaker: Rick Newman, VP of Engineering at WayIn (11:00 - 12:00)
 
 Gather in the Big Workspace. 
+
+### Lunch Roulette (12:00 - 1:15) 
+
+* Joseph Perry, Charles Ellison, Alireza Andersen, Allison
+* Greg Armstrong, Nate Venn, Andrew Thompson, Joanne
+* David Whitaker, Aaron Greenspan, Ashwin Rao, Jeff C.
+* Christine Gamble, Edgar Duran, July Tran, Jorge
+* Nicholas Dorans, Christopher Soden, Beth Sebian, Marissa
+* Adrienne Domingus, Cole Hall, Claudia Kiesenhofer, Meeka
+* Aaron Careaga, Nick Weiland, Colin Osborn, Steve
+* Penney Garrett, Deborah Hamel,  Alexis Navarrete, Tess
+* Taylor Moore, Emily Blanchard, Julian Feliciano, Lovisa
+* Emily McClung, Chelsea Johnson, Robbie Lane, Josh
+* Scott Firestone, , Pat Wey, Gurusundesh Khalsa, Rachel
+* Justin Pease, Jared Roth, Ryan Johnson, Andrew
+* Toni Rib, Joshua Washke, Kimiko Kano, Nate
+* Erinna Chen, Matt Stjernholm, James Crockett, Mike
+* Admir Draganovic, Jennifer Soden, Tyler Komoroske, Horace
+* Charissa Lawrence, Adam Jensen, Jonathan Bernesser
+* Hector Huertas Baeza, Brian Rippeto, Thomas Pickett
+* Dan Winter, Jill Donohue, Ilana Corson, Heidi Hoopes
+* Jeneve Parrish, Jason Pilz, Beth Secor, Allan Blair
+* Emily Dowdle, Steven Olson, Jonathan Liss
+* Kami Boers, Adam Hundley, Lenny Myerson
+* Kris Foss, Brenna Martenson, Marlo Major
+* Ling Tran, Shannon Paige, Ross Edfort
+* Marina Corona, David Stinnette, Amber Crawford
+* John Slota, Mark Miranda, Matt Rooney
+* Matt DesMarteau, Jordan Lawler, Torie Warren
+* Matt Pindell, Jhun de Andres, Sekhar Paladugu
+* Patrick Hardy, Michael Wong, Steve Pentler
+* Sal Espinosa, Brant Wellman, Brennan Holtzclaw
+
+### Lightning Talks (2:15 - 3:00)
+
+* Brant Wellman - lolcommits gem and git commit messages
+* Hector Huertas Baeza - From Rails to Phoenix
+* James Crockett - Big O Notation
+* Jordan Lawler - The Great Ball Game
+* Marlo Major - How to Read a Book
+* Michael Wong - Ethics in Automation
+* Nicole Hall The Antikythera Mechanism
+* Adrienne Domingus: Disposal & "recycling" of electronics
+* Heidi Hoopes - < /XSS >: A Malicious User in a Robot World
 
 ### Student-Led Electives (3:00 - 4:00)
 
@@ -41,7 +91,3 @@ Gather in the Big Workspace.
 * *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler in **Classroom B**: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
 
 * *Module 4 Cover Letters and Resumes* with Sekhar Paladugu in **Horace's Lair** (MODULE 4 STUDENTS ONLY)
-
-## 1511 Instructional Time (9:00 - 10:00)
-
-Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest. 
