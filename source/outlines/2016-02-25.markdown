@@ -166,9 +166,14 @@ With Andrew:
 
 ### Peer Refactoring (10:30 - 12:00)
 
+Join Nate in Classroom A to pair up with a partner and refactor projects.
+
+Yesterday you did some cross-pair collaboration looking at ideas and approaches. Today let's focus on *applying* the refactoring techniques you studied earlier this week. It's probably best to just focus on one project during this time, so use the project of the person listed on the left below:
+
 ### Work Time and One on Ones (1:00 - 4:00)
 
 #### With Horace
+
 * 1:00 - Deborah Hamel
 * 1:10 - Ashwin Rao
 * 1:20 - Jennifer Soden
