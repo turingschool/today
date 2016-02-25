@@ -29,6 +29,11 @@ This morning you'll have time to put the finishing touches on your projects. Ste
 - [Submission Form](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/fecho-submission-form.markdown)
 - Blog post will be reviewed over the weekend.
 
+When not in Evals - work on Building and Testing Express Application.
+
+Get a head start on next week by working on [Building and Testing Express Applications](https://github.com/turingschool-examples/pizza-express)
+
+
 ##### Schedule
 
 - Robbie and Ross
