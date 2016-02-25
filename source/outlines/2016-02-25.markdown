@@ -17,13 +17,19 @@ Things need doing. You can do them.
 
 ## 1508
 
-### Fecho
+### Front-end Project
 
 ### Work Time (9:00 - 12:00)
 
 This morning you'll have time to put the finishing touches on your projects. Steve will be around for questions when he's not doing one-on-ones.
 
 #### Project Evals (1:00 - 4:00)
+
+- [Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/bartleby_project.markdown)
+- [Submission Form](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/scale-up/fecho-submission-form.markdown)
+- Blog post will be reviewed over the weekend.
+
+##### Schedule
 
 - Robbie and Ross
 - Tyler and Marlo
