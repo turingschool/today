@@ -45,7 +45,37 @@ Get a head start on next week by working on [Building and Testing Express Applic
 
 ### Rails Engine Evals (9:00 - 11:30)
 
-Schedule TBA.
+#### With Lovisa:
+
+* Justin Pease
+* Hector Huertas Baeza
+* Jordan Lawler
+* Brenna Martenson
+* Shannon Paige
+* Taylor Moore
+* David Stinnette
+
+#### With Josh:
+
+* Edgar Duran
+* Toni Rib
+* Cole Hall
+* John Slota
+* Lenny Myerson
+* Steven Olson
+* Dan Winter
+* Steve Pentler
+
+#### With Tess:
+
+* Beth Sebian
+* Penney Garrett
+* Beth Secor
+* Greg Armstrong
+* Aaron Greenspan
+* James Crockett
+* Joseph Perry
+* Brant Wellman
 
 ### Self Directed Projects Intro (1:00 - 2:00)
 
@@ -67,7 +97,7 @@ Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plan
 * Heidi Hoopes & Chelsea Johnson & Adrienne Domingus
 * Nate Venn & Alexis Navarrete & Adam Hundley
 * Allan Blair & David Whitaker & Nick Weiland
-* Julian Feliciano & Admir Draganovic 
+* Julian Feliciano & Admir Draganovic
 * Brian Rippeto & Erinna Chen
 
 ### Rails Mini Project KickOff (11:30 - 12:00)
