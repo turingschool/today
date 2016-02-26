@@ -143,6 +143,7 @@ Gather in the Big Workspace.
 * *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler in **Classroom B**: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
 
 * *Module 4 Cover Letters and Resumes* with Sekhar Paladugu in **Horace's Lair** (MODULE 4 STUDENTS ONLY)
+
 ## 1508
 
 Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
