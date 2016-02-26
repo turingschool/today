@@ -143,6 +143,7 @@ Gather in the Big Workspace.
 * *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler in **Classroom B**: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
 
 * *Module 4 Cover Letters and Resumes* with Sekhar Paladugu in **Horace's Lair** (MODULE 4 STUDENTS ONLY)
+
 ## 1508
 
 Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
@@ -160,6 +161,10 @@ Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://
 
 ## 1510
 
+"I'm just a PORO. Nobody loves me." - Queen
+
+Join Josh in the Big Workspace to discuss a few ways to use POROs in Rails.
+
 ## 1511
 
 Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest.
@@ -175,9 +180,8 @@ You project for the final 2 weeks will deal extensively with CSV files and data 
 ### Project Evaluations (9:00 - 10:30)
 
 #### With Horace
-* 9:00 - Matt DesMarteau & Ilana Corson
-* 9:30 - Kami Boers
-* 10:00 - Ashwin Rao
+* 9:00 - Kami Boers
+* 9:30 - Ashwin Rao
 
 #### With Nate
 * 9:00 - Jonathan Bernesser & Gurusundesh Khalsa
@@ -187,15 +191,14 @@ You project for the final 2 weeks will deal extensively with CSV files and data 
 #### With Mike
 * 9:00 - Alireza Andersen & Christine Gamble
 * 9:30 - Claudia Kiesenhofer & Mark Miranda
-* 10:00 - Jennifer Soden & Patrick Hardy
 
 #### With Tess
-* 9:00 - Matt Pindell & Sal Espinosa
+* 9:00 - Matt DesMarteau & Ilana Corson
 * 9:30 - Joshua Washke & Marina Corona
 
 #### With Lovisa
 * 9:00 - Deborah Hamel & Thomas Pickett
-* 9:30 - Jared Roth & Jeneve Parrish
+* 9:30 - Jennifer Soden & Patrick Hardy
 
 #### With Andrew
 * 9:00 - Jonathan Liss & Andrew Thompson
