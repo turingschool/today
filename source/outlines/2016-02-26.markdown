@@ -10,7 +10,7 @@ layout: outline
 * parapraxis - noun - a slip of the tongue or pen, forgetfulness, misplacement of objects, or other error
 thought to reveal unconscious wishes or attitudes.
 
-Jorge committed a parapraxis when he said how much he loved semicolons.
+Jorge committed a parapraxis when he said how much he loved semicolons. Wrap-up, punks.
 
 ### Posse Challenge Show and Tell (8:30 - 9:00)
 
@@ -64,6 +64,14 @@ of everything you need at your group. For future reference the [plan with links 
 
 
 ### Guest Speaker: Rick Newman, VP of Engineering at WayIn (11:00 - 12:00)
+
+Rick Newman has around 20 years of experience in the tech industry. He has worked Director of Engineering, Scrum Master, Software Developer and QA Engineer for places like Target, Rally Software, ReadyTalk and Wayin.
+
+You can learn more about him here:
+
+* [LinkedIn](https://www.linkedin.com/in/newmanrick)
+* [Twitter](https://twitter.com/Yzard)
+* [Waying](http://wayin.com)
 
 Gather in the Big Workspace.
 
@@ -135,6 +143,7 @@ Gather in the Big Workspace.
 * *maxMSP & Jitter, Creating realtime dynamic audio/visual experiences* with Jordan Lawler in **Classroom B**: Max MSP is a visual GUI language comparable to Pure Data that allows for efficient,  intuitive, and dynamic audio/visual processing. (It allows you to do really really cool things with media).
 
 * *Module 4 Cover Letters and Resumes* with Sekhar Paladugu in **Horace's Lair** (MODULE 4 STUDENTS ONLY)
+
 ## 1508
 
 Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
@@ -152,11 +161,21 @@ Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://
 
 ## 1510
 
+"I'm just a PORO. Nobody loves me." - Queen
+
+Join Josh in the Big Workspace to discuss a few ways to use POROs in Rails.
+
 ## 1511
 
 Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest.
 
 ## 1602
+
+### EventManager
+
+When you're not being evaluated, start working on your homework for the weekend, [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+You project for the final 2 weeks will deal extensively with CSV files and data processing. EventManager will introduce and give you practice with these concepts.
 
 ### Project Evaluations (9:00 - 10:30)
 
