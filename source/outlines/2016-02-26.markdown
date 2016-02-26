@@ -77,7 +77,14 @@ Gather in the Big Workspace.
 * Patrick Hardy, Michael Wong, Steve Pentler
 * Sal Espinosa, Brant Wellman, Brennan Holtzclaw
 
-### Lightning Talks (2:15 - 3:00)
+### Group Retro (1:15 - 1:50)
+
+* 1508 - Big Workspace
+* 1510 - Classroom B
+* 1511 - Classroom C
+* 1602 - Classroom A
+
+### Lightning Talks (2:00 - 3:00)
 
 * Brant Wellman - lolcommits gem and git commit messages
 * Hector Huertas Baeza - From Rails to Phoenix
