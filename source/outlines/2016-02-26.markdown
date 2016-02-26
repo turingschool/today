@@ -116,13 +116,13 @@ Gather in the Big Workspace.
 
 ### Lightning Talks (2:00 - 3:00)
 
+* Nicole Hall The Antikythera Mechanism
 * Brant Wellman - lolcommits gem and git commit messages
 * Hector Huertas Baeza - From Rails to Phoenix
 * James Crockett - Big O Notation
 * Jordan Lawler - The Great Ball Game
 * Marlo Major - How to Read a Book
 * Michael Wong - Ethics in Automation
-* Nicole Hall The Antikythera Mechanism
 * Adrienne Domingus: Disposal & "recycling" of electronics
 * Heidi Hoopes - < /XSS >: A Malicious User in a Robot World
 
