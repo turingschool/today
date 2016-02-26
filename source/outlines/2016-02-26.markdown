@@ -160,6 +160,10 @@ Join Meeka in Classroom C to work through the [Refactor Tractor lesson](https://
 
 ## 1510
 
+"I'm just a PORO. Nobody loves me." - Queen
+
+Join Josh in the Big Workspace to discuss a few ways to use POROs in Rails.
+
 ## 1511
 
 Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Chest.
