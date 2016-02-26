@@ -39,7 +39,39 @@ Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Ches
 
 ### Gear Up (10:00 - 11:00)
 
-Gather in the Big Workspace.
+Today we're trying some new things with Gear Up. People have volunteered to be
+the group facilitators. Please find your group in the room below.
+
+Please bring your **notebook** and **pen** but you won't need a computer. There'll be printouts
+of everything you need at your group. For future reference the [plan with links is here](https://github.com/turingschool/gear-up/blob/master/allyship.markdown).
+
+#### In Classroom A
+
+* *Allan Blair* with Scott Firestone & Matt Pindell & Ashwin Rao & Gurusundesh Khalsa & Hector Huertas Baeza
+* *Beth Sebian* with Mark Miranda & Alexis Navarrete & David Whitaker & Emily McClung & Patrick Hardy
+* *Nicholas Dorans* with Marina Corona & Jason Pilz & Brant Wellman & Torie Warren & Dan Winter
+* *Shannon Paige* with Cole Hall & Deborah Hamel & Christopher Soden & Sal Espinosa
+
+#### In Classroom B
+
+* *Aaron Greenspan* with Ilana Corson & Kimiko Kano & Ryan Johnson & Aaron Careaga & John Slota
+* *Brenna Martenson* with Julian Feliciano & Adam Hundley & James Crockett & Jonathan Bernesser & Andrew Thompson
+* *David Stinnette* with Ling Tran & Justin Pease & Jordan Lawler & Kris Foss
+* *Ross Edfort* with Alireza Andersen & Michael Wong & Steve Pentler & Adam Jensen
+
+#### In Classroom C
+
+* *Sekhar Paladugu* with Joshua Washke & Nick Weiland & Tyler Komoroske & Steven Olson & Charles Ellison
+* *Erinna Chen* with Joseph Perry & Brennan Holtzclaw & Claudia Kiesenhofer & Pat Wey & Matt Stjernholm
+* *Jhun de Andres* with Matt DesMarteau & Jennifer Soden & Thomas Pickett & Toni Rib & Taylor Moore
+
+#### In the Workspace
+
+* *Jill Donohue* with Brian Rippeto & Greg Armstrong & Christine Gamble & Jeneve Parrish
+* *July Tran* with Jared Roth & Robbie Lane & Nate Venn & Lenny Myerson & Chelsea Johnson
+* *Kami Boers* with Amber Crawford & Admir Draganovic & Matt Rooney & Emily Dowdle & Edgar Duran
+* *Penney Garrett* with Adrienne Domingus & Beth Secor & Heidi Hoopes & Colin Osborn & Jonathan Liss
+
 
 ### Guest Speaker: Rick Newman, VP of Engineering at WayIn (11:00 - 12:00)
 
