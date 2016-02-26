@@ -1,0 +1,65 @@
+---
+title: 20160226
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* parapraxis - noun - a slip of the tongue or pen, forgetfulness, misplacement of objects, or other error
+thought to reveal unconscious wishes or attitudes.
+
+Jorge committed a parapraxis when he said how much he loved semicolons.
+
+### Posse Challenge Show and Tell (8:30 - 9:00)
+
+* Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth: in the big workspace with @horace
+* Ada Lovelace, Grace Hopper, James Golick, Weirich Posse:  in classroom B with @carmer
+* Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto: in classroom A with @nate
+
+### Surveys
+
+At some point before 5pm today, please fill out and submit your survey:
+
+* [1508]()
+* [1510]()
+* [1511]()
+* [1602]()
+
+## 1508
+
+## 1510
+
+## 1511
+
+## 1602
+
+### Project Evaluations (9:00 - 10:30)
+
+#### With Horace
+* 9:00 - Kami Boers
+* 9:30 - Matt DesMarteau & Ilana Corson
+* 10:00- Ashwin Rao
+
+#### With Nate
+* 9:00 - Jonathan Bernesser & Gurusundesh Khalsa
+* 9:30 - Christopher Soden  & Colin Osborn
+* 10:00 - Kris Foss & Ling Tran
+
+#### With Mike
+* 9:00 - Alireza Andersen & Christine Gamble
+* 9:30 - Claudia Kiesenhofer & Mark Miranda
+* 10:00 - Jennifer Soden & Patrick Hardy
+
+#### With Tess
+* 9:00 - Matt Pindell & Sal Espinosa
+* 9:30 - Joshua Washke & Marina Corona
+* 10:00 - Jared Roth & Jeneve Parrish
+
+#### With Lovisa
+* 9:00 - Deborah Hamel & Thomas Pickett
+* 10:00 - Jared Roth & Jeneve Parrish
+* 10:00 - Jonathan Liss & Andrew Thompson
+
+
