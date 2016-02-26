@@ -158,6 +158,12 @@ Join Rachel in Classroom B to recap and refactor one lucky voluntold's Tool Ches
 
 ## 1602
 
+### EventManager
+
+When you're not being evaluated, start working on your homework for the weekend, [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html).
+
+You project for the final 2 weeks will deal extensively with CSV files and data processing. EventManager will introduce and give you practice with these concepts.
+
 ### Project Evaluations (9:00 - 10:30)
 
 #### With Horace
