@@ -10,7 +10,7 @@ layout: outline
 * parapraxis - noun - a slip of the tongue or pen, forgetfulness, misplacement of objects, or other error
 thought to reveal unconscious wishes or attitudes.
 
-Jorge committed a parapraxis when he said how much he loved semicolons.
+Jorge committed a parapraxis when he said how much he loved semicolons. Wrap-up, punks.
 
 ### Posse Challenge Show and Tell (8:30 - 9:00)
 
@@ -64,6 +64,14 @@ of everything you need at your group. For future reference the [plan with links 
 
 
 ### Guest Speaker: Rick Newman, VP of Engineering at WayIn (11:00 - 12:00)
+
+Rick Newman has around 20 years of experience in the tech industry. He has worked Director of Engineering, Scrum Master, Software Developer and QA Engineer for places like Target, Rally Software, ReadyTalk and Wayin.
+
+You can learn more about him here:
+
+* [LinkedIn](https://www.linkedin.com/in/newmanrick)
+* [Twitter](https://twitter.com/Yzard)
+* [Waying](http://wayin.com)
 
 Gather in the Big Workspace.
 
