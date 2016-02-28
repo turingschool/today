@@ -1,0 +1,75 @@
+---
+title: 20160229
+layout: outline
+---
+
+## All
+
+### Word of the Day:
+
+* premiate - verb - to grand a prize or an award to
+
+### Friday Lunch Roulette Groups
+
+Groups TBD.
+
+### Posse Challenge - (8:30 - 9:00)
+
+Details forthcoming.
+
+### Protocol (3:00 - 4:00)
+
+
+## 1508
+
+### Thoughtbox Kickoff (9:00 - 9:30)
+
+Big Workspace.
+
+### Thoughtbox Work Time (9:30 - 3:00)
+
+Box that Thought.
+
+
+## 1510
+
+### Working with AJAX (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 3:00)
+
+Work.
+
+
+## 1511
+
+### Mini Project Show and Tell (9:00 - 9:30)
+
+Classroom C.
+
+### Little Shop Kick Off (9:30 - 10:00)
+
+Groups TBD.
+
+### Cart and Order Lifecycle (10:00 - 12:00)
+
+Stuff goes in the cart.
+
+### Little Shop Work Time (1:00 - 3:00)
+
+Work.
+
+
+## 1602
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+### Project Kick Off (10:30 - 11:30)
+
+### Project DTR (11:30 - 12:00)
+
+### Team Building (1:00 - 3:00)
+
+
+
