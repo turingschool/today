@@ -42,6 +42,10 @@ layout: outline
 
 Details forthcoming.
 
+### Productivity Lunch (12:00 - 1:00)
+
+Classroom C. Join #productivity-lunch for details
+
 ### Protocol (3:00 - 4:00)
 
 
@@ -55,12 +59,33 @@ Big Workspace.
 
 Box that Thought.
 
+### One on Ones (9:30 - 3:30)
+
+#### With Meeka
+
+- 9:30: Jhunbug
+- 10:00: Ryan
+- 10:30: Marlo
+- 11:00: Jason
+- 1:30: Sekhar <3
+- 2:30: Amber
+
+#### With Steve
+
+- 9:30: Ross
+- 10:00: Sekhar <3
+- 10:30: Emily
+- 11:00: Marlo
+- 1:30: Matt S.
+- 2:00: Adam
+- 2:30: Aaron
 
 ## 1510
 
 ### Working with AJAX (9:00 - 12:00)
 
-Classroom B.
+Join Tess in classroom B to asynchronously send some Javascript (but not XML).
+Lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
 
 ### Project Work Time (1:00 - 3:00)
 
@@ -71,11 +96,25 @@ Work.
 
 ### Mini Project Show and Tell (9:00 - 9:30)
 
-Classroom C.
+Classroom C. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. Things you might want to look at:
+
+* How is admin functionality protected? Is it possible for a regular user to access routes like `'/admin/categories/new'`? Why or why not?
+* Are any APIs used? Show the code implementation.
+* What is intuitive from a user perspective and what could use more refinement?
+* Any extra features?
+
+#### Groups:
+
+* Kimiko Kano & Adam Hundley & Charles Ellison
+* Alexis Navarrete & Allan Blair & Adrienne Domingus
+* Brian Rippeto & Nicholas Dorans & Nick Weiland
+* Chelsea Johnson & Scott Firestone & Julian Feliciano
+* David Whitaker &  & Heidi Hoopes & Brennan Holtzclaw
+* Nate Venn & Erinna Chen & Admir Draganovic & July Tran
 
 ### Little Shop Kick Off (9:30 - 10:00)
 
-Groups TBD.
+Pitch time! Stay in Classroom C.
 
 ### Cart and Order Lifecycle (10:00 - 12:00)
 
@@ -91,6 +130,7 @@ Work.
 ### Practicing Remote Pairing (9:00 - 10:30)
 
 ### Project Kick Off (10:30 - 11:30)
+
 * Jared Roth & Alireza Andersen
 * Matt DesMarteau & Christine Gamble
 * Claudia Kiesenhofer & Patrick Hardy
@@ -105,6 +145,34 @@ Work.
 * Colin Osborn & Jonathan Liss
 * Ashwin Rao & Jennifer Soden
 
+It's time to start your final project of the module. Some things to note:
+
+* This project will be due at 9AM on Thursday, March 10
+* You will work in a pair and submit one repository
+* As a pair you will choose between two projects
+* Your project will be assessed by an instructor with the help of an automated test harness
+* You need to pass this project ('3' in each rubric category) to pass the module
+
+#### Choice 1: Headcount
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+#### Choice 2: Black Thursday
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
 ### Project DTR (11:30 - 12:00)
 
+Spend at least 30 minutes before lunch DTRing:
+
+* What's gone well/poorly with your past projects?
+* What did you do during the break to reinforce your learning?
+* What are your learning goals for the project?
+* What do you need to do your best work?
+* How do you collaborate best? How do you feel about pair programming vs divide-and-conquer approaches?
+* What are your scheduling constraints and preferences?
+* How will you know if the project is successful?
+
 ### Team Building (1:00 - 3:00)
+
+Gather in Classroom A for another round of Improv.
