@@ -95,11 +95,25 @@ Work.
 
 ### Mini Project Show and Tell (9:00 - 9:30)
 
-Classroom C.
+Classroom C. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. Things you might want to look at:
+
+* How is admin functionality protected? Is it possible for a regular user to access routes like `'/admin/categories/new'`? Why or why not? 
+* Are any APIs used? Show the code implementation. 
+* What is intuitive from a user perspective and what could use more refinement? 
+* Any extra features? 
+
+#### Groups: 
+
+* Kimiko Kano & Adam Hundley & Charles Ellison 
+* Alexis Navarrete & Allan Blair & Adrienne Domingus
+* Brian Rippeto & Nicholas Dorans & Nick Weiland
+* Chelsea Johnson & Scott Firestone & Julian Feliciano
+* David Whitaker &  & Heidi Hoopes & Brennan Holtzclaw
+* Nate Venn & Erinna Chen & Admir Draganovic & July Tran
 
 ### Little Shop Kick Off (9:30 - 10:00)
 
-Groups TBD.
+Pitch time! Stay in Classroom C. 
 
 ### Cart and Order Lifecycle (10:00 - 12:00)
 
