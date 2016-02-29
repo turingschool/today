@@ -130,6 +130,7 @@ Work.
 ### Practicing Remote Pairing (9:00 - 10:30)
 
 ### Project Kick Off (10:30 - 11:30)
+
 * Jared Roth & Alireza Andersen
 * Matt DesMarteau & Christine Gamble
 * Claudia Kiesenhofer & Patrick Hardy
@@ -144,6 +145,34 @@ Work.
 * Colin Osborn & Jonathan Liss
 * Ashwin Rao & Jennifer Soden
 
+It's time to start your final project of the module. Some things to note:
+
+* This project will be due at 9AM on Thursday, March 10
+* You will work in a pair and submit one repository
+* As a pair you will choose between two projects
+* Your project will be assessed by an instructor with the help of an automated test harness
+* You need to pass this project ('3' in each rubric category) to pass the module
+
+#### Choice 1: Headcount
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+#### Choice 2: Black Thursday
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
 ### Project DTR (11:30 - 12:00)
 
+Spend at least 30 minutes before lunch DTRing:
+
+* What's gone well/poorly with your past projects?
+* What did you do during the break to reinforce your learning?
+* What are your learning goals for the project?
+* What do you need to do your best work?
+* How do you collaborate best? How do you feel about pair programming vs divide-and-conquer approaches?
+* What are your scheduling constraints and preferences?
+* How will you know if the project is successful?
+
 ### Team Building (1:00 - 3:00)
+
+Gather in Classroom A for another round of Improv.
