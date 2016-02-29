@@ -1,0 +1,126 @@
+---
+title: 20160307
+layout: outline
+---
+
+## All
+
+### Word of the Day:
+
+* tenet - noun - any opinion, principle, dogma, belief, or doctrine that a
+person holds or maintains as true.
+
+
+## 1508
+
+### Dangerous Denver Kick Off (9:00 - 10:00)
+
+### Real Time Evaluations (10:00 - 12:00)
+
+#### With Meeka
+* 10:00 - Tyler Komoroske
+* 10:30 - Aaron Careaga
+* 11:00 - Matt Stjernholm
+* 11:30 - Jill Donohue
+
+### With Jorge
+* 10:00 - Robbie Lane
+* 10:30 - Matt Rooney
+* 11:00 - Sekhar Paladugu
+* 11:30 - Emily Dowdle
+
+
+### Real Time Evaluations (1:00 - 4:00)
+
+#### With Meeka
+* 1:00 - Ryan Johnson
+* 1:30 - Adam Jensen
+* 2:00 - Jason Pilz
+* 2:30 - Ross Edfort
+* 3:00 - Michael Wong
+
+#### With Tess
+* 1:00 - Marlo Major
+* 1:30 - Pat Wey
+* 2:00 - Jhun de Andres
+* 2:30 - Amber Crawford
+* 3:00 - Torie Warren
+
+
+## 1510
+
+### Getting Started With Workers (9:00 - 12:00)
+
+Join Josh in Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+Work
+
+
+## 1511
+
+### Introduction to JavaScript (9:00 - 12:00)
+
+Join Andrew in Classroom C.
+
+### Little Shop Work Time and Checkins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1602
+
+### Higher Order Ruby: Writing Methods that Accept Blocks (9:00 - 10:30)
+
+Classroom A.
+
+### Final Assessments (10:30 - 12:00)
+
+#### With Nate
+* 10:30 - Colin Osborn
+* 11:00 - Emily McClung
+* 11:30 - Ilana Corson
+
+#### With Horace
+* 10:30 - Ashwin Rao
+* 11:00 - Kami Boers
+* 11:30 - Jennifer Soden
+
+#### With Mike
+* 10:30 - Marina Corona
+* 11:00 - Matt Pindell
+* 11:30 - Joshua Washke
+
+#### With Lovisa
+* 10:30 - Mark Miranda
+* 11:00 - Patrick Hardy
+* 11:30 - Christopher Soden
+
+#### With Tess
+* 10:30 - Drew Thompson
+* 11:00 - Sal Espinosa
+* 11:30 - Deborah Hamel
+
+#### With Rachel
+* 10:30 - Jared Roth
+* 11:00 - Thomas Pickett
+* 11:30 - Christine Gamble
+
+### Final Assessments Episode V: The Assessment Stikes Back (1:00 - 4:00)
+
+#### With Nate
+* 1:00 - Matt DesMarteau
+* 1:30 - Gurusundesh Khalsa
+* 2:00 - Alireza Andersen
+
+#### With Horace
+* 1:00 - Claudia Kiesenhofer
+* 1:30 - Kris Foss
+* 2:00 - Jonathan Liss
+
+#### With Mike
+* 1:00 - Ling Tran
+* 1:30 - Jeneve Parrish
+* 2:00 - Jonathan Bernesser
+
