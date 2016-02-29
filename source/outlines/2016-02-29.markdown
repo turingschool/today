@@ -122,7 +122,16 @@ Stuff goes in the cart. [This cart.](https://github.com/turingschool/lesson_plan
 
 ### Little Shop Kick Off and Work Time (1:00 - 3:00)
 
-Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown) and here's the [DTR Memo Outline](https://gist.github.com/rwarbelow/0fed3529495a814eabb1). 
+Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown) and here's the [DTR Memo Outline](https://gist.github.com/rwarbelow/0fed3529495a814eabb1).
+
+When you're ready to pitch your idea, sign up on the whiteboard for a slot.
+
+Next steps:
+
+* Generate a new Rails project for your little shop. Don't forget to use Postgres for your database.
+* Create a waffle.io and add Rachel (rwarbelow) and Andrew (Carmer) as collaborators.
+* Push to Heroku, and get in the habit of pushing to Heroku frequently.
+* Create wireframes for most important views: Think about what you think the workflow should be on the site. Which of those views is most important? In addition to the home page wireframe, create wireframes for the next two most important pages. Examples might be: A users' profile page, a product page, an admin dashboard etc.
 
 *Not Napster*:
 
