@@ -66,6 +66,7 @@ Box that Thought.
 - 9:30: Jhunbug
 - 10:00: Ryan
 - 10:30: Marlo
+- 11:00: Jason
 - 1:30: Sekhar <3
 - 2:30: Amber
 
@@ -97,14 +98,14 @@ Work.
 
 Classroom C. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. Things you might want to look at:
 
-* How is admin functionality protected? Is it possible for a regular user to access routes like `'/admin/categories/new'`? Why or why not? 
-* Are any APIs used? Show the code implementation. 
-* What is intuitive from a user perspective and what could use more refinement? 
-* Any extra features? 
+* How is admin functionality protected? Is it possible for a regular user to access routes like `'/admin/categories/new'`? Why or why not?
+* Are any APIs used? Show the code implementation.
+* What is intuitive from a user perspective and what could use more refinement?
+* Any extra features?
 
-#### Groups: 
+#### Groups:
 
-* Kimiko Kano & Adam Hundley & Charles Ellison 
+* Kimiko Kano & Adam Hundley & Charles Ellison
 * Alexis Navarrete & Allan Blair & Adrienne Domingus
 * Brian Rippeto & Nicholas Dorans & Nick Weiland
 * Chelsea Johnson & Scott Firestone & Julian Feliciano
@@ -113,7 +114,7 @@ Classroom C. This your chance to show off the mini-project you built over the we
 
 ### Little Shop Kick Off (9:30 - 10:00)
 
-Pitch time! Stay in Classroom C. 
+Pitch time! Stay in Classroom C.
 
 ### Cart and Order Lifecycle (10:00 - 12:00)
 
