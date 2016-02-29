@@ -54,7 +54,7 @@ Groups TBD.
 
 ### Cart and Order Lifecycle (10:00 - 12:00)
 
-Stuff goes in the cart.
+Stuff goes in the cart. [This cart.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown) Classroom C.
 
 ### Little Shop Work Time (1:00 - 3:00)
 
@@ -83,6 +83,3 @@ Work.
 ### Project DTR (11:30 - 12:00)
 
 ### Team Building (1:00 - 3:00)
-
-
-
