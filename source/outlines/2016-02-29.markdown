@@ -48,6 +48,19 @@ Classroom C. Join #productivity-lunch for details
 
 ### Protocol (3:00 - 4:00)
 
+Protocol 2/29/16: Pull Requests, Code Review, and ReadMes
+
+Time: 60 mins.
+
+4 Groups:
+
+Allison/Horace (Classroom A): 22 Brenna Martenson, Admir Draganovic, Sekhar Paladugu, Alireza Andersen, Ross Edfort, David Stinnette, Andrew Thompson, Heidi Hoopes, Pat Wey, Adam Hundley, Ashwin Rao, Steven Olson, Edgar Duran, Torie Warren, Christine Gamble, Nick Weiland, Adam Jensen, Cole Hall, Christopher Soden, Brennan Holtzclaw, Claudia Kiesenhofer, James Crockett
+
+Rachel/Nate (Classroom B): 22 Chelsea Johnson, Tyler Komoroske, Beth Secor, Colin Osborn, Adrienne Domingus, Jhun de Andres, Charissa Lawrence, Michael Wong, Deborah Hamel, Julian Feliciano, Emily McClung, Aaron Greenspan, Alexis Navarrete, Aaron Careaga, Gurusundesh Khalsa, Dan Winter, Marlo Major, Charles Ellison, Jordan Lawler, Ilana Corson, Emily Dowdle, Nate Venn
+
+Mike/Andrew (Big Workspace): 22 Jared Roth, John Slota, Ryan Johnson, Allan Blair, Erinna Chen, Lenny Myerson, Jeneve Parrish, Jill Donohue, Matt Stjernholm, Shannon Paige, Brian Rippeto, Jennifer Soden, Joseph Perry, Jonathan Bernesser, Scott Firestone, Jason Pilz, Taylor Moore, Jonathan Liss, David Whitaker, Matt Rooney, Joshua Washke, Toni Rib
+
+Meeka/Lovisa (Classroom C): 22 July Tran, Kami Boers, Amber Crawford, Beth Sebian, Brant Wellman, Kris Foss, Kimiko Kano, Justin Pease, Nicholas Dorans, Ling Tran, Marina Corona, Steve Pentler, Mark Miranda, Penney Garrett, Matt DesMarteau, Greg Armstrong, Hector Huertas Baeza, Matt Pindell, Patrick Hardy, Sal Espinosa, Thomas Pickett, Robbie Lane
 
 ## 1508
 
@@ -140,19 +153,19 @@ Next steps:
 * Admir
 * Julian
 
-*Selling Luck*: 
+*Selling Luck*:
 
 * Brennan
 * Erinna
 * Kimi
 
-*UX Focus*: 
+*UX Focus*:
 
 * Nick W.
 * David
 * Adam
 
-*Custom Hungry*: 
+*Custom Hungry*:
 
 * Nate
 * Nick D.
@@ -162,7 +175,7 @@ Next steps:
 
 * Brian
 * Heidi
-* July 
+* July
 
 *The World Is Your Oyster #2*:
 
