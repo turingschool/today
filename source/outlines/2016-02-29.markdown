@@ -120,10 +120,46 @@ Pitch time! Stay in Classroom C.
 
 Stuff goes in the cart. [This cart.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown) Classroom C.
 
-### Little Shop Work Time (1:00 - 3:00)
+### Little Shop Kick Off and Work Time (1:00 - 3:00)
 
-Work.
+Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
 
+*Not Napster*:
+
+* Scott
+* Alex
+* Admir
+* Julian
+
+*Selling Luck*: 
+
+* Brennan
+* Erinna
+* Kimi
+
+*UX Focus*: 
+
+* Nick W.
+* David
+* Adam
+
+*Custom Hungry*: 
+
+* Nate
+* Nick D.
+* Chad
+
+*The World Is Your Oyster #1*:
+
+* Brian
+* Heidi
+* July 
+
+*The World Is Your Oyster #2*:
+
+* Chelsea
+* Adrienne
+* Allan
 
 ## 1602
 
