@@ -61,7 +61,8 @@ Box that Thought.
 
 ### Working with AJAX (9:00 - 12:00)
 
-Classroom B.
+Join Tess in classroom B to asynchronously send some Javascript (but not XML).
+Lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
 
 ### Project Work Time (1:00 - 3:00)
 
