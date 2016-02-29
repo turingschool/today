@@ -122,7 +122,7 @@ Stuff goes in the cart. [This cart.](https://github.com/turingschool/lesson_plan
 
 ### Little Shop Kick Off and Work Time (1:00 - 3:00)
 
-Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown). 
+Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown) and here's the [DTR Memo Outline](https://gist.github.com/rwarbelow/0fed3529495a814eabb1). 
 
 *Not Napster*:
 
