@@ -48,6 +48,8 @@ Classroom C. Join #productivity-lunch for details
 
 ### Protocol (3:00 - 4:00)
 
+[Slides](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
+
 Protocol 2/29/16: Pull Requests, Code Review, and ReadMes
 
 Time: 60 mins.
