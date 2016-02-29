@@ -18,7 +18,7 @@ layout: outline
 * Claudia Kiesenhofer, Brant Wellman, Alexis Navarrete, Rachel
 * Aaron Greenspan, Adam Jensen, Chelsea Johnson, Josh
 * Edgar Duran, Amber Crawford, Erinna Chen, Lovisa
-* Emily Blanchard, David Whitaker, Chad Minnerath, Tess
+* Ilana Corson, Toni Rib, Allan Blair, Tess
 * Emily McClung, Steven Olson, Hedy Woo, Steve
 * Gurusundesh Khalsa, Sekhar Paladugu, Beth Secor, Meeka
 * Tyler Komoroske, Brennan Holtzclaw, Joseph Perry, Joanne
@@ -29,7 +29,7 @@ layout: outline
 * Jonathan Liss, July Tran, Thomas Pickett, David Stinnette
 * Nicholas Dorans, Alireza Andersen, James Crockett, Ross Edfort
 * John Slota, Andrew Thompson, Brian Rippeto, Torie Warren
-* Joshua Washke, Nick Weiland, Shannon Paige
+* Joshua Washke, Nick Weiland, Shannon Paige, David Whitaker
 * Lenny Myerson, Heidi Hoopes, Kami Boers
 * Cole Hall, Matt Rooney, Kimiko Kano
 * Ling Tran, Brenna Martenson, Marina Corona, Greg Armstrong
@@ -37,7 +37,6 @@ layout: outline
 * Matt Pindell, Adam Hundley, Christine Gamble, Penney Garrett
 * Patrick Hardy, Michael Wong, Colin Osborn, Deborah Hamel
 * Sal Espinosa, Aaron Careaga, Jhun De Andres, Admir Draganovic
-* Ilana Corson, Toni Rib, Allan Blair
 
 ### Posse Challenge - (8:30 - 9:00)
 
