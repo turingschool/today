@@ -31,6 +31,8 @@ Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and 
 
 ### Real-Time Kick Off and Project Work Time (1:00 - 4:00)
 
+Classroom C.
+
 [Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
 
