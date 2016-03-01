@@ -5,6 +5,16 @@ layout: outline
 
 ## All
 
+### Word of the Day
+
+* rabble-rouser - noun - a person who stirs up the passions or prejudices of
+the public, usually for his or her own interests
+
+### Posse Challenge (8:30 - 9:00)
+
+[Link](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
+
+
 ## 1508
 
 ### Pub/Sub on the Server (9:00 - 10:30)
@@ -104,3 +114,18 @@ With Andrew:
 * 1:30 Little Owl
 * 2:15 Not Napster
 * 3:00 GifsForGood
+
+
+## 1602
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Classroom A.
+
+### Instructor Live Pairing (10:30 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Work Work.
