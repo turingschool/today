@@ -9,6 +9,10 @@ layout: outline
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
 
+What is the Asset Pipeline? Hint: it's a pipeline for your assets.
+
+Learn more in this [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md). BONUS: Learn to troubleshoot production errors with this one easy trick!
+
 Join Josh in the Big Workspace.
 
 ### Project Check-ins and Work time (1:00 - 4:00)
@@ -48,21 +52,21 @@ With Tess:
 
 ### Rails Views Tips & Tricks (9:00 - 10:30)
 
-Join Andrew in Classroom B. 
+Join Andrew in Classroom B.
 
 ### Little Shop Work Time (10:30 - 12:00)
 
-Complete the user stories in your Waffle. Be ready to demo these features during your client meeting this afternoon. 
+Complete the user stories in your Waffle. Be ready to demo these features during your client meeting this afternoon.
 
 ### Little Shop Client Check-Ins (1:00 - 4:00)
 
-With Rachel: 
+With Rachel:
 
 * 1:30 Cat Rental
 * 2:15 Selling Luck
 * 3:00 CustoCandyCo
 
-With Andrew: 
+With Andrew:
 
 * 1:30 Little Owl
 * 2:15 Not Napster
