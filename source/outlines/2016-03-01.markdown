@@ -1,0 +1,131 @@
+---
+title: 20160301
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* rabble-rouser - noun - a person who stirs up the passions or prejudices of
+the public, usually for his or her own interests
+
+### Posse Challenge (8:30 - 9:00)
+
+[Link](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
+
+
+## 1508
+
+### Pub/Sub on the Server (9:00 - 10:30)
+
+Join Steve in Classroom C
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+
+### Pub/Sub on the Server (10:30 - 12:00)
+
+Stick around in Classroom C for [Building Real Time Applications in Node](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+
+Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class
+
+### Real-Time Kick Off and Project Work Time (1:00 - 4:00)
+
+[Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
+
+## 1510
+
+### Understanding the Asset Pipeline (9:00 - 12:00)
+
+What is the Asset Pipeline? Hint: it's a pipeline for your assets.
+
+Learn more in this [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_the_asset_pipeline.md). BONUS: Learn to troubleshoot production errors with this one easy trick!
+
+Join Josh in the Big Workspace.
+
+### Project Check-ins and Work time (1:00 - 4:00)
+
+With Josh:
+
+* Joseph Perry
+* Dan Winter
+* Taylor Moore and Jordan Lawler
+* Lenny Myerson
+* David Stinnette
+* Brant Wellman
+* John Slota
+* James Crockett
+
+With Lovisa:
+
+* Beth Sebian
+* Cole Hall
+* Edgar Duran
+* Beth Secor
+* Brenna Martenson
+* Steve Pentler
+* Penney Garrett
+
+With Tess:
+
+* Steven Olson
+* Toni Rib
+* Greg Armstrong
+* Shannon Paige
+* Hector Huertas Baeza
+* Justin Pease
+* Aaron Greenspan
+
+## 1511
+
+### Rails Views Tips & Tricks (9:00 - 10:30)
+
+Join Andrew in Classroom B.
+
+### Little Shop Work Time & One-on-ones (10:30 - 12:00)
+
+Complete the user stories in your Waffle. Be ready to demo these features during your client meeting this afternoon.
+
+With Rachel:
+
+* 10:30 Scott
+* 10:40 Alex
+* 10:50 Brennan
+* 11:00 Erinna
+
+With Andrew:
+
+* 10:30 Admir
+* 10:40 Julian
+* 10:50 Kimi
+* 11:00 Nick W.
+
+### Little Shop Client Check-Ins (1:00 - 4:00)
+
+With Rachel:
+
+* 1:30 Cat Rental
+* 2:15 Selling Luck
+* 3:00 CustoCandyCo
+
+With Andrew:
+
+* 1:30 Little Owl
+* 2:15 Not Napster
+* 3:00 GifsForGood
+
+
+## 1602
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Classroom A.
+
+### Instructor Live Pairing (10:30 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Work Work.

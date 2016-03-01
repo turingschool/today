@@ -11,14 +11,58 @@ layout: outline
 
 ### Friday Lunch Roulette Groups
 
-Groups TBD.
+* Ashwin Rao, Justin Pease, Marlo Major, Horace
+* Nate Venn, Jason Pilz, Hector Huertas Baeza, Nate
+* Kris Foss, Beth Sebian, Pat Wey, Mike
+* Christopher Soden, Ryan Johnson, Julian Feliciano, Andrew
+* Claudia Kiesenhofer, Brant Wellman, Alexis Navarrete, Rachel
+* Aaron Greenspan, Adam Jensen, Chelsea Johnson, Josh
+* Edgar Duran, Amber Crawford, Erinna Chen, Lovisa
+* Ilana Corson, Toni Rib, Allan Blair, Tess
+* Emily McClung, Steven Olson, Hedy Woo, Steve
+* Gurusundesh Khalsa, Sekhar Paladugu, Beth Secor, Meeka
+* Tyler Komoroske, Brennan Holtzclaw, Joseph Perry, Joanne
+* Adrienne Domingus, Jared Roth, Emily Dowdle, Jorge
+* Taylor Moore, Jeneve Parrish, Matt Stjernholm, Jeff
+* Jennifer Soden, Dan Winter, Scott Firestone, Robbie Lane
+* Jill Donohue, Charles Ellison, Jonathan Bernesser, Steve Pentler
+* Jonathan Liss, July Tran, Thomas Pickett, David Stinnette
+* Nicholas Dorans, Alireza Andersen, James Crockett, Ross Edfort
+* John Slota, Andrew Thompson, Brian Rippeto, Torie Warren
+* Joshua Washke, Nick Weiland, Shannon Paige, David Whitaker
+* Lenny Myerson, Heidi Hoopes, Kami Boers
+* Cole Hall, Matt Rooney, Kimiko Kano
+* Ling Tran, Brenna Martenson, Marina Corona, Greg Armstrong
+* Charissa Lawrence, Mark Miranda, Jordan Lawler, Matt DesMarteau
+* Matt Pindell, Adam Hundley, Christine Gamble, Penney Garrett
+* Patrick Hardy, Michael Wong, Colin Osborn, Deborah Hamel
+* Sal Espinosa, Aaron Careaga, Jhun De Andres, Admir Draganovic
 
 ### Posse Challenge - (8:30 - 9:00)
 
 [Turing Transfer Tower Puzzle](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
 
+### Productivity Lunch (12:00 - 1:00)
+
+Classroom C. Join #productivity-lunch for details
+
 ### Protocol (3:00 - 4:00)
 
+[Slides](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
+
+Protocol 2/29/16: Pull Requests, Code Review, and ReadMes
+
+Time: 60 mins.
+
+4 Groups:
+
+Allison/Horace (Classroom A): 22 Brenna Martenson, Admir Draganovic, Sekhar Paladugu, Alireza Andersen, Ross Edfort, David Stinnette, Andrew Thompson, Heidi Hoopes, Pat Wey, Adam Hundley, Ashwin Rao, Steven Olson, Edgar Duran, Torie Warren, Christine Gamble, Nick Weiland, Adam Jensen, Cole Hall, Christopher Soden, Brennan Holtzclaw, Claudia Kiesenhofer, James Crockett
+
+Rachel/Nate (Classroom B): 22 Chelsea Johnson, Tyler Komoroske, Beth Secor, Colin Osborn, Adrienne Domingus, Jhun de Andres, Charissa Lawrence, Michael Wong, Deborah Hamel, Julian Feliciano, Emily McClung, Aaron Greenspan, Alexis Navarrete, Aaron Careaga, Gurusundesh Khalsa, Dan Winter, Marlo Major, Charles Ellison, Jordan Lawler, Ilana Corson, Emily Dowdle, Nate Venn
+
+Mike/Andrew (Big Workspace): 22 Jared Roth, John Slota, Ryan Johnson, Allan Blair, Erinna Chen, Lenny Myerson, Jeneve Parrish, Jill Donohue, Matt Stjernholm, Shannon Paige, Brian Rippeto, Jennifer Soden, Joseph Perry, Jonathan Bernesser, Scott Firestone, Jason Pilz, Taylor Moore, Jonathan Liss, David Whitaker, Matt Rooney, Joshua Washke, Toni Rib
+
+Meeka/Lovisa (Classroom C): 22 July Tran, Kami Boers, Amber Crawford, Beth Sebian, Brant Wellman, Kris Foss, Kimiko Kano, Justin Pease, Nicholas Dorans, Ling Tran, Marina Corona, Steve Pentler, Mark Miranda, Penney Garrett, Matt DesMarteau, Greg Armstrong, Hector Huertas Baeza, Matt Pindell, Patrick Hardy, Sal Espinosa, Thomas Pickett, Robbie Lane
 
 ## 1508
 
@@ -30,12 +74,33 @@ Big Workspace.
 
 Box that Thought.
 
+### One on Ones (9:30 - 3:30)
+
+#### With Meeka
+
+- 9:30: Jhunbug
+- 10:00: Ryan
+- 10:30: Marlo
+- 11:00: Jason
+- 1:30: Sekhar <3
+- 2:30: Amber
+
+#### With Steve
+
+- 9:30: Ross
+- 10:00: Sekhar <3
+- 10:30: Emily
+- 11:00: Marlo
+- 1:30: Matt S.
+- 2:00: Adam
+- 2:30: Aaron
 
 ## 1510
 
 ### Working with AJAX (9:00 - 12:00)
 
-Classroom B.
+Join Tess in classroom B to asynchronously send some Javascript (but not XML).
+Lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
 
 ### Project Work Time (1:00 - 3:00)
 
@@ -46,26 +111,86 @@ Work.
 
 ### Mini Project Show and Tell (9:00 - 9:30)
 
-Classroom C.
+Classroom C. This your chance to show off the mini-project you built over the weekend. Be sure to show not just functionality but also code implementation. Things you might want to look at:
+
+* How is admin functionality protected? Is it possible for a regular user to access routes like `'/admin/categories/new'`? Why or why not?
+* Are any APIs used? Show the code implementation.
+* What is intuitive from a user perspective and what could use more refinement?
+* Any extra features?
+
+#### Groups:
+
+* Kimiko Kano & Adam Hundley & Charles Ellison
+* Alexis Navarrete & Allan Blair & Adrienne Domingus
+* Brian Rippeto & Nicholas Dorans & Nick Weiland
+* Chelsea Johnson & Scott Firestone & Julian Feliciano
+* David Whitaker &  & Heidi Hoopes & Brennan Holtzclaw
+* Nate Venn & Erinna Chen & Admir Draganovic & July Tran
 
 ### Little Shop Kick Off (9:30 - 10:00)
 
-Groups TBD.
+Pitch time! Stay in Classroom C.
 
 ### Cart and Order Lifecycle (10:00 - 12:00)
 
 Stuff goes in the cart. [This cart.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown) Classroom C.
 
-### Little Shop Work Time (1:00 - 3:00)
+### Little Shop Kick Off and Work Time (1:00 - 3:00)
 
-Work.
+Classroom C. Here's the [project spec](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown) and here's the [DTR Memo Outline](https://gist.github.com/rwarbelow/0fed3529495a814eabb1).
 
+When you're ready to pitch your idea, sign up on the whiteboard for a slot.
+
+Next steps:
+
+* Generate a new Rails project for your little shop. Don't forget to use Postgres for your database.
+* Create a waffle.io and add Rachel (rwarbelow) and Andrew (Carmer) as collaborators.
+* Push to Heroku, and get in the habit of pushing to Heroku frequently.
+* Create wireframes for most important views: Think about what you think the workflow should be on the site. Which of those views is most important? In addition to the home page wireframe, create wireframes for the next two most important pages. Examples might be: A users' profile page, a product page, an admin dashboard etc.
+
+*Not Napster*:
+
+* Scott
+* Alex
+* Admir
+* Julian
+
+*Selling Luck*:
+
+* Brennan
+* Erinna
+* Kimi
+
+*UX Focus*:
+
+* Nick W.
+* David
+* Adam
+
+*Custom Hungry*:
+
+* Nate
+* Nick D.
+* Chad
+
+*The World Is Your Oyster #1*:
+
+* Brian
+* Heidi
+* July
+
+*The World Is Your Oyster #2*:
+
+* Chelsea
+* Adrienne
+* Allan
 
 ## 1602
 
 ### Practicing Remote Pairing (9:00 - 10:30)
 
 ### Project Kick Off (10:30 - 11:30)
+
 * Jared Roth & Alireza Andersen
 * Matt DesMarteau & Christine Gamble
 * Claudia Kiesenhofer & Patrick Hardy
@@ -80,6 +205,34 @@ Work.
 * Colin Osborn & Jonathan Liss
 * Ashwin Rao & Jennifer Soden
 
+It's time to start your final project of the module. Some things to note:
+
+* This project will be due at 9AM on Thursday, March 10
+* You will work in a pair and submit one repository
+* As a pair you will choose between two projects
+* Your project will be assessed by an instructor with the help of an automated test harness
+* You need to pass this project ('3' in each rubric category) to pass the module
+
+#### Choice 1: Headcount
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+#### Choice 2: Black Thursday
+
+[https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
 ### Project DTR (11:30 - 12:00)
 
+Spend at least 30 minutes before lunch DTRing:
+
+* What's gone well/poorly with your past projects?
+* What did you do during the break to reinforce your learning?
+* What are your learning goals for the project?
+* What do you need to do your best work?
+* How do you collaborate best? How do you feel about pair programming vs divide-and-conquer approaches?
+* What are your scheduling constraints and preferences?
+* How will you know if the project is successful?
+
 ### Team Building (1:00 - 3:00)
+
+Gather in Classroom A for another round of Improv.
