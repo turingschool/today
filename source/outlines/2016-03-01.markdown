@@ -5,6 +5,16 @@ layout: outline
 
 ## All
 
+### Word of the Day
+
+* rabble-rouser - noun - a person who stirs up the passions or prejudices of
+the public, usually for his or her own interests
+
+### Posse Challenge (8:30 - 9:00)
+
+[Link](https://gist.github.com/Carmer/4a46e214c0d91f911c6a)
+
+
 ## 1508
 
 ### Pub/Sub on the Server (9:00 - 10:30)
@@ -20,6 +30,8 @@ Stick around in Classroom C for [Building Real Time Applications in Node](https:
 Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class
 
 ### Real-Time Kick Off and Project Work Time (1:00 - 2:00)
+
+Classroom C.
 
 [Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
@@ -74,7 +86,7 @@ With Tess:
 
 ### Rails Views Tips & Tricks (9:00 - 10:30)
 
-Join Andrew in Classroom B.
+Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time & One-on-ones (10:30 - 12:00)
 
@@ -107,3 +119,20 @@ With Andrew:
 * 1:30 Little Owl
 * 2:15 Not Napster
 * 3:00 GifsForGood
+
+
+## 1602
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/designing_data_oriented_programs_for_testability.markdown)
+
+### Instructor Live Pairing AKA Mike and Horace road show (10:30 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Work Work.
