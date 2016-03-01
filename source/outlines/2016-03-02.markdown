@@ -1,0 +1,44 @@
+---
+title: 20160302
+layout: outline
+---
+
+## All
+
+## 1508
+
+### WebSocket Workshop (9:00 - 12:00)
+
+Meet with Meeka is Classroom C.
+
+This morning, you'll be working through [a guided implementation of a small WebSocket application][ww] that should look eerily familiar.
+
+[ww]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown
+
+### Real Time Check-ins (1:00 - 4:00)
+
+#### With Steve
+
+ * 1:00: Aaron Careaga
+ * 1:20: Robbie Lane
+ * 1:40: Jason Pilz
+ * 2:20: Michael Wong
+ * 2:40: Ross Edfort
+ * 3:00: Sekhar Paladugu
+
+#### With Meeka
+
+ * 1:00: Jill Donohue
+ * 1:20: Pat Wey
+ * 1:40: Matt Stjernholm
+ * 2:20: Jhun de Andres
+ * 2:40: Torie Warren
+ * 3:00: Tyler Komoroske
+
+#### With Jorge
+
+* 1:00: Matt Rooney
+* 1:20: Jessica Goulding
+* 1:40: Marlo Major
+* 2:20: Ryan Johnson
+* 2:40: Adam Jensen

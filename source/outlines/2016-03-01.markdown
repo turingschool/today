@@ -19,10 +19,13 @@ Stick around in Classroom C for [Building Real Time Applications in Node](https:
 
 Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class
 
-### Real-Time Kick Off and Project Work Time (1:00 - 4:00)
+### Real-Time Kick Off and Project Work Time (1:00 - 2:00)
 
 [Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
+### Project Work Time (2:00 - 4:00)
+
+This afternoon, you'll have some time to take your initial first pass at your real time applications. **You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.**
 
 ## 1510
 
