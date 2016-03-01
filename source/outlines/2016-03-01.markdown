@@ -83,7 +83,7 @@ With Tess:
 
 ### Rails Views Tips & Tricks (9:00 - 10:30)
 
-Join Andrew in Classroom B.
+Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time & One-on-ones (10:30 - 12:00)
 
@@ -124,7 +124,9 @@ With Andrew:
 
 Classroom A.
 
-### Instructor Live Pairing (10:30 - 12:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/designing_data_oriented_programs_for_testability.markdown)
+
+### Instructor Live Pairing AKA Mike and Horace road show (10:30 - 12:00)
 
 Classroom A.
 
