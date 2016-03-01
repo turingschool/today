@@ -5,6 +5,25 @@ layout: outline
 
 ## All
 
+## 1508
+
+### Pub/Sub on the Server (9:00 - 10:30)
+
+Join Steve in Classroom C
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown)
+
+### Pub/Sub on the Server (10:30 - 12:00)
+
+Stick around in Classroom C for [Building Real Time Applications in Node](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+
+Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class
+
+### Real-Time Kick Off and Project Work Time (1:00 - 4:00)
+
+[Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
+
 ## 1510
 
 ### Understanding the Asset Pipeline (9:00 - 12:00)
@@ -56,16 +75,16 @@ Join Andrew in Classroom B.
 
 ### Little Shop Work Time & One-on-ones (10:30 - 12:00)
 
-Complete the user stories in your Waffle. Be ready to demo these features during your client meeting this afternoon. 
+Complete the user stories in your Waffle. Be ready to demo these features during your client meeting this afternoon.
 
-With Rachel: 
+With Rachel:
 
 * 10:30 Scott
 * 10:40 Alex
 * 10:50 Brennan
 * 11:00 Erinna
 
-With Andrew: 
+With Andrew:
 
 * 10:30 Admir
 * 10:40 Julian
