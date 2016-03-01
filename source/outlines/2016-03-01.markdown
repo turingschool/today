@@ -122,7 +122,9 @@ With Andrew:
 
 Classroom A.
 
-### Instructor Live Pairing (10:30 - 12:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/designing_data_oriented_programs_for_testability.markdown)
+
+### Instructor Live Pairing AKA Mike and Horace road show (10:30 - 12:00)
 
 Classroom A.
 
