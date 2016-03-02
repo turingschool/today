@@ -5,6 +5,93 @@ layout: outline
 
 ## All
 
+## 1508
+
+### Thoughtbox Evals & Project Work Time (9:00 - 12:00)
+
+We'll start at 9:00am and go till we're done!
+
+#### With Steve
+
+ * Jill Donohue
+ * Aaron Careaga
+ * Sekhar Paladugu
+ * Matt Rooney
+ * Emily Dowdle
+ * Michael Wong
+
+#### With Meeka
+
+ * Ross Edfort
+ * Adam Jensen
+ * Ryan Johnson
+ * Torie Warren
+ * Matt Stjernholm
+ * Tyler Komoroske
+ * Marlo Major
+
+#### With Jorge
+
+ * Pat Wey
+ * Robbie Lane
+ * Jhun de Andres
+ * Jessica Goulding
+ * Jason Pilz
+
+### Student Code Reviews & Project Work Time (1:00 - 4:00)
+
+ You'll be meeting up with a colleague to review each other's approaches. Spend 30 minutes on each project (unless you're in a triplet—then spend 20 minutes):
+
+* Emily Dowdle & Jill Donohue
+* Michael Wong & Adam Jensen
+* Ryan Johnson & Ross Edfort
+* Marlo Major & Pat Wey
+* Jason Pilz & Tyler Komoroske
+* Sekhar Paladugu & Jessica Goulding
+* Robbie Lane & Matt Stjernholm
+* Aaron Careaga & Jhun de Andres
+* Torie Warren & Matt Rooney
+
+## 1510
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Join Lovisa in **Classroom B** to learn how to cache in Rails.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/caching_in_rails.md)
+
+### Project Check-ins and Work time (1:00 - 4:00)
+
+With Josh:
+
+* Lenny Myerson
+* Dan Winter
+* Joseph Perry
+* Taylor Moore and Jordan Lawler
+* Brant Wellman
+* John Slota
+* James Crockett
+* David Stinnette
+
+With Lovisa:
+
+* Steve Pentler
+* Brenna Martenson
+* Penney Garrett
+* Edgar Duran
+* Beth Sebian
+* Beth Secor
+* Cole Hall
+
+With Tess:
+
+* Aaron Greenspan
+* Greg Armstrong
+* Steven Olson
+* Toni Rib
+* Justin Pease
+* Shannon Paige
+* Hector Huertas Baeza
 
 ## 1511
 
@@ -14,7 +101,7 @@ Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/ar
 
 ### Scopes and Callbacks (10:30 - 12:00)
 
-Classroom C. 
+Classroom C.
 
 ### Work Time, Check-Ins, and One-on-Ones (1:00 - 4:00)
 
