@@ -1,0 +1,54 @@
+---
+title: 20160303
+layout: outline
+---
+
+## All
+
+## 1508
+
+### Thoughtbox Evals & Project Work Time (9:00 - 12:00)
+
+We'll start at 9:00am and go till we're done!
+
+#### With Steve
+
+ * Jill Donohue
+ * Aaron Careaga
+ * Sekhar Paladugu
+ * Matt Rooney
+ * Emily Dowdle
+ * Michael Wong
+
+#### With Meeka
+
+ * Ross Edfort
+ * Adam Jensen
+ * Ryan Johnson
+ * Torie Warren
+ * Matt Stjernholm
+ * Tyler Komoroske
+ * Marlo Major
+
+#### With Jorge
+
+ * Pat Wey
+ * Robbie Lane
+ * Jhun de Andres
+ * Amber Crawford
+ * Jessica Goulding
+ * Jason Pilz
+
+ ### Student Code Reviews & Project Work Time (1:00 - 4:00)
+
+ You'll be meeting up with a colleague to review each other's approaches. Spend 30 minutes on each project (unless you're in a triplet—then spend 20 minutes):
+
+* Emily Dowdle & Jill Donohue
+* Michael Wong & Adam Jensen
+* Ryan Johnson & Ross Edfort
+* Marlo Major & Pat Wey
+* Jason Pilz & Tyler Komoroske
+* Sekhar Paladugu & Jessica Goulding
+* Robbie Lane & Matt Stjernholm
+* Aaron Careaga & Jhun de Andres
+* Torie Warren & Matt Rooney
