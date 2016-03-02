@@ -91,6 +91,27 @@ In which you learn how to be more awesome.
 
 In which you learn how to be more awesome with someone else.
 
+Gather with the partner listed below. Each group should spend the hour
+working on the project of the person on the __RIGHT__.
+
+Spend your time refactoring with a focus on improving the testability of
+the code in question. As you go spend time improving test coverage where needed.
+
+Jonathan Liss       & Jeneve Parrish
+Ilana Corson        & Colin Osborn
+Ling Tran           & Gurusundesh Khalsa
+Deborah Hamel       & Andrew Thompson
+Jennifer Soden      & Joshua Washke
+Kris Foss           & Ashwin Rao
+Claudia Kiesenhofer & Sal Espinosa
+Jonathan Bernesser  & Patrick Hardy
+Marina Corona       & Thom Pickett
+Mark Miranda        & Kami Boers
+
+Christine Gamble    & Alireza Andersen
+Matt Pindell        & Matt DesMarteau
+Jared Roth          & Christopher Soden
+
 ### Project Q & A (1:00 - 2:00)
 
 You have questions. Mike has answers. Or at least wise ruminations on the
