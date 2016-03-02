@@ -52,6 +52,47 @@ We'll start at 9:00am and go till we're done!
 * Aaron Careaga & Jhun de Andres
 * Torie Warren & Matt Rooney
 
+## 1510
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Join Lovisa in **Classroom B** to learn how to cache in Rails.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/caching_in_rails.md)
+
+### Project Check-ins and Work time (1:00 - 4:00)
+
+With Josh:
+
+* Lenny Myerson
+* Dan Winter
+* Joseph Perry
+* Taylor Moore and Jordan Lawler
+* Brant Wellman
+* John Slota
+* James Crockett
+* David Stinnette
+
+With Lovisa:
+
+* Steve Pentler
+* Brenna Martenson
+* Penney Garrett
+* Edgar Duran
+* Beth Sebian
+* Beth Secor
+* Cole Hall
+
+With Tess:
+
+* Aaron Greenspan
+* Greg Armstrong
+* Steven Olson
+* Toni Rib
+* Justin Pease
+* Shannon Paige
+* Hector Huertas Baeza
+
 ## 1511
 
 ### Pushing Logic Down the Stack (9:00 - 10:30)
