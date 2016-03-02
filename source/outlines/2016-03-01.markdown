@@ -86,7 +86,7 @@ With Tess:
 
 ### Rails Views Tips & Tricks (9:00 - 10:30)
 
-Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
+Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/scopes_callbacks_class_methods.markdown).
 
 ### Little Shop Work Time & One-on-ones (10:30 - 12:00)
 
