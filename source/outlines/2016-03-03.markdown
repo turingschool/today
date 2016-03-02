@@ -95,13 +95,13 @@ With Tess:
 
 ## 1511
 
-### Pushing Logic Down the Stack (9:00 - 10:30)
+### Scopes and Callbacks (9:00 - 10:30)
+
+Classroom C. [Here is the plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/scopes_callbacks_class_methods.markdown)
+
+### Pushing Logic Down the Stack (10:30 - 12:00)
 
 Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
-
-### Scopes and Callbacks (10:30 - 12:00)
-
-Classroom C.
 
 ### Work Time, Check-Ins, and One-on-Ones (1:00 - 4:00)
 

@@ -29,15 +29,10 @@ Stick around in Classroom C for [Building Real Time Applications in Node](https:
 
 Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class
 
-### Real-Time Kick Off and Project Work Time (1:00 - 2:00)
-
-Classroom C.
+### Real-Time Kick Off and Project Work Time (1:00 - 4:00)
 
 [Real-Time](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-### Project Work Time (2:00 - 4:00)
-
-This afternoon, you'll have some time to take your initial first pass at your real time applications. **You should use this time to wireframe the user interfaces for your project, decided on an approach, and try out some ideas.**
 
 ## 1510
 
@@ -86,7 +81,7 @@ With Tess:
 
 ### Rails Views Tips & Tricks (9:00 - 10:30)
 
-Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/scopes_callbacks_class_methods.markdown).
+Join Andrew in Classroom B. [This Lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown).
 
 ### Little Shop Work Time & One-on-ones (10:30 - 12:00)
 
@@ -127,9 +122,7 @@ With Andrew:
 
 Classroom A.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/designing_data_oriented_programs_for_testability.markdown)
-
-### Instructor Live Pairing AKA Mike and Horace road show (10:30 - 12:00)
+### Instructor Live Pairing (10:30 - 12:00)
 
 Classroom A.
 
