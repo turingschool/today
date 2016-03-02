@@ -39,7 +39,7 @@ We'll start at 9:00am and go till we're done!
  * Jessica Goulding
  * Jason Pilz
 
- ### Student Code Reviews & Project Work Time (1:00 - 4:00)
+### Student Code Reviews & Project Work Time (1:00 - 4:00)
 
  You'll be meeting up with a colleague to review each other's approaches. Spend 30 minutes on each project (unless you're in a triplet—then spend 20 minutes):
 
@@ -52,3 +52,27 @@ We'll start at 9:00am and go till we're done!
 * Robbie Lane & Matt Stjernholm
 * Aaron Careaga & Jhun de Andres
 * Torie Warren & Matt Rooney
+
+## 1511
+
+### Pushing Logic Down the Stack (9:00 - 10:30)
+
+Classroom C. Find the outline [here](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
+
+### Scopes and Callbacks (10:30 - 12:00)
+
+Classroom C.
+
+### Work Time & Check-Ins (1:00 - 4:00)
+
+With Andrew:
+
+* 1:30 Cat Rental
+* 2:15 Selling Luck
+* 3:00 CustoCandyCo
+
+With Rachel:
+
+* 1:30 Little Owl
+* 2:15 Not Napster
+* 3:00 GifsForGood
