@@ -98,8 +98,7 @@ Spend your time refactoring with a focus on improving the testability of
 the code in question. As you go spend time improving test coverage where needed.
 
 * Jonathan Liss       & Jeneve Parrish
-* Ilana Corson        & Colin Osborn
-* Ling Tran           & Gurusundesh Khalsa
+* Ling Tran           & Colin Osborn
 * Deborah Hamel       & Andrew Thompson
 * Jennifer Soden      & Joshua Washke
 * Kris Foss           & Ashwin Rao
@@ -108,7 +107,7 @@ the code in question. As you go spend time improving test coverage where needed.
 * Marina Corona       & Thom Pickett
 * Mark Miranda        & Kami Boers
 
-* Christine Gamble    & Alireza Andersen
+* Alireza Andersen
 * Matt Pindell        & Matt DesMarteau
 * Jared Roth          & Christopher Soden
 
