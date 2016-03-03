@@ -1,0 +1,91 @@
+---
+title: 20160304
+layout: outline
+---
+
+## All
+
+### Posse Challenge Code Review (8:30 - 9:00)
+
+* James Golick, Dennis Ritchie, Fred Brooks, Weirich Posse in the big workspace with Lovisa
+* Ada Lovelace, Tim Berners-Lee, Adele Goldberg, Yukihiro Matsumoto in classroom B with Horace
+* Alan Kay, Grace Hopper, Ezra Zygmuntowicz, Donald Knuth in classroom A with Andrew
+
+### Instructional Time (9:00 - 10:00)
+
+#### 1511
+
+Meet with Rachel and Andrew in Classroom C to talk about expectations for next week and the final assessment. 
+
+One-on-Ones:
+
+With Rachel:
+
+* Chelsea
+
+With Andrew:
+
+* Adrienne
+
+### Gear Up (10:00 - 11:00)
+
+### Guest Speaker: Jacqueline Ros (11:00 - 12:00)
+
+Gather in the big workspace. 
+
+### Lunch Roulette (12:00 - 1:15)
+
+* Ashwin Rao, Marlo Major, Admir Draganovic, Horace
+* Nate Venn, Jason Pilz, Jhun De Andres, Nate
+* Kris Foss, Pat Wey, Aaron Careaga, Mike
+* Christopher Soden, Ryan Johnson, Julian Feliciano, Andrew
+* Claudia Kiesenhofer, Alexis Navarrete, Allan Blair, Rachel
+* Adam Jensen, Chelsea Johnson, Sal Espinosa, Josh
+* Amber Crawford, Erinna Chen, Ilana Corson, Lovisa
+* Matt Pindell, Marina Corona, Matt Rooney, Steve
+* Gurusundesh Khalsa, Kimiko Kano, Sekhar Paladugu, Meeka
+* Tyler Komoroske, Ling Tran, Brennan Holtzclaw, Joanne
+* Adrienne Domingus, Jared Roth, Emily Dowdle, Jorge
+* Jeneve Parrish, Matt Stjernholm, Kami Boers, Jeff
+* Jennifer Soden, Scott Firestone, Robbie Lane, Tess
+* Jill Donohue, Charles Ellison, Heidi Hoopes, Jonathan Bernesser
+* Jonathan Liss, July Tran, Ross Edfort, Thomas Pickett
+* Andrew Thompson, Brian Rippeto, Alireza Andersen, Torie Warren
+* Joshua Washke, Nick Weiland, Nicholas Dorans, David Whitaker
+* Mark Miranda, Matt DesMarteau, Christine Gamble, Adam Hundley
+* Patrick Hardy, Michael Wong, Colin Osborn, Deborah Hamel
+
+### Group Retro (1:15 - 2:00)
+
+* 1508 in Big Workspace
+* 1510 in Classroom B
+* 1511 in Classroom C
+* 1602 in Classroom A
+
+### Lightning Talks (2:00 - 3:00)
+
+* Jill Donohue - Not Your Average Cover Letters
+* Steve Pentler - Computing in Technicolor
+* Penney Garrett - Forgotten Female Programmers: The ENIAC Women
+* Kimiko Kano - Make your own chat app with Firebase
+* Jhun de Andres - Tim Berners Lee and the importance of open source
+* John Slota - The future of transportation
+* Admir Draganovic - https://github.com/Draganovic/lightning_talks.git
+* Alexis Navarrete - Who is Richard Stallman? And Why You Should Care
+* Scott Firestone - Fun with MIDI
+
+### Electives (3:00 - 4:00)
+
+* ​*Intro to GoLang*​ in the Big Workspace with Allan Blair: When the tough gets going, Golang gets… uhh? Come learn golang with Allan. This session will get you up and running. Other sessions will include HTTP, concurrency and designing command line interfaces
+
+* ​*DevOps*​ in Classroom B with Jason Pilz & Ryan Johnson: Our session is a follow-up to last session, so only people who came last time are set up to continue along….we will be creating a basic rails app and serving it on our droplets.
+
+* ​*End-to-End Design Thinking* in Horace's Lair: How might we improve the way junior devs look for and secure job?*​ with Hack Design: Design Thinking is an iterative, user-centerd approach to finding creative solutions to problems.  This elective will confront problems related to the junior developer job search by going through the Design Thinking approach.  We will meet every other week and aim to take problem from research to product. This week we will discuss an overview of the methodology as well as begin to build “empathy” for users.
+
+* ​*Hello Machine Learning*​ at the kitchen table in the big workspace with Erinna Chen: Do you want to create the next dog of instagram and can’t figure out which hash tags to put on your posts? Computers can filter out that data and figure out what tags will get Amie to the next level. We’ll go through a tutorial which claims to be the “Hello World” to machine learning. Good for those who aren’t morning people and can’t make it to computability theory.
+
+* ​*Git Workflow*​ in Classroom A with David Whitaker: Experiencing git-tastrophies?  Still unsure of how to optimize your git workflow?  Join me as I share some git tips and tricks that will make all of those headaches go away (hopefully) - great for module one folks.
+
+* ​*Building a Menu Bar Application with Electron*​ at the big staff table with Steve: ​_[description pending]_​
+
+* ​*The Turing Fight Song*​ in Classroom C with Adam Hundley: Turing is a school and every school needs a fight song! We will collaboratively come up with a Turing Fight Song that will be proudly sung at all sporting events Turing is involved in. If you like being creative, rhyming and being extremely sarcastic then spend your hour with me.
