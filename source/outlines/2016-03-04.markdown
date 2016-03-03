@@ -5,6 +5,15 @@ layout: outline
 
 ## All
 
+### Surveys
+
+Please complete your survey at some point before 5pm today. Thanks!
+
+* [1508]()
+* [1510]()
+* [1511](https://docs.google.com/a/casimircreative.com/forms/d/1TBEv7XUFsg7YiyOgijtuWgo0ClGzEmugnLAsGQzDm6s/viewform)
+* [1602]()
+
 ### Posse Challenge Code Review (8:30 - 9:00)
 
 * James Golick, Dennis Ritchie, Fred Brooks, Weirich Posse in the big workspace with Lovisa
