@@ -128,8 +128,6 @@ We'll need two sets of groups explained below.
 * Heidi Hoopes with Hector Huertas Baeza & Adam Hundley & Robbie Lane & Nick Weiland & Jared Roth
 * Julian Feliciano with Tyler Komoroske & Jordan Lawler & Scott Firestone & Matt Rooney
 
-#### Workspace
-
 ### Guest Speaker: Jacqueline Ros (11:00 - 12:00)
 
 Gather in the big workspace.
