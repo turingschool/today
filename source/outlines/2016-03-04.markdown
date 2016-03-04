@@ -40,6 +40,26 @@ With Andrew:
 
 * Adrienne
 
+#### 1602
+
+**Peer Portfolio Critique**
+
+Pairs are posted in slack.
+
+Get with your pair and follow this process:
+
+1. 30 Minutes - Person A reviews and critiques the portfolio of Person B.
+2. 30 Minutes - Person B reviews and critiques the portfolio of Person A.
+3. 30 Minutes - Take the feedback you received and use it to update and improve your portfolio.
+
+**Reviewing a Portfolio**
+
+As you are reviewing your partner's portfolio, focus on the following topics:
+
+1. Do they have the required content for each section? Are all the necessary projects accounted for?
+2. Does the porfolio add meaningful project commentary beyond a simple list of scores? Try to include at least 1 specific takeaway for each project.
+3. Does the portfolio tell the story of their progress and development throughout the module?
+
 ### Gear Up (10:00 - 11:00)
 
 Today we'll be reading, thinking, and discussing [Environmental Responsibility](https://github.com/turingschool/gear-up/blob/master/environmental_responsibility.markdown).
