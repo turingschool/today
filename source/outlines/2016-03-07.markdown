@@ -81,7 +81,11 @@ With Lovisa:
 
 ## 1511
 
-### Introduction to JavaScript (9:00 - 12:00)
+### Module 2 assessment review/questions
+
+Come to classroom C to talk about the assessment for Module two. Assessment times are posted on the today.turing.io for tomorrow and Wednesday. 
+
+### Introduction to JavaScript (9:30 - 12:00)
 
 Join Andrew in Classroom C.
 
