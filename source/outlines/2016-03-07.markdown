@@ -17,6 +17,8 @@ person holds or maintains as true.
 
 Join Meeka in Classroom B
 
+[Lesson Plan](https://github.com/turingschool/ruby-submissions/blob/master/1508/module_4_assignments/the-plan/README.md)
+
 ### The Plan (10:00 - 4:00)
 
 Stay in Classroom B and work through The Plan
