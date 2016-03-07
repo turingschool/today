@@ -81,11 +81,7 @@ With Lovisa:
 
 ## 1511
 
-### Module 2 assessment review/questions(9:00 - 9:30)
-
-Come to classroom B to talk about the assessment for Module two. Assessment times are posted on the today.turing.io for tomorrow and Wednesday.
-
-### Introduction to JavaScript (9:30 - 12:00)
+### Introduction to JavaScript (10:00 - 12:00)
 
 Join Andrew in Classroom B.
 
