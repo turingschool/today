@@ -110,6 +110,8 @@ With Andrew:
 
 Classroom A.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/higher_order_ruby.markdown)
+
 ### Final Assessments (10:30 - 12:00)
 
 #### With Nate
@@ -133,13 +135,11 @@ Classroom A.
 * 11:30 - Christopher Soden
 
 #### With Tess
-* 10:30 - Drew Thompson
-* 11:00 - Sal Espinosa
-* 11:30 - Jared Roth
 
 #### With Rachel
 * 10:30 - Ashwin Rao
 * 11:00 - Kami Boers
+* 11:30 - Sal Espinosa
 
 ### Final Assessments Episode V: The Assessment Stikes Back (1:00 - 4:00)
 
@@ -147,11 +147,13 @@ Classroom A.
 * 1:00 - Christine Gamble
 * 1:30 - Gurusundesh Khalsa
 * 2:00 - Alireza Andersen
+* 2:30 - Drew Thompson
 
 #### With Horace
 * 1:00 - Claudia Kiesenhofer
 * 1:30 - Kris Foss
 * 2:00 - Jonathan Liss
+* 2:30 - Jared Roth
 
 #### With Mike
 * 1:00 - Ling Tran
