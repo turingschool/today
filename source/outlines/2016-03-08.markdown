@@ -62,7 +62,7 @@ Final Assessment evals TBD.
 
 ### Introduction to jQuery (9:00 - 10:00)
 
-Classroom C.
+Classroom C. [Time to DOM with jQuery](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_jquery.markdown)
 
 ### Filtering with jQuery (10:00 - 12:00)
 
@@ -103,4 +103,3 @@ Woah, livin' on a prayer
 Take my hand, we'll make it I swear
 
 Woah, [livin' on a prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
-
