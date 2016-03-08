@@ -88,11 +88,41 @@ Classroom C.
 
 ### How Computers and Electronics Work (9:00 - 10:30)
 
-Classroom A.
+Start your morning in A with Jeff to discuss [how computers work](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown).
 
 ### Binary, Octal, and Hex (10:30 - 12:00)
 
-Classroom A.
+For the second session this morning we're studying number systems in Classroom A.
+
+We'll start all together working with [this lesson plan about decimal numbers](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems.markdown).
+
+Then we'll break into small groups to work through [binary](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-binary.markdown), [octal](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-octal.markdown), and [hex](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/number_systems-hexadecimal.markdown).
+
+* Alireza Andersen: hex, binary, octal
+* Andrew Thompson: hex, binary, octal
+* Ashwin Rao: octal, hex, binary
+* Christine Gamble: binary, octal, hex
+* Christopher Soden: octal, hex, binary
+* Claudia Kiesenhofer: octal, hex, binary
+* Colin Osborn: hex, binary, octal
+* Deborah Hamel: binary, octal, hex
+* Gurusundesh Khalsa: binary, octal, hex
+* Ilana Corson: hex, binary, octal
+* Jared Roth: binary, hex, octal
+* Jeneve Parrish: octal, binary, hex
+* Jennifer Soden: octal, hex, binary
+* Jonathan Bernesser: hex, octal, binary
+* Joshua Washke: binary, octal, hex
+* Kami Boers: hex, octal, binary
+* Kris Foss: hex, binary, octal
+* Ling Tran: octal, binary, hex
+* Marina Corona: octal, binary, hex
+* Mark Miranda: hex, binary, octal
+* Matt DesMarteau: binary, hex, octal
+* Matt Pindell: octal, hex, binary
+* Patrick Hardy: binary, hex, octal
+* Sal Espinosa: octal, hex, binary
+* Thomas Pickett: hex, octal, binary
 
 ### Work Time (12:00 - 4:00)
 
