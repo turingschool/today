@@ -117,9 +117,16 @@ Work.
 
 ### Work Time (9:00 - 10:30)
 
-### Regular Expressions for Fun and Profit (10:30 - 12:00)
+You have a lot of work time today so make the most of it.
+It would be great to aim "pencils down" on new features by lunch time
+so that you leave a solid afternoon and evening for any testing or
+refactoring.
 
-Classroom A.
+That said, a last minute frantic feature frenzy can also provide great learnings.
+
+### Optional: Profiling and Improving Performance of Headcount / Black Thursday (10:30 - 12:00)
+
+If you feel like you have a handle on your basic features, join Horace in Classroom A to talk about a few tricks for speeding up these beastly projects.
 
 ### Project Work Time (1:00 - 4:00)
 
