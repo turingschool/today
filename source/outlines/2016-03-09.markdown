@@ -48,41 +48,40 @@ Join Meeka and Marissa in Classroom B for a Q&A on all things jobs, future, etc.
 
 ## 1510
 
-### Final Assessments (9:00 - 12:00)
+### Final Assessments (9:00 - 4:00)
 
 #### With Josh
-* 9:00 - Brenna Martenson
-* 9:20 - David Stinnette
-* 9:40 - John Slota
-* 10:00 - James Crockett
-* 10:20 - BREAK
-* 10:40 - Joseph Perry
-* 11:00 - Steven Olson
-* 11:20 - Justin Pease
-* 11:40 - Beth Secor
 
-#### With Tess
-* 9:00 - Aaron Greenspan
-* 9:20 - Brant Wellman
-* 9:40 - Steve Pentler
-* 10:00 - Jordan Lawler
-* 10:20 - BREAK
-* 10:40 - Shannon Paige
-* 11:00 - Beth Sebian
-* 11:20 - Dan Winter
-* 11:40 - Greg Armstrong
+* Beth Sebian
+* Shannon Paige
+* David Stinnette
+* James Crockett
+* Brenna Martenson
+* Cole Hall
+* Steve Pentler
+* Dan Winter
+* Edgar Duran
+* Beth Secor
+* Aaron Greenspan
+* Joseph Perry
+* Brant Wellman
+* Greg Armstrong
+* Toni Rib
+* Taylor Moore
+* Hector Huertas Baeza
+* John Slota
+* Jordan Lawler
+* Justin Pease
+* Penney Garrett
+* Steven Olson
 
-#### With Lovisa
-* 9:00 - Charissa Lawrence
-* 9:20 - Taylor Moore
-* 9:40 - Edgar Duran
-* 10:00 - Lenny Myerson
-* 10:20 - BREAK
-* 10:40 - Penney Garrett
-* 11:00 - Toni Rib
-* 11:20 - Cole Hall
-* 11:40 - Hector Huertas Baeza
+### Project work time (09:00 - 12:00)
 
+Work work work!
+
+Sign up for pairing slots with Tess and Lovisa on this [etherpad](https://public.etherpad-mozilla.org/p/pairing).
+
+(I had troubles accessing the Etherpad in Chrome. Try Firefox or another browser if you have issues.)
 
 ## 1511
 
@@ -117,9 +116,16 @@ Work.
 
 ### Work Time (9:00 - 10:30)
 
-### Regular Expressions for Fun and Profit (10:30 - 12:00)
+You have a lot of work time today so make the most of it.
+It would be great to aim "pencils down" on new features by lunch time
+so that you leave a solid afternoon and evening for any testing or
+refactoring.
 
-Classroom A.
+That said, a last minute frantic feature frenzy can also provide great learnings.
+
+### Optional: Profiling and Improving Performance of Headcount / Black Thursday (10:30 - 12:00)
+
+If you feel like you have a handle on your basic features, join Horace in Classroom A to talk about a few tricks for speeding up these beastly projects.
 
 ### Project Work Time (1:00 - 4:00)
 
