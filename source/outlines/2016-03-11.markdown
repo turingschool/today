@@ -21,15 +21,15 @@ Before getting started, please complete your end-of-module survey.
 
 #### 1510
 
-Get started on your [intermission week work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown). 
+Get started on your [intermission week work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown).
 
 #### 1511 + 1602
 
-Find your pair listed below and start on [WebGuesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html). 
+Find your pair listed below and start on [WebGuesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html).
 
-* Adam Hundley & Alireza Andersen 
+* Adam Hundley & Alireza Andersen
 * Heidi Hoopes & Kris Foss & Patrick Hardy
-* Adrienne Domingus & Claudia Kiesenhofer 
+* Adrienne Domingus & Claudia Kiesenhofer
 * Admir Draganovic & Ashwin Rao
 * David Whitaker & Ling Tran
 * Brennan Holtzclaw & Deborah Hamel
@@ -42,13 +42,13 @@ Find your pair listed below and start on [WebGuesser](http://tutorials.jumpstart
 * Julian Feliciano & Kami Boers
 * Allan Blair & Gurusundesh Khalsa
 * July Tran & Joshua Washke
-* Alexis Navarrete & Andrew Thompson 
+* Alexis Navarrete & Andrew Thompson
 * Scott Firestone & Sal Espinosa
 * Kimiko Kano & Jonathan Liss
 
 ### Electives & Intermission Week Work Time (10:15 - 12:30)
 
-Choose either an elective or continue working on intermission week work. 
+Choose either an elective or continue working on intermission week work.
 
 * Brennan Holtzclaw - Podcasting 102 in the Closet
 * Justin Pease - APIs (good for students entering module 3, but anyone welcome) in the Big Workspace
@@ -75,3 +75,4 @@ Gather in the Big Workspace.
 * 1510 in Classroom B
 * 1511 in Classroom C
 * 1602 in Classroom A
+[Make Donald Drumpf Again](https://lovelace-media.imgix.net/uploads/1012/c2909460-c323-0133-aaab-0e6c6164dc79.jpg)
