@@ -52,7 +52,7 @@ Choose either an elective or continue working on intermission week work.
 
 * Brennan Holtzclaw - Podcasting 102 in the Closet
 * Justin Pease - APIs (good for students entering module 3, but anyone welcome) in the Big Workspace
-* Rachel - Building a Lunch Account App for Equipo Academy at the Kitchen Table in the Big Workspace
+* Allan Blair - Intro to Key-Value Stores at the Kitchen Table in the Big Workspace
 * [1510 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown) in Classroom B
 * [1511 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-3.markdown) in Classroom C
 * [1602 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-2.markdown) in Classroom A
