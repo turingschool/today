@@ -110,6 +110,12 @@ With Andrew:
 
 ## 1602
 
+### Headcount / Black Thursday Project Debrief (9:00 - 12:00)
+
+When you're not having your project evaluated, spend **45 minutes** with your partner reflecting on how the project went. Use [these instructions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/project_debrief.md) to guide your discussion.
+
+After you've debriefed, spend the remaining time putting the finishing touches on your portfolio. Make sure your PR's are in order and your files are ready to go!
+
 ### Headcount / Black Thursday Evaluations (9:00 - 12:00)
 
 #### With Horace
@@ -138,7 +144,9 @@ With Andrew:
 We will perform these in this order, time is fuzzy since they can vary in length.
 
 We are going to try to get them all done today, so please be on deck and in the hole
-in advance.
+in advance. 10 minutes per person is a rough estimate, so we've included a few benchmarks
+below. However make sure you're keeping track of who's up so you don't get caught off
+guard if we are moving faster or slower than normal.
 
 * Alireza Andersen
 * Andrew Thompson
@@ -146,24 +154,24 @@ in advance.
 * Christine Gamble
 * Christopher Soden
 * Claudia Kiesenhofer
-* Colin Osborn
+* Colin Osborn (~ 1 PM)
 * Deborah Hamel
 * Emily McClung
 * Gurusundesh Khalsa
 * Ilana Corson
 * Jared Roth
-* Jeneve Parrish
+* Jeneve Parrish (~ 2 PM)
 * Jennifer Soden
 * Jonathan Bernesser
 * Johnathan Liss
 * Joshua Washke
 * Kami Boers
-* Kris Foss
+* Kris Foss (~ 3 PM)
 * Ling Tran
 * Marina Corona
 * Mark Miranda
 * Matt DesMarteau
-* Matt Pindell
+* Matt Pindell (~ 4 PM)
 * Patrick Hardy
 * Sal Espinosa
 * Thomas Pickett
