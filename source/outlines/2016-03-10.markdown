@@ -176,7 +176,6 @@ guard if we are moving faster or slower than normal.
 * Sal Espinosa
 * Thomas Pickett
 
-### Programming is Fun: Rtanque (1:00 - 4:00)
+### Programming is Fun: Electronics (1:00 - 4:00)
 
-Classroom A.
-
+Classroom B. **CLASSROOM B. WHUT!?**
