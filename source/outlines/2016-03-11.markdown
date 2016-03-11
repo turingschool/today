@@ -8,7 +8,7 @@ layout: outline
 ### Intermission Week Work Kick Off (9:00 - 9:15)
 
 * 1510 in Classroom B with Meeka
-* 1511 in Classroom C with Josh M.
+* 1511 in Classroom C with Josh M. [Link](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-3.markdown)
 * 1602 in Classroom A with Andrew
 
 ### Work Time (9:15 - 10:15)
