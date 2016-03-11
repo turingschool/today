@@ -15,7 +15,7 @@ layout: outline
 
 Before getting started, please complete your end-of-module survey.
 
-* [1510]()
+* [1510](https://docs.google.com/forms/d/1DhRHkZyMnpJTKFjHyJGfDUbMLMh5cEj-rGnGDrHX714/viewform)
 * [1511](https://docs.google.com/forms/d/1FQnBNwFKd-PpHBzSwx1OZIRDGnaHto1PFtvcn6OTfXA/viewform)
 * [1602]()
 
@@ -46,6 +46,23 @@ __**This was randomly generated besides the top three who volunteered to go yest
 * Chelsea Johnson
 
 #### 1510
+
+##### Portfolio Reviews (9:15 - ?)
+
+* Aaron Greenspan
+* Brant Wellman
+* Dan Winter
+* Edgar Duran
+* Beth Secor
+* Greg Armstrong
+* Hector Huertas Baeza
+* John Slota
+* Jordan Lawler
+* Joseph Perry
+* Justin Pease
+* Shannon Paige
+* Steven Olson
+* Toni Rib
 
 Get started on your [intermission week work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown).
 
