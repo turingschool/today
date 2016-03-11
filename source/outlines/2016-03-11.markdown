@@ -19,6 +19,32 @@ Before getting started, please complete your end-of-module survey.
 * [1511](https://docs.google.com/forms/d/1FQnBNwFKd-PpHBzSwx1OZIRDGnaHto1PFtvcn6OTfXA/viewform)
 * [1602]()
 
+### 1511 Portfolio Reviews(9:00 - 1:00)
+Think of this as a link list and know who your next node is. Please be ready to jump in as soon as the person before you gets started. In other words know when you're 'On Deck' or 'In The Hole'.
+
+__**This was randomly generated besides the top three who volunteered to go yesterday but we didn't have time to get to.**__
+
+* Alexis Navarrete
+* July Tran
+* Brennan Holtzclaw
+* Allan Blair
+* Adrienne Domingus
+* Erinna Chen
+* Admir Draganovic
+* Julian Feliciano
+* Heidi Hoopes
+* Nicholas Dorans
+* Nick Weiland
+* Kimiko Kano
+* Scott Firestone
+* David Whitaker
+* Charles Ellison
+* Nate Venn
+* Hedy Woo
+* Brian Rippeto
+* Adam Hundley
+* Chelsea Johnson
+
 #### 1510
 
 Get started on your [intermission week work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown).
