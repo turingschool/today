@@ -95,6 +95,6 @@ Gather in the big workspace.
 
 * ​*Git Workflow*​ in Classroom A with David Whitaker: Experiencing git-tastrophies?  Still unsure of how to optimize your git workflow?  Join me as I share some git tips and tricks that will make all of those headaches go away (hopefully) - great for module one folks.
 
-* ​*Building a Menu Bar Application with Electron*​ at the big staff table with Steve: This week we'll build a clipboard manager that sits in the menubar. We can save stuff to the app, we can copy it back to the clipboard, we can even publish it to a gist. We'll setup global shortcuts and notifications as well. Check it out [Clipmaster 9000](https://github.com/stevekinney/clipmaster-9000-tutorial).
+* ​*Building a Menu Bar Application with Electron*​ at the big staff table with Steve: This week we'll build a clipboard manager that sits in the menubar. We can save stuff to the app, we can copy it back to the clipboard, we can even publish it to a gist. We'll setup global shortcuts and notifications as well. Check it out: [Clipmaster 9000](https://github.com/stevekinney/clipmaster-9000-tutorial).
 
 * ​*The Turing Fight Song*​ the closet with Adam Hundley: Turing is a school and every school needs a fight song! We will collaboratively come up with a Turing Fight Song that will be proudly sung at all sporting events Turing is involved in. If you like being creative, rhyming and being extremely sarcastic then spend your hour with me.
