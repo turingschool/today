@@ -1,0 +1,120 @@
+---
+title: 20160311
+layout: outline
+---
+
+## All
+
+### Intermission Week Work Kick Off (9:00 - 9:15)
+
+* 1510 in Classroom B with Meeka
+* 1511 in Classroom C with Josh M. [Link](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-3.markdown)
+* 1602 in Classroom A with Andrew
+
+### Work Time (9:15 - 10:15)
+
+Before getting started, please complete your end-of-module survey.
+
+* [1510](https://docs.google.com/forms/d/1DhRHkZyMnpJTKFjHyJGfDUbMLMh5cEj-rGnGDrHX714/viewform)
+* [1511](https://docs.google.com/forms/d/1FQnBNwFKd-PpHBzSwx1OZIRDGnaHto1PFtvcn6OTfXA/viewform)
+* [1602](https://docs.google.com/forms/d/1z8S1MNKuhUBVIHkkL5NlqwiQzXKYu4lXbsVnhVljyos/viewform)
+
+### 1511 Portfolio Reviews(9:00 - 1:00)
+Think of this as a link list and know who your next node is. Please be ready to jump in as soon as the person before you gets started. In other words know when you're 'On Deck' or 'In The Hole'.
+
+__**This was randomly generated besides the top three who volunteered to go yesterday but we didn't have time to get to.**__
+
+* Alexis Navarrete
+* July Tran
+* Brennan Holtzclaw
+* Allan Blair
+* Adrienne Domingus
+* Erinna Chen
+* Admir Draganovic
+* Julian Feliciano
+* Heidi Hoopes
+* Nicholas Dorans
+* Nick Weiland
+* Kimiko Kano
+* Scott Firestone
+* David Whitaker
+* Charles Ellison
+* Nate Venn
+* Hedy Woo
+* Brian Rippeto
+* Adam Hundley
+* Chelsea Johnson
+
+#### 1510
+
+##### Portfolio Reviews (9:15 - ?)
+
+* Aaron Greenspan
+* Brant Wellman
+* Dan Winter
+* Edgar Duran
+* Beth Secor
+* Greg Armstrong
+* Hector Huertas Baeza
+* John Slota
+* Jordan Lawler
+* Joseph Perry
+* Justin Pease
+* Shannon Paige
+* Steven Olson
+* Toni Rib
+
+Get started on your [intermission week work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown).
+
+#### 1511 + 1602
+
+Find your pair listed below and start on [WebGuesser](http://tutorials.jumpstartlab.com/projects/web_guesser.html).
+
+* Adam Hundley & Alireza Andersen
+* Heidi Hoopes & Kris Foss & Patrick Hardy
+* Adrienne Domingus & Claudia Kiesenhofer
+* Admir Draganovic & Ashwin Rao
+* David Whitaker & Ling Tran
+* Brennan Holtzclaw & Deborah Hamel
+* Brian Rippeto & Matt DesMarteau
+* Nicholas Dorans & Jeneve Parrish
+* Nick Weiland & Matt Pindell
+* Charles Ellison & Mark Miranda
+* Chelsea Johnson & Marina Corona
+* Nate Venn & Jonathan Bernesser
+* Julian Feliciano & Kami Boers
+* Allan Blair & Gurusundesh Khalsa
+* July Tran & Joshua Washke
+* Alexis Navarrete & Andrew Thompson
+* Scott Firestone & Sal Espinosa
+* Kimiko Kano & Jonathan Liss
+
+### Electives & Intermission Week Work Time (10:15 - 12:30)
+
+Choose either an elective or continue working on intermission week work.
+
+* Brennan Holtzclaw - Podcasting 102 in the Closet
+* Justin Pease - APIs (good for students entering module 3, but anyone welcome) in the Big Workspace
+* Allan Blair - Intro to Key-Value Stores at the Kitchen Table in the Big Workspace
+* [1510 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-4.markdown) in Classroom B
+* [1511 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-3.markdown) in Classroom C
+* [1602 Intermission Week Work](https://github.com/turingschool/intermission-assignments/blob/master/prep-for-module-2.markdown) in Classroom A
+
+### Lunch (12:30 - 1:30)
+
+Eat food.
+
+### Lightning Talks (1:30 - 2:00)
+
+Gather in the Big Workspace.
+
+* Joseph Perry - Using Devise and Omniauth For External Authorization
+* Toni Rib - Rails ActiveRecord::Concern - How to share scopes between classes
+* Chelsea Johnson - Introduction to MMORPGs
+* Nate Venn - Content Centric Networking
+
+### Fishbowl Retros (2:00 - 4:00)
+
+* 1510 in Classroom B
+* 1511 in Classroom C
+* 1602 in Classroom A

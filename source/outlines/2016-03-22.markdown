@@ -1,0 +1,63 @@
+---
+title: 20160322
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**stentorian** - *adjective* - extremely loud
+
+
+## 1510
+
+### Debugging JavaScript (9:00 - 10:30)
+
+Clasroom C.
+
+### Unit Testing with Teaspoon (10:30 - 12:00)
+
+Classroom C.
+
+### Project Work Time and Checkins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1511
+
+
+## 1602
+
+### All: Talking Mentoring and Posses (9:00 - 9:30)
+
+Learn how to make the best use of your mentors and Posses with Mary,
+our Mentoring Coordinator.
+
+The proper form of address for Mary is, "Your Highness."
+
+### All: Posses and Mentors Q & A (9:30 - 10:00)
+
+Mary had to go, but Horace can answer your questions.
+
+### Echo: SuperFizz Recap (10:00 - 10:30)
+
+Mike at the table.
+
+### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
+
+Classroom A with Horace.
+
+### Echo: String and Integer Riddles (10:30 - 12:00)
+
+Stay at the table.
+
+### Foxtrot: Flow Control (10:30 - 12:00)
+
+Classroom A.
+
+### All: Improv (1:00 - 4:00)
+
+Classroom A.
+

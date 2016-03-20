@@ -1,0 +1,181 @@
+---
+title: 20160310
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* bowdlerize - transitive verb - to remove or modify the parts (of a book,
+for example) considered offensive.
+
+
+## 1508
+
+### Portfolio Reviews (9:00 - WE FINISH)
+
+In this order:
+
+* Aaron Careaga
+* Adam Jensen
+* Emily Dowdle
+* Jason Pilz
+* Jessica Goulding
+* Jill Donohue
+* Matt Rooney
+* Matt Stjernholm
+* Michael Wong
+* Pat Wey
+* Robbie Lane
+* Ross Edfort
+* Ryan Johnson
+* Sekhar Paladugu
+* Torie Warren
+* Tyler Komoroske
+* Jhun de Andres
+
+## 1510
+
+### Project Evaluations (9:00 - 12:00)
+
+#### With Josh
+* 9:00 - Lenny Myerson
+* 9:20 - Dan Winter
+* 9:40 - Joseph Perry
+* 10:00 - Taylor Moore and Jordan Lawler
+* 10:20 - BREAK
+* 10:40 - Brant Wellman
+* 11:00 - John Slota
+* 11:20 - James Crockett
+* 11:40 - David Stinnette
+
+#### With Tess
+* 9:00 - Aaron Greenspan
+* 9:20 - Greg Armstrong
+* 9:40 - Steven Olson
+* 10:00 - Toni Rib
+* 10:20 - BREAK
+* 10:40 - Justin Pease
+* 11:00 - Shannon Paige
+* 11:20 - Hector Huertas Baeza
+
+#### With Lovisa
+* 9:00 - Steve Pentler
+* 9:20 - Penney Garrett
+* 9:40 - Brenna Martenson
+* 10:00 - Edgar Duran
+* 10:20 - BREAK
+* 10:40 - Beth Sebian
+* 11:00 - Beth Secor
+* 11:20 - Cole Hall
+
+### Portfolio Reviews (1:00 - 4:00)
+
+* David Stinnette
+* Penney Garrett
+* Taylor Moore
+* Cole Hall
+* Beth Sebian
+* Brenna Martenson
+* James Crockett
+* Steve Pentler
+* Lenny Myerson
+
+Schedule TBD.
+
+
+## 1511
+
+### Little Shop Work Time (9:00 - 12:00)
+
+Almost there!
+
+* Erinna: portfolio evaluation at 9:00
+
+### Little Shop Evaluations (1:00 - 4:00)
+
+With Rachel:
+
+* 1:00 Bird Coffee
+* 1:45 Limewire
+* 2:30 Buen Suerte
+
+With Andrew:
+
+* 1:00 Exclusive Eminems
+* 1:45 lolololocommits
+* 2:30 Kompadres de Kitty
+
+
+## 1602
+
+### Headcount / Black Thursday Project Debrief (9:00 - 12:00)
+
+When you're not having your project evaluated, spend **45 minutes** with your partner reflecting on how the project went. Use [these instructions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/project_debrief.md) to guide your discussion.
+
+After you've debriefed, spend the remaining time putting the finishing touches on your portfolio. Make sure your PR's are in order and your files are ready to go!
+
+### Headcount / Black Thursday Evaluations (9:00 - 12:00)
+
+#### With Horace
+* 9:00 - Jared Roth & Alireza Andersen
+* 9:45 - Matt DesMarteau & Christine Gamble
+* 10:30 - Claudia Kiesenhofer & Patrick Hardy
+* 11:15 - Ilana Corson & Gurusundesh Khalsa
+
+#### With Nate
+* 9:00 - Joshua Washke & Deborah Hamel
+* 9:45 - Andrew Thompson & Ling Tran
+* 10:30 - Jonathan Bernesser & Thomas Pickett
+* 11:15 - Christopher Soden & Matt Pindell
+
+#### With Mike
+* 9:00 - Jeneve Parrish & Mark Miranda
+* 9:45 - Sal Espinosa & Kris Foss
+* 10:30 - Marina Corona & Kami Boers
+* 11:15 - Colin Osborn & Jonathan Liss
+
+#### With Andrew
+* 9:00 - Ashwin Rao & Jennifer Soden
+
+### Portfolio Reviews - (12:00 - ???)
+
+We will perform these in this order, time is fuzzy since they can vary in length.
+
+We are going to try to get them all done today, so please be on deck and in the hole
+in advance. 10 minutes per person is a rough estimate, so we've included a few benchmarks
+below. However make sure you're keeping track of who's up so you don't get caught off
+guard if we are moving faster or slower than normal.
+
+* Alireza Andersen
+* Andrew Thompson
+* Ashwin Rao
+* Christine Gamble
+* Christopher Soden
+* Claudia Kiesenhofer
+* Colin Osborn (~ 1 PM)
+* Deborah Hamel
+* Emily McClung
+* Gurusundesh Khalsa
+* Ilana Corson
+* Jared Roth
+* Jeneve Parrish (~ 2 PM)
+* Jennifer Soden
+* Jonathan Bernesser
+* Johnathan Liss
+* Joshua Washke
+* Kami Boers
+* Kris Foss (~ 3 PM)
+* Ling Tran
+* Marina Corona
+* Mark Miranda
+* Matt DesMarteau
+* Matt Pindell (~ 4 PM)
+* Patrick Hardy
+* Sal Espinosa
+* Thomas Pickett
+
+### Programming is Fun: Electronics (1:00 - 4:00)
+
+Classroom B. **CLASSROOM B. WHUT!?**

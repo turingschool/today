@@ -25,12 +25,12 @@ This morning, you'll be working through [a guided implementation of a small WebS
 #### With Steve
 
  * 1:00: Aaron Careaga
- * 1:20: Jessica Goulding
+ * 1:20: Robbie Lane
  * 1:40: Jason Pilz
  * 2:20: Michael Wong
  * 2:40: Ross Edfort
  * 3:00: Sekhar Paladugu
- * 3:20: Robbie Lane
+ * 3:20: Jessica Goulding
 
 #### With Meeka
 

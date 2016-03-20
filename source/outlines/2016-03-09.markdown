@@ -1,0 +1,132 @@
+---
+title: 20160309
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+* invective - noun - an abusive expression or speech; a vehement verbal
+attack
+
+## 1508
+
+### Job Hunt Q&A (9:00 - 10:00)
+
+Join Meeka and Marissa in Classroom B for a Q&A on all things jobs, future, etc.
+
+### One on Ones with Marissa
+
+* 10:00 - Marlo Major
+* 10:10 - Michael Wong
+* 10:20 - Sekhar Paladugu
+* 10:30 - Matt Rooney
+* 10:40 - Pat Wey
+* 10:50 - Tyler Komoroske
+* 11:00 - Jason Pilz
+* 11:10 - Matt Stjernholm
+* 11:20 - Aaron Careaga
+* 11:30 - Jill Donohue
+* 11:40 - Adam Jensen
+* 11:50 - Torie Warren
+
+### Final Assessment Evaluations (1:00 - 4:00)
+
+#### With Meeka
+
+* 1:00: Michael Wong
+* 1:20: Jill Donohue
+* 1:40: Sekhar Paladugu
+* 2:00: Tyler Komoroske
+
+#### With Jorge
+
+* 1:00: Adam Jensen
+* 1:30: Emily Dowdle
+* 2:00: Ryan Johnson
+
+## 1510
+
+### Final Assessments (9:00 - 4:00)
+
+#### With Josh
+
+* Beth Sebian
+* Shannon Paige
+* David Stinnette
+* James Crockett
+* Brenna Martenson
+* Cole Hall
+* Steve Pentler
+* Dan Winter
+* Edgar Duran
+* Beth Secor
+* Aaron Greenspan
+* Joseph Perry
+* Brant Wellman
+* Greg Armstrong
+* Toni Rib
+* Taylor Moore
+* Hector Huertas Baeza
+* John Slota
+* Jordan Lawler
+* Justin Pease
+* Penney Garrett
+* Steven Olson
+
+### Project work time (09:00 - 12:00)
+
+Work work work!
+
+Sign up for pairing slots with Tess and Lovisa on this [etherpad](https://public.etherpad-mozilla.org/p/pairing).
+
+(I had troubles accessing the Etherpad in Chrome. Try Firefox or another browser if you have issues.)
+
+## 1511
+
+### Final Assessments (9:00 - 12:00)
+
+#### With Rachel
+
+* 9:00 - Admir Draganovic
+* 9:45 - Scott Firestone
+* 10:30 - Brennan Holtzclaw
+* 11:15 - Chelsea Johnson
+
+#### With Andrew
+
+* 9:00 - Alexis Navarrete
+* 9:45 - Julian Feliciano
+* 10:30 - Erinna Chen
+* 11:15 - Allan Blair
+
+#### With Mike
+
+* 9:45 - Nate Venn
+* 10:30 - Kimiko Kano
+* 11:15 - Adrienne Domingus
+
+### Work Time (1:00 - 4:00)
+
+Work.
+
+
+## 1602
+
+### Work Time (9:00 - 10:30)
+
+You have a lot of work time today so make the most of it.
+It would be great to aim "pencils down" on new features by lunch time
+so that you leave a solid afternoon and evening for any testing or
+refactoring.
+
+That said, a last minute frantic feature frenzy can also provide great learnings.
+
+### Optional: Profiling and Improving Performance of Headcount / Black Thursday (10:30 - 12:00)
+
+If you feel like you have a handle on your basic features, join Horace in Classroom A to talk about a few tricks for speeding up these beastly projects.
+
+### Project Work Time (1:00 - 4:00)
+
+Work.

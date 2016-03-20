@@ -12,7 +12,7 @@ Please complete your survey at some point before 5pm today. Thanks!
 * [1508](https://docs.google.com/forms/d/1aho-Wg8NHtTNGZaUXLLW7UHZbu7O2gPG12SsrTMdp8E/viewform?usp=send_form)
 * [1510](http://goo.gl/forms/PtT5KqLEUZ)
 * [1511](https://docs.google.com/a/casimircreative.com/forms/d/1TBEv7XUFsg7YiyOgijtuWgo0ClGzEmugnLAsGQzDm6s/viewform)
-* [1602]()
+* [1602](https://docs.google.com/forms/d/1NjSUGpfF-1oK9Q8zlPkE0bqn9sPBEiKphpAHzEfwtvw/viewform)
 
 ### Posse Challenge Code Review (8:30 - 9:00)
 
@@ -21,6 +21,10 @@ Please complete your survey at some point before 5pm today. Thanks!
 * Alan Kay, Grace Hopper, Ezra Zygmuntowicz, Donald Knuth in classroom A with Andrew
 
 ### Instructional Time (9:00 - 10:00)
+
+#### 1508
+
+Project Work Time! Steve and Meeka are available to answer questions.
 
 #### 1511
 
@@ -36,11 +40,103 @@ With Andrew:
 
 * Adrienne
 
+#### 1602
+
+**Peer Portfolio Critique**
+
+Pairs are posted in slack.
+
+Get with your pair and follow this process:
+
+1. 30 Minutes - Person A reviews and critiques the portfolio of Person B.
+2. 30 Minutes - Person B reviews and critiques the portfolio of Person A.
+3. 30 Minutes - Take the feedback you received and use it to update and improve your portfolio.
+
+**Reviewing a Portfolio**
+
+As you are reviewing your partner's portfolio, focus on the following topics:
+
+1. Do they have the required content for each section? Are all the necessary projects accounted for?
+2. Does the porfolio add meaningful project commentary beyond a simple list of scores? Try to include at least 1 specific takeaway for each project.
+3. Does the portfolio tell the story of their progress and development throughout the module?
+
 ### Gear Up (10:00 - 11:00)
+
+Today we'll be reading, thinking, and discussing [Environmental Responsibility](https://github.com/turingschool/gear-up/blob/master/environmental_responsibility.markdown).
+
+We'll need two sets of groups explained below.
+
+#### Classroom A
+
+##### Part 1: Single Topic
+
+* *Apathy*: Jhun de Andres with Jonathan Liss & Amber Crawford & Shannon Paige & Matt Stjernholm & Allan Blair
+* *Policy & Systematic Change*: Patrick Hardy with Christopher Soden & Mark Miranda & Lenny Myerson & Ling Tran & Penney Garrett
+* *Resources as Fuel*: Sal Espinosa with Claudia Kiesenhofer & Jason Pilz & Ross Edfort
+* *Morality & Religion*: Justin Pease with Michael Wong & Edgar Duran & Brant Wellman & Jill Donohue & Taylor Moore
+
+##### Part 2: Jigsaw
+
+* Jhun de Andres with Jonathan Liss & Christopher Soden & Penney Garrett & Ross Edfort & Jill Donohue
+* Patrick Hardy with Amber Crawford & Allan Blair & Mark Miranda & Michael Wong & Taylor Moore
+* Sal Espinosa with Shannon Paige & Lenny Myerson & Claudia Kiesenhofer & Edgar Duran &
+* Justin Pease with Matt Stjernholm & Ling Tran & Jason Pilz & Brant Wellman &
+
+#### Classroom B
+
+##### Part 1: Single Topic
+
+* *Radical Environmentalism*: Brenna Martenson with Ilana Corson & Aaron Careaga & Beth Sebian & Marlo Major & Brian Rippeto
+* *Apathy*: Alireza Andersen with Charles Ellison & Sekhar Paladugu & Colin Osborn & Steven Olson & Kris Foss
+* *Policy & Systematic Change*: Chelsea Johnson with Christine Gamble & Deborah Hamel & Matt DesMarteau & Kimiko Kano & Pat Wey
+* *Resources as Fuel*: David Whitaker with Alexis Navarrete & Jonathan Bernesser & Ryan Johnson & Marina Corona & Adam Jensen
+
+##### Part 2: Jigsaw
+
+* Brenna Martenson with Marlo Major & Colin Osborn & Deborah Hamel & Alexis Navarrete & Adam Jensen
+* Alireza Andersen with Ilana Corson & Brian Rippeto & Steven Olson & Matt DesMarteau & Jonathan Bernesser
+* Chelsea Johnson with Aaron Careaga & Charles Ellison & Kris Foss & Kimiko Kano & Ryan Johnson
+* David Whitaker with Beth Sebian & Sekhar Paladugu & Christine Gamble & Pat Wey & Marina Corona
+
+#### Classroom C
+
+##### Part 1: Single Topic
+
+* *Morality & Religion*: Nate Venn with Matt Pindell & Brennan Holtzclaw & Jennifer Soden & July Tran & Ashwin Rao
+* *Radical Environmentalism*: Nicholas Dorans with David Stinnette & Andrew Thompson & Emily Dowdle & Jeneve Parrish & Adrienne Domingus
+* *Apathy*: Thomas Pickett with Gurusundesh Khalsa & Erinna Chen & James Crockett & Toni Rib & Steve Pentler
+
+##### Part 2: Jigsaw
+
+* Nate Venn with Jennifer Soden & David Stinnette & Jeneve Parrish & Erinna Chen & Steve Pentler
+* Nicholas Dorans with Matt Pindell & July Tran & Andrew Thompson & Adrienne Domingus & James Crockett
+* Thomas Pickett with Brennan Holtzclaw & Ashwin Rao & Emily Dowdle & Gurusundesh Khalsa & Toni Rib
+
+#### Workspace
+
+##### Part 1: Single Topic
+
+* *Policy & Systematic Change*: Kami Boers with John Slota & Hector Huertas Baeza & Tyler Komoroske & Joshua Washke & Joseph Perry
+* *Resources as Fuel*: Beth Secor with Adam Hundley & Jordan Lawler & Dan Winter & Torie Warren & Robbie Lane
+* *Morality & Religion*: Heidi Hoopes with Scott Firestone & Cole Hall & Admir Draganovic & Nick Weiland & Matt Rooney
+* *Radical Environmentalism*: Julian Feliciano with Greg Armstrong & Aaron Greenspan & Jared Roth
+
+##### Part 2: Jigsaw
+
+* Kami Boers with Joshua Washke & Dan Winter & Cole Hall & Greg Armstrong
+* Beth Secor with John Slota & Joseph Perry & Torie Warren & Admir Draganovic & Aaron Greenspan
+* Heidi Hoopes with Hector Huertas Baeza & Adam Hundley & Robbie Lane & Nick Weiland & Jared Roth
+* Julian Feliciano with Tyler Komoroske & Jordan Lawler & Scott Firestone & Matt Rooney
 
 ### Guest Speaker: Jacqueline Ros (11:00 - 12:00)
 
-Gather in the big workspace.
+Today we'll be joined by Jackie Ros from Revolar. You can learn more about her here:
+
+* [Revolar the company](https://revolar.com/)
+* [Jackie's company profile](https://revolar.com/jacqueline/)
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-ros-ba4149a1)
+* [Jackie on Twitter](https://twitter.com/jackie_ros)
+* [An interview on Smart Girls](http://amysmartgirls.com/revolars-jacqueline-ros-discusses-a-movement-of-empowerment/)
 
 ### Lunch Roulette (12:00 - 1:15)
 
