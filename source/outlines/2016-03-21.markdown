@@ -55,7 +55,11 @@ Meet in the Big Workspace.
 
 ## Module 2 Kickoff and Goal Setting (9:30 - 10:30)
 
-Big Workspace.
+Meet in the Big Workspace with Rachel and Andrew. You'll want to bookmark the following links: 
+
+* [Calendar for Module 2](https://www.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9ycHMyaGcxbmZxamloNHJjbDNnbDZzNGxwa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
+* [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/README.md)
+* [Module 2 Homework](https://github.com/turingschool/turing-homework/blob/master/module-2-homework.markdown)
 
 ## Intro to Sinatra/Task Manager (10:30 - 12:00)
 
@@ -63,7 +67,7 @@ Big Workspace STILL.
 
 ## Intro to Bootsrap (1:00 - 4:00)
 
-Guess who wrote the initial version of this lesson. I bet you can't tell.
+Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown). 
 
 # 1603
 
