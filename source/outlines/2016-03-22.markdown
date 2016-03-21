@@ -13,7 +13,7 @@ layout: outline
 
 
 * Shannon Paige, Anna Weisbrodt, Mark Miranda, Horace
-* Alireza Andersen, Charissa Lawrence, Erin Greenhalgh, Mike 
+* Alireza Andersen, Charissa Lawrence, Erin Greenhalgh, Mike
 * Aaron Greenspan, Adam Hundley, Joshua Washke, Lovisa
 * Steve Pentler, Sal Espinosa, Charles Kaminer, Andrew
 * Christine Gamble, Allan Blair, Jonathan Liss, Rachel
@@ -39,7 +39,7 @@ layout: outline
 * Robert Jaeger, Penney Garrett, July Tran
 * Ryan Batty, James Crockett, Beth Secor
 * Sonia Gupta, Justin Pease, Brant Wellman
-* 
+*
 
 
 ## 1510
@@ -76,10 +76,15 @@ Nate in Classroom B.
 
 Come meet with your client in this order:
 
+#### Josh
+
 - Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson: Farmer’s Market
 - Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
-- Charissa Lawrence, Nick Weiland, Kimiko Kano: Lending
 - Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+
+#### Nate
+
+- Charissa Lawrence, Nick Weiland, Kimiko Kano: Lending
 - Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
 - Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes: Collector?
 
