@@ -9,7 +9,7 @@ layout: outline
 
 **acclimate** - _verb_ - to accustom or become accustomed to a new climate, environment, or situation.
 
-## Welcome 1602
+## Welcome 1603
 
 Feel free to introduce yourselves to anyone you don't recognize.
 
@@ -47,6 +47,29 @@ Meeka and Tess will be in the Big Workspace for all of your questioning needs.
 
 # 1511
 
+## State of Turing (9:00 - 9:30)
+
+Meet in the Big Workspace.
+
+## Meet your instructors (9:30 - 10:30)
+
+You'll be spending a lot of time with us, and we'd like take some time to get to know each other
+
+## The Pivot: The Kickoff (10:30 - 12:00)
+
+You'll be working in groups for this project:
+
+- Erinna Chen, David Whitaker, Chelsea Johnson
+- Alexis Navarrete, Nate Venn, Adam Hundley
+- Charissa Lawrence, Nick Weiland, Kimiko Kano
+- Adrienne Domingus, Scott Firestone, Brian Rippeto
+- Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes
+- Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson
+
+## Project Work Time (1:00 - 2:30)
+
+## Small Groups (2:30 - 4:00)
+
 # 1602
 
 ## State of Turing (9:00 - 9:30)
@@ -55,7 +78,7 @@ Meet in the Big Workspace.
 
 ## Module 2 Kickoff and Goal Setting (9:30 - 10:30)
 
-Meet in the Big Workspace with Rachel and Andrew. You'll want to bookmark the following links: 
+Meet in the Big Workspace with Rachel and Andrew. You'll want to bookmark the following links:
 
 * [Calendar for Module 2](https://www.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9ycHMyaGcxbmZxamloNHJjbDNnbDZzNGxwa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
 * [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/README.md)
@@ -67,7 +90,7 @@ Big Workspace STILL.
 
 ## Intro to Bootsrap (1:00 - 4:00)
 
-Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown). 
+Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown).
 
 # 1603
 
