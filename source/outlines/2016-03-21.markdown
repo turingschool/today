@@ -37,7 +37,7 @@ Meet in Classroom C with Meeka, Steve, and Tess. Steve will go over what it mean
 Stay in Classroom C as Meeka kicks off your very first project.
 
 - [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
-- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1508/module_4_assignments/ideabox2.0)
+- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/ideabox2.0)
 
 ## Project Work Time and Instructor Pairing (1:00 - 4:00)
 
