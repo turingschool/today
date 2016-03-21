@@ -27,6 +27,30 @@ Schedule TBD.
 
 ## 1511
 
+### Understanding Multitenancy (9:00 - 11:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
+
+### Seeding Data Efficiently (11:00 - 12:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Come meet with your client in this order:
+
+- Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson: Farmer’s Market
+- Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
+- Charissa Lawrence, Nick Weiland, Kimiko Kano: Lending
+- Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+- Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
+- Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes: Collector?
+
 
 ## 1602
 
@@ -60,4 +84,3 @@ Classroom A.
 ### All: Improv (1:00 - 4:00)
 
 Classroom A.
-
