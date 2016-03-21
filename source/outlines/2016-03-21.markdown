@@ -86,7 +86,7 @@ Meet in the Big Workspace with Rachel and Andrew. You'll want to bookmark the fo
 
 ## Intro to Sinatra/Task Manager (10:30 - 12:00)
 
-Big Workspace STILL.
+Big Workspace STILL. [Here is our check for understanding.](https://gist.github.com/Carmer/f382765ddcc76d709db9) answer the questions in the comments 
 
 ## Intro to Bootsrap (1:00 - 4:00)
 
