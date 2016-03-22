@@ -153,3 +153,35 @@ Join Jeff in the BigWorkspace to chat about all those tubes that make up the int
 ### CRUD in Sinatra Workshop (12:00 - 4:00)
 
 Come to classroom B to learn about CRUD in Sinatra. [This is the lesson pla.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+## 1603
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentors Q & A (9:30 - 10:00)
+
+### Echo: SuperFizz Recap (10:00 - 10:30)
+
+Mike at the table.
+
+### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
+
+Classroom A with Horace.
+
+### Echo: String and Integer Riddles (10:30 - 12:00)
+
+Stay at the table.
+
+### Foxtrot: Flow Control (10:30 - 12:00)
+
+Classroom A.
+
+### All: Improv (1:00 - 3:00)
+
+Classroom A.
+
+### All: Student Activities Mixer (3:00 - 4:00)
+
+STAY THERE
