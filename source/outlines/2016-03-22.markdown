@@ -59,17 +59,18 @@ Schedule TBD.
 
 ## 1511
 
-### Understanding Multitenancy (9:00 - 11:00)
 
-Nate in Classroom B.
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
-
-### Seeding Data Efficiently (11:00 - 12:00)
+### Seeding Data Efficiently (9:00 - 10:00)
 
 Nate in Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
+### Understanding Multitenancy (10:00 - 12:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
 
 
 ### Project Checkins and Work Time (1:00 - 4:00)
