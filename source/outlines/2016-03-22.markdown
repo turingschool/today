@@ -43,6 +43,10 @@ layout: outline
 
 ## 1510
 
+### Homework
+
+[Fork this gist on ES6 and respond](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
+
 ### Debugging JavaScript (9:00 - 10:30)
 
 Clasroom C.
