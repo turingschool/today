@@ -50,9 +50,15 @@ layout: outline
 
 Classroom C.
 
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
 ### Unit Testing with Teaspoon (10:30 - 12:00)
 
 Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
