@@ -44,8 +44,7 @@ layout: outline
 ## 1510
 
 ### Homework
-
-[Fork this gist on ES6 and respond](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
+- Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end and [submit it here](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/dev-tools-homework). (5 points)
 
 ### Debugging JavaScript (9:00 - 10:30)
 

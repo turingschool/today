@@ -5,6 +5,11 @@ layout: outline
 
 # All
 
+# 1508
+
+### Homework
+
+[Fork this gist on ES6 and respond](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
 
 # 1602
 
