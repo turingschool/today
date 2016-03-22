@@ -36,10 +36,9 @@ layout: outline
 * Nick Pisciotta, Andrew Thompson, Brenna Martenson, Heidi Hoopes
 * Hedy Woo, Marlo Major, Parker Phillips, Brian Sayler
 * Peter Springer, Dan Winter, Jerrod Junker, Matt Pindell
-* Robert Jaeger, Penney Garrett, July Tran
+* Robert Jaeger, Penney Garrett, July Tran, Nate
 * Ryan Batty, James Crockett, Beth Secor
 * Sonia Gupta, Justin Pease, Brant Wellman
-*
 
 
 ## 1510
