@@ -8,18 +8,18 @@ layout: outline
 
 # 1602
 
-### (9:00 - 9:30)
+### CRUD Review (9:00 - 9:30)
 
 Come to Classroom B.
 
-### (9:30 - 12:00)
+### Model Testing in Sinatra (9:30 - 12:00)
 
 Come to Classroom B.
 
-### (1:00 - 1:30)
+### Nokogiri (1:00 - 1:30)
 
 Come to Classroom B.
 
-### (1:30 - 4:00)
+### Acceptance testing with Capybara (1:30 - 4:00 )
 
 Come to Classroom B.
