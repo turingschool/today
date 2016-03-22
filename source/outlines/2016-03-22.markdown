@@ -130,7 +130,7 @@ Come meet with your client in this order:
 
 ## 1602
 
-### Peer Review: HTML/CSS/Bootstrap (9:00 - 9:30)
+### Peer Review: HTML/CSS/Bootstrap (9:00 - 10:00)
 
 Get with your partner and talk about the styling you implemented in your TaskManger app for homework last night. [Here](https://gist.github.com/Carmer/52b20bbe29d89dfa3f00) are some things to talk about/think about during your review session.
 
@@ -146,9 +146,7 @@ Get with your partner and talk about the styling you implemented in your TaskMan
 * Gurusundesh Khalsa & Hedy Woo
 * Patrick Hardy & Claudia Kiesenhofer
 
-
-
-### How The Web Works (9:30 - 12:00)
+### How The Web Works (10:00 - 12:00)
 
 Join Jeff in the BigWorkspace to chat about all those tubes that make up the interwebs.
 
