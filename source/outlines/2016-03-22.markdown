@@ -48,7 +48,7 @@ layout: outline
 
 ### Debugging JavaScript (9:00 - 10:30)
 
-Classroom C.
+Me with Meeka in Classroom C.
 
 - Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
 
@@ -56,14 +56,44 @@ Classroom C.
 
 ### Unit Testing with Teaspoon (10:30 - 12:00)
 
-Classroom C.
+Stick around with Meeka in Classroom C.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
-Schedule TBD.
+(All times are estimates.)
 
+#### With Steve
+
+- 1:00 - 1:20: Brenna Martenson
+- 1:20 - 1:40: Steven Olson
+- 1:40 - 2:00: Edgar Duran
+- 2:00 - 2:20: Brant Wellman
+- 2:40 - 3:00: Aaron Greenspan
+- 3:00 - 3:20: Dan Winter
+- 3:20 - 3:40: Toni Rib
+
+#### With Tess
+
+- 1:00 - 1:20: Hector Huertas Baeza
+- 1:20 - 1:40: Jordan Lawler
+- 1:40 - 2:00: Beth Secor
+- 2:00 - 2:20: Greg Armstrong
+- 2:40 - 3:00: James Crockett
+- 3:00 - 3:20: John Slota
+- 3:20 - 3:40: Joseph Perry
+- 3:40 - 4:00: Justin Pease
+
+#### With Meeka
+
+- 1:00 - 1:20: Taylor Moore
+- 1:20 - 1:40: Shannon Paige
+- 1:40 - 2:00: Penney Garrett
+- 2:00 - 2:20: Beth Sebian
+- 2:40 - 3:00: Marlo Major
+- 3:00 - 3:20: David Stinnette
+- 3:20 - 3:40: Steve Pentler
 
 ## 1511
 
