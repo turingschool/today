@@ -112,3 +112,7 @@ Get with your partner and talk about the styling you implemented in your TaskMan
 ### How The Web Works (9:30 - 12:00)
 
 Join Jeff in the BigWorkspace to chat about all those tubes that make up the interwebs.
+
+### CRUD in Sinatra (12:00 - 4:00)
+
+Come to classroom B to learn about CRUD in Sinatra. [This is the lesson pla.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
