@@ -19,7 +19,7 @@ We'll do a whole group discussion and review.
 - [Clone down this repository][mdn]. You'll be using it all module.
 - You'll be working through [this tutorial][apm].
 - There are are some tests in `demos/array-prototype-methods` that go along with the tutorials.
-- You're job is to make those tests pass.
+- Your job is to make those tests pass.
 - You'll be filling out these [checks for understanding][cfu].
 - **Extension**: We cover a number of other useful methods [here][add].
 
