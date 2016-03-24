@@ -86,3 +86,21 @@ After the quick intro to Sequel we'll work through [Getting Started With Sequel]
 
 
 ### Transfer TaskManager to Sequel (1:30 - 4:00 )
+
+## 1603
+
+### Essential Enumerables (9:00 - 10:30)
+
+With Mike
+
+### Introducing Hashes (10:30 - 12:00)
+
+With Horace
+
+### Objects, Instances, Classes (1:00 - 3:00)
+
+With Horace
+
+### Command and Query (3:00 - 4:00)
+
+With Mike
