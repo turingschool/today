@@ -61,6 +61,8 @@ Also, a few of you have one-on-ones with Allison. Check [here](https://docs.goog
 
 Let's give this another go. Join me (Andrew) [Here](https://plus.google.com/events/c2edcns6o7e4bkt7h7kqvku0p24) for the broadcast and we'll also try out Slack's call feature in the #1602 channel to try to talk too.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/cnT-iagCzSA" frameborder="0" allowfullscreen></iframe>
+
 ### Introduction to SQL (9:30 - 10:30)
 
 Same broadcast - new material. Let's start class with a basic rundown of SQL.
