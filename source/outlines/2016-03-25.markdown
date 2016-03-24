@@ -9,14 +9,12 @@ layout: outline
 
 Please complete your survey at some point before 5pm today. Thanks!
 
-* [1508](https://docs.google.com/forms/d/1aho-Wg8NHtTNGZaUXLLW7UHZbu7O2gPG12SsrTMdp8E/viewform?usp=send_form)
-* [1510](http://goo.gl/forms/PtT5KqLEUZ)
-* [1511](https://docs.google.com/a/casimircreative.com/forms/d/1TBEv7XUFsg7YiyOgijtuWgo0ClGzEmugnLAsGQzDm6s/viewform)
-* [1602](https://docs.google.com/forms/d/1NjSUGpfF-1oK9Q8zlPkE0bqn9sPBEiKphpAHzEfwtvw/viewform)
+* [1508]()
+* [1510]()
+* [1511](https://docs.google.com/forms/d/1g5r_woqzR1QrU0pWozcPlOJGeNeIzwWVzUYo23xbrRE/viewform)
+* [1602]()
 
 ### Lunch Roulette Groups
-
-
 * Shannon Paige, Anna Weisbrodt, Mark Miranda, Horace
 * Alireza Andersen, Charissa Lawrence, Erin Greenhalgh, Mike
 * Aaron Greenspan, Adam Hundley, Joshua Washke, Lovisa
@@ -47,4 +45,29 @@ Please complete your survey at some point before 5pm today. Thanks!
 
 ### Instructional Time (9:00 - 11:00)
 
+## 1510
 
+Classroom C.
+
+## 1511
+
+Meet in Classroom B
+
+#### Homework review
+Let's go over the Intermediate SQL lesson.
+
+#### Q&A
+Get a chance to ask questions about this week's lessons, or the Pivot.
+
+#### Work time
+Get a chance to work in the person with your team for the first time in a couple days.
+
+[Weekly Survey](https://docs.google.com/forms/d/1g5r_woqzR1QrU0pWozcPlOJGeNeIzwWVzUYo23xbrRE/viewform)
+
+## 1602
+
+Big Workspace
+
+## 1603
+
+Classroom A.
