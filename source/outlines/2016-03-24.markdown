@@ -38,6 +38,7 @@ Work through the [Intermediate SQL](https://github.com/turingschool/lesson_plans
 *Submitting your work:* Keep a gist with the queries you write.
 
 Answer the following questions:
+
 * What is an INNER JOIN?
 * What is a LEFT OUTER JOIN?
 * What is a RIGHT OUTER JOIN?`
