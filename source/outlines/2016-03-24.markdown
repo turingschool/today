@@ -9,6 +9,8 @@ layout: outline
 
 ### Project work time and one on ones (9:00 - 10:30)
 
+For those that are present at Turing, let's meet in Classroom C at 9:00 for a brief chat to put together a plan for the day. We want to get a sense of how many students are remote and how many are in the building.
+
 #### With Nate
 * Scott Firestone
 * Nicholas Dorans
