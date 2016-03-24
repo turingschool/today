@@ -9,9 +9,11 @@ layout: outline
 
 ### The Plan
 
+For those that are present at Turing, let's meet in Classroom C at 9:00 for a brief chat to put together a plan for the day. We want to get a sense of how many students are remote and how many are in the building.
+
 One on ones have been moved to Tuesday next week, during the time previously reserved for check-ins. Check-ins will move to Monday afternoon.
 
-If you had a 1 on 1 with Allison today, she will reach out and reschedule.
+If you had a one on one with Allison today, she will reach out and reschedule.
 
 Tomorrow's instructional time (Intermediate SQL) will be assigned as homework due tomorrow morning.
 
@@ -35,14 +37,46 @@ Tomorrow's instructional time (Intermediate SQL) will be assigned as homework du
 
 ### What is Rack? (9:00 - 9:30)
 
-Come to Classroom C.
+Let's give this another go. Join me (Andrew) [Here](https://plus.google.com/events/c2edcns6o7e4bkt7h7kqvku0p24) for the broadcast and we'll also try out Slack's call feature in the #1602 channel to try to talk too.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/cnT-iagCzSA" frameborder="0" allowfullscreen></iframe>
 
 ### Introduction to SQL (9:30 - 10:30)
 
-Come to Classroom C.
+Same broadcast - new material. Let's start class with a basic rundown of SQL.
+
+Then
+
+We'll do an SQL challenge. It's based on the [fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html#stq=&stp=0) so if you didn't get all the way through that, go ahead and finish it first.
+
+[Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/explore_sql.md) is the challenge.
+
 
 ### Intro to Sequel (10:30 - 12:00)
 
-Come to Classroom C.
+Intro to the 'Raquel' of ruby ORM's - Sequel. - It's a joke... get it?
+
+[Here are the slides](https://www.dropbox.com/s/75t98l4lnmr1ub4/intro_to_sequel.key?dl=0)
+
+After the quick intro to Sequel we'll work through [Getting Started With Sequel](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
+
 
 ### Transfer TaskManager to Sequel (1:30 - 4:00 )
+
+## 1603
+
+### Essential Enumerables (9:00 - 10:30)
+
+With Mike
+
+### Introducing Hashes (10:30 - 12:00)
+
+With Horace
+
+### Objects, Instances, Classes (1:00 - 3:00)
+
+With Horace
+
+### Command and Query (3:00 - 4:00)
+
+With Mike
