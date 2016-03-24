@@ -5,6 +5,20 @@ layout: outline
 
 ## All
 
+## 1510
+
+### On Dependencies (9:00 - 12:00)
+
+This morning work through [this assignment](https://gist.github.com/rrgayhart/a3517e56174270c3c3e7) based on some recent drama in the developer community.
+
+### Ideabox Review (1:00 - 4:00)
+
+'Pencils down' (i.e. no more commits) on IdeaBox’s master branch by noon today - but you can work on any refactors on a different branch and we can talk about them at evals next week if you want to.
+
+Steve will send out a link to a tutorial based around his implementation of IdeaBox at noon that you’ll be working on for the afternoon.
+
+- [Ideabox Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/ideabox2.0)
+
 ## 1511
 
 ### The Plan
