@@ -59,14 +59,26 @@ Also, a few of you have one-on-ones with Allison. Check [here](https://docs.goog
 
 ### What is Rack? (9:00 - 9:30)
 
-Come to Classroom C.
+Let's give this another go. Join me (Andrew) [Here](https://plus.google.com/events/c2edcns6o7e4bkt7h7kqvku0p24) for the broadcast and we'll also try out Slack's call feature in the #1602 channel to try to talk too.
 
 ### Introduction to SQL (9:30 - 10:30)
 
-Come to Classroom C.
+Same broadcast - new material. Let's start class with a basic rundown of SQL.
+
+Then
+
+We'll do an SQL challenge. It's based on the [fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html#stq=&stp=0) so if you didn't get all the way through that, go ahead and finish it first.
+
+[Here]() is the challenge.
+
 
 ### Intro to Sequel (10:30 - 12:00)
 
-Come to Classroom C.
+Intro to the 'Raquel' of ruby ORM's - Sequel. - It's a joke... get it?
+
+[Here are the slides](https://www.dropbox.com/s/75t98l4lnmr1ub4/intro_to_sequel.key?dl=0)
+
+After the quick intro to Sequel we'll work through [Getting Started With Sequel](http://tutorials.jumpstartlab.com/topics/sql/sequel.html)
+
 
 ### Transfer TaskManager to Sequel (1:30 - 4:00 )
