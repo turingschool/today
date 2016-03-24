@@ -18,14 +18,14 @@ layout: outline
 * Kimiko Kano
 * Brian Rippeto
 * Adam Hundley
-* Charissa Lawrence
+* Erinna Chen
 * Chelsea Johnson
 
 #### With Josh
 * Alexis Navarrete
 * Brennan Holtzclaw
 * Nate Venn
-* Erinna Chen
+* Charissa Lawrence
 * Jerrod Junker
 * Julian Feliciano
 * Lenny Myerson
