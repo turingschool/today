@@ -71,7 +71,7 @@ Then
 
 We'll do an SQL challenge. It's based on the [fundamental SQL tutorial](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html#stq=&stp=0) so if you didn't get all the way through that, go ahead and finish it first.
 
-[Here]() is the challenge.
+[Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/explore_sql.md) is the challenge.
 
 
 ### Intro to Sequel (10:30 - 12:00)
