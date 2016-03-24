@@ -7,37 +7,19 @@ layout: outline
 
 ## 1511
 
-### Project work time and one on ones (9:00 - 10:30)
+### The Plan
 
-#### With Nate
-* Scott Firestone
-* Nicholas Dorans
-* Allan Blair
-* David Whitaker
-* Nick Weiland
-* Kimiko Kano
-* Brian Rippeto
-* Adam Hundley
-* Charissa Lawrence
-* Chelsea Johnson
+One on ones have been moved to Tuesday next week, during the time previously reserved for check-ins. Check-ins will move to Monday afternoon.
+
+If you had a 1 on 1 with Allison today, she will reach out and reschedule.
+
+Tomorrow's instructional time (Intermediate SQL) will be assigned as homework due tomorrow morning.
+
+### Project work time (9:00 - 12:00)
+
+### Project work time and check-ins (1:00 - 4:00)
 
 #### With Josh
-* Alexis Navarrete
-* Brennan Holtzclaw
-* Nate Venn
-* Erinna Chen
-* Jerrod Junker
-* Julian Feliciano
-* Lenny Myerson
-* Heidi Hoopes
-* Adrienne Domingus
-* July Tran
-
-
-### Project work time and check-ins (10:30 - 12:00)
-
-#### With Josh
-
 - Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
 - Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson: Farmer’s Market
 - Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
@@ -47,12 +29,6 @@ layout: outline
 - Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
 - Charissa Lawrence, Nick Weiland, Kimiko Kano: Lending
 - Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes: Collector?
-
-### Project work time and remaining check-ins (1:00 - 4:00)
-
-Any check-ins that we didn't get to in the morning will happen in the afternoon.
-
-Also, a few of you have one-on-ones with Allison. Check [here](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
 
 
 ## 1602
