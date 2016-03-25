@@ -71,7 +71,7 @@ Get a chance to work in the person with your team for the first time in a couple
 
 ## 1602
 
-Big Workspace
+Big Workspace -  We'll go over and review everything we did for the last few days. Once we finish up with Q&A we will go through and debug a sinatra application. This will be a code along/watch me debug. [Here is the repo](git@github.com:rwarbelow/1511_task_manager.git) checkout the branch `debugging-practice`.
 
 ## 1603
 
