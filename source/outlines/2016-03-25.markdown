@@ -108,7 +108,7 @@ Big Workspace
 
 * *From Ruby to Elixir* in Horace's Lair with Hector Huertas Baeza & Aaron Greenspan: Introduction to Elixir for Ruby programmers. We’ll go over the main differences between  object oriented and functional programming, using ruby and elixir as examples.
 
-* * Make Mod 1 a Little Easier: Using Atom, Terminal, and other tools* in Classroom C with Andrew Thompson & Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be incredibly useful throughout Turing, but especially at the beginning.
+* *Make Mod 1 a Little Easier: Using Atom, Terminal, and other tools* in Classroom C with Andrew Thompson & Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be incredibly useful throughout Turing, but especially at the beginning.
 
 * *Materialize CSS for Mod 2/3* in the Big Workspace with Steve Pentler: Save hours of your life and hide your gnasty back-end code with Materialize CSS. "People that style are 1.4X more valuable during group projects." - Dennis Rodman
 
