@@ -84,13 +84,13 @@ Classroom A.
 
 Big Workspace.
 
-### Retro (1:15 - 2:00)
+### Retro (1:15 - 2:15)
 * 1603 - Classroom A
 * 1602 - Big Workspace
 * 1511 - Classroom B
 * 1510 - Classroom C
 
-### Lighting Talks (2:00 - 3:00)
+### Lighting Talks (2:15 - 3:00)
 
 * Ashwin Rao - Developing for Ecommerce Marketing
 * Adrienne Domingus The Turing Test: What it means to Humanity and AI
