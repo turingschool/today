@@ -75,15 +75,24 @@ Get a chance to work in the person with your team for the first time in a couple
 
 Big Workspace -  We'll go over and review everything we did for the last few days. Once we finish up with Q&A we will go through and debug a sinatra application. This will be a code along/watch me debug. [Here is the repo](git@github.com:rwarbelow/1511_task_manager.git) checkout the branch `debugging-practice`.
 
-#### Guest Speaker (11:00 - 12:00)
-
-#### Retro (1:15 - 2:00)
-
-#### Lighting Talks (2:00 - 3:00)
-
-#### Student-Lead Sessions (3:00 - 4:00)
-
-
 ## 1603
 
 Classroom A.
+
+### Guest Speaker (11:00 - 12:00)
+
+Big Workspace.
+
+### Retro (1:15 - 2:00)
+* 1603 - Classroom A
+* 1602 - Big Workspace
+* 1511 - Classroom B
+* 1510 - Classroom C
+
+### Lighting Talks (2:00 - 3:00)
+
+Big Workspace
+
+### Student-Lead Sessions (3:00 - 4:00)
+
+
