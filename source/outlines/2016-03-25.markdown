@@ -46,10 +46,12 @@ Please complete your survey at some point before 5pm today. Thanks!
 
 ## 1510
 
-#### Refactoring Ideabox and Other Questions from the Week (9:00 - 10:30)
+#### Refactoring Ideabox and Other Questions from the Week (9:00 - 11:00)
 
 Join Steve in Classroom C to live refactor his bad code, answer your questions, and wax poetic.
 
+- [Your list of questions](https://gist.github.com/rrgayhart/6863cd83ca38686ec4fc)
+- [Array.prototype methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods)
 - [Steve's Idea Box](https://github.com/stevekinney/idea-box)
 
 ## 1511
