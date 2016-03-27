@@ -1,0 +1,143 @@
+---
+title: 20160328
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* profligate - adjective - open and shamelessly immoral; dissipated;
+dissolute
+
+### Friday Lunch Roulette Groups
+
+* Anna Weisbrodt, Edgar Duran, Brennan Holtzclaw, Meeka
+* Claudia Kiesenhofer, Steven Olson, Brian Sayler, Steve
+* Chelsea Johnson, Charles Kaminer, Toni Rib, Josh
+* Alireza Andersen, Nick Weiland, John Slota, Nate
+* Brant Wellman, Heidi Hoopes, Ji Kim, Tess
+* Linda McCartney, Colin Osborn, Julian Feliciano, Andrew
+* Patrick Hardy, Denali Lord, Jerrod Junker, Rachel
+* Lenny Myerson, Scott Firestone, Ilana Corson, Horace
+* James Crockett, Jason Hanna, Adrienne Domingus, Lovisa
+* Marcella Wigg, Marlo Major, Sal Espinosa, Mike
+* Beth Sebian, Matt Pindell, Jennifer Soden, Jeff
+* Ling Tran, Dan Winter, Erin Greenhalgh, Jorge
+* Joshua Cohen, Aaron Greenspan, Kami Boers, Allison
+* Andrew Thompson, Beth Secor, Karina Gonzales, Joanne
+* Hector Huertas Baeza, Kerry Sheldon, Allan Blair,
+* Joseph Perry, Kris Sparks, July Tran, Jeneve Parrish
+* Marina Corona, Penney Garrett, Alexis Navarrete
+* Kimiko Kano, Joshua Washke, Luigi Aversano, Brenna Martenson
+* Justin Pease, Deborah Hamel, Nicholas Dorans, Megan McMullin
+* Thomas Pickett, Michael Lane Winham, Greg Armstrong, David Stinnette
+* Kris Foss, Nick Pisciotta, Jordan Lawler, David Whitaker
+* Mark Miranda, Parker Phillips, Steve Pentler, Lenny Myerson
+* Erinna Chen, Ashwin Rao, Lucy Fox, Shannon Paige
+* Peter Springer, Christopher Soden, Charissa Lawrence
+* Robert Jaeger, Adam Hundley, Jonathan Bernesser
+* Ryan Batty, Gurusundesh Khalsa, Jared Roth
+* Sonia Gupta, Christine Gamble, Brian Rippeto, Nate Venn
+* Yoseph Anderson, Hedy Woo, Jonathan Liss
+
+
+## 1510
+
+### Object-Oriented JavaScrpt with HTML5 Canvas (9:00 - 12:00)
+
+Classroom C.
+
+### GameTime KickOff - BuildPack Overview (1:00 - 2:30)
+
+Classroom C.
+
+### Work Time (2:30 - 4:00)
+
+
+## 1511
+
+### Traversing the DOM with jQuery (9:00 - 10:30)
+
+Classroom B.
+
+### DOM Events with jQuery (10:30 - 12:00)
+
+Classroom B.
+
+### Project Check Ins (1:00 - 2:30)
+
+Schedule TBD.
+
+### Protocol
+
+Classroom B.
+
+
+## 1602
+
+### Project Review (9:00 - 9:30)
+
+Big Workspace.
+
+### RushHour Kickoff (9:30 - 10:00)
+
+Teams TBA.
+
+### Introduction to Project Management (10:00 - 11:30)
+
+Big Workspace.
+
+### Collaborative Communications (1:00 - 2:00)
+
+Allison stops by.
+
+### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
+
+Big Workspace.
+
+
+## 1603
+
+### All: Problems, Solutions and Algorithims - (9:00 - 10:30)
+
+Classroom A with Horace.
+
+### All: How Testing Works - (10:30 - 12:00)
+
+Mike tags in.
+
+### Echo: How BSTs Work (1:00 - 2:00)
+
+Mike at the Staff table.
+
+### Foxtrot: How Linked Lists Work (1:00 - 2:00)
+
+Horace in Classroom A.
+
+### Echo: Recommendations Kickoff (2:00 - 2:30)
+
+Staff table.
+
+### Foxtrot: Jungle Beats Kickoff (2:00 - 2:30)
+
+Classroom A.
+
+### Diagnostic (2:30 - 4:00)
+
+Classroom A.
+
+### Mastermind Evals (2:30 - 4:00)
+
+#### With Horace
+* 2:30 - Anna Weisbrodt
+* 3:00 - Ryan Batty
+
+#### With Lovisa
+* 2:30 -  Brian Sayler
+* 3:00 -  Robert Jaeger
+* 3:30 -  Kerry Sheldon
+
+#### With Mike
+* 2:30 - Lucy Fox
+* 3:00 - Marcella wigg
+
