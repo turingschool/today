@@ -1,0 +1,63 @@
+---
+title: 20160329
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* conflagration - noun - a large and destructive fire; a general
+burning
+
+
+## 1603
+
+### All: Getting Started with Git
+
+Classroom A.
+
+### All: Debugging Techniques
+
+Classroom A.
+
+### All: Work Time
+
+
+## 1602
+
+### Rush Hour Work Time (9:00 - 12:00)
+
+Work Work.
+
+### Rush Hour Check Ins (1:00 - 4:00)
+
+Schedule TBD
+
+
+## 1511
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Classroom B.
+
+### Sending Email (10:30 - 12:00)
+
+Classroom B.
+
+### One on Ones (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1510
+
+### Testing GameTime - A Journey (9:00 - 12:00)
+
+Classroom C
+
+### Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+
