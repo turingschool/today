@@ -1,0 +1,58 @@
+---
+title: 20160330
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* entreat - verb - to make an earnest petition or request; to plead
+
+
+## 1603
+
+### Dynamics - (9:00 - 9:30)
+
+Classroom A.
+
+### Ruby Object Model - (9:30 - 12:00)
+
+Classroom A.
+
+### Project Work Time - (1:00 - 4:00)
+
+Work.
+
+
+## 1602
+
+### Using Rack::Test in Sinatra (9:00 - 11:00)
+
+Classroom B.
+
+### Rush Hour Work Time (11:00 - 12:00)
+
+Work Work
+
+### One on Ones (1:00 - 4:00)
+
+
+## 1511
+
+### Project Work Time  (ALL DAY ERRY DAY)
+
+
+## 1510
+
+### Functions in JavaScript (9:00 - 10:30)
+
+Classroom C.
+
+### One on Ones (10:30 - 12:00)
+
+Schedule TBD.
+
+### Project Work Time and Instructor Pairing (1:00 - 4:00)
+
+Schedule TBD.
+
