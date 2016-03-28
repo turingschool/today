@@ -9,6 +9,10 @@ layout: outline
 * profligate - adjective - open and shamelessly immoral; dissipated;
 dissolute
 
+### Optional Posse Challenge
+
+If you're looking for something to work on with your posse, check out the [JavaScript Obstacle Course](https://github.com/turingschool/posse_challenges/tree/master/js_obstacle_course). 
+
 ### Friday Lunch Roulette Groups
 
 * Anna Weisbrodt, Edgar Duran, Brennan Holtzclaw, Meeka
