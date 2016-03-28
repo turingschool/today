@@ -91,9 +91,13 @@ Join Andrew in the Big Workspace to kick off [Rush Hour](https://github.com/turi
 * Marina Corona & Patrick Hardy & Ashwin Rao
 * Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
 
-### Introduction to Project Management (10:00 - 11:30)
+### Introduction to Project Management (10:00 - 11:00)
 
 Big Workspace.
+
+### Databases and Relationships (11:00 - 12:00)
+
+Yup - more BigWorkspace. Let's talk about databases. 
 
 ### Collaborative Communications (1:00 - 2:00)
 
