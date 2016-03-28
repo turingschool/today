@@ -9,6 +9,10 @@ layout: outline
 * profligate - adjective - open and shamelessly immoral; dissipated;
 dissolute
 
+### Optional Posse Challenge
+
+If you're looking for something to work on with your posse, check out the [JavaScript Obstacle Course](https://github.com/turingschool/posse_challenges/tree/master/js_obstacle_course).
+
 ### Friday Lunch Roulette Groups
 
 * Anna Weisbrodt, Edgar Duran, Brennan Holtzclaw, Meeka
@@ -45,14 +49,32 @@ dissolute
 
 ### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
 
-Classroom C.
+- [HTML5 Canvas and Object-Oriented JavaScript](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+- [More About Object Oriented JavaScript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/object_oriented_javascript.markdown)
 
 ### GameTime KickOff - BuildPack Overview (1:00 - 2:30)
 
 Classroom C.
 
+* Steve 'Dad' Pentler & David Stinnette
+* Justin Pease & Taylor Moore
+* Edgar Duran & Dan Winter
+* Greg Armstrong & Beth Secor
+* Jordan Lawler & Toni Rib
+* Joseph Perry & Jamie Crockett
+* Brant Wellman & Aaron Greenspan
+* John 'Uncle' Slota & Shannon Paige
+* Steve Olson & Brenna Martenson
+* Marlo Major & Hector Huertas Baeza
+* Penney Garrett & Beth Sebian
+
 ### Work Time (2:30 - 4:00)
 
+It's game time.
+
+### Homework
+
+- [The Concept of Require](https://gist.github.com/rrgayhart/da45f67612399647eb3c)
 
 ## 1511
 
@@ -66,12 +88,30 @@ Classroom B.
 
 ### Project Check Ins (1:00 - 2:30)
 
-Schedule TBD.
+#### With Nate
 
-### Protocol
+July Tran, Julian Feliciano, Jerrod Junker: Collector?
+Nick Weiland, Brennan Holtzclaw, Lenny Myerson, Charissa Lawrence: Lending
+Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
 
-Classroom B.
+#### With Josh
 
+Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+Allan Blair, Kimi Kano, Nicholas Dorans: Farmer’s Market
+Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
+
+#### Consultant Pitches
+
+When we're finished with check ins, we'll gather back in Classroom B to have you pitch for consultants.
+
+- You have up to 2 minutes to pitch
+- If Nate is your client, you'll pitch to Josh. If Josh is you're client, you'll pitch to Nate.
+- Pitch us on need, how we can help, and how awesome your team or product is
+- Consultants will choose a team, and work with you for the rest of the afternoon.\
+
+If a consultant chooses to join your team, he will do whatever you ask him to do, including write code.
+
+### Small groups and Work Time (2:30 - 4:00)
 
 ## 1602
 
@@ -97,7 +137,7 @@ Big Workspace.
 
 ### Databases and Relationships (11:00 - 12:00)
 
-Yup - more BigWorkspace. Let's talk about databases. 
+Yup - more BigWorkspace. Let's talk about databases.
 
 ### Collaborative Communications (1:00 - 2:00)
 
@@ -105,8 +145,7 @@ Allison stops by.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Rachel will meet you in the Big Workspace to introduce you to ActiveRecord.
-
+Join Rachel to talk about [Active Record](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 ## 1603
 
