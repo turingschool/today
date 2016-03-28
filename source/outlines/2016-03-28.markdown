@@ -54,7 +54,9 @@ If you're looking for something to work on with your posse, check out the [JavaS
 
 ### GameTime KickOff - BuildPack Overview (1:00 - 2:30)
 
-Classroom C.
+Meet with Steve in the Big Workspace.
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
 * Steve 'Dad' Pentler & David Stinnette
 * Justin Pease & Taylor Moore
