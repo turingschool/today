@@ -49,14 +49,32 @@ If you're looking for something to work on with your posse, check out the [JavaS
 
 ### Object-Oriented JavaScrpt with HTML5 Canvas (9:00 - 12:00)
 
-Classroom C.
+- [HTML5 Canvas and Object-Oriented JavaScript](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+- [More About Object Oriented JavaScript](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/object_oriented_javascript.markdown)
 
 ### GameTime KickOff - BuildPack Overview (1:00 - 2:30)
 
 Classroom C.
 
+* Steve 'Dad' Pentler & David Stinnette
+* Justin Pease & Taylor Moore
+* Edgar Duran & Dan Winter
+* Greg Armstrong & Beth Secor
+* Jordan Lawler & Toni Rib
+* Joseph Perry & Jamie Crockett
+* Brant Wellman & Aaron Greenspan
+* John 'Uncle' Slota & Shannon Paige
+* Steve Olson & Brenna Martenson
+* Marlo Major & Hector Huertas Baeza
+* Penney Garrett & Beth Sebian
+
 ### Work Time (2:30 - 4:00)
 
+It's game time.
+
+### Homework
+
+- [The Concept of Require](https://gist.github.com/rrgayhart/da45f67612399647eb3c)
 
 ## 1511
 
@@ -103,10 +121,10 @@ Big Workspace.
 
 ### RushHour Kickoff (9:30 - 10:00)
 
-Join Andrew in the Big Workspace to kick off [Rush Hour](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md). 
+Join Andrew in the Big Workspace to kick off [Rush Hour](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md).
 
 * Deborah Hamel & Matt Pindell & Joshua Washke
-* Kris Foss & Claudia Kiesenhofer & Jared Roth 
+* Kris Foss & Claudia Kiesenhofer & Jared Roth
 * Andrew Thompson & Ling Tran & Mark Miranda
 * Jonathan Bernesser & Kami Boers & Thomas Pickett
 * Jonathan Liss & Christopher Soden & Hedy Woo
@@ -123,7 +141,7 @@ Allison stops by.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Join Rachel to talk about [Active Record](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
+Join Rachel to talk about [Active Record](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
 
 
 ## 1603
