@@ -43,7 +43,7 @@ dissolute
 
 ## 1510
 
-### Object-Oriented JavaScrpt with HTML5 Canvas (9:00 - 12:00)
+### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
 
 Classroom C.
 
@@ -81,7 +81,15 @@ Big Workspace.
 
 ### RushHour Kickoff (9:30 - 10:00)
 
-Teams TBA.
+Join Andrew in the Big Workspace to kick off [Rush Hour](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md). These will be your teams:
+
+* Deborah Hamel & Matt Pindell & Joshua Washke
+* Kris Foss & Claudia Kiesenhofer & Jared Roth
+* Andrew Thompson & Ling Tran & Mark Miranda
+* Jonathan Bernesser & Kami Boers & Thomas Pickett
+* Jonathan Liss & Christopher Soden & Hedy Woo
+* Marina Corona & Patrick Hardy & Ashwin Rao
+* Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
 
 ### Introduction to Project Management (10:00 - 11:30)
 
@@ -93,7 +101,7 @@ Allison stops by.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Big Workspace.
+Rachel will meet you in the Big Workspace to introduce you to ActiveRecord.
 
 
 ## 1603
@@ -140,4 +148,3 @@ Classroom A.
 #### With Mike
 * 2:30 - Lucy Fox
 * 3:00 - Marcella wigg
-
