@@ -103,7 +103,15 @@ Big Workspace.
 
 ### RushHour Kickoff (9:30 - 10:00)
 
-Teams TBA.
+Join Andrew in the Big Workspace to kick off [Rush Hour](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md). 
+
+* Deborah Hamel & Matt Pindell & Joshua Washke
+* Kris Foss & Claudia Kiesenhofer & Jared Roth 
+* Andrew Thompson & Ling Tran & Mark Miranda
+* Jonathan Bernesser & Kami Boers & Thomas Pickett
+* Jonathan Liss & Christopher Soden & Hedy Woo
+* Marina Corona & Patrick Hardy & Ashwin Rao
+* Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
 
 ### Introduction to Project Management (10:00 - 11:30)
 
@@ -115,7 +123,7 @@ Allison stops by.
 
 ### Intro to ActiveRecord with Sinatra (2:00 - 4:00)
 
-Big Workspace.
+Join Rachel to talk about [Active Record](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
 
 
 ## 1603
