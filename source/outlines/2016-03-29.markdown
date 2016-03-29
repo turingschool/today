@@ -56,42 +56,6 @@ For [this respository](https://github.com/turingschool-examples/gametime-testing
 * 1:00: Greg Armstrong & Beth Secor
 * 1:30: Steve Olson & Brenna Martenson
 
-## 1603
-
-### All: Getting Started with Git
-
-Classroom A.
-
-### All: Debugging Techniques
-
-Classroom A.
-
-### All: Work Time
-
-
-## 1602
-
-### Rush Hour Work Time (9:00 - 12:00)
-
-Work Work.
-
-### Rush Hour Check Ins (1:00 - 4:00)
-
-With Rachel:
-
-* 1:00 Jonathan Liss & Christopher Soden & Hedy Woo
-* 1:45 Marina Corona & Patrick Hardy & Ashwin Rao
-* 2:30 Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
-
-With Andrew:
-
-* 1:00 Deborah Hamel & Matt Pindell & Joshua Washke
-* 1:45 Kris Foss & Claudia Kiesenhofer & Jared Roth
-* 2:30 Andrew Thompson & Ling Tran & Mark Miranda
-* 3:15 Jonathan Bernesser & Kami Boers & Thomas Pickett
-
-
-
 ## 1511
 
 ### Fundamental Rails Security (9:00 - 10:30)
@@ -148,3 +112,36 @@ Classroom B. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/mas
 * Lenny Myerson
 * Adrienne Domingus
 * July Tran
+
+## 1602
+
+### Rush Hour Work Time (9:00 - 12:00)
+
+Work Work.
+
+### Rush Hour Check Ins (1:00 - 4:00)
+
+With Rachel:
+
+* 1:00 Jonathan Liss & Christopher Soden & Hedy Woo
+* 1:45 Marina Corona & Patrick Hardy & Ashwin Rao
+* 2:30 Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
+
+With Andrew:
+
+* 1:00 Deborah Hamel & Matt Pindell & Joshua Washke
+* 1:45 Kris Foss & Claudia Kiesenhofer & Jared Roth
+* 2:30 Andrew Thompson & Ling Tran & Mark Miranda
+* 3:15 Jonathan Bernesser & Kami Boers & Thomas Pickett
+
+## 1603
+
+### All: Getting Started with Git
+
+Classroom A.
+
+### All: Debugging Techniques
+
+Classroom A.
+
+### All: Work Time
