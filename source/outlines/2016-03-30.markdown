@@ -57,6 +57,15 @@ All times are estimates. Tess is available for pairing from 3:00 - 4:00. DM her 
 - 2:45: Steve P
 
 
+## 1511
+
+### Project Work Time  (ALL DAY ERRY DAY)
+
+### One on Ones (10:30 - 12:00)
+
+Schedule TBA
+
+
 ## 1602
 
 ### Using Rack::Test in Sinatra (9:00 - 11:00)
@@ -68,15 +77,6 @@ Classroom B. Andrew will lead you through [this](https://github.com/turingschool
 Work Work. Pomo - Pomo
 
 ### One on Ones (1:00 - 4:00)
-
-Schedule TBA
-
-
-## 1511
-
-### Project Work Time  (ALL DAY ERRY DAY)
-
-### One on Ones (10:30 - 12:00)
 
 With Rachel:
 
@@ -104,6 +104,7 @@ With Andrew:
 * 3:00 Ashwin Rao
 * 3:15 Gurusundesh Khalsa
 * 3:30 Jeneve Parrish
+
 
 
 ## 1603
@@ -147,11 +148,24 @@ Work. On Projects.
 
 #### With Horace
 
-* 1:00 - Yoseph Anderson
-* 1:10 - Robert Jaeger
-* 1:20 - Colin Osborn
-* 1:30 - Jennifer Soden
-* 1:40 - Ji Kim
-* 1:50 - Ilana Corson
-* 2:00 - Ryan Batty
-* 2:10 - Christine Gamble
+* 2:40 - Yoseph Anderson
+* 2:50 - Robert Jaeger
+* 3:00 - Colin Osborn
+* 3:10 - Jennifer Soden
+* 3:20 - Ji Kim
+* 3:30 - Ilana Corson
+* 3:40 - Ryan Batty
+* 3:50 - Christine Gamble
+
+
+## 1602
+
+### Using Rack::Test in Sinatra (9:00 - 11:00)
+
+Classroom B. Andrew will lead you through [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown) lesson.
+
+### Rush Hour Work Time (11:00 - 12:00)
+
+Work Work. Pomo - Pomo
+
+### One on Ones (1:00 - 4:00)
