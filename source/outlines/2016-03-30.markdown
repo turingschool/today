@@ -49,11 +49,11 @@ Work.
 
 ### Using Rack::Test in Sinatra (9:00 - 11:00)
 
-Classroom B.
+Classroom B. Andrew will lead you through [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rack_test_in_sinatra.markdown) lesson.
 
 ### Rush Hour Work Time (11:00 - 12:00)
 
-Work Work
+Work Work. Pomo - Pomo
 
 ### One on Ones (1:00 - 4:00)
 
@@ -101,4 +101,3 @@ With Andrew:
 ### Project Work Time and Instructor Pairing (1:00 - 4:00)
 
 Schedule TBD.
-
