@@ -10,6 +10,59 @@ layout: outline
 and farsightedness.
 
 
+## 1510
+
+### Currying and Partial Application (9:00 - 10:30)
+
+Classroom C.
+
+### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
+
+Classroom C.
+
+### Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1511
+
+### Project Work Time (9:00 - 12:00)
+
+Finishing Touches.
+
+### Pivot Evaluations (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1602
+
+### View Templating in Sinatra (9:00 - 10:00)
+
+Classroom B
+
+### Rush Hour Work Time (10:00 - 12:00)
+
+### Rush Hour Check Ins (1:00 - 4:00)
+
+With Andrew:
+
+* 1:00 Marina Corona & Patrick Hardy & Ashwin Rao
+* 1:45 Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
+* 2:30 Jonathan Liss & Christopher Soden & Hedy Woo
+
+With Rachel:
+
+* 1:00 Kris Foss & Claudia Kiesenhofer & Jared Roth
+* 1:45 Andrew Thompson & Ling Tran & Mark Miranda
+* 2:30 Jonathan Bernesser & Kami Boers & Thomas Pickett
+* 3:15 Deborah Hamel & Matt Pindell & Joshua Washke
+
+
+
+
+
 ## 1603
 
 ### All: Diagnostic (9:00 - 11:30)
@@ -54,53 +107,3 @@ Classroom A.
 ### Foxtrot: Understanding Night Writer (3:00 - 4:00)
 
 Classroom B.
-
-
-## 1602
-
-### View Templating in Sinatra (9:00 - 10:00)
-
-Classroom B
-
-### Rush Hour Work Time (10:00 - 12:00)
-
-### Rush Hour Check Ins (1:00 - 4:00)
-
-With Andrew:
-
-* 1:00 Marina Corona & Patrick Hardy & Ashwin Rao
-* 1:45 Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
-* 2:30 Jonathan Liss & Christopher Soden & Hedy Woo
-
-With Rachel:
-
-* 1:00 Kris Foss & Claudia Kiesenhofer & Jared Roth
-* 1:45 Andrew Thompson & Ling Tran & Mark Miranda
-* 2:30 Jonathan Bernesser & Kami Boers & Thomas Pickett
-* 3:15 Deborah Hamel & Matt Pindell & Joshua Washke
-
-
-## 1511
-
-### Project Work Time (9:00 - 12:00)
-
-Finishing Touches.
-
-### Pivot Evaluations (1:00 - 4:00)
-
-Schedule TBD.
-
-
-## 1510
-
-### Currying and Partial Application (9:00 - 10:30)
-
-Classroom C.
-
-### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
-
-Classroom C.
-
-### Check Ins (1:00 - 4:00)
-
-Schedule TBD.
