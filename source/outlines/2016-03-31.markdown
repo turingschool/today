@@ -60,27 +60,66 @@ With Rachel:
 * 3:15 Deborah Hamel & Matt Pindell & Joshua Washke
 
 
-
-
-
 ## 1603
 
 ### All: Diagnostic (9:00 - 11:30)
 
 Classroom A.
+
 ### Echo - Pattern Generator Exercise (9:00 - 11:30)
 
 Work on this while you are not being evaluated and after you finish your
 diagnostic.
+
+[Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
 
 ### Foxtrot: Wizarding Bank (9:00 - 11:30)
 
 Work on this while you are not being evaluated and after you finish your
 diagnostic.
 
+[Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
 ### All Project Evaluations (9:00 - 11:30)
 
-Schedule TBD
+#### With Nate
+* 9:00 - Ryan Batty
+* 9:25 - Robert Jaeger
+* 9:50 - Marcella Wigg
+
+#### With Lovisa
+* 9:00 - Lucy Fox
+* 9:25 - Kerry Sheldon
+* 9:50 - Brian Sayler
+* 10:15 - Anna Weisbrodt
+* 10:40 - Peter Springer
+* 11:05 - Sonia Gupta
+* 11:30 - Charles Kaminer
+
+#### With Horace
+* 9:00 - Yoseph Andersen
+* 9:25 - Christine Gamble
+* 9:50 - Colin Osborn
+* 10:15 - Joshua Cohen
+* 10:40 - Jennifer Soden
+* 11:05 - Ilana Corson
+* 11:30 - Denali Lord
+
+#### With Mike
+* 9:00 - Michael Lane Winham
+* 9:25 - Megan McMullin
+* 9:50 - Luigi Aversano
+* 10:15 - Linda McCartney
+* 10:40 - Jason Hanna
+* 11:05 - Erin Greenhalgh
+
+#### With Tess
+* 9:00 - Parker Philips
+* 9:25 - Nick Pisciotta
+* 9:50 - Kris Sparks
+* 10:15 - Karina Gonzales
+* 10:40 - Ji Kim
+
 
 ### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
 
