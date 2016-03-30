@@ -65,11 +65,15 @@ Classroom A.
 
 ### Ruby Object Model - (9:30 - 12:00)
 
-Classroom A.
+Classroom A with Horace.
+
+### Objects, Instances, and Classes Recap - (9:30 - 12:00)
+
+Big Workspace with Mike.
 
 ### Project Work Time - (1:00 - 4:00)
 
-Work.
+Work. On Projects.
 
 ### One on Ones (1:00 - 4:00)
 
