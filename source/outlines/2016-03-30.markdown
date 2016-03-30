@@ -65,6 +65,14 @@ All times are estimates. Tess is available for pairing from 3:00 - 4:00. DM her 
 
 ### Dynamics - (9:00 - 9:30)
 
+* Colin Osborn & Denali Lord & Erin Greenhalgh & Ilana Corson
+* Jason Hanna & Jennifer Soden & Ji Kim & Joshua Cohen
+* Karina Gonzales & Kerry Sheldon & Kris Sparks & Linda McCartney
+* Yoseph Anderson & Brian Sayler & Charles Kaminer & Christine Gamble
+* Lucy Fox & Luigi Aversano & Marcella Wigg & Megan McMullin
+* Michael Lane Winham & Nick Pisciotta & Parker Phillips & Peter Springer
+* Robert Jaeger & Ryan Batty & Sonia Gupta & Anna Weisbrodt
+
 Classroom A.
 
 ### Ruby Object Model - (9:30 - 12:00)
@@ -78,6 +86,7 @@ Work.
 ### One on Ones (1:00 - 4:00)
 
 #### With Mike
+
 * 2:40 - Kris Sparks
 * 2:50 - Kerry Sheldon
 * 3:00 - Michael Lane Winham
@@ -88,6 +97,7 @@ Work.
 * 3:50 - Nick Pisciotta
 
 #### With Horace
+
 * 2:40 - Yoseph Anderson
 * 2:50 - Robert Jaeger
 * 3:00 - Colin Osborn
