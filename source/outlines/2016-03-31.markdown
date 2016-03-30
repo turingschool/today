@@ -88,7 +88,19 @@ Finishing Touches.
 
 ### Pivot Evaluations (1:00 - 4:00)
 
-Schedule TBD.
+Evals will be 45 minutes-ish. Don't forget to double check ALL of [the requirements and evaluation criteria](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md). During the evaluation is too late to ask questions.
+
+#### With Josh
+
+- Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+- Allan Blair, Kimi Kano, Nicholas Dorans: Farmer’s Market
+- Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
+
+#### With Nate
+
+- Nick Weiland, Brennan Holtzclaw, Lenny Myerson, Charissa Lawrence: Lending
+- July Tran, Julian Feliciano, Jerrod Junker: Collector?
+- Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
 
 
 ## 1510
