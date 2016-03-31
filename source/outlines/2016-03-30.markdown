@@ -9,41 +9,66 @@ layout: outline
 * entreat - verb - to make an earnest petition or request; to plead
 
 
-## 1603
+## 1510
 
-### Dynamics - (9:00 - 9:30)
+### Functions in JavaScript (9:00 - 10:30)
 
-Classroom A.
+- [Lesson Plan, Part One](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
+- [Lesson Plan, Part Two](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
 
-### Ruby Object Model - (9:30 - 12:00)
+Please complete these [check's for understanding](https://gist.github.com/stevekinney/ce6bc34f008281fdd85c74eb1dbe039c).
 
-Classroom A.
+### One on Ones (10:30 - 12:00)
 
-### Project Work Time - (1:00 - 4:00)
+Tess is available for instructor pairing. DM her for availability.
 
-Work.
+#### With Meeka
 
-### One on Ones (1:00 - 4:00)
+- 10:30 - 10:50: Brenna
+- 10:50 - 11:10: Justin
 
-#### With Mike
-* 2:40 - Kris Sparks
-* 2:50 - Kerry Sheldon
-* 3:00 - Michael Lane Winham
-* 3:10 - Denali Lord
-* 3:20 - Jason Hanna
-* 3:30 - Luigi Aversano
-* 3:40 - Parker Phillps
-* 3:50 - Nick Pisciotta
+#### With Steve
 
-#### With Horace
-* 2:40 - Yoseph Anderson
-* 2:50 - Robert Jaeger
-* 3:00 - Colin Osborn
-* 3:10 - Jennifer Soden
-* 3:20 - Ji Kim
-* 3:30 - Ilana Corson
-* 3:40 - Ryan Batty
-* 3:50 - Christine Gamble
+- 10:30 - 10:50: Hector
+- 10:50 - 11:10: Jordan
+
+### Project Work Time and Instructor Pairing (1:00 - 4:00)
+
+All times are estimates. Tess is available for pairing from 3:00 - 4:00. DM her for availability.
+
+#### With Meeka
+
+- 1:00: Edgar
+- 1:15: Penney
+- 1:30: Steve O
+- 1:45: Justin
+- 2:00: Dan
+- 2:15: Beth Sebian
+- 2:30: Aaron
+- 2:45: JP
+- 3:00: Jamie
+- 3:15: Shannon
+
+#### With Tess
+
+- 1:00: David
+- 1:15: Slota
+- 1:30: Beth Secor
+- 1:45: Marlo
+- 2:00: Brant
+- 2:15: Hector
+- 2:30: Greg
+- 2:45: Steve P
+
+
+## 1511
+
+### Project Work Time  (ALL DAY ERRY DAY)
+
+### One on Ones (10:30 - 12:00)
+
+Schedule TBA
+
 
 ## 1602
 
@@ -56,20 +81,6 @@ Classroom B. Andrew will lead you through [this](https://github.com/turingschool
 Work Work. Pomo - Pomo
 
 ### One on Ones (1:00 - 4:00)
-
-
-## 1511
-
-### Project Work Time  (ALL DAY ERRY DAY)
-
-
-## 1510
-
-### Functions in JavaScript (9:00 - 10:30)
-
-Classroom C.
-
-### One on Ones (10:30 - 12:00)
 
 With Rachel:
 
@@ -98,6 +109,52 @@ With Andrew:
 * 3:15 Gurusundesh Khalsa
 * 3:30 Jeneve Parrish
 
-### Project Work Time and Instructor Pairing (1:00 - 4:00)
 
-Schedule TBD.
+## 1603
+
+### Dynamics - (9:00 - 9:30)
+
+* Colin Osborn & Denali Lord & Erin Greenhalgh & Ilana Corson
+* Jason Hanna & Jennifer Soden & Ji Kim & Joshua Cohen
+* Karina Gonzales & Kerry Sheldon & Kris Sparks & Linda McCartney
+* Yoseph Anderson & Brian Sayler & Charles Kaminer & Christine Gamble
+* Lucy Fox & Luigi Aversano & Marcella Wigg & Megan McMullin
+* Michael Lane Winham & Nick Pisciotta & Parker Phillips & Peter Springer
+* Robert Jaeger & Ryan Batty & Sonia Gupta & Anna Weisbrodt
+
+Classroom A.
+
+### Ruby Object Model - (9:30 - 12:00)
+
+Classroom A.
+
+### OOP Fundamentals - (9:30 - 12:00)
+
+Big Workspace
+
+### Project Work Time - (1:00 - 4:00)
+
+Work.
+
+### One on Ones (1:00 - 4:00)
+
+#### With Lovisa
+* 1:00 - Luigi Aversano
+* 1:10 - Parker Phillps
+* 1:20 - Nick Pisciotta
+* 1:30 - Yoseph Anderson
+* 1:40 - Ji Kim
+* 1:50 - Robert Jaeger
+
+#### With Mike
+* 2:40 - Kris Sparks
+* 2:50 - Kerry Sheldon
+* 3:00 - Michael Lane Winham
+* 3:10 - Denali Lord
+* 3:20 - Jason Hanna
+
+#### With Horace
+* 2:30 - Jennifer Soden
+* 2:40 - Ilana Corson
+* 2:50 - Ryan Batty
+* 3:00 - Christine Gamble

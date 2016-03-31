@@ -10,50 +10,30 @@ layout: outline
 and farsightedness.
 
 
-## 1603
+## 1510
 
-### All: Diagnostic (9:00 - 11:30)
+### Currying and Partial Application (9:00 - 10:30)
 
-Classroom A.
-### Echo - Pattern Generator Exercise (9:00 - 11:30)
+Classroom C.
 
-Work on this while you are not being evaluated and after you finish your
-diagnostic.
+### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
 
-### Foxtrot: Wizarding Bank (9:00 - 11:30)
+Classroom C.
 
-Work on this while you are not being evaluated and after you finish your
-diagnostic.
+### Check Ins (1:00 - 4:00)
 
-### All Project Evaluations (9:00 - 11:30)
+Schedule TBD.
 
-Schedule TBD
 
-### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
+## 1511
 
-Classroom A.
+### Project Work Time (9:00 - 12:00)
 
-### All: Diagnostic Recap (1:00 - 1:30)
+Finishing Touches.
 
-Classroom A.
+### Pivot Evaluations (1:00 - 4:00)
 
-### Echo: Intro to Sorting and Sorting Suite Kickoff (1:30 - 3:00)
-
-Classroom B.
-
-### Foxtrot: Working with Files (1:30 - 3:00)
-
-Classroom A.
-
-### Echo: Work Time (3:00 - 4:00)
-
-### Foxtrot: Understanding Enigma (3:00 - 4:00)
-
-Classroom A.
-
-### Foxtrot: Understanding Night Writer (3:00 - 4:00)
-
-Classroom B.
+Schedule TBD.
 
 
 ## 1602
@@ -84,27 +64,89 @@ With Rachel:
 * 3:15 Deborah Hamel & Matt Pindell & Joshua Washke
 
 
-## 1511
+## 1603
 
-### Project Work Time (9:00 - 12:00)
+### All: Diagnostic (9:00 - 11:30)
 
-Finishing Touches.
+Classroom A.
 
-### Pivot Evaluations (1:00 - 4:00)
+### Echo - Pattern Generator Exercise (9:00 - 11:30)
 
-Schedule TBD.
+Work on this while you are not being evaluated and after you finish your
+diagnostic.
+
+[Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+
+### Foxtrot: Wizarding Bank (9:00 - 11:30)
+
+Work on this while you are not being evaluated and after you finish your
+diagnostic.
+
+[Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+### All Project Evaluations (9:00 - 11:30)
+
+#### With Nate
+* 9:00 - Ryan Batty
+* 9:25 - Robert Jaeger
+* 9:50 - Marcella Wigg
+* 9:00 - Yoseph Andersen
+
+#### With Lovisa
+* 9:00 - Lucy Fox
+* 9:25 - Kerry Sheldon
+* 9:50 - Brian Sayler
+* 10:15 - Anna Weisbrodt
+* 10:40 - Peter Springer
+* 11:05 - Sonia Gupta
 
 
-## 1510
+#### With Horace
+* 9:00 - Christine Gamble
+* 9:25 - Colin Osborn
+* 9:50 - Joshua Cohen
+* 10:15 - Jennifer Soden
+* 10:40 - Ilana Corson
+* 11:05 - Denali Lord
 
-### Currying and Partial Application (9:00 - 10:30)
+#### With Mike
+* 9:00 - Michael Lane Winham
+* 9:25 - Megan McMullin
+* 9:50 - Luigi Aversano
+* 10:15 - Linda McCartney
+* 10:40 - Jason Hanna
+* 11:05 - Erin Greenhalgh
 
-Classroom C.
+#### With Tess
+* 9:00 - Parker Philips
+* 9:25 - Nick Pisciotta
+* 9:50 - Kris Sparks
+* 10:15 - Karina Gonzales
+* 10:40 - Ji Kim
+* 11:05 - Charles Kaminer
 
-### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
+### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
 
-Classroom C.
+Classroom A.
 
-### Check Ins (1:00 - 4:00)
+### All: Diagnostic Recap (1:00 - 1:30)
 
-Schedule TBD.
+Classroom A.
+
+### Echo: Intro to Sorting and Sorting Suite Kickoff (1:30 - 3:00)
+
+Classroom B.
+
+### Foxtrot: Working with Files (1:30 - 3:00)
+
+Classroom A.
+
+### Echo: Work Time (3:00 - 4:00)
+
+### Foxtrot: Understanding Enigma (3:00 - 4:00)
+
+Classroom A.
+
+### Foxtrot: Understanding Night Writer (3:00 - 4:00)
+
+Classroom B.
