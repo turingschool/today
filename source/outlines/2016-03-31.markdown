@@ -10,50 +10,42 @@ layout: outline
 and farsightedness.
 
 
-## 1603
+## 1510
 
-### All: Diagnostic (9:00 - 11:30)
+### Currying and Partial Application (9:00 - 10:30)
 
-Classroom A.
-### Echo - Pattern Generator Exercise (9:00 - 11:30)
+Classroom C.
 
-Work on this while you are not being evaluated and after you finish your
-diagnostic.
+### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
 
-### Foxtrot: Wizarding Bank (9:00 - 11:30)
+Classroom C.
 
-Work on this while you are not being evaluated and after you finish your
-diagnostic.
+### Check Ins (1:00 - 4:00)
 
-### All Project Evaluations (9:00 - 11:30)
+Schedule TBD.
 
-Schedule TBD
 
-### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
+## 1511
 
-Classroom A.
+### Project Work Time (9:00 - 12:00)
 
-### All: Diagnostic Recap (1:00 - 1:30)
+Finishing Touches.
 
-Classroom A.
+### Pivot Evaluations (1:00 - 4:00)
 
-### Echo: Intro to Sorting and Sorting Suite Kickoff (1:30 - 3:00)
+Evals will be 45 minutes-ish. Don't forget to double check ALL of [the requirements and evaluation criteria](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md). During the evaluation is too late to ask questions.
 
-Classroom B.
+#### With Josh
 
-### Foxtrot: Working with Files (1:30 - 3:00)
+- Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+- Allan Blair, Kimi Kano, Nicholas Dorans: Farmer’s Market
+- Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
 
-Classroom A.
+#### With Nate
 
-### Echo: Work Time (3:00 - 4:00)
-
-### Foxtrot: Understanding Enigma (3:00 - 4:00)
-
-Classroom A.
-
-### Foxtrot: Understanding Night Writer (3:00 - 4:00)
-
-Classroom B.
+- Nick Weiland, Brennan Holtzclaw, Lenny Myerson, Charissa Lawrence: Lending
+- July Tran, Julian Feliciano, Jerrod Junker: Collector?
+- Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
 
 
 ## 1602
@@ -80,39 +72,90 @@ With Rachel:
 * 3:15 Deborah Hamel & Matt Pindell & Joshua Washke
 
 
-## 1511
+## 1603
 
-### Project Work Time (9:00 - 12:00)
+### All: Diagnostic (9:00 - 11:30)
 
-Finishing Touches.
+Classroom A.
 
-### Pivot Evaluations (1:00 - 4:00)
+### Echo - Pattern Generator Exercise (9:00 - 11:30)
 
-Evals will be 45 minutes-ish. Don't forget to double check ALL of [the requirements and evaluation criteria](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md). During the evaluation is too late to ask questions.
+Work on this while you are not being evaluated and after you finish your
+diagnostic.
 
-#### With Josh
 
-- Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
-- Allan Blair, Kimi Kano, Nicholas Dorans: Farmer’s Market
-- Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
+[Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+
+### Foxtrot: Wizarding Bank (9:00 - 11:30)
+
+Work on this while you are not being evaluated and after you finish your
+diagnostic.
+
+[Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+### All Project Evaluations (9:00 - 11:30)
 
 #### With Nate
+* 9:00 - Ryan Batty
+* 9:25 - Robert Jaeger
+* 9:50 - Marcella Wigg
 
-- Nick Weiland, Brennan Holtzclaw, Lenny Myerson, Charissa Lawrence: Lending
-- July Tran, Julian Feliciano, Jerrod Junker: Collector?
-- Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
+#### With Lovisa
+* 9:00 - Lucy Fox
+* 9:25 - Kerry Sheldon
+* 9:50 - Brian Sayler
+* 10:15 - Anna Weisbrodt
+* 10:40 - Peter Springer
+* 11:05 - Sonia Gupta
+* 11:30 - Charles Kaminer
+
+#### With Horace
+* 9:00 - Yoseph Andersen
+* 9:25 - Christine Gamble
+* 9:50 - Colin Osborn
+* 10:15 - Joshua Cohen
+* 10:40 - Jennifer Soden
+* 11:05 - Ilana Corson
+* 11:30 - Denali Lord
+
+#### With Mike
+* 9:00 - Michael Lane Winham
+* 9:25 - Megan McMullin
+* 9:50 - Luigi Aversano
+* 10:15 - Linda McCartney
+* 10:40 - Jason Hanna
+* 11:05 - Erin Greenhalgh
+
+#### With Tess
+* 9:00 - Parker Philips
+* 9:25 - Nick Pisciotta
+* 9:50 - Kris Sparks
+* 10:15 - Karina Gonzales
+* 10:40 - Ji Kim
 
 
-## 1510
+### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
 
-### Currying and Partial Application (9:00 - 10:30)
+Classroom A.
 
-Classroom C.
+### All: Diagnostic Recap (1:00 - 1:30)
 
-### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
+Classroom A.
 
-Classroom C.
+### Echo: Intro to Sorting and Sorting Suite Kickoff (1:30 - 3:00)
 
-### Check Ins (1:00 - 4:00)
+Classroom B.
 
-Schedule TBD.
+### Foxtrot: Working with Files (1:30 - 3:00)
+
+Classroom A.
+
+### Echo: Work Time (3:00 - 4:00)
+
+### Foxtrot: Understanding Enigma (3:00 - 4:00)
+
+Classroom A.
+
+### Foxtrot: Understanding Night Writer (3:00 - 4:00)
+
+Classroom B.
