@@ -12,18 +12,44 @@ and farsightedness.
 
 ## 1510
 
-### Currying and Partial Application (9:00 - 10:30)
+### Currying and Partial Application (9:00 - 10:00ish)
 
-Classroom C.
+Meet with Steve in **Classroom C** and Steve will tell you all about currying and partial application.
 
-### Optional - Challenge Level Tricks with steve (10:30 - 12:00)
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+- [Monster JSBin](http://jsbin.com/kinuvi/1/edit?js)
 
-Classroom C.
+### Optional: Challenge Level Tricks with Steve (10:00ish - 12:00)
+
+**Totally optional class**: Steve is going to live code a simple game from scratch. The main focus will be on his approach to structuring a solution. Along the way, he'll toss in some newer ES6 features and cover some other topics.
+
+### Optional: Instructor Pairing
+
+- **Meeka** is available for pairing and questions in 30 minute intervals. DM to schedule.
 
 ### Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+Times are estimates. All instructors will be available for questions form 3pm to 4pm.
 
+#### With Meeka
+
+* 1:00: Marlo Major & Hector Huertas Baeza
+* 1:30: Steve Pentler - Ideabox Eval
+* 2:00: Joseph Perry & Jamie Crockett
+* 2:30: Jordan Lawler & Toni Rib
+
+#### With Tess
+
+* 1:00: Steve 'Dad' Pentler & David Stinnette
+* 1:30: Penney Garrett & Beth Sebian
+* 2:00: John 'Uncle' Slota & Shannon Paige
+* 2:30: Greg Armstrong & Beth Secor
+
+#### With Steve
+
+* 1:00: Brant Wellman & Aaron Greenspan
+* 1:30: Edgar Duran & Dan Winter
+* 2:00: Steve Olson & Brenna Martenson
 
 ## 1511
 
@@ -52,11 +78,15 @@ Evals will be 45 minutes-ish. Don't forget to double check ALL of [the requireme
 
 ### View Templating in Sinatra (9:00 - 10:00)
 
-Classroom B
+Come over to Classroom B for a quick rundown on strategies for refactoring views.
 
 ### Rush Hour Work Time (10:00 - 12:00)
 
+Don't - rush... through your project.
+
 ### Rush Hour Check Ins (1:00 - 4:00)
+
+The - hour... has come for some checkins.
 
 With Andrew:
 
@@ -99,6 +129,7 @@ diagnostic.
 * 9:00 - Ryan Batty
 * 9:25 - Robert Jaeger
 * 9:50 - Marcella Wigg
+* 9:00 - Yoseph Andersen
 
 #### With Lovisa
 * 9:00 - Lucy Fox
@@ -107,16 +138,15 @@ diagnostic.
 * 10:15 - Anna Weisbrodt
 * 10:40 - Peter Springer
 * 11:05 - Sonia Gupta
-* 11:30 - Charles Kaminer
+
 
 #### With Horace
-* 9:00 - Yoseph Andersen
-* 9:25 - Christine Gamble
-* 9:50 - Colin Osborn
-* 10:15 - Joshua Cohen
-* 10:40 - Jennifer Soden
-* 11:05 - Ilana Corson
-* 11:30 - Denali Lord
+* 9:00 - Christine Gamble
+* 9:25 - Colin Osborn
+* 9:50 - Joshua Cohen
+* 10:15 - Jennifer Soden
+* 10:40 - Ilana Corson
+* 11:05 - Denali Lord
 
 #### With Mike
 * 9:00 - Michael Lane Winham
@@ -132,7 +162,7 @@ diagnostic.
 * 9:50 - Kris Sparks
 * 10:15 - Karina Gonzales
 * 10:40 - Ji Kim
-
+* 11:05 - Charles Kaminer
 
 ### Foxtrot: Enigma/Nightwriter Project Pitch (11:30 - 12:00)
 
