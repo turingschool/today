@@ -36,6 +36,11 @@ Classroom A
 
 Big Workspace
 
+* Marina Corona - Immigration and Technology
+* Claudia Kiesenhofer - Working in Groups - The Okanagan Model Working in Groups - The Okanagan Model
+* Brenna Martenson - Make Divs Do What You Want
+* Charissa Lawrence - How can Technology Address Mental Health
+
 ### Friday Lunch Roulette (12:00 - 1:15)
 
 
@@ -50,3 +55,9 @@ Big Workspace
 Big Workspace
 
 ### Student Lead Sessions
+
+* Gurusundesh Khalsa- A group mind mythical creature creation, mod 1 preferred: "Ah yes, you are a wise traveller indeed! come with me on a stroll to the venerable Tristram itself where we will be embraced by the wisdom of Deckard Cain." *Big Workspace*
+* Armstrong Posse - Elixir *Classroom A*
+* Nicholas Dorans - Ruby refactoring/testing techniques. You can bring any code you want and we'll refactor that. Or we can go through some of my "garbage" code from mod 1 and refactor that as well. Also will cover best testing practices. This would be most beneficial for mod 1ers. *Classroom C*
+* Nick W. & Brian - Code Challenge / Tech Interview Prep *Classroom B*
+* Allison - Blogging Workshop *Big Staff Table*
