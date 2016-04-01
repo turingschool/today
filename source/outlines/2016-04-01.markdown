@@ -38,6 +38,10 @@ Josh and I have discussed this, and we've decided it's the best thing for you.
 
 Details [here](http://bit.ly/IqT6zt).
 
+##### ActiveRecord American Gladiators
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
 #### 1602
 
 Classroom C.
