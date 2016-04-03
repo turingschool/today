@@ -1,0 +1,153 @@
+---
+title: 20160404
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* jape - noun - a joke or a jest
+
+### Optional Posse Challenge
+
+If you're looking for something to work on with your posse, check out
+these [inject/reduce challenges](https://github.com/mikedao/inject) from
+our friend, Ben Orenstein.
+
+### Friday Lunch Roulette Groups
+
+* Anna Weisbrodt, Alireza Andersen, July Tran, Horace
+* Brian Sayler, Marlo Major, Adrienne Domingus, Lovisa
+* Charles Kaminer, Charissa Lawrence, David Stinnette, Andrew
+* Kimiko Kano, Marina Corona, Christine Gamble, Rachel
+* Colin Osborn, Brant Wellman, Jared Roth, Josh
+* Ashwin Rao, Taylor Moore, Denali Lord, Nate
+* Scott Firestone, Erin Greenhalgh, James Crockett, Meeka
+* Deborah Hamel, Ilana Corson, Nick Weiland, Steve
+* Thomas Pickett, John Slota, Jason Hanna, Joanne
+* Shannon Paige, Jennifer Soden, Nate Venn, Allison
+* Ji Kim, Adam Hundley, Steven Olson, Jeff
+* Dan Winter, Claudia Kiesenhofer, Joshua Cohen, Jorge
+* Julian Feliciano, Greg Armstrong, Karina Gonzales, Tess
+* Sal Espinosa, Kerry Sheldon, Yoseph Anderson, Beth Secor
+* Matt Pindell, Erinna Chen, Edgar Duran, Kris Sparks
+* Heidi Hoopes, Linda McCartney, Beth Sebian, Ling Tran
+* Brennan Holtzclaw, Brenna Martenson, Lucy Fox, Gurusundesh Khalsa
+* Aaron Greenspan, Luigi Aversano, Jeneve Parrish, Chelsea Johnson
+* Marcella Wigg, Hedy Woo, Alexis Navarrete, Jordan Lawler
+* Megan McMullin, Joshua Washke, Nicholas Dorans, Justin Pease
+* Michael Lane Winham, Kami Boers, Penney Garrett
+* Nick Pisciotta, Andrew Thompson, Hector Huertas Baeza
+* Steve Pentler, Parker Phillips, Matt DesMarteau
+* Peter Springer, Lenny Myerson, Mark Miranda, Kris Foss
+* Robert Jaeger, Toni Rib, David Whitaker, Jonathan Bernesser
+* Ryan Batty, Joseph Perry, Brian Rippeto, Christopher Soden
+* Sonia Gupta, Jonathan Liss, Allan Blair, Patrick Hardy
+
+## 1510
+
+### Recursion and Generators (9:00 - 10:30)
+
+Classroom C.
+
+### Refactor Tractor (10:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time (1:00 - 3:00)
+
+Time those Games
+
+### Protocol (3:00 - 4:00)
+
+Classroom C.
+
+
+## 1511
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Still waters run deep. Classroom B.
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+[This song](https://www.youtube.com/watch?v=fwcONrTG7nk) always comes
+to my mind whenever I think of Apicurious. Also, guest starring a young
+Tracy Morgan.
+
+Big Workspace
+
+### Small Group Instruction (2:30 - 4:00)
+
+TBA.
+
+
+## 1602
+
+### Rush Hour Evaluations, Group Debrief (9:00 - 12:00)
+
+Schedule TBA
+
+### REST, Controllers & Routing in Rails (1:00 - 2:30)
+
+Classroom B.
+
+### TBD (2:30 - 4:00)
+
+
+## 1603
+
+### Testing Strategies (9:00 - 10:30)
+
+With Horace.  You know where to go.
+
+### Arguments, Methods and Scopes (10:30 - 12:00)
+
+Mike.  Same place.
+
+### Echo: Sorting Suite Evals (1:00 - 3:30)
+
+#### With Lovisa
+* 1:30 - Brian Sayler
+* 2:00 - Marcella Wigg
+* 2:30 - Anna Weisbrodt
+* 3:00 - Lucy Fox
+
+#### With Horace
+* 1:30 - Robert Jaeger
+* 2:00 - Kerry Sheldon
+* 2:30 - Ryan Batty
+
+#### All: Pairing Patterns (1:00 - 3:30)
+
+With Mike in Classroom A.
+
+* Yoseph Anderson & Michael Lane Winham
+* Jason Hanna & Linda McCartney
+* Denali Lord & Nick Pisciotta
+* Charles Kaminer & Sonia Gupta
+* Peter Springer & Erin Greenhalgh
+* Robert Jaeger & Brian Sayler
+* Anna Weisbrodt & Ryan Batty
+* Megan McMullin & Karina Gonzales
+* Kerry Sheldon & Marcella Wigg
+* Jennifer Soden & Colin Osborn
+* & Ilana Corson & Christine Gamble
+* Luigi Aversano & Joshua Cohen
+* Ji Kim & Kris Sparks
+* Parker Phillips & Lucy Fox
+
+#### Echo: CompleteMe/Battleship Project Kickoff (3:30 - 4:00)
+
+Staff Table with Mike.
+
+#### Foxtrot: Work Time (3:30 - 4:00)
+
+You can continue to pair if you like, or you can proceed to work on
+your project.
+
+
