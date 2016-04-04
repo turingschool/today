@@ -137,7 +137,7 @@ With Andrew:
 
 ### REST, Controllers & Routing in Rails (1:00 - 2:30)
 
-Classroom B.
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown). 
 
 ### TBD (2:30 - 4:00)
 
