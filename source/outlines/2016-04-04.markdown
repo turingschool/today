@@ -148,6 +148,8 @@ Classroom B with Rachel. Find the outline [here](https://github.com/turingschool
 
 With Horace.  You know where to go.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+
 ### Arguments, Methods and Scopes (10:30 - 12:00)
 
 Mike.  Same place.
