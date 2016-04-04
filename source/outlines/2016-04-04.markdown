@@ -14,6 +14,12 @@ If you're looking for something to work on with your posse, check out
 these [inject/reduce challenges](https://github.com/mikedao/inject) from
 our friend, Ben Orenstein.
 
+### #productivity-lunch (12:00 - 1:00)
+
+We'll meet in the Big Workspace, and move desks around for better discussion.
+
+If you didn't RSVP, feel free to join us, but you
+
 ### Friday Lunch Roulette Groups
 
 * Anna Weisbrodt, Alireza Andersen, July Tran, Horace
@@ -149,5 +155,3 @@ Staff Table with Mike.
 
 You can continue to pair if you like, or you can proceed to work on
 your project.
-
-
