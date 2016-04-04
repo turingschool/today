@@ -18,7 +18,7 @@ our friend, Ben Orenstein.
 
 We'll meet in the Big Workspace, and move desks around for better discussion.
 
-If you didn't RSVP, feel free to join us, but you
+If you didn't RSVP, feel free to join us, but you'll probably need to provide your own lunch.
 
 ### Friday Lunch Roulette Groups
 
@@ -147,7 +147,7 @@ Classroom B with Rachel. Find the outline [here](https://github.com/turingschool
 
 ### Entity Relationship Diagrams (2:30 - 4:00)
 
-Classroom B. Come and talk a little more about modeling the real world within your app. We will learn about Entity Relationship Diagraming (ERD) and practice structuring relational databases. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md) is the lesson plan. 
+Classroom B. Come and talk a little more about modeling the real world within your app. We will learn about Entity Relationship Diagraming (ERD) and practice structuring relational databases. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md) is the lesson plan.
 
 
 ## 1603
