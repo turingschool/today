@@ -122,7 +122,7 @@ add your Rush Hour scores and notes to your Module 2 portfolio
 start or continue a blog post for your portfolio
 explore the [Rails Guides](http://guides.rubyonrails.org/routing.html) for routing
 
-With Rachel: 
+With Rachel:
 
 * 9:00 Jonathan Liss & Christopher Soden & Hedy Woo
 * 9:45 Marina Corona & Patrick Hardy & Ashwin Rao
@@ -137,9 +137,11 @@ With Andrew:
 
 ### REST, Controllers & Routing in Rails (1:00 - 2:30)
 
-Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown). 
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown).
 
-### TBD (2:30 - 4:00)
+### Entity Relationship Diagrams (2:30 - 4:00)
+
+Classroom B. Come and talk a little more about modeling the real world within your app. We will learn about Entity Relationship Diagraming (ERD) and practice structuring relational databases. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md) is the lesson plan. 
 
 
 ## 1603
