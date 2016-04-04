@@ -112,7 +112,28 @@ TBA.
 
 ### Rush Hour Evaluations, Group Debrief (9:00 - 12:00)
 
-Schedule TBA
+Bring your notebook to evalutions so that you can take notes to add to your Module 2 portfolio.
+
+While you're not in evaluations, read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
+
+Other than completing the questions in that gist, there are no other requirements for this morning. Take a breather before we jump into Rails this afternoon. You might also choose to:
+
+add your Rush Hour scores and notes to your Module 2 portfolio
+start or continue a blog post for your portfolio
+explore the [Rails Guides](http://guides.rubyonrails.org/routing.html) for routing
+
+With Rachel: 
+
+* 9:00 Jonathan Liss & Christopher Soden & Hedy Woo
+* 9:45 Marina Corona & Patrick Hardy & Ashwin Rao
+* 10:30 Sal Espinosa & Jeneve Parrish & Gurusundesh Khalsa & Alireza Andersen
+
+With Andrew:
+
+* 9:00 Deborah Hamel & Matt Pindell & Joshua Washke
+* 9:45 Kris Foss & Claudia Kiesenhofer & Jared Roth
+* 10:30 Andrew Thompson & Ling Tran & Mark Miranda
+* 11:15 Jonathan Bernesser & Kami Boers & Thomas Pickett
 
 ### REST, Controllers & Routing in Rails (1:00 - 2:30)
 
