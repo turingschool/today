@@ -1,0 +1,82 @@
+---
+title: 20160407
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* shibboleth - noun - a peculiarity of pronounciation, behavior, mode of
+dress, etc that distinguishes a particular class or set of persons.
+
+
+## 1510
+
+### IdeaBox in React Kick Off (9:00 - 10:00)
+
+Classroom C.
+
+### IdeaBox in React and GameTime Evals (10:00 - 12:00)
+
+Schedule TBA.
+
+### Scale Up Project Kick Off (1:00 - 2:30)
+
+Classroom C.
+
+### Finish Up IdeaBox in React (2:30 - 4:00)
+
+Box those Ideas.
+
+
+## 1511
+
+### Project Work Time (9:00 - 12:00)
+
+Put those finishing touches on it.
+
+### Apicurious Evaluations (1:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1602
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom B.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom B.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom B.
+
+### Work Time: Model Testing (1:00 - 3:00)
+
+Anywheeeeere.
+
+### Model Testing: A Review (3:00 - 3:30)
+
+Classroom B.
+
+### MixMaster KickOff (3:30 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Project Evals (9:00 - 12:00)
+
+Schedule TBA.
+
+### Pair Code Challenge (9:00 - 12:00)
+
+You're working on this when youre not being evaluated.
+
+
+
+
