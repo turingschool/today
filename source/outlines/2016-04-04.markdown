@@ -48,15 +48,37 @@ our friend, Ben Orenstein.
 
 ### Recursion and Generators (9:00 - 10:30)
 
+- [Recursion Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
+- [Generators Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
+
 Classroom C.
 
 ### Refactor Tractor (10:00 - 12:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
 Classroom C.
+
+#### Refactoring Buddies
+
+* Beth Sebian & Marlo Major
+* Steve Olson & Dan Winter
+* Greg Armstrong & Justin Pease
+* Shannon Paige & Hector Huertas Baeza
+* Steve 'Dad' Pentler & Jamie Crockett
+* Brant Wellman & David Stinnette
+* Beth Secor & Toni Rib
+* Edgar Duran & Joseph Perry
+* Aaron Greenspan & Penney Garrett
+* Jordan Lawler & John 'Uncle' Slota & Brenna Martenson
+
+### Homework
+
+Fill out [this gist](https://gist.github.com/rrgayhart/5bf9b8e04b159892b97fb39528fc2e47) with your work from the Refactor Tractor Lesson
 
 ### Project Work Time (1:00 - 3:00)
 
-Time those Games
+Continue making those Games!
 
 ### Protocol (3:00 - 4:00)
 
@@ -149,5 +171,3 @@ Staff Table with Mike.
 
 You can continue to pair if you like, or you can proceed to work on
 your project.
-
-
