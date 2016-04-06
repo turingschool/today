@@ -37,7 +37,30 @@ Put those finishing touches on it.
 
 ### Apicurious Evaluations (1:00 - 4:00)
 
-Schedule TBA.
+#### With Josh
+
+- Nick Weiland
+- Julian Feliciano
+- Adrienne Domingus
+- Heidi Hoopes
+- Erinna Chen
+- Allan Blair
+- July Tran
+- Kimiko Kano
+- Nicholas Dorans
+- Scott Firestone
+
+#### With Nate
+
+- Brian Rippeto
+- David Whitaker
+- Brennan Holtzclaw
+- Alexis Navarrete
+- Adam Hundley
+- Chelsea Johnson
+- Lenny Myerson
+- Nate Venn
+- Charissa Lawrence
 
 
 ## 1602
@@ -115,7 +138,3 @@ Classroom B.
 ### Pair Code Challenge (9:00 - 12:00)
 
 You're working on this when youre not being evaluated.
-
-
-
-
