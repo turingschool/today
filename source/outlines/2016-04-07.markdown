@@ -54,6 +54,28 @@ Classroom B.
 
 Classroom B.
 
+
+### One-on-Ones: (1:00 - 4:00)
+
+With Andrew:
+
+
+With Rachel:
+
+* 1:30 Ling Tran
+* 1:42 Matt Pindell
+* 1:56 Deborah Hamel
+* 1:08 Claudia Kiesenhofer
+* 2:20 Thomas Pickett
+* 2:32 Jonathan Bernesser
+* 2:44 Jonathan Liss
+* 3:56 Ashwin Rao
+* 3:08 Gurusundesh Khalsa
+* 3:20 Jeneve Parrish
+* 3:32 Marina Corona
+
+
+
 ### Work Time: Model Testing (1:00 - 3:00)
 
 Anywheeeeere.
@@ -116,7 +138,3 @@ Classroom B.
 ### Pair Code Challenge (9:00 - 12:00)
 
 You're working on this when youre not being evaluated.
-
-
-
-
