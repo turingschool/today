@@ -95,22 +95,21 @@ Classroom B.
 * 11:00 - Ilana Corson
 * 11:30 - Christine Gamble
 
-
 #### With Nate
 * 9:00 - Jason Hanna
 * 9:30 - Karina Gonzales
-* 10:00 -
-* 10:30 -
-* 11:00 -
+* 10:00 - Luigi Aversano
+* 10:30 - Megan McMullin
+* 11:00 - Lane Winham
+* 11:30 - Charles Kaminer
 
 #### With Rachel
-* 10:30 - Jason Kaminer
 * 11:00 - Erin Greenhalgh
-* 11:30 -
+* 11:30 - Michael Lane Winham
 
 #### With Tess
-* 9:00 -
-* 9:30 -
+* 9:00 - Nick Pisciotta
+* 9:30 - Peter Springer
 
 
 ### Pair Code Challenge (9:00 - 12:00)
