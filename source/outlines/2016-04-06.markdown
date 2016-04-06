@@ -38,7 +38,7 @@ Schedule TBA
 
 ### Form and Route Helpers in Rails (9:00 - 12:00)
 
-Classroom B.
+Classroom B. We'll use [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown) lesson plan today. This is a code along and we will continue to work on this repository for a few days in a few different lessons. 
 
 ### Jobs Q & A (1:00 - 1:30)
 
@@ -55,7 +55,7 @@ Stay in Classroom C.
 
 ### One on Ones (1:30 - 4:00)
 
-Yes, they are every twelve minutes. 
+Yes, they are every twelve minutes.
 
 With Andrew:
 
