@@ -66,10 +66,9 @@ You'll be working in the following pairs:
 
 Classroom C.
 
-### Project Check Ins and Work Time (1:00 - 4:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_against_third_party_apis.md)
 
-Schedule TBA
-
+### Work Time (1:00 - 4:00)
 
 ## 1602
 
@@ -125,6 +124,10 @@ With Rachel:
 ## 1603
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
+
+[Video from Last Time](https://vimeo.com/155902102)
 
 Classroom A.
 
