@@ -12,22 +12,50 @@ dress, etc that distinguishes a particular class or set of persons.
 
 ## 1510
 
-### IdeaBox in React Kick Off (9:00 - 10:00)
+### IdeaBox in React Kick Off (9:00 - 9:15)
 
-Classroom C.
+Join Steve in Classroom C.
 
-### IdeaBox in React and GameTime Evals (10:00 - 12:00)
+Yesterday, we did a whirlwind introduction to React. The next step is for you to get your hands dirty and try it out for yourself.
 
-Schedule TBA.
+You'll begin working on this [tutorial](http://github.com/applegrain/creact) where you'll be cloning down a Rails API and build out CRUD functionality using the `react-rails` gem.
 
-### Scale Up Project Kick Off (1:00 - 2:30)
+### Scale Up Project Kick Off (9:15 - 9:45)
 
-Classroom C.
+Join Meeka and Steve in Classroom C.
 
-### Finish Up IdeaBox in React (2:30 - 4:00)
+[Here is a rundown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/week-4-kickoff.markdown) of the project choices.
 
-Box those Ideas.
+[Here is a very important survey](http://goo.gl/forms/8dZd7MejyC) that you need to have completed by no later than 3pm on Friday.
 
+### Project Work Time
+
+Make sure you've completed your [submission form](https://github.com/turingschool/ruby-submissions/blob/master/1510/module_4_assignments/gametime/template/submission_form.markdown).
+
+Also, it's in production or it didn't happen.
+
+### GameTime Evaluations (2:00 - 3:30)
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+- [Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/gametime)
+
+#### With Tess
+
+* 2:00: Jordan Lawler & Toni Rib
+* 2:30: Edgar Duran & Dan Winter
+* 3:00: Steve 'Dad' Pentler & David Stinnette
+
+#### Wtih Steve
+
+* 2:00: Greg Armstrong & Beth Secor
+* 2:30: John 'Uncle' Slota & Shannon Paige
+* 3:00: Penney Garrett & Beth Sebian
+
+#### With Meeka
+
+* 2:00: Brant Wellman & Aaron Greenspan
+* 2:30: Joseph Perry & Jamie Crockett & Justin Pease
+* 3:00: Steve Olson & Brenna Martenson
 
 ## 1511
 
@@ -75,38 +103,40 @@ Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-[This is our lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). Join Rachel in Classroom B.
-
-
-### One-on-Ones: (1:00 - 4:00)
-
-With Rachel:
-
-* 1:30 Ling Tran
-* 1:42 Matt Pindell
-* 1:56 Deborah Hamel
-* 1:08 Claudia Kiesenhofer
-* 2:20 Thomas Pickett
-* 2:32 Jonathan Bernesser
-* 2:44 Jonathan Liss
-* 3:56 Ashwin Rao
-* 3:08 Gurusundesh Khalsa
-* 3:20 Jeneve Parrish
-* 3:32 Marina Corona
-
-
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown).
 
 ### Work Time: Model Testing (1:00 - 3:00)
 
-Anywheeeeere.
+Anywheeeeere. Work on [these challenges](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown).
+
+With Rachel:
+
+* 1:10 Thomas Pickett
+* 1:22 Matt Pindell
+* 1:34 Ling Tran
+* 1:46 Claudia Kiesenhofer
+* 1:58 Gurusundesh Khalsa
+* 2:10 Jonathan Bernesser
+* 2:22 Deborah Hamel
+* 2:34 Jeneve Parrish
+
+With Andrew:
+
+* 1:10 Marina Corona
+* 1:22 Ashwin Rao
+* 1:34 Jonathan Liss
 
 ### Model Testing: A Review (3:00 - 3:30)
 
-Classroom B.
+Classroom B with Rachel.
 
 ### MixMaster KickOff (3:30 - 4:00)
 
+<<<<<<< HEAD
 [This](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) is THE MIX_MASTER! Classroom B.
+=======
+Let's kick off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) in Classroom B.
+>>>>>>> 8b3a9deaf6ed71122701c802989b344f7721da86
 
 
 ## 1603
@@ -115,9 +145,9 @@ Classroom B.
 
 #### With Horace
 * 9:00 - Denali Lord
-* 9:30 - Ji Kim
+* 9:30 - Lane Winham
 * 10:00 - Kris Sparks
-* 10:30 - Yoseph Anderson
+* 10:30 - Parker Phillips
 * 11:00 - Sonia Gupta
 * 11:30 - Joshua Cohen
 
@@ -142,12 +172,8 @@ Classroom B.
 * 9:30 - Karina Gonzales
 * 10:00 - Luigi Aversano
 * 10:30 - Megan McMullin
-* 11:00 - Parker Philips
-* 11:30 - Charles Kaminer
-
-#### With Rachel
 * 11:00 - Erin Greenhalgh
-* 11:30 - Michael Lane Winham
+* 11:30 - Charles Kaminer
 
 #### With Tess
 * 9:00 - Nick Pisciotta
