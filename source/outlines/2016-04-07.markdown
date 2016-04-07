@@ -12,22 +12,50 @@ dress, etc that distinguishes a particular class or set of persons.
 
 ## 1510
 
-### IdeaBox in React Kick Off (9:00 - 10:00)
+### IdeaBox in React Kick Off (9:00 - 9:15)
 
-Classroom C.
+Join Steve in Classroom C.
 
-### IdeaBox in React and GameTime Evals (10:00 - 12:00)
+Yesterday, we did a whirlwind introduction to React. The next step is for you to get your hands dirty and try it out for yourself.
 
-Schedule TBA.
+You'll begin working on this [tutorial](http://github.com/applegrain/creact) where you'll be cloning down a Rails API and build out CRUD functionality using the `react-rails` gem.
 
-### Scale Up Project Kick Off (1:00 - 2:30)
+### Scale Up Project Kick Off (9:15 - 9:45)
 
-Classroom C.
+Join Meeka and Steve in Classroom C.
 
-### Finish Up IdeaBox in React (2:30 - 4:00)
+[Here is a rundown](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/week-4-kickoff.markdown) of the project choices.
 
-Box those Ideas.
+[Here is a very important survey](http://goo.gl/forms/8dZd7MejyC) that you need to have completed by no later than 3pm on Friday.
 
+### Project Work Time
+
+Make sure you've completed your [submission form](https://github.com/turingschool/ruby-submissions/blob/master/1510/module_4_assignments/gametime/template/submission_form.markdown).
+
+Also, it's in production or it didn't happen.
+
+### GameTime Evaluations (10:00 - 12:00)
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+- [Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/gametime)
+
+#### With Tess
+
+* 2:00: Jordan Lawler & Toni Rib
+* 2:30: Edgar Duran & Dan Winter
+* 3:00: Steve 'Dad' Pentler & David Stinnette
+
+#### Wtih Steve
+
+* 2:00: Greg Armstrong & Beth Secor
+* 2:30: John 'Uncle' Slota & Shannon Paige
+* 3:00: Penney Garrett & Beth Sebian
+
+#### With Meeka
+
+* 2:00: Brant Wellman & Aaron Greenspan
+* 2:30: Joseph Perry & Jamie Crockett & Justin Pease
+* 3:00: Steve Olson & Brenna Martenson
 
 ## 1511
 
