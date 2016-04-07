@@ -103,19 +103,36 @@ Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom B.
+Classroom B with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). 
 
 ### Work Time: Model Testing (1:00 - 3:00)
 
-Anywheeeeere.
+Anywheeeeere. Work on [these challenges](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). 
+
+With Rachel: 
+
+* 1:10 Thomas Pickett
+* 1:22 Matt Pindell
+* 1:34 Ling Tran
+* 1:46 Claudia Kiesenhofer
+* 1:58 Gurusundesh Khalsa
+* 2:10 Jonathan Bernesser
+* 2:22 Deborah Hamel
+* 2:34 Jeneve Parrish
+
+With Andrew: 
+
+* 3:08 Marina Corona
+* 3:20 Ashwin Rao
+* 3:32 Jonathan Liss
 
 ### Model Testing: A Review (3:00 - 3:30)
 
-Classroom B.
+Classroom B with Rachel. 
 
 ### MixMaster KickOff (3:30 - 4:00)
 
-Classroom B.
+Let's kick off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) in Classroom B. 
 
 
 ## 1603
