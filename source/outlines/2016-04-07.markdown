@@ -34,7 +34,7 @@ Make sure you've completed your [submission form](https://github.com/turingschoo
 
 Also, it's in production or it didn't happen.
 
-### GameTime Evaluations (10:00 - 12:00)
+### GameTime Evaluations (2:00 - 3:30)
 
 - [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 - [Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/gametime)
