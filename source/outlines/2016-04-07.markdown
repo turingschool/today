@@ -132,11 +132,8 @@ Classroom B with Rachel.
 
 ### MixMaster KickOff (3:30 - 4:00)
 
-<<<<<<< HEAD
 [This](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) is THE MIX_MASTER! Classroom B.
-=======
 Let's kick off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) in Classroom B.
->>>>>>> 8b3a9deaf6ed71122701c802989b344f7721da86
 
 
 ## 1603
@@ -182,8 +179,6 @@ Let's kick off [Mix Master](https://github.com/turingschool/lesson_plans/tree/ma
 ### Pair Code Challenge (9:00 - 12:00)
 
 You're working on this when youre not being evaluated.
-<<<<<<< HEAD
-=======
 When you're not being evaluated, pair up and work on [this code challenge](https://github.com/turingschool/challenges/blob/master/well_formed_strings.markdown)
 
 * rbatty, robbiejaeger
@@ -228,4 +223,3 @@ Pair up with a student who worked on the same project with you.
 
 For the next 90 minutes choose one of the design approaches just discussed.
 **Start from scratch** on your project and see how far you can get applying these techniques in combination with TDD.
->>>>>>> ef34d843bd37c9d98985d14df42f5959ec2df4da
