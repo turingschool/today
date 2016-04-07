@@ -134,7 +134,50 @@ Classroom B.
 * 9:00 - Nick Pisciotta
 * 9:30 - Peter Springer
 
-
 ### Pair Code Challenge (9:00 - 12:00)
 
 You're working on this when youre not being evaluated.
+When you're not being evaluated, pair up and work on [this code challenge](https://github.com/turingschool/challenges/blob/master/well_formed_strings.markdown)
+
+* rbatty, robbiejaeger
+* anna_w, kerry
+* marcellawigg, saylerb
+* ckaminer, icorson3
+* lane, codingzero
+* lin, karinamzalez
+* luigi_ave1, nickpisciotta
+* ji, colinosborn
+* msjennygiraffe, thatgirlcancode
+* parkercp, peter.springer
+* jhanna, soniagupta504
+* e_green, mcmegan
+* kbs5280, josh
+* christinecgamble, lucyfox
+
+### Project Recap and Refactor (1:00 - 4:00)
+
+Let's get together to talk about some of the things that went well in
+our projects and what could be improved.
+
+We'll work through 3 sessions
+
+#### Project-Specific Recap (1:00 - 2:00)
+
+Join one of the staff to look through some example solutions to the week's project.
+
+##### Enigma - Classroom A with Horace
+
+##### Nightwriter - Staff Table with Mike
+
+##### CompleteMe / Battleship - Big Workspace with Lovisa
+
+#### Group Discussion: Top-Down vs. Bottom-Up Design (2:00 - 2:45)
+
+Gather in Classroom A.
+
+#### Practicing (2:30 - 4:00)
+
+Pair up with a student who worked on the same project with you.
+
+For the next 90 minutes choose one of the design approaches just discussed.
+**Start from scratch** on your project and see how far you can get applying these techniques in combination with TDD.
