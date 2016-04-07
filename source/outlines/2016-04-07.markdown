@@ -37,7 +37,30 @@ Put those finishing touches on it.
 
 ### Apicurious Evaluations (1:00 - 4:00)
 
-Schedule TBA.
+#### With Josh
+
+- Nick Weiland
+- Julian Feliciano
+- Adrienne Domingus
+- Heidi Hoopes
+- Erinna Chen
+- Allan Blair
+- July Tran
+- Kimiko Kano
+- Nicholas Dorans
+- Scott Firestone
+
+#### With Nate
+
+- Brian Rippeto
+- David Whitaker
+- Brennan Holtzclaw
+- Alexis Navarrete
+- Adam Hundley
+- Chelsea Johnson
+- Lenny Myerson
+- Nate Venn
+- Charissa Lawrence
 
 
 ## 1602
@@ -48,17 +71,14 @@ Classroom B.
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-Classroom B.
+[This is our lesson plan for today](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md). Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom B.
+[This is our lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown). Join Rachel in Classroom B.
 
 
 ### One-on-Ones: (1:00 - 4:00)
-
-With Andrew:
-
 
 With Rachel:
 
@@ -86,7 +106,7 @@ Classroom B.
 
 ### MixMaster KickOff (3:30 - 4:00)
 
-Classroom B.
+[This](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master) is THE MIX_MASTER! Classroom B.
 
 
 ## 1603
@@ -117,24 +137,69 @@ Classroom B.
 * 11:00 - Ilana Corson
 * 11:30 - Christine Gamble
 
-
 #### With Nate
 * 9:00 - Jason Hanna
 * 9:30 - Karina Gonzales
-* 10:00 -
-* 10:30 -
-* 11:00 -
+* 10:00 - Luigi Aversano
+* 10:30 - Megan McMullin
+* 11:00 - Parker Philips
+* 11:30 - Charles Kaminer
 
 #### With Rachel
-* 10:30 - Jason Kaminer
 * 11:00 - Erin Greenhalgh
-* 11:30 -
+* 11:30 - Michael Lane Winham
 
 #### With Tess
-* 9:00 -
-* 9:30 -
-
+* 9:00 - Nick Pisciotta
+* 9:30 - Peter Springer
 
 ### Pair Code Challenge (9:00 - 12:00)
 
 You're working on this when youre not being evaluated.
+<<<<<<< HEAD
+=======
+When you're not being evaluated, pair up and work on [this code challenge](https://github.com/turingschool/challenges/blob/master/well_formed_strings.markdown)
+
+* rbatty, robbiejaeger
+* anna_w, kerry
+* marcellawigg, saylerb
+* ckaminer, icorson3
+* lane, codingzero
+* lin, karinamzalez
+* luigi_ave1, nickpisciotta
+* ji, colinosborn
+* msjennygiraffe, thatgirlcancode
+* parkercp, peter.springer
+* jhanna, soniagupta504
+* e_green, mcmegan
+* kbs5280, josh
+* christinecgamble, lucyfox
+
+### Project Recap and Refactor (1:00 - 4:00)
+
+Let's get together to talk about some of the things that went well in
+our projects and what could be improved.
+
+We'll work through 3 sessions
+
+#### Project-Specific Recap (1:00 - 2:00)
+
+Join one of the staff to look through some example solutions to the week's project.
+
+##### Enigma - Classroom A with Horace
+
+##### Nightwriter - Staff Table with Mike
+
+##### CompleteMe / Battleship - Big Workspace with Lovisa
+
+#### Group Discussion: Top-Down vs. Bottom-Up Design (2:00 - 2:45)
+
+Gather in Classroom A.
+
+#### Practicing (2:30 - 4:00)
+
+Pair up with a student who worked on the same project with you.
+
+For the next 90 minutes choose one of the design approaches just discussed.
+**Start from scratch** on your project and see how far you can get applying these techniques in combination with TDD.
+>>>>>>> ef34d843bd37c9d98985d14df42f5959ec2df4da
