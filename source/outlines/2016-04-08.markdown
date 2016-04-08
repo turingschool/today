@@ -9,6 +9,9 @@ layout: outline
 
 * ersatz - adjective - serving as a substitute; synthetic; artificial
 
+### Weekly Surveys
+
+- [1510](https://docs.google.com/forms/d/1H7J_tnt_fFp2UMd7HxMASapHcIdXzwGNbfVaVsX4lhs/viewform)
 
 ### Academic Time (9:00 - 10:00)
 
@@ -40,7 +43,3 @@ Noms in the Big Workspace
 ### Wrap Up (4:00)
 
 Get back to the Big Workspace to Wrap. It. Up.
-
-
-
-
