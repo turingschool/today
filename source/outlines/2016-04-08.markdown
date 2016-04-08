@@ -17,6 +17,16 @@ layout: outline
 
 #### 1510
 
+**A gentle introduction to Ember**: This morning we'll [dip our toes in to Ember][ember] and compare and contrast how Ember handles a simple project like Idea Box (or Tuttle Box).
+
+[ember]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/super-introduction-to-ember.markdown
+
+- [Lesson Plan][ember]
+- Install Ember CLI: `npm install -g ember-cli`
+- Install the Ember Inspector: [Chrome][eic]. [Firefox][eiff]
+- Clone down the canonical [Ideabox](https://github.com/stevekinney/idea-box), if you don't already have it
+- Optional: Install a Handlebars syntax highlighter.
+
 Classroom C.
 
 #### 1511
