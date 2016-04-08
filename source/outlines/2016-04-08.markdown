@@ -26,6 +26,7 @@ layout: outline
 - Install the Ember Inspector: [Chrome][eic]. [Firefox][eiff]
 - Clone down the canonical [Ideabox](https://github.com/stevekinney/idea-box), if you don't already have it
 - Optional: Install a Handlebars syntax highlighter if you're into that kind of thing.
+- Run `ember new ideabox` somewhere that makes you happy.
 
 Classroom C.
 
