@@ -61,6 +61,15 @@ Classroom C.
 
 Classroom C.
 
+### BoxTrot/Whiskey Tango: Work Through the Marching Orders (9:00 - 12:00)
+
+[Marching Orders](https://gist.github.com/rrgayhart/67eb1f4b6c0aa0701b32e79423fe59f1)
+
+### BoxTrot/Whiskey Tango: Team Stand Up (1:05 - 1:30)
+
+### BoxTrot/Whiskey Tango: Agile and OtherBuzzwords (1:30 - 4:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
 
 ## 1511
 
