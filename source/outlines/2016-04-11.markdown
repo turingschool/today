@@ -146,11 +146,11 @@ Classroom B.
 
 ### ActiveRecord Obstacle Course (10:00 - 12:00)
 
-Classroom B.
+Classroom B. We will be using the [storedom repo](https://github.com/turingschool-examples/storedom).
 
 ### Sessions Cookies and Flashes (1:00 - 2:30)
 
-Classroom B.
+Classroom B. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown) is the lesson. 
 
 ### CRUD - Sprint (2:30 - 4:00)
 
