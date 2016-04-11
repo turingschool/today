@@ -13,6 +13,10 @@ strength.
 
 * [Palindromes](https://github.com/turingschool/posse_challenges/tree/master/palindrome)
 
+### #productivity-lunch (12:00 - 1:00)
+
+We'll meet in Big Workspace again. If you didn't RSVP, feel free to join us, but you'll have to bring your own lunch. Join #productivity-lunch on slack to RSVP next week.
+
 ### Friday Lunch Roulette Groups
 * Anna Weisbrodt, Alireza Andersen, July Tran, Horace
 * Brian Sayler, Marlo Major, Adrienne Domingus, Lovisa
