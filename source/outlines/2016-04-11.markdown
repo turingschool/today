@@ -71,6 +71,7 @@ Classroom C.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
 
+
 ## 1511
 
 ### Building an API / Securing an API (9:00 - 12:00)
@@ -173,7 +174,6 @@ Have your DTR, or get diagnostic'ed. I'm sure that's a word.
 * 3:30 - Luigi Aversano
 
 ### With Rachel
-* 1:00 - Parker Philips
+* 3:00 - Parker Philips
+* 3:30 - Charles Kaminer
 
-### With Nate
-* 1:00 - Charles Kaminer
