@@ -64,9 +64,19 @@ Classroom C.
 
 Big Workspace
 
-### Rales Engine Kickoff (1:00 - 2:00)
+### Rails Engine Kickoff (1:00 - 2:00)
 
 Big Workspace.
+
+### Project Pitches
+
+Big Workspace. NREL and Screenpilot are coming to pitch the work they need done.
+
+### Small Groups and work time (3:00 - 4:00)
+
+The return of small groups. We'll come up with some topics, and cover them in more detail for anyone who's interested.
+
+Probably Staff area? We'll let you know.
 
 
 ## 1602
@@ -154,4 +164,3 @@ Have your DTR, or get diagnostic'ed. I'm sure that's a word.
 
 ### With Nate
 * 1:00 - Charles Kaminer
-
