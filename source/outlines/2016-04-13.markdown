@@ -3,6 +3,37 @@ title: 20160413
 layout: outline
 ---
 
+## 1511
+
+### Project work time and 1-on-1s (9:00 - 12:00)
+
+#### With Josh
+- Chelsea Johnson
+- Erinna Chen
+- Adam Hundley
+- Brian Rippeto
+- Kimiko Kano
+- Nick Weiland
+- David Whitaker
+- Allan Blair
+- Nicholas Dorans
+
+#### With Nate
+
+- July Tran
+- Adrienne Domingus
+- Lenny Myerson
+- Julian Feliciano
+- Charissa Lawrence
+- Nate Venn
+- Brennan Holtzclaw
+- Alexis Navarrete
+- Scott Firestone
+
+### More Project Work Time (1:00 - 4:00)
+
+The world is waiting for an easy way to access this business intelligence data via a RESTful HTTP interface. Will you be ready in time?
+
 ## 1602
 
 ### Mid-Module assessments(1:00 - 4:00)
