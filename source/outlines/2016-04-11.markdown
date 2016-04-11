@@ -1,0 +1,179 @@
+---
+title: 20160411
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* namby-pamby - adjective - lacking in directness, or moral or emotional
+strength.
+
+### Optional Posse Challenge
+
+* [Palindromes](https://github.com/turingschool/posse_challenges/tree/master/palindrome)
+
+### #productivity-lunch (12:00 - 1:00)
+
+We'll meet in Big Workspace again. If you didn't RSVP, feel free to join us, but you'll have to bring your own lunch. Join #productivity-lunch on slack to RSVP next week.
+
+### Friday Lunch Roulette Groups
+* Anna Weisbrodt, Alireza Andersen, July Tran, Horace
+* Brian Sayler, Marlo Major, Adrienne Domingus, Lovisa
+* Charles Kaminer, Charissa Lawrence, David Stinnette, Andrew
+* Kimiko Kano, Marina Corona, Christine Gamble, Rachel
+* Colin Osborn, Brant Wellman, Jared Roth, Josh
+* Ashwin Rao, Taylor Moore, Denali Lord, Nate
+* Scott Firestone, Erin Greenhalgh, James Crockett, Meeka
+* Deborah Hamel, Ilana Corson, Nick Weiland, Steve
+* Thomas Pickett, John Slota, Jason Hanna, Joanne
+* Shannon Paige, Jennifer Soden, Nate Venn, Allison
+* Ji Kim, Adam Hundley, Steven Olson, Jeff
+* Dan Winter, Claudia Kiesenhofer, Joshua Cohen, Jorge
+* Julian Feliciano, Greg Armstrong, Karina Gonzales, Tess
+* Mark Miranda, Allan Blair, Nick Pisciotta, Mike
+* Sal Espinosa, Kerry Sheldon, Yoseph Anderson, Beth Secor
+* Matt Pindell, Erinna Chen, Edgar Duran, Kris Sparks
+* Heidi Hoopes, Linda McCartney, Beth Sebian, Ling Tran
+* Brennan Holtzclaw, Brenna Martenson, Lucy Fox, Gurusundesh Khalsa
+* Aaron Greenspan, Luigi Aversano, Jeneve Parrish, Chelsea Johnson
+* Marcella Wigg, Hedy Woo, Alexis Navarrete, Jordan Lawler
+* Megan McMullin, Joshua Washke, Nicholas Dorans, Justin Pease
+* Michael Lane Winham, Kami Boers, Penney Garrett
+* Steve Pentler, Parker Phillips, Matt DesMarteau
+* Peter Springer, Lenny Myerson, Kris Foss, Drew Thompson
+* Robert Jaeger, Toni Rib, David Whitaker, Jonathan Bernesser
+* Ryan Batty, Joseph Perry, Brian Rippeto, Christopher Soden
+* Sonia Gupta, Jonathan Liss, Patrick Hardy
+
+
+## 1510
+
+### Fecho: Building Desktop Applications: Kickoff and Q & A (9:00 - 9:30)
+
+Classroom C
+
+### Fecho: Initial Spike (9:30 - 10:30)
+
+Classroom C.
+
+### Fecho: Wireframing and Checkins (10:30 - 12:00)
+
+Classroom C.
+
+### BoxTrot/Whiskey Tango: Work Through the Marching Orders (9:00 - 12:00)
+
+[Marching Orders](https://gist.github.com/rrgayhart/67eb1f4b6c0aa0701b32e79423fe59f1)
+
+### BoxTrot/Whiskey Tango: Team Stand Up (1:05 - 1:30)
+
+### BoxTrot/Whiskey Tango: Agile and OtherBuzzwords (1:30 - 4:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
+
+## 1511
+
+### Building an API / Securing an API (9:00 - 12:00)
+
+Big Workspace
+
+### Rails Engine Kickoff (1:00 - 2:00)
+
+Big Workspace.
+
+### Project Pitches
+
+Big Workspace. NREL and Screenpilot are coming to pitch the work they need done.
+
+### Small Groups and work time (3:00 - 4:00)
+
+The return of small groups. We'll come up with some topics, and cover them in more detail for anyone who's interested.
+
+Probably Staff area? We'll let you know.
+
+
+## 1602
+
+### Mixmaster Q & A (9:00 - 10:00)
+
+Classroom B.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+Classroom B.
+
+### Sessions Cookies and Flashes (1:00 - 2:30)
+
+Classroom B.
+
+### CRUD - Sprint (2:30 - 4:00)
+
+Classroom B.
+
+Where you will be.
+
+There will be no fee.
+
+Whee.
+
+
+## 1603
+
+### All: GitHub for Pairs (9:00 - 10:30)
+
+Learn how to share. Classroom A.
+
+### All: Project Kickoff. (10:30 - 11:00)
+
+Choose wisely.
+
+Classroom A.
+
+### Project DTR and Mid Module Diagnostic (11:00 - 12:00)
+
+Have your DTR, or get diagnostic'ed. I'm sure that's a word.
+
+#### With Horace
+* 11:00 - Colin Osborn
+* 12:00 - Ji Kim
+
+#### With Mike
+* 11:00 - Ilana Corson
+* 12:00 - Jenny Soden
+
+#### With Lovisa
+* 11:00 - Anna Weisbrodt
+* 12:00 - Brian Sayler
+
+
+### Mid Module Diagnostic (1:00 - 4:00)
+
+### With Horace
+* 1:00 - Denali Lord
+* 1:30 - Jason Hanna
+* 2:00 - Joshua Cohen
+* 2:30 - Kris Sparks
+* 3:00 - Peter Springer
+* 3:30 - Sonia Gupta
+
+### With Mike
+* 1:00 - Kerry Sheldon
+* 1:30 - Lucy Fox
+* 2:00 - Marcella Wigg
+* 2:30 - Christine Gamble
+* 3:00 - Lane Winham
+* 3:30 - Karina Gonzales
+
+### With Lovisa
+* 1:00 - Robert Jaeger
+* 1:30 - Ryan Batty
+* 2:00 - Erin Greenhalgh
+* 2:30 - Linda McCartney
+* 3:00 - Nick Pisciotta
+* 3:30 - Luigi Aversano
+
+### With Rachel
+* 3:00 - Parker Philips
+* 3:30 - Charles Kaminer
+
