@@ -49,17 +49,62 @@ We'll meet in Big Workspace again. If you didn't RSVP, feel free to join us, but
 
 ## 1510
 
-### Fecho: Building Desktop Applications: Kickoff and Q & A (9:00 - 9:30)
+### Fecho: Building Desktop Applications: Kickoff and Q & A (9:00 - 10:00)
 
-Classroom C
+You'll be working in the following pairs:
 
-### Fecho: Initial Spike (9:30 - 10:30)
+- Shannon Page and Jamie Crockett
+- Jordan Lawler and Dan Winter
+- Steve Pentler and Justin Pease
+- Joseph Perry and Greg Armstrong
+- Brenna Martenson
 
-Classroom C.
+This morning, we'll discuss the following:
 
-### Fecho: Wireframing and Checkins (10:30 - 12:00)
+- Why we're using Electron for this project
+- Scoping your project appropriately
+- A brief tour of the scaffolding
+- Some thoughts on Flexbox and Fetch
+- What libraries you can and can't use
+- Biased opinions on CSS frameworks designed to make your application look like a native OS X application
 
-Classroom C.
+You should aim to have the following done by the end of the day:
+
+- Wireframes for your application
+- Detailed plans for your hopes and dreams
+- Detailed plans for an MVP in case your hopes are dashed and your dreams deferred
+- An initial spike of your application
+
+The tutorials and videos below should help you get acclimated to using Electron. If you haven't reviewed them, then that's something you should *definitely* do today.
+
+- [Introductory Talk](https://www.youtube.com/watch?v=rbSvc8_BHaw&feature=youtu.be)
+- **Fire Sale**: [Tutorial](https://github.com/stevekinney/firesale-tutorial), [Video](https://vimeo.com/155240396)
+- **Clipmaster 9000**: [Tutorial](https://github.com/stevekinney/clipmaster-9000-tutorial), [Video](https://vimeo.com/157959282)
+
+You can use either of the following to get your project off the ground:
+
+- [Steve's super simple starter kit](https://github.com/turingschool-examples/electron-react-starter-kit)
+- [The more intense Electron-React boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
+
+Contributing to Open Source:
+
+- Last inning, we created and contributed to [file-bin](https://www.npmjs.com/package/file-bin)—a simple little library that makes it easier to work with the file system in Node. There is still plenty of work to do. On Tuesday, we'll talk a but about how to create our own packages as well.
+
+Additional resources:
+
+- [What the Flexbox?](http://flexbox.io)
+- [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+
+### Fecho: Wireframing and Checkins (10:00 - 12:00)
+
+Meet with Steve to discuss your big plans for your applications.
+
+- 11:00: Jordan Lawler and Dan Winter
+- 11:10: Shannon Page and Jamie Crockett
+- 11:20: Steve Pentler and Justin Pease
+- 11:30: Joseph Perry and Greg Armstrong
+- 11:40: Brenna Martenson
 
 ### BoxTrot/Whiskey Tango: Work Through the Marching Orders (9:00 - 12:00)
 
