@@ -150,7 +150,7 @@ Classroom B. We will be using the [storedom repo](https://github.com/turingschoo
 
 ### Sessions Cookies and Flashes (1:00 - 2:30)
 
-Classroom B. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown) is the lesson. 
+Classroom B. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown) is the lesson.
 
 ### CRUD - Sprint (2:30 - 4:00)
 
@@ -175,22 +175,40 @@ Choose wisely.
 
 Classroom A.
 
+These are your groups:
+
+* Anna Weisbrodt & Kerry Sheldon
+* Lucy Fox & Robert Jaeger
+* Brian Sayler & Ryan Batty
+* Marcella Wigg & Karina Gonzales
+* Michael Lane Winham & Erin Greenhalgh
+* Parker Phillips & Kris Sparks
+* Charles Kaminer & Peter Springer
+* Christine Gamble & Luigi Aversano
+* Jennifer Soden & Linda McCartney
+* Nick Pisciotta & Sonia Gupta
+* Colin Osborn & Ji Kim
+* Ilana Corson & Denali Lord
+
 ### Project DTR and Mid Module Diagnostic (11:00 - 12:00)
 
 Have your DTR, or get diagnostic'ed. I'm sure that's a word.
 
 #### With Horace
 * 11:00 - Colin Osborn
-* 12:00 - Ji Kim
+* 11:30 - Ji Kim
 
 #### With Mike
 * 11:00 - Ilana Corson
-* 12:00 - Jenny Soden
+* 11:30 - Jenny Soden
 
-#### With Lovisa
+#### With Tess
 * 11:00 - Anna Weisbrodt
-* 12:00 - Brian Sayler
+* 11:30 - Brian Sayler
 
+#### With Nate
+* 11:00 - Nick Pisciotta
+* 11:30 - Luigi Aversano
 
 ### Mid Module Diagnostic (1:00 - 4:00)
 
@@ -210,14 +228,3 @@ Have your DTR, or get diagnostic'ed. I'm sure that's a word.
 * 3:00 - Lane Winham
 * 3:30 - Karina Gonzales
 
-### With Lovisa
-* 1:00 - Robert Jaeger
-* 1:30 - Ryan Batty
-* 2:00 - Erin Greenhalgh
-* 2:30 - Linda McCartney
-* 3:00 - Nick Pisciotta
-* 3:30 - Luigi Aversano
-
-### With Rachel
-* 3:00 - Parker Philips
-* 3:30 - Charles Kaminer
