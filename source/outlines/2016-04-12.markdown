@@ -103,6 +103,3 @@ Work away.
 * 1:30 - Erin Greenhalgh
 * 2:00 - Parker Phillips
 * 2:30 - Charles Kaminer
-
-
->>>>>>> 520ef3b442668222eb6322913adcd96fdd3b96a3
