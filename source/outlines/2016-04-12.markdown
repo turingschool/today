@@ -30,10 +30,11 @@ We'll discuss:
 
 Classroom C!
 
-### Boxtrot Capybara Sciprt Lesson (1:30 - 4:00)
+### Boxtrot Capybara Script Lesson (1:30 - 4:00)
 
 Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
 
 ## 1511
 
