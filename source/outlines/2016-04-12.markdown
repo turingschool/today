@@ -74,7 +74,7 @@ Stay in the same place!
 
 ### Authentication in Rails (9:00 - 12:00)
 
-Classroom B.
+Classroom B. [This is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown)
 
 ### Authentication Work Time (1:00 - 4:00)
 
@@ -90,12 +90,11 @@ with Rachel:
 * Marina Corona (3:15 - 4:00)
 
 with Andrew:
+
 * Sal Espinosa (1:00 - 1:45)
 * Gurusundesh Khalsa ( 1:45 - 2:30)
 * Hedy Woo (2:30 - 3:15)
 * Kami Boers (3:15 - 4:00)
-
-
 
 ## 1603
 
