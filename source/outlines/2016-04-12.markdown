@@ -11,17 +11,20 @@ layout: outline
 
 ## 1510
 
-### Fecho: Stand Up (9:00 - 9:30)
+### Fecho: Building Your Own Data Store in React and Electron (9:00 - 12:00)
 
-Classroom C.
+Clone down this repository and check out the `basic-styles` branch.
 
-### Your First npm Package (9:30 - 10:45)
+- [Electron-React Starter Kit](https://github.com/turingschool-examples/electron-react-starter-kit/tree/basic-styles)
 
-Get your learn on in Classroom C.
+In this lesson, we'll build a data model to help us manage opened and active files.
 
-### Work Time (10:45 - 12:00)
+We'll discuss:
 
-"Something to doing?"
+- React as a view layer library
+- Flux and Redux
+- Building a data store from scratch
+- Using Node's `EventEmitter` library
 
 ### Boxtrot Stand Up (1:00 - 1:30)
 
