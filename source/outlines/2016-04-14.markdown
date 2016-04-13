@@ -69,7 +69,19 @@ Classroom B.
 
 ### Rails Mini Project Kick Off (11:30 - 12:00)
 
-Classroom B.
+Classroom B. [Rails Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown). 
+
+* gurusundesh, topher105
+* s-espinosa, claudia
+* jdliss, jeneve.parrish
+* josh_washke, kamiboers
+* jbernesser16, patrickwhardy
+* lingtran, jared_roth
+* mpindell, k_foss
+* deborah, markmiranda
+* thomp, alireza.andersen
+* hedy, marinacor
+* drew.t, theonlyrao
 
 ### Mid-Module assessments(1:00 - 4:00)
 
