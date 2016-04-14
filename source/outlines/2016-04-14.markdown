@@ -183,6 +183,3 @@ Groups:
 * 1:00 - Peter Springer
 * 1:10 - Sonia Gupta
 * 1:20 - Kris Sparks
-* 1:30 - Linda McCartney
-* 1:40 - Luigi Aversano
-* 1:50 - Michael Lane Winham
