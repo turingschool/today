@@ -1,0 +1,52 @@
+## Instructional Time (9:00 - 10:30)
+
+### 1510
+
+Classroom C.
+
+### 1511
+
+Classroom B.
+
+### 1602
+
+Rails Mini Project Work Time
+
+### 1603
+
+Classroom A.
+
+## Guest Speaker (10:30 - 11:20)
+
+Gather in the Big Workspace. 
+
+## Lightning Talks (11:25 - 12:00)
+
+* Kimiko Kano - The Future of Food
+* John Slota - Nokogiri in 5 minutes
+* Joshua Washke - DRY up your css with Sass
+* Joe Perry - Using WebSockets in NodeJS
+* Kami Boers - A Brief Introduction to Agile Development
+
+## Lunch Roulette (12:00 - 1:15)
+
+Find your group and eat food. 
+
+## Group Retro (1:15 - 2:00)
+
+* 1510 - Classroom C
+* 1511 - Classroom B
+* 1602 - Big Workspace
+* 1603 - Classroom A
+
+## Gear Up (2:00 - 3:00)
+
+## Electives (3:00 - 4:00)
+
+* Holden Mitchell - Intro to D3.js
+* Avital Schoenberg - How to use Skillful effectively
+* Jonathan Bernesser - Having Fun With Elm Lang
+* Jonathan Liss - Having fun or crying with C/C++
+* Justin Pease - Beginners Object Model
+* Heidi Hoopes - Young Coder's Primer to Mechanical Security (aka Lockpicking)
+* Allison Singer - Blogging Workshop
