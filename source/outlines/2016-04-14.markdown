@@ -19,7 +19,33 @@ Steve is available for pairing all morning. He'll be in the big workspace.
 
 Classroom C.
 
-### Boxtrot Performance Dojo (1:30 - 4:00)
+### Boxtrot Pairing (1:30 - 2:30)
+
+We'll work in the following pairs to spike on or wrap up features.
+Plan to spend a half hour on each project
+
+- Aaron Greenspan & Steve Olson
+- Edgar Duran & David Stinnette
+- Tess Griffin & Beth Sebian
+- Marlo Major & John Slota
+- Penney Garrett & Meeka Gayhart
+- Beth Secor & Brant Wellman
+
+### Boxtrot Pairing (2:30 - 3:30)
+
+We'll work in the following pairs to spike on or wrap up features.
+Plan to spend a half hour on each project
+
+- Aaron Greenspan & Edgar Duran
+- Beth Sebian & Meeka Gayhart
+- Tess Griffin & David Stinnette
+- Marlo Major & Steve Olson
+- Penney Garrett & Beth Secor
+- Brant Wellman & John Slota
+
+Classroom C
+
+### Boxtrot Retro and Planning (3:30 - 4:00)
 
 Classroom C.
 
@@ -64,7 +90,7 @@ Big Workspace
 
 ### Git Workflow (9:00 - 11:30)
 
-Classroom B.
+Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/git_redux.markdown). 
 
 ### Rails Mini Project Kick Off (11:30 - 12:00)
 
