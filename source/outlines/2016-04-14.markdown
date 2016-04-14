@@ -6,8 +6,8 @@ layout: outline
 ## All
 
 ### Word of the Day
-* avuncular - adjective - of, relating to, or characteristic of an uncle.
 
+* avuncular - adjective - of, relating to, or characteristic of an uncle.
 
 ## 1510
 
@@ -22,7 +22,6 @@ Classroom C.
 ### Boxtrot Performance Dojo (1:30 - 4:00)
 
 Classroom C.
-
 
 ## 1511
 
@@ -136,12 +135,12 @@ Gather back around in Classroom A.
 * 1:40 - Jennifer Soden
 * 1:50 - Ji Kim
 * 2:00 - Karina Gonzales
-* 2:10 - Kris Sparks
-* 2:20 - Linda McCartney
-* 2:30 - Luigi Aversano
-* 2:40 - Michael Lane Winham
 
 #### With Horace
 * 1:00 - Peter Springer
 * 1:10 - Sonia Gupta
+* 1:20 - Kris Sparks
+* 1:30 - Linda McCartney
+* 1:40 - Luigi Aversano
+* 1:50 - Michael Lane Winham
 
