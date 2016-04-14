@@ -11,9 +11,9 @@ layout: outline
 
 ## 1510
 
-### Fecho Lesson (9:00 - 12:00)
+### Project Work Time and Pairing (9:00 - 12:00)
 
-Classroom C.
+Steve is available for pairing all morning. He'll be in the big workspace.
 
 ### Boxtrot Stand Up (1:00 - 1:30)
 
@@ -68,7 +68,7 @@ Classroom B.
 
 ### Rails Mini Project Kick Off (11:30 - 12:00)
 
-Classroom B. [Rails Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown). 
+Classroom B. [Rails Mini Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown).
 
 * gurusundesh, topher105
 * s-espinosa, claudia
