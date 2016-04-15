@@ -10,17 +10,34 @@ layout: outline
 
 ### Surveys
 
-* [1510]()
+* [1510](http://goo.gl/forms/7DBF2ILVwt)
 * [1511](http://goo.gl/forms/qojs7tUN8a)
 * [1602](https://docs.google.com/forms/d/1kF1VQ9_M9wwzhxyil1X_ayYFPq_ZV7CYGCMnPIFjg0o/viewform)
 * [1603](http://goo.gl/forms/vUOUaSPQal)
 
 ### Instructional Time (9:00 - 10:30)
 
-* 1510 - Classroom C.
+* 1510 - See Below.
 * 1511 - Classroom B.
 * 1602 - Rails Mini Project Work Time
 * 1603 - Classroom A.
+
+#### 1510: Project Evals and Pizza Express
+
+While Steve and Meeka are doing evaluations, you'll be working on [Pizza Express](https://github.com/turingschool-examples/pizza-express). (You can submit your work [here](https://gist.github.com/rrgayhart/521cd4277481c298a1ae). But, if you comment on the gist instead of forking it like the instructions say, we will quietly shake our heads.)
+
+**For project evaluations**, make sure your [submission forms](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/scale-up) are in.
+
+#### With Steve
+
+- 9:00: Justin Pease and Dan Winter
+- 9:20: Steve Pentler and Jordan Lawler
+- 9:40: Joseph Perry and Brenna Martenson
+- 10:00: Greg Armstrong
+
+#### With Meeka
+
+Schedule TBA.
 
 ### Guest Speaker (10:30 - 11:20)
 
