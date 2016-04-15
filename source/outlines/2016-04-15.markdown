@@ -22,7 +22,7 @@ layout: outline
 * 1602 - Rails Mini Project Work Time
 * 1603 - Classroom A.
 
-#### 1510: Project Evals and Pizza Express
+### 1510: Project Evals and Pizza Express
 
 While Steve and Meeka are doing evaluations, you'll be working on [Pizza Express](https://github.com/turingschool-examples/pizza-express). (You can submit your work [here](https://gist.github.com/rrgayhart/521cd4277481c298a1ae). But, if you comment on the gist instead of forking it like the instructions say, we will quietly shake our heads.)
 
