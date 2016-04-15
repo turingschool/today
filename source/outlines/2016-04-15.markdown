@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: 20160415
 layout: outline
@@ -13,7 +12,7 @@ layout: outline
 
 * [1510]()
 * [1511]()
-* [1602]()
+* [1602](https://docs.google.com/forms/d/1kF1VQ9_M9wwzhxyil1X_ayYFPq_ZV7CYGCMnPIFjg0o/viewform)
 * [1603]()
 
 ### Instructional Time (9:00 - 10:30)
@@ -35,19 +34,17 @@ Big Workspace.
 * Joe Perry - Using WebSockets in NodeJS
 * Kami Boers - A Brief Introduction to Agile Development
 
-
 ### Lunch Roulette (12:00 - 1:15)
+
 * Anna Weisbrodt, Alireza Andersen, July Tran, Horace
-* Brian Sayler, Marlo Major, Adrienne Domingus, Lovisa
+* Brian Sayler, Marlo Major, Adrienne Domingus, Ji Kim
 * Charles Kaminer, Charissa Lawrence, David Stinnette, Andrew
-* Kimiko Kano, Marina Corona, Christine Gamble, Rachel
-* Ashwin Rao, Taylor Moore, Denali Lord, Nate
+* Kimiko Kano, Marina Corona, Christine Gamble, Steven Olson
+* Ashwin Rao, Taylor Moore, Claudia Kiesenhofer, Nate
 * Scott Firestone, Erin Greenhalgh, James Crockett, Meeka
-* Deborah Hamel, Ilana Corson, Nick Weiland, Steve
+* Deborah Hamel, Ilana Corson, Nick Weiland, Adam Hundley
 * Thomas Pickett, John Slota, Jason Hanna, Joanne
 * Shannon Paige, Jennifer Soden, Nate Venn, Allison
-* Ji Kim, Adam Hundley, Steven Olson, Jeff
-* Dan Winter, Claudia Kiesenhofer, Joshua Cohen, Jorge
 * Julian Feliciano, Greg Armstrong, Karina Gonzales, Tess
 * Mark Miranda, Allan Blair, Nick Pisciotta, Mike
 * Sal Espinosa, Kerry Sheldon, Yoseph Anderson, Beth Secor
@@ -56,15 +53,13 @@ Big Workspace.
 * Brennan Holtzclaw, Brenna Martenson, Lucy Fox, Gurusundesh Khalsa
 * Aaron Greenspan, Luigi Aversano, Jeneve Parrish, Chelsea Johnson
 * Marcella Wigg, Hedy Woo, Alexis Navarrete, Jordan Lawler
-* Megan McMullin, Joshua Washke, Nicholas Dorans, Justin Pease
-* Michael Lane Winham, Kami Boers, Penney Garrett
-* Steve Pentler, Parker Phillips, Matt DesMarteau
+* Dan Winter, Joshua Washke, Nicholas Dorans, Justin Pease
+* Michael Lane Winham, Kami Boers, Penney Garrett, Jared Roth
+* Steve Pentler, Parker Phillips, Matt DesMarteau, Brant Wellman
 * Peter Springer, Lenny Myerson, Kris Foss, Drew Thompson
 * Robert Jaeger, Toni Rib, David Whitaker, Jonathan Bernesser
 * Ryan Batty, Joseph Perry, Brian Rippeto, Christopher Soden
-* Sonia Gupta, Jonathan Liss, Patrick Hardy
-* Colin Osborn, Brant Wellman, Jared Roth
-
+* Sonia Gupta, Jonathan Liss, Patrick Hardy, Colin Osborn
 
 ### Group Retro (1:15 - 2:00)
 * 1510 - Classroom C.
@@ -78,12 +73,12 @@ Big Workspace.
 
 ### Student Lead Electives (3:00 - 4:00)
 
-* Holden Mitchell - Intro to D3.js
-* Avital Schoenberg - How to use Skillful effectively
-* Jonathan Bernesser - Having Fun With Elm Lang
-* Jonathan Liss - Having fun or crying with C/C++
-* Justin Pease - Beginners Object Model
-* Heidi Hoopes - Young Coder's Primer to Mechanical Security (aka Lockpicking)
-* Allison Singer - Blogging Workshop
+* Holden Mitchell - Intro to D3.js in *Classroom B*
+* Avital Schoenberg - How to use Skillful effectively in *Horace's Lair*
+* Jonathan Bernesser - Having Fun With Elm Lang at *Couch area near Classroom A* 
+* Jonathan Liss - Having fun or crying with C/C++ in *Classroom C*
+* Justin Pease - Beginners Object Model in *Classroom A*
+* Heidi Hoopes - Young Coder's Primer to Mechanical Security (aka Lockpicking) in the *Big Workspace*
+* Allison Singer - Blogging Workshop at the *Big Staff Table*
 
 
