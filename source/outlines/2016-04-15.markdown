@@ -107,6 +107,31 @@ Big Workspace.
 
 Big Workspace.
 
+Groups:
+
+* Jennifer Soden & Chelsea Johnson & Ilana Corson & Charles Kaminer
+* Lucy Fox & Matt DesMarteau & David Whitaker & Penney Garrett
+* Robert Jaeger & Edgar Duran & Alireza Andersen & Kris Sparks
+* Hedy Woo & Luigi Aversano & Greg Armstrong & Gurusundesh Khalsa
+* Linda McCartney & Mark Miranda & Erinna Chen & James Crockett
+* Andrew Thompson & Adrienne Domingus & Joshua Cohen & Scott Firestone
+* Taylor Moore & Nick Weiland & Matt Pindell & Aaron Greenspan
+* Nick Pisciotta & Ryan Batty & Joshua Washke & Julian Feliciano
+* Ji Kim & Beth Secor & Brian Rippeto & Jeneve Parrish
+* Marina Corona & Christine Gamble & Brian Sayler & Beth Sebian
+* Erin Greenhalgh & Lenny Myerson & Jonathan Bernesser & Claudia Kiesenhofer
+* Hector Huertas Baeza & Toni Rib & Heidi Hoopes & Allan Blair
+* Parker Phillips & Kimiko Kano & Deborah Hamel & Brant Wellman
+* Justin Pease & Jordan Lawler & Joseph Perry & Peter Springer
+* Steve Pentler & Jared Roth & Marcella Wigg & Jonathan Liss
+* Patrick Hardy & Nate Venn & Charissa Lawrence & Kerry Sheldon
+* Ling Tran & Kami Boers & Adam Hundley & Kris Foss
+* Ashwin Rao & Anna Weisbrodt & Karina Gonzales & Nicholas Dorans
+* Jason Hanna & Marlo Major & Sonia Gupta & July Tran
+* Christopher Soden & Brenna Martenson & Sal Espinosa & Thomas Pickett
+* Dan Winter & John Slota & Shannon Paige & David Stinnette & Colin Osborn
+* Alexis Navarrete & Michael Lane Winham & Brennan Holtzclaw & Steven Olson
+
 ### Electives (3:00 - 4:00)
 
 * Holden Mitchell - Intro to D3.js in *Classroom B*
