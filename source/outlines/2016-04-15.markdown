@@ -71,7 +71,7 @@ Big Workspace.
 
 Big Workspace.
 
-### Student Lead Electives (3:00 - 4:00)
+### Electives (3:00 - 4:00)
 
 * Holden Mitchell - Intro to D3.js in *Classroom B*
 * Avital Schoenberg - How to use Skillful effectively in *Horace's Lair*
