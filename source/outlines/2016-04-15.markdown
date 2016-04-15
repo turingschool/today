@@ -11,7 +11,7 @@ layout: outline
 ### Surveys
 
 * [1510]()
-* [1511]()
+* [1511](http://goo.gl/forms/qojs7tUN8a)
 * [1602](https://docs.google.com/forms/d/1kF1VQ9_M9wwzhxyil1X_ayYFPq_ZV7CYGCMnPIFjg0o/viewform)
 * [1603](http://goo.gl/forms/vUOUaSPQal)
 
@@ -75,10 +75,8 @@ Big Workspace.
 
 * Holden Mitchell - Intro to D3.js in *Classroom B*
 * Avital Schoenberg - How to use Skillful effectively in *Horace's Lair*
-* Jonathan Bernesser - Having Fun With Elm Lang at *Couch area near Classroom A* 
+* Jonathan Bernesser - Having Fun With Elm Lang at *Couch area near Classroom A*
 * Jonathan Liss - Having fun or crying with C/C++ in *Classroom C*
 * Justin Pease - Beginners Object Model in *Classroom A*
 * Heidi Hoopes - Young Coder's Primer to Mechanical Security (aka Lockpicking) in the *Big Workspace*
 * Allison Singer - Blogging Workshop at the *Big Staff Table*
-
-
