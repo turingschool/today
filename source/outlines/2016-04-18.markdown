@@ -40,9 +40,16 @@ Classroom C.
 
 Classroom B.
 
-### Project Work Time (10:30 - 12:00)
+### Project Work Time and Reading (10:30 - 12:00)
 
-Work awaaaaaay.
+There's about 15 minutes worth of reading to prep for afternoon's class.
+
+#### Reading
+
+* [1s - AJAX: History](http://www.phpasks.com/articles/historyajax.html)
+* [1s - More AJAX History](http://www.softwareengineerinsider.com/programming-languages/ajax.html#context/api/listings/prefilter)
+* [2s - Client Side vs Server Side](http://www.codeconquest.com/website/client-side-vs-server-side/)
+* [2s - More Client Side vs Server Side](http://skillcrush.com/2012/07/30/client-side-vs-server-side/)
 
 ### Working With Ajax (1:00 - 4:00)
 
