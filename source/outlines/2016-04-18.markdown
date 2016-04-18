@@ -53,7 +53,22 @@ Big Workspace.
 
 ### Mini Project Peer Review and Refactor (9:00 - 11:00)
 
-Big Workspace
+Big Workspace for a [peer review and refactor session](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_mini_project_review_and_refactor.md)
+
+We'll work in these pairs:
+
+* gurusundesh - alireza.andersen
+* s-espinosa - josh_washke
+* jdliss - marinacor
+* claudia - kamiboers
+* jbernesser16 - mpindell
+* lingtran - deborah
+* k_foss - patrickwhardy
+* topher105 - drew.t
+* thomp - jared_roth
+* hedy - jeneve.parrish
+* markmiranda - theonlyrao
+
 
 ### Mini Project Show and Tell (11:00 - 11:30)
 
@@ -96,4 +111,3 @@ Classroom A again.
 ### Work Time Work Time (3:00 - 4:00)
 
 Work away at the things.
-
