@@ -27,9 +27,9 @@ TBA.
 
 ### Thoughtbox Kick Off (9:00 - 9:30)
 
-Classroom C.
+No spoilers. Meet with Meeka in the Big Workspace. Bring a towel.
 
-### Thoughtbox Mock Eval (ALL DAY)
+### Thoughtbox Mock Evaluation (ALL DAY)
 
 [Wherever You Will Go](https://www.youtube.com/watch?v=iAP9AF6DCu4)
 
@@ -60,7 +60,7 @@ Big Workspace.
 
 ### Mini Project Peer Review and Refactor (9:00 - 11:00)
 
-Big Workspace for a [peer review and refactor session](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_mini_project_review_and_refactor.md)
+Classroom C for a [peer review and refactor session](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_mini_project_review_and_refactor.md)
 
 We'll work in these pairs:
 
@@ -79,11 +79,19 @@ We'll work in these pairs:
 
 ### Mini Project Show and Tell (11:00 - 11:30)
 
-Still in the Big Workspace.
+Still in the Classroom C.
 
 ### Little Shop of Orders Kick Off (11:30 - 12:00)
 
 Guess where?
+
+* Deborah Hamel & Kris Foss & Mark Miranda
+* Joshua Washke & Jared Roth & Gurusundesh Khalsa
+* Jonathan Bernesser & Jeneve Parrish & Marina Corona 
+* Kami Boers & Christopher Soden & Ashwin Rao
+* Thomas Pickett & Hedy Woo & Sal Espinosa
+* Andrew Thompson & Jonathan Liss & Alireza Andersen
+* Matt Pindell & Claudia Kiesenhofer & Ling Tran & Patrick Hardy
 
 ### Cart and Order Life Cycle (1:00 - 3:00)
 
