@@ -44,7 +44,7 @@ Who REALLY understands the Asset Pipeline? You will.
 ### Project Check-Ins and Work Time (1:00 - 4:00)
 
 #### With Josh
-​
+
 - Nate Venn
 - Lenny Myerson
 - Heidi Hoopes
@@ -54,9 +54,9 @@ Who REALLY understands the Asset Pipeline? You will.
 - Nick Weiland
 - David Whitaker
 - Kimiko Kano & Julian Feliciano
-​
+
 #### With Nate
-​
+
 - Erinna Chen
 - July Tran
 - Brennan Holtzclaw
@@ -65,7 +65,6 @@ Who REALLY understands the Asset Pipeline? You will.
 - Allan Blair
 - Charissa Lawrence
 - Nicholas Dorans
-
 
 ## 1602
 
