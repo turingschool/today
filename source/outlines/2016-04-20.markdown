@@ -1,0 +1,107 @@
+---
+title: 20160420
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* hoi polloi - noun - the common people; the masses
+
+### Protocol (3:00 - 4:00)
+
+Group 1:
+Aaron, Joseph P., Brian R., Nick W., Jonathan B., Anna, Kris S.
+
+Group 2:
+Beth Sebian, Justin P., Charissa, Scott, Jonathan L., Brian, Lin
+
+Group 3:
+Brant, Marlo, Chelsea, Ali, Josh W., Charlie, Lucy
+
+Group 4:
+Brenna, Penney, David W., Drew, Kami, Christine, Luigi
+
+Group 5:
+Dan, Shannon, Erinna, Ashwin, Kris F., Colin, Marcella
+
+Group 6:
+David S., Steve P., Heidi, Claudia, Ling, Erin, Lane
+
+Group 7:
+Edgar, Steve O., Julian, Chris S., Marina, Ilana, Nick P.
+
+Group 8:
+Beth Secor, Adam H., July, Deb, Mark, Jason, Parker
+
+Group 9:
+Greg, Alex, Kimi, Sunny, Matt P., Jennifer, Peter
+
+Group 10:
+Jamie, Adrienne, Lenny, Hedy, Patrick, Ji, Robbie
+
+Group 11:
+John S., Allan, Nate, Jared, Sal, Karina, Ryan B.
+
+Group 12:
+Jordan, Brennan, Nick D., Jeneve, Thom, Kerry, Sonia
+
+
+## 1510
+
+### Asynchronous JavaScript (9:00 - 10:30)
+
+Classroom C with STEVE.
+
+### WebSocket Workshop (10:30 - 12:00)
+
+Classroom C with Tess.
+
+### Project Work Time (1:00 - 3:00)
+
+Work away.
+
+
+## 1511
+
+### Assessment Review / Project Work Time (9:00 - 12:00)
+
+Schedule TBA.
+
+### Project Work Time (1:00 - 3:00)
+
+Work
+
+
+## 1602
+
+### Introduction to Heroku and the Asset Pipeline (9:00 - 10:30)
+
+Classroom B.
+
+### Little Shop Work Time and One on Ones (10:30 - 12:00)
+
+Schedule TBA
+
+### Little Shop Work Time (1:00 - 3:00)
+
+Work
+
+
+## 1603
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+
+Classroom A still.
+
+### Assessment and Portfolio Q and A (1:00 - 1:30)
+
+Mike will assuage your worries in Classroom A.
+
+### Work Time (1:30 - 3:00)
+
+Work away.
