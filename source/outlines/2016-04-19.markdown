@@ -6,31 +6,47 @@ layout: outline
 ## All
 
 ### Word of the Day
-* pecuniary - adjective - of or relating to money
 
+* pecuniary - adjective - of or relating to money
 
 ## 1510
 
 ### Pub/Sub on the Server (9:00 - 10:30)
 
-Classroom C.
+Join Meeka in Classroom C to discuss this [lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/pubsub_on_the_server.markdown).
 
-Has nothing to do with beer.
+### Building Real Time Applications in Node (10:30 - 12:00)
 
-### Real Time Applications in Node (10:30 - 12:00)
+Stick around in Classroom C for [Building Real Time Applications in Node](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown).
 
-Classroom C.
+Please Fork [Right-Now](https://github.com/turingschool-examples/right-now) and `npm install` prior to class.
 
-Not with Bill Maher.
+### Real Time Kickoff (1:00 - 2:00)
+
+Meet with Steve in Classroom A.
+
+This afternoon, we'll kick off your final project: [Real Time][rt].
+
+[rt]: https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown
 
 
-### Real Time Kick Off (1:00 - 2:00)
+### Project Work Time (2:00 - 4:00)
 
-Classroom A.
+Get started on your projects.
 
-### Project Work Time and Instructor Pairing (2:00 - 4:00)
+### Fecho and Boxtrot Evaluations (2:00 - 4:00)
 
-Schedule TBA.
+#### With Meeka
+
+- 2:00: Marlo
+- 2:20: Uncle Slota
+- 2:40: Brant
+- 3:00: Beth Secor
+
+#### With Steve
+
+- 3:10: Justin
+- 3:30: Shannon and Jamie
 
 
 ## 1511
@@ -70,7 +86,7 @@ Who REALLY understands the Asset Pipeline? You will.
 
 ### Rails Views Tips and Tricks (9:00 - 10:30)
 
-Classroom B.
+Classroom B. [Here is your lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown)
 
 ### Little Shop Work Time (10:30 - 12:00)
 
