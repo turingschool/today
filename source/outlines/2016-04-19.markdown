@@ -86,7 +86,7 @@ Who REALLY understands the Asset Pipeline? You will.
 
 ### Rails Views Tips and Tricks (9:00 - 10:30)
 
-Classroom B.
+Classroom B. [Here is your lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_views_tips_and_techniques.markdown)
 
 ### Little Shop Work Time (10:30 - 12:00)
 
