@@ -19,7 +19,7 @@ layout: outline
 * Jordan Lawler, Matt Pindell, Nate Venn, Andrew
 * Lucy Fox, Brenna Martenson, Jonathan Liss, Mike
 * Adam Hundley, Marina Corona, Justin Pease, Horace
-* Alexis Navarrete, Thomas Pickett, Taylor Moore, Jhun
+* Alexis Navarrete, Thomas Pickett, Chelsea Johnson, Jhun
 * Greg Armstrong, Karina Gonzales, Jeneve Parrish, Allison
 * Nick Weiland, Kerry Sheldon, Ling Tran, Joanne
 * David Stinnette, Gurusundesh Khalsa, Jennifer Soden
@@ -34,7 +34,7 @@ layout: outline
 * Peter Springer, Kris Foss, Marlo Major, Erin Greenhalgh
 * Robert Jaeger, Ashwin Rao, Christopher Soden, Jason Hanna
 * Ryan Batty, Hedy Woo, Joshua Washke, Charissa Lawrence
-* Sonia Gupta, Ilana Corson, Scott Firestone, Chelsea Johnson
+* Sonia Gupta, Ilana Corson, Scott Firestone,
 * Beth Secor, Allan Blair, Kami Boers
 
 Group 1:
