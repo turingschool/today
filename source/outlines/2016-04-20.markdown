@@ -156,7 +156,6 @@ Classroom B.
 
 With Rachel:
 
-* 10:30 Marina Corona
 * 10:40 Jeneve Parrish
 * 10:50 Jonathan Bernesser
 * 11:00 Gurusundesh Khalsa
@@ -167,10 +166,11 @@ With Rachel:
 * 1:00 Deborah Hamel
 * 1:10 Claudia Kiesenhofer
 * 1:20 Andrew Thompson
+* 1:30 Marina Corona
+
 
 With Andrew:
 
-* 10:30 Ashwin Rao
 * 10:40 Christopher Soden
 * 10:50 Kami Boers
 * 11:00 Sal Espinosa
@@ -181,6 +181,7 @@ With Andrew:
 * 1:00 Matt Pindell
 * 1:10 Alireza Andersen
 * 1:20 Jonathan Liss
+* 1:30 Ashwin Rao
 
 ### Little Shop Work Time (1:00 - 3:00)
 
