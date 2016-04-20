@@ -49,13 +49,33 @@ Jordan, Brennan, Nick D., Jeneve, Thom, Kerry, Sonia
 
 ## 1510
 
-### Asynchronous JavaScript (9:00 - 10:30)
+### Asynchronous JavaScript (9:00 - 10:00-ish)
 
-Classroom C with STEVE.
+Classroom C with Steve.
 
-### WebSocket Workshop (10:30 - 12:00)
+- [Challenge Time 2](http://bit.ly/callback-dojo)
+- [Exit Slip](https://public.etherpad-mozilla.org/p/did-you-just-call-me-async?)
+
+You'll be working in the following pairs!
+
+* Brant Wellman & Beth Sebian
+* Shannon Paige & David Stinnette
+* Jordan Lawler & Joseph Perry
+* Beth Secor & Justin Pease
+* Penney Garrett & Brenna Martenson
+* Edgar Duran & Taylor Moore
+* Steve Pentler & John Slota
+* Steven Olson & Aaron Greenspan
+* James Crockett & Dan Winter
+* Marlo Major & Greg Armstrong
+
+### WebSocket Workshop (10:00 - 12:00)
 
 Classroom C with Tess.
+
+This morning you'll be working through the [this tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown).
+
+You should have your application deployed and a link to your application and repository in [this Gist](https://gist.github.com/stevekinney/2f3e8e5f7838ebf810854d413b329746).
 
 ### Project Work Time (1:00 - 3:00)
 
@@ -115,11 +135,11 @@ With Rachel:
 * 11:20 Joshua Washke
 * 11:30 Mark Miranda
 * 11:40 Kris Foss
-* 1:00 Deborah Hamel 
+* 1:00 Deborah Hamel
 * 1:10 Claudia Kiesenhofer
 * 1:20 Andrew Thompson
 
-With Andrew: 
+With Andrew:
 
 * 10:30 Ashwin Rao
 * 10:40 Christopher Soden
@@ -135,7 +155,7 @@ With Andrew:
 
 ### Little Shop Work Time (1:00 - 3:00)
 
-Work. Shop. 
+Work. Shop.
 
 ## 1603
 
