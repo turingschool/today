@@ -10,7 +10,6 @@ layout: outline
 
 ### Friday Lunch Roulette Groups
 
-### Protocol (3:00 - 4:00)
 * Aaron Greenspan, Anna Weisbrodt, Brennan Holtzclaw, Steve
 * Julian Feliciano, Steven Olson, Brian Sayler, Meeka
 * July Tran, Penney Garrett, Charles Kaminer, Josh
@@ -19,7 +18,7 @@ layout: outline
 * Jordan Lawler, Matt Pindell, Nate Venn, Andrew
 * Lucy Fox, Brenna Martenson, Jonathan Liss, Mike
 * Adam Hundley, Marina Corona, Justin Pease, Horace
-* Alexis Navarrete, Thomas Pickett, Taylor Moore, Jhun
+* Alexis Navarrete, Thomas Pickett, Chelsea Johnson, Jhun
 * Greg Armstrong, Karina Gonzales, Jeneve Parrish, Allison
 * Nick Weiland, Kerry Sheldon, Ling Tran, Joanne
 * David Stinnette, Gurusundesh Khalsa, Jennifer Soden
@@ -34,8 +33,11 @@ layout: outline
 * Peter Springer, Kris Foss, Marlo Major, Erin Greenhalgh
 * Robert Jaeger, Ashwin Rao, Christopher Soden, Jason Hanna
 * Ryan Batty, Hedy Woo, Joshua Washke, Charissa Lawrence
-* Sonia Gupta, Ilana Corson, Scott Firestone, Chelsea Johnson
+* Sonia Gupta, Ilana Corson, Scott Firestone,
 * Beth Secor, Allan Blair, Kami Boers
+
+
+### Protocol (3:00 - 4:00)
 
 Group 1:
 Aaron, Joseph P., Brian R., Nick W., Jonathan B., Anna, Kris S.
