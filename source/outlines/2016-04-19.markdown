@@ -61,26 +61,28 @@ Who REALLY understands the Asset Pipeline? You will.
 
 #### With Josh
 
-- Nate Venn
-- Lenny Myerson
-- Heidi Hoopes
-- Chelsea Johnson
-- Alexis Navarrete
-- Adrienne Domingus
-- Nick Weiland
-- David Whitaker
 - Kimiko Kano & Julian Feliciano
+- David Whitaker
+- Nick Weiland
+- Adrienne Domingus
+- Alexis Navarrete
+- Chelsea Johnson
+- Heidi Hoopes
+- Lenny Myerson
+- Nate Venn
 
 #### With Nate
 
-- Erinna Chen
-- July Tran
-- Brennan Holtzclaw
-- Brian Rippeto
-- Adam Hundley
-- Allan Blair
-- Charissa Lawrence
+- Scott Firestone
 - Nicholas Dorans
+- Charissa Lawrence
+- Allan Blair
+- Adam Hundley
+- Brian Rippeto
+- Brennan Holtzclaw
+- July Tran
+- Erinna Chen
+
 
 ## 1602
 
@@ -104,7 +106,7 @@ be stuck in yours as well.
 * 2:30 Thomas Pickett & Hedy Woo & Sal Espinosa
 * 3:15 Kami Boers & Christopher Soden & Ashwin Rao
 
-#### With Andrew: 
+#### With Andrew:
 
 * 1:00 Deborah Hamel & Kris Foss & Mark Miranda
 * 1:45 Joshua Washke & Jared Roth & Gurusundesh Khalsa
