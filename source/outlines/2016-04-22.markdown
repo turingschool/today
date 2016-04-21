@@ -11,7 +11,7 @@ layout: outline
 ### Surveys
 * [1510]()
 * [1511]()
-* [1602]()
+* [1602](https://docs.google.com/forms/d/1JrMkx1FGJLOk5fjs3_2q322FNTpbh1Kwb72WhHF1yRk/viewform)
 * [1603]()
 
 ### Instructional Time (9:00 - 10:30)
@@ -89,8 +89,19 @@ Big Workspace
 
 ### Lightning Talks (2:00 - 3:00)
 
-Schedule TBD.
+* Kris Foss - The Elements and Principles of Design
+* Ling Tran - Seize the vuja de
+* Brian Rippeto - Deep Work
+* Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
+* Deb Hamel - Public Library as Incubator for Tech Literacy
+* Lenny Meyerson - Dunning-Kruger and Imposter Syndrome
+* Shannon Paige - Cyberpunk fashion and it's practical application
 
 ### Electives (3:00 - 4:00)
 
-Schedule TBD.
+* Nate Venn & Hedy Woo - Intro to Vim
+* David Whitaker - Git Flow
+* Aaron Moore - Building Strong LinkedIn Profiles
+* Adam Hundley & Nick Weiland - Technical Interview prep with a timed code challenge
+* Marlo Major - Becoming Kanye: Why You Should Be More Like Mr. West
+* Jordan Lawler - What the Great Ball Game can teach us about rapid ideation
