@@ -94,15 +94,15 @@ or concepts into a unified whole
 
 #### With Nate
 
-- Scott Firestone
-- Nicholas Dorans
-- Charissa Lawrence
-- Allan Blair
-- Adam Hundley
-- Brian Rippeto
-- Brennan Holtzclaw
-- July Tran
-- Erinna Chen
+- 9:00 - Scott Firestone
+- 9:15 - Nicholas Dorans
+- 9:30 - Charissa Lawrence
+- 9:45 - Allan Blair
+- 10:00 - Adam Hundley
+- 10:15 - Brian Rippeto
+- 10:30 - Brennan Holtzclaw
+- 10:45 - July Tran
+- 11:00 - Erinna Chen
 
 ### Caching Strategies in Rails (1:00 - 4:00)
 
