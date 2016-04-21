@@ -117,7 +117,7 @@ Clasroom B.
 
 ### Callbacks and Scopes (10:30 - 12:00)
 
-Still in Classroom B. You'll need [this repo](https://github.com/rwarbelow/turing-scholarbot). 
+Still in Classroom B. You'll need [this repo](https://github.com/rwarbelow/turing-scholarbot).
 
 ### Little Shop Work Time and Check Ins (1:00 - 4:00)
 
@@ -141,6 +141,17 @@ Still in Classroom B. You'll need [this repo](https://github.com/rwarbelow/turin
 
 Classroom A.
 
-### Instructor Pairing Sessions (1:00 - 4:00)
+### Instructor Pairing Sessions (10:30 - 4:00)
 
-Schedule TBD.
+#### With Horace
+* 10:30 - Charles Kaminer & Nick Pisciotta
+* 11:15 - Karina Gonzales & Erin Greenhalgh
+* 1:00 - Michael Lane Winham & Parker Phillips
+* 1:45 - Ji Kim & Ryan Batty
+
+#### With Mike
+* 10:30 - Ilana Corson & Marcella Wigg
+* 11:15 - Christine Gamble & Lucy Fox
+* 1:00 - Brian Sayler & Linda McCartney
+* 1:45 - Colin Osborn & Kerry Sheldon
+* 2:30 - Luigi Aversano, Robert Jaeger & Peter Springer
