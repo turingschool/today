@@ -9,7 +9,7 @@ layout: outline
 * gimcrack - adjective - showy but useless
 
 ### Surveys
-* [1510]()
+* [1510](https://docs.google.com/forms/d/1sNhNXl98KLCUIS8VDIfGXTdIi84FpXTF86-8Tt1m7Po/viewform)
 * [1511]()
 * [1602](https://docs.google.com/forms/d/1JrMkx1FGJLOk5fjs3_2q322FNTpbh1Kwb72WhHF1yRk/viewform)
 * [1603]()
@@ -23,7 +23,7 @@ layout: outline
 
 ### 1510: One on Ones and Project Work Time
 
-Schedule TBA.
+**Optional**: Steve is going to live code an approach for storing data in a Real Time application in Classroom A.
 
 ### 1603: Final Assessments and Portfolio Pairing
 
