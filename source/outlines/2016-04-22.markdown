@@ -9,7 +9,7 @@ layout: outline
 * gimcrack - adjective - showy but useless
 
 ### Surveys
-<<<<<<< HEAD
+
 * [1510](https://docs.google.com/forms/d/1sNhNXl98KLCUIS8VDIfGXTdIi84FpXTF86-8Tt1m7Po/viewform)
 * [1511](http://goo.gl/forms/7P1jroAj9c)
 * [1602](https://docs.google.com/forms/d/1JrMkx1FGJLOk5fjs3_2q322FNTpbh1Kwb72WhHF1yRk/viewform)
