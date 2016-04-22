@@ -50,6 +50,7 @@ layout: outline
 
 Big Workspace.
 
+[Link to Document](https://docs.google.com/document/d/1GccSzC4JN1FkCzeR54jGF8bLZIxPgIvkRWUCQqj-FZg/edit?usp=sharing)
 Group 1:
 A: Steve Olson, Dan Winter, David Whitaker, Thom Pickett, Claudia Kiesenhofer, Kris Sparks
 B: Shannon Paige, Brenna Martenson, Heidi Hoopes, Sal Espinosa, Ashwin Rao, Lin McCartney
