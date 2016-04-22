@@ -121,7 +121,6 @@ Big Workspace
 
 * Kris Foss - The Elements and Principles of Design
 * Ling Tran - Seize the vuja de
-* Brian Rippeto - Deep Work
 * Chelsea Johnson - The Internet is a Graveyard (learn how the Wayback Machine works and laugh at old pages)
 * Deb Hamel - Public Library as Incubator for Tech Literacy
 * Lenny Meyerson - Dunning-Kruger and Imposter Syndrome
