@@ -50,6 +50,34 @@ layout: outline
 
 Big Workspace.
 
+Group 1:
+A: Steve Olson, Dan Winter, David Whitaker, Thom Pickett, Claudia Kiesenhofer, Kris Sparks
+B: Shannon Paige, Brenna Martenson, Heidi Hoopes, Sal Espinosa, Ashwin Rao, Lin McCartney
+
+Group 2:
+A: Steve Pentler, Brant Wellman, Kimi Kano, Patrick Hardy, Ali Andersen, Lucy Fox
+B: Penney Garrett, Beth Sebian, Julian Feliciano, Matt Pindell, Anna Weisbrodt, Luigi Aversano
+
+Group 3:
+A: Marlo Major, Aaron Greenspan, July Tran, Mark Miranda, Brian Sayler, Marcella Wigg
+B: Justin Pease, Adam Hundley, Lenny Meyerson, Marina Corona, Charlie Kaminer, Lane Winham
+
+Group 4:
+A: Joseph Perry, Alex Navarrete, Nate Venn, Ling Tran, Christine Gamble, Nick Pisciotta
+B: Jordan Lawler, Adrienne Domingus, Nick Dorans, Kris Foss, Colin Osborn, Parker Phillips
+
+Group 5:
+A: John Slota, Allan Blair, Nick Weiland, Kami Boers, Erin Greenhalgh, Peter Springer
+B: Jamie Crockett, Brennan Holtzclaw, Scott Firestone, Joshua Washke, Ilana Corson, Robbie Jaeger
+
+Group 6:
+A: Greg Armstrong, Brian Rippeto, Jonathan Liss, Jeneve Parrish, Jason Hanna, Ryan Batty
+B: Beth Secor, Charissa Lawrence, Jared Roth, Sunny Khalsa, Jennifer Soden, Sonia Gupta
+
+Group 7:
+A: Edgar Duran, Chelsea Johnson, Jonathan Bernesser, Drew Thompson, Deb Hamel, Karina Gonzalez
+B: David Stinnette, Erinna Chen, Hedy Woo, Chris Soden, Kerry Sheldon
+
 ### Guest Speaker (11:00 - 12:00)
 
 Big Workspace
@@ -83,10 +111,10 @@ Big Workspace
 * Beth Secor, Allan Blair, Kami Boers
 
 ### Group Retro (1:15 - 2:00)
-* 1510 - Classroom C.
+* 1510 - Classroom A.
 * 1511 - Big Workspace.
 * 1602 - Classroom B.
-* 1603 - Classroom A.
+* 1603 - Classroom C.
 
 ### Lightning Talks (2:00 - 3:00)
 
