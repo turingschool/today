@@ -4,3 +4,19 @@ layout: outline
 ---
 
 ## All
+
+### 1602 Portfolios
+
+In this order: 
+
+* Jonathan Bernesser
+* Jonathan Liss
+* Joshua Washke
+* Kami Boers
+* Kris Foss
+* Ling Tran
+* Marina Corona
+* Mark Miranda
+* Patrick Hardy
+* Sal Espinosa
+* Thomas Pickett
