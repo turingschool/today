@@ -5,7 +5,19 @@ layout: outline
 
 ## All
 
-### 1602 Portfolios
+## Lightning Talks (9:00)
+
+* Chris Soden
+* Patrick Hardy
+
+## Electives (9:30)
+
+* Hedy Woo & Nate Venn - Getting Started with Vim Dotfile
+* Sal Espinosa - Just Enough HTML and SASS (to get you through mod 2)
+
+## 1602
+
+### Portfolios (9:30)
 
 In this order: 
 
@@ -20,3 +32,8 @@ In this order:
 * Patrick Hardy
 * Sal Espinosa
 * Thomas Pickett
+
+### M1-M2 Pairing on Webguesser (9:30)
+
+## Group Retros
+
