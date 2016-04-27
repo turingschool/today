@@ -40,31 +40,42 @@ In this Order:
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBD
+We're shooting for 15 minutes on these
+
+#### With Nate
+
+- Erinna Chen
+- July Tran
+- Nicholas Dorans
+- Allan Blair
+- Brian Rippeto
+- Scott Firestone
+- Brennan Holtzclaw
+- Adam Hundley
+- Charissa Lawrence
+
+#### With Josh
+
+- Alexis Navarrete
+- David Whitaker
+- Nate Venn
+- Lenny Myerson
+- Kimiko Kano & Julian Feliciano
+- Nick Weiland
+- Heidi Hoopes
+- Adrienne Domingus
+- Chelsea Johnson
 
 ### Portfolio Reviews (1:00 - UNKNOWN)
 
 In This Order:
 
-* Adam Hundley
 * Alexis Navarrete
-* Adrienne Domingus
-* Allan Blair
 * Brennan Holtzclaw
-* Brian Rippeto
 * Charissa Lawrence
-* Chelsea Johnson
-* David Whitaker
-* Erinna Chen
-* Heidi Hoopes
-* Julian Feliciano
-* July Tran
-* Kimiko Kano
 * Lenny Myerson
-* Nate Venn
 * Nicholas Dorans
-* Nick Weiland
-* Scott Firestone
+* Nate Venn
 
 
 ## 1602
@@ -156,6 +167,3 @@ In This Order:
 The programming will continue!
 
 Classroom A!
-
-
-
