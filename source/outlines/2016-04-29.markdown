@@ -15,11 +15,29 @@ layout: outline
 * Hedy Woo & Nate Venn - Getting Started with Vim Dotfile
 * Sal Espinosa - Just Enough HTML and SASS (to get you through mod 2)
 
+## 1511
+
+### Portfolio Review (9:00 - 2:00)
+
+- Adam Hundley
+- Adrienne Domingus
+- Allan Blair
+- Brian Rippeto
+- Chelsea Johnson
+- David Whitaker
+- Erinna Chen
+- Heidi Hoopes
+- Julian Feliciano
+- July Tran
+- Kimiko Kano
+- Nicholas Dorans
+- Scott Firestone
+
 ## 1602
 
 ### Portfolios (9:30)
 
-In this order: 
+In this order:
 
 * Jonathan Bernesser
 * Jonathan Liss
@@ -36,4 +54,3 @@ In this order:
 ### M1-M2 Pairing on Webguesser (9:30)
 
 ## Group Retros
-
