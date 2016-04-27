@@ -19,6 +19,7 @@ layout: outline
 
 ### Portfolio Review (9:00 - 2:00)
 
+- Scott Firestone
 - Adam Hundley
 - Adrienne Domingus
 - Allan Blair
@@ -31,7 +32,6 @@ layout: outline
 - July Tran
 - Kimiko Kano
 - Nicholas Dorans
-- Scott Firestone
 
 ## 1602
 
