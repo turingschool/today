@@ -45,6 +45,11 @@ layout: outline
 
 In this order:
 
+* Deborah Hamel
+* Gurusundesh Khalsa
+* Hedy Woo
+* Jared Roth
+* Jeneve Parrish
 * Jonathan Bernesser
 * Jonathan Liss
 * Joshua Washke
