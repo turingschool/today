@@ -56,7 +56,6 @@ In this order:
 * Alireza Andersen & Anna Weisbrodt
 * Andrew Thompson & Brian Sayler
 * Ashwin Rao & Charles Kaminer
-* Christopher Soden & Christine Gamble
 * Claudia Kiesenhofer & Colin Osborn
 * Deborah Hamel & Erin Greenhalgh
 * Gurusundesh Khalsa & Ilana Corson
@@ -66,13 +65,16 @@ In this order:
 * Jonathan Bernesser & Lucy Fox
 * Jonathan Liss & Marcella Wigg
 * Joshua Washke & Nick Pisciotta
-* Kami Boers & Parker Phillips
+* Sal Espinosa & Parker Phillips
 * Kris Foss & Robert Jaeger
 * Ling Tran & Ryan Batty
+
+For M1 students -- if your pair is not here today, feel free to reach out to any of the following M2 students: 
+
 * Marina Corona
+* Christopher Soden 
 * Mark Miranda
 * Patrick Hardy
-* Sal Espinosa
 * Thomas Pickett
 
 
