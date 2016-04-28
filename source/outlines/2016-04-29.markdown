@@ -5,12 +5,18 @@ layout: outline
 
 ## All
 
+## Surveys
+
+* [1511]()
+* [1602](https://docs.google.com/forms/d/1JK4W9xAIdmEZAmyxNj8dCnXQUnQXX4XlWoHMa9c05S0/viewform)
+* [1603]()
+
 ## Lightning Talks (9:00)
 
 * Chris Soden
 * Patrick Hardy
 
-## Electives (9:30)
+## Electives (9:30 - 10:30)
 
 * Hedy Woo & Nate Venn - Getting Started with Vim Dotfile
 * Sal Espinosa - Just Enough HTML and SASS (to get you through mod 2)
@@ -35,7 +41,7 @@ layout: outline
 
 ## 1602
 
-### Portfolios (9:30)
+### Portfolios (9:00 - Forever)
 
 In this order:
 
@@ -52,5 +58,7 @@ In this order:
 * Thomas Pickett
 
 ### M1-M2 Pairing on Webguesser (9:30)
+
+
 
 ## Group Retros
