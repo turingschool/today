@@ -72,7 +72,7 @@ In this order:
 * Gurusundesh Khalsa & Ilana Corson
 * Hedy Woo & Jennifer Soden
 * Jared Roth & Karina Gonzales
-* Jeneve Parrish & Kerry Sheldon
+* Marina Corona & Kerry Sheldon
 * Jonathan Bernesser & Lucy Fox
 * Jonathan Liss & Marcella Wigg
 * Joshua Washke & Nick Pisciotta
@@ -82,7 +82,6 @@ In this order:
 
 For M1 students -- if your pair is not here today, feel free to reach out to any of the following M2 students: 
 
-* Marina Corona
 * Christopher Soden 
 * Mark Miranda
 * Patrick Hardy
@@ -92,9 +91,7 @@ For M1 students -- if your pair is not here today, feel free to reach out to any
 ## Group Retros (1:00)
 
 For the first 10 minutes of retro, you'll be visited by the anchor of the module you're entering to talk about intermission week work. 
-
 * 1511 Classroom B
 * 1602 Classroom C
 * 1603 Classroom A
 
-## Group Retros
