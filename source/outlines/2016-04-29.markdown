@@ -80,9 +80,9 @@ In this order:
 * Kris Foss & Robert Jaeger
 * Ling Tran & Ryan Batty
 
-For M1 students -- if your pair is not here today, feel free to reach out to any of the following M2 students: 
+For M1 students -- if your pair is not here today, feel free to reach out to any of the following M2 students:
 
-* Christopher Soden 
+* Christopher Soden
 * Mark Miranda
 * Patrick Hardy
 * Thomas Pickett
@@ -90,8 +90,5 @@ For M1 students -- if your pair is not here today, feel free to reach out to any
 
 ## Group Retros (1:00)
 
-For the first 10 minutes of retro, you'll be visited by the anchor of the module you're entering to talk about intermission week work. 
-* 1511 Classroom B
-* 1602 Classroom C
-* 1603 Classroom A
-
+For the first 10 minutes of retro, you'll be visited by the anchor of the module you're entering to talk about intermission week work.
+NOBODY NEEDS TO COME TO RETRO
