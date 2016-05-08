@@ -1,0 +1,90 @@
+---
+title: 20160510
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**stentorian** - *adjective* - extremely loud
+
+### Lunch Roulette Groups
+
+## 1511
+
+### Homework
+
+
+### Debugging JavaScript (9:00 - 10:30)
+
+Me with Meeka in Classroom C.
+
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
+### Unit Testing with Teaspoon (10:30 - 12:00)
+
+Stick around with Meeka in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+
+### Project Work Time and Checkins (1:00 - 4:00)
+
+(All times are estimates.)
+
+## 1602
+
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
+### Understanding Multitenancy (10:00 - 12:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
+
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Come meet with your client in this order:
+
+## 1603
+
+### CRUD in Sinatra (9:00 - 12:00)
+Come to classroom C to learn about CRUD in Sinatra. [This is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+### Intro to Bootstrap (1:00 - 4:00)
+Join Andrew in Classroom C to learn how the web works. Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown).
+
+
+## 1605
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentors Q & A (9:30 - 10:00)
+
+### Echo: SuperFizz Recap (10:00 - 10:30)
+
+Mike at the table.
+
+### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
+
+Classroom A with Horace.
+
+### Echo: String and Integer Riddles (10:30 - 12:00)
+
+Stay at the table.
+
+### Foxtrot: Flow Control (10:30 - 12:00)
+
+Classroom A.
+
+### All: Improv (1:00 - 4:00)
