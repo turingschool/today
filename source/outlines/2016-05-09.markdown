@@ -6,56 +6,61 @@ layout: outline
 ## All
 
 ### Word of the Day
-* plucky - adjective - having or showing pluck or courage; brave
+
+**oenomel** - _noun_ - something combining strength with sweetness.
+
+### State of Turing (9:00 - 9:30)
+
+Meet in the Big Workspace.
 
 
 ## 1511
 
-## State of Turing (9:00 - 9:30)
+### Module 4 Kickoff (9:30 - 10:30)
 
-Meet in the Big Workspace.
-
-## Module 4 Kickoff (9:30 - 11:00)
+Stay in the Big Workspace.
 
 - [Module 4 Cheatsheet](https://gist.github.com/rrgayhart/042665ce6d3a0c265a05)
-- [Extra Credit and Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/extra-credit)
+- [Extra Credit and Submissions]()
 
-## Ideabox 2.0 Kickoff (11:00 - 12:00)
+### Ideabox 2.0 Kickoff (10:30 - 12:00)
 
 Meeka kicks off your very first project.
 
 - [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
-- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/ideabox2.0)
+- [Project Submission Form]()
 
-## Project Work Time and Instructor Pairing (1:00 - 4:00)
+### Debugging JavaScript (1:00 - 2:30)
 
-It's time to start boxing those ideas.
+Classroom B!
 
+### Project Work Time and Instructor Pairing (2:30 - 4:00)
+
+Schedule TBD.
 
 
 ## 1602
 
-## State of Turing (9:00 - 9:30)
-
-Meet in the Big Workspace.
-
-## Meet your instructors (9:30 - 10:30)
+## Meet your instructors (9:30 - 10:00)
 
 You'll be spending a lot of time with us, and we'd like take some time to get to know each other
 
+Classroom B.
+
 ## The Pivot: The Kickoff (10:30 - 12:00)
+
+Stay in Classroom B.
 
 You'll be working in groups for this project:
 
+
+
 ## Project Work Time (1:00 - 2:30)
 
-## Small Groups (2:30 - 4:00)
+Work work.
+
 
 ## 1603
-
-## State of Turing (9:00 - 9:30)
-
-Meet in the Big Workspace.
 
 ## Module 2 Kickoff and Goal Setting (9:30 - 10:30)
 
@@ -119,7 +124,7 @@ Meet Mike at the Staff conference table.
 
 ## Foxtrot: Strings and Integers (1:00 - 3:00)
 
-Classroom A with Horace.
+Classroom A with Rachel.
 
 ## All: Drills Kickoff (3:00 - 3:30)
 
@@ -131,4 +136,4 @@ But it's your first day?!!? Back to the Staff table.
 
 ## Foxtrot: Drills Setup Office Hours (3:30 - 4:00)
 
-Horace will be around if you need help setting up your drills.
+Rachel will be around if you need help setting up your drills.
