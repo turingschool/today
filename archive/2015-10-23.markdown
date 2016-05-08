@@ -1,0 +1,178 @@
+---
+title: 20151023
+layout: outline
+---
+
+Today, in 1861, Abraham Lincoln suspends the writ of habeas corpus in military-related cases.
+
+## All
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1505 Survey](http://goo.gl/forms/eaJLio8BDI)
+* [1507 Survey](http://goo.gl/forms/mxnujcXnXC)
+* [1508 Survey](http://goo.gl/forms/ZeebCuCI4n)
+* [1510 Survey](http://goo.gl/forms/QGL5UCVHvn)
+
+### Instructional Time (9:00 - 11:00)
+
+### 1505 Classroom B
+
+Push forward on your Game Time if you want.
+
+
+### Instructional Time (9:00 - 11:00)
+
+This week you've done a lot of work with object-oriented JavaScript in the context of your Game Time applications. This morning, I want you to get a sense of some of functional side of JavaScript. There are some core concepts in this tutorial that I think will be really useful when you return back to your web applications.
+
+- [Learn JS Data][jsdata]
+
+[jsdata]: http://learnjsdata.com
+
+### 1507 Classroom C
+
+The following students haven't opened pull requests for the work they did last Friday. Please open a PR.
+
+* Matt Hecker
+* George Hudson
+* Russell Harms
+* Stanley Siudzinski
+
+In the coming weeks, our intent is to have small private sessions on Fridays this module. The goal is for every student to sit in on a session starting this week. We have only received a few submissions so it seems that interest isn't as strong as anticipated. If you are interested, please fill out [this form](https://docs.google.com/forms/d/1LqDXXAh_3QjYgrAZegNkwKvbwSVWuOkFQY3GK-z0FRQ/viewform?c=0&w=1). If the majority of the class responds, we will put together plans for the small sessions.
+
+#### Option 1: HackRace
+
+*For Pivot teams that didn't use [Brakeman](https://github.com/presidentbeef/brakeman) only.*
+
+With members of your Pivot team, challenge members of another team to a HackRace.
+
+##### Rules
+
+1. Both teams must provide their opponent with links to their live site and codebase.
+1. Search through the codebase to find security vulnerabilities. You cannot use Brakeman to find the vulnerabilities. That would be too easy :)
+1. First team to find a flaw, exploit it on the live site, and submit a pull request that fixes the flaw wins.
+
+#### Option 2: Packet Sniffer
+
+1. Read [this article](http://lifehacker.com/5853483/a-guide-to-sniffing-out-passwords-and-cookies-and-how-to-protect-yourself-against-it) and watch the video.
+1. Install Wireshark.
+1. Use the techniques in the article to locate HTTP and capture the act of you logging into your Pivot project.
+1. Copy the cookie.
+1. Sign out of your app and visit the homepage.
+1. Use [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en) or a similar program to add the copied cookie.
+1. Refresh the page and you should now be logged in.
+1. On the Turing network, this technique only works for traffic coming from your own machine. Why is that? When would you be able to see this traffic from another machine? How can you protect your web apps from this vulnerability?
+
+#### Option 3: Ruby Chops
+
+Last week you started working on [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown). For those that didn't get a working implementation try to get a complete working implementation.
+
+If you have completed the spec, there are improvements that can be made.
+
+* Work toward making it more Object-Oriented.
+* Read through this post on [SOLID principles](https://robots.thoughtbot.com/back-to-basics-solid) and try using them to improve your code. If you're not sure where to start, take a look at the bullet points below.
+* Can you get rid of `until` and `while` loops?
+* Can you get rid of your `if` statements? And no, using `case` statements doesn't count. Take a look at the Open/Closed Principle in the article above and view the `parse` method in the before and after example for inspiration.
+
+### 1508 Big Workspace
+
+Join Rachel in the big workspace at 9am to go over the plan for this morning. You'll need [this gist](https://gist.github.com/rwarbelow/3f63147dfd98c76de00a) for your diagnostic. After you finish, spend ~45 minutes in the following groups doing peer code reviews:
+
+* Amber Crawford & Shannon Paige & Jason Pilz
+* Emily Dowdle & Ryan Johnson & Sekhar Paladugu
+* Edgar Duran & Marlo Major & Pat Wey
+* Ross Edfort & Jill Donohue & John Slota
+* Chad Minnerath & Nicole Hall & Tyler Komoroske
+* Aaron Careaga & Matt Rooney & Jhun de Andres
+* Robbie Lane & Charissa Lawrence
+* Matt Stjernholm & Torie Warren
+
+Things to look for:
+
+* Confusing methods
+* Logic in the controller
+* Logic in the views
+* Use of Ruby instead of ActiveRecord
+
+At 10:30, rejoin your original TrafficSpy group to recap.
+
+### 1510 Classroom A
+
+Meet up with Jeff and Horace in Classroom A.
+
+* 9:00 - Mobbing with Jeff & Horace
+* 9:45ish - General Q&A
+* 10:00 - Enigma Questions
+* 10:30 - BST Questions
+
+### Gear Up (11:00 - 12:00)
+
+Let's start together in the workspace. We'll write then break into the following small groups:
+
+* Michael Dorrance & Penney Garrett & Regis Boudinot & Beth Sebian
+* Brennan Holtzclaw & Sebastian Abondano & Emily Dowdle & Adam Caron
+* Alex Tideman & Jhun de Andres & Steven Olson & Chad Minnerath
+* Adam Jensen & Steve Pentler & Erik Butcher & Taylor Moore
+* Lovisa Svallingson & Sekhar Paladugu & Matt Ewell & Marla Brizel
+* Dmitry Vizersky & Samson Brock & David Shim & Rose Kohn
+* Alon Waisman & Edgar Duran & James Crockett & Michael Wong
+* Lauren Thomson & John Slota & Chris Cenatiempo & Rick Bacci
+* Jason Wright & Amber Crawford & Ryan Asensio & Toni Rib
+* Nicole Hall & Greg Armstrong & Admir Draganovic & Matt Rooney
+* Jill Donohue & Pat Wey & Torie Warren & Alexis Uriel Navarrete
+* Tyler Komoroske & Dave Maurer & Brant Wellman & Mimi Schatz
+* Charissa Lawrence & Matt Stjernholm & Russell Harms & Jason Pilz
+* Robbie Lane & Jerrod Paul Junker & Dan Winter & Hector Huertas Baeza
+* Travis Haby & Mitch Ashby & Bret Doucette & Marlo Major
+* Jordan Lawler & Rob Cornell & Stanley Siudzinski & Brenna Martenson
+* Jai Misra & Aaron Careaga & Mary Beth Burch & Lenny Myerson
+* Shannon Paige & Matt Hecker & Ryan Johnson & Emily Blanchard
+* George Hudson & Aaron Greenspan & Jamie Kawahara & Ross Edfort & Joseph Perry
+* David Stinnette & Max Millington & Beth Secor & Jeff Ruane & Justin Holzmann
+
+Need help spotting at 1510er? [Check out these quick photos](https://drive.google.com/a/casimircreative.com/folderview?id=0B_Jhw-L8hpPrZE1pbkpNaWxWZ2c&usp=sharing_eid&ts=56214649).
+
+### Group Retro (1:15 - 2:00)
+
+* 1505 - Big Workspace with Mike and Marissa
+* 1507 - Classroom B with Josh
+* 1508 - Classroom C with Rachel and Andrew
+* 1510 - Classroom A with Horace and Jeff
+
+### Lightning Talks (2:00 - 2:45)
+
+#### Big Workspace
+
+Posses: James Golick, Weirich Posse, Adele Goldberg, Dennis Ritchie, Ezra Zygmuntowicz, Yukihiro Matsumoto
+
+* George Hudson - Crucial Conversations
+* Max Millington - Ethical Implications of Job Search
+* Rose Kohn - Who is Alan Kay?
+* Mary Beth Burch - Smart Cities and Civic Tech
+* Jerrod Paul Junker - Twitch.tv and the Kappa gem
+
+#### Classroom B
+
+Posses: Alan Kay, Tim Berners-Lee, Fred Brooks, Donald Knuth, Ada Lovelace, Grace Hopper
+
+* Alex Tideman - Getting Started with Meteor
+* Torie Joy-Warren - Language vs. Math: What is Code?
+* Nicole Hall - Con artists: then and now (now referring to technology enabled cons)
+* Jason Pilz - Using CloudKit for a BaaS
+* DJ Greenfield - Prototype-Based Design in an ES6 World with Performance Advice
+
+### Electives / Student Led Sessions / Self-Study (2:45 - 4:00)
+
+##### Suggested for Module 1:
+
+* Alon Waisman and other cool people - Module 1 Ruby Recap in Classroom B. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable.
+
+##### Suggested for Anyone:
+
+* Game Programming with Unity3D: Join Mike to learn how to create games using Unity3D. You'll be learning how to use the engine as well as some C#. [Download](http://unity3d.com/get-unity/download?ref=personal) and install this before class. Big staff table. 
+* George Hudson - Swift - Continues all module! Classroom A.
+* Emily Dowdle - Blogging Q+A in the Big Workspace.
+* Matt Stjernholm - Boostrap Alternatives: Materialize in Classroom C.
+* Lovisa Svallingson - React.js 1.2. Follow up to the first React session. This week we will use AJAX to retrieve data from our Rails backend and render it on the DOM. If you want to come but missed the first session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb.  app/assets/javascripts/components/_dashboard.js.jsx), take a look at the code and DM me if you have any questions. Big workspace.
+* Regis Boudinot - Setting Up A Digital Ocean Server: Security and Version control in the big workspace. 
+

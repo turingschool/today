@@ -1,0 +1,160 @@
+---
+title: 20151116
+layout: outline
+---
+
+Today, in 1974, NASA launches Skylab 4.
+
+## All
+
+###  Posse Clean-Up Duty
+
+* Today: Matsumoto Posse
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Friday Lunch Roulette
+
+* Justin Holzmann, Alexis Uriel Navarrete, Amber Crawford, Ross Edfort
+* Rose Kohn, Robbie Lane, Beth Sebian, Brennan Holtzclaw
+* Jerrod Paul Junker, Brenna Martenson, Chad Minnerath
+* Russell Harms, Jordan Lawler, Torie Warren, Charissa Lawrence
+* Travis Haby, Ryan Johnson, Joseph Perry, Jill Donohue
+* Aaron Greenspan, Ryan Asensio, Matt Stjernholm, Taylor Moore
+* John Slota, Beth Secor, Chris Cenatiempo, George Hudson
+* Shannon Paige, Matt Hecker, Steven Olson, Jason Pilz
+* Dan Winter, Sekhar Paladugu, Jeff Ruane, Bret Doucette
+* Alon Waisman, Pat Wey, Lenny Myerson, Penny Garrett
+* Nicole Hall, Matt Ewell, Hector Huertas Baeza, Steve Pentler
+* Regis Boudinot, Emily Dowdle, Brant Wellman, Aaron Careaga
+* Admir Draganovic, Mimi Schatz, Edgar Duran, Toni Rib
+* Justin Pease, Marlo Major, James Crockett, Michael Wong
+* Mary Beth Burch, Tyler Komoroske, Emily Blanchard, Jhun de Andres
+* Greg Armstrong, Adam Jensen, Matt Rooney
+
+### The Warm Up  (8:30 - 9:00)
+
+
+[The Warm Up](https://thewarmup.herokuapp.com/)
+
+## 1505
+
+### Project Check-ins (9:00 - 1:40)
+
+- 9:00: Rick Bacci
+- 9:20: Erik Butcher
+- 9:40: Dmitry Vizersky
+- 10:00: Jai Misra
+- 10:20: Marla Brizel
+- 10:40: Sebastian Abondano
+- 11:00: David Shim
+- 11:20: Max Millington
+- 11:40: Alex Tideman
+- 1:00: Lovisa Svallingson
+- 1:20: Adam Caron
+
+### Intra-Cohort Check-ins (10:00 - 12:00)
+
+This morning, you _must_ find one hour to meet up with your assigned pair and review one another's approach and code.
+
+- Max Millington and Jai Misra
+- Dmitry Vizersky and Adam Caron
+- David Shim and Sebastian Abondano
+- Rick Bacci and Lovisa Svallingson
+- Erik Butcher and Alex Tideman and Marla Brizel
+
+### Real Time Public Service Announcements (1:45 - 2:30)
+
+Meet with Steve in Classroom B.
+
+### Technical Interview Crusher (2:30 - 4:00)
+
+Meet Mike in Classroom C, where he will help you get a job.
+
+
+## 1507
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Meet Josh in Classroom C.
+
+### Project Work Time (1:00 - 2:30)
+
+Work Work.
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace.
+
+And then there was Regis...
+
+## 1508
+
+### Intro to JavaScript (9:00 - 12:00)
+
+Join Andrew in Classroom B. Here's your [repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+
+### Little Shop Check-Ins (1:00 - 4:00)
+
+#### With Rachel:
+
+* 1:00 Jhun de Andres & Ryan Johnson & Charissa Lawrence
+* 1:45 John Slota & Amber Crawford & Shannon Paige
+* 2:30 Emily Dowdle & Jason Pilz & Sekhar Paladugu
+* 3:15 Edgar Duran & Matt Rooney & Matt Stjernholm
+
+#### With Andrew:
+
+* 1:00 Jill Donohue & Pat Wey & Marlo Major
+* 1:45 Robbie Lane & Tyler Komoroske & Ross Edfort
+* 2:30 Aaron Careaga & Torie Warren & Nicole Hall
+
+
+## 1510
+
+Today is primarily a work day along with the individual assessments scheduled below. Good luck!
+
+### Module 1 Assessments (9:00 - 12:00)
+
+#### With Horace
+
+* 9:00 - Aaron Greenspan
+* 9:30 - Admir Draganovic
+* 10:00 - Beth Secor
+* 10:30 - Hector Huertas
+* 11:00 - James Crockett
+* 11:30 - Jordan Lawler
+
+#### With Jeff
+
+* 9:00 - Emily Blanchard
+* 9:30 - Alex Navarrete
+* 10:00 - Lenny Myerson
+* 10:30 - Taylor Moore
+* 11:00 - Joseph Perry
+* 11:30 - Penney Garrett
+
+#### With Mike
+
+* 9:00 - Brenna Martenson
+* 9:30 - Brennan Holtzclaw
+* 10:00 - Dan Winter
+* 10:30 - Beth Sebian
+* 11:00 - Brant Wellman
+* 11:30 - Greg Armstrong
+
+#### With Rachel
+
+* 9:00 - Steve Pentler
+* 9:30 - Steven Olson
+* 10:00 - Toni Rib
+
+### Pairing Pairs & Project Work Time (1:00 - 4:00)
+
+This afternoon please spend the hour 1:00 to 2:00 collaborating with another pair (listed below). This could mean meeting as a foursome to review code / share ideas, breaking into cross-group pairs to write code, reviewing each other's code and posting feedback/pull-requests/etc, or whatever else feels useful.
+
+* Brennan Holtzclaw & Toni Rib with Beth Sebian & Aaron Greenspan
+* Alexis Uriel Navarrete & Admir Draganovic with Hector Huertas Baeza & Taylor Moore
+* James Crockett & Beth Secor with Greg Armstrong & Steven Olson
+* Steve Pentler & Jordan Lawler with Lenny Myerson & Brant Wellman
+* Brenna Martenson & Dan Winter with Joseph Perry & Penney Garrett

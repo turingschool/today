@@ -1,0 +1,167 @@
+---
+title: 20151013
+layout: outline
+---
+
+Today, in 1970, Fiji joins the United Nations.
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Nacho Bar (3:30)
+
+Nacho, Nacho Bar. I want to eat the Nacho Bar.
+
+
+## 1505
+
+### Code Challenge: Echo & Countdown (9:00 - 10:00)
+
+[Submit your code here.](http://piratepad.net/toTO9bXw2r)
+
+You'll work in the following pairs:
+
+* Jai Misra & Erik Butcher
+* Rick Bacci & Alex Tideman
+* Max Millington & Michael Dorrance
+* Dmitry Vizersky & David Shim
+* Jamie Kawahara & Dave Maurer
+* Mitch Ashby & Marla Brizel
+* Samson Brock & Sebastian Abondano
+* Adam Caron & Lovisa Svallingson & Rob Cornell
+
+For the first challenge, you can run the code using Node or in the browser (using something like JSBin). For the second challenge: clone the repository, run `npm install`, run `grunt` to validate your HTML and CSS.
+
+* [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
+* [Countdown](https://github.com/turingschool-examples/countdown)
+
+### Array Prototype Methods (10:00 - 12:00)
+
+Meet with Steve in the Big Workspace to talk about the world's most popular programming language. In this lesson, we'll cover the following.
+
+* How to use `Array.prototype`'s `forEach`, `map`, `filter`, `reduce`, and `sort` methods.
+* How to create DOM nodes from API data and append them to the page
+* Read and write simple unit and DOM tests using [Mocha][].
+
+We'll be working through [this repository](https://github.com/turingschool-examples/array-prototype-methods).
+
+You'll be working in the following pairs:
+
+* Alex Tideman & Max Millington
+* Marla Brizel & Dmitry Vizersky
+* Lovisa Svallingson & Rob Cornell
+* Samson Brock & Erik Butcher
+* Mitch Ashby & Sebastian Abondano
+* Michael Dorrance & Jamie Kawahara
+* Adam Caron & David Shim
+* Rick Bacci & Dave Maurer & Jai Misra
+
+### Project Work Time (1:00 - 4:00)
+
+Listen, those ideas aren't going to box themselves.
+
+## 1507
+
+### Understanding Multi-Tenancy (9:00 - 11:00)
+
+Learn how to modify an existing codebase to support multiple tenants.
+
+Before the class, clone the session's repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/storedom.git multitenancy
+```
+
+The materials for the class are the following:
+
+* [Slides](https://www.dropbox.com/s/kv0s91l6uzrvwwv/Turing%20-%20Understanding%20Multitenancy.key?dl=0)
+* [Notes](https://www.dropbox.com/s/uri3fsi5jsyaf9b/Turing%20-%20Understanding%20Multitenancy%20%28Notes%29.pages?dl=0)
+* [Video](http://vimeo.com/142297870)
+
+Join Jorge in Classroom B.
+
+### Seeding Data Efficiently (11:00 - 12:00)
+
+Stay in Classroom B and use these [notes](https://www.dropbox.com/s/z4k6r81nu214u7v/Turing%20-%20Seeding%20Data%20Efficiently%20%28Notes%29.pages?dl=0) to implement your project's seed file.
+
+### Check-Ins and Project Work Time (1:00 - 3:30)
+
+#### With Jorge
+
+* 1:00 - David Stinnette, George Hudson, Chris Cenatiempo
+* 1:30 - Bret Doucette, Matt Ewell, Russell Harms
+* 2:00 - Rose Kohn, Jeff Ruane, Regis Boudinot
+* 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
+
+#### With Josh
+
+* 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
+* 1:30 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
+* 2:00 - Ryan Asensio, Jason Wright, Alon Waisman
+
+
+## 1508
+
+### HTML/CSS Homework (9:00 - 9:30)
+
+Check yo homework in Classroom C.
+
+### How the Web Works (9:30 - 11:00)
+
+It's a series of tubes that you will learn about in Classroom C with Rachel. Find the outline and slides [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/how_the_web_works.markdown).
+
+### What is Rack? (11:00 - 12:00)
+
+Stay in Classroom C with Rachel to [learn about Rack](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/what_is_rack.markdown).
+[This never gets old.](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+### CRUD in Sinatra Workshop (1:00 - 3:30)
+
+Classroom C with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+
+
+## 1510
+
+### Echo: SuperFizz Recap (9:00 - 9:30)
+
+Let's review your [homework](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown) in Classroom A.
+
+### Echo: String and Integer Riddles (9:30 - 10:30)
+
+Join Horace at the Mega Table to get some practice working with strings and integers by solving
+these [String and Integer Riddles](https://github.com/turingschool/challenges/blob/master/string-and-integer-riddles.markdown).
+
+### Foxtrot: String and Integer Riddles Recap (9:00 - 9:30)
+
+Meet in Classroom A to recap your [String and Integer Exercises](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown)
+from last night.
+
+### Foxtrot: Flow Control (9:30 - 10:30)
+
+Join Jeff at the Mega Table to talk about various techniques
+for controlling the flow of execution in our code.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown)
+
+### All: Introducing Arrays (10:30 - 12:00)
+
+Assemble in Classroom A to talk about everyone's favorite collection data
+structure, the [Array](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown).
+
+### All: Homework -- Eloquent Ruby Reading
+
+For your homework, read Chapters 3 and 4 of Eloquent Ruby,
+and complete [these exercises](https://github.com/turingschool/challenges/blob/master/eloquent_ruby_arrays_and_strings.markdown).
+
+If you don't have the book, a PDF of these 2 chapters is available [here](https://www.dropbox.com/s/o9evug40fiw2w22/EloquentRuby--ArraysAndStrings.pdf?dl=0).
+
+### All: Activities (12:00 - 2:30)
+
+You're going to Lucky Strike for lunch and some Bowling.
+
+There will be a nacho bar on your glorious return.

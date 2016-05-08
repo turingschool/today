@@ -1,0 +1,193 @@
+---
+title: 20151022
+layout: outline
+---
+
+Happy Birthday, Mark Renshaw!
+
+## All
+
+### Warm Up (8:30 - 9:00)
+
+You can all thank Lovisa for the new CSS hotness on the site.
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+
+## 1505
+
+### Ruby Object Model Episode V: Josh Cheek Strikes Back (9:00 - 12:00)
+
+Classroom C.
+
+Look, material is here: [https://github.com/JoshCheek/object-model-hash-style](https://github.com/JoshCheek/object-model-hash-style)
+
+### Intracohort Check-Ins (1:00 - 2:00)
+
+This afternoon you'll swap with a different group. Spend 30 minutes reviewing each team's code.
+
+* Lovisa Svallingson & Adam Caron
+* Max Millington & Samson Brock
+* Rick Bacci & Dave Maurer
+* Alex Tideman & Jai Misra
+* Erik Butcher & David Shim
+* Jamie Kawahara & Dmitry Vizersky
+* Sebastian Abondano & Marla Brizel
+
+### Project Work Time (2:00 - 4:00)
+
+Take what you've learned from your intra-cohort check-ins and apply it to your projects.
+
+#### Check-ins with Marissa
+
+* 2:00 - 2:15: Ricky
+* 2:20 - 2:35: David
+* 2:40 - 2:55: Sam
+* 3:00 - 3:15: Jamie
+* 3:20 - 3:35: Sebastian
+
+
+## 1507
+
+### Project Work Time (9:00 - 12:00)
+
+Now would be a good time to make sure that your site works in production.
+
+### The Pivot Evaluations (1:00 - 4:00)
+
+#### With Mike
+
+* 1:00 - Bret Doucette, Matt Ewell, Russell Harms
+* 1:45 - Rose Kohn, Jeff Ruane, Regis Boudinot
+* 2:30 - Mimi Schatz, Adam Jensen, Mary Beth Burch
+
+#### With Josh
+
+* 1:00 - Michael Wong, Jerrod Paul Junker, Travis Haby
+* 1:45 - Justin Holzmann, Matt Hecker, Stanley Siudzinski
+* 2:30 - Ryan Asensio, Jason Wright, Alon Waisman
+* 3:15 - David Stinnette, George Hudson, Chris Cenatiempo
+
+## 1508
+
+### Sinatra Partial Arts (9:00 - 10:00)
+
+Join Rachel in Classroom B to earn your belt in [Partial Arts](https://github.com/rwarbelow/partial-arts).
+
+### Traffic Spy Work Time & Check-Ins (10:00 - 12:00)
+
+With Andrew:
+
+* 10:00 - Chad Minnerath & Matt Rooney & John Slota
+* 10:30 - Aaron Careaga & Pat Wey & Tyler Komoroske
+* 11:00 - Robbie Lane & Torie Warren
+* 11:30 - Ross Edfort & Nicole Hall & Sekhar Paladugu
+
+With Rachel:
+
+* 10:00 - Amber Crawford & Jill Donohue & Jason Pilz
+* 10:30 - Emily Dowdle & Marlo Major & Charissa Lawrence
+* 11:00 - Edgar Duran & Shannon Paige & Jhun de Andres
+* 11:30 - Matt Stjernholm & Ryan Johnson
+
+### One-on-Ones (1:00 - 2:00)
+
+With Andrew:
+
+* 1:00 Amber Crawford
+* 1:15 Ryan Johnson
+* 1:30 Matt Stjernholm
+
+With Rachel:
+
+* 1:00 Ross Edfort
+* 1:15 Robbie Lane
+* 1:30 Shannon Paige
+
+### Traffic Spy Work Time (1:00 - 4:00)
+
+### Who's CRUD is it Anyway? With the one - the only - Jason Noble! (4:15)
+Join Jason (not JSON) in classroom B to go over CRUD. Do some stretching - this one will have you out of your chairs.
+
+### Who's CRUD is it anyway? With special guest Mr. Jason Noble (4:00 )
+
+Join Jason to drill down you're understanding of CRUD.
+
+No pressure, but you have approximately four days left.
+
+## 1510
+
+### When You're Not Doing Your Project Eval (9:00 - 12:00)
+
+*Start* with the Week 2 Diagnostic to help you get a measure of your progress. Work individually, closed book, closed computer. The papers will be at the front of Classroom A. Leave your completed submissions face down next to the fresh copies. You should finish it in well under an hour.
+
+Then *Foxtrotters* need to [work through this Encryptor tutorial](https://github.com/turingschool/curriculum/blob/master/source/projects/encryptor.markdown).
+
+And *Echoes* need to [build a linked list](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown). Check out the resources linked there and, if you're struggling, you can code along with [this iterative approach](https://vimeo.com/77857409).
+
+Finally gather back in Classroom A at 11:40 to recap your diagnostic.
+
+### All: Project Evaluations (9:00 - 12:00)
+
+#### With Jeff
+
+* 9:00 - Lauren Thomas
+* 9:20 - Penney Garrett
+* 9:40 - Steven Pentler
+* 10:00 - Taylor Moore
+* 10:20 - Beth Secor
+* 10:45 - Steven Olson
+* 11:10 - Toni Rib
+
+#### With Horace
+
+* 9:00 - Aaron Greenspan
+* 9:25 - Beth Sebian
+* 9:50 - Brant Wellman
+* 10:15 - Brennan Holtzclaw
+* 10:40 - Daniel Winter
+* 11:05 - Hector Baeza
+* 11:30 - Joseph Perry
+
+#### With Mike
+
+* 9:00 - Alexis Navarrete
+* 9:20 - Admir Draganovic
+* 9:40 - Brenna Martenson
+* 10:00 - Emily Blanchard
+* 10:20 - Greg Armstrong
+* 10:40 - James Crockett
+* 11:00 - Jordan Lawler
+* 11:20 - Leonard Myerson
+
+### Echo: How Binary Search Trees Work (1:00 - 2:30)
+
+Hey hey hey, it's time for your next project. Meet Jeff at the Mega Table to talk about [Binary Trees](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown).
+
+### Foxtrot: Understanding Enigma. (1:00 - 2:30)
+
+Dig Encryptor? It's time to kick it up a few notches. Meet with Horace in Classroom A to check out [your Enigma project](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown).
+
+### All: Project Work Time (2:30 - 4:00)
+
+Get 'em started.
+
+### All: 1-on-1's (2:30 - 4:00)
+
+With Horace
+
+* (2:30 - 2:45) James Crockett
+* (2:45 - 3:00) Jordan Lawler
+* (3:00 - 3:15) Joseph Perry
+* (3:15 - 3:30) Lauren Thomson
+* (3:30 - 3:45) Lenny Myerson
+
+With Jeff
+
+* (2:30 - 2:45) Penney Garrett
+* (2:45 - 3:00) Steve Pentler
+* (3:00 - 3:15) Steven Olson
+* (3:15 - 3:30) Taylor Moore
+* (3:30 - 3:45) Toni Rib

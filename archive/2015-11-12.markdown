@@ -1,0 +1,207 @@
+---
+title: 20151112
+layout: outline
+---
+
+Today, in 1990, Tim Berners-Lee publishes a formal proposal for the World Wide Web.
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Ritchie Posse
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+### Intro to SQL (Names are Below)
+
+Join [Nate](https://twitter.com/neight) in Classroom B
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sql.markdown)
+
+* Dan Winter
+* Brenna Martenson
+* Alex Navarrete
+* Shannon Paige
+* Ross Edfort
+* Robbie Lane
+* Steven Olson
+* Gregory Armstrong
+* Jhun de Andres
+* Sekhar Paladugu
+* Jason Pilz
+* Ryan Johnson
+* Emily Dowdle
+* Brennan Holtzclaw
+* Beth Sebian
+
+## 1505
+
+### WebSocket Workshop (9:00 - 12:00)
+
+Meet with Tess is Classroom C.
+
+This morning, you'll be working through [a guided implementation of a small WebSocket application][ww] that should look eerily familiar.
+
+[ww]: https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown
+
+### Intra-cohort Check-Ins (1:00 - 2:00)
+
+It's time to take a look at each other's implementations. For the first hour this afternoon, you'll be reviewing a classmate's implementation. Please spend half an hour reviewing each project.
+
+Leave feedback [here](https://public.etherpad-mozilla.org/p/real-time-intracohort-1505).
+
+You'll work in the follow pairs:
+
+* Rick Bacci & Alex Tideman
+* Dave Maurer & Max Millington
+* Jai Misra & Erik Butcher
+* Samson Brock & Lovisa Svallingson
+* Dmitry Vizersky & Marla Brizel
+* Adam Caron & David Shim
+* Sebastian Abondano & Jamie Kawahara
+
+### Project Work Time (2:00 - 4:00)
+
+Tess is on hand for all of your questioning needs.
+
+## 1507
+
+### Project Work Time (9:00 - 12:00)
+
+### Project Check-Ins and Work Time (1:00 - 4:00)
+
+#### With Jorge
+
+* Matt Hecker & Alon Waisman
+* Russell Harms
+* Rose Kohn
+* Matt Ewell
+* Michael Wong
+* Travis Haby & Mimi Schatz
+* Mary Beth Burch & George Hudson
+* Jeff Ruane & Chris Cenatiempo
+
+#### With Josh
+
+* Ryan Asensio
+* Jerrod Paul Junker
+* Adam Jensen
+* Regis Boudinot
+* Bret Doucette
+* Justin Holzmann
+* Jason Wright
+* Stanley Siudzinski
+
+## 1508
+
+### Pushing Logic Down the Stack (9:00 - 10:30)
+
+Join Jeff in Classroom B to [Push Logic Down the Stack](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
+
+### Little Shop Check-Ins and Work Time (10:30 - 4:00)
+
+#### One-on-Ones
+
+With Rachel:
+
+* 10:40 Tyler Komoroske
+* 10:50 Ryan Johnson
+* 11:00 Torie Warren
+* 11:10 Sekhar Paladugu
+* 11:20 Pat Wey
+* 11:30 Matt Stjernholm
+* 11:40 Amber Crawford
+
+With Andrew:
+
+* 10:40 Edgar Duran
+* 10:50 Marlo Major
+* 11:00 Emily Dowdle
+* 11:10 Shannon Paige
+* 11:20 Robbie Lane
+* 11:30 Ross Edfort
+
+#### Little Shop Check-Ins
+
+#### With Rachel:
+
+* 1:00 Jhun de Andres & Ryan Johnson & Charissa Lawrence
+* 1:45 Edgar Duran & Matt Rooney & Matt Stjernholm
+* 2:30 John Slota & Amber Crawford & Shannon Paige
+* 3:15 Emily Dowdle & Jason Pilz & Sekhar Paladugu
+
+#### With Andrew:
+
+* 1:00 Jill Donohue & Pat Wey & Marlo Major
+* 1:45 Robbie Lane & Tyler Komoroske & Ross Edfort
+* 2:30 Aaron Careaga & Torie Warren & Nicole Hall
+
+## 1510
+
+### Work Time & Instructor Pairing
+
+Today's going to be a heavy work day. Push forward on your project together, and each pair is going to work with an instructor for an hour. Find your slot below.
+
+#### With Jeff
+
+* 1:00 - Steve Pentler & Jordan Lawler
+* 2:00 - Toni Rib & Aaron Greenspan
+
+#### With Mike
+
+* 9:00 - Hector Huertas Baeza & Taylor Moore
+* 10:00 - Lenny Myerson & Brant Wellman
+* 11:00 - Brennan Holtzclaw & Beth Sebian
+* 1:00 - Joseph Perry & Penney Garrett
+* 2:00 - Emily Blanchard
+
+#### With Horace
+
+* 9:00 - Greg Armstrong & Steven Olson
+* 10:00 - Brenna Martenson & Dan Winter
+* 11:00 - Alexis Uriel Navarrete & Admir Draganovic
+* 1:00 - James Crockett & Beth Secor
+
+### 1-on-1s
+
+We're also going to layer in some one-on-ones.
+
+#### With Jeff
+
+* 11:00 - Taylor Moore
+* 11:15 - Lenny Myerson
+* 11:30 - James Crockett
+* 11:45 - Toni Rib
+* 3:00 - Jordan Lawler
+* 3:15 - Brennan Holtzclaw
+* 3:30 - Dan Winter
+* 3:45 - Admir Draganovic
+
+#### With Horace
+
+* 2:15 - Alexis Uriel Navarrete
+* 2:30 - Steve Pentler
+* 2:45 - Beth Sebian
+* 3:00 - Joseph Perry
+* 3:15 - Emily Blanchard
+* 3:30 - Brenna Martenson
+
+#### With Mike
+
+* 3:15 - Aaron Greenspan
+* 3:30 - Hector Huertas Baeza
+
+#### Future 1-on-1s
+
+* Greg Armstrong
+* Beth Secor
+* Penney Garrett
+* Brant Wellman
+* Steven Olson

@@ -1,0 +1,216 @@
+---
+title: 20151102
+layout: outline
+---
+
+Today is the 200th anniversary of George Boole. What do you think he invented?
+
+## All
+
+### Friday Lunch Roulette Groups
+
+* Aaron Greenspan, Matt Rooney, Chris Cenatiempo, Erik Butcher
+* Jordan Lawler, Robbie Lane, Mary Beth Burch, Rob Cornell
+* Joseph Perry, Chad Minnerath, Michael Wong, Marla Brizel
+* Toni Rib, Ross Edfort, Travis Haby, Sebastian Abondano
+* Alexis Uriel Navarrete, Nicole Hall, Jerrod Paul Junker, Dmitry Vizersky
+* Brennan Holtzclaw, Torie Warren, Bret Doucette, Samson Brock
+* Emily Blanchard, Jhun de Andres, Ryan Asensio, Alex Tideman
+* James Crockett, Pat Wey, Regis Boudinot, Jason Wright
+* Admir Draganovic, Jill Donohue, Justin Pease, David Shim
+* Dan Winter, Ryan Johnson, Justin Holzmann, Jai Misra
+* Brant Wellman, Tyler Komoroske, Mimi Schatz, Lovisa Svallingson
+* Brenna Martenson, Amber Crawford, Marlo Major, Rose Kohn
+* Taylor Moore, Edgar Duran, David Stinnette, Adam Caron
+* Steve Pentler, Aaron Careaga, Matt Hecker, Michael Dorrance
+* Beth Secor, John Slota, Adam Jensen, Jamie Kawahara
+* Hector Huertas Baeza, Shannon Paige, Jeff Ruane, Dave Maurer
+* Greg Armstrong, Jason Pilz, George Hudson, Max Millington
+* Beth Sebian, Matt Stjernholm, Alon Waisman, Rick Bacci
+* Steven Olson, Penny Garrett, Emily Dowdle, Russell Harms
+* Lenny Myerson, Charissa Lawrence, Sekhar Paladugu, Matt Ewell
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Today: Weirich Posse: (David Shim, Michael Wong, Matt Ewell, Marlo Major, Charissa Law, Brant Wellman, James Crockett)
+* Tuesday, 11/3 Kay
+* Wednesday, 11/4 Hopper
+* Thursday, 11/5 Berners-Lee
+* Friday, 11/6 Brooks
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Warm Up (8:30 - 9:00)
+
+[Warm Up](https://thewarmup.herokuapp.com)
+
+[Pull requests accepted](https://github.com/mikedao/the-warm-up).
+
+## 1505
+
+### Load Testing and Production Performance Analysis (9:00 - 12:00)
+
+Join Steve in Classroom A to look at some techniques for [scaling up our Ruby on Rails applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown).
+
+You'll be working in the following pairs:
+
+* Adam Caron & David Shim
+* Rick Bacci & Lovisa Svallingson
+* Sebastian Abondano & Marla Brizel
+* Samson Brock & Dmitry Vizersky
+* Erik Butcher & Dave Maurer
+* Max Millington & Jamie Kawahara
+* Jai Misra & Alex Tideman
+
+**Warm Up**: Before class begins, please create a Skylight account. Visit [https://www.skylight.io/](https://www.skylight.io/)
+to sign up. We'll be using a free tier of the service, so you won't have to enter any payment information.
+
+### Building a JavaScript Application from Scratch (1:00 - 2:00)
+
+Meet back up with Steve in Classroom A to talk about the inner workings of building a JavaScript application.
+
+### The Scale Up (2:00 - 3:00)
+
+* [The Scale Up](https://github.com/turingschool/curriculum/blob/master/source/projects/the_scale_up.markdown)
+* [Keevah](https://github.com/turingschool-examples/keevah)
+
+**Homework**: This morning, we spoke about setting up Skylight to track performance. Skylight is just one option. Another popular option is New Relic. Ideally, you would probably only use one of these in a project. That said, we'd like you to get comfotable with both.
+
+1. Work through [this tutorial](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/performance_analysis_with_newrelic.markdown) on setting up New Relic on Blogger.
+1. Set up New Relic on your Scale Up projects.
+
+## 1507
+
+### Building and Securing an API (9:00 - 12:00)
+
+In this lesson you will learn how to create an internal API that serves JSON and XML.
+
+Before this session, please clone the class repo using the following command:
+
+```
+git clone -b building_api https://github.com/turingschool-examples/storedom.git building_api
+```
+
+**Class Materials**
+
+* [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.md)
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7eUJQcHA2d1VIWGc/view?usp=sharing)
+* [Video](http://vimeo.com/144528104)
+
+Join Jorge in Classroom C.
+
+### ActiveRecord American Gladiators (1:00 - 2:00)
+
+Clone [Storedom](https://github.com/turingschool-examples/storedom) and checkout the branch titled `active_record_american_gladiator`.
+
+Do the normal Rails-y setup stuff. Run your tests using the `rspec` command. You should see one failing test with the remainder skipped. You will only need to edit code in this spec file: `./spec/active_record_american_gladiator_spec.rb`.
+
+For the tests that are failing, get them to pass. For the tests that are passing, you need to refactor them to use ActiveRecord instead of Ruby. Update the code inside of the `#Changable Start` and `#Changeable End` tags. Leave the rest of the code the same.
+
+It's highly recommended that you become familiar with the [ActiveRecord Querying page](http://guides.rubyonrails.org/active_record_querying.html) on the Rails Guides, particularly for RailsEngine.
+
+Classroom C with Josh.
+
+### Rales Engine Kickoff (2:00 - 2:30)
+
+Stay in Classroom C.
+
+### Schoolrunner (2:30 - 3:00)
+
+Classroom C.
+
+### Technical Interview Prep (3:00 - 4:00)
+
+Big Workspace.
+
+
+## 1508
+
+### Contact Manager Q & A (9:00 - 10:00)
+
+Join Rachel in classroom B to go over all things Contact Manger.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+You asked and you shall receive. Let's practice our ActiveRecord skills in classroom B. Clone the following branch of the Storedom repository:
+
+```
+git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git
+```
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown).
+
+### Technical Interview Prep (2:30 - 4:00)
+
+Big Workspace
+
+
+## 1510
+
+### Git and GitHub for Pairs (9:00 - 10:30)
+
+Join Horace in the Big Workspace. We'll start off with a bit of discussion then [jump into this exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown). We'll use these pairings:
+
+* Daniel John Winter & Brennan Holtzclaw
+* Aaron Greenspan & Beth Sebian
+* Hector Noel Huertas Baeza & Toni Rib
+* Brant Wellman & Elizabeth Anne Secor
+* Joseph Perry & Steven Olson
+* Gregory Thomas Armstrong & Brenna Martenson
+* James Crockett & Taylor Moore
+* Emily Blanchard & Steven Pentler
+* Leonard Myerson & Alexis Uriel Navarrete
+* Admir Dragaonovic & Jordan Lawler
+* Penney Garrett & Mike Dao
+
+### Project Kickoff (10:30 - 11:00)
+
+Continue with Horace in The Big Workspace where we'll kick off your next project. For the first time, Echo and Foxtrot will be working on the same project, [HTTP Yeah You Know Me](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown).
+
+You'll complete this project in pairs and have it completed by 9AM on Thursday morning.
+
+### Work Time & Mid-Module Diagnostics (11:00 - 12:00, 1:00 - 4:00)
+
+It's time to jump into your project. Remember to DTR!
+
+Everyone will also complete a mid-module diagnostic with an instructor. Look for your 30-minute slot below.
+
+*Before* your session you should [read and follow these instructions](https://github.com/turingschool/curriculum/blob/master/source/academy/assessments/mythical_creatures.markdown).
+
+#### With Horace
+
+* 11:00 -- Toni Rib
+* 11:30 -- Aaron Greenspan
+* 1:00 -- Steve Pentler
+* 1:30 -- Dan Winter
+* 2:00 -- Jordan Lawler
+
+#### With Mike
+
+* 11:00 -- Steven Olson
+* 11:30 -- Lenny Myerson
+* 1:00 -- Alexis Uriel Navarrete
+* 1:30 -- Taylor Moore
+* 2:00 -- Admir Draganovic
+
+#### With Andrew
+
+* 1:00 -- Beth Secor
+* 1:30 -- Hector Huertas Baeza
+* 2:00 -- Joseph Perry
+
+#### With Jeff
+
+* 1:00 -- Greg Armstrong
+* 1:30 -- Emily Blanchard
+* 2:00 -- James Crockett
+* 2:30 -- Brenna Martenson
+
+#### With Tess
+
+* 1:00 -- Penney Garrett
+* 1:30 -- Brennan Holtzclaw
+* 2:00 -- Beth Sebian
+* 2:30 -- Brant Wellman

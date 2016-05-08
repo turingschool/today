@@ -1,0 +1,109 @@
+---
+title: 20151113
+layout: outline
+---
+
+It's Friday the 13th!
+
+Today, in 1927, the Holland Tunnel opens to traffic as the first Hudson River vehicle tunnel linking New Jersey to New York City.
+
+## All
+
+### Posse Clean-Up Duty
+
+Friday, 11/13 Zygmuntowicz + Staff
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+No Survey, No Breakfast.
+
+* [1505](http://goo.gl/forms/Yeiumi76pk)
+* [1507](http://goo.gl/forms/y2iozIGcWG)
+* [1508](http://goo.gl/forms/bUBseVj8AU)
+* [1510](http://goo.gl/forms/EC7VbocO9S)
+
+### Instructional Time (9:00 - 10:30)
+
+#### 1505
+
+Meet with Tess in Classroom C.
+
+This morning, you'll start on [Pizza Express][pe] a "little" tutorial that will show you how to unit test and build an Express application from first principles.
+
+[pe]: https://github.com/turingschool-examples/pizza-express
+
+#### 1507
+
+Join Josh in Classroom A to work on your SQL.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
+
+#### 1508
+
+Join Rachel in Classroom B. First, we'll talk a bit about [Scopes and Callbacks](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/transactions_scopes_callbacks.markdown). Then we'll finish [Pushing Logic Down the Stack](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html).
+
+#### 1510
+
+We'll be in the workspace to talk about portfolios, assessments, and what to expect from "Hell Week".
+
+* [Your assessment](http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html)
+* [Portfolios Repo](https://github.com/turingschool/portfolios) and a [great example from the last cohort](https://github.com/turingschool/portfolios/blob/master/students/1508/emily-dowdle/20151002-emily_dowdle-m1.markdown)
+* Project expectations
+* Makeups and Retakes
+
+### Gear Up (10:30 - 11:00)
+
+Meet up with Jeff in the Workspace. Please be ready to start on time exactly at 10:30. Sit/gather in the groups below. We're not going to do anything full-group since time is short, so if your group has their pens, notebooks, and printed exercise then you're welcome to scatter out to Classroom B, Classroom C, or stay in the workspace.
+
+* Aaron Greenspan & Dmitry Vizersky & Emily Dowdle & Adam Jensen
+* Bret Doucette & Alexis Uriel Navarrete & Joseph Perry & Samson Brock
+* Matt Stjernholm & Regis Boudinot & Toni Rib & Dan Winter
+* Sebastian Abondano & Brant Wellman & Erik Butcher & Jamie Kawahara
+* Beth Secor & Rose Kohn & Brennan Holtzclaw & Dave Maurer
+* Alex Tideman & Mary Beth Burch & Rick Bacci & Stanley Siudzinski
+* Ross Edfort & Shannon Paige & Mimi Schatz & Sekhar Paladugu
+* John Slota & Jerrod Paul Junker & Travis Haby & Jai Misra
+* Adam Caron & Marla Brizel & Alon Waisman & Ryan Johnson
+* Jhun de Andres & Torie Warren & Brenna Martenson & Justin Holzmann
+* Michael Wong & Jeff Ruane & Beth Sebian & Jordan Lawler
+* Steve Pentler & Jill Donohue & David Shim & Marlo Major
+* Matt Ewell & Lovisa Svallingson & Matt Hecker & Edgar Duran
+* Charissa Lawrence & Chris Cenatiempo & Taylor Moore & Steven Olson
+* Amber Crawford & Hector Huertas Baeza & Pat Wey & Admir Draganovic
+* Jason Wright & Robbie Lane & Emily Blanchard & Tyler Komoroske
+* Lenny Myerson & Ryan Asensio & Nicole Hall & Jason Pilz
+* Matt Rooney & James Crockett & George Hudson & Greg Armstrong
+* Penney Garrett & Max Millington & Russell Harms & Aaron Careaga
+
+### Guest Speaker (11:00 - 12:00)
+
+Gather back in the workspace at 11:00 for an in-person guest talk from Kagen Sound.
+
+### Group Retro (1:15 - 2:00)
+
+* 1505 - Big Workspace with Jeff
+* 1507 - Classroom B with Jorge
+* 1508 - Classroom C with Rachel
+* 1510 - Classroom A with Horace
+
+### Lightning Talks (2:00 - 3:00)
+
+Meet in the workspace for some great lightning talks:
+
+* Matt Hecker - pry neatos
+* Samson Brock - Elixir on Phoenix
+* Dave Maurer - New Developer Considerations
+* Matt Ewell - How not to get ripped off by your enterprise IT services provider
+* Marlo Major - How to Start a Medical Device Startup
+* Matt Rooney - Plasma Torch Recycling
+* Mimi Schatz - Lessons in Refactoring: RESTful routes in RailsEngine
+* Justin Holzmann - Big Pond Effect
+
+### Electives and Student Lead Sessions (3:00 - 4:00)
+
+* Mike Dao - Game Programming with Unity3D - This week is a discussion about design. You need not have attended a previous session.
+* Aaron Careaga and Edgar Duran - How to Contribute to Open Source
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Struggling with the project du jour? Feel like you're the only one who doesn't get some general concept (protip: you're not)? Fear not... we'll review All The Things!
+* Jamie Kawahara - Make Custom 3D Printed Business Cards
+* Regis - Programming Arduinos with Ruby/JavaScript/C
+* Marlo - Medtech Startups

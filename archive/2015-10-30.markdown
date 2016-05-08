@@ -1,0 +1,112 @@
+---
+title: 20151030
+layout: outline
+---
+
+Happy Birthday, Kevin Pollak!
+
+## All
+
+### Posse Clean-Up Duty (After Wrapup)
+
+* Friday: Golick (Rick Bacci, Samson Brock, Regis Boudinot, Ryan Asensio, Ross Edfort, Robbie Lane, Beth Secor)
+
+Take 15 minutes after wrap-up to check the items on [this list](https://gist.github.com/rwarbelow/f5cfe4333402d043ef2e).
+
+### Surveys and Breakfast (8:30 - 9:00)
+
+* [1505 Survey](http://goo.gl/forms/fqQIv1feH2)
+* [1507 Survey](http://goo.gl/forms/Q6uO7d6IQR)
+* [1508 Survey](http://goo.gl/forms/nyLbRsrCNJ)
+* [1510 Survey](http://goo.gl/forms/nYKIVZT8IO)
+
+### Instructional Time (9:00 - 10:30)
+
+#### 1505
+
+Meet with Steve in A. We'll review some concepts from the week and/or talk a little bit about generators.
+
+* [Lesson plan on Generators](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/05-generators.md)
+
+#### 1507
+
+How far can you make it in [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)?
+
+Meet in Classroom B.
+
+#### 1508
+
+Join Rachel in Classroom C to talk about join tables and messed up migrations.
+
+#### 1510
+
+Meet Horace in the Big Workspace for a Q and A.
+
+Submit your questions [here](https://public.etherpad-mozilla.org/p/1510-question-time).
+
+### Gear Up (10:30 - 11:00)
+
+Get right into your groups below:
+
+* David Shim & Edgar Duran & Mary Beth Burch & Greg Armstrong
+* Nicole Hall & Chad Minnerath & James Crockett & Torie Warren
+* Marlo Major & Rose Kohn & Robbie Lane & Ross Edfort
+* Sekhar Paladugu & John Slota & Samson Brock & Toni Rib
+* Beth Sebian & Stanley Siudzinski & Matt Hecker & Matt Rooney
+* Justin Holzmann & Jhun de Andres & Russell Harms & Beth Secor
+* Dave Maurer & Steven Olson & Jason Wright & Ryan Johnson
+* Lovisa Svallingson & Adam Jensen & Penney Garrett & Emily Blanchard
+* Jill Donohue & Jai Misra & Brennan Holtzclaw & Steve Pentler
+* Amber Crawford & Dan Winter & Admir Draganovic & Rick Bacci
+* Tyler Komoroske & Mimi Schatz & Emily Dowdle & Brant Wellman
+* Jordan Lawler & Charissa Lawrence & Alexis Uriel Navarrete & Regis Boudinot
+* Michael Wong & Matt Ewell & Ryan Asensio & Rob Cornell
+* Joseph Perry & Chris Cenatiempo & Taylor Moore & Bret Doucette
+* Adam Caron & Erik Butcher & Shannon Paige & George Hudson
+* Lenny Myerson & Hector Huertas Baeza & Marla Brizel & Jason Pilz
+* Matt Stjernholm & Travis Haby & Sebastian Abondano & Alon Waisman & Jerrod Paul Junker
+* Jeff Ruane & Aaron Greenspan & Aaron Careaga & Pat Wey & Brenna Martenson
+
+You'll have printed copies of the articles and instructions, but for your reference [here are the instructions](https://github.com/turingschool/gear-up/blob/master/salary.markdown).
+
+### Guest Speaker (11:00 - 12:00)
+
+Today, you will be hearing from five of Turing's greatest alumni, Allie Larson, Andrew Watkins, Chandra Carney, Sara Simon, and Will Faurot.
+
+### Group Retro (1:15 - 2:00)
+
+* 1505 - Big Workspace with Steve and Marissa
+* 1507 - Classroom B with Jorge
+* 1508 - Classroom C with Rachel
+* 1510 - Classroom A with Jeff
+
+### Lightning Talks (2:00 - 3:00)
+
+* Lovisa Svallingson - Flux vs MVC outline
+* Rick Bacci - Turing do's and dont's
+* Jhun de Andres - Denver's innercity opportunities
+* Pat Wey - Writing Templates In Haml
+* Shannon Paige - Halloween Lightning Talk! Scary Internet Stories to Tell in the Dark
+* John Slota - Why bitcoin was created
+* David Stinnette - Combating PTSD with Tech
+* Michael Wong - Brain Computer Interfaces (BCI)
+* Adam Caron - Why Sass Kicks Ass
+* Ross Edfort - Photography: Why Film is Actually Better than Digital
+
+### Electives and Student Lead Sessions (3:00 - 4:00)
+
+#### Recommended for Module 1
+
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable. This week - How do you feel about Enigma?
+
+#### Recommended for Anyone
+
+* Mike Dao - Game Programming with Unity 3D. Meeting in Classroom A.
+* Dan Winter - Book Club - Pragmatic Thinking and Learning: Refactor Your Wetware. We know [this is  your brain on drugs](https://www.youtube.com/watch?v=ub_a2t0ZfTs). What does your brain on Turing look like? Let's think about thinking and learn about learning!
+* George Hudson - Swift - Continues all module!
+* Chris Cenatiempo - MATLAB
+* Jason Wright - Storing images in the Cloud with CarrierWave and Cloudinary integration
+* Regis Boudinot - Setting up a DO droplet for Rails Production (PG/Git/ENV vars/nginx/puma)
+* Lovisa Svallingson - React.js 1.3 --> continuation of previous two session. This week will add new ideas and delete ideas. If you want to come but missed the first
+session, clone http://github.com/appleagrain/ideabox-react (relevant files app/views/site/index.html.erb, app/assets/javascripts/components/_dashboard.js.jsx),
+take a look at the code and DM me if you have any questions.
