@@ -18,25 +18,33 @@ Meet in the Big Workspace.
 
 ### Module 4 Kickoff (9:30 - 10:30)
 
-Stay in the Big Workspace.
+Stay in the Big Workspace. We will go over what it means to be in Module 4, balancing job hunting with learning, the points system, and more.
 
-- [Module 4 Cheatsheet](https://gist.github.com/rrgayhart/042665ce6d3a0c265a05)
-- [Extra Credit and Submissions]()
+- [The Module 4 Mothership](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments)
 
 ### Ideabox 2.0 Kickoff (10:30 - 12:00)
 
 Meeka kicks off your very first project.
 
 - [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
-- [Project Submission Form]()
+- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments/ideabox2.0)
 
 ### Debugging JavaScript (1:00 - 2:30)
 
-Classroom B!
+Meet with Meeka in Classroom B!
+
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
 
 ### Project Work Time and Instructor Pairing (2:30 - 4:00)
 
-Schedule TBD.
+It's time to start boxing those ideas.
+
+Meeka and Louisa will be in the Big Workspace for all of your questioning needs.
+
+### 'Homework'
+- Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end and [submit it here](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments/dev-tools-homework). (5 points)
 
 
 ## 1602

@@ -11,33 +11,34 @@ layout: outline
 
 ## 1511
 
-### Array.prototype Methods
+### Functions in JavaScript (9:00 - 10:30)
 
-We'll do a whole group discussion and review.
+Meet with Louisa in Classroom B.
 
-- Here is [a recording a previous version][video] of the lecture.
-- [Clone down this repository][mdn]. You'll be using it all module.
-- You'll be working through [this tutorial][apm].
-- There are are some tests in `demos/array-prototype-methods` that go along with the tutorials.
-- Your job is to make those tests pass.
-- You'll be filling out these [checks for understanding][cfu].
-- **Extension**: We cover a number of other useful methods [here][add].
+- [Lesson Plan, Part One](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
+- [Lesson Plan, Part Two](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
 
-[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
-[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
-[cfu]: https://gist.github.com/stevekinney/7acbc39dc6c77d3bafbf
-[video]: https://vimeo.com/132966650
-[add]: https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/01-array-prototype-methods/01-additional-methods.md
+Please [fork this gist][cfu4] and add your scores as we go along.
 
+[cfu4]: https://gist.github.com/stevekinney/c5e02b695f9a6e89cfa5
 
-### Project Work Time
+### Unit Testing with Teaspoon (10:30 - 12:00)
 
+Meet with Meeka in Classroom B. You'll be introduced to some ways to unit test JavaScript in Rails.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
 
-### Homework
+### Project Work Time and Check In Overflow (1:00 - 4:00)
 
-[Fork this gist on ES6 and respond](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
+#### With Meeka
 
+ * 1:15: Kimiko Kano
+ * 1:45: Nate Venn
+
+#### With Louisa
+
+- 1:15: July Tran
+- 1:45: Julian Feliciano
 
 ## 1602
 

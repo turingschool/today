@@ -1,0 +1,51 @@
+---
+title: 20160512
+layout: outline
+---
+## All
+
+## 1511
+
+### Introduction to Object-Oriented JavaScript (9:00 - 10:30)
+
+Let's meet up in Classroom C for a quick introduction to object-oriented JavaScript.
+
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
+- [Checks for Understanding](https://gist.github.com/stevekinney/d02403d8190f8e87a731)
+
+### Ideabox Evals and Project Work Time (10:30 - 12:00)
+
+Classroom C.
+
+#### With Meeka & Louisa
+
+- 10:30: Taylor Moore
+- 11:00: Nick Weiland
+- 11:30: Julian Feliciano
+
+### Ideabox Tutorial and Evals (1:00 - 4:00)
+
+*** You should be pencils down on your Ideabox Project (i.e. no further commits past 1pm) ***
+
+While Meeka & Louisa are doing code evals, you'll work through Steve's first pass at the project. Don't try to print it out, it's about the quarter of the length of a book.
+
+- [Idea Box](https://github.com/stevekinney/idea-box)
+
+#### With Meeka
+
+- 1:10 - 1:30: Brennan Holtzclaw
+- 1:30 - 1:50: Brian Rippeto
+- 1:50 - 2:10: Adrienne Domingus
+- 2:10 - 2:30: David Whitaker
+- 2:40 - 3:00: July Tran
+- 3:00 - 3:20: Heidi Hoopes
+- 3:20 - 3:40: Erinna Chen
+
+#### With Louisa
+
+- 1:10 - 1:30: Allan Blair
+- 1:30 - 1:50: Scott Firestone
+- 1:50 - 2:10: Nate Venn
+- 2:10 - 2:30: Kimiko Kano
+- 2:40 - 3:00: Adam Hundley
+- 3:00 - 3:20: Nicholas Dorans

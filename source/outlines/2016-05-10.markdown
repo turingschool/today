@@ -12,27 +12,70 @@ layout: outline
 ### Lunch Roulette Groups
 
 ## 1511
+### Challenge: Echo (9:00 - 9:30)
 
-### Homework
+Meet with Meeka in Classroom C. You'll be working on a small challenge called Echo.
 
+* [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
 
-### Debugging JavaScript (9:00 - 10:30)
+You'll be working in the following pairs:
 
-Me with Meeka in Classroom C.
+ * Allan Blair & Adam Hundley
+ * Nick Weiland & David Whitaker
+ * Brennan Holtzclaw & Nicholas Dorans
+ * Erinna Chen & Taylor Moore
+ * Scott Firestone & Adrienne Domingus
+ * Brian Rippeto & Heidi Hoopes
+ * Nate Venn & Julian Feliciano [At NREL]
+ * July Tran & Kimiko Kano [At NREL]
 
-- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+### Array Prototype Methods (9:30 - 12:00)
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+Meet with Meeka in Classroom C.
 
-### Unit Testing with Teaspoon (10:30 - 12:00)
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
 
-Stick around with Meeka in Classroom C.
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/7b9c8bc4fe78a51196f25f966d055af3
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+You'll be working in the following pairs:
+
+ * Allan Blair & Heidi Hoopes
+ * Adam Hundley & Nick Weiland
+ * David Whitaker & Brennan Holtzclaw
+ * Nicholas Dorans & Erinna Chen
+ * Taylor Moore & Scott Firestone
+ * Adrienne Domingus& Brian Rippeto
+ * Nate Venn & Julian Feliciano [At NREL]
+ * July Tran & Kimiko Kano [At NREL]
 
 ### Project Work Time and Checkins (1:00 - 4:00)
 
 (All times are estimates.)
+
+#### With Meeka
+
+- 1:00 - 1:20: Adam Hundley [and Louisa]
+- 1:20 - 1:40: Brian Rippeto [and Brenna]
+- 1:40 - 2:00: Allan Blair
+- 2:00 - 2:20: Adrienne Domingus
+- 2:40 - 3:00: Brennan Holtzclaw
+- 3:00 - 3:20: Nick Weiland
+
+#### With Louisa
+
+- 1:20 - 1:40: Scott Firestone
+- 1:40 - 2:00: Heidi Hoopes
+- 2:00 - 2:20: David Whitaker
+
+#### With Brenna
+
+- 1:40 - 2:00: Nicholas Dorans
+- 2:00 - 2:20: Erinna Chen
+- 2:40 - 3:00: Taylor Moore
 
 ## 1602
 
