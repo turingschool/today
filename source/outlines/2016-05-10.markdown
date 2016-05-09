@@ -25,7 +25,7 @@ You'll be working in the following pairs:
  * Brennan Holtzclaw & Nicholas Dorans
  * Erinna Chen & Taylor Moore
  * Scott Firestone & Adrienne Domingus
- * Brian Rippeto & Heidi Hoopes
+ * Brian Rippeto & Heidi Hoopes & Chelsea Johnson
  * Nate Venn & Julian Feliciano [At NREL]
  * July Tran & Kimiko Kano [At NREL]
 
@@ -47,7 +47,7 @@ You'll be working in the following pairs:
  * Adam Hundley & Nick Weiland
  * David Whitaker & Brennan Holtzclaw
  * Nicholas Dorans & Erinna Chen
- * Taylor Moore & Scott Firestone
+ * Taylor Moore & Scott Firestone & Chelsea Johnson
  * Adrienne Domingus& Brian Rippeto
  * Nate Venn & Julian Feliciano [At NREL]
  * July Tran & Kimiko Kano [At NREL]
@@ -70,6 +70,7 @@ You'll be working in the following pairs:
 - 1:20 - 1:40: Scott Firestone
 - 1:40 - 2:00: Heidi Hoopes
 - 2:00 - 2:20: David Whitaker
+- 2:20 - 2:40: Chelsea Johnson
 
 #### With Brenna
 
