@@ -89,7 +89,7 @@ Join Jeff in classroom C to chat about all those tubes that make up the interweb
 
 You will spend the last hour of class working on this [ruby challenge](https://github.com/turingschool/challenges/blob/master/flatten.markdown) in the following pairs
 
-* Anna Weisbrodt & Colin Osborn
+* Anna Weisbrodt & Colin Osborn & Matt DesMarteau
 * Ilana Corson & Jennifer Soden
 * Nick Pisciotta & Parker Phillips
 * Kerry Sheldon & Marcella Wigg
