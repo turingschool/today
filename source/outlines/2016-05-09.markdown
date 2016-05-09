@@ -128,6 +128,8 @@ Classroom A with Rachel.
 
 [Module 1 Homework Calendar](https://calendar.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9pc29paDY5NzN0cG9xMWk4bWYzbnFzM21ub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
 
+[Module 1 Lesson Plans](https://github.com/turingschool/lesson_plans/tree/master/ruby_01-object_oriented_programming_with_ruby)
+
 [Important Links](https://github.com/turingschool/links)
 
 [Portfolios](https://github.com/turingschool/portfolios)
