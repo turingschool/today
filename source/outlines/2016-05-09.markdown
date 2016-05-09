@@ -34,6 +34,8 @@ It's time to start boxing those ideas.
 
 
 ## 1602
+[Module 3 Lesson Plans](https://github.com/turingschool/lesson_plans/tree/master/ruby_03-professional_rails_applications)  
+[Module 3 Calendar]()
 
 ## State of Turing (9:00 - 9:30)
 
@@ -44,8 +46,18 @@ Meet in the Big Workspace.
 You'll be spending a lot of time with us, and we'd like take some time to get to know each other
 
 ## The Pivot: The Kickoff (10:30 - 12:00)
+[Project Repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 You'll be working in groups for this project:
+
+* Mark Miranda, Thomas Pickett, Kami Boers
+* Jared Roth, Chad Ellison, Claudia Kiesenhofer
+* Ashwin Rao, Patrick Hardy, Joshua Washke
+* Kris Foss, Hedy Woo, Jonathan Liss
+* Jeneve Parrish, Andrew Thompson, Gurusundesh Khalsa
+* Admir Draganovic, Matt Pindell, Marina Corona
+* Jonathan Bernesser, Christopher Soden, Sal Espinosa
+* Ling Tran, Alireza Andersen, Alex Navarette
 
 ## Project Work Time (1:00 - 2:30)
 
