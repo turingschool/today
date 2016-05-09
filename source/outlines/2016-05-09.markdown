@@ -61,7 +61,7 @@ You'll be working in groups for this project:
 * Jeneve Parrish, Andrew Thompson, Gurusundesh Khalsa
 * Admir Draganovic, Matt Pindell, Marina Corona
 * Jonathan Bernesser, Christopher Soden, Sal Espinosa
-* Ling Tran, Alireza Andersen, Alex Navarette
+* Ling Tran, Alireza Andersen, Alex Navarrete
 
 ## Project Work Time (1:00 - 2:30)
 
