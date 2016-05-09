@@ -38,6 +38,8 @@ Meet with Meeka in Classroom B!
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
 
 ## 1602
+[Module 3 Lesson Plans](https://github.com/turingschool/lesson_plans/tree/master/ruby_03-professional_rails_applications)  
+[Module 3 Calendar](https://github.com/turingschool/lesson_plans/tree/master/ruby_03-professional_rails_applications)
 
 ## Meet your instructors (9:30 - 10:00)
 
