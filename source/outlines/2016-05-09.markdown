@@ -41,13 +41,13 @@ Meet with Meeka in Classroom B!
 [Module 3 Lesson Plans](https://github.com/turingschool/lesson_plans/tree/master/ruby_03-professional_rails_applications)  
 [Module 3 Calendar](https://github.com/turingschool/lesson_plans/tree/master/ruby_03-professional_rails_applications)
 
-## Meet your instructors (9:30 - 10:00)
+### Meet your instructors (9:30 - 10:00)
 
 You'll be spending a lot of time with us, and we'd like take some time to get to know each other
 
 Classroom B.
 
-## The Pivot: The Kickoff (10:30 - 12:00)
+### The Pivot: The Kickoff (10:30 - 12:00)
 [Project Repo](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
 
 Stay in Classroom B.
@@ -69,7 +69,7 @@ Work work.
 
 ## 1603
 
-## Module 2 Kickoff and Goal Setting (9:30 - 10:30)
+### Module 2 Kickoff and Goal Setting (9:30 - 10:30)
 
 Meet in classroom C with Andrew, Jeff, and YUNG-Jhun. You'll want to bookmark the following links:
 
@@ -77,15 +77,15 @@ Meet in classroom C with Andrew, Jeff, and YUNG-Jhun. You'll want to bookmark th
 * [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/README.md)
 * [Module 2 Homework](https://github.com/turingschool/turing-homework/blob/master/module-2-homework.markdown)
 
-## Intro to Sinatra/Task Manager (10:30 - 12:00)
+### Intro to Sinatra/Task Manager (10:30 - 12:00)
 
 Classroom C STILL. [Here is our check for understanding.](https://gist.github.com/Carmer/f382765ddcc76d709db9) answer the questions in the comments
 
-## How the Web Works (1:00 - 3:00)
+### How the Web Works (1:00 - 3:00)
 
 Join Jeff in classroom C to chat about all those tubes that make up the interwebs.
 
-## Ruby Pairing (3:00 - 4:00)
+### Ruby Pairing (3:00 - 4:00)
 
 You will spend the last hour of class working on this [ruby challenge](https://github.com/turingschool/challenges/blob/master/flatten.markdown) in the following pairs
 
@@ -100,25 +100,25 @@ You will spend the last hour of class working on this [ruby challenge](https://g
 
 ## 1605
 
-## Staff Introductions (8:30 - 9:00)
+### Staff Introductions (8:30 - 9:00)
 
 Meet in Classroom A to meet all of us. If you don't know where that is, ask someone.  : )
 
 No seriously, just ask someone, it's easier than describing it.
 
-## State of Turing (9:00 - 9:30)
+### State of Turing (9:00 - 9:30)
 
 Head over to the Big Workspace.
 
-## Tour and Getting Started (9:30 - 10:00)
+### Tour and Getting Started (9:30 - 10:00)
 
 Meet back up in Classroom A.
 
-## All: Success at Turing (10:00 - 11:30)
+### All: Success at Turing (10:00 - 11:30)
 
 We will start you back Classroom A.
 
-## All: Important Links, Portfolios, and Goal Setting (11:30 - 12:00)
+### All: Important Links, Portfolios, and Goal Setting (11:30 - 12:00)
 
 Classroom A with Rachel. 
 
@@ -133,15 +133,15 @@ Classroom A with Rachel.
 [Portfolios](https://github.com/turingschool/portfolios)
 
 
-## All: Student Introduction Lunch (12:00 - 1:00)
+### All: Student Introduction Lunch (12:00 - 1:00)
 
 You've met all of us, now we want to know all about you.
 
-## Echo: Strings the Hard Way (1:00 - 3:00)
+### Echo: Strings the Hard Way (1:00 - 3:00)
 
 Meet Mike at the Staff conference table.
 
-## Foxtrot: Strings and Integers (1:00 - 3:00)
+### Foxtrot: Strings and Integers (1:00 - 3:00)
 
 Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown).
 
@@ -163,14 +163,14 @@ Pairs:
 
 [Homework: Working with Strings and Integers](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown).
 
-## All: Drills Kickoff (3:00 - 3:30)
+### All: Drills Kickoff (3:00 - 3:30)
 
 Get back together in Classroom C with Rachel. Here are [the drills](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown). 
 
-## Echo: Project Kickoff (3:30 - 4:00)
+### Echo: Project Kickoff (3:30 - 4:00)
 
 But it's your first day?!!? Back to the Staff table.
 
-## Foxtrot: Drills Setup Office Hours (3:30 - 4:00)
+### Foxtrot: Drills Setup Office Hours (3:30 - 4:00)
 
 Rachel will be around if you need help setting up your drills.
