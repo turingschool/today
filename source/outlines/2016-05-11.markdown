@@ -6,7 +6,7 @@ layout: outline
 
 ### Word of the Day:
 
-* affinal - adjective - related by or concerning marriage
+**turpitude** - _noun_ - vile, shameful, or base character; depravity
 
 
 ## 1511
@@ -75,7 +75,7 @@ Come to Classroom C to review some CRUD.
 Join Andrew in Classroom C to talk about Model Testing in CRUD
 
 ### Templating with ERB (1:00 - 2:00)
-Join Jeff in Classroom _ to talk about Templating in ERB
+Join Jeff in Classroom C to talk about Templating in ERB
 
 ### Nokogiri (2:00 - 3:00)
 
@@ -84,6 +84,7 @@ Join Andrew in Classroom _ to talk about Nokogiri and all it's awesomeness.
 ### Acceptance testing with Capybara (3:00 - 4:00 )
 
 It's the homestretch! Come to Classroom _ to talk about acceptance testing with Capybara 🐻.
+
 
 ## 1605
 
@@ -96,6 +97,8 @@ Classroom A with Horace.
 Mike tags in.  Stay in Classroom A.
 
 ### Echo: Work Time (1:00 - 4:00)
+
+Work away on ye projects.
 
 ### Foxtrot: Drills Check Ins (1:00 - 4:00)
 
