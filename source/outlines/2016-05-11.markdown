@@ -1,0 +1,105 @@
+---
+title: 20160511
+layout: outline
+---
+## All
+
+### Word of the Day:
+
+**turpitude** - _noun_ - vile, shameful, or base character; depravity
+
+
+## 1511
+
+### Functions in JavaScript (9:00 - 10:30)
+
+Meet with Louisa in Classroom B.
+
+- [Lesson Plan, Part One](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
+- [Lesson Plan, Part Two](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
+
+Please [fork this gist][cfu4] and add your scores as we go along.
+
+[cfu4]: https://gist.github.com/stevekinney/c5e02b695f9a6e89cfa5
+
+### Unit Testing with Teaspoon (10:30 - 12:00)
+
+Meet with Meeka in Classroom B. You'll be introduced to some ways to unit test JavaScript in Rails.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+
+### Project Work Time and Check In Overflow (1:00 - 4:00)
+
+#### With Meeka
+
+ * 1:15: Kimiko Kano
+ * 1:45: Nate Venn
+
+#### With Louisa
+
+- 1:15: July Tran
+- 1:45: Julian Feliciano
+
+## 1602
+
+### Multi Tenancy Authorization (9:00 - 12:00)
+
+Big Workspace.
+
+### Project Work Time (1:00 - 4:00)
+
+Pivot Away!
+
+
+## 1603
+
+### Peer Review: HTML/CSS/Bootstrap (9:00 - 10:00)
+
+Get with your partner and talk about the styling you implemented in your TaskManger app for homework last night. [Here](https://gist.github.com/Carmer/52b20bbe29d89dfa3f00) are some things to talk about/think about during your review session.
+
+* Erin Greenhalgh & Ilana Corson
+* Marcella Wigg & Ryan Batty
+* Nick Pisciotta & Charles Kaminer
+* Colin Osborn & Christine Gamble
+* Parker Phillips & Kerry Sheldon
+* Jennifer Soden & Brian Sayler
+* Anna Weisbrodt & Robert Jaeger
+* Lucy Fox & Karina Gonzales
+
+### CRUD Review (10:00 - 10:30)
+
+Come to Classroom C to review some CRUD.
+
+### Model Testing in Sinatra (10:30 - 12:00)
+
+Join Andrew in Classroom C to talk about Model Testing in CRUD
+
+### Templating with ERB (1:00 - 2:00)
+Join Jeff in Classroom C to talk about Templating in ERB
+
+### Nokogiri (2:00 - 3:00)
+
+Join Andrew in Classroom _ to talk about Nokogiri and all it's awesomeness.
+
+### Acceptance testing with Capybara (3:00 - 4:00 )
+
+It's the homestretch! Come to Classroom _ to talk about acceptance testing with Capybara 🐻.
+
+
+## 1605
+
+### All: Introducing Arrays (9:00 - 10:30)
+
+Classroom A with Horace.
+
+### All: Exploring .each and Exercises (10:30 - 12:00)
+
+Mike tags in.  Stay in Classroom A.
+
+### Echo: Work Time (1:00 - 4:00)
+
+Work away on ye projects.
+
+### Foxtrot: Drills Check Ins (1:00 - 4:00)
+
+TBD

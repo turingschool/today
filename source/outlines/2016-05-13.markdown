@@ -1,0 +1,21 @@
+---
+title: 20160513
+layout: outline
+---
+## All
+
+## 1511
+
+### Job Hunting Assignment (9:00 - 10:30)
+
+Meet with Meeka in Classroom C to talk Job Stalking
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/job-hunting-assignment.markdown)
+
+### Homework
+
+This weekend, please complete the following assignment:
+
+- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
+
+[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73

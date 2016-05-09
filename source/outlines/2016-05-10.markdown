@@ -1,0 +1,142 @@
+---
+title: 20160510
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**quaff** - *verb* - to drink a beverage copiously and with hearty enjoyment
+
+### Lunch Roulette Groups
+
+## 1511
+### Challenge: Echo (9:00 - 9:30)
+
+Meet with Meeka in Classroom C. You'll be working on a small challenge called Echo.
+
+* [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
+
+You'll be working in the following pairs:
+
+ * Allan Blair & Adam Hundley
+ * Nick Weiland & David Whitaker
+ * Brennan Holtzclaw & Nicholas Dorans
+ * Erinna Chen & Taylor Moore
+ * Scott Firestone & Adrienne Domingus
+ * Brian Rippeto & Heidi Hoopes & Chelsea Johnson
+ * Nate Venn & Julian Feliciano [At NREL]
+ * July Tran & Kimiko Kano [At NREL]
+
+### Array Prototype Methods (9:30 - 12:00)
+
+Meet with Meeka in Classroom C.
+
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/7b9c8bc4fe78a51196f25f966d055af3
+
+You'll be working in the following pairs:
+
+ * Allan Blair & Heidi Hoopes
+ * Adam Hundley & Nick Weiland
+ * David Whitaker & Brennan Holtzclaw
+ * Nicholas Dorans & Erinna Chen
+ * Taylor Moore & Scott Firestone & Chelsea Johnson
+ * Adrienne Domingus& Brian Rippeto
+ * Nate Venn & Julian Feliciano [At NREL]
+ * July Tran & Kimiko Kano [At NREL]
+
+### Project Work Time and Checkins (1:00 - 4:00)
+
+(All times are estimates.)
+
+#### With Meeka
+
+- 1:00 - 1:20: Adam Hundley [and Louisa]
+- 1:20 - 1:40: Brian Rippeto [and Brenna]
+- 1:40 - 2:00: Allan Blair
+- 2:00 - 2:20: Adrienne Domingus
+- 2:40 - 3:00: Brennan Holtzclaw
+- 3:00 - 3:20: Nick Weiland
+
+#### With Louisa
+
+- 1:20 - 1:40: Scott Firestone
+- 1:40 - 2:00: Heidi Hoopes
+- 2:00 - 2:20: David Whitaker
+- 2:20 - 2:40: Chelsea Johnson
+
+#### With Brenna
+
+- 1:40 - 2:00: Nicholas Dorans
+- 2:00 - 2:20: Erinna Chen
+- 2:40 - 3:00: Taylor Moore
+
+## 1602
+
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
+### Understanding Multitenancy (10:00 - 12:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
+
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Come meet with your client in this order:
+
+## 1603
+
+### CRUD in Sinatra (9:00 - 12:00)
+Come to classroom C to learn about CRUD in Sinatra. [This is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+### Intro to Bootstrap (1:00 - 4:00)
+Join Andrew in Classroom C to learn how the web works. Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown).
+
+
+## 1605
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentors Q & A (9:30 - 10:00)
+
+Stay in Classroom A.
+
+### Echo: SuperFizz Recap (10:00 - 10:30)
+
+Mike at the table.
+
+### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
+
+Classroom A with Horace.
+
+### Echo: String and Integer Riddles (10:30 - 12:00)
+
+Stay at the table.
+
+### Foxtrot: Flow Control (10:30 - 12:00)
+
+Classroom A.
+
+### All: Team Building (1:00 - 3:00)
+
+Classroom A.
+
+### Student Activities Mixer (3:00 - 4:00)
+
+Classroom A
