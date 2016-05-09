@@ -66,15 +66,15 @@ Come meet with your client in this order:
 (Times are approximate)
 
 With Josh
-  - 1:00  Kris, Hedy, Jonathan Liss, Jared
-  - 1:40  Jonathan Bernesser, Chris, Sal, Chad
-  - 2:20  Ashwin, Patrick, Josh
-  - 3:00  Mark, Thomas, Kami
+  - 1:00  Kris, Hedy, Jonathan Liss, Jared  
+  - 1:40  Jonathan Bernesser, Chris, Sal, Chad  
+  - 2:20  Ashwin, Patrick, Josh  
+  - 3:00  Mark, Thomas, Kami  
 
 With Nate
-  - 1:00  Ling, Ali, Alex, Claudia
-  - 1:40  Jeneve, Drew, Sunny
-  - 2:20  Admir, Matt, Marina
+  - 1:00  Ling, Ali, Alex, Claudia  
+  - 1:40  Jeneve, Drew, Sunny  
+  - 2:20  Admir, Matt, Marina  
 
 ## 1603
 
