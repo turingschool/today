@@ -134,6 +134,22 @@ Meet Mike at the Staff conference table.
 
 Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown).
 
+Pairs:
+
+* Angela Lindow & Ben Pepper
+* Brandon Randall & Caleb Cowen
+* Christopher Concannon & David Seaver
+* David Tinianow & Garrett Smestad
+* Jason Hanna & Joshua Cohen
+* Kris Sparks & Linda McCartney
+* Luigi Aversano & Matthew Campbell
+* Michael Lane Winham & Patrick Wentz
+* Nate Anderson & Nicole Marino
+* Raphael Barbo & Roberta Doyle
+* Ryan Flack & Sonia Gupta
+* Tommasina Miller & Trent Whitinger
+* Yoseph Anderson & Zachary Forbing
+
 [Homework: Working with Strings and Integers](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown).
 
 ## All: Drills Kickoff (3:00 - 3:30)
