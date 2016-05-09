@@ -62,7 +62,11 @@ Schedule TBD.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+Meet with your PMs in the following order:  
+
+  - 1:00 - 1:40  Ashwin, Patrick, Josh
+  - 1:45 - 2:25  Mark, Thomas, Kami
+  - 2:30 - 3:10  Jonathan Bernesser, Chris, Sal, Chad
 
 
 ## 1603
