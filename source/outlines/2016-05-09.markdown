@@ -133,7 +133,9 @@ Meet Mike at the Staff conference table.
 
 ## Foxtrot: Strings and Integers (1:00 - 3:00)
 
-Classroom A with Rachel.
+Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/strings_and_integers.markdown). 
+
+[Homework: Working with Strings and Integers](https://github.com/turingschool/challenges/blob/master/working_with_strings_and_integers.markdown). 
 
 ## All: Drills Kickoff (3:00 - 3:30)
 
