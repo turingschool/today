@@ -154,7 +154,7 @@ Pairs:
 
 ## All: Drills Kickoff (3:00 - 3:30)
 
-Get back together in Classroom C.
+Get back together in Classroom C. Here are [the drills](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown). 
 
 ## Echo: Project Kickoff (3:30 - 4:00)
 
