@@ -31,7 +31,7 @@ Classroom C.
 
 While Meeka & Louisa are doing code evals, you'll work through Steve's first pass at the project. Don't try to print it out, it's about the quarter of the length of a book.
 
-- [Idea Box](https://github.com/stevekinney/idea-box)
+- [Idea Box](https://github.com/rrgayhart/steve-idea-box)
 
 #### With Meeka
 
