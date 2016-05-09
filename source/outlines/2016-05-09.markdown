@@ -118,9 +118,20 @@ Meet back up in Classroom A.
 
 We will start you back Classroom A.
 
-## All: Starting Portfolios and Personal Goal Setting (11:30 - 12:00)
+## All: Important Links, Portfolios, and Goal Setting (11:30 - 12:00)
 
-Classroom A.
+Classroom A with Rachel. 
+
+[Daily Schedule](http://today.turing.io/)
+
+[Module 1 Class Calendar](https://calendar.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV81OWs4bXNycmMyZGRoY3Y3ODd2dWJ2cDBzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7) 
+
+[Module 1 Homework Calendar](https://calendar.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9pc29paDY5NzN0cG9xMWk4bWYzbnFzM21ub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
+
+[Important Links](https://github.com/turingschool/links)
+
+[Portfolios](https://github.com/turingschool/portfolios)
+
 
 ## All: Student Introduction Lunch (12:00 - 1:00)
 
@@ -154,7 +165,7 @@ Pairs:
 
 ## All: Drills Kickoff (3:00 - 3:30)
 
-Get back together in Classroom C. Here are [the drills](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown). 
+Get back together in Classroom C with Rachel. Here are [the drills](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown). 
 
 ## Echo: Project Kickoff (3:30 - 4:00)
 
