@@ -19,3 +19,7 @@ This weekend, please complete the following assignment:
 - Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
 
 [sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
+
+## Posse & Passion Work Time
+
+* Code under pressure with Nick W.
