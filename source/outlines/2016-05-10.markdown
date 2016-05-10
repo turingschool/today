@@ -139,7 +139,15 @@ Mike at the table.
 
 ### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
 
-Classroom A with Horace.
+Classroom A with Rachel.
+
+* rennsport5280, garrett.smestad
+* josh, nanderson
+* codingzero, calebcowen
+* vidoseaver, zackforbing
+* dtin, mattcampbell
+* angela.l, rsbarbo
+* b.randall1985, patrick_w
 
 ### Echo: String and Integer Riddles (10:30 - 12:00)
 
@@ -148,6 +156,17 @@ Stay at the table.
 ### Foxtrot: Flow Control (10:30 - 12:00)
 
 Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown). 
+
+* zackforbing, lin
+* garrett.smestad, codingzero
+* rennsport5280, luigi_ave1
+* jhanna, patrick_w
+* lane, angela.l
+* vidoseaver, mattcampbell
+* b.randall1985, rsbarbo
+* kris, josh
+* soniagupta504, nanderson
+* calebcowen, dtin
 
 ### All: Team Building (1:00 - 3:00)
 
