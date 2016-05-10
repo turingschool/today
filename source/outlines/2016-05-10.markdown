@@ -147,7 +147,7 @@ Stay at the table.
 
 ### Foxtrot: Flow Control (10:30 - 12:00)
 
-Classroom A.
+Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/flow_control.markdown). 
 
 ### All: Team Building (1:00 - 3:00)
 
