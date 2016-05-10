@@ -151,12 +151,12 @@ Classroom A with Rachel.
 
 With your pair:
 
-1) First person will choose two tests from `string_test.rb` that are confusing and discuss them with pair. 
-2) Second person will choose two tests from `fixnum_test.rb` that are confusing and discuss them with pair. 
-3) First person will show implementation of `First & Last` from Working With Strings and Integers challenge. 
-4) Second person will show implementation of `Names` from Working With Strings and Integers challenge. 
-5) First person will show implementation of `People` from Working With Strings and Integers challenge. 
-6) Second person will show implementation of `Happy Birthday` from Working With Strings and Integers challenge. 
+1. First person will choose two tests from `string_test.rb` that are confusing and discuss them with pair. 
+2. Second person will choose two tests from `fixnum_test.rb` that are confusing and discuss them with pair. 
+3. First person will show implementation of `First & Last` from Working With Strings and Integers challenge. 
+4. Second person will show implementation of `Names` from Working With Strings and Integers challenge. 
+5. First person will show implementation of `People` from Working With Strings and Integers challenge. 
+6. Second person will show implementation of `Happy Birthday` from Working With Strings and Integers challenge. 
 
 ### Echo: String and Integer Riddles (10:30 - 12:00)
 
