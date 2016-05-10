@@ -25,12 +25,12 @@ Meet with Meeka in Classroom C. You'll be working on a small challenge called Ec
 
 You'll be working in the following pairs:
 
- * Allan Blair & Adam Hundley
+ * Chelsea Johnson & Adam Hundley
  * Nick Weiland & David Whitaker
  * Brennan Holtzclaw & Nicholas Dorans
  * Erinna Chen & Taylor Moore
  * Scott Firestone & Adrienne Domingus
- * Brian Rippeto & Heidi Hoopes & Chelsea Johnson
+ * Brian Rippeto & Heidi Hoopes
  * Nate Venn & Julian Feliciano [At NREL]
  * July Tran & Kimiko Kano [At NREL]
 
@@ -48,11 +48,11 @@ Meet with Meeka in Classroom C.
 
 You'll be working in the following pairs:
 
- * Allan Blair & Heidi Hoopes
+ * Taylor Moore & Heidi Hoopes
  * Adam Hundley & Nick Weiland
  * David Whitaker & Brennan Holtzclaw
  * Nicholas Dorans & Erinna Chen
- * Taylor Moore & Scott Firestone & Chelsea Johnson
+ * Scott Firestone & Chelsea Johnson
  * Adrienne Domingus& Brian Rippeto
  * Nate Venn & Julian Feliciano [At NREL]
  * July Tran & Kimiko Kano [At NREL]
