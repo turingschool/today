@@ -19,7 +19,7 @@ layout: outline
 
 ### Challenge: Echo (9:00 - 9:30)
 
-Meet with Meeka in Classroom C. You'll be working on a small challenge called Echo.
+Meet with Meeka in Big Workspace. You'll be working on a small challenge called Echo.
 
 * [Echo](https://github.com/turingschool/challenges/blob/master/echo.markdown)
 
@@ -36,7 +36,7 @@ You'll be working in the following pairs:
 
 ### Array Prototype Methods (9:30 - 12:00)
 
-Stick around in Classroom C.
+Stick around in the Big Workspace.
 
 - [Clone down this repository][mdn]. You'll be using it all module.
 - We'll be working through [this lesson plan][apm].
