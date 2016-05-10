@@ -36,7 +36,7 @@ You'll be working in the following pairs:
 
 ### Array Prototype Methods (9:30 - 12:00)
 
-Meet with Meeka in Classroom C.
+Stick around in Classroom C.
 
 - [Clone down this repository][mdn]. You'll be using it all module.
 - We'll be working through [this lesson plan][apm].
@@ -65,10 +65,9 @@ You'll be working in the following pairs:
 
 - 1:00 - 1:20: Adam Hundley [and Louisa]
 - 1:20 - 1:40: Brian Rippeto [and Brenna]
-- 1:40 - 2:00: Allan Blair
-- 2:00 - 2:20: Adrienne Domingus
-- 2:40 - 3:00: Brennan Holtzclaw
-- 3:00 - 3:20: Nick Weiland
+- 1:40 - 2:00: Adrienne Domingus
+- 2:00 - 2:20: Brennan Holtzclaw
+- 2:40 - 3:00: Nick Weiland
 
 #### With Louisa
 
