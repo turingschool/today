@@ -91,17 +91,35 @@ Come to Classroom C to review some CRUD.
 
 Join Andrew in Classroom C to talk about Model Testing in CRUD
 
-### Templating with ERB (1:00 - 2:00)
-Join Jeff in Classroom C to talk about Templating in ERB
+### Templating with ERB (1:00 - 2:30)
 
-### Nokogiri (2:00 - 3:00)
+Jeff is sick and decided to keep his germs at home, boo! But you've got a sweet exercise on ERB waiting for you, yay!
 
-Join Jeff in Classroom C to talk about Nokogiri and all it's awesomeness.
+Go to Classroom C where you will:
 
-### Acceptance testing with Capybara (3:00 - 4:00 )
+* Sit with the pair listed below
+* Work together through the [Templating with ERB](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/templating_with_erb.markdown) lesson
+* In this exercise you're supposed to be lost and confused. Fight through. If you get
+stuck your pair is there to bail you out. If you get really stuck, ask another pair. If you get REALLY, REALLY stuck then Rachel is available for questions until 2pm.
 
-It's the homestretch! Come to Classroom C to talk about acceptance testing with Capybara 🐻.
+#### Pairings
 
+* Robert Jaeger & Jennifer Soden
+* Kerry Sheldon & Charles Kaminer
+* Ilana Corson & Anna Weisbrodt
+* Lucy Fox & Nick Pisciotta
+* Ryan Batty & Colin Osborn
+* Matt DesMarteau & Parker Phillips
+* Marcella Wigg & Brian Sayler
+* Christine Gamble & Erin Greenhalgh & Karina Gonzalez
+
+### Nokogiri (2:30 - 3:00)
+
+After you finish with ERB we'll have a short exercise to introduce you to Nokogiri.
+
+### Acceptance testing with Capybara (3:00 - 4:00)
+
+It's the homestretch! Stay in Classroom C to talk about acceptance testing with Capybara 🐻 and Andrew.
 
 ## 1605
 
