@@ -8,7 +8,6 @@ layout: outline
 
 **turpitude** - _noun_ - vile, shameful, or base character; depravity
 
-
 ## 1511
 
 ### Testing Ideabox Strategies (9:00 - 12:00)
@@ -101,6 +100,8 @@ It's the homestretch! Come to Classroom _ to talk about acceptance testing with 
 ## 1605
 
 ### All: Introducing Arrays (9:00 - 10:30)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays_and_hashes.markdown)
 
 Classroom A with Horace.
 
