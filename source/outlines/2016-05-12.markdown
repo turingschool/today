@@ -6,6 +6,33 @@ layout: outline
 
 **margaritaceous** - _adjective_ - resembling mother-of-pearl; pearly
 
+### Lunch Roulette Groups
+
+* Ben Pepper, Karina Gonzalez, Admir Draganovic, Horace
+* Ryan Flack, Alex Navarrete, Erinna Chen, Rachel
+* Michael Lane Winham, Matt DesMarteau, Alireza Andersen, Jeff
+* Chelsea Johnson, Nick Pisciotta, Nicole Marino, Nate
+* Erin Greenhalgh, Ashwin Rao, Kimiko Kano, Josh
+* Nick Weiland, Lucy Fox, Jason Hanna, Meeka
+* Luigi Aversano, Christopher Soden, Taylor Moore, Louisa
+* Claudia Kiesenhofer, Marcella Wigg, Trent Whitinger, Allison
+* Deborah Hamel, Scott Firestone, Christine Gamble, Joanne
+* Julian Feliciano, Kerry Sheldon, Caleb Cowen, Brenna
+* Nicholas Dorans, Brian Sayler, Raphael Barbo, Jorge
+* Yoseph Anderson, Allan Blair, Ilana Corson, Jared Roth
+* Jennifer Soden, July Tran, Jeneve Parrish, Linda McCartney
+* Jonathan Bernesser, Patrick Wentz, David Whitaker, Parker Phillips
+* Jonathan Liss, Angela Lindow, Ryan Batty, Adrienne Domingus
+* Adam Hundley, Matthew Campbell, Anna Weisbrodt, Joshua Washke
+* Charles Kaminer, Christopher Concannon, Brennan Holtzclaw,
+* Kris Foss, Heidi Hoopes, Zachary Forbing, Hedy Woo
+* Ling Tran, Tommasina Miller, Nate Venn, Gurusundesh Khalsa
+* Garrett Smestad, Marina Corona, Joshua Cohen, Andrew Thompson
+* Brandon Randall, Matt Pindell, Chad Ellison, Nate Anderson
+* Kris Sparks, Patrick Hardy, Robert Jaeger
+* Roberta Doyle, Sal Espinosa, Brian Rippeto
+* Thomas Pickett, David Tinianow, Sonia Gupta
+
 ## 1511
 
 ### Introduction to Object-Oriented JavaScript (9:00 - 10:30)
@@ -57,7 +84,7 @@ While Meeka & Louisa are doing code evals, you'll work through Steve's first pas
 ## 1602
 
 ### Project Work Time and One on Ones (9:00 - 12:00)
-Expect each meeting to be roughly 10 minutes.  
+Expect each meeting to be roughly 10 minutes.
 If we don't get to everyone we'll reschedule for a later date.
 
 #### With Brenna
@@ -93,19 +120,19 @@ If we don't get to everyone we'll reschedule for a later date.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Come meet with your client in this order:  
+Come meet with your client in this order:
 (Times are approximate)
 
-#### With Josh  
-- 1:00 - Kris, Hedy, Jonathan Liss, Jared  
-- 1:40 - Jonathan Bernesser, Chris, Sal, Chad  
-- 2:20 - Ashwin, Patrick, Josh  
-- 3:00 - Mark, Thomas, Kami  
+#### With Josh
+- 1:00 - Kris, Hedy, Jonathan Liss, Jared
+- 1:40 - Jonathan Bernesser, Chris, Sal, Chad
+- 2:20 - Ashwin, Patrick, Josh
+- 3:00 - Mark, Thomas, Kami
 
-#### With Nate  
-- 1:00 - Ling, Ali, Alex, Claudia  
-- 1:40 - Jeneve, Drew, Sunny  
-- 2:20 - Admir, Matt, Marina  
+#### With Nate
+- 1:00 - Ling, Ali, Alex, Claudia
+- 1:40 - Jeneve, Drew, Sunny
+- 2:20 - Admir, Matt, Marina
 
 ## 1603
 
