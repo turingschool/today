@@ -27,6 +27,7 @@ Please [fork this gist][cfu4] and add your scores as we go along.
 Meet with Meeka in Classroom B. You'll be introduced to some ways to unit test JavaScript in Rails.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+[Second Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/full_stack_integration_testing_with_selenium.markdown)
 
 ### Project Work Time and Check In Overflow (1:00 - 4:00)
 
