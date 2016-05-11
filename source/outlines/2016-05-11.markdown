@@ -101,6 +101,7 @@ Go to Classroom C where you will:
 * Work together through the [Templating with ERB](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/templating_with_erb.markdown) lesson
 * In this exercise you're supposed to be lost and confused. Fight through. If you get
 stuck your pair is there to bail you out. If you get really stuck, ask another pair. If you get REALLY, REALLY stuck then Rachel is available for questions until 2pm.
+* If you aren't able to finish by 2:30, please finish for homework
 
 #### Pairings
 
