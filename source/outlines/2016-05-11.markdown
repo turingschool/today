@@ -16,7 +16,9 @@ Meet with Meeka & Louisa in Classroom B.
 
 #### 9:00 to 9:45: Peer Reviews
 
-Meet up in the following groups to peer review the different strategies you've used so far in your IdeaBox projects to test. Plan to spend ~10 minutes on each project
+Meet up in the following groups to peer review your implementations of IdeaBox so far. Focus specifically on testing strategies that you've used so far.
+
+Plan to spend ~10 minutes on each project
 
 * Erinna Chen & Adam Hundley & Nick Weiland
 * Adrienne Domingus & Julian Feliciano & David Whitaker
