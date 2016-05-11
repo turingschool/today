@@ -60,7 +60,7 @@ Meet back up with your testing groups above and work (as a group or individually
 
 ### Multi Tenancy Authorization (9:00 - 12:00)
 
-Big Workspace.  
+Big Workspace.
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.md)
 
 ### Project Work Time (1:00 - 4:00)
@@ -121,4 +121,30 @@ Work away on ye projects.
 
 ### Foxtrot: Drills Check Ins (1:00 - 4:00)
 
-TBD
+#### With Horace
+
+* 1:00 - Ben Pepper
+* 1:10 - David Tinianow
+* 1:20 - Garrett Smestead
+* 1:30 - Yoseph Anderson
+* 1:40 - Jason Hanna
+* 1:50 - Kris Sparks
+
+#### With Mike
+
+* 1:00 - Matthew Campbell
+* 1:10 - Nate Anderson
+* 1:20 - Raphael Barbo
+* 1:30 - Zachary Forbing
+* 1:40 - Linda McCartney
+* 1:50 - Luigi Aversano
+* 2:00 - Angela Lindow
+
+
+#### With Rachel
+
+* 2:30 - Caleb Cowen
+* 2:40 - Brandon Randall
+* 2:50 - Josh Cohen
+* 3:00 - Patrick Wentz
+
