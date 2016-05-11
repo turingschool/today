@@ -118,6 +118,12 @@ stuck your pair is there to bail you out. If you get really stuck, ask another p
 
 After you finish with ERB we'll have a short exercise to introduce you to Nokogiri.
 
+Continue with the same pair to work through [this short tutorial & exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_nokogiri.markdown) that'll help you get started with the tool.
+
+The hardest part might be getting Nokogiri installed, unfortunately. It can take
+different steps on different machines depending on other things you've installed
+before. Please help each other out with some debugging and reading the error messages.
+
 ### Acceptance testing with Capybara (3:00 - 4:00)
 
 It's the homestretch! Stay in Classroom C to talk about acceptance testing with Capybara 🐻 and Andrew.
