@@ -1,0 +1,90 @@
+---
+title: 20160519
+layout: outline
+---
+
+## All
+
+**hugger-mugger** - _noun_ - a disorderly jumble; muddle; confusion
+
+
+## 1511
+
+### Currying and Partial Applications (9:00 - 10:30)
+
+Classroom B.
+
+### Recursion and Generators (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1602
+
+### Project Work Time (9:00 - 12:00)
+
+Put the finishing touches on your project, you can do it.
+
+I believe in you.
+
+### The Pivot Evals (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### View Templating in Sinatra (9:00 - 10:30)
+
+Classroom C.
+
+### Rush Hour Work Time (9:00 - 12:00)
+
+Work away.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Echo: Pattern Generator Exercise (9:00 - 11:30)
+
+Do this while youre not being evaluated and have finished the diagnostic.
+
+### Foxtrot: Wizarding Bank (9:00 - 11:30)
+
+Do this while youre not being evaluated and have finished the diagnostic.
+
+### Project Evaluations (9:00 - 11:30)
+
+Schedule TBD.
+
+### All: Diagnostic Recap (1:00 - 1:30)
+
+Classroom A.
+
+### Foxtrot: Working With Files (1:30 - 3:00)
+
+Classroom A.
+
+### Foxtrot: Understanding Enigma (3:00 - 4:00)
+
+Classroom B.
+
+### Foxtrot: Understanding Night Writer (3:00 - 4:00)
+
+Classroom A.
+
+### Echo: Intro to Sorting and Sorting Suite Kickoff (1:30 - 3:00)
+
+Classroom B.
+
+### Echo: Project Work Time (3:00 - 4:00)
+
+Work
