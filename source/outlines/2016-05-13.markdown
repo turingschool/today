@@ -69,8 +69,6 @@ Big Workspace - TBA.
 * 1603 - Classroom C
 * 1605 - Classroom A
 
->>>>>>> 48c92ace2c1c490b8c9a158f20a8fbed71845e35
-
 ## 1511
 
 ### Job Hunting Assignment (9:00 - 10:30)
