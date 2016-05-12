@@ -4,12 +4,58 @@ layout: outline
 ---
 ## All
 
+**obviate** - _verb_ - to anticipate and prevent or eliminate difficulties,
+disadvantages, etc., by effective measures.
+
 ### Weekly Surveys
 
 * [1511]()
 * [1602](https://docs.google.com/forms/d/1ePkZO9Fchf12CJjBhhnrK9vhEudNPVVDkb0Xvdv65IM/viewform)
 * [1603]()
-* [1605]()
+* [1605](http://goo.gl/forms/SkTo2i6VM6)
+
+### Guest Speaker (9:00 - 10:00)
+
+### Academic Time (10:00 - 11:30)
+
+### Gear Up (11:30 - 12:30)
+
+Big Workspace - TBA.
+
+### Lunch Roulette
+
+* Ben Pepper, Karina Gonzalez, Admir Draganovic, Horace
+* Nate Anderson, Alex Navarrete, Andrew Thompson, Rachel
+* Michael Lane Winham, Matt DesMarteau, Alireza Andersen, Jeff
+* Chelsea Johnson, Nick Pisciotta, Nicole Marino, Nate
+* Erin Greenhalgh, Ashwin Rao, Kimiko Kano, Josh
+* Nick Weiland, Lucy Fox, Jason Hanna, Meeka
+* Luigi Aversano, Christopher Soden, Taylor Moore, Louisa
+* Claudia Kiesenhofer, Marcella Wigg, Trent Whitinger, Allison
+* Deborah Hamel, Scott Firestone, Christine Gamble, Joanne
+* Julian Feliciano, Kerry Sheldon, Caleb Cowen, Brenna
+* Nicholas Dorans, Brian Sayler, Raphael Barbo, Jorge
+* Yoseph Anderson, Allan Blair, Ilana Corson, Jared Roth
+* Jennifer Soden, July Tran, Jeneve Parrish, Linda McCartney
+* Jonathan Bernesser, Patrick Wentz, David Whitaker, Parker Phillips
+* Jonathan Liss, Angela Lindow, Ryan Batty, Adrienne Domingus
+* Adam Hundley, Matthew Campbell, Anna Weisbrodt, Joshua Washke
+* Charles Kaminer, Christopher Concannon, Brennan Holtzclaw,
+* Kris Foss, Heidi Hoopes, Zachary Forbing, Hedy Woo
+* Ling Tran, Tommasina Miller, Nate Venn, Gurusundesh Khalsa
+* Garrett Smestad, Marina Corona, Joshua Cohen,
+* Brandon Randall, Matt Pindell, Chad Ellison,
+* Kris Sparks, Patrick Hardy, Robert Jaeger
+* Roberta Doyle, Sal Espinosa, Brian Rippeto
+* Thomas Pickett, David Tinianow, Sonia Gupta
+
+### Group Retro (1:30 - 2:30)
+
+* 1511 - Big Workspace
+* 1602 - Classroom B
+* 1603 - Classroom C
+* 1605 - Classroom A
+
 
 ## 1511
 
