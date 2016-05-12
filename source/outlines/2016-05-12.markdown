@@ -115,19 +115,19 @@ Come meet with your client in this order:
 
 [What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
-Classroom C.
+Classroom B.
 
 ### SQL (9:00 - 10:30)
 
-Classroom C.
+Classroom B.
 
 ### Intro to Sequel (10:30 - 12:00)
 
-Prepare yourselves for the greatest joke you ever will hear.
+Join Jeff in classroom B to learn about Sequel.
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-Classroom C.
+Work time! Transform those task managers. 
 
 
 ## 1605
