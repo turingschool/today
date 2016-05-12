@@ -4,6 +4,7 @@ layout: outline
 ---
 ## All
 
+
 **obviate** - _verb_ - to anticipate and prevent or eliminate difficulties,
 disadvantages, etc., by effective measures.
 
@@ -11,16 +12,24 @@ disadvantages, etc., by effective measures.
 
 * [1511]()
 * [1602](https://docs.google.com/forms/d/1ePkZO9Fchf12CJjBhhnrK9vhEudNPVVDkb0Xvdv65IM/viewform)
-* [1603]()
+* [1603](https://docs.google.com/forms/d/1-mAcUDRf6IT9rdb9QslXn9G_sZR6yPEEF2YE3H-U0B0/viewform)
 * [1605](http://goo.gl/forms/SkTo2i6VM6)
 
 ### Guest Speaker (9:00 - 10:00)
 
 ### Academic Time (10:00 - 11:30)
-* 1511 - Classroom C
-* 1602 - Classroom B
-* 1603 - Classroom A
-* 1605 - Big Workspace
+
+#### 1511 - Classroom C
+
+#### 1602 - Classroom B
+
+#### 1603 - Classroom A
+
+#### 1605 - Big Workspace
+
+* [Finding Answers to Programming Questions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/finding_answers_to_programming_questions.markdown) with Rachel
+* [Traits Self-Assessment](https://docs.google.com/a/casimircreative.com/forms/d/1mpvN12nKOCuk5lO2yO7GL9Lh9UCE0M6J7iKLY5gONSs/viewform)
+* If time permits: Drills Work Time
 
 ### Gear Up (11:30 - 12:30)
 
@@ -60,7 +69,6 @@ Big Workspace - TBA.
 * 1603 - Classroom C
 * 1605 - Classroom A
 
-
 ## 1511
 
 ### Job Hunting Assignment (9:00 - 10:30)
@@ -77,6 +85,9 @@ This weekend, please complete the following assignment:
 
 [sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
 
-## Posse & Passion Work Time
+## Choose Your Own Adventure Time
 
 * Code under pressure with Nick W.
+* Christine Gamble & July Tran - Mapping for Developers
+* Erin Greenhalgh and Jennifer Soden - How, why and when to use Pry
+* Brian Sayler & Charles Kaminer - Intro to 3D printing
