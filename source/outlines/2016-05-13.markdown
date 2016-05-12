@@ -18,10 +18,18 @@ disadvantages, etc., by effective measures.
 ### Guest Speaker (9:00 - 10:00)
 
 ### Academic Time (10:00 - 11:30)
-* 1511 - Classroom C
-* 1602 - Classroom B
-* 1603 - Classroom A
-* 1605 - Big Workspace
+
+#### 1511 - Classroom C
+
+#### 1602 - Classroom B
+
+#### 1603 - Classroom A
+
+#### 1605 - Big Workspace
+
+* [Finding Answers to Programming Questions](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/finding_answers_to_programming_questions.markdown) with Rachel
+* [Traits Self-Assessment](https://docs.google.com/a/casimircreative.com/forms/d/1mpvN12nKOCuk5lO2yO7GL9Lh9UCE0M6J7iKLY5gONSs/viewform)
+* Drills Work Time
 
 ### Gear Up (11:30 - 12:30)
 
