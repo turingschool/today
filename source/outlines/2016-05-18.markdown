@@ -1,0 +1,66 @@
+---
+title: 20160518
+layout: outline
+---
+
+## All
+
+**comity** - _noun_ - a state of mutual harmony, friendship, and respect,
+especially between nations or people; civility
+
+
+## 1511
+
+### Functions in JavaScript (9:00 - 10:30)
+
+Classroom B.
+
+### Events in JavaScript (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+
+## 1602
+
+### Project Work Time (ALL DAY)
+
+Yes.
+
+
+## 1603
+
+### Using Rack::Test in Sinatra (9:00 - 10:30)
+
+Classroom C.
+
+### Controller Testing Experiments (10:30 - 12:00)
+
+Classroom C.
+
+### One on Ones and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### All: Dynamics (9:00 - 9:30)
+
+Classroom A.
+
+### All: Ruby Object Model (9:30 - 12:00)
+
+Classroom A.
+
+### Foxtrot: Reading Files (1:00 - 1:30)
+
+Classroom A.
+
+### All: Project Work Time (1:00 - 4:00)
+
+Work
+
