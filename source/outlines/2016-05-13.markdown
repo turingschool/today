@@ -85,6 +85,9 @@ This weekend, please complete the following assignment:
 
 [sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
 
-## Posse & Passion Work Time
+## Choose Your Own Adventure Time
 
 * Code under pressure with Nick W.
+* Christine Gamble & July Tran - Mapping for Developers
+* Erin Greenhalgh and Jennifer Soden - How, why and when to use Pry
+* Brian Sayler & Charles Kaminer - Intro to 3D printing
