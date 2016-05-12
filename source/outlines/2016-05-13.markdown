@@ -4,6 +4,13 @@ layout: outline
 ---
 ## All
 
+### Weekly Surveys
+
+* [1511]()
+* [1602](https://docs.google.com/forms/d/1ePkZO9Fchf12CJjBhhnrK9vhEudNPVVDkb0Xvdv65IM/viewform)
+* [1603]()
+* [1605]()
+
 ## 1511
 
 ### Job Hunting Assignment (9:00 - 10:30)
