@@ -23,6 +23,8 @@ disadvantages, etc., by effective measures.
 
 #### 1602 - Classroom B
 
+Join your Mod 3 instructors for the [Re-DTR](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/re-dtr.md)
+
 #### 1603 - Classroom A
 
 #### 1605 - Big Workspace
