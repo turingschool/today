@@ -129,7 +129,6 @@ Join Jeff in classroom B to learn about Sequel.
 
 Work time! Transform those task managers. 
 
-
 ## 1605
 
 ### All: Essential Enumerables - Map, Select, Find (9:00 - 10:30)
