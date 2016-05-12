@@ -62,7 +62,8 @@ Please fill out [this survey](http://goo.gl/forms/aYkJgY1ci3) to schedule an Ide
 Expect each meeting to be roughly 10 minutes.
 If we don't get to everyone we'll reschedule for a later date.
 
-#### With Brenna
+#### With Brenna  
+
 - Joshua Washke
 - Admir Draganovic
 - Jonathan Liss
@@ -72,16 +73,10 @@ If we don't get to everyone we'll reschedule for a later date.
 - Chad Ellison
 - Jeneve Parrish
 - Ling Tran
-
-#### With Josh
 - Patrick Hardy
 - Marina Corona
 - Claudia Kiesenhofer
 - Andrew Thompson
-- Christopher Sodens
-- Jonathan Bernesser
-- Sal Espinosa
-- Alex Navarrete
 
 #### With Nate
 - Alireza Andersen
@@ -92,6 +87,11 @@ If we don't get to everyone we'll reschedule for a later date.
 - Gurusundesh Khalsa
 - Thomas Pickett
 - Hedy Woo
+- Christopher Sodens
+- Jonathan Bernesser
+- Sal Espinosa
+- Alex Navarrete
+
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
@@ -127,7 +127,7 @@ Join Jeff in classroom B to learn about Sequel.
 
 ### Task Manager Transformation with Sequel (1:00 - 4:00)
 
-Work time! Transform those task managers. 
+Work time! Transform those task managers.
 
 
 ## 1605
