@@ -10,7 +10,7 @@ disadvantages, etc., by effective measures.
 
 ### Weekly Surveys
 
-* [1511]()
+* [1511](https://docs.google.com/forms/d/1CzQO0p2ZbAcdWmD9Rk5m0nLvR4DwRSK5g3jlepcIC4o/viewform)
 * [1602](https://docs.google.com/forms/d/1ePkZO9Fchf12CJjBhhnrK9vhEudNPVVDkb0Xvdv65IM/viewform)
 * [1603](https://docs.google.com/forms/d/1-mAcUDRf6IT9rdb9QslXn9G_sZR6yPEEF2YE3H-U0B0/viewform)
 * [1605](http://goo.gl/forms/SkTo2i6VM6)
@@ -20,6 +20,21 @@ disadvantages, etc., by effective measures.
 ### Academic Time (10:00 - 11:30)
 
 #### 1511 - Classroom C
+
+- Complete the [following assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/job-hunting-assignment.markdown).
+
+- Store the data in a private gist or a google drive spreadsheet (so that it can be shared)
+
+- [Respond to this Survey](http://goo.gl/forms/mXUP04Paob)
+
+### Homework
+
+This weekend, please complete the following assignment:
+
+- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
+
+[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
+
 
 #### 1602 - Classroom B
 
@@ -70,22 +85,6 @@ Big Workspace - TBA.
 * 1602 - Classroom B
 * 1603 - Classroom C
 * 1605 - Classroom A
-
-## 1511
-
-### Job Hunting Assignment (9:00 - 10:30)
-
-Meet with Meeka in Classroom C to talk Job Stalking
-
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/job-hunting-assignment.markdown)
-
-### Homework
-
-This weekend, please complete the following assignment:
-
-- Watch [Sorting Algorithms in JavaScript](https://www.youtube.com/watch?v=uRyqlhjXYQI) and then fork [this gist][sort] and respond the question. (3 points)
-
-[sort]: https://gist.github.com/stevekinney/9e9cfeb225c8133fda73
 
 ## Choose Your Own Adventure Time
 
