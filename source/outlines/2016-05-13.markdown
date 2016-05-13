@@ -56,13 +56,13 @@ Big Workspace - TBA.
 
 * Ben Pepper, Karina Gonzalez, Admir Draganovic, Horace
 * Nate Anderson, Alex Navarrete, Andrew Thompson, Rachel
-* Michael Lane Winham, Matt DesMarteau, Alireza Andersen, Jeff
+* Michael Lane Winham, Matt DesMarteau, Alireza Andersen
 * Chelsea Johnson, Nick Pisciotta, Nicole Marino, Nate
 * Erin Greenhalgh, Ashwin Rao, Kimiko Kano, Josh
 * Nick Weiland, Lucy Fox, Jason Hanna, Meeka
 * Luigi Aversano, Christopher Soden, Taylor Moore, Louisa
 * Claudia Kiesenhofer, Marcella Wigg, Trent Whitinger, Allison
-* Deborah Hamel, Scott Firestone, Christine Gamble, Joanne
+* Scott Firestone, Christine Gamble, Gurusundesh Khalsa, Joanne
 * Julian Feliciano, Kerry Sheldon, Caleb Cowen, Brenna
 * Nicholas Dorans, Brian Sayler, Raphael Barbo, Jorge
 * Yoseph Anderson, Allan Blair, Ilana Corson, Jared Roth
@@ -72,7 +72,7 @@ Big Workspace - TBA.
 * Adam Hundley, Matthew Campbell, Anna Weisbrodt, Joshua Washke
 * Charles Kaminer, Christopher Concannon, Brennan Holtzclaw,
 * Kris Foss, Heidi Hoopes, Zachary Forbing, Hedy Woo
-* Ling Tran, Tommasina Miller, Nate Venn, Gurusundesh Khalsa
+* Ling Tran, Tommasina Miller, Nate Venn,
 * Garrett Smestad, Marina Corona, Joshua Cohen,
 * Brandon Randall, Matt Pindell, Chad Ellison,
 * Kris Sparks, Patrick Hardy, Robert Jaeger
