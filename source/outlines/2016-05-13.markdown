@@ -50,7 +50,7 @@ Join your Mod 3 instructors for the [Re-DTR](https://github.com/turingschool/les
 
 ### Gear Up (11:30 - 12:30)
 
-Big Workspace - TBA.
+[Ageism](https://github.com/turingschool/gear-up/blob/master/ageism_in_tech.markdown)
 
 ### Lunch Roulette
 
