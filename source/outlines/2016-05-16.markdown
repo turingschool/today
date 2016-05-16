@@ -25,6 +25,8 @@ Classroom C.
 - [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 - [Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
 
+#### Groups
+
 * Erinna Chen & Adrienne Domingus
 * Nick Weiland
 * Heidi Hoopes & Brennan Holtzclaw
@@ -37,6 +39,16 @@ Classroom C.
 
 ### Project Work Time (2:30- 4:00)
 
+#### With Meeka
+
+- 2:30 - 3:00: Allan & Nick
+- 3:00: Scott (Ideabox Eval)
+
+#### With Louisa
+
+- 2:30: July Tran
+- 3:00: Heidi Hoopes
+- 3:30: Brian Rippeto
 
 ## 1602
 
