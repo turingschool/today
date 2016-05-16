@@ -3,6 +3,8 @@
 * Matt Pindell - Rust
 * Admir Dragonovic - ?
 * Marina Corona - ? 
+* Anna Weisbrodt - Apple v. FBI
+* Colin Osborn - How Formula 1 technology is creating cleaner cars for the public
 
 
 ## Choose Your Own Adventure Time
