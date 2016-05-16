@@ -14,9 +14,26 @@ expected.
 
 Classroom C.
 
+[Lesson Plan Part 1](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+[Lesson Plan Part 2](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
+
 ### Game Time Kickoff - BuildPack Overview (1:00 - 2:30)
 
 Classroom C.
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+- [Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+
+* Erinna Chen & Adrienne Domingus
+* Nick Weiland
+* Heidi Hoopes & Brennan Holtzclaw
+* Brian Rippeto & David Whitaker
+* July Tran & Chelsea Johnson
+* Nate Venn & Adam Hundley
+* Kimiko Kano & Scott Firestone
+* Julian Feliciano & Allan Blair
+* Nicholas Dorans & Taylor Moore
 
 ### Project Work Time (2:30- 4:00)
 
