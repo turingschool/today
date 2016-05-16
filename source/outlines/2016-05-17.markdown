@@ -12,14 +12,13 @@ charitable donations.
 
 Classroom C.
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+### Project Work Time and Check Ins (1:00 - 4:00)  
 
 Schedule TBD
 
-
 ## 1602
 
-### Fundamenal Rails Security (9:00 - 10:30)
+### Fundamental Rails Security (9:00 - 10:30)
 
 Classroom B.
 
@@ -29,7 +28,15 @@ You've changed.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
+  - 1:00 -  Mark, Thomas, Kami
+  - 1:40 - Jonathan Bernesser, Chris, Sal, Chad
+  - 2:20 - Ashwin, Patrick, Josh
+  - 3:00 - Kris, Hedy, Jonathan Liss, Jared
+
+#### With Nate
+  - 1:00 - Jeneve, Drew, Sunny
+  - 1:40 - Ling, Ali, Alex, Claudia
 
 
 ## 1603
@@ -60,5 +67,3 @@ Classroom A.
 ### All: Work Time (2:00 - 4:00)
 
 Push forward on your projects.
-
-
