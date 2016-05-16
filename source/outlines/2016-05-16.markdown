@@ -8,6 +8,8 @@ layout: outline
 **supererogatory** - _adjective_ - going beyond what is required or
 expected.
 
+*TODAY IS MARY CUTRALI DAY*
+
 ## 1511
 
 ### Object-Oriented JavaScript with HTML5 Canvas (9:00 - 12:00)
