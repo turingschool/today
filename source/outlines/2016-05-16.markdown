@@ -76,6 +76,8 @@ Start with Jeff in the Big Workspace to talk about your work.
 
 Then Jeff will continue with you in the Big Workspace to talk about ActiveRecord.
 
+[Here's the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown).
+
 ### Intro to Project Management (1:00 - 2:30)
 
 Jorge will talk about PMing in Classroom B.
