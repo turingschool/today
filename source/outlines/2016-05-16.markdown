@@ -77,7 +77,7 @@ Classroom A.
 
 ### All: How Testing Works and Intro to TDD (10:30 - 12:00)
 
-Classroom A.
+Classroom A with Rachel. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown). 
 
 ### All: Problems, Solutions, and Algorithms (1:00 - 2:30)
 
@@ -87,8 +87,10 @@ Classroom A.
 
 Staff table with Mike
 
-### Foxtrot: Ruby Mini Project Prep / Project Kickoff (2:30 - 4:00)
+### Foxtrot: Flashcards Project Prep / Project Kickoff (2:30 - 4:00)
 
-Classroom A.
+We're kicking off your first project today: [Flashcards](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown). 
+
+Join Rachel in Classroom A to talk about writing programs with multiple objects and then get started on the first project. 
 
 
