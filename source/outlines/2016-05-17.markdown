@@ -12,7 +12,7 @@ charitable donations.
 
 Classroom C.
 
-### Project Work Time and Check Ins (1:00 - 4:00)
+### Project Work Time and Check Ins (1:00 - 4:00)  
 
 Schedule TBD
 
@@ -22,7 +22,13 @@ Schedule TBD
 
 ## 1602
 
-### Fundamenal Rails Security (9:00 - 10:30)
+### Fundamental Rails Security (9:00 - 10:30)
+
+A few tasks to run through ​*before*​ class:
+
+1. Clone and run through the “Up and Running” heading for [this repo](https://github.com/turingschool-examples/store_engine). Make sure the app is running on your machine before class.
+2. Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+3. Install [Postman](https://www.getpostman.com/).
 
 Classroom B.
 
@@ -32,7 +38,15 @@ You've changed.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
+  - 1:00 -  Mark, Thomas, Kami
+  - 1:40 - Jonathan Bernesser, Chris, Sal, Chad
+  - 2:20 - Ashwin, Patrick, Josh
+  - 3:00 - Kris, Hedy, Jonathan Liss, Jared
+
+#### With Nate
+  - 1:00 - Jeneve, Drew, Sunny
+  - 1:40 - Ling, Ali, Alex, Claudia
 
 
 ## 1603
