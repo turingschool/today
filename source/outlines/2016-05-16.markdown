@@ -70,19 +70,19 @@ Classroom B.
 
 ### Project Review (9:00 - 9:30)
 
-Big Workspace.
+Start with Jeff in the Big Workspace to talk about your work.
 
-### Intro to ActiveRecrod with Sinatra (9:30 - 12:00)
+### Intro to ActiveRecord with Sinatra (9:30 - 12:00)
 
-Big Workspace
+Then Jeff will continue with you in the Big Workspace to talk about ActiveRecord.
 
 ### Intro to Project Management (1:00 - 2:30)
 
-Classroom B.
+Jorge will talk about PMing in Classroom B.
 
 ### Rush Hour Kickoff (2:30 - 4:00)
 
-Classroom B.
+Jhun will help you start your new project in Classroom B.
 
 
 ## 1605
