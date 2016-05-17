@@ -14,3 +14,4 @@
 * Erinna Chen - Testing Ruby
 * Jon Liss - Intro to Python
 * Pahlka Posse - Posse Work Time
+* Ryan Batty - Z-Shell & Sublime Text
