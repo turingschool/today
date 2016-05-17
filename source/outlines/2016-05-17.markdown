@@ -12,9 +12,29 @@ charitable donations.
 
 Classroom C.
 
+[Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey)
+
 ### Project Work Time and Check Ins (1:00 - 4:00)  
 
-Schedule TBD
+### With Meeka
+
+* 1:15 - 1:45: Heidi Hoopes & Brennan Holtzclaw & Nate Venn [With Louisa] [GT]
+* 1:45 - 2:15: Nick Weiland & Adam Hundley [GT]
+* 2:15 - 2:45: July Tran & Chelsea Johnson [GT]
+* 2:45 - 3:15: Kimiko Kano & Scott Firestone [GT]
+
+### With Louisa
+
+* 1:45 - 2:15: Erinna Chen & Adrienne Domingus [GT]
+* 2:45: Adam Hundley [IdeaBox Eval]
+* 3:05: David Whitaker [IdeaBox Eval]
+* 3:25: Kimiko Kano [IdeaBox Eval]
+
+### With Brenna
+
+* 1:15 - 1:45: Julian Feliciano & Allan Blair [GT]
+* 1:45 - 2:15: Nicholas Dorans & Taylor Moore [GT]
+* 2:15 - 2:45: Brian Rippeto & David Whitaker [GT]
 
 ### Homework
 
