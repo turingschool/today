@@ -8,11 +8,9 @@ charitable donations.
 
 ## 1511
 
-### Testing Game Time (9:00 - 12:00)
+### Project Work Time (9:00 - 12:00)
 
-Classroom C.
-
-[Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey)
+Spike on some gamez!
 
 ### Project Work Time and Check Ins (1:00 - 4:00)  
 
