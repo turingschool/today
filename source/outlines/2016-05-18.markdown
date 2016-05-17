@@ -58,7 +58,7 @@ Classroom A.
 
 ### Foxtrot: Reading Files (1:00 - 1:30)
 
-Classroom A.
+Classroom A with Rachel. Find the material [here](http://rwarbelow.github.io/ruby-and-apis/reading-from-files). 
 
 ### All: Project Work Time (1:00 - 4:00)
 
