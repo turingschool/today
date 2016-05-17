@@ -53,6 +53,14 @@ Classroom C.
 
 ## 1602
 
+### Prep for Tomorrow
+
+A few tasks to run through ​*before*​ class tomorrow:
+
+1. Clone and run through the “Up and Running” heading for [this repo](https://github.com/turingschool-examples/store_engine). Make sure the app is running on your machine before class.
+2. Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+3. Install [Postman](https://www.getpostman.com/).
+
 ### Traversing the DOM with jQuery (9:00 - 10:30)
 
 Classroom B.
@@ -83,8 +91,15 @@ Then Jeff will continue with you in the Big Workspace to talk about ActiveRecord
 Jorge will talk about PMing in Classroom B.
 
 ### Rush Hour Kickoff (2:30 - 4:00)
+YUNG-Jhun will help you start your new project in Classroom B. Your groups will be as follows.
 
-Jhun will help you start your new project in Classroom B.
+* Anna Weisbrodt & Ryan Batty & Charles Kaminer
+* Christine Gamble & Parker Phillips & Brian Sayler
+* Lucy Fox & Ilana Corson &  Erin Greenhalgh
+* Robert Jaeger & Marcella Wigg & Jennifer Soden
+* Nick Pisciotta & Karina Gonzalez &Colin Osborn
+* Kerry Sheldon & Matt DesMarteau
+
 
 
 ## 1605
