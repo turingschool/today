@@ -12,4 +12,5 @@
 ## Choose Your Own Adventure Time
 
 * Erinna Chen - Testing Ruby
-* 
+* Jon Liss - Intro to Python
+* Pahlka Posse - Posse Work Time
