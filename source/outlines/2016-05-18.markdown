@@ -46,16 +46,37 @@ Yes.
 
 ### Using Rack::Test in Sinatra (9:00 - 10:30)
 
-Classroom C.
+Head over to Classroom C for some major 🔑's to success. We'll be learning about Rack testing and all of its goodness.
 
 ### Controller Testing Experiments (10:30 - 12:00)
 
-Classroom C.
+It's your turn to implement some of these YUNG controller tests. Find the repo [here](https://github.com/Carmer/controller_testing)
 
 ### One on Ones and Project Work Time (1:00 - 4:00)
+I mean the title kinda says it all...
+#### Jeff.
 
-Schedule TBD.
+1:00:Matt DesMarteau
+1:15: Ilana Corson
+1:30: Karina Gonzalez
+1:45: Anna Weisbrodt
+#### Andrew
 
+1:00: Brian Sayler
+1:15: Erin Greenhalgh
+1:30: Jennifer Soden
+1:45: Kerry Sheldon
+2:00: Marcella Wigg
+2:15: Ryan Batty
+
+#### YUNG-Jhun
+
+1:00: Charles Kaminer
+1:15: Colin Osborn
+1:30: Lucy Fox
+1:45: Parker Phillips
+2:00: Robert Jaeger
+2:15: Nick Pisciotta
 
 ## 1605
 
