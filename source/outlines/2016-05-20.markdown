@@ -1,7 +1,6 @@
 ## Lighting Talks
 
 * Matt Pindell - Rust
-* Admir Dragonovic - ?
 * Anna Weisbrodt - Apple v. FBI
 * Colin Osborn - How Formula 1 technology is creating cleaner cars for the public
 * Ashwin Rao - Intro to Employment Contracts
