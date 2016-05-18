@@ -11,5 +11,5 @@
 
 * Erinna Chen - Testing Ruby
 * Jon Liss - Intro to Python
-* Pahlka Posse - Posse Work Time
+* Pahlka Posse - Join Pahlka Posse for a Google Hangout with alumni Andrew Glass and Travis Valentine to hear about their experiences working in civic tech! After the Hangout, we will work on our housing app. All are welcome! (Horace's Lair)
 * Ryan Batty - Z-Shell & Sublime Text
