@@ -52,14 +52,21 @@ Head over to Classroom C for some major 🔑's to success. We'll be learning abo
 
 It's your turn to implement some of these YUNG controller tests. Find the repo [here](https://github.com/Carmer/controller_testing)
 
+or
+
+`git clone https://github.com/Carmer/controller_testing.git`
+
 ### One on Ones and Project Work Time (1:00 - 4:00)
+
 I mean the title kinda says it all...
+
 #### Jeff.
 
-1:00:Matt DesMarteau
+1:00: Matt DesMarteau
 1:15: Ilana Corson
 1:30: Karina Gonzalez
 1:45: Anna Weisbrodt
+
 #### Andrew
 
 1:00: Brian Sayler
