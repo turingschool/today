@@ -1,16 +1,15 @@
 ## Lighting Talks
 
 * Matt Pindell - Rust
-* Admir Dragonovic - ?
-* Marina Corona - ? 
 * Anna Weisbrodt - Apple v. FBI
 * Colin Osborn - How Formula 1 technology is creating cleaner cars for the public
 * Ashwin Rao - Intro to Employment Contracts
-* Kris Foss - Nutrition at Turing
 * Allan Blair - Professional Writing
 
 
 ## Choose Your Own Adventure Time
 
 * Erinna Chen - Testing Ruby
-* 
+* Jon Liss - Intro to Python
+* Pahlka Posse - Join Pahlka Posse for a Google Hangout with alumni Andrew Glass and Travis Valentine to hear about their experiences working in civic tech! After the Hangout, we will work on our housing app. All are welcome! (Horace's Lair)
+* Ryan Batty - Z-Shell & Sublime Text

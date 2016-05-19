@@ -7,21 +7,49 @@ layout: outline
 
 **hugger-mugger** - _noun_ - a disorderly jumble; muddle; confusion
 
-
 ## 1511
 
-### Currying and Partial Applications (9:00 - 10:30)
+### Custom Set Morning Warm Up (9:00 - 10:30)
 
 Classroom B.
 
-### Recursion and Generators (10:30 - 12:00)
+Work in the following groups to get 3 to 5 of the test cases in this [repo](https://github.com/rrgayhart/custom-set-exercism) passing.
+
+Submit your work [here](https://gist.github.com/rrgayhart/314700cf94ae758121ea9af8706dcfc0)
+
+If you get done early, challenge yourselves to implement the tests and code in Ruby.
+
+* Kimiko Kano & Nate Venn
+* David Whitaker & Adrienne Domingus
+* Allan Blair & Nick Weiland
+* July Tran & Brian Rippeto
+* Chelsea Johnson & Nicholas Dorans
+* Erinna Chen & Heidi Hoopes
+* Taylor Moore & Brennan Holtzclaw
+* Julian Feliciano & Adam Hundley & Scott Firestone
+
+### Thinking Function(ally) (10:30 - 12:00)
 
 Classroom B.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+### With Meeka
 
+* 1:15: Erinna Chen & Adrienne Domingus [GT]
+* 1:45 - 2:15: Nicholas Dorans & Taylor Moore [GT]
+
+### With Louisa
+
+* 1:15 - 1:45: Heidi Hoopes & Brennan Holtzclaw & Nate Venn [With Louisa] [GT]
+* 1:45 - 2:15: Brian Rippeto & David Whitaker [GT]
+* 2:15 - 2:45: Kimiko Kano & Scott Firestone [GT]
+
+### With Brenna
+
+* 1:15 - 1:45: Julian Feliciano & Allan Blair [GT]
+* 1:45 - 2:15: Nick Weiland & Adam Hundley [GT]
+* 2:15 - 2:45: July Tran & Chelsea Johnson [GT]
 
 ## 1602
 
@@ -33,14 +61,22 @@ I believe in you.
 
 ### The Pivot Evals (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
+  - 1:00 - Ashwin, Patrick, Josh
+  - 1:40 - Jonathan Bernesser, Chris, Sal, Chad
+  - 2:20 - Mark, Thomas, Kami
+  - 3:00 - Kris, Hedy, Jonathan Liss, Jared
 
+#### With Nate
+  - 1:00 - Jeneve, Drew, Sunny
+  - 1:40 - Admir, Matt, Marina
+  - 2:20 - Ling, Ali, Alex, Claudia
 
 ## 1603
 
 ### View Templating in Sinatra (9:00 - 10:30)
 
-Classroom C.
+Classroom C. [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sinatra_partial_arts.markdown).
 
 ### Rush Hour Work Time (9:00 - 12:00)
 
@@ -48,22 +84,67 @@ Work away.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+with Jeff:
+  * 1:00 - Kerry, Parker, Brian
+  * 1:45 - Robert, Marcella, Jennifer
 
+with Andrew:
+  * 1:00 - Anna, Ryan, Charles
+  * 1:45 - Nick, Karina, Colin
+
+with Jhun
+  * 1:00 - Lucy, Ilana, Erin
 
 ## 1605
 
 ### Echo: Pattern Generator Exercise (9:00 - 11:30)
 
-Do this while youre not being evaluated and have finished the diagnostic.
+Do this while you're not being evaluated and have finished the diagnostic.
 
 ### Foxtrot: Wizarding Bank (9:00 - 11:30)
 
-Do this while youre not being evaluated and have finished the diagnostic.
+Do this while you're not being evaluated and have finished the diagnostic.
 
 ### Project Evaluations (9:00 - 11:30)
 
-Schedule TBD.
+#### With Mike
+* 9:00 - Chris Concannon
+* 9:30 - Nicole Marino
+* 10:00 - Roberta Doyle
+* 10:30 - Ryan Flach
+* 11:00 - Trent Whitinger
+
+#### With Horace
+* 9:00 - Zachary Forbing
+* 9:40 - Sonia Gupta
+* 10:00 - Brandon Randall
+* 10:20 - Patrick Wentz
+* 10:40 - Jason Hanna
+* 11:00 - Tommasina Miller
+
+#### With Rachel
+* 9:00 - Nate Anderson
+* 9:20 - Michael Lane Winham
+* 9:40 - Josh Cohen
+* 10:00 - Ben Pepper
+* 10:20 - Luigi Aversano
+* 10:40 - Lin McCartney
+* 11:00 - Kris Sparks
+
+#### With Jhun
+* 9:00 - Garrett Smestead
+* 9:20 - Caleb Cowen
+* 10:00 - Raphael Barbo
+
+#### With Brenna
+* 9:00 - David Tinianow
+* 9:20 - Matthew Campbell
+* 9:40 - Angela Lindow
+
+#### With Nate
+* 9:00 - Yoseph Anderson
+
+
 
 ### All: Diagnostic Recap (1:00 - 1:30)
 
