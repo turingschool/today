@@ -32,6 +32,9 @@ If you get done early, challenge yourselves to implement the tests and code in R
 
 Classroom B.
 
+- [Lesson Plan 1](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
+- [Lesson Plan 2](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
 #### With Meeka
