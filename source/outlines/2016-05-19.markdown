@@ -13,7 +13,7 @@ layout: outline
 
 Classroom B.
 
-Work in the following groups to get the three test cases in this [repo](https://github.com/rrgayhart/custom-set-exercism) passing.
+Work in the following groups to get 3 to 5 of the test cases in this [repo](https://github.com/rrgayhart/custom-set-exercism) passing.
 
 Submit your work [here](https://gist.github.com/rrgayhart/314700cf94ae758121ea9af8706dcfc0)
 
