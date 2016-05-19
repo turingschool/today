@@ -24,9 +24,9 @@ If you get done early, challenge yourselves to implement the tests and code in R
 * Allan Blair & Nick Weiland
 * July Tran & Brian Rippeto
 * Chelsea Johnson & Nicholas Dorans
-* Erinna Chen & Heidi Hoopes
+* Scott Firestone & Heidi Hoopes
 * Taylor Moore & Brennan Holtzclaw
-* Julian Feliciano & Adam Hundley & Scott Firestone
+* Julian Feliciano & Adam Hundley
 
 ### Thinking Function(ally) (10:30 - 12:00)
 
