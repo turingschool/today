@@ -1,4 +1,56 @@
-## Lighting Talks
+---
+title: 20160520
+layout: outline
+---
+
+## All
+
+**furphy** - _noun_ - a false report; rumor
+
+### Weekly Surveys
+
+* [1511]()
+* [1602]()
+* [1603]()
+* [1605]()
+
+### Guest Speaker (9:00 - 10:00)
+
+Greg Boone from 18F.
+
+* [LinkedIn](https://www.linkedin.com/in/gregboone42)
+* [Twitter](https://twitter.com/gboone42)
+* [Website](http://greg.harmsboone.org/)
+
+This will be a Q and A on civic tech.
+
+Greg helps manage the website and communications strategy for 18F. He has a
+background in teaching and software development. After several years of doing
+a mix of making or supporting makers, he learned that he thrives when doing
+the latter. He enjoys explaining how a complicated data problem was solved than
+writing the code to solve it. He is particularly interested in how technologies
+interact with large institutions like universities, governments, and industries.
+
+What is 18F:
+
+18F is an office inside the General Services Administration that helps other
+federal agencies build, buy, and share efficient and easy-to-use digital
+services. They are an office of federal employees acting as a civic consultancy
+for the government. They’re transforming government from the inside out,
+creating cultural change by working with teams inside agencies who want to
+create great services for the public by building a suite of secure, scalable
+tools and platforms that any agency can use to solve these a unique set of
+technology problems that Federal agencies face.
+
+### Academic Time (10:00 - 11:30)
+
+* 1511 - Classroom C
+* 1602 - Classroom B
+* 1603 - Big Workspace
+* 1605 - Stand by for location of small groups.
+
+
+### Lighting Talks (11:30 - 12:30)
 
 * Matt Pindell - Rust
 * Anna Weisbrodt - Apple v. FBI
@@ -6,9 +58,22 @@
 * Ashwin Rao - Intro to Employment Contracts
 * Allan Blair - Professional Writing
 
+### Lunch Roulette (12:30 - 1:30)
 
-## Choose Your Own Adventure Time
 
+### Group Retro (1:30 - 2:30)
+
+* 1511 - Classroom C
+* 1602 - Classroom B.
+* 1603 - Big Workspace
+* 1605 - Classroom A.
+
+
+### Choose Your Own Adventure Time (2:30 - 4:00)
+
+* Miyamoto and Ritchie Posses - Classroom A - Guest speakers Michelle and James Juett from
+Ska Studios come to talk about their hit game,
+[Salt and Sanctuary](http://ska-studios.com/salt/)
 * Erinna Chen - Testing Ruby
 * Jon Liss - Intro to Python
 * Pahlka Posse - Join Pahlka Posse for a Google Hangout with alumni Andrew Glass and Travis Valentine to hear about their experiences working in civic tech! After the Hangout, we will work on our housing app. All are welcome! (Horace's Lair)
