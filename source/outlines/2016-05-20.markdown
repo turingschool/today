@@ -1,6 +1,14 @@
+## Surveys
+
+* (1602)[https://docs.google.com/forms/d/1KoymdYy02S8nIFyZzA7kK4i6nVaqvBOCG0J6cc4J13o/viewform]
+
 ## Guest Speaker (9:00 - 10:00)
 
 ## Instructional Time (10:00 - 11:30)
+
+### 1602
+
+(Intermediate SQL)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md]
 
 ## Lighting Talks (11:30 - 12:30)
 
