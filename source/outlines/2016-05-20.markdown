@@ -38,6 +38,19 @@ Then, you'll be working in the following pairs on implementing a binary search t
 
 (Intermediate SQL)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md]
 
+### 1605
+
+Join Rachel in Classroom A to recap the flashcards project. Then, we'll work in the following pairs on [this challenge](https://github.com/turingschool/posse_challenges/blob/master/people_database/README.markdown). 
+
+* Angela & Caleb
+* David & Ben
+* Luigi & Garrett
+* Raphael & Jason
+* Kris & Tommasina
+* Lane & Yoseph
+* Patrick & Sonia 
+* Matt & Lin & Zach
+
 ## Lighting Talks (11:30 - 12:30)
 
 * Matt Pindell - Rust
