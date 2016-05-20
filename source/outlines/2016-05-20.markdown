@@ -71,9 +71,9 @@ Join Rachel in Classroom A to recap the flashcards project. Then, we'll work in 
 
 ### 1602
 
-(The Pivot Week 2)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md]
+[The Pivot Week 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md)
 
-(Group Member Feedback)[https://docs.google.com/forms/d/11aa2x5LqfS6mXevwvPVbO02vBa5hkE_IT8W31pDeicc/viewform]
+[Group Member Feedback](https://docs.google.com/forms/d/11aa2x5LqfS6mXevwvPVbO02vBa5hkE_IT8W31pDeicc/viewform)
 
 ## Choose Your Own Adventure Time (2:30 - 4:00)
 
