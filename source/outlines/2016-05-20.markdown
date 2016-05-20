@@ -65,23 +65,23 @@ technology problems that Federal agencies face.
 * Trent Whitinger, Kerry Sheldon, Alireza Andersen, Chelsea Johnson
 * Andrew Thompson, Angela Lindow, Karina Gonzalez, Jeff
 * David Whitaker, Ashwin Rao, Yoseph Anderson, Andrew
-* Brian Rippeto, Chad Ellison, Ilana Corson, Jhun
+* Brian Rippeto, Ilana Corson, Jhun
 * Adam Hundley, Christopher Soden, Charles Kaminer, Brenna
 * Sonia Gupta, Claudia Kiesenhofer, Taylor Moore, Nate
 * Julian Feliciano, Christine Gamble, Roberta Doyle, Josh
-* Nick Pisciotta, Joshua Cohen, Brennan Holtzclaw, Meeka
-* Hedy Woo, Nate Anderson, Jennifer Soden, Louisa
+* Nick Pisciotta, Joshua Cohen, Brennan Holtzclaw
+* Nate Anderson, Jennifer Soden, Louisa
 * Jared Roth, Lucy Fox, Caleb Cowen, Allison
 * Allan Blair, Jeneve Parrish, Raphael Barbo, Joanne
-* Anna Weisbrodt, Nicole Marino, Nick Weiland, Beth
-* July Tran, Robert Jaeger, Tommasina Miller, Jonathan Liss
+* Nicole Marino, Nick Weiland, Jonathan Liss, Beth
+* July Tran, Robert Jaeger, Tommasina Miller, Thomas Pickett
 * Brian Sayler, Garrett Smestad, Heidi Hoopes, Joshua Washke
 * Scott Firestone, Jason Hanna, Ryan Batty, Michael Lane Winham
 * Kris Foss, Ben Pepper, Admir Draganovic, Erin Greenhalgh
 * Christopher Concannon, Ling Tran, Gurusundesh Khalsa
-* David Tinianow, Nate Venn, Nicholas Dorans, Jonathan Bernesser
+* David Tinianow, Nicholas Dorans, Jonathan Bernesser, Kris Sparks
 * Zachary Forbing, Matt Pindell, Brandon Randall, Patrick Hardy
-* Sal Espinosa, Matthew Campbell, Linda McCartney, Thomas Pickett, Kris Sparks
+* Sal Espinosa, Matthew Campbell, Linda McCartney,
 
 ### Group Retro (1:30 - 2:30)
 
