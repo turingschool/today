@@ -42,7 +42,7 @@ Then, you'll be working in the following pairs on implementing a binary search t
 
 ### 1602
 
-(Intermediate SQL)[https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md]
+[Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
 
 ### 1605
 
