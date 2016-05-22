@@ -1,0 +1,78 @@
+---
+title: 20160526
+layout: outline
+---
+
+## All
+
+**bon ton** - _noun_ - fashionable or elegant manner or style. What Horace does.
+
+
+## 1511
+
+### Game Time Evals (9:00 - 11:30)
+
+Schedule TBD.
+
+### IdeaBox in React Kick Off (11:30 - 12:00)
+
+Big Workspace
+
+### Project Work Time (1:00 - 4:00)
+
+Box those ideas.
+
+
+## 1602
+
+### Project Work Time (9:00 - 12:00)
+
+Finish it up.
+
+### Apicurious Evaluations (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom C.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom C.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom C.
+
+###  Work Time: Model Testing (1:00 - 3:00)
+
+Placess.
+
+### Model Testing - Review (3:00 - 3:30)
+
+Classroom C.
+
+### Mix Master Kick Off (3:30 - 4:00)
+
+Classroom C.
+
+
+## 1605
+
+### All: Project Evaluations (9:00 - 12:00)
+
+Schedule TBD.
+
+### All: Paired Code Challenges (9:00 - 12:00)
+
+Work on these as you are being evaluated in these pairs.
+
+### Opt-In Skill Sessions (1:00 - 4:00)
+
+TBA.
+
+
