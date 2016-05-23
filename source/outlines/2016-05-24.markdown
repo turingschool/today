@@ -17,13 +17,11 @@ Classroom C.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-### Project Work Time and Check Ins (1:00 - 4:00)
-
 #### With Brenna
 
 * 1:15 - 1:45: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
-* 2:15 - 2:45: July Tran & Chelsea Johnson
-* 2:45 - 3:15: Kimiko Kano & Scott Firestone
+* 1:45 - 2:15: July Tran & Chelsea Johnson
+* 2:15 - 2:45: Kimiko Kano & Scott Firestone
 
 #### With Meeka & Louisa
 
@@ -75,17 +73,11 @@ Classroom B.
 
 ### Migrations, Databases, and Models (9:00 - 10:30)
 
-Join Jeff in the Big Workspace to learn about Migrations, Databases, and Models! (Rails is so cool!)
-You can find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown)
+Big Workspace
 
 ### Relationships in Rails (10:30 - 12:00)
 
-Andrew will be going over Relationships in Rails.
-
-### Rails Basics Worktime(1:00 - 4:00)
-
-You have the rest of the day to complete the [Rails Basic Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown). Good luck and have fun!
-
+Big Workspace
 
 
 ## 1605
