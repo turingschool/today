@@ -14,14 +14,16 @@ layout: outline
 
 Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/client_side_storage.markdown)
+
 ### Project Work Time & Instructor Pairing (10:30 - 4:00)
 
 [Sign up for pairing slots with Meeka & Louisa](https://public.etherpad-mozilla.org/p/instructor-pairing)
 
 Suggested Pairing Topics:
 
-- Louisa: clean up CSS and HTML layouts around your games, work on image sprites and image editing/creation, encouragement for getting really weird with bonus levels of your game.
-- Meeka: refactor, bug squashing, beefing up testing, setting up local/session or firebase storage, reminders that you literally learned JavaScript, like, 14 days ago and you're _killing it right now_.
+- *Louisa*: clean up CSS and HTML layouts around your games, work on image sprites and image editing/creation, encouragement for getting really weird with bonus levels of your game.
+- *Meeka*: refactor, bug squashing, beefing up testing, setting up local/session or firebase storage, reminders that you literally learned JavaScript, like, 14 days ago and you're _killing it right now_.
 
 ## 1602
 
