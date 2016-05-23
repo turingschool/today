@@ -10,18 +10,18 @@ layout: outline
 
 ## 1511
 
-### Firebase/Local Storage (9:00 - 10:00)
+### Client-side Storage (9:00 - 10:30)
 
 Classroom C.
 
-### Mystery lesson (10:00 - 12:00)
+### Project Work Time & Instructor Pairing (10:00 - 4:00)
 
-Classroom C.
+[Sign up for pairing slots with Meeka & Louisa](https://public.etherpad-mozilla.org/p/instructor-pairing)
 
-### Project Work Time (1:00 - 4:00)
+Suggested Pairing Topics:
 
-Time those games!
-
+- Louisa: clean up CSS and HTML layouts around your games, work on image sprites and image editing/creation, encouragement for getting really weird with bonus levels of your game.
+- Meeka: refactor, bug squashing, beefing up testing, setting up local/session or firebase storage, reminders that you literally learned JavaScript, like, 14 days ago and you're _killing it right now_.
 
 ## 1602
 
