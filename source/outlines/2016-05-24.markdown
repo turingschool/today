@@ -62,11 +62,17 @@ Classroom B.
 
 ### Migrations, Databases, and Models (9:00 - 10:30)
 
-Big Workspace
+Join Jeff in the Big Workspace to learn about Migrations, Databases, and Models! (Rails is so cool!)
+You can find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown)
 
 ### Relationships in Rails (10:30 - 12:00)
 
-Big Workspace
+Andrew will be going over Relationships in Rails.
+
+### Rails Basics Worktime(1:00 - 4:00)
+
+You have the rest of the day to complete the [Rails Basic Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown). Good luck and have fun!
+
 
 
 ## 1605
