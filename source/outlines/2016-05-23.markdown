@@ -107,7 +107,9 @@ Mike tags in to explain why you're getting that unknown local variable or method
 
 ### All: Pairing Patterns (1:00 - 3:30)
 
-Classroom A everyone. For Echoes, you will do this while you're not being evaluated.
+Classroom A, everyone. 
+
+If you're in Echo, you will do this while you're not being evaluated.
 
 Find the instructions [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown). 
 
