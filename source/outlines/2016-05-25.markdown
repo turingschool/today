@@ -66,7 +66,35 @@ Where else are you going to keep your [tools?](https://github.com/turingschool/l
 
 ### Blogger Worktime (1:00 - 4:00)
 
+Let's meet up right at 1 to get things kicked off for blogger.
+
 [Here is blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+
+### One-on-Ones (1:15 - 3:00)
+
+Jeff:
+
+  * 1:15: Jennifer Soden
+  * 1:30: Charles Kaminer
+  * 1:45: Ryan Batty
+  * 2:00: Nick Pisciotta
+  * 2:15: Kerry Sheldon
+
+Andrew:
+
+  * 1:15: Lucy Fox
+  * 1:30: Anna Weisbrodt
+  * 1:45: Colin Osborn
+  * 2:00: Robert Jaeger
+  * 2:15: Parker Phillips
+
+Jhun:
+
+  1:15: Brian Sayler
+  1:30: Erin Greenhalgh
+  1:45: Marcella Wigg
+  2:00: Karina Gonzalez
+
 
 
 ## 1605
