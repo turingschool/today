@@ -39,35 +39,32 @@ Classroom B.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-#### With Nate
-  - 1:00: Christopher Soden
-  - 1:30: Ling Tran
-  - 1:40: Andrew Thompson
-  - 1:50: Chad Ellison
-  - 2:00: Alex Navarrete
-  - 2:10: Jonathan Bernesser
-  - 2:20: Kris Foss
-  - 2:30: Hedy Woo
-  - 2:40: Patrick Hardy
-  - 2:50: Kami Boers
-  - 3:00: Gurusundesh Khalsa
-  - 3:10: Matt Pindell
-
-
-
 #### With Josh
-  - 1:00: Claudia Kiesenhofer
-  - 1:10: Marina Corona
-  - 1:20: Thomas Pickett
-  - 1:30: Joshua Washke
-  - 1:40: Mark Miranda
-  - 1:50: Alireza Andersen
-  - 2:00: Admir Draganovic
-  - 2:10: Jonathan Liss
-  - 2:20: Jared Roth
-  - 2:30: Sal Espinosa
-  - 2:40: Ashwin Rao
-  - 2:50: Jeneve Parrish
+  - 1:00: Ling
+  - 1:10: Jared
+  - 1:20: Thom
+  - 1:30: Jon L
+  - 1:40: Jon B
+  - 1:50: Drew
+  - 2:00: Pat
+  - 2:10: Jeneve
+  - 2:20: Marina
+  - 2:30: Matt
+  - 2:40: Claudia
+  - 2:50: Admir
+
+#### With Nate
+  - 1:00: Mark
+  - 1:10: Kris
+  - 1:20: Josh
+  - 1:30: Sal
+  - 1:40: Ashwin
+  - 1:50: Kami
+  - 2:00: Chris
+  - 2:10: Alex
+  - 2:20: Chad
+  - 2:30: Sunny
+  - 2:40: Hedy
 
 ## 1603
 
