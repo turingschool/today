@@ -11,9 +11,28 @@ often with bizarre or humorous effect.
 
 ## 1511
 
-### React in Theory (9:00 - 12:00)
+### How Front-End Frameworks Work (9:00 - 10:00)
 
-Classroom C.
+Meet with Steve in The Big Workspace to talk about what front-end frameworks are, why they exist, and how they work.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/how_javascript_frontends_work.markdown)
+
+### React in Theory (10:00 - 10:30)
+
+Stick around in The Big Workspace as Steve goes into a little more depth on how React works in particular and well as some of the important concepts that back it up.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
+
+### React in Practice (10:30 - 12:00)
+
+With all that theory in place, let's build a simple version of Idea Box together.
+
+To get started, clone down this [React Starter Kit][rsk] and check out the `ideabox-starter` branch.
+
+(You can also view the completed example [here][ic].)
+
+[rsk]: https://github.com/turingschool-examples/react-starter-kit
+[ic]: https://github.com/turingschool-examples/react-starter-kit/tree/completed-ideabox-example
 
 ### Pre-Code Review / Project Work Time (1:00 - 4:00)
 
