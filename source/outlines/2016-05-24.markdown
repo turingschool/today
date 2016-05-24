@@ -73,7 +73,7 @@ Classroom B.
 
 ### Migrations, Databases, and Models (9:00 - 10:30)
 
-Big Workspace
+Start with Jeff in the Big Workspace where we'll dive deeper into [migrations, databases, and models](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
 
 ### Relationships in Rails (10:30 - 12:00)
 
