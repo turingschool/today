@@ -68,7 +68,7 @@ Classroom B.
   - 2:30: Sal Espinosa
   - 2:40: Ashwin Rao
   - 2:50: Jeneve Parrish
-3
+
 ## 1603
 
 ### Migrations, Databases, and Models (9:00 - 10:30)
