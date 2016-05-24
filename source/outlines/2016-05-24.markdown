@@ -46,7 +46,7 @@ Classroom B.
   - 1:30: Jon L
   - 1:40: Jon B
   - 1:50: Drew
-  - 2:00: Pat
+  - 2:00: Ali
   - 2:10: Jeneve
   - 2:20: Marina
   - 2:30: Matt
@@ -61,7 +61,7 @@ Classroom B.
   - 1:40: Ashwin
   - 1:50: Kami
   - 2:00: Chris
-    2:10: Ali
+  - 2:10: Pat
   - 2:20: Alex
   - 2:30: Chad
   - 2:40: Sunny
