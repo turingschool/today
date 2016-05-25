@@ -54,11 +54,11 @@ Work Away.
 
 ### Route Helpers (9:00 - 10:00)
 
-Come find Andrew in the Big Workspace. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/route_helpers.md)
+Come find Andrew in classroom C. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/route_helpers.md)
 
 ### Forms in Rails (10:00 - 11:00)
 
-Big Workspace
+Classroom C with Jeff.
 
 ### Building Tool Chest (11:00 - 12:00)
 
