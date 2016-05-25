@@ -38,27 +38,27 @@ Schedule TBD.
 
 ### Blogger Recap (9:00 - 9:30)
 
-Classroom C.
+Head over to Classroom C where we'll recap blogger.
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-Classroom C.
+After that Andrew will go over [Feature Testing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md). Classroom C.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom C.
+Join Jeff in Classroom C to go over what it looks like to write Model tests in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
 
 ###  Work Time: Model Testing (1:00 - 3:00)
 
-Placess.
+You have until 3 to finish the [Model Testing Challenge](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). Good Luck!
 
 ### Model Testing - Review (3:00 - 3:30)
 
-Classroom C.
+Come back to Classroom C to review Model Testing..
 
 ### Mix Master Kick Off (3:30 - 4:00)
 
-Classroom C.
+Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time. 
 
 
 ## 1605
@@ -74,5 +74,3 @@ Work on these as you are being evaluated in these pairs.
 ### Opt-In Skill Sessions (1:00 - 4:00)
 
 TBA.
-
-

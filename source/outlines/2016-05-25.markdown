@@ -95,8 +95,6 @@ Jhun:
   1:45: Marcella Wigg
   2:00: Karina Gonzalez
 
-
-
 ## 1605
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
