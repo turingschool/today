@@ -65,7 +65,41 @@ Classroom C.
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### With Horace
+* 9:00 - Chris Concannon
+* 9:30 - Nicole Marino
+* 10:00 - Roberta Doyle
+* 10:30 - Ryan Flach
+* 11:00 - Trent Whitinger
+* 11:30 - Brandon Randall
+
+#### With Rachel
+* 9:00 - Ben Pepper
+* 9:30 - Joshua Cohen
+* 10:00 - Kris Sparks
+* 10:30 - Lin McCartney
+* 11:00 - Michael Lane Winham
+* 11:30 - Nate Anderson
+
+#### With Mike
+* 9:00 - David Tinianow
+* 9:30 - Garrett Smestead
+* 10:00 - Jason Hanna
+* 10:30 - Patrick Wentz
+* 11:00 - Raphael Barbo
+* 11:30 - Sonia Gupta
+
+#### With Jhun
+* 9:00 - Angela Lindow
+* 9:30 - Caleb Cowen
+* 10:00 - Luigi Aversano
+* 10:30 - Matthew Campbell
+* 11:00 - Yoseph Anderson
+* 11:30 - Tommasina Miller
+
+#### With Jorge
+* 9:00 - Zachary Forbing
+
 
 ### All: Paired Code Challenges (9:00 - 12:00)
 
