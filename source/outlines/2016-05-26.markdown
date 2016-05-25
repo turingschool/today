@@ -12,7 +12,32 @@ layout: outline
 
 ### Game Time Evals (9:00 - 11:30)
 
-Schedule TBD.
+Classroom B
+
+#### Louisa: Functional Expectation and UI Review
+
+* 9:00: Kimiko Kano & Scott Firestone
+* 9:20: Nicholas Dorans & Taylor Moore
+* 9:40: Brian Rippeto & David Whitaker
+* 10:00: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:20: July Tran & Chelsea Johnson
+
+#### Meeka: Testing and Code Review
+
+* 9:20: Kimiko Kano & Scott Firestone
+* 9:40: Nicholas Dorans & Taylor Moore
+* 10:00: Brian Rippeto & David Whitaker
+* 10:20: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:40: July Tran & Chelsea Johnson
+
+#### With Brenna
+
+- 10:00: Julian Feliciano & Allan Blair
+- 10:45: Erinna Chen & Adrienne Domingus
+
+#### With Steve
+
+- 10:45: Nick Weiland & Adam Hundley
 
 ### IdeaBox in React Kick Off (11:30 - 12:00)
 
@@ -22,7 +47,7 @@ Classroom B
 
 Meet with Meeka in Classroom B to talk about the next few weeks.
 
-### Project Work Time (1:30 - 4:00)
+### Ideabox in React Work Time (1:30 - 4:00)
 
 Box those ideas.
 
