@@ -43,14 +43,17 @@ Classroom B
 
 Classroom B
 
-### Picking Week 4 & 5 (1:00 - 1:30)
-
-Meet with Meeka in Classroom B to talk about the next few weeks.
-
-### Ideabox in React Work Time (1:30 - 4:00)
+### Ideabox in React Work Time (1:00 - 2:00)
 
 Box those ideas.
 
+### Picking Week 4 & 5 (2:00 - 2:30)
+
+Meet with Meeka in Classroom B to talk about the next few weeks.
+
+### Ideabox in React Work Time (2:30 - 4:00)
+
+Continue boxing those ideas.
 
 ## 1602
 
