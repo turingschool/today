@@ -90,12 +90,10 @@ Andrew:
 
 Jhun:
 
-  1:15: Brian Sayler
-  1:30: Erin Greenhalgh
-  1:45: Marcella Wigg
-  2:00: Karina Gonzalez
-
-
+  * 1:15: Brian Sayler
+  * 1:30: Erin Greenhalgh
+  * 1:45: Marcella Wigg
+  * 2:00: Karina Gonzalez
 
 ## 1605
 

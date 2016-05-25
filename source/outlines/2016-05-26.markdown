@@ -12,20 +12,48 @@ layout: outline
 
 ### Game Time Evals (9:00 - 11:30)
 
-Schedule TBD.
+Classroom B
+
+#### Louisa: Functional Expectation and UI Review
+
+* 9:00: Kimiko Kano & Scott Firestone
+* 9:20: Nicholas Dorans & Taylor Moore
+* 9:40: Brian Rippeto & David Whitaker
+* 10:00: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:20: July Tran & Chelsea Johnson
+
+#### Meeka: Testing and Code Review
+
+* 9:20: Kimiko Kano & Scott Firestone
+* 9:40: Nicholas Dorans & Taylor Moore
+* 10:00: Brian Rippeto & David Whitaker
+* 10:20: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:40: July Tran & Chelsea Johnson
+
+#### With Brenna
+
+- 10:00: Julian Feliciano & Allan Blair
+- 10:45: Erinna Chen & Adrienne Domingus
+
+#### With Steve
+
+- 10:45: Nick Weiland & Adam Hundley
 
 ### IdeaBox in React Kick Off (11:30 - 12:00)
 
 Classroom B
 
-### Picking Week 4 & 5 (1:00 - 1:30)
-
-Meet with Meeka in Classroom B to talk about the next few weeks.
-
-### Project Work Time (1:30 - 4:00)
+### Ideabox in React Work Time (1:00 - 2:00)
 
 Box those ideas.
 
+### Picking Week 4 & 5 (2:00 - 2:30)
+
+Meet with Meeka in Classroom B to talk about the next few weeks.
+
+### Ideabox in React Work Time (2:30 - 4:00)
+
+Continue boxing those ideas.
 
 ## 1602
 
@@ -42,34 +70,68 @@ Schedule TBD.
 
 ### Blogger Recap (9:00 - 9:30)
 
-Classroom C.
+Head over to Classroom C where we'll recap blogger.
 
 ### Feature Testing in Rails (9:30 - 10:30)
 
-Classroom C.
+After that Andrew will go over [Feature Testing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md). Classroom C.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Join Jeff in Classroom C where we'll make another pass at [Model Testing in Rails Applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
+Join Jeff in Classroom C to go over what it looks like to write Model tests in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
 
 ###  Work Time: Model Testing (1:00 - 3:00)
 
-Placess.
+You have until 3 to finish the [Model Testing Challenge](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). Good Luck!
 
 ### Model Testing - Review (3:00 - 3:30)
 
-Classroom C.
+Come back to Classroom C to review Model Testing..
 
 ### Mix Master Kick Off (3:30 - 4:00)
 
-Classroom C.
+Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time. 
 
 
 ## 1605
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### With Horace
+* 9:00 - Chris Concannon
+* 9:30 - Nicole Marino
+* 10:00 - Roberta Doyle
+* 10:30 - Ryan Flach
+* 11:00 - Trent Whitinger
+* 11:30 - Brandon Randall
+
+#### With Rachel
+* 9:00 - Ben Pepper
+* 9:30 - Joshua Cohen
+* 10:00 - Kris Sparks
+* 10:30 - Lin McCartney
+* 11:00 - Michael Lane Winham
+* 11:30 - Nate Anderson
+
+#### With Mike
+* 9:00 - David Tinianow
+* 9:30 - Garrett Smestead
+* 10:00 - Jason Hanna
+* 10:30 - Patrick Wentz
+* 11:00 - Raphael Barbo
+* 11:30 - Sonia Gupta
+
+#### With Jhun
+* 9:00 - Angela Lindow
+* 9:30 - Caleb Cowen
+* 10:00 - Luigi Aversano
+* 10:30 - Matthew Campbell
+* 11:00 - Yoseph Anderson
+* 11:30 - Tommasina Miller
+
+#### With Jorge
+* 9:00 - Zachary Forbing
+
 
 ### All: Paired Code Challenges (9:00 - 12:00)
 
