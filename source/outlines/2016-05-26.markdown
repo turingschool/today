@@ -50,7 +50,7 @@ Classroom C.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom C.
+Join Jeff in Classroom C where we'll make another pass at [Model Testing in Rails Applications](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
 
 ###  Work Time: Model Testing (1:00 - 3:00)
 
