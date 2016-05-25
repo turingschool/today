@@ -16,9 +16,13 @@ Schedule TBD.
 
 ### IdeaBox in React Kick Off (11:30 - 12:00)
 
-Big Workspace
+Classroom B
 
-### Project Work Time (1:00 - 4:00)
+### Picking Week 4 & 5 (1:00 - 1:30)
+
+Meet with Meeka in Classroom B to talk about the next few weeks.
+
+### Project Work Time (1:30 - 4:00)
 
 Box those ideas.
 
@@ -74,5 +78,3 @@ Work on these as you are being evaluated in these pairs.
 ### Opt-In Skill Sessions (1:00 - 4:00)
 
 TBA.
-
-
