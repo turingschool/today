@@ -37,7 +37,7 @@ Classroom B
 
 #### With Steve
 
-- 10:45: Nick Weiland & Adam Hundley
+- **1:15:** Nick Weiland & Adam Hundley
 
 ### IdeaBox in React Kick Off (11:30 - 12:00)
 
