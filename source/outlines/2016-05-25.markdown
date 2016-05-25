@@ -27,7 +27,7 @@ Stick around in The Big Workspace as Steve goes into a little more depth on how 
 
 With all that theory in place, let's build a simple version of Idea Box together.
 
-To get started, clone down this [React Starter Kit][rsk] and check out the `ideabox-starter` branch.
+To get started, clone down this [React Starter Kit][rsk] and check out the `live-coding` branch.
 
 (You can also view the completed example [here][ic].)
 
@@ -54,11 +54,11 @@ Work Away.
 
 ### Route Helpers (9:00 - 10:00)
 
-Come find Andrew in the Big Workspace. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/route_helpers.md)
+Come find Andrew in classroom C. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/route_helpers.md)
 
 ### Forms in Rails (10:00 - 11:00)
 
-Big Workspace
+Talking about some [forms, forms, forms](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_primer.markdown) in Classroom C with Jeff.
 
 ### Building Tool Chest (11:00 - 12:00)
 

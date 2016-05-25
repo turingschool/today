@@ -12,16 +12,48 @@ layout: outline
 
 ### Game Time Evals (9:00 - 11:30)
 
-Schedule TBD.
+Classroom B
+
+#### Louisa: Functional Expectation and UI Review
+
+* 9:00: Kimiko Kano & Scott Firestone
+* 9:20: Nicholas Dorans & Taylor Moore
+* 9:40: Brian Rippeto & David Whitaker
+* 10:00: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:20: July Tran & Chelsea Johnson
+
+#### Meeka: Testing and Code Review
+
+* 9:20: Kimiko Kano & Scott Firestone
+* 9:40: Nicholas Dorans & Taylor Moore
+* 10:00: Brian Rippeto & David Whitaker
+* 10:20: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:40: July Tran & Chelsea Johnson
+
+#### With Brenna
+
+- 10:00: Julian Feliciano & Allan Blair
+- 10:45: Erinna Chen & Adrienne Domingus
+
+#### With Steve
+
+- 10:45: Nick Weiland & Adam Hundley
 
 ### IdeaBox in React Kick Off (11:30 - 12:00)
 
-Big Workspace
+Classroom B
 
-### Project Work Time (1:00 - 4:00)
+### Ideabox in React Work Time (1:00 - 2:00)
 
 Box those ideas.
 
+### Picking Week 4 & 5 (2:00 - 2:30)
+
+Meet with Meeka in Classroom B to talk about the next few weeks.
+
+### Ideabox in React Work Time (2:30 - 4:00)
+
+Continue boxing those ideas.
 
 ## 1602
 
@@ -65,7 +97,41 @@ Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_
 
 ### All: Project Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### With Horace
+* 9:00 - Chris Concannon
+* 9:30 - Nicole Marino
+* 10:00 - Roberta Doyle
+* 10:30 - Ryan Flach
+* 11:00 - Trent Whitinger
+* 11:30 - Brandon Randall
+
+#### With Rachel
+* 9:00 - Ben Pepper
+* 9:30 - Joshua Cohen
+* 10:00 - Kris Sparks
+* 10:30 - Lin McCartney
+* 11:00 - Michael Lane Winham
+* 11:30 - Nate Anderson
+
+#### With Mike
+* 9:00 - David Tinianow
+* 9:30 - Garrett Smestead
+* 10:00 - Jason Hanna
+* 10:30 - Patrick Wentz
+* 11:00 - Raphael Barbo
+* 11:30 - Sonia Gupta
+
+#### With Jhun
+* 9:00 - Angela Lindow
+* 9:30 - Caleb Cowen
+* 10:00 - Luigi Aversano
+* 10:30 - Matthew Campbell
+* 11:00 - Yoseph Anderson
+* 11:30 - Tommasina Miller
+
+#### With Jorge
+* 9:00 - Zachary Forbing
+
 
 ### All: Paired Code Challenges (9:00 - 12:00)
 
