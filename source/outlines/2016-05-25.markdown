@@ -27,7 +27,7 @@ Stick around in The Big Workspace as Steve goes into a little more depth on how 
 
 With all that theory in place, let's build a simple version of Idea Box together.
 
-To get started, clone down this [React Starter Kit][rsk] and check out the `ideabox-starter` branch.
+To get started, clone down this [React Starter Kit][rsk] and check out the `live-coding` branch.
 
 (You can also view the completed example [here][ic].)
 
