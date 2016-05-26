@@ -7,7 +7,6 @@ layout: outline
 
 **bon ton** - _noun_ - fashionable or elegant manner or style. What Horace does.
 
-
 ## 1511
 
 ### Game Time Evals (9:00 - 11:30)
@@ -117,7 +116,6 @@ Come back to Classroom C to review Model Testing..
 
 Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time.
 
-
 ## 1605
 
 ### All: Project Evaluations (9:00 - 12:00)
@@ -157,11 +155,15 @@ Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_
 #### With Jorge
 * 9:00 - Zachary Forbing
 
+### All: Weekly Diagnostic
 
-### All: Paired Code Challenges (9:00 - 12:00)
+Complete [this week's diagnostic](https://gist.github.com/worace/39ffb43aa04fb6a7fb66248015bd37a8) to self-assess
+your mastery of the concepts we've covered this week.
 
-Work on these as you are being evaluated in these pairs.
+### All: Begin HTTP Reading (9:00 - 12:00)
 
-### Opt-In Skill Sessions (1:00 - 4:00)
+Once you've finished your diagnostic, start on this reading which
+is your assignment for the weekend. The concepts covered here will be
+very important for your next project, so approach it diligently.
 
-TBA.
+[Link](https://launchschool.com/books/http)
