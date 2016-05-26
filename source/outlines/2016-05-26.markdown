@@ -63,8 +63,33 @@ Finish it up.
 
 ### Apicurious Evaluations (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
+- 11:15 Jon B
+- 11:30: Drew
+- 11:45: Marina
+- 1:00: Ling
+- 1:15: Jared
+- 1:30: Thom
+- 1:45: Jon L
+- 2:00: Ali
+- 2:15: Jeneve
+- 2:30: Matt
+- 2:45: Claudia
+- 3:00: Admir
 
+#### With Nate
+- 11:45 Ashwin
+- 1:00: Mark
+- 1:15: Kris
+- 1:30: Josh
+- 1:45: Sal
+- 2:00: Kami
+- 2:15: Chris
+- 2:30: Pat
+- 2:45: Alex
+- 3:00: Chad
+- 3:15: Sunny
+- 3:30: Hedy
 
 ## 1603
 
@@ -90,7 +115,7 @@ Come back to Classroom C to review Model Testing..
 
 ### Mix Master Kick Off (3:30 - 4:00)
 
-Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time. 
+Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time.
 
 
 ## 1605
