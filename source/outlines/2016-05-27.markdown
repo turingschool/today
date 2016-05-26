@@ -8,7 +8,7 @@ layout: outline
 * [1511]()
 * [1602]()
 * [1603]()
-* [1605]()
+* 1605: [Traits Self-Assessment](https://docs.google.com/forms/d/1APZtCqNhE11akwpDEO9Y3CpDyGy2PG8vXWUSuccONHo/viewform)
 
 
 ## Guest Speaker (9:00 - 10:00)
