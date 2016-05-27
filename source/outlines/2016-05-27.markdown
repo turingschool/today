@@ -41,6 +41,16 @@ Join Andrew in Classroom C to see whats up.
 
 #### 1605
 
+YOU PAID FOR THE WHOLE SEAT BUT YOU'LL ONLY NEED THE EDGE
+
+##### INTRO TO HTTP
+
+[Intro to HTTP](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_http_and_curl_obstacle_course.org) with Horace in Classroom A.
+
+##### PROJECT KICKOFF
+
+##### MID MODULE DIAGNOSTIC PREP
+
 Project Kickoff, Mid Module Diagnostic Prep and more in Classroom A.
 
 Groups TBA.
