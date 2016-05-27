@@ -30,6 +30,8 @@ Big Workspace.
 
 #### 1602
 
+[Active Record American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
 Classroom B.
 
 #### 1603
