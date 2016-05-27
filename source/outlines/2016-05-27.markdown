@@ -47,9 +47,34 @@ Groups TBA.
 
 ### Gear Up (11:30 - 12:30)
 
-
+[Ageism in Tech](https://github.com/turingschool/gear-up/blob/master/ageism_in_tech_org.markdown)
 
 ### Lunch (12:30 - 1:30)
+
+* Lucy Fox, Patrick Wentz, Taylor Moore, Horace
+* Nate Anderson, Robert Jaeger, Alireza Andersen, Andrew
+* Caleb Cowen, Karina Gonzalez, Andrew Thompson, Nate
+* Chelsea Johnson, Nick Pisciotta, Trent Whitinger, Josh
+* Kimiko Kano, Chad Ellison, Yoseph Anderson, Meeka
+* Adrienne Domingus, Erin Greenhalgh, Christopher Soden, Allison
+* Ryan Flack, Claudia Kiesenhofer, Scott Firestone, Lia
+* Nick Weiland, Deborah Hamel, Ryan Batty, Beth
+* Jennifer Soden, Adam Hundley, Gurusundesh Khalsax,
+* Hedy Woo, Nate Venn, Matt DesMarteau
+* Jared Roth, David Tinianow, Christine Gamble, Julian Feliciano
+* Joshua Cohen, Anna Weisbrodt, Jeneve Parrish, July Tran
+* Colin Osborn, Erinna Chen, Christopher Concannon, Jonathan Bernesser
+* Heidi Hoopes, Jonathan Liss, Marcella Wigg, Zachary Forbing
+* Brian Rippeto, Brian Sayler, Luigi Aversano, Joshua Washke
+* David Whitaker, Kami Boers, Kerry Sheldon, Roberta Doyle
+* Kris Foss, Michael Lane Winham, Jason Hanna, Nicole Marino
+* Ling Tran, Sonia Gupta, Alex Navarrete, Brandon Randall
+* Ben Pepper, Marina Corona, Allan Blair, Angela Lindow
+* Tommasina Miller, Mark Miranda, Brennan Holtzclaw, Admir Draganovic
+* Matthew Campbell, Matt Pindell, Ashwin Rao, Nicholas Dorans
+* Patrick Hardy, Raphael Barbo, Charles Kaminer
+* Sal Espinosa, Garrett Smestad, Linda McCartney
+* Kris Sparks, Thomas Pickett, Parker Phillips
 
 ### Group Retro(1:30 - 2:30)
 
