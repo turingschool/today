@@ -62,7 +62,7 @@ Groups TBA.
 * Ryan Flack, Claudia Kiesenhofer, Scott Firestone, Lia
 * Nick Weiland, Nicholas Dorans, Ryan Batty, Beth
 * Jennifer Soden, Adam Hundley, Gurusundesh Khalsa,
-* Hedy Woo, Nate Venn, Admir Draganovic, Alex Navarete
+* Hedy Woo, Nate Venn, Admir Draganovic, Alex Navarrete
 * Jared Roth, David Tinianow, Julian Feliciano
 * Joshua Cohen, Anna Weisbrodt, Jeneve Parrish, July Tran
 * Colin Osborn, Erinna Chen, Christopher Concannon, Jonathan Bernesser
