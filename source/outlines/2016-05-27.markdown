@@ -7,7 +7,7 @@ layout: outline
 ### Surveys
 
 * [1511]()
-* [1602]()
+* [1602](https://docs.google.com/forms/d/1U4-V9TbuTibNCejKRgA75cGoh-NrUVOrh3z9VgOkrkQ/viewform)
 * [1603](https://docs.google.com/a/casimircreative.com/forms/d/1mobSmHfw61YGUmJX3szOVN1rVpFfx0E4rJYJVbb9bu8/viewform)
 * 1605: [Traits Self-Assessment](https://docs.google.com/forms/d/1APZtCqNhE11akwpDEO9Y3CpDyGy2PG8vXWUSuccONHo/viewform) and [Weekly Survey]()
 
@@ -67,4 +67,3 @@ Groups TBA.
 * Pahlka - Classroom C.
 * Resig - The Golick Corner.
 * Ritchie - Horace's Lair
-
