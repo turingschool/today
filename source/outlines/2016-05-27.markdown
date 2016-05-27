@@ -49,6 +49,8 @@ Groups TBA.
 
 [Ageism in Tech](https://github.com/turingschool/gear-up/blob/master/ageism_in_tech_org.markdown)
 
+* Meet up in the Big Workspace where you will assemble into groups.
+
 ### Lunch (12:30 - 1:30)
 
 * Lucy Fox, Patrick Wentz, Taylor Moore, Horace
@@ -58,20 +60,20 @@ Groups TBA.
 * Kimiko Kano, Chad Ellison, Yoseph Anderson, Meeka
 * Adrienne Domingus, Erin Greenhalgh, Christopher Soden, Allison
 * Ryan Flack, Claudia Kiesenhofer, Scott Firestone, Lia
-* Nick Weiland, Deborah Hamel, Ryan Batty, Beth
-* Jennifer Soden, Adam Hundley, Gurusundesh Khalsax,
-* Hedy Woo, Nate Venn, Matt DesMarteau
-* Jared Roth, David Tinianow, Christine Gamble, Julian Feliciano
+* Nick Weiland, Nicholas Dorans, Ryan Batty, Beth
+* Jennifer Soden, Adam Hundley, Gurusundesh Khalsa,
+* Hedy Woo, Nate Venn, Admir Draganovic, Alex Navarete
+* Jared Roth, David Tinianow, Julian Feliciano
 * Joshua Cohen, Anna Weisbrodt, Jeneve Parrish, July Tran
 * Colin Osborn, Erinna Chen, Christopher Concannon, Jonathan Bernesser
 * Heidi Hoopes, Jonathan Liss, Marcella Wigg, Zachary Forbing
 * Brian Rippeto, Brian Sayler, Luigi Aversano, Joshua Washke
 * David Whitaker, Kami Boers, Kerry Sheldon, Roberta Doyle
 * Kris Foss, Michael Lane Winham, Jason Hanna, Nicole Marino
-* Ling Tran, Sonia Gupta, Alex Navarrete, Brandon Randall
+* Ling Tran, Sonia Gupta, Brandon Randall
 * Ben Pepper, Marina Corona, Allan Blair, Angela Lindow
-* Tommasina Miller, Mark Miranda, Brennan Holtzclaw, Admir Draganovic
-* Matthew Campbell, Matt Pindell, Ashwin Rao, Nicholas Dorans
+* Tommasina Miller, Mark Miranda, Brennan Holtzclaw,
+* Matthew Campbell, Matt Pindell, Ashwin Rao,
 * Patrick Hardy, Raphael Barbo, Charles Kaminer
 * Sal Espinosa, Garrett Smestad, Linda McCartney
 * Kris Sparks, Thomas Pickett, Parker Phillips
