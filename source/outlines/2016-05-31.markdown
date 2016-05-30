@@ -12,16 +12,30 @@ layout: outline
 
 ### Refactor Tractor (9:00 - 12:00)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
 Classroom C.
+
+#### Refactoring Buddies
+
+* Brian Rippeto & Chelsea Johnson
+* Julian Feliciano & July Tran
+* Erinna Chen & Scott Firestone
+* Brennan Holtzclaw & Taylor Moore
+* Adrienne Domingus & Kimiko Kano
+* Nick Weiland & David Whitaker & Heidi Hoopes
+* Allan Blair & Nate Venn
+* Adam Hundley & Nicholas Dorans
 
 ### Scale Up Kick Off, Agile, and Other Buzzwords (1:00 - 2:30)
 
 Classroom C.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
 ### Wireframing and Prototyping, and Content Hierarchy, Oh my! (2:30 - 4:00)
 
 Stay in Classroom C.
-
 
 ## 1602
 
