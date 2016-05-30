@@ -1,0 +1,96 @@
+---
+title: 20160531
+layout: outline
+---
+
+## All
+
+**doughty** - _adjective_ - steadfastly courageous and resolute; valiant.
+
+
+## 1511
+
+### Refactor Tractor (9:00 - 12:00)
+
+Classroom C.
+
+### Scale Up Kick Off, Agile, and Other Buzzwords (1:00 - 2:30)
+
+Classroom C.
+
+### Wireframing and Prototyping, and Content Hierarchy, Oh my! (2:30 - 4:00)
+
+Stay in Classroom C.
+
+
+## 1602
+
+### Building and Securing an API (9:00 - 12:00)
+
+Classroom B.
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+### Trelora Project Pitches (2:30 - 4:00)
+
+Stay in Classroom B.
+
+
+## 1603
+
+### MixMaster Peer Checks (9:00 - 10:00)
+
+Big Workspace
+
+### MixMaster Q & A (10:00 - 10:30)
+
+Big Workspace
+
+### Sessions, Cookies and Flashes (10:30 - 12:00)
+
+Big Workspace
+
+
+## 1605
+
+### Github for Pairs (9:00 - 10:30)
+
+Classroom A.
+
+###  Mid Module Diagnostics & Project Work Time (10:30 - 4:00)
+
+#### With Rachel
+* 10:30 - Jason Hanna
+* 11:00 - Kris Sparks
+* 11:30 - Nicole Marino
+* 1:00 - Sonia Gupta
+* 1:30 - Lane Winham
+* 2:00 - Patrick Wentz
+
+#### With Horace
+* 10:30 - Ben Pepper
+* 11:00 - Brandon Randall
+* 11:30 - Lin McCartney
+* 1:00 - Luigi Aversano
+* 1:30 - Yoseph Anderson
+* 2:00 - Nate Anderson
+
+#### With Mike
+* 10:30 - Angela Lindow
+* 11:00 - Matthew Campbell
+* 11:30 - Raphael Barbo
+* 1:00 - Roberta Doyle
+* 1:30 - Garrett Smestead
+* 2:00 - Zachary Forbing
+
+#### With Jhun
+* 10:30 - Christopher Concannon
+* 11:00 - David Tinianow
+* 11:30 - Tommasina Miller
+
+#### With Brenna
+* 10:30 - Trent Whitinger
+* 11:00 - Ryan Flach
+* 11:30 - Caleb Cowen
