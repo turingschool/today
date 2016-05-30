@@ -1,0 +1,56 @@
+---
+title: 20160603
+layout: outline
+---
+
+**fard** - _verb_ - to apply cosmetics to the face
+
+
+## 1511
+
+### Introduction to Responsive Design, Media Queries and Viewports (9:00 - 10:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (10:30 - 12:00)
+
+Schedule TBD.
+
+### StandUp: LookingFor (1:00 - 1:30)
+
+Classroom C.
+
+### StandUp: MentorSHIP (1:30 - 2:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (2:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1602
+
+### RalesEngine Evaluations (9:00 - 12:00)
+
+Schedule TBD
+
+### Self Directed Projects Introduction (1:00 - 2:00)
+
+Classroom B.
+
+### Self Directed Projects Ideation and Prep (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Git Workflow (9:00 - 11:00)
+
+Big Workspace
+
+### Rails Mini Project Kick Off (1:00 - 1:30)
+
+Big Workspace
+
