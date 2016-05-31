@@ -1,0 +1,76 @@
+---
+title: 20160602
+layout: outline
+---
+
+## All
+
+**colophon** - _noun_ - a publisher's or printer's distinctive emblem, used
+as an identifying device on its books and other works.
+
+
+## 1511
+
+### Async Lesson (9:00 - 12:00)
+
+Classroom C.
+
+### StandUp: LookingFor (1:00 - 1:30)
+
+Classroom C.
+
+### StandUp: MentorSHIP (1:30 - 2:00)
+
+Classroom C.
+
+### Project Work Time (2:00 - 4:00)
+
+Wherever.
+
+
+## 1602
+
+### One on Ones / Project Work Time (9:00 - 12:00)
+
+Schedule TBD
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1603
+
+### Advanced Routing in Rails (9:00 - 10:30)
+
+Classroom B.
+
+### Authorization (10:30 - 12:00)
+
+Classroom B.
+
+### Authorization Work Time / Mid Module Assessments (1:00 - 3:30)
+
+Schedule TBD.
+
+### Mini API Project Kick Off (3:30 - 4:00)
+
+Classroom B.
+
+
+## 1605
+
+### Working with Ruby Modules (9:00 - 10:30)
+
+Classroom A.
+
+### Boolean Logic Deep Dive - Managing Branches in Code (10:30 - 12:00)
+
+Classroom A.
+
+### Cross Group Pairing (1:00 - 2:00)
+
+Pairs TBD.
+
+### Work Time and One on Ones (2:00 - 4:00)
+
+Schedule TBD.
+
