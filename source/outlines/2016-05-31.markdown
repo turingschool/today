@@ -89,6 +89,8 @@ Join Jeff in the Big Workspace where you'll work on
 
 Classroom A.
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
+
 ###  Mid Module Diagnostics & Project Work Time (10:30 - 4:00)
 
 #### With Rachel
