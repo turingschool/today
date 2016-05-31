@@ -83,8 +83,25 @@ Big Workspace
 Join Jeff in the Big Workspace where you'll work on
 [Sessions, Cookies, and Flashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown).
 
+### CRUD Sprint and Mid-Module Diagnostics (1:00 - 4:00)
 
-### Mid Module Diagnostics (2:00 - 4:00)
+Let's get a fair assessment of our progress through rails so far. This CRUD [sprint](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint) is designed to be a solo activity that will help you gauge your understanding of rails so far.
+
+I'd like you to pick a simple app idea of your choosing, and build out full CRUD functionality for it. Build it out with TDD. If you complete all CRUD functionality for one entity try to bring in a one-to-many and or a many-to-many relationship. If you don't have any ideas for what you could model in this application consider the following:
+
+* Students => Courses/classes, enrollments, instructors etc.
+* Candy => ingredients, categories etc.
+* Cats => scratching posts, nap-spots etc.
+* Cards => Decks, rounds, etc
+* Surveys => questions, users etc.
+* Posts => comments, users, tags etc.
+* Movies => directors, theaters etc.
+* Books =>  Authors, library/branch etc.
+
+
+This should be a basic challenge. Start with rails new and TDD your features. Do basic crud for an entire entity then move onto it's relationships, or you can take some time to explore bootstrap or another css framework in a rails project. 
+
+### Mid Module Diagnostics
 
 With Jeff:
 
