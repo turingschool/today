@@ -60,7 +60,7 @@ Big Workspace
 
 Spend 25 minutes on each persons code and take a 5 minute break.
 
-Use [this prompt](https://gist.github.com/Carmer/5102523a97e5bb177fa6b2fcd17af2ae) to help guide your peer review session. 
+Use [this prompt](https://gist.github.com/Carmer/5102523a97e5bb177fa6b2fcd17af2ae) to help guide your peer review session.
 
 Pairs:
 
@@ -80,8 +80,8 @@ Big Workspace
 
 ### Sessions, Cookies and Flashes (10:30 - 12:00)
 
-Big Workspace
-
+Join Jeff in the Big Workspace where you'll work on
+[Sessions, Cookies, and Flashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown).
 
 ## 1605
 
