@@ -58,7 +58,9 @@ Stay in Classroom B.
 
 Big Workspace
 
-Spend 25 minutes on each persons code and take a 5 minute break. 
+Spend 25 minutes on each persons code and take a 5 minute break.
+
+Use [this prompt](https://gist.github.com/Carmer/5102523a97e5bb177fa6b2fcd17af2ae) to help guide your peer review session. 
 
 Pairs:
 
