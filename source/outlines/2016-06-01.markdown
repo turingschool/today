@@ -101,9 +101,9 @@ Join Rachel in Classroom A for a brief overview before breaking off into groups 
 
 Group A: Start with [Station 1](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_1.markdown)
 
-Group B: [Station 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_2.markdown)
+Group B: Start with [Station 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_2.markdown)
 
-Group C: [Station 3](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_3.markdown)
+Group C: Start with [Station 3](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_3.markdown)
 
 ### Paired Refactoring (11:00 - 12:00)
 
