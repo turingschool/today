@@ -1,0 +1,77 @@
+---
+title: 20160606
+layout: outline
+---
+
+## All
+
+**tickety-boo** - _adjective_ - fine; OK.
+
+
+
+## 1511
+
+### Thoughtbox Mock Eval (ALL DAY)
+
+Kick things off in the Big Workspace.
+
+
+## 1602
+
+### Mid Module Assessment (9:00 - 10:30)
+
+Classroom B.
+
+### Project Work Time (10:30 - 12:00)
+
+Work away.
+
+### Assessment Grading (1:00 - 4:00)
+
+Schedule TBD.
+
+### Working with Ajax (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
+
+Classroom C.
+
+### Mini Project Show and Tell (11:30 - 12:00)
+
+Classroom C.
+
+### Cart and Order Life Cycle (1:00 - 3:00)
+
+Classroom C.
+
+### Little Shop Kick Off (3:00 - 4:00)
+
+Classroom C.
+
+
+## 1605
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+Classroom A.
+
+### Final Project Kickoff (10:30 - 11:30)
+
+Classroom A.
+
+### Team DTR (11:30 - 12:00)
+
+Classroom A.
+
+### Mystery Class (1:00 - 3:00)
+
+Classroom A.
+
+### Project Work Time (3:00 - 4:00)
+
+Classroom A.

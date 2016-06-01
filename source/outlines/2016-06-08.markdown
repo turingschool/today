@@ -1,0 +1,72 @@
+---
+title: 20160608
+layout: outline
+---
+
+## All
+
+**grandee** - _grandee_ - in Spain or Portugal, a nobleman of the first rank.
+
+
+## 1511
+
+### Regex Magic (9:00 - 11:00)
+
+Classroom C.
+
+### Project Standups (11:00 - 12:00)
+
+Classroom C.
+
+### Arel and Advanced Active Record (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1602
+
+### Project Work Time and Assessment Review (9:00 - 12:00)
+
+Schedule TBD.
+
+### Protocol: Personal Branding (1:00 - 2:00)
+
+Classroom B.
+
+### Project Work Time (2:00 - 4:00)
+
+Almost there.
+
+
+## 1603
+
+### Intro to Heroku and the Asshat Pipeline (9:00 - 10:30)
+
+Classroom B.
+
+### Little Shop Work Time and One On Ones (10:30 - 2:30)
+
+Schedule TBD.
+
+### Protocol: Networking (2:30 - 4:00)
+
+Classroom B.
+
+
+## 1605
+
+### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
+
+Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+
+Classroom A.
+
+### Assessment and Portfolios Q & A (1:00 - 1:30)
+
+Classroom A.
+
+### Project Work Time (1:30 - 4:00)
+
+Do the thing.
