@@ -46,7 +46,7 @@ Classroom B.
   - 3:20: Ling Tran
 
 #### With Josh
-  - 1:00: Matt Pindell 
+  - 1:00: Matt Pindell
   - 1:20: Josh Washke
   - 1:40: Ashwin Rao
   - 2:00: Kris Foss
@@ -68,7 +68,7 @@ Classroom B.
 
 ### Authentication in Rails (9:00 - 12:00)
 
-Big Workspace
+Join Andrew in the Big Workspace to learn about authenticating a rails application. The 24 easy steps can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown)
 
 ### Authentication Work Time & Mid Module Diagnostics (1:00 - 4:00)
 
@@ -97,7 +97,7 @@ With Jhun:
 
 ### Fundamental Refactoring Patterns Workshop (9:00 - 11:00)
 
-Join Rachel in Classroom A for a brief overview before breaking off into groups to work on implementing refactoring techniques. 
+Join Rachel in Classroom A for a brief overview before breaking off into groups to work on implementing refactoring techniques.
 
 Group A: Start with [Station 1](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_1.markdown)
 
