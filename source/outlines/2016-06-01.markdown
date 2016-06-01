@@ -95,9 +95,15 @@ With Jhun:
 
 ## 1605
 
-### Fundamental Refactoring Patterns (9:00 - 11:00)
+### Fundamental Refactoring Patterns Workshop (9:00 - 11:00)
 
-Classroom A.
+Join Rachel in Classroom A for a brief overview before breaking off into groups to work on implementing refactoring techniques. 
+
+Group A: Start with [Station 1](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_1.markdown)
+
+Group B: [Station 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_2.markdown)
+
+Group C: [Station 3](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_3.markdown)
 
 ### Paired Refactoring (11:00 - 12:00)
 
@@ -110,6 +116,3 @@ Classroom A.
 ### Project Work Time (1:30 - 4:00)
 
 Work Away.
-
-
->>>>>>> fd1f0f7ef042bb9fe70927a21bcb8367a263cb8d
