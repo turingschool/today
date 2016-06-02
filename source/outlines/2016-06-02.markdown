@@ -82,11 +82,11 @@ Join Jeff in Classroom B.
 
 ### Authorization (10:30 - 12:00)
 
-More of classroom B and Andrew.
+More of classroom B and Andrew. [Here is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown)
 
 ### Authorization Work Time (1:00 - 2:30)
 
-Implement authorization for users and admins in our tool_chest repo. You can find the directives in the [homework repo, here](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
+Finish the work time directives from our [Authentication lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). Then implement authorization for users and admins in our tool_chest repo. You can find the directives in the [homework repo, here](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
 
 ### Mini API Project Kick Off (2:30 - 4:00)
 
