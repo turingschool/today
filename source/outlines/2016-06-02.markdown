@@ -76,21 +76,21 @@ Anywhere and Everywhere
 
 ## 1603
 
-### Advanced Routing in Rails (9:00 - 10:30)
+### Polymorphic & Self-Referential Relationships in Rails (9:00 - 10:30)
 
-Classroom B.
+Join Jeff in Classroom B to talk about Polymorphic & Self-Referential Relationships in Rails.
 
 ### Authorization (10:30 - 12:00)
 
-Classroom B.
+Andrew will take the second half of the morning to talk about Authorization in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown)
 
-### Authorization Work Time / Mid Module Assessments (1:00 - 3:30)
+### Authorization Work Time(1:00 - 3:30)
 
-Schedule TBD.
+You have until 3:30 to work on the rest of the Authorization lesson plan.
 
 ### Mini API Project Kick Off (3:30 - 4:00)
 
-Classroom B.
+Return Classroom B to hear about the [Mini API Project](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) kick off!.
 
 
 ## 1605
