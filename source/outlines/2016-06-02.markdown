@@ -76,13 +76,13 @@ Anywhere and Everywhere
 
 ## 1603
 
-### Examining Advanced ActiveRecord relationships (9:00 - 10:30)
+### Polymorphic & Self-Referential Relationships in Rails (9:00 - 10:30)
 
-Join Jeff in Classroom B.
+Join Jeff in Classroom B to talk about Polymorphic & Self-Referential Relationships in Rails.
 
 ### Authorization (10:30 - 12:00)
 
-More of classroom B and Andrew. [Here is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown)
+Andrew will take the second half of the morning to talk about Authorization in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown)
 
 ### Authorization Work Time (1:00 - 2:30)
 
@@ -90,8 +90,7 @@ Finish the work time directives from our [Authentication lesson plan](https://gi
 
 ### Mini API Project Kick Off (2:30 - 4:00)
 
-Classroom B.
-
+Return to Classroom B to hear about the [Mini API Project](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) kick off!. Andrew and Jhun will be around to help you make some decisions and get your apps off the ground.
 
 ## 1605
 
