@@ -79,7 +79,7 @@ Anywhere and Everywhere
 
 ### Polymorphic & Self-Referential Relationships in Rails (9:00 - 10:30)
 
-Join Jeff in Classroom B to talk about Polymorphic & Self-Referential Relationships in Rails.
+Join Jeff in Classroom B to talk about [Fancy Relationships in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/fancy_relationships.markdown).
 
 ### Authorization (10:30 - 12:00)
 
