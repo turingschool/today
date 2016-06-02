@@ -76,19 +76,19 @@ Anywhere and Everywhere
 
 ## 1603
 
-### Advanced Routing in Rails (9:00 - 10:30)
+### Examining Advanced ActiveRecord relationships (9:00 - 10:30)
 
-Classroom B.
+Join Jeff in Classroom B.
 
 ### Authorization (10:30 - 12:00)
 
-Classroom B.
+More of classroom B and Andrew.
 
-### Authorization Work Time / Mid Module Assessments (1:00 - 3:30)
+### Authorization Work Time (1:00 - 2:30)
 
-Schedule TBD.
+Implement authorization for users and admins in our tool_chest repo. You can find the directives in the [homework repo, here](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
 
-### Mini API Project Kick Off (3:30 - 4:00)
+### Mini API Project Kick Off (2:30 - 4:00)
 
 Classroom B.
 
