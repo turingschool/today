@@ -34,6 +34,7 @@ Wherever.
   One on Ones will be roughly 10 minutes, but sometimes Admir starts talking about his cat and the rest is out of our control. Keep an eye on slack and the person in front of you.
 
 #### With Nate
+  - Drew Thompson
   - Admir Draganovic
   - Claudia Keisenhofer
   - Patrick Hardy
@@ -41,7 +42,7 @@ Wherever.
   - Jeneve Parrish
   - Josh Washke
   - Ling Tran
-  - Drew Thompson
+
 
 #### With Josh
   - Hedy Woo
@@ -78,7 +79,7 @@ Anywhere and Everywhere
 
 ### Polymorphic & Self-Referential Relationships in Rails (9:00 - 10:30)
 
-Join Jeff in Classroom B to talk about Polymorphic & Self-Referential Relationships in Rails.
+Join Jeff in Classroom B to talk about [Fancy Relationships in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/fancy_relationships.markdown).
 
 ### Authorization (10:30 - 12:00)
 
