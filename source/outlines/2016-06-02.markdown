@@ -11,9 +11,9 @@ as an identifying device on its books and other works.
 
 ## 1511
 
-### Async Lesson (9:00 - 12:00)
+### Project Work Time (9:00 - 12:00)
 
-Classroom C.
+Sign up for [pairing slots](https://public.etherpad-mozilla.org/p/D6RtKLGZrr) if you'd like some code review/pairing/talking about life!
 
 ### StandUp: LookingFor (1:00 - 1:30)
 
