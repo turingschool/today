@@ -28,6 +28,8 @@ Architect and Co-Founder of Ello, Inc. and Director at ModeSet.
 
 Classroom B!
 
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/api_best_practices.markdown)
+
 ### Project Work Time and Check Ins (11:30 - 12:00)
 
 11:30: July Tran
