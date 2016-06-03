@@ -2,9 +2,25 @@
 title: 20160603
 layout: outline
 ---
+## All
 
 **fard** - _verb_ - to apply cosmetics to the face
 
+### Guest Speaker - Jay Zeschin (9:00 - 10:00)
+
+The ever wonderful Jay Zeschin will be talking to us about the differences
+between working at a consultancy and a product company, and his background
+moving from a career consultant to a founder running an engineering team at a
+startup.
+
+Seasoned application developer and technical architect, with extensive
+experience in building and scaling web applications (especially in the
+marketing space) and a passion for Agile/XP practices. Jay is the Chief
+Architect and Co-Founder of Ello, Inc. and Director at ModeSet.
+
+* [LinkedIn](https://www.linkedin.com/in/jay-zeschin-4009055)
+* [Twitter](https://twitter.com/jayzes)
+* [Website](http://unstuck.zeschin.org/)
 
 ## 1511
 
@@ -87,3 +103,31 @@ Big Workspace
 ### Rails Mini Project Kick Off (1:00 - 1:30)
 
 Big Workspace
+
+
+## 1605
+
+### HTTP Evaluations (9:00 - 12:00)
+
+While you are not being evaluated, work on your homework for this weekend,
+[Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
+
+You project for the final 2 weeks will deal extensively with CSV files and
+data processing. EventManager will introduce and give you practice with these
+concepts.
+
+#### With Mike
+* 9:00 - Angela & Yoseph
+* 9:30 - Caleb & Tommasina
+* 10:00 - Trent & Lane
+* 10:30 - Sonia & Matt
+* 11:00 - Roberta & Ryan
+
+#### With Rachel
+* 9:00 - Jason & Patrick
+* 9:30 - Luigi & David
+* 10:00 - Garrett & Kris
+* 10:30 - Ben & Zach
+* 11:00 - Chris & Nicole
+
+
