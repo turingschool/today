@@ -144,6 +144,11 @@ concepts.
 
 Meet in Classroom A.
 
+First up, [Flatten](https://github.com/turingschool/challenges/blob/master/flatten.markdown)
+
+
+Next up, get some file reading practice in. [College Scorecard](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
 Pairs:
 
 * Nate Anderson, Josh Cohen
@@ -157,5 +162,4 @@ Pairs:
 * Jason Hanna, Lane Winham
 * Roberta Doyle, Trent Whitinger
 * Luigi Aversano, Brandon Randall
-* Garrett Smestad, Casey Cumbow
 
