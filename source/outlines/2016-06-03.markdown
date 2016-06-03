@@ -26,7 +26,7 @@ Architect and Co-Founder of Ello, Inc. and Director at ModeSet.
 
 ### API Best Practices (10:00 - 11:00)
 
-Classroom C.
+Classroom B!
 
 ### Project Work Time and Check Ins (11:30 - 12:00)
 
@@ -96,14 +96,22 @@ Classroom B.
 
 ## 1603
 
-### Git Workflow (9:00 - 11:00)
+### Git Workflow (10:00 - 11:00)
 
-Big Workspace
+Head over to classroom c with Andrew to learn about [Git Workflow](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown)!
 
-### Rails Mini Project Kick Off (1:00 - 1:30)
 
-Big Workspace
+### Advanced Routing  with Casey(11:00 - 12:00)
 
+Still in the C. This time Casey will go over [Advanced Routing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown).
+
+### Fancy Relationships (1:00 - 2:00)
+
+Meet Jeff in the Classroom C to go over your fancy relationship homework!
+
+### Rails Mini Project Work time (2:00 - 4:00)
+
+Work away!
 
 ## 1605
 
