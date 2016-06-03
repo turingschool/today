@@ -98,20 +98,20 @@ Classroom B.
 
 ### Git Workflow (10:00 - 11:00)
 
-Head over to the Big Workspace with Andrew to learn about [Git Workflow](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown)!
+Head over to classroom c with Andrew to learn about [Git Workflow](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown)!
 
-### Advanced Routing (11:00 - 12:00)
 
-Still in the Big Workspace. This time Jeff will go over [Advanced Routing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown).
+### Advanced Routing  with Casey(11:00 - 12:00)
+
+Still in the C. This time Casey will go over [Advanced Routing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown).
 
 ### Fancy Relationships (1:00 - 2:00)
 
-Meet Jeff in the Big Workspace to go over your fancy relationship homework!
+Meet Jeff in the clasroom c to go over your fancy relationship homework!
 
 ### Rails Mini Project Worktime (2:00 - 4:00)
 
-Work Away!
-
+Work away!
 
 ## 1605
 
