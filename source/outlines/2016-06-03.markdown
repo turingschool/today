@@ -148,13 +148,12 @@ Pairs:
 * Nicole Marino, Tommasina
 * Zack Forbing, Pat Wentz
 * David Tinianow, Angela Lindow
-* Yoseph Anderson, Raphael Barbo
+* Yoseph Anderson, Chris Concannon
 * Ben Pepper, Kris Sparks
 * Caleb Cowen, Sonia Gupta
 * Ryan Flach, Matthew Campbell
 * Jason Hanna, Lane Winham
 * Roberta Doyle, Trent Whitinger
 * Luigi Aversano, Brandon Randall
-* Chris Concannon, Lin McCartney
 * Garrett Smestad, Casey Cumbow
 
