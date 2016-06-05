@@ -53,8 +53,9 @@ Back in Classroom C to learn about implementing a session cart in a Rails projec
 
 ### Little Shop Kick Off (3:00 - 4:00)
 
-Classroom C.
+Classroom C. Groups are as follows:
 
+TBD
 
 ## 1605
 
