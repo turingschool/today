@@ -39,7 +39,9 @@ Classroom B.
 
 ### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
 
-Classroom C.
+Come over to Classroom C to work with our Mini-Projects.
+
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mini-project-gem-implementation.md). We will be reviewing each others code and implementing something new into the codebase.
 
 ### Mini Project Show and Tell (11:30 - 12:00)
 
@@ -47,7 +49,7 @@ Classroom C.
 
 ### Cart and Order Life Cycle (1:00 - 3:00)
 
-Classroom C.
+Back in Classroom C to learn about implementing a session cart in a Rails project.[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown)
 
 ### Little Shop Kick Off (3:00 - 4:00)
 
