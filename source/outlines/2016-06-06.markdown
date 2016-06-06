@@ -41,6 +41,16 @@ Classroom B.
 
 Come over to Classroom C to work with our Mini-Projects.
 
+* Anna Weisbrodt & Robert Jaeger
+* Lucy Fox  & Marcella Wigg
+* Kerry Sheldon & Karina Gonzalez & Charles Kaminer 
+* Nick Pisciotta & Ilana Corson
+* Parker Phillips & Colin Osborn
+* Erin Greenhalgh & Jennifer Soden
+* Ryan Batty & Brian Sayler
+
+
+
 [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mini-project-gem-implementation.md). We will be reviewing each others code and implementing something new into the codebase.
 
 ### Mini Project Show and Tell (11:30 - 12:00)
