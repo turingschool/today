@@ -99,7 +99,36 @@ Pairs as follows:
 
 ### Final Project Kickoff (10:30 - 11:30)
 
-Classroom A.
+[Headcount Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+THE MOMENT OF DESTINY HAS ARRIVED
+
+**Project Pairs:**
+
+* Patrick Wentz & Nicole Marino
+* Luigi Aversano & Yoseph Anderson
+* Tommasina Miller & Angela Lindow
+* Trent Whitinger & Zachary Forbing
+* Christopher Concannon & Caleb Cowen
+* Garrett Smestad & Ben Pepper
+* Ryan Flach & Linda McCartney
+* Jason Hanna & David Tinianow
+* Kris Sparks & Matthew Campbell
+* Sonia Gupta & Roberta Doyle
+* Raphael Barbo & Michael Lane Winham
+
+**Headcount Highlights:**
+
+* "ETL" Overview
+* Dealing with public data
+* Dealing with abstract data entities
+* Read the spec. Then read it again.
+* Requirements: Iterations 0 - 4 and **ONE OF** 5 or 6 (you choose)
+* Marathon not a sprint
+* Projects will be evaluated by a staff code reviewer and an automated spec harness
+* Passing scores are required to pass module 1
+* Spec harness doesn't mean you can get away without writing your own tests
+* Don't steal your own learning
 
 ### Team DTR (11:30 - 12:00)
 
