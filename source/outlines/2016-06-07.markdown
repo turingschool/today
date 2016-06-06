@@ -48,7 +48,7 @@ Schedule TBD.
 
 ### Rails Views Tips and Tricks (9:00 - 10:30)
 
-Big Workspace
+Classroom A.
 
 ### Little Shop Work Time (10:30 - 12:00)
 
@@ -61,9 +61,9 @@ Schedule TBD.
 
 ## 1605
 
-### Advanced Enumerables (9:00 - 10:30)
+### Teesting Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
 
-Classroom A.
+Big Workspace
 
 ### RACHEL AND HORACE ROADSHOW (10:30 - 12:00)
 
