@@ -69,6 +69,7 @@ Back in Classroom C to learn about implementing a session cart in a Rails projec
 Classroom C. Groups are as follows:
 
 [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
 [DTR - Setting Group Expectations](https://gist.github.com/Carmer/85b9e0569af607d14f6e14b696b5e131)
 
 * Kerry Sheldon & Robert Jaeger & Karina Gonzalez
