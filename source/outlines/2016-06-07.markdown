@@ -54,14 +54,33 @@ Classroom A.
 
 Work Away!
 
-### Little Shop Work Time and Check Ins (1:00 - 4:00)
+### Git Workflow cont'd (1:00 - 2:00)
 
-Schedule TBD.
+Classroom A.
+
+
+### Little Shop Work Time and Check Ins (2:00 - 4:00)
+
+Check-Ins:
+
+##### Andrew
+
+  * (2:15 - 3:00) Kerry Sheldon & Robert Jaeger & Karina Gonzalez
+  * (3:00 - 3:45) Parker Phillips & Nick Pisciotta & Anna Weisbrodt
+
+##### Jhun
+
+  * (2:15 - 3:00) Marcella Wigg & Lucy Fox & Charles Kaminer
+  * (3:00 - 3:45) Erin Greenhalgh & Ilana Corson & Ryan Batty
+
+##### Jeff
+
+  * (3:00 - 3:45) Brian Sayler & Colin Osborn & Jennifer Soden
 
 
 ## 1605
 
-### Teesting Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
 
 Big Workspace
 
@@ -72,7 +91,3 @@ HANG ON TO YOUR BUTTS
 ### Project Work Time (1:00 - 4:00)
 
 Work.
-
-
-
-
