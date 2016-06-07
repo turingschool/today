@@ -29,32 +29,32 @@ Classroom C.
 
 #### With Josh
   - 9:00 - Claudia
-  - 9:20 - Ashwin
-  - 9:40 - Drew
-  - 10:00 - Mark
-  - 10:20 - Ali
-  - 10:40 - Matt
-  - 11:00 - Admir
-  - 11:20 - Alex
+  - 9:15 - Ashwin
+  - 9:30 - Drew
+  - 9:45 - Mark
+  - 10:00 - Ali
+  - 10:15 - Matt
+  - 10:30 - Admir
+  - 10:45 - Alex
 
 #### With Nate
   - 9:00 - Chad
-  - 9:20 - Hedy
-  - 9:40 - Sunny
-  - 10:00 - Jared
-  - 10:20 - Jeneve
-  - 10:40 - Ling
-  - 11:00 - Jon L.
+  - 9:15 - Hedy
+  - 9:30 - Sunny
+  - 9:45 - Jared
+  - 10:00 - Jeneve
+  - 10:15 - Ling
+  - 10:30 - Jon L.
 
 #### With Brenna
   - 9:00 - Sal
-  - 9:20 - Kami
-  - 9:40 - Kris
-  - 10:00 - Jon B.
-  - 10:20 - Marina
-  - 10:40 - Thom
-  - 11:00 - Pat
-  - 11:20 - Josh
+  - 9:15 - Kami
+  - 9:30 - Kris
+  - 9:45 - Jon B.
+  - 10:00 - Marina
+  - 10:15 - Thom
+  - 10:30 - Pat
+  - 10:45 - Josh
 
 ### Protocol: Personal Branding (1:00 - 2:00)
 
