@@ -12,15 +12,22 @@ medals.
 
 ## 1511
 
-### CSS Preprocessors: SASS and SCSS (9:00 - 10:30)
-
-Say that five times real fast.
+### A Polite Reintroduction to Asynchronous JavaScript (9:00 - 12:00)
 
 Classroom C.
 
-### CSS Performance and Organization (10:30 - 12:00)
+- [Slides](https://www.icloud.com/keynote/00026II3eyzH3DhAOBEV8wnQQ#Asynchronous_JavaScript)
+- [Async Lab](http://bit.ly/async-lab)
 
-Classroom C.
+You'll be working in the following pairs:
+
+* Erinna Chen & David Whitaker
+* Kimiko Kano & July Tran
+* Chelsea Johnson & Adrienne Domingus
+* Scott Firestone & Nicholas Dorans
+* Heidi Hoopes & Taylor Moore
+* Brian Rippeto & Adam Hundley
+* Nate Venn & Brennan Holtzclaw & Julian Feliciano
 
 ### Project Stand Ups (1:00 - 2:00)
 
