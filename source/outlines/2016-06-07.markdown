@@ -74,8 +74,8 @@ Once you understand it, please come and explain it to me.
   be sure to clone the following repos!
 
   * [I really like you](https://github.com/mikedao/i-really-like-you)
-  * [Pokemon Center](https://github.com/mikedao/i-really-like-you)
-  * [video](https://www.youtube.com/watch?v=Pl844ogVRu4)
+  * [Pokemon Center](https://github.com/joshuajhun/pokemon_center)
+  * [video]()
 
 ### Little Shop Work Time (10:30 - 12:00)
 
