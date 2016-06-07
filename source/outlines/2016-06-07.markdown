@@ -77,7 +77,7 @@ Once you understand it, please come and explain it to me.
 
 ### Rails Views Tips and Tricks (9:00 - 10:30)
 
-  Join YUNG-jhun for some Major 🔑s to success. He'll be going over [Rails Views Tips and Tricks](https://gist.github.com/joshuajhun/c69fdb5d46b7cd58448af4dcd6d776f5)
+  Join YUNG-jhun in Classroom A for some Major 🔑s to success. He'll be going over [Rails Views Tips and Tricks](https://gist.github.com/joshuajhun/c69fdb5d46b7cd58448af4dcd6d776f5)
   be sure to clone the following repos!
 
   * [I really like you](https://github.com/mikedao/i-really-like-you)
