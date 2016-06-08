@@ -23,9 +23,11 @@ Classroom C.
 - 11:00: BoxTrot & Prime
 - 11:30: Tiskey Whango
 
-### Arel and Advanced Active Record (1:00 - 4:00)
+### Advanced Active Record (1:00 - 4:00)
 
-Classroom C.
+Classroom C with Franco
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
 
 ## 1602
 
