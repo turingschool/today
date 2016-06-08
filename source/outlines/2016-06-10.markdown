@@ -1,0 +1,40 @@
+---
+title: 20160610
+layout: outline
+---
+
+## Guest Speaker - Colleen Johnson (9:00 - 10:00)
+
+## Instructional Time (10:00 - 11:30)
+
+### 1511
+
+### 1602
+
+### 1603
+
+### 1605
+
+## Group Retro (11:30 - 12:15)
+
+* 1511 - Classroom C
+* 1602 - Classroom B
+* 1603 - Big Workspace
+* 1605 - Classroom A
+
+## Lunch (12:15 - 1:15)
+
+## Lightning Talks (1:15 - 2:00)
+
+* Nick Pisciotta - Using DNA to Store Data
+* Marcella Wigg - Backpacking Technologies and Their Implications
+* Ryan Batty - The Importance of Understanding and Implementing Security in Your Applications
+* Kerry Sheldon - 10,000 Hours Isn't Enough
+* Robbie Jaeger - Space Carving
+* Karina Gonzalez - Intro to Mandlebrot Sets//Mandlebrot animation
+
+## Electives / Choose Your Own Adventure Time (2:00 - 3:15)
+
+* Patrick W - Command Line Hot Keys
+* David Whitaker - Git Flow
+* Ashwin & Ling (and Horace?) - Intro to Clojure
