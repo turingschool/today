@@ -47,7 +47,7 @@ Join Jeff in the Big Workspace to learn about [Pushing Logic Down the Stack](htt
 
 ### Callbacks and Scope (1:00 - 2:30)
 
-Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/pushing_logic_down_the_stack.markdown).
+Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https://github.com/turingschool-examples/turing-scholarbot).
 
 ### Little Shop Work Time and Check Ins (2:30 - 4:00)
 
