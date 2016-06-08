@@ -10,18 +10,22 @@ layout: outline
 
 ## 1511
 
-### Regex Magic (9:00 - 11:00)
+### Responsive Design (9:00 - 11:00)
 
 Classroom C.
+
+[Lesson Plan](https://github.com/LouisaBarrett/intro-to-responsive)
 
 ### Project Standups (11:00 - 12:00)
 
 Classroom C.
 
+- 11:00: BoxTrot & Prime
+- 11:30: Tiskey Whango
+
 ### Arel and Advanced Active Record (1:00 - 4:00)
 
 Classroom C.
-
 
 ## 1602
 
