@@ -11,11 +11,25 @@ misfortunes of others.
 
 ## 1511
 
-### Accessibility (9:00 - 10:30)
+### Team Meetings (9:00 - 9:30)
+
+Take this time to talk to your fellow classmates about:
+
+- Graduation dinner & cabin plans
+- The LookingFor project
+- Share independent study ideas/best practices
+- The job hunt
+- The inexorable march of time
 
 Classroom C.
 
-### Git Magic (10:30 - 12:00)
+### Regex Fun (9:30 - 10:30)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/regex_fun.markdown)
+
+Classroom C.
+
+### CSS Fun (10:30 - 12:00)
 
 Classroom C.
 
@@ -23,10 +37,12 @@ Classroom C.
 
 Classroom C.
 
+- 1:00: BoxTrot & Prime
+- 1:30: Tiskey Whango
+
 ### Project Work Time (2:00 - 4:00)
 
-Yes.
-
+You can schedule time with Louisa or Meeka [here](https://public.etherpad-mozilla.org/p/pairing-1511)
 
 ## 1602
 
