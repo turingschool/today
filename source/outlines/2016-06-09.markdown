@@ -40,7 +40,7 @@ Classroom B.
   - 1:00 Jon L, Jon B, & Matt
   - 1:20: Chris
   - 1:40: Admir
-  - 2:00: Hedy  
+  - 2:00: Hedy
   - 2:20: Sal
   - 2:40: Jeneve
   - 3:00: Sunny
@@ -57,7 +57,7 @@ Classroom B.
 #### With Brenna
   - 1:00: Marina
   - 1:20: Mark
-  - 1:40: Ashwin 
+  - 1:40: Ashwin
   - 2:00: Kris
   - 2:20: Ling
   - 2:40: Jared
@@ -106,7 +106,7 @@ Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https
 
 * 9:00  - 9:30  Trent Whitinger & Zachary Forbing
 * 9:30  - 10:00 Christopher Concannon & Caleb Cowen
-* 10:00 - 10:30 Ryan Flach & Linda McCartney
+* 10:00 - 10:30 Sonia Gupta & Roberta Doyle
 * 10:30 - 11:00 Raphael Barbo & Michael Lane Winham
 * 11:00 - 11:30 Nate Anderson
 
@@ -114,4 +114,6 @@ Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https
 
 * 1:00 - 1:30 Jason Hanna & David Tinianow
 * 1:30 - 2:00 Kris Sparks & Matthew Campbell
-* 2:00 - 2:30 Sonia Gupta & Roberta Doyle
+* 2:00 - 2:30 Ryan Flach & Linda McCartney
+
+
