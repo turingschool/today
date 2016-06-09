@@ -4,6 +4,11 @@ layout: outline
 ---
 
 ## Guest Speaker - Colleen Johnson (9:00 - 10:00)
+* [LinkedIn](https://www.linkedin.com/in/colleenvoelschow)
+* [Twitter](https://twitter.com/scrumhive)
+
+This talk will be interactive and a good insight into working on a dispersed team across the country, working in a flexible environment that works around living fully, consulting companies on moving toward and implementing agile methodology. She’s pretty badass… but here’s more on her:
+Colleen Johnson is the Practice Director of Lean and Agile Transformations at ImagineX Consulting. Colleen applies a systems thinking approach to aligning agile methodologies across the enterprise and works with clients to apply the right cultural and context-driven practices to find sustainable agility. She is an expert in Lean/Kanban methods of iterative software delivery and advocates for LeanStartup principles using scientific methods of customer-centered discovery. She has been in the software development world for over 15 years with experiences ranging from writing test automation scripts to managing teams of both on and off-shore engineers. She is active in the local agile community as the Founder of the Agile Denver Coaching Meetup, member of Agile Denver Board of Directors, and Chairman of the 2016 Mile High Agile Conference. In her free time she enjoys running and yoga as well as camping and hiking with her two kids.
 
 ## Instructional Time (10:00 - 11:30)
 
