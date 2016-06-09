@@ -4,6 +4,11 @@ layout: outline
 ---
 
 ## Guest Speaker - Colleen Johnson (9:00 - 10:00)
+* [LinkedIn](https://www.linkedin.com/in/colleenvoelschow)
+* [Twitter](https://twitter.com/scrumhive)
+
+This talk will be interactive and a good insight into working on a dispersed team across the country, working in a flexible environment that works around living fully, consulting companies on moving toward and implementing agile methodology. She’s pretty badass… but here’s more on her:
+Colleen Johnson is the Practice Director of Lean and Agile Transformations at ImagineX Consulting. Colleen applies a systems thinking approach to aligning agile methodologies across the enterprise and works with clients to apply the right cultural and context-driven practices to find sustainable agility. She is an expert in Lean/Kanban methods of iterative software delivery and advocates for LeanStartup principles using scientific methods of customer-centered discovery. She has been in the software development world for over 15 years with experiences ranging from writing test automation scripts to managing teams of both on and off-shore engineers. She is active in the local agile community as the Founder of the Agile Denver Coaching Meetup, member of Agile Denver Board of Directors, and Chairman of the 2016 Mile High Agile Conference. In her free time she enjoys running and yoga as well as camping and hiking with her two kids.
 
 ## Instructional Time (10:00 - 11:30)
 
@@ -15,6 +20,22 @@ layout: outline
 
 ### 1605
 
+#### Final Assessments
+
+#### With Horace
+* 10:00 - Ben Pepper
+* 10:45 - Chris Concannon
+* 1:15 - Sonia Gupta
+
+#### With Mike
+* 10:00 - Kris Sparks
+* 10:45 - Lane Winham
+* 1:15 -  Ryan Flach
+
+#### With Rachel
+* 10:00 - Matt Campbell
+* 10:45 - Raphael Barbo
+
 ## Group Retro (11:30 - 12:15)
 
 * 1511 - Classroom C
@@ -24,17 +45,38 @@ layout: outline
 
 ## Lunch (12:15 - 1:15)
 
+### Lunch Roulette Groups
+
+* Adam Hundley, Erin Greenhalgh, Garrett Smestad, Andrew
+* Brennan Holtzclaw, Ilana Corson, Jason Hanna, Jhun
+* Brian Rippeto, Jennifer Soden, Kris Sparks, Josh
+* David Whitaker, Karina Gonzalez, Lin McCartney, Nate
+* Chelsea Johnson, Kerry Sheldon, Matt Cambpell, Meeka
+* Erinna Chen, Lucy Fox, Michael Lane Winham, Louisa
+* Heidi Hoopes, Marcella Wigg, Patrick Wentz, Allison
+* Julian Feliciano, Nick Pisciotta, Nate Anderson, Joanne
+* July Tran, Parker Phillips, Nicole Marino, Lia
+* Kimiko Kano, Rober Jaeger, Raphael Barbo, Jorge
+* Nate Venn, Ryan Batty, Raphael Barbo, Brenna
+* Nicholas Dorans, Angela Lindow, Roberta Doyle, Steve
+* Nick Weiland, Ben Pepper, Ryan Flach,
+* Scott Firestone, Brandon Randall, Sonia Gupta
+* Anna Weisbrodt, Caleb Cowen, Tommasina Miller,
+* Brian Sayler, Christopher Concannon, Trent Whitinger,
+* Charles Kaminer, David Tinianow, Yoseph Anderson, Zachary Forbing
+
+
 ## Lightning Talks (1:15 - 2:00)
 
-* Nick Pisciotta - Using DNA to Store Data
-* Marcella Wigg - Backpacking Technologies and Their Implications
-* Ryan Batty - The Importance of Understanding and Implementing Security in Your Applications
-* Kerry Sheldon - 10,000 Hours Isn't Enough
-* Robbie Jaeger - Space Carving
-* Karina Gonzalez - Intro to Mandlebrot Sets//Mandlebrot animation
+  * Nick Pisciotta - Using DNA to Store Data
+  * Marcella Wigg - Backpacking Technologies and Their Implications
+  * Ryan Batty - The Importance of Understanding and Implementing Security in Your Applications
+  * Kerry Sheldon - 10,000 Hours Isn't Enough
+  * Robbie Jaeger - Space Carving
+  * Karina Gonzalez - Intro to Mandlebrot Sets//Mandlebrot animation
 
 ## Electives / Choose Your Own Adventure Time (2:00 - 3:15)
 
-* Patrick W - Command Line Hot Keys
-* David Whitaker - Git Flow
-* Ashwin & Ling (and Horace?) - Intro to Clojure
+  * Patrick W - Command Line Hot Keys
+  * David Whitaker - Git Flow
+  * Ashwin & Ling (and Horace?) - Intro to Clojure
