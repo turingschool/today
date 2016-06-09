@@ -113,7 +113,7 @@ Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https
 **With Horace**
 
 * 9:00  - 9:30  Patrick Wentz & Nicole Marino
-* 9:30  - 10:00 Garett Smestad & Yoseph Anderson
+* 9:30  - 10:00 Jason Hanna & David Tinianow
 * 10:00 - 10:30 Tommasina Miller & Angela Lindow
 * 10:30 - 11:00 Brandon Randall
 * 11:00 - 11:30 Ben Pepper
@@ -128,8 +128,8 @@ Head over to Classroom B with Andrew to learn about [Callbacks and Scopes](https
 
 **With Rachel**
 
-* 1:00 - 1:30 Jason Hanna & David Tinianow
-* 1:30 - 2:00 Kris Sparks & Matthew Campbell
-* 2:00 - 2:30 Ryan Flach & Linda McCartney
+* 1:00 - 1:30 Kris Sparks & Matthew Campbell
+* 1:30 - 2:00 Ryan Flach & Linda McCartney
+* 2:00 - 2:30 Garett Smestad & Yoseph Anderson
 
 
