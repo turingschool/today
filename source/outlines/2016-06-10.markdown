@@ -5,9 +5,10 @@ layout: outline
 
 ## Surveys
 
+* [1511](http://goo.gl/forms/f4TD4o0JPH7hy64n2)
 * [1602](https://docs.google.com/forms/d/1PzI03bNGTqlxeTMCgYtCVJYudrx0yLcoVymzWVnZ2VQ/viewform)
 * [1603](https://docs.google.com/forms/d/1vKHkb_g8oTQKnte6rYq6yQdZ8NPH_rYVdCCF7_x2lmk/viewform)
-
+* [1605](http://goo.gl/forms/Lq4tIPj9XqFde3Fo2)
 
 ## Guest Speaker - Colleen Johnson (9:00 - 10:00)
 * [LinkedIn](https://www.linkedin.com/in/colleenvoelschow)
@@ -19,26 +20,56 @@ Colleen Johnson is the Practice Director of Lean and Agile Transformations at Im
 ## Instructional Time (10:00 - 11:30)
 
 ### 1511
+Project work time
 
 ### 1602
 
-### 1603
+Retro and work time until 12:30
 
-### 1605
+### 1603
+ Let's meet in Classroom C to go over our weekly challenge.
+
+### 1605 - Recitation: Portfolio Prep, PR's, and Peer Critique
+
+#### 10:00 - 10:30 -- Submitting your portfolio pull request with Horace in Classroom A.
+
+Join Horace in Classroom A to recap submitting your portfolio Pull Request.
+
+#### 10:30 - 11:00 -- Portfolio work-time & Self evaluation
+
+Spend 30 minutes adding recent content to your portfolio. When you're done, go through
+all the categories in the rubrice and **Self-Evaluate** -- if we did portfolio reviews
+tomorrow, what scores would you receive?
+
+#### 11:00 - 11:30 -- Portfolio Peer Critique
+
+Get with your pair below and spend 15 minutes critiquing one another's portfolios:
+
+* Yoseph Anderson, Trent Whitinger
+* Sonia Gupta, Angela Lindow
+* Ryan Flach, Zack Forbing
+* Pat Wentz, Nate Anderson
+* Tommasina, Nicole Marino
+* David Tinianow, Lin McCartney
+* Caleb Cowen, Brandon Randall
+* Jason Hanna, Roberta Doyle, Garrett Smestad
 
 #### Final Assessments
 
 #### With Horace
+
 * 10:00 - Ben Pepper
 * 10:45 - Chris Concannon
 * 1:15 - Sonia Gupta
 
 #### With Mike
+
 * 10:00 - Kris Sparks
 * 10:45 - Lane Winham
 * 1:15 -  Ryan Flach
 
 #### With Rachel
+
 * 10:00 - Matt Campbell
 * 10:45 - Raphael Barbo
 
@@ -48,6 +79,12 @@ Colleen Johnson is the Practice Director of Lean and Agile Transformations at Im
 * 1602 - Classroom B
 * 1603 - Big Workspace
 * 1605 - Classroom A
+
+## 1602
+
+### Working on work Lunch (12:30 - 2:30)
+
+Meet in Classroom B with Marissa
 
 ## Lunch (12:15 - 1:15)
 
@@ -65,11 +102,11 @@ Colleen Johnson is the Practice Director of Lean and Agile Transformations at Im
 * Kimiko Kano, Rober Jaeger, Raphael Barbo, Jorge
 * Nate Venn, Ryan Batty, Raphael Barbo, Brenna
 * Nicholas Dorans, Angela Lindow, Roberta Doyle, Steve
-* Nick Weiland, Ben Pepper, Ryan Flach,
+* Nick Weiland, Ben Pepper, Ryan Flach
 * Scott Firestone, Brandon Randall, Sonia Gupta
-* Anna Weisbrodt, Caleb Cowen, Tommasina Miller,
-* Brian Sayler, Christopher Concannon, Trent Whitinger,
-* Charles Kaminer, David Tinianow, Yoseph Anderson, Zachary Forbing
+* Anna Weisbrodt, Caleb Cowen, Tommasina Miller
+* Brian Sayler, Christopher Concannon, Trent Whitinger
+* Charles Kaminer, David Tinianow, Yoseph Anderson
 
 
 ## Lightning Talks (1:15 - 2:00)
@@ -85,4 +122,4 @@ Colleen Johnson is the Practice Director of Lean and Agile Transformations at Im
 
   * Patrick W - Command Line Hot Keys
   * David Whitaker - Git Flow
-  * Ashwin & Ling (and Horace?) - Intro to Clojure
+  * Ashwin & Ling - John McCarthy Posse Interest Meeting & Intro to Clojure -- come talk about Lisp, functional programming, and a new posse that will be starting up next module.
