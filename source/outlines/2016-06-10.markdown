@@ -122,4 +122,4 @@ Meet in Classroom B with Marissa
 
   * Patrick W - Command Line Hot Keys
   * David Whitaker - Git Flow
-  * Ashwin & Ling - John McCarthy Posse Interest Meeting & Intro to Clojure -- come talk about Lisp, functional programming, and a new posse that will be starting up next module.
+  * Ashwin & Ling - John McCarthy Posse Interest Meeting & Intro to Clojure -- **Classroom C** -- come talk about Lisp, functional programming, and a new posse that will be starting up next module.
