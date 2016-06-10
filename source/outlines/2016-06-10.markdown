@@ -84,7 +84,7 @@ Get with your pair below and spend 15 minutes critiquing one another's portfolio
 * Adam Hundley, Erin Greenhalgh, Garrett Smestad, Andrew
 * Brennan Holtzclaw, Ilana Corson, Jason Hanna, Jhun
 * Brian Rippeto, Jennifer Soden, Kris Sparks, Josh
-* David Whitaker, Karina Gonzalez, Lin McCartney, Nate
+* David Whitaker, Karina Gonzalez, Zachary Forbing, Nate
 * Chelsea Johnson, Kerry Sheldon, Matt Cambpell, Meeka
 * Erinna Chen, Lucy Fox, Michael Lane Winham, Louisa
 * Heidi Hoopes, Marcella Wigg, Patrick Wentz, Allison
@@ -93,11 +93,11 @@ Get with your pair below and spend 15 minutes critiquing one another's portfolio
 * Kimiko Kano, Rober Jaeger, Raphael Barbo, Jorge
 * Nate Venn, Ryan Batty, Raphael Barbo, Brenna
 * Nicholas Dorans, Angela Lindow, Roberta Doyle, Steve
-* Nick Weiland, Ben Pepper, Ryan Flach,
+* Nick Weiland, Ben Pepper, Ryan Flach
 * Scott Firestone, Brandon Randall, Sonia Gupta
-* Anna Weisbrodt, Caleb Cowen, Tommasina Miller,
-* Brian Sayler, Christopher Concannon, Trent Whitinger,
-* Charles Kaminer, David Tinianow, Yoseph Anderson, Zachary Forbing
+* Anna Weisbrodt, Caleb Cowen, Tommasina Miller
+* Brian Sayler, Christopher Concannon, Trent Whitinger
+* Charles Kaminer, David Tinianow, Yoseph Anderson
 
 
 ## Lightning Talks (1:15 - 2:00)
