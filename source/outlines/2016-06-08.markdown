@@ -10,30 +10,64 @@ layout: outline
 
 ## 1511
 
-### Regex Magic (9:00 - 11:00)
+### Responsive Design (9:00 - 11:00)
 
 Classroom C.
 
-### Project Standups (11:00 - 12:00)
+[Lesson Plan](https://github.com/LouisaBarrett/intro-to-responsive)
+
+### Project Standups (1:00 - 2:00)
 
 Classroom C.
 
-### Arel and Advanced Active Record (1:00 - 4:00)
+- 1:00: BoxTrot & Prime
+- 1:30: Tiskey Whango
 
-Classroom C.
+### Advanced Active Record (2:00 - 4:00)
 
+Classroom C with Franco
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/advanced_active_record_queries.markdown)
 
 ## 1602
 
 ### Project Work Time and Assessment Review (9:00 - 12:00)
 
-Schedule TBD.
+#### With Josh
+  - 9:00 - Claudia
+  - 9:15 - Ashwin
+  - 9:30 - Drew
+  - 9:45 - Mark
+  - 10:00 - Ali
+  - 10:15 - Matt
+  - 10:30 - Admir
+  - 10:45 - Alex
+
+#### With Nate
+  - 9:00 - Chad
+  - 9:15 - Hedy
+  - 9:30 - Sunny
+  - 9:45 - Jared
+  - 10:00 - Jeneve
+  - 10:15 - Ling
+  - 10:30 - Jon L.
+
+#### With Brenna
+  - 9:00 - Sal
+  - 9:15 - Kami
+  - 9:30 - Kris
+  - 9:45 - Jon B.
+  - 10:00 - Marina
+  - 10:15 - Thom
+  - 10:30 - Pat
+  - 10:45 - Josh
 
 ### Protocol: Personal Branding (1:00 - 2:00)
 
 Classroom B.
 
 ### Project Work Time (2:00 - 4:00)
+If you're interested in spending some time on Front-End/CSS stuff during this time DM Brenna or checkout [the signup sheet](https://docs.google.com/spreadsheets/d/15UIth61KeAFsdmKvgrQovPmC38I66YOJsb3hwe4Zmq0/edit#gid=0).
 
 Almost there.
 
@@ -42,20 +76,42 @@ Almost there.
 
 ### Intro to Heroku and the Asshat Pipeline (9:00 - 10:30)
 
-Classroom B.
+Join Andrew in Classroom B to talk about the [Asshat Pipeline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown).
 
-### Little Shop Work Time and One On Ones (10:30 - 2:30)
+### Little Shop Work Time and One On Ones (10:30 - 12:00)
 
-Schedule TBD.
+#### Jeff
 
-### Protocol: Networking (2:30 - 4:00)
+* 10:30: Parker Phillips
+* 10:45: Ryan Batty
+* 11:00: Marcella Wigg
+* 11:15: Colin Osborn
+* 11:30: Ilana Corson
 
-Classroom B.
+#### Andrew
+
+* 10:30: Charles Kaminer
+* 10:45: Karina Gonzalez
+* 11:00: Nick Pisciotta
+* 11:10: Robert Jaeger
+* 11:30: Brian Sayler
+
+#### Jhun
+
+* 10:30: Lucy Fox
+* 10:45: Jennifer Soden
+* 11:00: Kerry Sheldon
+* 11:15: Anna Weisbrodt
+* 11:30: Erin Greenhalgh
+
+### Little Shop Work Time (1:00 - 4:00)
+
+All of the work. All of the time
 
 
 ## 1605
 
-### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
+### Advanced Enumerables (9:00 - 10:30)
 
 Classroom A.
 
