@@ -16,6 +16,8 @@ material in space.
 
 Classroom C.
 
+[Agenda](https://gist.github.com/rrgayhart/cceff07e8666a08f843ed869de634026)
+
 ### The Plan Kick Off (1:00 - 1:30)
 
 Classroom C.
@@ -111,4 +113,3 @@ Big Workspace. Guest Starring _guest_
 * 1:45 - Brandon Randall
 * 2:30 - David Tinianow
 * 3:15 - Roberta Doyle
-
