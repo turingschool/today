@@ -22,6 +22,8 @@ Classroom C.
 
 Classroom C.
 
+[The Plan](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments/the-plan)
+
 ### The Plan Work Time (1:30 - 4:00)
 
 You can do it!
