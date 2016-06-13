@@ -1,4 +1,4 @@
----
+<%  %>---
 title: 20160614
 layout: outline
 ---
@@ -61,7 +61,7 @@ Jhun:
 * (2:30) - Ilana Corson
 * (3:15) - Parker Phillips
 
-Meeka:
+Horace:
 
 * (1:00) - Anna Weisbrodt
 * (1:45) - Nick Pisciotta
