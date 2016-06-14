@@ -90,7 +90,8 @@ Brenna:
 
 ### How Computers and Electronics Work (9:00 - 10:30)
 
-Classroom A with a very special guest.
+Join Jeff in Classroom A where we'll talk about electricity, clocks, gates, and
+[other fancy things](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown).
 
 ### Binary, Octal and Hex (10:30 - 12:00)
 
