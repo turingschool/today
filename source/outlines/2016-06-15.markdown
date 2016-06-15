@@ -44,8 +44,8 @@ Classroom C.
 #### With Josh
   - 9:00 - Claudia
   - 9:20 - Jon L
-  - 9:40 - Admir
-  - 10:00 - Thom
+  - 9:40 - Thom
+  - 10:00 - Admir
   - 10:20 - Ashwin
   - 10:40 - Marina
   - 11:00 - Kris
