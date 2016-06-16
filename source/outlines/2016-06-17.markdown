@@ -4,25 +4,11 @@ layout: outline
 ---
 
 ## All
-### Cross Cohort Pairing - 1605 & 1603 (9:00 - 12:00)
 
-YOURE WORKING ON WEBGUESSER YEAAAHHHHH
+### Code Retreat (10:00 - 12:00)
 
-* Anna Weisbrodt & Angela Lindow & Tommasina Miller
-* Brian Sayler & Caleb Cowen & Trent Whitinger
-* Charles Kaminer & Christopher Concannon & Yoseph Anderson
-* Colin Osborn & David Tinianow & Zachary Forbing
-* Erin Greenhalgh & Garrett Smestead
-* Ilana Corson & Sonia Gupta
-* Jennifer Soden & Jason Hanna
-* Karina Gonzalez & Kris Sparks
-* Kerry Sheldon & Lin McCartney
-* Lucy Fox & Matt Campbell
-* Marcella Wigg & Lane Winham
-* Nick Pisciotta & Patrick Wentz
-* Parker Philips & Nicole Marino
-* Robert Jaeger & Roberta Doyle
-* Ryan Batty & Ryan Flach
+Gather in the Big Workspace with Horace on his Last Day!
+
 
 ### Retro(1:00 - 2:15)
 
@@ -48,8 +34,23 @@ The first 15 minutes will be a rundown of the intermission work with the Anchor 
 * Ling
 * Jeneve
 
-## 1603
 
-### JumpStart Mod3 (9:00 - 12:00)
+### Cross Cohort Pairing - 1605 & 1603 (2:15 - 4:00)
 
-Let's get together and play around with Mod3 topics. Join us in classroom B.
+YOURE WORKING ON WEBGUESSER YEAAAHHHHH
+
+* Anna Weisbrodt & Angela Lindow & Tommasina Miller
+* Brian Sayler & Caleb Cowen & Trent Whitinger
+* Charles Kaminer & Christopher Concannon & Yoseph Anderson
+* Colin Osborn & David Tinianow & Zachary Forbing
+* Erin Greenhalgh & Garrett Smestead
+* Ilana Corson & Sonia Gupta
+* Jennifer Soden & Jason Hanna
+* Karina Gonzalez & Kris Sparks
+* Kerry Sheldon & Lin McCartney
+* Lucy Fox & Matt Campbell
+* Marcella Wigg & Lane Winham
+* Nick Pisciotta & Patrick Wentz
+* Parker Philips & Nicole Marino
+* Robert Jaeger & Roberta Doyle
+* Ryan Batty & Ryan Flach
