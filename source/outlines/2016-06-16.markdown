@@ -126,14 +126,14 @@ Assume evals will be **25 minutes** (because we're `always there when you call, 
 
   * Lucy Fox
   * Anna Weisbrodt
-  * Colin Osborn
   * Charles Kaminer
   * Robert Jaeger
   * Kerry Sheldon
-  * Jennifer Soden
   * Nick Pisciotta
   * Marcella Wigg
   * Ryan Batty
+  * Jennifer Soden
+  * Colin Osborn
   * Brian Sayler
   * Ilana Corson
   * Karina Gonzalez
