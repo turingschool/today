@@ -9,6 +9,15 @@ layout: outline
 
 Gather in the Big Workspace with Horace on his Last Day!
 
+We'll partner up in cross-cohort pairs for a few sessions of implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+If you've never heard of the Game of Life, it's a "cellular automaton" that simulates hypothetical populations of cells by imposing a few simple rules.
+
+The Game of Life is a popular programming exercise because it demonstrates some interesting emergent behaviors while still being straightforward to implement.
+
+Here's a neat example of what a sophisticated representation can look like:
+
+![Game of Life](https://upload.wikimedia.org/wikipedia/commons/d/d0/Color_coded_racetrack_large_channel.gif)
 
 ### Retro(1:00 - 2:15)
 
