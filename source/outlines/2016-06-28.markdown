@@ -1,0 +1,105 @@
+---
+title: 20160628
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**Endsville** - _adjective_ - most wonderful or exciting.
+
+NAME TAGS ALL WEEK
+
+
+## 1602
+
+### Introduction to Unit Testing JavaScript (9:00 - 10:00)
+
+Join Meeka in Classroom B.
+
+### Array Prototype Methods (10:00 - 12:00)
+
+Stay in Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Classroom C.
+
+### Understanding Multi-Tenancy (10:00 - 12:00)
+
+Classroom C.
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### HTML/CSS Partner Review (9:00 - 9:30)
+
+Review it in the Big Workspace
+
+### HTML/CSS Review (9:30 - 10:00)
+
+Stay in the Big Workspace.
+
+### Ruby Pairing (10:00 - 11:00)
+
+Pairing on some Rubies.
+
+### Templating with ERB (11:00 - 12:00)
+
+Casey will join you for some templating action.
+
+### CRUD Workshop in Sinatra (1:00 - 4:00)
+
+Deets incoming.
+
+
+## 1606 - Back End
+
+### Team Building (9:00 - 11:00)
+
+Classroom A.
+
+### Mentoring, Posses and Q and A (11:00 - 12:00)
+
+Classroom A with Mike.
+
+### Headshots (12:00 - 1:00)
+
+Schedule TBD.
+
+### Echo: Superfizz Recap (1:00 - 1:30)
+
+Staff table with Mike.
+
+### Foxtrot: Strings and Integers Recap (1:00 - 1:30)
+
+Classroom A with Beth.
+
+### Echo: Strings and Integers Riddles (1:30 - 3:00)
+
+Staff table with Mike.
+
+### Foxtrot: Flow Control (1:30 - 3:00)
+
+Classroom A with Beth.
+
+### All: Student Activities Mixer (3:00 - 4:00)
+
+Classroom A.
+
+### Homework
+
+Watch the videos on .each and the exercises.
+[Link]()

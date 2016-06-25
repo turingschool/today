@@ -1,0 +1,75 @@
+---
+title: 20160629
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**tohubohu** - _noun_ - chaos; disorder; confusion
+
+NAME TAGS ALL WEEK.
+
+## 1602
+
+### Event Bubbling and Delegation (9:00 - 10:30)
+
+Meeka the Great will grace you with her presence in Classroom B.
+
+### Functions and THIS in JavaScript (10:30 - 12:00)
+
+A Wild Yang Jhun appears!
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+
+## 1603
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+
+## 1605
+
+### CRUD Homework Review (9:00 - 9:30)
+
+Andrew in the Workspace Grande.
+
+### Model Testing in Sinatra (9:30 - 11:30)
+
+Casey joins you.
+
+### Nokogiri (11:30 - 12:00)
+
+Good luck.
+
+### How the Web Works (1:00 - 2:00)
+
+Classroom B.
+
+### Feature Testing with Capybara (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1606 - Back End
+
+### Introducing Arrays (9:00 - 10:30)
+
+Join Jeff for arts and crafts in Classroom C.
+
+### Exploring .each and Exercises (10:30 - 12:00)
+
+Mike tags in.
+
+### Drills Work Time (1:00 - 4:00)
+
+Work away at your drills, Mike and Beth will be available for your questions.

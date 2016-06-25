@@ -1,0 +1,113 @@
+---
+title: 20160627
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**encephalon** - noun - the brain
+
+NAME TAGS ALL WEEK.
+
+
+## 1602
+
+### Module 4 KickOff (9:00 - 11:00)
+
+Gather ye all in Classroom B!
+
+### Ideabox 2.0 Kickoff (11:00 - 12:00)
+
+Those ideas won't box themselves, you know.
+
+### Debugging JavaScript (1:00 - 2:30)
+
+How to make sense of things when it all goes wrong.
+
+### Instructor Pairing and Project Work Time (2:30 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### Module 3 KickOff (9:00 - 10:30)
+
+Classroom C.
+
+### The Pivot Kickoff (10:30 - 12:00)
+
+Hold onto your butts.
+
+### Project Work Time (1:00 - 4:00)
+
+Time to do the works.
+
+
+## 1605
+
+### Module 2 Intro and Goal Setting (9:00 - 10:30)
+
+Big Workspace. Is where you will be. To set some goals. And move towards
+those poles.
+
+### Intro to Sinatara / Task Manager (10:30 - 12:00)
+
+Big Workspace.
+
+### Introduction to Bootstrap (1:00 - 4:00)
+
+Pretty Pretty. Big Workspace.
+
+
+## 1606 - Back End
+
+### Staff Introductions (8:30 - 9:00)
+
+Meet in Classroom A. If you don't know where Classroom A is, make a new friend
+and ask them!
+
+### Tour and Getting Started (9:00 - 9:30)
+
+Mike will take you on a grand tour of the surrounding area.
+
+### Success at Turing (9:30 - 11:30)
+
+Horace will talk to you about what it takes to be successful at Turing.
+
+### Introducing Portfolios and Personal Goal Setting (11:30 - 12:00)
+
+Beth will talk to you next about Portfolios.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You got to know all about us, now it's time for us to know about you. Stay in
+Classroom A, lunch is on us.
+
+### Echo: Ruby in 90 Minutes (1:00 - 3:00)
+
+Join Mike at the Staff conference table.
+
+### Foxtrot: Strings and Integers (1:00 - 3:00)
+
+Join Beth in Classroom A.
+
+### All: Drills Kickoff (3:00 - 3:30)
+
+Kicking off those Drills in Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown)
+
+### Echo: Robodoku Kickoff (3:30 - 4:00)
+
+Meet with Horace at the Staff table.
+
+### Foxtrot: Credit Check Kick Off / Drills Office Hours (3:30 - 4:00)
+
+Classroom A with Mike and Beth.
+
+### Foxtrot Homework
+
+[SuperFizz](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)

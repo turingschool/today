@@ -1,0 +1,77 @@
+---
+title: 20160630
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**sniglet** - _noun_ - any word coined for something that has no specific name
+
+NAME TAGS ALL WEEK
+
+
+## 1602
+
+### IdeaBox Code Reviews (9:00 - 10:00)
+
+Big Workspace
+
+### IdeaBox Tutorial (10:00 - 12:00)
+
+Big Workspace.
+
+### BE-4 / FE-1 Pairing & IdeaBox Evals (1:00 - 4:00)
+
+Pairs TBA.
+
+Schedule TBD.
+
+
+## 1603
+
+### Project Work Time and One on Ones (9:00 - 12:00)
+
+Schedule TBD.
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### What is Rack? (9:00 - 10:00)
+
+[What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+Classroom B.
+
+### SQL (9:30 - 10:30)
+
+Classroom B.
+
+### Sequel (10:30 - 12:00)
+
+Classroom B.
+
+### Task Manager Transformation with Sequel (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1606 - Back End
+
+### All: Essential Enumerables, Map, Select, Find. (9:00 - 10:30)
+
+Classroom A with Mike.
+
+### All: Introducing Hashes (10:30 - 12:00)
+
+More arts and crafts with Jeff in Classroom A.
+
+### All: Objects, Instances and Classes (1:00 - 4:00)
+
+Beth in Classroom A.
+
