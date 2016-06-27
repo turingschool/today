@@ -71,16 +71,15 @@ Time to do the works.
 
 ### Module 2 Intro and Goal Setting (9:00 - 10:30)
 
-Big Workspace. Is where you will be. To set some goals. And move towards
-those poles.
+Big Workspace. Let's talk about all the things module 2, set our goals and talk about what's to come over the next 6 weeks.
 
 ### Intro to Sinatara / Task Manager (10:30 - 12:00)
 
-Big Workspace.
+Big Workspace. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sinatra.markdown) is the lesson plan.
 
 ### Introduction to Bootstrap (1:00 - 4:00)
 
-Pretty Pretty. Big Workspace.
+Pretty Pretty websites. Let's explore Bootstrap with [this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown). Big Workspace.
 
 
 ## 1606 - Back End
