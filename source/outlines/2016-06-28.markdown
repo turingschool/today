@@ -11,7 +11,6 @@ layout: outline
 
 NAME TAGS ALL WEEK
 
-
 ## 1602
 
 ### Introduction to Unit Testing JavaScript (9:00 - 10:00)
@@ -22,9 +21,59 @@ Join Meeka in Classroom B.
 
 Stay in Classroom B.
 
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/7b9c8bc4fe78a51196f25f966d055af3
+
+You'll be working in the following pairs:
+
+* Jeneve Parrish & Claudia Kiesenhofer
+* Alireza Andersen & Jared Roth
+* Patrick Hardy & Mark Miranda
+* Marina Corona & Kris Foss
+* Kami Boers & Jonathan Liss
+* Jonathan Bernesser & Joshua Washke
+* Thomas Pickett & Ashwin Rao
+* Sal Espinosa & Chad Ellison
+* Andrew Thompson & Matt Pindell
+* Ling Tran & Gurusundesh Khalsa & Alex Navarrete
+
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+Come with your project and your questions!
+
+#### With Jhun
+
+* 1:15: Matt Pindell
+* 1:35: Thomas Pickett
+* 1:55: Joshua Washke
+* 2:15: Chad Ellison
+* 2:45: Andrew Thompson
+* 3:15: Patrick Hardy
+* 3:35: Ling Tran
+
+#### With Brenna
+
+* 1:15: Jonathan Bernesser
+* 1:35: Claudia Kiesenhofer
+* 1:55: Alireza Andersen
+* 2:15: Sal Espinosa
+* 2:45: Kris Foss
+* 3:15: Alex Navarrete
+* 3:35: Mark Miranda
+
+#### With Meeka
+
+* 1:55: Ashwin Rao
+* 1:35: Marina Corona
+* 1:55: Jared Roth
+* 2:15: Jonathan Liss
+* 2:45: Jeneve Parrish
+* 3:15: Gurusundesh Khalsa
 
 
 ## 1603
