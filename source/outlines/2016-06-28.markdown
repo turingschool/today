@@ -88,7 +88,20 @@ Classroom C.
 
 ### Check Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBD.
+Check-ins will be 30-45 minutes. Keep an eye on slack to find out when you're team is up.
+
+[Moar Info](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md#1st-check-in)
+
+#### With Josh
+
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+
+#### With Nate
+
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
 
 
 ## 1605
