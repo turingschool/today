@@ -75,7 +75,7 @@ Big Workspace. Let's talk about all the things module 2, set our goals and talk 
 
 ### Intro to Sinatara / Task Manager (10:30 - 12:00)
 
-Big Workspace. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_sinatra.markdown) is the lesson plan.
+Big Workspace.
 
 ### Introduction to Bootstrap (1:00 - 4:00)
 
