@@ -41,6 +41,10 @@ Sign up for pairing slots if you want 'em:
 
 https://public.etherpad-mozilla.org/p/instructor-pairing
 
+### Homework
+
+[ES6 Assignment](https://gist.github.com/rrgayhart/67ed81f58a9b9295136c619a5186e71b) (5 points)
+
 ## 1603
 
 ### Module 3 KickOff (9:00 - 10:30)
