@@ -49,7 +49,7 @@ Casey joins you in classroom A.
 
 ### Nokogiri (11:30 - 12:00)
 
-Good luck.
+And Andrew again to talk about Nokogiri.
 
 ### How the Web Works (1:00 - 2:00)
 
