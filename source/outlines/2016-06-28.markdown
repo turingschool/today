@@ -135,7 +135,7 @@ Casey will join you for some templating action.
 
 ### CRUD Workshop in Sinatra (1:00 - 4:00)
 
-[Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown) is the lesson plan.
+Come to Classroom C. We'll use [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown) is the lesson plan.
 
 
 ## 1606 - Back End
