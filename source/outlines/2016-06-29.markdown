@@ -30,7 +30,9 @@ Work.
 
 ### Multi-Tenancy Authorization (9:00 - 12:00)
 
-Classroom C.
+Join Josh in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.md)
 
 ### Project Work Time (1:00 - 4:00)
 
