@@ -58,9 +58,9 @@ Come with your project and your questions!
 
 #### With Brenna
 
-* 1:15: Jonathan Bernesser
-* 1:35: Claudia Kiesenhofer
-* 1:55: Alireza Andersen
+* 1:15: Alireza Andersen
+* 1:35: Jonathan Bernesser
+* 1:55: Claudia Kiesenhofer
 * 2:15: Sal Espinosa
 * 2:45: Kris Foss
 * 3:15: Alex Navarrete
@@ -119,7 +119,7 @@ Come to the big workspace for a review your HTML and CSS skills with a partner.
 * David Tinianow & Linda McCartney
 * Kris Sparks & Christopher Concannon
 * Garrett Smestad & Angela Lindow
-* Patrick Wentz & Ryan Flach 
+* Patrick Wentz & Ryan Flach
 
 ### HTML/CSS Review (9:30 - 10:00)
 
