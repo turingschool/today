@@ -41,11 +41,11 @@ Work.
 
 ### CRUD Homework Review (9:00 - 9:30)
 
-Andrew in the Workspace Grande.
+Join Andrew in the classroom A.
 
 ### Model Testing in Sinatra (9:30 - 11:30)
 
-Casey joins you.
+Casey joins you in classroom A.
 
 ### Nokogiri (11:30 - 12:00)
 
