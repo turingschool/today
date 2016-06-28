@@ -17,6 +17,8 @@ NAME TAGS ALL WEEK
 
 Join Meeka in Classroom B.
 
+[Slide Deck](https://speakerdeck.com/rrgayhart/turing-testing-js-in-rails)
+
 ### Array Prototype Methods (10:00 - 12:00)
 
 Stay in Classroom B.
@@ -75,6 +77,9 @@ Come with your project and your questions!
 * 2:45: Jeneve Parrish
 * 3:15: Gurusundesh Khalsa
 
+### Homework
+
+[Implementing Testing - Resources and Assignment](https://gist.github.com/rrgayhart/a15d8017cad3ce4ab58bc4f50afd1c86) (15 points)
 
 ## 1603
 
