@@ -113,7 +113,7 @@ Check-ins will be 30-45 minutes. Keep an eye on slack to find out when you're te
 
 ### HTML/CSS Partner Review (9:00 - 9:30)
 
-Come to the big workspace for a review your HTML and CSS skills with a partner.
+Come to the big workspace for a review your HTML and CSS skills with a partner. [Here](https://gist.github.com/Carmer/6e6789c77d816cbd57a5390ead4b114b) is a prompt to help with your review.
 
 * Michael Lane Winham & Yoseph Anderson
 * Jason Hanna & Matthew Packer
