@@ -140,17 +140,17 @@ Come to Classroom C. We'll use [this lesson](https://github.com/turingschool/les
 
 ## 1606 - Back End
 
-### Team Building (9:00 - 11:00)
-
-Classroom A.
-
-### Mentoring, Posses and Q and A (11:00 - 12:00)
+### Mentoring, Posses and Q and A (9:00 - 10:00)
 
 Classroom A with Mike.
 
+### Team Building (10:00 - 11:00)
+
+Classroom A.
+
 ### Headshots (12:00 - 1:00)
 
-Schedule TBD.
+[Schedule](http://docs.google.com/spreadsheets/d/1XUoMJin7Ht0XfpKz0P1SSTEoTKbGvFRAIFfNqX-o91c/edit#gid=0r)
 
 ### Echo: Superfizz Recap (1:00 - 1:30)
 
@@ -158,15 +158,15 @@ Staff table with Mike.
 
 ### Foxtrot: Strings and Integers Recap (1:00 - 1:30)
 
-Classroom A with Beth.
+Staff Table with Beth.
 
 ### Echo: Strings and Integers Riddles (1:30 - 3:00)
 
-Staff table with Mike.
+Classroom A with Mike.
 
 ### Foxtrot: Flow Control (1:30 - 3:00)
 
-Classroom A with Beth.
+Staff Table with Beth.
 
 ### All: Student Activities Mixer (3:00 - 4:00)
 
