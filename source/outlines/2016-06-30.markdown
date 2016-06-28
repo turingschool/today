@@ -33,12 +33,41 @@ Schedule TBD.
 
 ### Project Work Time and One on Ones (9:00 - 12:00)
 
-Schedule TBD.
+#### With Josh
+
+* Jennifer Soden
+* Parker Phillips
+* Robert Jaeger
+* Colin Osborn
+* Ilana Corson
+* Anna Weisbrodt
+* Ryan Batty
+* Christopher Soden
+
+#### With Nate
+
+* Charles Kaminer
+* Nick Pisciotta
+* Lucy Fox
+* Marcella Wigg
+* Karina Gonzalez
+* Erin Greenhalgh
+* Deborah Hamel
+* Brian Sayler
+* Kerry Sheldon
 
 ### Check Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
 
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+
+#### With Nate
+
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
 
 ## 1605
 
@@ -74,4 +103,3 @@ More arts and crafts with Jeff in Classroom A.
 ### All: Objects, Instances and Classes (1:00 - 4:00)
 
 Beth in Classroom A.
-
