@@ -78,7 +78,7 @@ And Andrew again to talk about Nokogiri. [Here is your lesson plan](https://gith
 
 ### How the Web Works (1:00 - 2:00)
 
-Classroom B.
+Classroom B. We'll work with [this gist](https://gist.github.com/Carmer/1ac51aa7418c6bd4b1d19e22fa0e03a8)
 
 ### Feature Testing with Capybara (2:00 - 4:00)
 
