@@ -89,7 +89,7 @@ Classroom B.
 
 ### Introducing Arrays (9:00 - 10:30)
 
-Join Jeff for arts and crafts in Classroom C.
+Join Jeff for arts and crafts in Classroom B.
 
 We'll use [this Arrays lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays.markdown).
 
