@@ -46,7 +46,7 @@ Work.
 
 ### CRUD Homework Review (9:00 - 9:30)
 
-Join Andrew in the classroom A.
+Join Andrew in classroom A to talk about the homework.
 
 ### Model Testing in Sinatra (9:30 - 11:30)
 
