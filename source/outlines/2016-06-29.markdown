@@ -91,6 +91,18 @@ Classroom B.
 
 Join Jeff for arts and crafts in Classroom C.
 
+We'll use [this Arrays lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays.markdown).
+
+You can sit with these folks for our group-work section:
+
+* Nate Anderson & Daniel Wooster & Gabrielle Procell
+* Dan Broadbent & Alisher Sadikov & Ben Pepper
+* Kinan Whyte & Brian Heim & David Seaver
+* Steven Chase Dunagan & Jasmin Hudacsek & Susi Irwin
+* Brendan Dilon & Ryan David Workman & Raphael Barbo
+* Peter Jean Joeris & Michael Hill & Jesse Spevack
+* David Davydov & Bryan Goss & Christopher Calaway
+
 ### Exploring .each and Exercises (10:30 - 12:00)
 
 Mike tags in.
