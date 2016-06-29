@@ -71,21 +71,24 @@ Schedule TBD.
 
 ## 1605
 
-### What is Rack? (9:00 - 10:00)
+### How the Web Works Q & A (9:00 - 9:30)
+Classroom B
+
+### What is Rack? (9:30 - 10:00)
 
 [What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
 Classroom B.
 
-### SQL (9:30 - 10:30)
+### SQL (10:00 - 11:00)
 
 Classroom B.
 
-### Sequel (10:30 - 12:00)
+### Intro to ORM's & TaskManager Transformation (11:00 - 12:00)
 
 Classroom B.
 
-### Task Manager Transformation with Sequel (1:00 - 4:00)
+### Task Manager Transformation Continued & Worktime (1:00 - 4:00)
 
 Classroom B.
 
