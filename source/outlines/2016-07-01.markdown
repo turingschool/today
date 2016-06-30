@@ -7,7 +7,7 @@ layout: outline
 ## Weekly Surveys
 
 [1602]()
-[1603]()
+[1603](http://goo.gl/forms/kEQwv8qYxtce04X42)
 [1605]()
 [1606-B]()
 
@@ -65,3 +65,15 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 ### Student Led Sessions (2:15 - 3:45)
 
 ### Group Retros (3:45 - 4:00)
+
+#### 1602
+
+Classroom B
+
+#### 1603
+
+Classroom A
+
+#### 1605
+
+#### 1606-B
