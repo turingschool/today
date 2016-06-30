@@ -47,6 +47,7 @@ Wrap up your [submission form PRs](https://github.com/turingschool/ruby-submissi
 * Patrick Hardy
 * Alireza Andersen
 * Drew Thompson
+* Matt Pindell
 
 #### With Jhun
 
