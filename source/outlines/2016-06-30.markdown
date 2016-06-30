@@ -140,6 +140,16 @@ Classroom A with Mike.
 
 Continue with Jeff in Classroom A where we'll get into [Hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays.markdown).
 
+We'll use these groups:
+
+* Christopher Calaway & Susi Irwin & Kinan Whyte
+* Dan Broadbent & Brendan Dilon & Ben Pepper
+* Peter Jean Joeris & Brian Heim & Steven Chase Dunagan
+* Ryan David Workman & Bryan Goss & Nate Anderson
+* Jasmin Hudacsek & Alisher Sadikov & Jesse Spevack
+* David Davydov & Michael Hill & Gabrielle Procell
+* Raphael Barbo & David Seaver
+
 ### All: Work Time (1:00 - 4:00)
 
 We're bumping this afternoon's class to early next week to allow for some extra work time.
