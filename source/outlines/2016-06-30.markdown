@@ -19,7 +19,7 @@ NAME TAGS ALL WEEK
 Meet with Meeka in the Big Workspace to discuss events in JavaScript.
 
 - [Basic Events](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/01-basic-events.md)
-(**Note**: We'll be using [this JSBin](http://jsbin.com/gosocez/1/edit?js,console,output) to try out some examples.)
+(**Note**: We'll be using [this JSBin](http://jsbin.com/fevopir/edit?js,console,output) to try out some examples.)
 
 - [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/gosocez/1/edit?js,console,output) to try out some examples.)
 
