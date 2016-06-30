@@ -142,7 +142,7 @@ Classroom A with Mike.
 
 ### All: Introducing Hashes (10:30 - 12:00)
 
-Continue with Jeff in Classroom A where we'll get into [Hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays.markdown).
+Continue with Jeff in Classroom A where we'll get into [Hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/hashes.markdown).
 
 We'll use these groups:
 
