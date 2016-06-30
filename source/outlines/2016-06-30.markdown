@@ -14,20 +14,57 @@ NAME TAGS ALL WEEK
 
 ## 1602
 
-### IdeaBox Code Reviews (9:00 - 10:00)
+### Events in JavaScript (9:00 - 10:30)
 
-Big Workspace
+Meet with Meeka in the Big Workspace to discuss events in JavaScript.
 
-### IdeaBox Tutorial (10:00 - 12:00)
+- [Basic Events](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/01-basic-events.md)
+(**Note**: We'll be using [this JSBin](http://jsbin.com/gosocez/1/edit?js,console,output) to try out some examples.)
+
+- [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/gosocez/1/edit?js,console,output) to try out some examples.)
+
+- [Event Delegation](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/05-event-delegation.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/kidamohoja/1/edit?js,console,output) to try out some examples.)
+
+### An Introduction to Object Oriented JavaScript (10:30 - 11:00)
 
 Big Workspace.
 
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
+
+### Work Time (11:00 - 12:00)
+
+Wrap up your [submission form PRs](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/ideabox2.0/README.md) && make sure Ideabox is deployed!
+
 ### BE-4 / FE-1 Pairing & IdeaBox Evals (1:00 - 4:00)
 
-Pairs TBA.
+** @ Commons on Champa **
 
-Schedule TBD.
+#### With Meeka
 
+* 1:15: Ling Tran
+* Claudia Kiesenhofer
+* Chad Ellison
+* Patrick Hardy
+* Alireza Andersen
+* Kami Boers
+
+#### With Jhun
+
+* 1:15: Mark Miranda
+* Joshua Washke
+* Sal Espinosa
+* Kris Foss
+* Alex Navarrete
+* Jonathan Bernesser
+
+#### With Brenna
+
+* 1:15: Ashwin Rao
+* Gurusundesh Khalsa
+* Jeneve Parrish
+* Jonathan Liss
+* Jared Roth
+* Marina Corona
 
 ## 1603
 
