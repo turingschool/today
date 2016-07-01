@@ -62,7 +62,7 @@ With the remaining time, we'll be doing a personal project group brainstorm. Bri
 
 #### 1605
 
-Let's meet in your safety-zone aka Classroom A. 
+Let's meet in your safety-zone aka Classroom A.
 
 #### 1606-B
 
@@ -104,14 +104,14 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 
 ### Student Led Sessions (2:15 - 3:15)
 
-#### Blog Writing - Allison - 1 Week
-#### Mod 1 & 2 Support - Hopper Posse - Recurring
-#### Rust (Low Level Languages) - Matt Pindell - Recurring
-#### Interview Prep with Interview Cake - Jonathan Bernesser - Recurring
-#### All Your References Are Belong to Us (C++) - Jon Liss - 2-3 Weeks
-#### The Principles of Design Applied to Code - Jeneve Parrish - 1 week
-#### Civic Tech Guest Speaker Presented by Pahlka Posse (remote) - Dan Melton (CTO of Neighborly; former CTO of Code for America) - 1 Week
-#### Building Video Games with Unity - Miyamoto Posse (Ryan Batty) - Recurring
+* Blog Writing - Allison - 1 Week - *Table in Instructor Area*
+* Mod 1 & 2 Support - Hopper Posse - Recurring - *Classroom C*
+* Rust (Low Level Languages) - Matt Pindell - Recurring - *Big Workspace Couches*
+* Interview Prep with Interview Cake - Jonathan Bernesser - Recurring - *Big Workspace Classroom*
+* All Your References Are Belong to Us (C++) - *CANCELLED - Check out the Rust session.*
+* The Principles of Design Applied to Code - Jeneve Parrish - 1 week - *Horace's Lair*
+* Civic Tech Guest Speaker Presented by Pahlka Posse (remote) - Dan Melton (CTO of Neighborly; former CTO of Code for America) - 1 Week - *Classroom A*
+* Building Video Games with Unity - Miyamoto Posse (Ryan Batty) - Recurring - *Classroom A Couches*
 
 ### Group Retros (3:15 - 4:00)
 
