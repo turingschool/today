@@ -108,8 +108,8 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 * Mod 1 & 2 Support - Hopper Posse - Recurring - *Classroom C*
 * Rust (Low Level Languages) - Matt Pindell - Recurring - *Big Workspace Couches*
 * Interview Prep with Interview Cake - Jonathan Bernesser - Recurring - *Big Workspace Classroom*
-* All Your References Are Belong to Us (C++) - *CANCELLED - Check out the Rust session.*
-* The Principles of Design Applied to Code - Jeneve Parrish - 1 week - *Horace's Lair*
+* ~~All Your References Are Belong to Us (C++) - Check out the Rust session.*~~ - *CANCELLED*
+* ~~The Principles of Design Applied to Code - Jeneve Parrish - 1 week - *Horace's Lair*~~  - *CANCELLED*
 * Civic Tech Guest Speaker Presented by Pahlka Posse (remote) - Dan Melton (CTO of Neighborly; former CTO of Code for America) - 1 Week - *Classroom A*
 * Building Video Games with Unity - Miyamoto Posse (Ryan Batty) - Recurring - *Classroom A Couches*
 
