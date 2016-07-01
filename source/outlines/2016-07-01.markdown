@@ -57,9 +57,31 @@ With the remaining time, we'll be doing a personal project group brainstorm. Bri
 
 #### 1606-B
 
-Echo - Classroom B.
+We'll be split into two groups this morning.
 
-Foxtrot - Staff Table
+##### Echo
+
+The Echo group will meet in Classroom B.
+
+First, from 10:00-11:00, is a Robodoku Roundtable with Mike. Let's see what you've built!
+Three students will have the opportunity to demonstrate their project and we'll
+look to highlight differences in approach, explore what was hard/interesting, and
+see if we're getting the same answers for different puzzles.
+
+Then, from 11:00-11:30, we'll check out your next project: [CompleteMe](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown).
+You'll work on it solo and have it ready for evaluation by instructors on Friday, 7/8.
+
+##### Foxtrot
+
+The Foxtrot group will meet at the Staff Table.
+
+First, from 10:00-11:00, is a Credit Check Road Show with Beth and Jeff. You've
+worked through the problem yourself, now let's work through it together. Pay
+particular attention to the *process* Jeff and Beth use rather than the details
+of the code.
+
+Then, from 11:00-11:30, we'll intro your next project: [Flashcards](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown).
+You'll work on it solo and have it ready for evaluation by instructors on Friday, 7/8.
 
 ### State of Turing (11:30 - 12:00)
 
