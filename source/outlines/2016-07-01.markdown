@@ -5,7 +5,7 @@ layout: outline
 
 ## Weekly Surveys
 
-- [1602]()
+- [1602](http://goo.gl/forms/oEpaFoqHvS7hdIZ42)
 - [1603](http://goo.gl/forms/kEQwv8qYxtce04X42)
 - [1605]()
 - [1606-B](http://goo.gl/forms/lX1L689TxMXtP5nH3)
@@ -43,6 +43,14 @@ A software consultancy specializing in web and mobile application development. C
 ### Instructional Time (10:00 - 11:30)
 
 #### 1602
+
+Grab a seat in the **Big Workspace** or anywhere else you like to work
+
+One of the best ways to learn about code is to see how other developers think about writing code.
+
+You'll be working through a walkthrough Steve Kinney put together for his first pass at an Ideabox project. Don't try to print it out, it's about the quarter of the length of a book.
+
+- [Idea Box](https://github.com/rrgayhart/steve-idea-box)
 
 #### 1603
 
