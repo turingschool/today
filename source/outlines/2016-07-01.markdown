@@ -101,6 +101,7 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 [Lunch Roulette Spreadsheet](https://docs.google.com/spreadsheets/d/1-NUc9JB2jkAAgGR5UyuSC_L_TPRHuCejPLdCWLyVOYw/edit#gid=0)
 
 ### Gear Up (1:15 - 2:15)
+[Outline](https://github.com/turingschool/gear-up/blob/master/strengths.markdown)
 
 ### Student Led Sessions (2:15 - 3:15)
 
