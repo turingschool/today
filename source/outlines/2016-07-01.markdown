@@ -9,7 +9,7 @@ layout: outline
 - [1602]()
 - [1603](http://goo.gl/forms/kEQwv8qYxtce04X42)
 - [1605]()
-- [1606-B]()
+- [1606-B](http://goo.gl/forms/lX1L689TxMXtP5nH3)
 
 ## All
 
@@ -23,9 +23,9 @@ Third Floor
 
 #### Mike Pack:
 
-- LinkedIn:https://www.linkedin.com/in/mikepackdev
-- Twitter: https://twitter.com/mikepack_
-- Website: http://www.mikepackdev.com/
+- [LinkedIn](https://www.linkedin.com/in/mikepackdev)
+- [Twitter](https://twitter.com/mikepack_)
+- [Website](http://www.mikepackdev.com/)
 
 **Mike will be speaking about "Client Project Workflow”**
 
@@ -37,7 +37,7 @@ Mike is the Director of Mode Set where he is solving business problems with Ruby
 
 It's been said that "when it comes to engineering, he [Mike] is a craftsman’s craftsman. He writes beautiful, well designed code that is easy to understand and maintain. His strong grasp of computer science theory and exceptional communication skills, combined with his humble demeanor, make working with him an enjoyable experience."
 
-​**What is Mode Set:**
+**What is Mode Set:**
 
 A software consultancy specializing in web and mobile application development. Created by four developers with a passion for quality and creativity. They are experts at operating in fast-paced, rapidly-changing environments and rapidly delivering working software, with a nimble process that encourages transparency and short feedback cycles.
 
@@ -57,6 +57,10 @@ With the remaining time, we'll be doing a personal project group brainstorm. Bri
 
 #### 1606-B
 
+Echo - Classroom B.
+
+Foxtrot - Staff Table
+
 ### State of Turing (11:30 - 12:00)
 
 Jeff reads some numbers from a document in the big workspace. Bring a chair.
@@ -67,7 +71,7 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 
 ### Gear Up (1:15 - 2:15)
 
-### Student Led Sessions (2:15 - 3:45)
+### Student Led Sessions (2:15 - 3:15)
 
 #### Blog Writing - Allison - 1 Week
 #### Mod 1 & 2 Support - Hopper Posse - Recurring
@@ -78,7 +82,7 @@ Jeff reads some numbers from a document in the big workspace. Bring a chair.
 #### Civic Tech Guest Speaker Presented by Pahlka Posse (remote) - Dan Melton (CTO of Neighborly; former CTO of Code for America) - 1 Week
 #### Building Video Games with Unity - Miyamoto Posse (Ryan Batty) - Recurring
 
-### Group Retros (3:45 - 4:00)
+### Group Retros (3:15 - 4:00)
 
 #### 1602
 
@@ -90,4 +94,8 @@ Classroom A
 
 #### 1605
 
+Big Workspace
+
 #### 1606-B
+
+Classroom C
