@@ -3,7 +3,6 @@ title: 20160701
 layout: outline
 ---
 
-
 ## Weekly Surveys
 
 - [1602]()
