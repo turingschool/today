@@ -22,6 +22,7 @@ Classroom A.
 
 - [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 - [Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+- [Submission Repo]()
 
 #### Groups
 
@@ -37,6 +38,13 @@ Classroom A.
 * Marina Corona & Jeneve Parrish
 
 ### Project Work Time (2:30 - 4:00)
+
+Work!
+
+### Homework
+
+- [The Concept of Require](https://gist.github.com/rrgayhart/ecfef18b681d0dca6ec2929c71e7c505) (5 points)
+
 
 ## 1603
 
