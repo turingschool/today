@@ -22,7 +22,7 @@ Classroom A.
 
 - [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 - [Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
-- [Submission Repo]()
+- [Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/gametime)
 
 #### Groups
 
