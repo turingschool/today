@@ -1,0 +1,71 @@
+---
+title: 20160706
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**ebullient** - _adjective_ - overflowing with enthusiasm or excitement;
+Andrew after drinking cold brew coffee.
+
+
+## 1602
+
+### Testing Game Time (9:00 - 11:00)
+
+Classroom C.
+
+### Introduction to Build Tools (11:00 - 12:00)
+
+Classroom C.
+
+
+## 1603
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Big Workspace
+
+### Sending Email (10:30 - 12:00)
+
+Big Workspace
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.
+
+
+## 1605
+
+### Visualizing and Implementing Database Relationships (9:00 - 11:00)
+
+Classroom B.
+
+### Protocol - Collaborative Communication (11:00 - 12:00)
+
+Classroom B.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### Getting Started with Git (9:00 - 12:00)
+
+Classroom A.
+
+### Problems, Solutions, and Algorithms (1:00 - 2:30)
+
+Classroom A.
+
+### Debugging Techniques (2:30 - 4:00)
+
+Classroom A.
+
+
+
+
