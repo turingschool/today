@@ -76,13 +76,11 @@ Classroom C. [Here is the lesson plan.](https://github.com/turingschool/lesson_p
 
 ### Introduction to Project Management (1:00 - 3:00)
 
-Classroom C
+Classroom C. [Here is our lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_project_management.markdown)
 
 ### Rush Hour Kick Off (3:00 - 4:00)
 
-Guess where?
-
-
+Guess where? It's classroom C.
 
 
 ## 1606-Back
