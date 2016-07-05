@@ -83,12 +83,18 @@ Classroom B.
 
 ### Portfolios & Module Requirements (10:00 - 10:30)
 
-Classroom B.
+Continue in Classroom B with Beth & Jeff to go over [Portfolios](https://github.com/turingschool/portfolios).
 
-### All: How Testing Works & TDD (10:30 - 12:00)
+### All: Object-Oriented Programming (10:30 - 12:00)
 
-Classroom B.
+After portfolios we'll talk about [storytelling with objects](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) still in B.
 
-### All: Methods, Objects and Classes (1:00 - 4:00)
+### All: How Testing Works (1:00 - 2:00)
 
-Classroom B.
+Join Jeff in Classroom B where we'll [work on the big-picture understandings of TDD](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown).
+
+### All: Intro to TDD Tutorial (2:00 - 4:00)
+
+TDD is about practice, practice, practice. This afternoon work through [this Unicorn-building
+tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html) to go through
+the fundamentals. Beth and Mike will be available for questions.
