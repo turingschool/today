@@ -24,13 +24,23 @@ Classroom C.
 
 ## 1603
 
+### Prior to class:
+
+* Set up [OregonSale](https://github.com/turingschool-examples/store_engine) prior to class. There won't be time for us to set up during class. Look at the `README` for details.
+* Download the [Postman App](https://www.getpostman.com/)
+* Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+
 ### Fundamental Rails Security (9:00 - 10:30)
 
-Big Workspace
+Join Josh in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/fundamental_rails_security.md)
 
 ### Sending Email (10:30 - 12:00)
 
-Big Workspace
+Stay in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/sending_email_sendgrid.md)
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -65,7 +75,3 @@ Classroom A.
 ### Debugging Techniques (2:30 - 4:00)
 
 Classroom A.
-
-
-
-
