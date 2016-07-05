@@ -64,7 +64,7 @@ Classroom C.
 
 ### Introduction to ActiveRecord with Sinatra (9:30 - 12:00)
 
-Classroom C.
+Classroom C. [Here is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown)
 
 ### Introduction to Project Management (1:00 - 3:00)
 
