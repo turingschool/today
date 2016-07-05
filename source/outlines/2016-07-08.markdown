@@ -1,0 +1,94 @@
+---
+title: 20160708
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**multifarious** - _adjective_ - having great diversity or variety; of various
+kinds; diversified
+
+
+## 1602
+
+### Recursion and Generators (9:00 - 10:30)
+
+Classroom C.
+
+### Currying and Partial Application (10:30 - 12:00)
+
+Classroom C.
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### Project Work Time (9:00 - 12:00)
+
+Pivot Away
+
+### Intermediate SQL Homework Review (10:00 - 11:00)
+
+Big Workspace
+
+### Pivot Evaluations (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### View Templating in Sinatra (9:00 - 10:30)
+
+Classroom A
+
+### Rush Hour Work Time (10:30 - 12:00)
+
+Hour those rushes.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### Project Evaluations (9:00 - 12:00)
+
+Things to do while you are not being evaluated.
+
+Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+### With Jeff
+* 9:00 - Daniel Broadbent
+* 9:30 - Bryan Goss
+* 10:00 - Peter Jean Joeris
+* 10:30 - David Davydov
+* 11:00 - Michael Hill
+* 11:30 - Christopher Calaway
+
+### With Mike
+* 9:00 - Brendan Dillon
+* 9:30 - Jesse Spevack
+* 10:00 - Raphael Barbo
+* 10:30 - Susi Irwin
+* 11:00 - Brian Heim
+* 11:30 - Jasmin Hudacsek
+
+### With Beth
+* 9:00 - Nate Anderson
+* 9:30 - Ben Pepper
+* 10:00 - Chase Dunagan
+* 10:30 - Vido Seaver
+* 11:00 - Ryan Workman
+* 11:30 - Gabrielle Procell
+
+### With Brenna
+* 11:00 - Kinan Whyte
+* 11:30 - Alisher Sadikov
