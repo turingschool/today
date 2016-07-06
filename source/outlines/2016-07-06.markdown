@@ -13,15 +13,17 @@ Andrew after drinking cold brew coffee.
 
 ## 1602
 
-### Testing Game Time (9:00 - 11:00)
+### Introduction to Build Tools (9:00 - 10:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown)
+
+Classroom C.
+
+### Testing Game Time (11:00 - 12:00)
 
 Classroom C.
 
 - [Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey/blob/master/README.md)
-
-### Introduction to Build Tools (11:00 - 12:00)
-
-Classroom C.
 
 ### Project Checkins & Ideabox Eval Overflow (1:00 - 4:00)
 
