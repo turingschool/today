@@ -1,0 +1,59 @@
+---
+title: 20160707
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**sublunary** - _adjective_ - situated beneath the moon; hence, of or
+pertaining to this world
+
+
+## 1602
+
+### Async JS  (9:00 - 12:00)
+
+Classroom A with a special guest.
+
+### Protocol - Job Search Strategies (1:00 - 2:00)
+
+Classroom A.
+
+### Jobs Talk Part Deux (2:00 - 4:00)
+
+Classroom A.
+
+
+## 1603
+
+### Project Work Time (ALL DAY)
+
+Do the thing.
+
+
+## 1605
+
+### Using Rack::Test in Sinatra (9:00 - 10:30)
+
+Classroom C.
+
+### Controller Testing Experiments (10:30 - 12:00)
+
+Classroom C.
+
+
+## 1606 - B
+
+### Dynamics (9:00 - 9:45)
+
+Classroom B.
+
+### Ruby's Object Model (9:45 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Do the thing.
