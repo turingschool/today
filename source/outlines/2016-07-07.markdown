@@ -13,18 +13,39 @@ pertaining to this world
 
 ## 1602
 
-### Async JS  (9:00 - 12:00)
+### A Polite Reintroduction to Asynchronous JavaScript (9:00 - 12:00)
 
 Classroom A with a special guest.
 
+- [Slides](https://www.icloud.com/keynote/00026II3eyzH3DhAOBEV8wnQQ#Asynchronous_JavaScript)
+- [Async Lab](http://bit.ly/async-lab)
+
+You'll be working in the following pairs (and a triplet):
+
+* Thomas Pickett & Ashwin Rao
+* Mark Miranda & Kami Boers
+* Patrick Hardy & Alex Navarrete
+* Sal Espinosa & Ling Tran
+* Kris Foss & Matt Pindell
+* Jared Roth & Alireza Andersen
+* Marina Corona & Jeneve Parrish
+* Joshua Washke & Jonathan Bernesser
+* Andrew Thompson & Gurusundesh Khalsa
+* Chad Ellison & Jonathan Liss & Claudia Kiesenhofer
+
 ### Protocol - Job Search Strategies (1:00 - 2:00)
 
-Classroom A.
+Classroom A with Allison
+
+What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going?
+
+Utilizing a job-hunting strategy that has an 86% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute by Richard N. Bolles](http://www.jobhuntersbible.com/)
 
 ### Jobs Talk Part Deux (2:00 - 4:00)
 
-Classroom A.
+Classroom A with Lia
 
+Networking: everyone cringes, but it’s essential to a successful job search. Let’s learn how to talk about ourselves without freezing up, fumbling, or saying something we later regret. How to make great impressions on potential employers
 
 ## 1603
 
@@ -101,12 +122,12 @@ climbing on Turing!
 
 ### Dynamics (9:00 - 9:45)
 
-Classroom B.
+Start today with Beth in Classroom B.
 
 ### Ruby's Object Model (9:45 - 12:00)
 
-Classroom B.
+Continue in B with Jeff to build your understanding of Ruby's Object Model. We'll loosely follow these notes: [Ruby's Object Model](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Do the thing.
+Then this afternoon finish off those projects.
