@@ -13,9 +13,12 @@ pertaining to this world
 
 ## 1602
 
-### Async JS  (9:00 - 12:00)
+### A Polite Reintroduction to Asynchronous JavaScript (9:00 - 12:00)
 
 Classroom A with a special guest.
+
+- [Slides](https://www.icloud.com/keynote/00026II3eyzH3DhAOBEV8wnQQ#Asynchronous_JavaScript)
+- [Async Lab](http://bit.ly/async-lab)
 
 You'll be working in the following pairs (and a triplet):
 
