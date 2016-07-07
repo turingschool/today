@@ -141,13 +141,12 @@ Continue in B with Jeff to build your understanding of Ruby's Object Model. We'l
 * 2:10 - Michael Hill
 * 2:20 - Kinan Whyte
 * 2:30 - David Davydov
-* 2:40 - Chase Dunagan
 
 #### With Mike
 * 1:00 - Ben Pepper
 * 1:10 - Ryan David Workman
 * 1:20 - Jasmin Hudacsek
-* 1:30 - Ben Pepper
+* 1:30 - Chase Dunagan
 * 1:40 - Jesse Spevack
 * 1:50 - Brendan Dillon
 * 2:00 - Nate Anderson
