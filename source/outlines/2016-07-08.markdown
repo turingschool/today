@@ -65,17 +65,28 @@ Pivot to victory!
 
 ## 1605
 
-### View Templating in Sinatra (9:00 - 10:30)
+### View Templating in Sinatra (10:00 - 11:30)
 
 Classroom A
 
-### Rush Hour Work Time (10:30 - 12:00)
+### Rush Hour Work Time (11:30 - 12:00)
 
 Hour those rushes.
 
 ### Rush Hour Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+#### With Andrew
+
+* 1:00: Patrick Wentz & Garrett Smestad & Zachary Forbing
+* 1:45: Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* 2:30: Linda McCartney & Michael Lane Winham & Tommasina Miller
+
+
+#### With Casey
+
+* 1:00: David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
+* 1:45: Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* 2:30: Nicole Marino & Kris Sparks & Trent Whitinger
 
 
 ## 1606-B
