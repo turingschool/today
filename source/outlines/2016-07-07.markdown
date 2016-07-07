@@ -114,12 +114,12 @@ Classroom C.
 
 ### Dynamics (9:00 - 9:45)
 
-Classroom B.
+Start today with Beth in Classroom B.
 
 ### Ruby's Object Model (9:45 - 12:00)
 
-Classroom B.
+Continue in B with Jeff to build your understanding of Ruby's Object Model. We'll loosely follow these notes: [Ruby's Object Model](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
 
 ### Project Work Time (1:00 - 4:00)
 
-Do the thing.
+Then this afternoon finish off those projects.
