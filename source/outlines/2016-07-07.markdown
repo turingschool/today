@@ -128,6 +128,33 @@ Start today with Beth in Classroom B.
 
 Continue in B with Jeff to build your understanding of Ruby's Object Model. We'll loosely follow these notes: [Ruby's Object Model](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/ruby_object_model1.markdown)
 
+### One on Ones (1:00 - 4:00)
+
+#### With Beth
+* 1:00 - Alisher Sadikov
+* 1:10 - Jean Joeris
+* 1:20 - Bryan Goss
+* 1:30 - Raphael Barbo
+* 1:40 - Vido Seaver
+* 1:50 - Susi Irwin
+* 2:00 - Gabi Procell
+* 2:10 - Michael Hill
+* 2:20 - Kinan Whyte
+* 2:30 - David Davydov
+* 2:40 - Chase Dunagan
+
+#### With Mike
+* 1:00 - Ben Pepper
+* 1:10 - Ryan David Workman
+* 1:20 - Jasmin Hudacsek
+* 1:30 - Ben Pepper
+* 1:40 - Jesse Spevack
+* 1:50 - Brendan Dillon
+* 2:00 - Nate Anderson
+* 2:10 - Chris Calaway
+* 2:20 - Dan Broadbent
+* 2:30 - Brian Heim
+
 ### Project Work Time (1:00 - 4:00)
 
 Then this afternoon finish off those projects.
