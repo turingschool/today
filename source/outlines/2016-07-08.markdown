@@ -45,6 +45,8 @@ Join Jhun and learn all the things!
 
 ## 1603
 
+**EVERYONE:** Read through the [guidelines for providing feedback](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md). Use [this form](https://docs.google.com/forms/d/17Xco7tVNZTSXfSb-LlT5DC_S_8SQfm0fdElVioZkcS8/viewform) to provide feedback for each group member. **We need 100% participation for this**.
+
 🇺🇸🇺🇸🇺🇸[SURVEY LINK](http://goo.gl/forms/E3UISNXGaxiccPCI2)🇺🇸🇺🇸🇺🇸
 
 ### Project Work Time (9:00 - 12:00)
