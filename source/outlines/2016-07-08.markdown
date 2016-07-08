@@ -66,6 +66,24 @@ Pivot to victory!
 - Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
 - Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
 
+### Homework
+
+This homework will be due at 8:30 on the morning of Friday the 15th. There will be a quick review of the homework during instructional time.
+
+Work through the [Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) tutorial.
+
+*Submitting your work:* Keep a gist with the queries you write.
+
+Answer the following questions:
+
+* What is an INNER JOIN?
+* What is a LEFT OUTER JOIN?
+* What is a RIGHT OUTER JOIN?`
+
+When you're finished, open a PR to the following [Ruby Submission file.](https://github.com/turingschool/ruby-submissions/blob/master/1603/intermediate_sql.md) with your link.
+
+*Why is this homework important?* I'm glad you asked. As you use ActiveRecord it is easy to forget what is happening at the SQL level. The level of complexity is going to continue to increase over the next couple weeks and having a base to build on is important. We'll have a discussion tomorrow to answer questions you may have. The gist will serve as a nice reference as you work through Rails Engine. If you're looking for more information, check out [this blog post](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
 
 ## 1605
 
