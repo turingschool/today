@@ -93,12 +93,18 @@ Hour those rushes.
 
 ### Project Evaluations (9:00 - 12:00)
 
-Things to do while you are not being evaluated.
+**Your last commit was at or before 9AM.**
 
-Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
-Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+When you're not in evaluations this morning, you:
 
-### With Jeff
+* First, complete your Week 2 Diagnostic that was in your Slack channel this morning
+* Then, for Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* Or, for Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+If you finish one exercise, try the other.
+
+#### With Jeff
+
 * 9:00 - Daniel Broadbent
 * 9:30 - Bryan Goss
 * 10:00 - Peter Jean Joeris
@@ -106,7 +112,8 @@ Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master
 * 11:00 - Michael Hill
 * 11:30 - Christopher Calaway
 
-### With Mike
+#### With Mike
+
 * 9:00 - Brendan Dillon
 * 9:30 - Jesse Spevack
 * 10:00 - Raphael Barbo
@@ -114,7 +121,8 @@ Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master
 * 11:00 - Brian Heim
 * 11:30 - Jasmin Hudacsek
 
-### With Beth
+#### With Beth
+
 * 9:00 - Nate Anderson
 * 9:30 - Ben Pepper
 * 10:00 - Chase Dunagan
@@ -122,6 +130,23 @@ Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master
 * 11:00 - Ryan Workman
 * 11:30 - Gabrielle Procell
 
-### With Brenna
+#### With Brenna
+
 * 10:30 - Kinan Whyte
 * 11:00 - Alisher Sadikov
+
+### Diagnostic Recap (1:00-1:30)
+
+Join Mike in Classroom A to go over the morning's diagnostic.
+
+### Revisiting File I/O (1:30 - 2:15)
+
+Then Jeff will be in Classroom A for a quick review of File I/O.
+
+### Project Kickoffs (2:15 - 3:00)
+
+We'll break up to have brief sessions to introduce each of the next projects.
+
+### Pairing and Collaboration with Allison & Lia (3:00 - 4:00)
+
+Then finish with Allison & Lia in Classroom A.
