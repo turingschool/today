@@ -1,0 +1,81 @@
+---
+title: 20160714
+layout: outline
+---
+
+## All
+
+### Word of the day
+
+**sapid** - _adjective_ - having taste or flavor, especially having a strong
+pleasant flavor.
+
+
+## 1602
+
+### Project Work Time (9:00 - 10:30)
+
+Put those finishing touches on it.
+
+I believe in you.
+
+### Game Time Evals (10:30 - 12:00)
+
+Schedule TBD.
+
+### Game Time Evals Part Deux & Scale Up Brainstorming (1:00 - 4:00)
+
+Schedule TBD
+
+
+## 1603
+
+### Project Work Time and One on Ones (9:00 - 12:00)
+
+Schedule TBD.
+
+### APICurious Evals (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom B.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom B.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom B.
+
+### Work Time: Model Testing (1:00 - 3:00)
+
+Work away at your thing.
+
+### Model Testing Review (3:00 - 3:30)
+
+Classroom B.
+
+### MixMaster Kick Off (3:30 - 4:00)
+
+Classroom B.
+
+
+## 1606 - B
+
+### Project Evaluations & Diagnostics (9:00 - 12:00)
+
+Schedule TBD.
+
+### Professional Skills (1:00 - 2:30)
+
+Classroom A.
+
+### Road Show on the Morning Challenge (2:30 - 4:00)
+
+Classroom A.

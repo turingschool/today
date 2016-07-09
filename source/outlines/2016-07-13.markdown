@@ -1,0 +1,65 @@
+---
+title: 20160713
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**pastiche** - _noun_ - a work of art that imitates the style of some previous work
+
+
+## 1602
+
+### WebSockets Workshop (9:00 - 12:00)
+
+Big Workspace
+
+### Project Work Time (1:00 - 4:00)
+
+Work on the thing.
+
+
+## 1603
+
+### Testing an External API (9:00 - 12:00)
+
+Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1605
+
+### Route Helpers (9:00 - 10:00)
+
+Classroom C.
+
+### Forms in Rails (10:00 - 11:00)
+
+Classroom C.
+
+### Building Tool Chest (11:00 - 12:00)
+
+Classroom C.
+
+### Blogger Kickoff & One on Ones (1:00 - 4:00)
+
+Classroom C.
+
+Schedule TBD.
+
+
+## 1606-B
+
+### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+Classroom B.
+
+### All: Work Time (1:00 - 4:00)
+
+You're almost there.
+
+
+

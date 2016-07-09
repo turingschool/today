@@ -1,0 +1,74 @@
+---
+title: 20160712
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**denouement** - _noun_ - the final resolution of the main complication
+of a literary or dramatic work
+
+
+## 1602
+
+### Firebase and Local Storage (9:00 - 10:30)
+
+Classroom A.
+
+### Real Time Applications in Node (10:30 - 12:00)
+
+Classroom A.
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1603
+
+### Consuming APIs (9:00 - 12:00)
+
+Big Workspace
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Migrations, Databases and Models (9:00 - 11:00)
+
+Classroom C.
+
+### Relationships Implementation Exercises (11:00 - 12:00)
+
+Classroom C.
+
+### Rails Basics Challenge (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1606-B
+
+### All: Dynamics (9:00 - 10:00)
+
+Classroom B.
+
+### All: Intermediate Enumerables (10:00 - 12:00)
+
+Classroom B.
+
+### All: Baby's First Rakefile & Require Crash Course (1:00 - 2:30)
+
+Classroom B.
+
+### Project Work Time (2:30 - 4:00)
+
+Do the thing.
+
+
+

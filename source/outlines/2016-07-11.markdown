@@ -1,0 +1,87 @@
+---
+title: 20160711
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**nonpareil** - _adjective_ - having no equal; peerless
+
+
+## 1602
+
+### Node vs Webpack (9:00 - 10:30)
+
+Classroom C.
+
+### Pizza Express (10:30 - 12:00)
+
+I don't know what this is, but I'm interested.
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.
+
+
+## 1603
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classoom A.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+JSON puts the FUN in Fundamentals.
+
+### APICurious Kickoff (1:00 - 2:30)
+
+Classroom C.
+
+[APICURIOUS](https://www.youtube.com/watch?v=fwcONrTG7nk)
+
+### Project Work Time (2:30 - 4:00)
+
+Work
+
+
+## 1605
+
+### Rush Hour Evals & ActiveRecord Obstacle Course (9:00 - 11:00)
+
+Schedule TBA
+
+### ActiveRecord Obstacle Course Review (11:00 - 12:00)
+
+Big Workspace
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Classroom A.
+
+### ERD - Database Design (2:30 - 4:00)
+
+Classroom A.
+
+
+## 1606-B
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Classroom B.
+
+### All: Arguments, Methods and Scope (10:30 - 12:00)
+
+Stay in Classroom B.
+
+### Super Happy Fun Time with Marissa & Lia (1:00 - 2:30)
+
+Classroom B.
+
+### All: Pairing Patterns (2:30 - 4:00)
+
+Classroom B.
+
+
+
