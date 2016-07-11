@@ -82,7 +82,7 @@ If you're not doing your RushHour evaluation please do the following:
 
 ### Rest Controllers and Routing in Rails (1:00 - 2:30)
 
-Join Casey in Classroom A to kick off RAILS! [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
+Join Casey in Classroom A to kick off RAILS! [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_routes_controllers.markdown)
 
 ### ERDs (2:30 - 4:00)
 
