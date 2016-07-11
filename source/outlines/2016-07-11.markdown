@@ -83,21 +83,16 @@ If you're not doing your RushHour evaluation please do the following:
 
 ### All: Testing Strategies (9:00 - 10:30)
 
-Classroom B.
+Start your day with guest star Jorge in Classroom B working on [Testing Strategies](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown).
 
-### All: Arguments, Methods and Scope (10:30 - 12:00)
+### All: Arguments, Methods and Scopes (10:30 - 12:00)
 
-Stay in Classroom B.
+Jeff will find you in Classroom B to work on [Arguments, Methods, and Scopes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/methods_arguments_and_scopes.markdown)
 
-### Super Happy Fun Time with Marissa & Lia (1:00 - 2:30)
+### Getting Started with Resumes with Marissa & Lia (1:00 - 2:30)
 
-Classroom B.
+After lunch join Marissa and Lia Classroom B.
 
 ### All: Pairing Patterns (2:30 - 4:00)
 
-Classroom B.
-
-
-
-=======
->>>>>>> 4e29c3cbdde4453c568a3aa1cbeedd170a9cdb88
+Finish the day in Classroom B with Beth working on your pairing techniques.
