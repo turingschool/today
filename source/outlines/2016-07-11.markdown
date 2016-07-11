@@ -73,6 +73,13 @@ If you're not doing your RushHour evaluation please do the following:
 * (9:45 - 10:30)  -  Christopher Concannon & Yoseph Anderson & Matthew Campbell
 * (10:30 - 11:15) -  David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
 
+### Rest Controllers and Routing in Rails (1:00 - 2:30)
+
+Join Casey in Classroom A to kick off RAILS! [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
+
+### ERDs (2:30 - 4:00)
+
+Stay in A to talk about some Diagrams. [Here is the lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md)
 
 ## 1606-B
 
