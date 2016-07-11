@@ -83,7 +83,19 @@ If you're not doing your RushHour evaluation please do the following:
 
 ### All: Testing Strategies (9:00 - 10:30)
 
-Start your day with guest star Jorge in Classroom B working on [Testing Strategies](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown).
+Start your day with guest star Jorge in Classroom B working on testing strategies.
+
+Before this class, please clone the class repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/pony.git testing_strategies
+```
+
+The class materials are the following:
+
+1. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+2. [Slides](https://drive.google.com/file/d/0B3yN3TP0PDuITXlTazN3dFBpdUE/view?usp=sharing)
+3. [Repo](https://github.com/turingschool-examples/pony)
 
 ### All: Arguments, Methods and Scopes (10:30 - 12:00)
 
