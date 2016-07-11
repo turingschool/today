@@ -57,27 +57,36 @@ Work
 
 If you're not doing your RushHour evaluation please do the following:
 
+* At some point this morning, before or after your Eval, make sure you retro with your RushHour group. Just like fridays, what went well, what went 'meh', what didn't go well. 
+
 * read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
-* [ActiveRecord Obstacle Course]()
+* [ActiveRecord Obstacle Course](https://gist.github.com/Carmer/84b2679b2bd24d9035110a1f32cd4ac0)
 
 #### With Andrew & Casey:
 
-* (9:00 - 9:45) -
+* (9:00 - 9:45) - Nicole Marino & Kris Sparks & Trent Whitinger
 
 
 #### With Andrew:
 
-* (9:45 - 10:30)  -
-* (10:30 - 11:15) -
-* (11:15 - 12:00) -
+* (9:45 - 10:30)  - Linda McCartney & Michael Lane Winham & Tommasina Miller
+* (10:30 - 11:15) - Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* (11:15 - 12:00) - Patrick Wentz & Garrett Smestad & Zachary Forbing
 
 
 #### With Casey:
 
-* (9:45 - 10:30)  -
-* (10:30 - 11:15) -
+* (9:45 - 10:30)  -  Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* (10:30 - 11:15) -  David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
 
+### Rest Controllers and Routing in Rails (1:00 - 2:30)
+
+Join Casey in Classroom A to kick off RAILS! [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
+
+### ERDs (2:30 - 4:00)
+
+Stay in A to talk about some Diagrams. [Here is the lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md)
 
 ## 1606-B
 
