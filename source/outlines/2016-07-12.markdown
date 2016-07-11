@@ -18,7 +18,7 @@ First name in a group is in charge of that group.
 * *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
 * *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo, Andrew
 * *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
-* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan, Nate
+* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan
 * *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
 * *Robert Jaeger*, Marina Corona, Zachary Forbing, Adam Bernard, Meeka
 * *Ryan Batty*, Mark Miranda, Alisher Sadikov, Andy Young, Allison
@@ -60,7 +60,28 @@ Big Workspace
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBD.
+#### With Josh
+
+- Jennifer Soden
+- Ryan Batty
+- Charles Kaminer
+- Deborah Hamel
+- Colin Osborn
+- Robert Jaeger
+- Parker Phillips
+- Ilana Corson
+
+#### With Jorge/Nate
+
+- Kerry Sheldon
+- Nick Pisciotta
+- Marcella Wigg
+- Lucy Fox
+- Anna Weisbrodt
+- Karina Gonzalez
+- Brian Sayler
+- Christopher Soden
+- Erin Greenhalgh
 
 
 ## 1605
@@ -95,6 +116,3 @@ Classroom B.
 ### Project Work Time (2:30 - 4:00)
 
 Do the thing.
-
-
-
