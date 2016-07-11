@@ -12,18 +12,23 @@ layout: outline
 
 ## 1602
 
-### Node vs Webpack (9:00 - 10:30)
+### Discussion: Node vs Webpack (9:00 - 9:30)
 
 Classroom C.
 
-### Pizza Express (10:30 - 12:00)
+### Building and Testing Node Applications (9:30 - 12:00)
 
-I don't know what this is, but I'm interested.
+Work through [Pizza Express](https://github.com/turingschool-examples/pizza-express)
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/20a39fe470cad4a45da99dcda19c7f6b)
 
 ### Project Work Time (1:00 - 4:00)
 
 Work away.
 
+[Sign up for pairing](https://public.etherpad-mozilla.org/p/instructor-pairing) or come find Meeka with any questions
 
 ## 1603
 
