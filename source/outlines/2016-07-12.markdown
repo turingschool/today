@@ -60,6 +60,10 @@ Big Workspace
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
+Check-ins should take 15-20 minutes. Keep an eye on the people ahead of you.
+
+[Expectations](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md#check-in-and-milestones)
+
 #### With Josh
 
 - Jennifer Soden
