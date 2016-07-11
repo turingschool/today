@@ -54,24 +54,24 @@ If you're not doing your RushHour evaluation please do the following:
 
 * read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
-* [ActiveRecord Obstacle Course]()
+* [ActiveRecord Obstacle Course](https://gist.github.com/Carmer/84b2679b2bd24d9035110a1f32cd4ac0)
 
 #### With Andrew & Casey:
 
-* (9:00 - 9:45) -
+* (9:00 - 9:45) - Nicole Marino & Kris Sparks & Trent Whitinger
 
 
 #### With Andrew:
 
-* (9:45 - 10:30)  -
-* (10:30 - 11:15) -
-* (11:15 - 12:00) -
+* (9:45 - 10:30)  - Linda McCartney & Michael Lane Winham & Tommasina Miller
+* (10:30 - 11:15) - Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* (11:15 - 12:00) - Patrick Wentz & Garrett Smestad & Zachary Forbing
 
 
 #### With Casey:
 
-* (9:45 - 10:30)  -
-* (10:30 - 11:15) -
+* (9:45 - 10:30)  -  Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* (10:30 - 11:15) -  David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
 
 
 ## 1606-B
