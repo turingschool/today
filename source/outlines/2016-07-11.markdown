@@ -48,21 +48,30 @@ Work
 
 ## 1605
 
-### Rush Hour Evals & ActiveRecord Obstacle Course (9:00 - 11:00)
+### RushHour Evaluations and ActiveRecord Obstacle Course (9:00 - 12:00)
 
-Schedule TBA
+If you're not doing your RushHour evaluation please do the following:
 
-### ActiveRecord Obstacle Course Review (11:00 - 12:00)
+* read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
-Big Workspace
+* [ActiveRecord Obstacle Course]()
 
-### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+#### With Andrew & Casey:
 
-Classroom A.
+* (9:00 - 9:45) -
 
-### ERD - Database Design (2:30 - 4:00)
 
-Classroom A.
+#### With Andrew:
+
+* (9:45 - 10:30)  -
+* (10:30 - 11:15) -
+* (11:15 - 12:00) -
+
+
+#### With Casey:
+
+* (9:45 - 10:30)  -
+* (10:30 - 11:15) -
 
 
 ## 1606-B
@@ -85,3 +94,5 @@ Classroom B.
 
 
 
+=======
+>>>>>>> 4e29c3cbdde4453c568a3aa1cbeedd170a9cdb88
