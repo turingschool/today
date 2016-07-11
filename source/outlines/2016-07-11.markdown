@@ -57,6 +57,8 @@ Work
 
 If you're not doing your RushHour evaluation please do the following:
 
+* At some point this morning, before or after your Eval, make sure you retro with your RushHour group. Just like fridays, what went well, what went 'meh', what didn't go well. 
+
 * read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
 * [ActiveRecord Obstacle Course](https://gist.github.com/Carmer/84b2679b2bd24d9035110a1f32cd4ac0)
