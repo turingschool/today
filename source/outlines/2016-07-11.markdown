@@ -10,6 +10,32 @@ layout: outline
 **nonpareil** - _adjective_ - having no equal; peerless
 
 
+### Lunch Roulette Groups
+
+First name in a group is in charge of that group.
+
+* *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo, Andrew
+* *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
+* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan, Nate
+* *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
+* *Robert Jaeger*, Marina Corona, Zachary Forbing, Adam Bernard, Meeka
+* *Ryan Batty*, Mark Miranda, Alisher Sadikov, Andy Young, Allison
+* *Matt Pindell*, Angela Lindow, Ben Pepper, Benjamin Godfrey, Joanne
+* *Patrick Hardy*, Caleb Cowen, Brendan Dillon, Blake Worsley, Erin
+* *Sal Espinosa*, Chris Concannon, Brian Heim, Brett Hevia, Steve
+* *Thom Pickett*, David Tinianow, Bryan Goss, Casey Cross, Louisa
+* *Anna Weisbrodt*, Alex Navarrette, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
+* *Brian Sayler*, Alireza Andersen, Jason Hanna, Dan Broadbent, David Kerr, Brenna
+* *Charles Kaminer*, Anrdrew Thompson, Kris Sparks, David Davydov, Jeff Duke
+* *Christopher Soden*, Ashwin Rao, Lin McCartney, Vido Seaver, Kirsten Swanson
+* *Colin Osborn*, Chad Ellison, Matthew Campbell, Gabi Procell, Kyle Misencik
+* *Deborah Hamel*, Claudia Kiesenhofer, Matt Packer, Jasmin Hudacsek, Madison Kerndt
+* *Erin Greenhalgh*, Gurusundesh Khalsa, Lane Winham, Jesse Spevack, MaryJane Valade
+* *Ilana Corson*, Jared Roth, Patrick Wentz, Kinan Whyte, Mike Sausa
+* *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
+* *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
+
 ## 1602
 
 ### Discussion: Node vs Webpack (9:00 - 9:30)
@@ -57,7 +83,7 @@ Work
 
 If you're not doing your RushHour evaluation please do the following:
 
-* At some point this morning, before or after your Eval, make sure you retro with your RushHour group. Just like fridays, what went well, what went 'meh', what didn't go well. 
+* At some point this morning, before or after your Eval, make sure you retro with your RushHour group. Just like fridays, what went well, what went 'meh', what didn't go well.
 
 * read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
