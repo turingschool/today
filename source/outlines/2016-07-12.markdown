@@ -47,7 +47,21 @@ Classroom A.
 
 ### Real Time Applications in Node (10:30 - 12:00)
 
-Classroom A.
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+- [Practice Repository](https://github.com/turingschool-examples/right-now)
+
+You'll be working in the following pairs:
+
+* Jeneve Parrish & Alireza Andersen
+* Joshua Washke & Chad Ellison
+* Ashwin Rao & Jonathan Bernesser
+* Matt Pindell & Mark Miranda
+* Jared Roth & Ling Tran
+* Andrew Thompson & Kris Foss
+* Claudia Kiesenhofer & Jonathan Liss
+* Marina Corona & Kami Boers
+* Gurusundesh Khalsa & Patrick Hardy
+* Sal Espinosa & Alex Navarrete & Thomas Pickett
 
 ### Check Ins and Project Work Time (1:00 - 4:00)
 
