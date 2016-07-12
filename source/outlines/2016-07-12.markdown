@@ -16,7 +16,7 @@ of a literary or dramatic work
 First name in a group is in charge of that group.
 
 * *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
-* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo, Andrew
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
 * *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
 * *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan
 * *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
@@ -109,15 +109,15 @@ Check-ins should take 15-20 minutes. Keep an eye on the people ahead of you.
 
 ### Migrations, Databases and Models (9:00 - 11:00)
 
-Classroom C.
+More Rails! Classroom C.
 
 ### Relationships Implementation Exercises (11:00 - 12:00)
 
-Classroom C.
+Stay in Classroom C to work on some exercises.
 
 ### Rails Basics Challenge (1:00 - 4:00)
 
-Classroom C.
+The basement is your oyster. Find a comfortable spot, take some pomodoros and dig into the Rails Basics Challenge.
 
 
 ## 1606-B
