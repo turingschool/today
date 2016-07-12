@@ -161,7 +161,7 @@ Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intermediate_enumerables.markdown)
 
-### All: Baby's First Rakefile & Require Crash Course (1:00 - 2:30)
+### All: Baby's First Rakefile (1:00 - 2:00)
 
 Meet with Jeff in Classroom B to talk about Rake.
 
