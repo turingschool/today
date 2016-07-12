@@ -39,9 +39,11 @@ First name in a group is in charge of that group.
 
 ## 1602
 
-### Firebase and Local Storage (9:00 - 10:30)
+### Client Side Storage (9:00 - 10:30)
 
 Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/client_side_storage.markdown)
 
 ### Real Time Applications in Node (10:30 - 12:00)
 
@@ -49,8 +51,23 @@ Classroom A.
 
 ### Check Ins and Project Work Time (1:00 - 4:00)
 
-Schedule TBD.
+#### With Meeka
 
+- 1:30: Mark Miranda & Matt Pindell
+- 2:00: Ling Tran & Sal Espinosa & Kami Boers
+- 2:30: Kris Foss & Claudia Kiesenhofer & Alireza Andersen
+
+#### With Jhun
+
+- 1:30: Gurusundesh Khalsa & Alex Navarrete
+- 2:00: Patrick Hardy & Chad Ellison
+- 2:30: Marina Corona & Jeneve Parrish
+
+#### With Brenna
+
+- 1:30: Joshua Washke & Jared Roth & Andrew Thompson
+- 2:00: Jonathan Liss & Jonathan Bernesser
+- 2:30: Ashwin Rao & Thomas Pickett
 
 ## 1603
 
