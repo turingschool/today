@@ -71,9 +71,9 @@ Evals should take 15-20 minutes. Keep an eye on the people ahead of you.
 - Robert Jaeger
 - Colin Osborn
 - Deborah Hamel
-- Charles Kaminer
 - Ryan Batty
 - Jennifer Soden
+- Charles Kaminer
 
 #### With Jorge/Nate
 
