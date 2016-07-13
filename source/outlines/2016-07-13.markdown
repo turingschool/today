@@ -38,20 +38,31 @@ First name in a group is in charge of that group.
 
 ## 1602
 
-### WebSockets Workshop (9:00 - 12:00)
+### WebSockets Workshop (9:00 - 9:30)
+
+Work through this [Websockets Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown)
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/25ece63d804fdb966b929da6deedeee5)
 
 Big Workspace
 
-### Project Work Time (1:00 - 4:00)
+### WebSockets Workshop Work Time & Project Work Time (9:30 - 4:00)
 
-Work on the thing.
+After 9:30, most of us on Spirit Team are heading over to Commons on Champa.
 
+The Front End Program would like to cordially invite you to work from Champa, enjoy the windows, steal their coffee, and come to any of the Spirit Team with any and all questions. You can also pair with the front end students. It’ll be a work party!
 
 ## 1603
 
 ### Testing an External API (9:00 - 12:00)
 
-Classroom A.
+Prior to class, sign up for a [Sunlight API key](https://sunlightfoundation.com/api/accounts/register/).
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_against_third_party_apis.md)
 
 ### Project Work Time (1:00 - 4:00)
 
@@ -74,15 +85,62 @@ Classroom C.
 
 Classroom C.
 
-Schedule TBD.
+#### With Andrew
+
+1:l5 - Nicole
+
+1:30 - David
+
+1:45 - Jason
+
+2:00 - Lin
+
+2:15 - Pat
+
+2:30 - Caleb
+
+2:45 - Ryan
+
+3:00 - Tommasina
+
+3:15 - Yoseph
+
+3:30 - Zack
+
+#### With Casey
+
+1:15 - Angela
+
+1:30 - Chris
+
+1:45 - Garrett
+
+2:00 - Kris
+
+2:15 - Matt P.
+
+2:30 - Lane
+
+2:45 - Matt C.
+
+3:00 - Roberta
+
+3:15 - Sonia
+
+3:30 - Trent
 
 
 ## 1606-B
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
 
-Classroom B.
+Classroom A.
+
+Start the day in beautiful B with Jeff to talk about [Stacks, Methods, and Program Flow](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown).
+
 
 ### All: Work Time (1:00 - 4:00)
 
-You're almost there.
+Then this afternoon it's the final push!
+
+Remember, *half a product* is always better than a *half-assed product*. Cut scope not quality. Practice your best practices. If you don't have all the features, that's a hit on one section of the rubric. If you have shitty code that's a hit on all the sections of the rubric.

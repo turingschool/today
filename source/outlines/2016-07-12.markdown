@@ -99,12 +99,12 @@ Check-ins should take 15-20 minutes. Keep an eye on the people ahead of you.
 
 - Jennifer Soden
 - Ryan Batty
-- Charles Kaminer
 - Deborah Hamel
 - Colin Osborn
 - Robert Jaeger
 - Parker Phillips
 - Ilana Corson
+- Charles Kaminer
 
 #### With Jorge/Nate
 
@@ -136,9 +136,24 @@ The basement is your oyster. Find a comfortable spot, take some pomodoros and di
 
 ## 1606-B
 
-### All: Dynamics (9:00 - 10:00)
+### All: Pairing Practice (9:00 - 10:00)
 
-Classroom B.
+This morning we'll start with a pairing exercise in Classroom B. Sit with the pair listed below.
+
+The exercise you'll work on challenges you to implement objects with Ruby features *without* using the built-in features. We call it [Ruby in Ruby](https://github.com/turingschool/challenges/blob/master/ruby_in_ruby.markdown).
+
+#### Pairings
+
+* Vido Seaver & Calaway
+* Nate Anderson & Kinan Whyte
+* Chase Dunagan & Brian Heim
+* Jasmin Hudacsek & Susi Irwin
+* Bryan Goss & Ryan David Workman
+* Michael Hill & Ben Pepper
+* Jean Joeris & David Davydov
+* Raphael Barbo & Gabi Procell
+* Brendan Dilon & Jesse Spevack
+* Alisher Sadikov & Dan Broadbent
 
 ### All: Intermediate Enumerables (10:00 - 12:00)
 
@@ -146,10 +161,10 @@ Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intermediate_enumerables.markdown)
 
-### All: Baby's First Rakefile & Require Crash Course (1:00 - 2:30)
+### All: Baby's First Rakefile (1:00 - 2:00)
 
-Classroom B.
+Meet with Jeff in Classroom B to talk about Rake.
 
 ### Project Work Time (2:30 - 4:00)
 
-Do the thing.
+Push forward on your projects.
