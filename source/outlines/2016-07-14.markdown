@@ -16,7 +16,7 @@ pleasant flavor.
 First name in a group is in charge of that group.
 
 * *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
-* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo, Andrew
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
 * *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
 * *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan
 * *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
@@ -104,7 +104,7 @@ Classroom B.
 
 ### Model Testing in Rails (10:30 - 12:00)
 
-Classroom B.
+Andrew will go over some model (validations and more) in Classroom B. [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
 
 ### Work Time: Model Testing (1:00 - 3:00)
 

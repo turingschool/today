@@ -15,7 +15,7 @@ layout: outline
 First name in a group is in charge of that group.
 
 * *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
-* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo, Andrew
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
 * *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
 * *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan, Nate
 * *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
