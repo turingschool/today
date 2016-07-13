@@ -38,14 +38,21 @@ First name in a group is in charge of that group.
 
 ## 1602
 
-### WebSockets Workshop (9:00 - 12:00)
+### WebSockets Workshop (9:00 - 9:30)
+
+Work through this [Websockets Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown)
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/25ece63d804fdb966b929da6deedeee5)
 
 Big Workspace
 
-### Project Work Time (1:00 - 4:00)
+### WebSockets Workshop Work Time & Project Work Time (9:30 - 4:00)
 
-Work on the thing.
+After 9:30, most of us on Spirit Team are heading over to Commons on Champa.
 
+The Front End Program would like to cordially invite you to work from Champa, enjoy the windows, steal their coffee, and come to any of the Spirit Team with any and all questions. You can also pair with the front end students. It’ll be a work party!
 
 ## 1603
 
