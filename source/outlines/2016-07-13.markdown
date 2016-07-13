@@ -127,8 +127,10 @@ Classroom C.
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
 
-Classroom B.
+Start the day in beautiful B with Jeff to talk about [Stacks, Methods, and Program Flow](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown).
 
 ### All: Work Time (1:00 - 4:00)
 
-You're almost there.
+Then this afternoon it's the final push!
+
+Remember, *half a product* is always better than a *half-assed product*. Cut scope not quality. Practice your best practices. If you don't have all the features, that's a hit on one section of the rubric. If you have shitty code that's a hit on all the sections of the rubric.
