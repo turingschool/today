@@ -26,7 +26,7 @@ First name in a group is in charge of that group.
 * *Patrick Hardy*, Caleb Cowen, Brendan Dillon, Blake Worsley, Erin
 * *Sal Espinosa*, Chris Concannon, Brian Heim, Brett Hevia, Steve
 * *Thom Pickett*, David Tinianow, Bryan Goss, Casey Cross, Louisa
-* *Anna Weisbrodt*, Alex Navarrette, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
+* *Anna Weisbrodt*, Alex Navarrete, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
 * *Brian Sayler*, Alireza Andersen, Jason Hanna, Dan Broadbent, David Kerr, Brenna
 * *Charles Kaminer*, Anrdrew Thompson, Kris Sparks, David Davydov, Jeff Duke
 * *Christopher Soden*, Ashwin Rao, Lin McCartney, Vido Seaver, Kirsten Swanson
