@@ -53,7 +53,7 @@ Work on the thing.
 
 Prior to class, sign up for a [Sunlight API key](https://sunlightfoundation.com/api/accounts/register/).
 
-Classroom A.
+Classroom B.
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_against_third_party_apis.md)
 
@@ -127,7 +127,7 @@ Classroom C.
 
 ### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
 
-Classroom B.
+Classroom A.
 
 ### All: Work Time (1:00 - 4:00)
 
