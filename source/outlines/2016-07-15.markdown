@@ -8,9 +8,9 @@ layout: outline
 ### Surveys
 
 * 1602
-* 1603
+* [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
 * 1605
-* 1606[http://goo.gl/forms/iec5t4ZHGur0cyE92]
+* [1606](http://goo.gl/forms/iec5t4ZHGur0cyE92)
 
 ### Lunch Roulette Groups
 
@@ -40,7 +40,6 @@ First name in a group is in charge of that group.
 
 ### Surveys
 
-* [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
 
 ### Optional Code Challenge (9:00 - 9:45)
 
