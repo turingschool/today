@@ -89,8 +89,9 @@ Evals should take 15-20 minutes. Keep an eye on the people ahead of you.
 #### With Jorge
 
 **Jorge will be doing evals in two blocks.**
- * First block: 11:00-12:00
- * Second block: 2:00-4:00.
+
+* First block: 11:00-12:00
+* Second block: 2:00-4:00.
 
 - Kerry Sheldon
 - Anna Weisbrodt
