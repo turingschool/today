@@ -38,6 +38,10 @@ First name in a group is in charge of that group.
 * *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
 * *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
 
+### Surveys
+
+* [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
+
 ### Optional Code Challenge (9:00 - 9:45)
 
 Come to the Big Workspace.
