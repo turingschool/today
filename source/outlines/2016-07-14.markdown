@@ -152,7 +152,19 @@ Classroom B.
 
 ### Professional Skills (1:00 - 2:30)
 
-Classroom A.
+Clone down this repo:  `https://github.com/mikedao/night_writer`
+
+Pairs:
+* Alisher and Susi
+* Ben and Chase
+* Brendan and Ryan
+* Brian and Raphael
+* Bryan and Jean
+* Calaway and Nate
+* Dan and Mike
+* David and Kinan
+* Vido and Jesse
+* Gabi and Jasmin
 
 ### Road Show on the Morning Challenge (2:30 - 4:00)
 
