@@ -7,7 +7,7 @@ layout: outline
 
 ### Surveys
 
-* 1602
+* [1602](http://goo.gl/forms/MUZWfkonXmLD5mhk1)
 * [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
 * 1605
 * [1606](http://goo.gl/forms/iec5t4ZHGur0cyE92)
@@ -48,6 +48,7 @@ Come to the Big Workspace.
 ### Instructional Time (9:45 - 11:00)
 
 * 1602 - Classroom C
+  * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
 * 1603 - Big Workspace
 * 1605 - Classroom B
 * 1606 - Classroom A
@@ -69,7 +70,6 @@ Schedule TBD.
 
 ### Group Retro (3:15 - 4:00)
 
-* 1602 - Classroom C
 * 1603 - Big Workspace
 * 1605 - Classroom B
 * 1606 - Classroom A
