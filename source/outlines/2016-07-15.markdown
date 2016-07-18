@@ -5,6 +5,13 @@ layout: outline
 
 ## All
 
+### Surveys
+
+* [1602](http://goo.gl/forms/MUZWfkonXmLD5mhk1)
+* [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
+* [1605](https://docs.google.com/forms/d/e/1FAIpQLScgVZsJccllZMFpRPKCYCUJ2tv26fYKMPiGjonfVbQd7KPV2w/viewform)
+* [1606](http://goo.gl/forms/iec5t4ZHGur0cyE92)
+
 ### Lunch Roulette Groups
 
 First name in a group is in charge of that group.
@@ -31,10 +38,6 @@ First name in a group is in charge of that group.
 * *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
 * *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
 
-### Surveys
-
-* [1603](https://docs.google.com/forms/d/e/1FAIpQLSdIXy7IlCXZg2IJpNqoflmoEUcIkMhmPuy9-gs3pmr9B--pLQ/viewform)
-
 ### Optional Code Challenge (9:00 - 9:45)
 
 Come to the Big Workspace.
@@ -42,12 +45,33 @@ Come to the Big Workspace.
 ### Instructional Time (9:45 - 11:00)
 
 * 1602 - Classroom C
+  * [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
 * 1603 - Big Workspace
 * 1605 - Classroom B
 * 1606 - Classroom A
 
 
 ### Gear Up (11:00 - 12:00)
+
+Today's session will be on focused on team skills, "[Communication Styles](https://github.com/turingschool/gear-up/blob/master/communication_styles.markdown)."
+
+**GROUPS**  
+Group 1: Ben Pepper, Matt C, Nicole, Madison   
+Group 2: Angela L, Jeff Duke, Chris S, Jason H  
+Group 3: Jared Roth, Brendan, Sonia, Susi  
+Group 4: Robbie J, Goss, Erin G, Chase  
+Group 5: Marcella, Jean, Jasmin, Ilana  
+Group 6: Lucy, Garrett, Casey M, Tommasina  
+Group 7: Calaway, Jesse, Zack, Kinan  
+Group 8: Gabi, Chris C, Caleb, Casey C  
+Group 9: Ashwin, David K, Adam, Lane  
+Group 10: Pat Wentz, Kerry, Alex, Kirsten  
+Group 11: Ryan F, David D, Mike S, Pete  
+Group 12: Nate , Ryan W, MaryJane, Paul  
+Group 13: Chad, David T, Brian H, Raphael  
+Group 14: Anna, Ben G, Mike Hill, Vido  
+Group 15: Alisher, Dan B, Yoseph, Andy  
+Group 16: Charlie, Bret, Blake, Nick P  
 
 ### Lunch Roulette (12:00 - 1:15)
 
@@ -63,7 +87,6 @@ Schedule TBD.
 
 ### Group Retro (3:15 - 4:00)
 
-* 1602 - Classroom C
 * 1603 - Big Workspace
 * 1605 - Classroom B
 * 1606 - Classroom A

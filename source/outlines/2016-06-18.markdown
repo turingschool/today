@@ -7,8 +7,8 @@ layout: outline
 
 ### Word of the Day
 
-**quixotic** - _adjective_ - extravagantly chivalrous or romantic; visionary, impractical, or impracticable.
-
+**ambrosial** - _adjective_ - exceptionally pleasing to taste or smell;
+especially delicious or fragrant.
 
 ## 1602
 
@@ -20,11 +20,11 @@ Classroom C.
 
 Classroom C.
 
-### Launch and Standup: LookingFor (2:00 - 4:00)
+### Launch and Standup: LookingFor (2:00 - 3:00)
 
 Classroom C.
 
-### Launch and Standup: MentorSHIP (3:00 - 4:00)
+### Launch and Standup: MentorShip (3:00 - 4:00)
 
 Classroom C.
 
@@ -35,15 +35,13 @@ Classroom C.
 
 Classroom B.
 
-[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
-
 ### Rales Engine Kickoff (1:00 - 2:30)
 
-Big Workspace.
+Big Workspace
 
-### Project Work Time (2:30 - 4:00)
+### Project Work Time (1:00 - 4:00)
 
-Get ye to work.
+Work.
 
 
 ## 1605
@@ -52,38 +50,33 @@ Get ye to work.
 
 Big Workspace
 
-### MixMaster Q&A (10:00 - 10:30)
+### MixMaster Q & A (10:00 - 10:30)
 
 Big Workspace.
 
 ### Revisiting the ActiveRecord Obstacle Course (10:30 - 12:00)
 
-Big Workspace.
+Big Workspace
 
 ### Sessions, Cookies and Flashes (1:00 - 2:30)
 
 Classroom B.
 
-### CRUD Sprint( 2:30 - 4:00 )
+### CRUD - Sprint (2:30 - 4:00)
 
 Classroom B.
-
-#### Mid Module Eval with Andrew:
-
-* (1:00 - 1:30) Ryan
 
 
 ## 1606-B
 
-### Surprise Class (9:00 - 10:00)
+### Surprise Class (9:00 - 10:30)
 
 Classroom A.
 
-### Mid Module Diagnostic and Project Work Time (10:00 - 4:00)
+### Mod Module Diagnostic (10:30 - 4:00)
 
 ### With Mike
 
-* 10:00 - Chase Dunagan
 * 10:30 - Alisher Sadikov
 * 11:00 - Vido Seaver
 * 11:30 - Gabi Procell
@@ -95,15 +88,18 @@ Classroom A.
 
 ### With Beth
 
-* 10:00 - Bryan Goss
-* 10:30 - Christopher Calaway
+* 10:30 - Calaway
 * 11:00 - Brendan Dillon
 * 11:30 - Brian Heim
-* 12:00 - Dan Broadbent
-* 12:30 - David Davydov
+* 1:00 - Bryan Goss
+* 1:30 - Chase Dunagan
+* 2:00 - Dan Broadbent
+* 2:30 - David Davydov
+* 3:00 - Nate Anderson
 
 ### With Rachel
 * 1:00 - Jean Joeris
 * 1:30 - Ryan David Workman
-* 2:00 - Ben Pepper
-* 2:30 - Jesse Spevack
+* 2:00 - Jesse Spevack
+* 2:30 - Ben Pepper
+
