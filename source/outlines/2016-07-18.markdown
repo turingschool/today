@@ -2,3 +2,12 @@
 title: 20160718
 layout: outline
 ---
+
+
+## 1605
+
+### CRUD Sprint( 2:30 - 4:00 )
+
+#### Mid Module Eval with Andrew:
+
+* (1:00 - 1:30) Ryan
