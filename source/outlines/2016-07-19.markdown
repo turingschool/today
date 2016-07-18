@@ -19,11 +19,10 @@ layout: outline
 
 ##### With Andrew:
 
-* (1:00 - 1:30) Pat
-* (1:30 - 2:00) Angela
-* (2:15 - 2:45) Nicole
-* (2:45 - 3:15) Chris
-* (3:15 - 4:00) Roberta
+* (1:00 - 1:30) Angela
+* (1:30 - 2:00) Nicole
+* (2:15 - 2:45) Chris
+* (2:45 - 3:15) Roberta
 
 ##### With Casey:
 
@@ -31,4 +30,3 @@ layout: outline
 * (1:30 - 2:00) Zach
 * (2:15 - 2:45) David
 * (2:45 - 3:15) Tommasina
-* (3:15 - 4:00) Kris
