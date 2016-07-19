@@ -12,7 +12,7 @@ layout: outline
 * Kerry Sheldon
 * Brian Sayler
 * Deborah Hamel
-* Erin Greenhalgh
+* Anna Weisbrodt
 * Karina Gonzalez
 * Marcella Wigg
 * Lucy Fox
@@ -23,13 +23,12 @@ layout: outline
 
 * Christopher Soden
 * Ryan Batty
-* Anna Weisbrodt
 * Ilana Corson
 * Colin Osborn
 * Robert Jaeger
 * Parker Phillips
 * Jennifer Soden
-
+* Erin Greenhalgh
 
 ## 1605
 
