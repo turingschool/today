@@ -82,6 +82,36 @@ Classroom B.
 
 Big Workspace
 
+#### Station 1
+
+[Exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_1.markdown)
+
+* Chase Dunagan, Brian Heim, Raphael Barbo, Ryan Workman
+* Gabi Procell, Dan Broadbent, Kinan Whyte, Alisher Sadikov
+* Nate Anderson, Bryan Goss, Ben Pepper, Calaway
+* Michael Hill, Jesse Spevack, Vido Seaver, Brendan Dillon
+* David Davydov, Susi Irwin, Jasmin Hudacsek, Jean Joeris
+
+#### Station 2
+
+[Exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_2.markdown)
+
+* Michael Hill, Chase Dunagan, Vido Seaver, Dan Broadbent
+* Jesse Spevack, David Davydov, Calaway, Raphael Barbo
+* Ryan Workman, Kinan Whyte, Bryan Goss, Alisher Sadikov
+* Susi Irwin, Nate Anderson, Gabi Procell, Brian Heim
+* Jasmin Hudacsek, Brendan Dillon, Jean Joeris, Ben Pepper
+
+#### Station 3
+
+[Exercise](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_3.markdown)
+
+* Ryan Workman, Ben Pepper, Nate Anderson, Jesse Spevack
+* Vido Seaver, Gabi Procell, Dan Broadbent, David Davydov
+* Brian Heim, Calaway, Brendan Dillon, Jean Joeris
+* Alisher Sadikov, Raphael Barbo, Bryan Goss, Susi Irwin
+* Chase Dunagan, Jasmin Hudacsek, Michael Hill, Kinan Whyte
+
 ### Paired Refactoring (11:00 - 12:00)
 
 Big Workspace.
@@ -93,5 +123,3 @@ Classroom A.
 ### Project Work Time (1:30 - 4:00)
 
 Push forwards.
-
-
