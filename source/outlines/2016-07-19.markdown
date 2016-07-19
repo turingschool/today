@@ -142,7 +142,19 @@ Big Workspace
 
 ### Paired Refactoring (11:00 - 12:00)
 
-Big Workspace.
+* Calaway and Brendan
+* Nate & Brian
+* Chase & Alisher
+* Susi & Ryan
+* Mike & Kinan
+* Gabi & Jesse
+* Jasmin & Dan
+* Vido & Jean
+* Raphael & David
+* Bryan & Ben
+
+[Project](https://github.com/mikedao/mastermind-refactor)
+
 
 ### Project Strategy (1:00 - 1:30)
 
