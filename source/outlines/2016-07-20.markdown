@@ -3,6 +3,34 @@ title: 20160720
 layout: outline
 ---
 
+## 1603
+
+### Project work time and One on Ones (9:00 - 12:00)
+
+#### With Josh
+
+* Kerry Sheldon
+* Brian Sayler
+* Deborah Hamel
+* Erin Greenhalgh
+* Karina Gonzalez
+* Marcella Wigg
+* Lucy Fox
+* Nick Pisciotta
+* Charles Kaminer
+
+#### With Nate
+
+* Christopher Soden
+* Ryan Batty
+* Anna Weisbrodt
+* Ilana Corson
+* Colin Osborn
+* Robert Jaeger
+* Parker Phillips
+* Jennifer Soden
+
+
 ## 1605
 
 ### Advanced Routing in Rails (9:00 - 10:30)
