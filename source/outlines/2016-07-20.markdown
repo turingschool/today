@@ -5,6 +5,12 @@ layout: outline
 
 ## 1605
 
+### Advanced Routing in Rails (9:00 - 10:30)
+Classroom B - Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/advanced_routing_rails.markdown).
+
+### Authentication in Rails (10:30 - 12:00)
+Classroom B
+
 ### MidModule Evaluations & Authentication Work Time: (1:00 - 4:00)
 
 #### With Andrew:
