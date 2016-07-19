@@ -5,6 +5,19 @@ layout: outline
 
 ## All
 
+### Announcements
+
+- The weekly improv class will be at 4:30pm at the Blake Street Campus.
+- [PokéTür][pk] will be going on at lunch today.
+- [Develop Happy Hour][dhh] is at 6:00pm tonight at Avanti in LoHi.
+- There is a [Security 101][s101] workshop designed specially for security newbies at the Blake Street Campus at 5:30pm.
+- [denhac][] is tonight at 6:30pm. The topic is "Cayenne's easy IoT for Raspberry Pi". Ask Heidi for more information.
+
+[pk]: http://www.meetup.com
+[dhh]: http://www.meetup.com/Develop-Happy-Hour/events/227014464/
+[denhac]: http://www.meetup.com/denhac-hackerspace/events/232085992/
+[s101]: http://go.secureset.com/security-workshops
+
 ### Word of the Day
 
 **arrears** - _plural noun_ - the state of being behind or late, especially in the fulfillment of a duty, promise, obligation, or the like
