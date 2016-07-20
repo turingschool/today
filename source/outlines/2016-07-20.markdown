@@ -57,6 +57,10 @@ To get started, clone down this [React Starter Kit][rsk] and check out the `live
 
 Classroom C.
 
+* 1:00 - Whiskey
+* 1:15 - Tango
+* 1:30 - OSS
+
 ### Project Work Time (2:00 - 4:00)
 
 You can do it!
