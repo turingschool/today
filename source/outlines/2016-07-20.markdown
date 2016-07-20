@@ -7,6 +7,10 @@ layout: outline
 
 ### Announcements
 
+- Imposter Syndrome lunch is over at the Blake Street campus in Classroom C.
+- [Built In Colorado's Summer Startup Showcase][bic] at Mile High Spirits is at 6:00pm.
+- **Tomorrow**: [User Interview Workshop][uiw] (only a few seats left) at Pivotal Labs.
+
 ### Word of the Day
 
 **doctrinaire** - _adjective_ - dogmatic about others' acceptance of one's ideas; fanatical
@@ -39,6 +43,15 @@ layout: outline
 ### React Part Deux (9:00 - 12:00)
 
 Classroom C.
+
+With all that theory in place, let's build a simple version of Idea Box together.
+
+To get started, clone down this [React Starter Kit][rsk] and check out the `live-coding` branch.
+
+(You can also view the completed example [here][ic].)
+
+[rsk]: https://github.com/turingschool-examples/react-starter-kit
+[ic]: https://github.com/turingschool-examples/react-starter-kit/tree/completed-ideabox-example
 
 ### Stand Ups (1:00 - 2:00)
 
