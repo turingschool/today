@@ -3,6 +3,30 @@ title: 20160720
 layout: outline
 ---
 
+## All
+
+### Announcements
+
+### Word of the Day
+
+**doctrinaire** - _adjective_ - dogmatic about others' acceptance of one's ideas; fanatical
+
+
+## 1602
+
+### React Part Deux (9:00 - 12:00)
+
+Classroom C.
+
+### Stand Ups (1:00 - 2:00)
+
+Classroom C.
+
+### Project Work Time (2:00 - 4:00)
+
+You can do it!
+
+
 ## 1603
 
 ### Project work time and One on Ones (9:00 - 12:00)
@@ -35,6 +59,7 @@ layout: outline
 BUSINESS!! LOGIC!!
 ACTIVE!! RECORD!!
 
+
 ## 1605
 
 ### Advanced Routing in Rails (9:00 - 10:30)
@@ -60,3 +85,34 @@ Classroom B
 * (2:15 - 2:45) Matt C
 * (2:45 - 3:15) Lin
 * (3:15 - 4:00) Garrett
+
+
+## 1606-B
+
+### All: Working with Modules (9:00 - 10:30)
+
+Classroom A.
+
+### All: Boolean Logic Deep Dive: Managing Branches in Code (10:30 - 12:00)
+
+Classroom A.
+
+### Cross Group Pairing (1:00 - 2:30)
+
+Spend 40 minutes on one person's code, take a 10 minute break and 40 minute
+on the second person's code.
+
+* Jesse & David
+* Vido & Bryan
+* Kinan & Gabrielle
+* Alisher & Brendan
+* Dan & Ben
+* Brian & Ryan
+* Nate & Michael
+* Chase & Calaway
+* Jasmin & Jean
+* Susi & Raphael
+
+### Project Work Time (2:30 - 4:00)
+
+Almost there!
