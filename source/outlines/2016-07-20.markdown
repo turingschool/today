@@ -130,7 +130,25 @@ Classroom A.
 
 ### All: Boolean Logic Deep Dive: Managing Branches in Code (10:30 - 12:00)
 
-Classroom A.
+Meet Jorge in Classroom A to learn some boolean logic.
+
+Before the session, please clone the class repo by running the following command:
+
+```
+  git clone https://github.com/turingschool-examples/fruitsy.git boolean_logic
+```
+
+After you clone the repo, remember to install the dependencies, by running:
+
+```
+  bundle install
+```
+
+The class materials are the following:
+
+1. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/boolean_logic.markdown)
+2. [Slides](https://drive.google.com/file/d/0B3yN3TP0PDuIcFZjbzJWWFdfYkk/view?usp=sharing)
+3. [Repo](https://github.com/turingschool-examples/fruitsy)
 
 ### Cross Group Pairing (1:00 - 2:30)
 
