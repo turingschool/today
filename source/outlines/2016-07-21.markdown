@@ -7,6 +7,10 @@ layout: outline
 
 ### Announcements
 
+## 1602
+
+## 1603
+
 ## 1605
 
 ### Advanced Associations and Polymorphic Relationships (9:00 - 12:00)
@@ -17,3 +21,5 @@ Classroom B
 
 ### API & Rails Mini Project Kickoff and Worktime (2:00 - 4:00)
 Classroom B
+
+## 1606-B
