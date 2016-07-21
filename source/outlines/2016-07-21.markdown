@@ -5,11 +5,60 @@ layout: outline
 
 ## All
 
+### Word of the Day
+
+**Bildungsroman** - _noun_ - a type of novel concerned with the education, development, and maturing of a young protagonist.
+
 ### Announcements
+
+### Lunch Roulette Groups
+
+* Angela Lindow, Susi Irwin, Lucy Fox
+* Caleb Cowen, Chase Dunagan, Marcella Wigg
+* Chris Concannon, Ryan David Workman, Nick Pisciotta
+* David Tinianow, Raphael Barbo, Parker Phillips
+* Garrett Smestead, Jean Joeris, Robert Jaeger
+* Jason Hanna, Nate Anderson, Ryan Batty
+* Kris Sparks, Michael Hill, Lin McCartney, Kinan Whyte
+* Matt Packer, Jasmin Hudacsek,  Matt Campbell, Jesse Spevack
+* Lane Winham, Gabrielle Procell, Anna Weisbrodt
+* Pat Wentz, Vido Seaver, Brian Sayler
+* Nicole Marino, David Davydov, Charles Kaminer
+* Roberta Doyle, Dan Broadbent, Chris Soden
+* Ryan Flach, Christopher Calaway, Colin Osborn
+* Sonia Gupta, Bryan Goss, Deb Hamel
+* Tommasina Miller, Brian Heim, Erin Greenhalgh
+* Trent Whitinger, Brendan Dillon, Ilana Corson
+* Yoseph Anderson, Ben Pepper, Jennifer Soden
+* Zach Forbing, Alisher Sadikov, Karina Gonzalez
 
 ## 1602
 
+### Front End CSS - Responsive Design (9:00 - 12:00)
+
+see ess ess
+
+classroom see
+
+### Scale Up Evaluations (1:00 - 4:00)
+
+Schedule TBA
+
+
 ## 1603
+
+### RailsEngine Evals (9:00 - 12:00)
+
+Schedule TBA
+
+### Self Directed Projects Intro (1:00 - 2:00)
+
+Classroom C.
+
+### Self Directed Project Ideation and Prep (2:00 - 4:00)
+
+Classroom C.
+
 
 ## 1605
 
@@ -23,3 +72,35 @@ Classroom B
 Classroom B
 
 ## 1606-B
+
+### Battleship Evals & Week 4 Diagnostic (9:00 - 12:00)
+
+#### With Mike
+
+* 9:00 - Michael Hill
+* 9:25 - Susi Irwin
+* 9:50 - Brendan Dillon
+* 10:15 - Ryan David Workman
+* 10:40 - Ben Pepper
+* 11:05 - Nate Anderson
+* 11:30 - Jasmin Hudacsek
+
+#### With Beth
+
+* 9:00 - Chase Dunagan
+* 9:25 - Kinan Whyte
+* 9:50 - Raphael Barbo
+* 10:15 - Dan Broadbent
+* 10:40 - David Davydov
+* 11:05 - Jesse Spevack
+* 11:30 - Jean Joeris
+
+#### With Jeff
+
+* 9:00 - Alisher Sadikov
+* 9:25 - Vido Seaver
+* 9:50 - Gabi Procell
+* 10:15 - Bryan Goss
+* 10:40 - Christopher Calaway
+* 11:05 - Brian Heim
+
