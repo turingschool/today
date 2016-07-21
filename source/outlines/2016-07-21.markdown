@@ -42,8 +42,9 @@ classroom see
 
 ### Scale Up Evaluations (1:00 - 4:00)
 
-Schedule TBA
+[Submission form with rubric](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/scale-up-wk-4)
 
+[Check In Schedule](https://public.etherpad-mozilla.org/p/NskICQapIH)
 
 ## 1603
 
