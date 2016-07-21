@@ -75,6 +75,16 @@ Classroom B
 
 ### Battleship Evals & Week 4 Diagnostic (9:00 - 12:00)
 
+While you are not being evaluated, fork the Week 4 Diagnostic, and submit the
+link to yours when you are finished.
+
+* [Diagnostic](https://gist.github.com/mikedao/2e62330d8a1528493e035f239b560de4)
+* [Form](http://goo.gl/forms/cIFmCYDeFQSyTF1C3)
+
+When you are finished with the diagnostic, quietly work on this challenge.
+
+* [OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
+
 #### With Mike
 
 * 9:00 - Michael Hill
