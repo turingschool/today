@@ -83,6 +83,8 @@ Classroom B
 
 Let's GIT together in Classroom A. [Here is our git lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/small_team_git_workflow.md)
 
+Dad Jokes Rock!
+
 
 ### API & Rails Mini Project Kickoff and Worktime (2:00 - 4:00)
 Classroom A
