@@ -115,8 +115,8 @@ When you are finished with the diagnostic, quietly work on this challenge.
 * 10:40 - Christopher Calaway
 * 11:05 - Brian Heim
 
-### Pairing Exercises
+### GitHub for Pairs
 
 This afternoon let's wind down with some pairing exercises.
 
-Meet Mike in Classroom B for your pair assignment and exercise.
+Meet Mike in Classroom B to work on your Git skills -- especially since someone else will now have to participate in your gitastrophies.
