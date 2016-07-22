@@ -44,7 +44,14 @@ Geoff will talk about the processes and tools he uses on client projects (both s
 
 ### Academic Time (10:00 - 12:00)
 
-* 1602 - Champus
+#### 1602
+
+Laurie Voss will kick off his workshop at ***The Commons*** at 10:30. Try to be there 5-10 minutes early.
+
+Bring your computers and your enthusiasm for npm.
+
+Lunch will be provided and we should wrap up by 1:30pm.
+
 * 1603 - Classroom C
 * 1605 - Classroom B
 * 1606 - Classroom A
