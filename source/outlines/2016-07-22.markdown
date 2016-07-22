@@ -56,15 +56,25 @@ Lunch will be provided and we should wrap up by 1:30pm.
 * 1605 - Classroom C
 * 1606 - Classroom A
 
+
+#### 1606 Back-End
+
+After Geoff's talk we'll meet in Classroom A.
+
+First we'll have a panel Q&A with alumni. Please think of some questions you'd like to ask!
+
+Then we'll follow up with a recap/revisiting of both Battleship and OkCuGit.
+>>>>>>> 14757e2331feef4d1dfb3c940635d62527077a26
+
 ### Lightning Talks (1:15 - 2:15)
 
-Big Workspace
+Be in the Big Workspace for a collection of lightning talks.
 
-### Student Lead Sessions (2:!5 - 3:15)
+### Student Lead Sessions (2:15 - 3:15)
 
 ### Group Retro (3:15 - 4:00)
 
 * 1602 - Big Workspace
 * 1603 - Classroom C
 * 1605 - Classroom B
-* 1606 - Classroom A
+* 1606 Back-End - Uncubed (across the street)
