@@ -25,12 +25,39 @@ Classroom C
 
 ### Working with AJAX (9:00 - 12:00)
 
-Classroom C.
+Join Nate in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
 
 ### Project Check ins and Work Time (1:00 - 4:00)
 
-Schedule TBA
+#### With Josh (1:00 - 3:00)
 
+* Karina Gonzalez
+* Brian Sayler
+* Parker Phillips
+* Robert Jaeger
+* Charles Kaminer
+
+#### With Sally MacNicholas (Remote)
+
+(@sally on Slack)
+
+* 1:00 - Deborah Hamel
+* 1:45 - Colin Osborn
+* 2:30 - Christopher Soden
+* 3:15 - Kerry Sheldon
+* 4:00 - Erin Greenhalgh
+
+#### With Nate
+
+* Jennifer Soden
+* Ilana Corson
+* Lucy Fox
+* Nick Pisciotta
+* Ryan Batty
+* Marcella Wigg
+* Anna Weisbrodt
 
 ## 1605
 
