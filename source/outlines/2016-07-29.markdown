@@ -30,8 +30,8 @@ layout: outline
   </tr>
   <tr>
     <td>1602</td>
-    <td>BW</td>
-    <td>tbd</td>
+    <td>Commons on Champa</td>
+    <td>GameTime: Cross Program Pairing</td>
   </tr>
   <tr>
     <td>1603</td>
