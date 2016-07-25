@@ -3,6 +3,18 @@ title: 20160718
 layout: outline
 ---
 
+## All
+
+### Announcements
+
+
+## 1602
+
+### Thoughtbox (ALL DAY)
+
+Meet up in the Big Workspace then, wherever you need to be.
+
+
 ## 1603
 
 ### Mock Assessment (9:00 - 11:00)
@@ -11,10 +23,49 @@ Classroom C
 
 ### Personal Project work time (11:00 - 12:00)
 
-Now you can code 
+Now you can code
 
 ### Understanding the Asset Pipeline (1:00 - 4:00)
 
 Classroom C
 
 [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown)
+
+
+## 1605
+
+### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
+
+Classroom B.
+
+### Mini Project Show and Tell (11:30 - 12:00)
+
+Classroom B.
+
+### Cart and Order Life Cycle (1:00 - 3:00)
+
+Classroom B.
+
+### Little Shop Kick Off (3:00 - 4:00)
+
+Classroom B.
+
+
+## 1606-B
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+Classroom A.
+
+### Black Thursday Kick Off (10:30 - 11:00)
+
+Classroom A.
+
+### Mystery Class (1:00 - 3:00)
+
+It is a mystery.
+
+### Project Work Time (4:00)
+
+Do the thing.
+
