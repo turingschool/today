@@ -36,11 +36,11 @@ Classroom C
 
 ### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
 
-Classroom B.
+Classroom B. [Here is the lesson plan for this morning](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mini-project-gem-implementation.md).
 
 ### Mini Project Show and Tell (11:30 - 12:00)
 
-Classroom B.
+IF YOU WANT to show and tell your project, we'll do it now. Classroom B.
 
 ### Cart and Order Life Cycle (1:00 - 3:00)
 
