@@ -1,0 +1,54 @@
+---
+title: 20160726
+layout: outline
+---
+
+## All
+
+### Announcements
+
+
+## 1602
+
+### Advanced Active Record (9:00 - 12:00)
+
+Classroom B.
+
+### Stand Ups (1:00 - 2:00)
+
+Classroom C
+
+### Thoughtbox Evals (2:00 - 4:00)
+
+
+## 1603
+
+### Working with AJAX (9:00 - 12:00)
+
+Classroom C.
+
+### Project Check ins and Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1605
+
+### Rails Views Tips and Tricks (9:00 - 10:30)
+
+Classroom C
+
+### Git Workflow (10:30 - 11:30)
+
+Classroom C.
+
+### Little Shop Work Time (11:30 - 12:00)
+
+Anywhere
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1606-B
