@@ -22,16 +22,15 @@ layout: outline
 
 ### Academic Time (10:00 - 12:00)
 
-<table style="font-size: 18px; margin-bottom: 1.0em; line-height: 1.5em; font-weight: $font-weight-light; padding: 10px;
-border: 1px solid black;">
+<table style="font-size: 18px; margin-bottom: 1.0em; line-height: 1.5em; font-weight: $font-weight-light; padding: 10px;">
   <tbody>
     <tr>
-      <th style="border: 1px solid black;"></th>
+      <th></th>
       <th>Classroom</th>
       <th>Lesson Plans</th>
     </tr>
     <tr>
-      <td style="border: 1px solid black;">1602</td>
+      <td>1602</td>
       <td>Commons on Champa</td>
       <td>GameTime: Cross Program Pairing</td>
     </tr>
