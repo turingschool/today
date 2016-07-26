@@ -22,9 +22,9 @@ layout: outline
 
 ### Academic Time (10:00 - 12:00)
 
-<table>
-  <tbody style="font-size: 18px; margin-bottom: 1.0em; line-height: 1.5em; font-weight: $font-weight-light; margin: 1em 0em 0em 0em;
-  border: 1px solid black;">
+<table style="font-size: 18px; margin-bottom: 1.0em; line-height: 1.5em; font-weight: $font-weight-light; padding: 10px;
+border: 1px solid black;">
+  <tbody>
     <tr>
       <th></th>
       <th>Classroom</th>
