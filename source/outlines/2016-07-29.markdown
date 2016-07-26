@@ -23,7 +23,7 @@ layout: outline
 ### Academic Time (10:00 - 12:00)
 
 <table>
-  <tbody>
+  <tbody style="font-size: 18px; margin-bottom: 1.0em; line-height: 1.5em;">
     <tr>
       <th></th>
       <th>Classroom</th>
@@ -49,20 +49,8 @@ layout: outline
       <td>A</td>
       <td>tbd</td>
     </tr>
-    <tr>
-      <td><h1>1606-WAD</h1></td>
-      <td><h2>A</h2></td>
-      <td><h3>tbd</h3></td>
-    </tr>
-    <tr>
-      <td><h4>1606-WAD</h4></td>
-      <td><h5>A</h5></td>
-      <td><h6>tbd</h6></td>
-    </tr>
   </tbody>
 </table>
-
-
 
 ### Gear Up (1:15 - 2:15)
 Meet in the Big Workspace for this week's community-themed Gear Up, ["Tragedy of the Commons: Voting, Sustainability, and Cleaning"](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
