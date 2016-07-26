@@ -26,12 +26,12 @@ layout: outline
 border: 1px solid black;">
   <tbody>
     <tr>
-      <th></th>
+      <th style="border: 1px solid black;"></th>
       <th>Classroom</th>
       <th>Lesson Plans</th>
     </tr>
     <tr>
-      <td>1602</td>
+      <td style="border: 1px solid black;">1602</td>
       <td>Commons on Champa</td>
       <td>GameTime: Cross Program Pairing</td>
     </tr>
