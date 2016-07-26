@@ -22,7 +22,7 @@ Worth 10 extra credit points
 
 ### Advanced Active Record (9:00 - 12:00)
 
-Classroom B.
+Classroom A.
 
 ### Stand Ups (1:00 - 2:00)
 
@@ -50,6 +50,7 @@ Classroom C
 - 2:30: Kami Boers
 - 3:00: Claudia Kiesenhofer
 - 3:30: Chad Ellison
+
 
 ## 1603
 
@@ -90,15 +91,16 @@ Join Nate in Classroom C.
 * Marcella Wigg
 * Anna Weisbrodt
 
+
 ## 1605
 
 ### Rails Views Tips and Tricks (9:00 - 10:30)
 
-Classroom C
+Classroom B
 
 ### Git Workflow (10:30 - 11:30)
 
-Classroom C.
+Classroom B.
 
 ### Little Shop Work Time (11:30 - 12:00)
 
@@ -110,3 +112,13 @@ Schedule TBA
 
 
 ## 1606-B
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Join Jeff in the Big Workspace as you learn how to test the small things.
+
+### ROADSHOW (10:30 - 12:00)
+
+A Jeff and Mike Roadshow.
+
+Again, in the Big Workspace
