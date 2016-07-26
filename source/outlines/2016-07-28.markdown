@@ -27,8 +27,56 @@ Classroom B.
 
 Classroom B.
 
+
 ## 1603
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Classroom A.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
 
 ## 1605
 
+### Pushing Logic Down the Stack (9:00 - 11:00)
+
+Classroom C.
+
+### Callbacks and Scopes (11:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
 ## 1606-B
+
+### Project Check Ins (9:00 - 12:00)
+
+#### With Mike
+* 9:00 - Jasmin & Jesse
+* 9:45 - Calaway & Kinan
+* 10:30 - Dan & David
+* 11:15 - Ryan and Gabi
+
+#### With Beth
+* 9:00 - Chase & Vido
+* 9:45 -  Mike & Alisher
+* 10:30 - Brendan & Brian
+
+
+#### With Jeff
+* 9:00 - Ben & Bryan
+* 9:45 - Nate & Jean
+* 10:30 - Raphael & Susi
+
+### Project Work Time (1:00 - 4:00)
+
+Work on your projeeeeects.
+
+
