@@ -7,6 +7,7 @@ layout: outline
 
 ### Announcements
 
+
 ## 1602
 
 ### Special Topics from Thoughtbox (9:00 - 11:00)
@@ -47,6 +48,7 @@ Commons on Champa
 - 2:30: Jeneve Parrish
 - 3:00: Sal Espinosa
 
+
 ## 1603
 
 ### Project Work Time (9:00 - 12:00)
@@ -58,9 +60,39 @@ Commons on Champa
 
 ### Protocol - Personal Branding, Marketing Yourself (1:00 - 2:00)
 
+Classroom B.
+
 ### Project Work Time (2:00 - 4:00)
 
 
 ## 1605
 
+### Intro to Heroku and the Asset Pipeline (9:00 - 10:30)
+
+Classroom B.
+
+### Project Work Time and One on Ones (10:30 - EOD)
+
+Schedule TBD.
+
+
 ## 1606-B
+
+### Advanced Enumerables (9:00 - 10:30)
+
+Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+
+Classroom A still!
+
+### Assessment and Portfolio Q and A (1:00 - 1:30)
+
+Classroom A where Jeff will put your fears to rest.
+
+### Project Work Time (1:30 - 4:00)
+
+Do the thing!
+
+
+
