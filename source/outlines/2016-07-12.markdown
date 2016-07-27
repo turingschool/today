@@ -1,0 +1,170 @@
+---
+title: 20160712
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**denouement** - _noun_ - the final resolution of the main complication
+of a literary or dramatic work
+
+
+### Lunch Roulette Groups
+
+First name in a group is in charge of that group.
+
+* *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
+* *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
+* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan
+* *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
+* *Robert Jaeger*, Marina Corona, Zachary Forbing, Adam Bernard, Meeka
+* *Ryan Batty*, Mark Miranda, Alisher Sadikov, Andy Young, Allison
+* *Matt Pindell*, Angela Lindow, Ben Pepper, Benjamin Godfrey, Joanne
+* *Patrick Hardy*, Caleb Cowen, Brendan Dillon, Blake Worsley, Erin
+* *Sal Espinosa*, Chris Concannon, Brian Heim, Brett Hevia, Steve
+* *Thom Pickett*, David Tinianow, Bryan Goss, Casey Cross, Louisa
+* *Anna Weisbrodt*, Alex Navarrete, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
+* *Brian Sayler*, Alireza Andersen, Jason Hanna, Dan Broadbent, David Kerr, Brenna
+* *Charles Kaminer*, Anrdrew Thompson, Kris Sparks, David Davydov, Jeff Duke
+* *Christopher Soden*, Ashwin Rao, Lin McCartney, Vido Seaver, Kirsten Swanson
+* *Colin Osborn*, Chad Ellison, Matthew Campbell, Gabi Procell, Kyle Misencik
+* *Deborah Hamel*, Claudia Kiesenhofer, Matt Packer, Jasmin Hudacsek, Madison Kerndt
+* *Erin Greenhalgh*, Gurusundesh Khalsa, Lane Winham, Jesse Spevack, MaryJane Valade
+* *Ilana Corson*, Jared Roth, Patrick Wentz, Kinan Whyte, Mike Sausa
+* *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
+* *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
+
+## 1602
+
+### Client Side Storage (9:00 - 10:30)
+
+Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/client_side_storage.markdown)
+
+### Real Time Applications in Node (10:30 - 12:00)
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/real_time_applications_with_node.markdown)
+- [Practice Repository](https://github.com/turingschool-examples/right-now)
+
+You'll be working in the following pairs:
+
+* Jeneve Parrish & Alireza Andersen
+* Joshua Washke & Chad Ellison
+* Ashwin Rao & Jonathan Bernesser
+* Matt Pindell & Mark Miranda
+* Jared Roth & Ling Tran
+* Andrew Thompson & Kris Foss
+* Claudia Kiesenhofer & Jonathan Liss
+* Marina Corona & Kami Boers
+* Gurusundesh Khalsa & Patrick Hardy
+* Sal Espinosa & Alex Navarrete & Thomas Pickett
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+#### With Meeka
+
+- 1:30: Mark Miranda & Matt Pindell
+- 2:00: Ling Tran & Sal Espinosa & Kami Boers
+- 2:30: Kris Foss & Claudia Kiesenhofer & Alireza Andersen
+
+#### With Jhun
+
+- 1:30: Gurusundesh Khalsa & Alex Navarrete
+- 2:00: Patrick Hardy & Chad Ellison
+- 2:30: Marina Corona & Jeneve Parrish
+
+#### With Brenna
+
+- 1:30: Joshua Washke & Jared Roth & Andrew Thompson
+- 2:00: Jonathan Liss & Jonathan Bernesser
+- 2:30: Ashwin Rao & Thomas Pickett
+
+## 1603
+
+### Consuming APIs (9:00 - 12:00)
+
+Big Workspace
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+Check-ins should take 15-20 minutes. Keep an eye on the people ahead of you.
+
+[Expectations](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md#check-in-and-milestones)
+
+#### With Josh
+
+- Jennifer Soden
+- Ryan Batty
+- Deborah Hamel
+- Colin Osborn
+- Robert Jaeger
+- Parker Phillips
+- Ilana Corson
+- Charles Kaminer
+
+#### With Jorge/Nate
+
+- Kerry Sheldon
+- Nick Pisciotta
+- Marcella Wigg
+- Lucy Fox
+- Anna Weisbrodt
+- Karina Gonzalez
+- Brian Sayler
+- Christopher Soden
+- Erin Greenhalgh
+
+
+## 1605
+
+### Migrations, Databases and Models (9:00 - 11:00)
+
+More Rails! Classroom C.
+
+### Relationships Implementation Exercises (11:00 - 12:00)
+
+Stay in Classroom C to work on some exercises.
+
+### Rails Basics Challenge (1:00 - 4:00)
+
+The basement is your oyster. Find a comfortable spot, take some pomodoros and dig into the Rails Basics Challenge.
+
+
+## 1606-B
+
+### All: Pairing Practice (9:00 - 10:00)
+
+This morning we'll start with a pairing exercise in Classroom B. Sit with the pair listed below.
+
+The exercise you'll work on challenges you to implement objects with Ruby features *without* using the built-in features. We call it [Ruby in Ruby](https://github.com/turingschool/challenges/blob/master/ruby_in_ruby.markdown).
+
+#### Pairings
+
+* Vido Seaver & Calaway
+* Nate Anderson & Kinan Whyte
+* Chase Dunagan & Brian Heim
+* Jasmin Hudacsek & Susi Irwin
+* Bryan Goss & Ryan David Workman
+* Michael Hill & Ben Pepper
+* Jean Joeris & David Davydov
+* Raphael Barbo & Gabi Procell
+* Brendan Dilon & Jesse Spevack
+* Alisher Sadikov & Dan Broadbent
+
+### All: Intermediate Enumerables (10:00 - 12:00)
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intermediate_enumerables.markdown)
+
+### All: Baby's First Rakefile (1:00 - 2:00)
+
+Meet with Jeff in Classroom B to talk about Rake.
+
+### Project Work Time (2:30 - 4:00)
+
+Push forward on your projects.

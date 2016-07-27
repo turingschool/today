@@ -3,54 +3,75 @@ title: 20160520
 layout: outline
 ---
 
-## All
+## Surveys
 
-**furphy** - _noun_ - a false report; rumor
+* [1511](http://goo.gl/forms/ZNTHvw9kNbiw2H7F2)
+* [1602](https://docs.google.com/forms/d/1KoymdYy02S8nIFyZzA7kK4i6nVaqvBOCG0J6cc4J13o/viewform)
+* [1603](https://docs.google.com/forms/d/1gRlKq9rfhlUi4cNonROCrWiISg29Fj8fTOS0rLlc1Is/viewform)
+* [1605](https://docs.google.com/forms/d/101kOr_3ztPUb7_VbfWOJqs-VJ90hKZGlStVxMMMwNBE/viewform)
 
-### Weekly Surveys
+## Guest Speaker (9:00 - 10:00)
 
-* [1511]()
-* [1602]()
-* [1603]()
-* [1605]()
-
-### Guest Speaker (9:00 - 10:00)
-
-Greg Boone from 18F.
+### Greg Boone from 18F
 
 * [LinkedIn](https://www.linkedin.com/in/gregboone42)
 * [Twitter](https://twitter.com/gboone42)
-* [Website](http://greg.harmsboone.org/)
+* [Website](greg.harmsboone.org)
 
-This will be a Q and A on civic tech.
+Q&A about 18F, civic tech, that kind of thing
 
-Greg helps manage the website and communications strategy for 18F. He has a
-background in teaching and software development. After several years of doing
-a mix of making or supporting makers, he learned that he thrives when doing
-the latter. He enjoys explaining how a complicated data problem was solved than
-writing the code to solve it. He is particularly interested in how technologies
-interact with large institutions like universities, governments, and industries.
+Greg helps manage the website and communications strategy for 18F. He has a background in teaching and software development. After several years of doing a mix of making or supporting makers, he learned that he thrives when doing the latter. He enjoys explaining how a complicated data problem was solved than writing the code to solve it. He is particularly interested in how technologies interact with large institutions like universities, governments, and industries.
 
-What is 18F:
+What is 18F?
 
-18F is an office inside the General Services Administration that helps other
-federal agencies build, buy, and share efficient and easy-to-use digital
-services. They are an office of federal employees acting as a civic consultancy
-for the government. They’re transforming government from the inside out,
-creating cultural change by working with teams inside agencies who want to
-create great services for the public by building a suite of secure, scalable
-tools and platforms that any agency can use to solve these a unique set of
-technology problems that Federal agencies face.
+18F is an office inside the General Services Administration that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. They are an office of federal employees acting as a civic consultancy for the government. They’re transforming government from the inside out, creating cultural change by working with teams inside agencies who want to create great services for the public by building a suite of secure, scalable tools and platforms that any agency can use to solve these a unique set of technology problems that Federal agencies face.
 
-### Academic Time (10:00 - 11:30)
+## Instructional Time (10:00 - 11:30)
 
-* 1511 - Classroom C
-* 1602 - Classroom B
-* 1603 - Big Workspace
-* 1605 - Stand by for location of small groups.
+### 1511: Fun with Data Structures
 
+Meet with Steve in Classroom B. We'll talk a little bit about data structures and algorithms and then we've revisit two of our old friends to kick things off.
 
-### Lighting Talks (11:30 - 12:30)
+You'll be working in the following pairs on implementing a Linked List in JavaScript:
+
+* Nicholas Dorans & Julian Feliciano
+* July Tran & Taylor Moore
+* David Whitaker & Allan Blair
+* Brennan Holtzclaw & Nate Venn
+* Adam Hundley & Kimiko Kano
+* Erinna Chen & Nick Weiland
+* Adrienne Domingus & Brian Rippeto
+* Scott Firestone & Chelsea Johnson & Heidi Hoopes
+
+Then, you'll be working in the following pairs on implementing a binary search tree.
+
+* Erinna Chen & Kimiko Kano
+* Brennan Holtzclaw & July Tran
+* Nick Weiland & David Whitaker
+* Nate Venn & Nicholas Dorans
+* Allan Blair & Julian Feliciano
+* Chelsea Johnson & Brian Rippeto
+* Scott Firestone & Heidi Hoopes
+* Adam Hundley & Taylor Moore & Adrienne Domingus
+
+### 1602
+
+[Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)
+
+### 1605
+
+Join Rachel in Classroom A to recap the flashcards project. Then, we'll work in the following pairs on [this challenge](https://github.com/turingschool/posse_challenges/blob/master/people_database/README.markdown).
+
+* Angela & Caleb
+* David & Ben
+* Luigi & Garrett
+* Raphael & Jason
+* Kris & Tommasina
+* Lane & Yoseph
+* Patrick & Sonia
+* Matt & Lin & Zach
+
+## Lighting Talks (11:30 - 12:30)
 
 * Matt Pindell - Rust
 * Anna Weisbrodt - Apple v. FBI
@@ -58,44 +79,18 @@ technology problems that Federal agencies face.
 * Ashwin Rao - Intro to Employment Contracts
 * Allan Blair - Professional Writing
 
-### Lunch Roulette (12:30 - 1:30)
+## Lunch (12:30 - 1:30)
 
-* Patrick Wentz, Marcella Wigg, Kimiko Kano, Horace
-* Alex Navarrete, Luigi Aversano, Parker Phillips, Rachel
-* Trent Whitinger, Kerry Sheldon, Alireza Andersen, Chelsea Johnson
-* Andrew Thompson, Angela Lindow, Karina Gonzalez, Jeff
-* David Whitaker, Ashwin Rao, Yoseph Anderson, Andrew
-* Brian Rippeto, Ilana Corson, Jhun
-* Adam Hundley, Christopher Soden, Charles Kaminer, Brenna
-* Sonia Gupta, Claudia Kiesenhofer, Taylor Moore, Nate
-* Julian Feliciano, Christine Gamble, Roberta Doyle, Josh
-* Nick Pisciotta, Joshua Cohen, Brennan Holtzclaw
-* Nate Anderson, Jennifer Soden, Louisa
-* Jared Roth, Lucy Fox, Caleb Cowen, Allison
-* Allan Blair, Jeneve Parrish, Raphael Barbo, Joanne
-* Nicole Marino, Nick Weiland, Jonathan Liss, Beth
-* July Tran, Robert Jaeger, Tommasina Miller, Thomas Pickett
-* Brian Sayler, Garrett Smestad, Heidi Hoopes, Joshua Washke
-* Scott Firestone, Jason Hanna, Ryan Batty, Michael Lane Winham
-* Kris Foss, Ben Pepper, Admir Draganovic, Erin Greenhalgh
-* Christopher Concannon, Ling Tran, Gurusundesh Khalsa
-* David Tinianow, Nicholas Dorans, Jonathan Bernesser, Kris Sparks
-* Zachary Forbing, Matt Pindell, Brandon Randall, Patrick Hardy
-* Sal Espinosa, Matthew Campbell, Linda McCartney,
+## Group Retro (1:30 - 2:30)
 
-### Group Retro (1:30 - 2:30)
+### 1602
 
-* 1511 - Classroom C
-* 1602 - Classroom B.
-* 1603 - Big Workspace
-* 1605 - Classroom A.
+[The Pivot Week 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md)
 
+[Group Member Feedback](https://docs.google.com/forms/d/11aa2x5LqfS6mXevwvPVbO02vBa5hkE_IT8W31pDeicc/viewform)
 
-### Choose Your Own Adventure Time (2:30 - 4:00)
+## Choose Your Own Adventure Time (2:30 - 4:00)
 
-* Miyamoto and Ritchie Posses - Classroom A - Guest speakers Michelle and James Juett from
-Ska Studios come to talk about their hit game,
-[Salt and Sanctuary](http://ska-studios.com/salt/)
 * Erinna Chen - Testing Ruby
 * Jon Liss - Intro to Python
 * Pahlka Posse - Join Pahlka Posse for a Google Hangout with alumni Andrew Glass and Travis Valentine to hear about their experiences working in civic tech! After the Hangout, we will work on our housing app. All are welcome! (Horace's Lair)

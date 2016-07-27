@@ -1,0 +1,145 @@
+---
+title: 20160711
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**nonpareil** - _adjective_ - having no equal; peerless
+
+
+### Lunch Roulette Groups
+
+First name in a group is in charge of that group.
+
+* *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
+* *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
+* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan, Nate
+* *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
+* *Robert Jaeger*, Marina Corona, Zachary Forbing, Adam Bernard, Meeka
+* *Ryan Batty*, Mark Miranda, Alisher Sadikov, Andy Young, Allison
+* *Matt Pindell*, Angela Lindow, Ben Pepper, Benjamin Godfrey, Joanne
+* *Patrick Hardy*, Caleb Cowen, Brendan Dillon, Blake Worsley, Erin
+* *Sal Espinosa*, Chris Concannon, Brian Heim, Brett Hevia, Steve
+* *Thom Pickett*, David Tinianow, Bryan Goss, Casey Cross, Louisa
+* *Anna Weisbrodt*, Alex Navarrete, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
+* *Brian Sayler*, Alireza Andersen, Jason Hanna, Dan Broadbent, David Kerr, Brenna
+* *Charles Kaminer*, Anrdrew Thompson, Kris Sparks, David Davydov, Jeff Duke
+* *Christopher Soden*, Ashwin Rao, Lin McCartney, Vido Seaver, Kirsten Swanson
+* *Colin Osborn*, Chad Ellison, Matthew Campbell, Gabi Procell, Kyle Misencik
+* *Deborah Hamel*, Claudia Kiesenhofer, Matt Packer, Jasmin Hudacsek, Madison Kerndt
+* *Erin Greenhalgh*, Gurusundesh Khalsa, Lane Winham, Jesse Spevack, MaryJane Valade
+* *Ilana Corson*, Jared Roth, Patrick Wentz, Kinan Whyte, Mike Sausa
+* *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
+* *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
+
+## 1602
+
+### Discussion: Node vs Webpack (9:00 - 9:30)
+
+Classroom C.
+
+### Building and Testing Node Applications (9:30 - 12:00)
+
+Work through [Pizza Express](https://github.com/turingschool-examples/pizza-express)
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/20a39fe470cad4a45da99dcda19c7f6b)
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.
+
+[Sign up for pairing](https://public.etherpad-mozilla.org/p/instructor-pairing) or come find Meeka with any questions
+
+## 1603
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classoom A.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+JSON puts the FUN in Fundamentals.
+
+### APICurious Kickoff (1:00 - 2:30)
+
+Classroom C.
+
+[APICURIOUS](https://www.youtube.com/watch?v=fwcONrTG7nk)
+
+### Project Work Time (2:30 - 4:00)
+
+Work
+
+
+## 1605
+
+### RushHour Evaluations and ActiveRecord Obstacle Course (9:00 - 12:00)
+
+If you're not doing your RushHour evaluation please do the following:
+
+* At some point this morning, before or after your Eval, make sure you retro with your RushHour group. Just like fridays, what went well, what went 'meh', what didn't go well.
+
+* read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
+
+* [ActiveRecord Obstacle Course](https://gist.github.com/Carmer/84b2679b2bd24d9035110a1f32cd4ac0)
+
+#### With Andrew & Casey:
+
+* (9:00 - 9:45) - Nicole Marino & Kris Sparks & Trent Whitinger
+
+
+#### With Andrew:
+
+* (9:45 - 10:30)  - Linda McCartney & Michael Lane Winham & Tommasina Miller
+* (10:30 - 11:15) - Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* (11:15 - 12:00) - Patrick Wentz & Garrett Smestad & Zachary Forbing
+
+
+#### With Casey:
+
+* (9:45 - 10:30)  -  Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* (10:30 - 11:15) -  David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
+
+### Rest Controllers and Routing in Rails (1:00 - 2:30)
+
+Join Casey in Classroom A to kick off RAILS! [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_routes_controllers.markdown)
+
+### ERDs (2:30 - 4:00)
+
+Stay in A to talk about some Diagrams. [Here is the lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md)
+
+## 1606-B
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Start your day with guest star Jorge in Classroom B working on testing strategies.
+
+Before this class, please clone the class repo by running the following command:
+
+```
+git clone https://github.com/turingschool-examples/pony.git testing_strategies
+```
+
+The class materials are the following:
+
+1. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_strategies_and_encapsulation.markdown)
+2. [Slides](https://drive.google.com/file/d/0B3yN3TP0PDuITXlTazN3dFBpdUE/view?usp=sharing)
+3. [Repo](https://github.com/turingschool-examples/pony)
+
+### All: Arguments, Methods and Scopes (10:30 - 12:00)
+
+Jeff will find you in Classroom B to work on [Arguments, Methods, and Scopes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/methods_arguments_and_scopes.markdown)
+
+### Getting Started with Resumes with Marissa & Lia (1:00 - 2:30)
+
+After lunch join Marissa and Lia Classroom B.
+
+### All: Pairing Patterns (2:30 - 4:00)
+
+Finish the day in Classroom B with Beth working on your pairing techniques.

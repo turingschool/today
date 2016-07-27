@@ -1,0 +1,163 @@
+---
+title: 20160531
+layout: outline
+---
+
+## All
+
+**doughty** - _adjective_ - steadfastly courageous and resolute; valiant.
+
+
+## 1511
+
+### Refactor Tractor (9:00 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
+Classroom C.
+
+#### Refactoring Buddies
+
+* Brian Rippeto & Chelsea Johnson
+* Julian Feliciano & July Tran
+* Erinna Chen & Scott Firestone
+* Brennan Holtzclaw & Taylor Moore
+* Adrienne Domingus & Kimiko Kano
+* Nick Weiland & David Whitaker & Heidi Hoopes
+* Allan Blair & Nate Venn
+* Adam Hundley & Nicholas Dorans
+
+### Scale Up Kick Off, Agile, and Other Buzzwords (1:00 - 2:30)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
+### Wireframing and Prototyping, and Content Hierarchy, Oh my! (2:30 - 4:00)
+
+Stay in Classroom C.
+
+## 1602
+
+### Building and Securing an API (9:00 - 12:00)
+
+Classroom B.
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+### Trelora Project Pitches (2:30 - 4:00)
+
+Stay in Classroom B.
+
+
+## 1603
+
+### MixMaster Peer Checks (9:00 - 10:00)
+
+Big Workspace
+
+Spend 25 minutes on each persons code and take a 5 minute break.
+
+Use [this prompt](https://gist.github.com/Carmer/5102523a97e5bb177fa6b2fcd17af2ae) to help guide your peer review session.
+
+Pairs:
+
+* Jennifer Soden & Brian Sayler
+* Lucy Fox & Karina Gonzalez
+* Colin Osborn & Charles Kaminer
+* Erin Greenhalgh & Ryan Batty
+* Marcella Wigg & Parker Phillips
+* Kerry Sheldon & Ilana Corson
+* Nick Pisciotta & Robert Jaeger
+* Anna Weisbrodt & Jhun
+
+
+### MixMaster Q & A (10:00 - 10:30)
+
+Big Workspace
+
+### Sessions, Cookies and Flashes (10:30 - 12:00)
+
+Join Jeff in the Big Workspace where you'll work on
+[Sessions, Cookies, and Flashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/sessions_cookies_and_flashes.markdown).
+
+### CRUD Sprint and Mid-Module Diagnostics (1:00 - 4:00)
+
+Let's get a fair assessment of our progress through rails so far. This CRUD [sprint](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint) is designed to be a solo activity that will help you gauge your understanding of rails so far.
+
+I'd like you to pick a simple app idea of your choosing, and build out full CRUD functionality for it. Build it out with TDD. If you complete all CRUD functionality for one entity try to bring in a one-to-many and or a many-to-many relationship. If you don't have any ideas for what you could model in this application consider the following:
+
+* Students => Courses/classes, enrollments, instructors etc.
+* Candy => ingredients, categories etc.
+* Cats => scratching posts, nap-spots etc.
+* Cards => Decks, rounds, etc
+* Surveys => questions, users etc.
+* Posts => comments, users, tags etc.
+* Movies => directors, theaters etc.
+* Books =>  Authors, library/branch etc.
+
+
+This should be a basic challenge. Start with rails new and TDD your features. Do basic crud for an entire entity then move onto it's relationships, or you can take some time to explore bootstrap or another css framework in a rails project. 
+
+### Mid Module Diagnostics
+
+With Jeff:
+
+  * 3:00 - Ryan Batty
+
+With Andrew:
+
+  * 2:00 - Anna Weisbrodt
+  * 3:00 - Lucy Fox
+
+With Jhun:
+
+  * 2:00 - Erin Greenhalgh
+  * 3:00 - Kerry Sheldon
+
+## 1605
+
+### Github for Pairs (9:00 - 10:30)
+
+Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/git_and_github_for_pairs.markdown)
+
+###  Mid Module Diagnostics & Project Work Time (10:30 - 4:00)
+
+#### With Rachel
+* 10:30 - Jason Hanna
+* 11:00 - Kris Sparks
+* 11:30 - Nicole Marino
+* 1:00 - Sonia Gupta
+* 1:30 - Lane Winham
+* 2:00 - Patrick Wentz
+
+#### With Horace
+* 10:30 - Ben Pepper
+* 11:00 - Brandon Randall
+* 11:30 - Lin McCartney
+* 1:00 - Luigi Aversano
+* 1:30 - Yoseph Anderson
+* 2:00 - Nate Anderson
+
+#### With Mike
+* 10:30 - Angela Lindow
+* 11:00 - Matthew Campbell
+* 11:30 - Raphael Barbo
+* 1:00 - Roberta Doyle
+* 1:30 - Garrett Smestead
+* 2:00 - Zachary Forbing
+
+#### With Jhun
+* 10:30 - Christopher Concannon
+* 11:00 - David Tinianow
+* 11:30 - Tommasina Miller
+
+#### With Brenna
+* 10:30 - Trent Whitinger
+* 11:00 - Ryan Flach
+* 11:30 - Caleb Cowen
+>>>>>>> fd1f0f7ef042bb9fe70927a21bcb8367a263cb8d

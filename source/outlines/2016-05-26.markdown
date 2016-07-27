@@ -1,0 +1,169 @@
+---
+title: 20160526
+layout: outline
+---
+
+## All
+
+**bon ton** - _noun_ - fashionable or elegant manner or style. What Horace does.
+
+## 1511
+
+### Game Time Evals (9:00 - 11:30)
+
+Classroom B
+
+#### Louisa: Functional Expectation and UI Review
+
+* 9:00: Kimiko Kano & Scott Firestone
+* 9:20: Nicholas Dorans & Taylor Moore
+* 9:40: Brian Rippeto & David Whitaker
+* 10:00: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:20: July Tran & Chelsea Johnson
+
+#### Meeka: Testing and Code Review
+
+* 9:20: Kimiko Kano & Scott Firestone
+* 9:40: Nicholas Dorans & Taylor Moore
+* 10:00: Brian Rippeto & David Whitaker
+* 10:20: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 10:40: July Tran & Chelsea Johnson
+
+#### With Brenna
+
+- 10:00: Julian Feliciano & Allan Blair
+- 10:45: Erinna Chen & Adrienne Domingus
+
+#### With Steve
+
+- **1:15:** Nick Weiland & Adam Hundley
+
+### IdeaBox in React Kick Off (11:30 - 12:00)
+
+Classroom B
+
+### Ideabox in React Work Time (1:00 - 2:00)
+
+Box those ideas.
+
+### Picking Week 4 & 5 (2:00 - 2:30)
+
+Meet with Meeka in Classroom B to talk about the next few weeks.
+
+### Ideabox in React Work Time (2:30 - 4:00)
+
+Continue boxing those ideas.
+
+## 1602
+
+### Project Work Time (9:00 - 12:00)
+
+Finish it up.
+
+### Apicurious Evaluations (1:00 - 4:00)
+
+#### With Josh
+- 11:30: Marina
+- 11:45: Jon B
+- 1:00: Drew
+- 1:15: Ling
+- 1:30: Jared
+- 1:45: Thom
+- 2:00: Jon L
+- 2:15: Ali
+- 2:30: Jeneve
+- 2:45: Matt
+- 3:00: Claudia
+- 3:15: Admir
+
+#### With Nate
+- 11:45: Ashwin
+- 1:00: Mark
+- 1:15: Kris
+- 1:30: Josh
+- 1:45: Sal
+- 2:00: Kami
+- 2:15: Chris
+- 2:30: Pat
+- 2:45: Alex
+- 3:00: Chad
+- 3:15: Sunny
+- 3:30: Hedy
+
+## 1603
+
+### Blogger Recap (9:00 - 9:30)
+
+Head over to Classroom C where we'll recap blogger.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+After that Andrew will go over [Feature Testing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/feature_testing_rails_applications_with_minitest_or_rspec.md). Classroom C.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Join Jeff in Classroom C to go over what it looks like to write Model tests in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/model_testing_in_rails.markdown)
+
+###  Work Time: Model Testing (1:00 - 3:00)
+
+You have until 3 to finish the [Model Testing Challenge](https://github.com/turingschool/challenges/blob/master/model_testing_rails.markdown). Good Luck!
+
+### Model Testing - Review (3:00 - 3:30)
+
+Come back to Classroom C to review Model Testing..
+
+### Mix Master Kick Off (3:30 - 4:00)
+
+Join Andrew as he kicks off [Mix Master](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master)! It should be an exciting time.
+
+## 1605
+
+### All: Project Evaluations (9:00 - 12:00)
+
+#### With Horace
+* 9:00 - Chris Concannon
+* 9:30 - Nicole Marino
+* 10:00 - Roberta Doyle
+* 10:30 - Ryan Flach
+* 11:00 - Trent Whitinger
+* 11:30 - Brandon Randall
+
+#### With Rachel
+* 9:00 - Ben Pepper
+* 9:30 - Joshua Cohen
+* 10:00 - Kris Sparks
+* 10:30 - Lin McCartney
+* 11:00 - Michael Lane Winham
+* 11:30 - Nate Anderson
+
+#### With Mike
+* 9:00 - David Tinianow
+* 9:30 - Garrett Smestead
+* 10:00 - Jason Hanna
+* 10:30 - Patrick Wentz
+* 11:00 - Raphael Barbo
+* 11:30 - Sonia Gupta
+
+#### With Jhun
+* 9:00 - Angela Lindow
+* 9:30 - Caleb Cowen
+* 10:00 - Luigi Aversano
+* 10:30 - Matthew Campbell
+* 11:00 - Yoseph Anderson
+* 11:30 - Tommasina Miller
+
+#### With Jorge
+* 9:00 - Zachary Forbing
+
+### All: Weekly Diagnostic
+
+Complete [this week's diagnostic](https://gist.github.com/worace/39ffb43aa04fb6a7fb66248015bd37a8) to self-assess
+your mastery of the concepts we've covered this week.
+
+### All: Begin HTTP Reading (9:00 - 12:00)
+
+Once you've finished your diagnostic, start on this reading which
+is your assignment for the weekend. The concepts covered here will be
+very important for your next project, so approach it diligently.
+
+[Link](https://launchschool.com/books/http)

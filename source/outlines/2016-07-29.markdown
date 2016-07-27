@@ -1,0 +1,45 @@
+---
+title: 20160729
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1602 - coming soon!]()
+* [1603 - coming soon!]()
+* [1605 - coming soon!]()
+* [1606 - coming soon!]()
+
+### Lunch Roulette Groups
+(TBD)
+
+### Guest Speaker - Kinsey Durham (9:00 - 10:00)
+* [LinkedIn](https://www.linkedin.com/in/kinseyanndurham)
+* [Twitter](https://twitter.com/kinseyanndurham)
+* [Website](http://kinseyanndurham.com/)
+
+### Academic Time (10:00 - 12:00)
+
+####1602 (Commons on Champa)
+GameTime: Cross Program Pairing
+
+####1603 (Classroom C)
+
+####1605 (Classroom B)
+
+####1606-WAD (Classroom A)
+
+### Gear Up (1:15 - 2:15)
+Meet in the Big Workspace for this week's community-themed Gear Up, ["Tragedy of the Commons: Voting, Sustainability, and Cleaning"](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+### Student-Led Sessions (2:15 - 3:15)
+Student-led session topics for today are posted on the whiteboard in the Big Workspace.
+
+### Group Retro (3:15 - 4:00)
+* 1602 - Big Workspace
+* 1603 - Classroom C
+* 1605 - Classroom B
+* 1606 Back-End - Uncubed (across the street)
+* 1606 Front-End - Classroom A

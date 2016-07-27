@@ -1,0 +1,144 @@
+---
+title: 20160606
+layout: outline
+---
+
+## All
+
+**tickety-boo** - _adjective_ - fine; OK.
+
+## 1511
+
+### Thoughtbox Mock Eval (ALL DAY)
+
+Kick things off in the Big Workspace.
+
+### Friday Checkin Overflow (9:15 - 9:45)
+
+* 9:15: Chelsea Johnson
+* 9:30: David Whitaker
+* 9:45: Nate Venn
+
+## 1602
+
+### Mid Module Assessment (9:00 - 10:30)
+
+Classroom B.
+
+### Project Work Time (10:30 - 12:00)
+
+Work away.
+
+### Assessment Grading (1:00 - 4:00)
+
+Schedule TBD.
+
+### Working with Ajax (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
+
+Come over to Classroom C to work with our Mini-Projects.
+
+* Anna Weisbrodt & Robert Jaeger
+* Lucy Fox  & Marcella Wigg
+* Kerry Sheldon & Karina Gonzalez & Charles Kaminer
+* Nick Pisciotta & Ilana Corson
+* Parker Phillips & Colin Osborn
+* Erin Greenhalgh & Jennifer Soden
+* Ryan Batty & Brian Sayler
+
+
+
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mini-project-gem-implementation.md). We will be reviewing each others code and implementing something new into the codebase.
+
+### Mini Project Show and Tell (11:30 - 12:00)
+
+Classroom C.
+
+### Cart and Order Life Cycle (1:00 - 3:00)
+
+Back in Classroom C to learn about implementing a session cart in a Rails project.[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cart_implementation.markdown)
+
+### Little Shop Kick Off (3:00 - 4:00)
+
+Classroom C. Groups are as follows:
+
+[Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
+[DTR - Setting Group Expectations](https://gist.github.com/Carmer/85b9e0569af607d14f6e14b696b5e131)
+
+* Kerry Sheldon & Robert Jaeger & Karina Gonzalez
+* Parker Phillips & Nick Pisciotta & Anna Weisbrodt
+* Marcella Wigg & Lucy Fox & Charles Kaminer
+* Erin Greenhalgh & Ilana Corson & Ryan Batty
+* Brian Sayler & Colin Osborn & Jennifer Soden
+
+## 1605
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+Classroom A.
+
+Pairs as follows:
+* Sonia & David
+* Tommasina & Lane
+* Trent & Garrett
+* Nate & Luigi
+* Caleb & Angela
+* Chris & Ryan
+* Jason & Zack
+* Ben & Roberta
+* Yoseph & Pat
+* Brandon & Lin
+* Nicole & Raphael
+* Matthew & Kris
+
+### Final Project Kickoff (10:30 - 11:30)
+
+[Headcount Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+THE MOMENT OF DESTINY HAS ARRIVED
+
+**Project Pairs:**
+
+* Patrick Wentz & Nicole Marino
+* Luigi Aversano & Yoseph Anderson
+* Tommasina Miller & Angela Lindow
+* Trent Whitinger & Zachary Forbing
+* Christopher Concannon & Caleb Cowen
+* Garrett Smestad & Ben Pepper
+* Ryan Flach & Linda McCartney
+* Jason Hanna & David Tinianow
+* Kris Sparks & Matthew Campbell
+* Sonia Gupta & Roberta Doyle
+* Raphael Barbo & Michael Lane Winham
+
+**Headcount Highlights:**
+
+* "ETL" Overview
+* Dealing with public data
+* Dealing with abstract data entities
+* Read the spec. Then read it again.
+* Requirements: Iterations 0 - 4 and **ONE OF** 5 or 6 (you choose)
+* Marathon not a sprint
+* Projects will be evaluated by a staff code reviewer and an automated spec harness
+* Passing scores are required to pass module 1
+* Spec harness doesn't mean you can get away without writing your own tests
+* Don't steal your own learning
+
+### Team DTR (11:30 - 12:00)
+
+Classroom A.
+
+### Mystery Class (1:00 - 3:00)
+
+Classroom A.
+
+### Project Work Time (3:00 - 4:00)
+
+Classroom A.

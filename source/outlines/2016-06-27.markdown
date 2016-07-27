@@ -1,0 +1,133 @@
+---
+title: 20160627
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**encephalon** - noun - the brain
+
+NAME TAGS ALL WEEK.
+
+
+## 1602
+
+### Module 4 KickOff (9:00 - 10:00)
+
+Gather up in classroom B. We will go over what it means to be in Module 4, balancing job hunting with learning, the points system, and more.
+
+- [The Module 4 Mothership](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments)
+
+### Ideabox 2.0 Kickoff (10:00 - 11:00)
+
+Meeka kicks off your very first project.
+
+- [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/ideabox2.0)
+
+### Debugging JavaScript (11:00 - 12:00)
+
+And then we kick off our very first lesson!
+
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
+### Instructor Pairing and Project Work Time (1:00 - 4:00)
+
+[Sign up for pairing slots if you want 'em](https://public.etherpad-mozilla.org/p/instructor-pairing)
+
+### Homework
+
+[ES6 Assignment](https://gist.github.com/rrgayhart/67ed81f58a9b9295136c619a5186e71b) (5 points)
+
+## 1603
+
+### Module 3 KickOff (9:00 - 10:30)
+
+Classroom C.
+
+### The Pivot Kickoff (10:30 - 12:00)
+
+The project everyone loves to hate.
+
+Here are your teams for the Pivot:
+
+* Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+* Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+* Brian Sayler & Christopher Soden & Erin Greenhalgh
+* Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+* Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+
+
+### Project Work Time (1:00 - 4:00)
+
+Time to do the works.
+
+
+## 1605
+
+### Module 2 Intro and Goal Setting (9:00 - 10:30)
+
+Big Workspace. Let's talk about all the things module 2, set our goals and talk about what's to come over the next 6 weeks.
+
+### Intro to Sinatara / Task Manager (10:30 - 12:00)
+
+Big Workspace.
+
+### Introduction to Bootstrap (1:00 - 4:00)
+
+Pretty Pretty websites. Let's explore Bootstrap with [this lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown). Big Workspace.
+
+
+## 1606 - Back End
+
+### Staff Introductions (8:30 - 9:00)
+
+Meet in Classroom A. If you don't know where Classroom A is, make a new friend
+and ask them!
+
+### Tour and Getting Started (9:00 - 9:30)
+
+Mike will take you on a grand tour of the surrounding area.
+
+### Success at Turing (9:30 - 11:30)
+
+Horace will talk to you about what it takes to be successful at Turing.
+
+### Introducing Portfolios and Personal Goal Setting (11:30 - 12:00)
+
+Beth will talk to you next about Portfolios.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You got to know all about us, now it's time for us to know about you. Stay in
+Classroom A, lunch is on us.
+
+### Echo: Ruby in 90 Minutes (1:00 - 3:00)
+
+Join Mike at the Staff conference table.
+
+### Foxtrot: Strings and Integers (1:00 - 3:00)
+
+Join Beth in Classroom A.
+
+### All: Drills Kickoff (3:00 - 3:30)
+
+Kicking off those Drills in Classroom A.
+
+[Lesson Plan](https://github.com/turingschool/curriculum/blob/master/source/projects/drills.markdown)
+
+### Echo: Robodoku Kickoff (3:30 - 4:00)
+
+Meet with Horace at the Staff table.
+
+### Foxtrot: Credit Check Kick Off / Drills Office Hours (3:30 - 4:00)
+
+Classroom A with Mike and Beth.
+
+### Echo Homework
+
+[SuperFizz](https://github.com/turingschool/challenges/blob/master/super_fizz.markdown)

@@ -1,0 +1,183 @@
+---
+title: 20160628
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**Endsville** - _adjective_ - most wonderful or exciting.
+
+NAME TAGS ALL WEEK
+
+## 1602
+
+### Introduction to Unit Testing JavaScript (9:00 - 10:00)
+
+Join Meeka in Classroom B.
+
+[Slide Deck](https://speakerdeck.com/rrgayhart/turing-testing-js-in-rails)
+
+### Array Prototype Methods (10:00 - 12:00)
+
+Stay in Classroom B.
+
+- [Clone down this repository][mdn]. You'll be using it all module.
+- We'll be working through [this lesson plan][apm].
+- You'll be filling out these [checks for understanding][cfu].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/rrgayhart/7b9c8bc4fe78a51196f25f966d055af3
+
+You'll be working in the following pairs:
+
+* Jeneve Parrish & Claudia Kiesenhofer
+* Alireza Andersen & Jared Roth
+* Patrick Hardy & Mark Miranda
+* Marina Corona & Kris Foss
+* Kami Boers & Jonathan Liss
+* Jonathan Bernesser & Joshua Washke
+* Thomas Pickett & Ashwin Rao
+* Sal Espinosa & Chad Ellison
+* Andrew Thompson & Matt Pindell
+* Ling Tran & Gurusundesh Khalsa & Alex Navarrete
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Come with your project and your questions!
+
+#### With Jhun
+
+* 1:15: Matt Pindell
+* 1:35: Thomas Pickett
+* 1:55: Joshua Washke
+* 2:15: Chad Ellison
+* 2:45: Andrew Thompson
+* 3:15: Patrick Hardy
+* 3:35: Ling Tran
+
+#### With Brenna
+
+* 1:15: Alireza Andersen
+* 1:35: Jonathan Bernesser
+* 1:55: Claudia Kiesenhofer
+* 2:15: Sal Espinosa
+* 2:45: Kris Foss
+* 3:15: Alex Navarrete
+* 3:35: Mark Miranda
+
+#### With Meeka
+
+* 1:55: Ashwin Rao
+* 1:35: Marina Corona
+* 1:55: Jared Roth
+* 2:15: Jonathan Liss
+* 2:45: Jeneve Parrish
+* 3:15: Gurusundesh Khalsa
+
+### Homework
+
+[Implementing Testing - Resources and Assignment](https://gist.github.com/rrgayhart/a15d8017cad3ce4ab58bc4f50afd1c86) (15 points)
+
+## 1603
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Classroom C.
+
+### Understanding Multi-Tenancy (10:00 - 12:00)
+
+Classroom C.
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Check-ins will be 30-45 minutes. Keep an eye on slack to find out when you're team is up.
+
+[Moar Info](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md#1st-check-in)
+
+#### With Josh
+
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+
+#### With Nate
+
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+
+
+## 1605
+
+### HTML/CSS Partner Review (9:00 - 9:30)
+
+Come to the big workspace for a review your HTML and CSS skills with a partner. [Here](https://gist.github.com/Carmer/6e6789c77d816cbd57a5390ead4b114b) is a prompt to help with your review.
+
+* Michael Lane Winham & Yoseph Anderson
+* Jason Hanna & Matthew Packer
+* Nicole Marino & Tommasina Miller
+* Trent Whitinger & Zachary Forbing
+* Matthew Campbell & Roberta Doyle
+* Sonia Gupta & Caleb Cowen
+* David Tinianow & Linda McCartney
+* Kris Sparks & Christopher Concannon
+* Garrett Smestad & Angela Lindow
+* Patrick Wentz & Ryan Flach
+
+### HTML/CSS Review (9:30 - 10:00)
+
+Stay in the Big Workspace.
+
+### Ruby Pairing (10:00 - 11:00)
+
+Pairing on some Rubies.
+
+### Templating with ERB (11:00 - 12:00)
+
+Casey will join you for some templating action.
+
+### CRUD Workshop in Sinatra (1:00 - 4:00)
+
+Come to Classroom C. We'll use [this lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown) is the lesson plan.
+
+
+## 1606 - Back End
+
+### Mentoring, Posses and Q and A (9:00 - 10:00)
+
+Classroom A with Mike.
+
+### Team Building (10:00 - 11:00)
+
+Classroom A.
+
+### Headshots (12:00 - 1:00)
+
+[Schedule](http://docs.google.com/spreadsheets/d/1XUoMJin7Ht0XfpKz0P1SSTEoTKbGvFRAIFfNqX-o91c/edit#gid=0r)
+
+### Echo: Superfizz Recap (1:00 - 1:30)
+
+Staff table with Mike.
+
+### Foxtrot: Strings and Integers Recap (1:00 - 1:30)
+
+Staff Table with Beth.
+
+### Echo: Strings and Integers Riddles (1:30 - 3:00)
+
+Classroom A with Mike.
+
+### Foxtrot: Flow Control (1:30 - 3:00)
+
+Staff Table with Beth.
+
+### All: Student Activities Mixer (3:00 - 4:00)
+
+Classroom A.
+
+### Homework
+
+Watch the videos on .each and the exercises.
+[Link](https://vimeo.com/160173522)

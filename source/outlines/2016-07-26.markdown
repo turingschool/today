@@ -1,0 +1,124 @@
+---
+title: 20160726
+layout: outline
+---
+
+## All
+
+### Announcements
+
+
+## 1602
+
+### Homework
+
+Thursday (7/28) from 2:30 to 4:00 Lia will kick off a job hunting workshop
+
+There is a pre-work assignment that you can submit for extra credit points before the workshop:
+
+[Job Profiling Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/job-hunting-assignment.markdown)
+
+Worth 10 extra credit points
+
+### Advanced Active Record (9:00 - 12:00)
+
+Classroom A.
+
+### Stand Ups (1:00 - 2:00)
+
+Classroom C
+
+### Thoughtbox Evals (2:00 - 4:00)
+
+#### With Jhun
+
+- 2:00: Jonathan Liss
+- 2:30: Kris Foss
+- 3:00: Ashwin Rao
+- 3:30: Joshua Washke
+
+#### With Meeka
+
+- 2:00: Andrew Thompson
+- 2:30: Jonathan Bernesser
+- 3:00: Patrick Hardy
+- 3:30: Kami Boers
+
+#### With Brenna
+
+- 2:00: Mark Miranda
+- 2:30: Thomas Pickett
+- 3:00: Claudia Kiesenhofer
+- 3:30: Chad Ellison
+
+
+## 1603
+
+### Working with AJAX (9:00 - 12:00)
+
+Join Nate in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_ajax.md)
+
+### Project Check ins and Work Time (1:00 - 4:00)
+
+#### With Josh (1:00 - 3:00)
+
+* Karina Gonzalez
+* Brian Sayler
+* Parker Phillips
+* Robert Jaeger
+* Charles Kaminer
+
+#### With Sally MacNicholas (Remote)
+
+- @sally on the Slacks
+- smacnicholas@gmail.com on Screenhero
+
+* 1:00 - Deborah Hamel
+* 1:45 - Colin Osborn
+* 2:30 - Christopher Soden
+* 3:15 - Kerry Sheldon
+* 4:00 - Erin Greenhalgh
+
+#### With Nate
+
+* Jennifer Soden
+* Ilana Corson
+* Lucy Fox
+* Nick Pisciotta
+* Ryan Batty
+* Marcella Wigg
+* Anna Weisbrodt
+
+
+## 1605
+
+### Rails Views Tips and Tricks (9:00 - 10:30)
+
+Classroom B
+
+### Git Workflow (10:30 - 11:30)
+
+Classroom B.
+
+### Little Shop Work Time (11:30 - 12:00)
+
+Anywhere
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Schedule TBA
+
+
+## 1606-B
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Join Jeff in the Big Workspace as you learn how to test the small things.
+
+### ROADSHOW (10:30 - 12:00)
+
+A Jeff and Mike Roadshow.
+
+Again, in the Big Workspace

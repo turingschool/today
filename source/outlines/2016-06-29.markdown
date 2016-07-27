@@ -1,0 +1,125 @@
+---
+title: 20160629
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**tohubohu** - _noun_ - chaos; disorder; confusion
+
+NAME TAGS ALL WEEK.
+
+## 1602
+
+### IdeaBox Peer Review (9:00 - 10:30)
+
+Meet up in Classroom C
+
+You'll be working in the following groups to do some IdeaBox code reviews.
+
+Plan to spend time discussing the following topics:
+
+- General code quality
+- API
+  - What happens to your app if a post request (like a create or edit) fails?
+- Testing
+- Sorting ideas and truncation - server or client side?
+- Event delegation
+  - What happens when you create a new idea, and without refreshing the page, click a button on that idea?
+- Debugging strategies
+  - What tools/tricks are you using? jshint, debugger statements all day erry day, etc?
+
+You'll be working in the following triads:
+
+* Matt Pindell & Jonathan Bernesser & Mark Miranda
+* Alireza Andersen & Marina Corona & Kami Boers
+* Andrew Thompson & Kris Foss & Thomas Pickett
+* Ling Tran & Jeneve Parrish & Joshua Washke
+* Jared Roth & Sal Espinosa & Ashwin Rao
+* Patrick Hardy & Jonathan Liss & Alex Navarrete
+* Gurusundesh Khalsa & Claudia Kiesenhofer & Chad Ellison
+
+### Functions and THIS in JavaScript (10:30 - 12:00)
+
+A Wild Yang Jhun appears!
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+## 1603
+
+### Multi-Tenancy Authorization (9:00 - 12:00)
+
+Join Josh in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/multitenancy_authorization.md)
+
+### Project Work Time (1:00 - 4:00)
+
+Work.
+
+
+## 1605
+
+### CRUD Homework Review (9:00 - 9:30)
+
+Join Andrew in classroom A to talk about the homework.
+
+### Model Testing in Sinatra (9:30 - 11:30)
+
+Casey joins you in classroom A.
+
+### Nokogiri (11:30 - 12:00)
+
+And Andrew again to talk about Nokogiri. [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_nokogiri.markdown).
+
+### How the Web Works (1:00 - 2:00)
+
+Classroom B. We'll work with [this gist](https://gist.github.com/Carmer/1ac51aa7418c6bd4b1d19e22fa0e03a8)
+
+### Feature Testing with Capybara (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1606 - Back End
+
+### Introducing Arrays (9:00 - 10:30)
+
+Join Jeff for arts and crafts in Classroom B.
+
+We'll use [this Arrays lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/arrays.markdown).
+
+You can sit with these folks for our group-work section:
+
+* Nate Anderson & Daniel Wooster & Gabrielle Procell
+* Dan Broadbent & Alisher Sadikov & Ben Pepper
+* Kinan Whyte & Brian Heim & David Seaver
+* Steven Chase Dunagan & Jasmin Hudacsek & Susi Irwin
+* Brendan Dilon & Ryan David Workman & Raphael Barbo
+* Peter Jean Joeris & Michael Hill & Jesse Spevack
+* David Davydov & Bryan Goss & Christopher Calaway
+
+### Exploring .each and Exercises (10:30 - 12:00)
+
+Mike tags in.
+
+Later on, you will work in these pairs:
+
+* Brian Heim & Raphael Barbo
+* Michael Hill & Jasmin Hudacsek
+* Christopher Calaway & Dan Broadbent
+* David Davydov & Ben Pepper
+* Susi Irwin & Alisher Sadikov
+* David Seaver & Jesse Spevack
+* Ryan David Workman & Nate Anderson
+* Gabrielle Procell & Steven Chase Dunagan
+* Brendan Dilon & Kinan Whyte
+* Peter Jean Joeris & Bryan Goss
+
+### Drills Work Time (1:00 - 4:00)
+
+Work away at your drills, Mike and Beth will be available for your questions.

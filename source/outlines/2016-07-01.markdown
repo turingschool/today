@@ -1,0 +1,133 @@
+---
+title: 20160701
+layout: outline
+---
+
+## Weekly Surveys
+
+- [1602](http://goo.gl/forms/oEpaFoqHvS7hdIZ42)
+- [1603](http://goo.gl/forms/kEQwv8qYxtce04X42)
+- [1605](https://docs.google.com/forms/d/1o99o-HdhuniEzoDCK3V4Xhe3XQ8Bqy9ar2eiwn234fM/viewform)
+- [1606-B](http://goo.gl/forms/lX1L689TxMXtP5nH3)
+
+## All
+
+### Guest Speaker at the Champus (9:00 - 10:00)
+
+We will be meeting at The Commons On Champa.
+
+1245 Champa St
+Denver, CO 80204
+Third Floor
+
+#### Mike Pack:
+
+- [LinkedIn](https://www.linkedin.com/in/mikepackdev)
+- [Twitter](https://twitter.com/mikepack_)
+- [Website](http://www.mikepackdev.com/)
+
+**Mike will be speaking about "Client Project Workflow”**
+
+From sales to delivery to advisory, there are lot of moving parts involved in shipping the right thing and being a great consultant. This talk will cover them all, with a focus on how juniors fit into the picture.
+
+**Who is Mike Pack?**
+
+Mike is the Director of Mode Set where he is solving business problems with Ruby, JavaScript, and more. He has experience taking products to market, scaling platforms and teams, and executing long term visions.
+
+It's been said that "when it comes to engineering, he [Mike] is a craftsman’s craftsman. He writes beautiful, well designed code that is easy to understand and maintain. His strong grasp of computer science theory and exceptional communication skills, combined with his humble demeanor, make working with him an enjoyable experience."
+
+**What is Mode Set:**
+
+A software consultancy specializing in web and mobile application development. Created by four developers with a passion for quality and creativity. They are experts at operating in fast-paced, rapidly-changing environments and rapidly delivering working software, with a nimble process that encourages transparency and short feedback cycles.
+
+### Instructional Time (10:00 - 11:30)
+
+#### 1602
+
+Grab a seat in the **Big Workspace** or anywhere else you like to work
+
+One of the best ways to learn about code is to see how other developers think about writing code.
+
+You'll be working through a walkthrough Steve Kinney put together for his first pass at an Ideabox project. Don't try to print it out, it's about the quarter of the length of a book.
+
+- [Idea Box](https://github.com/rrgayhart/steve-idea-box)
+
+#### 1603
+
+Classroom C
+
+Re-DTR with your pivot team
+
+With the remaining time, we'll be doing a personal project group brainstorm. Bring some ideas for the personal project, whether you'd like to do that idea or not.
+
+#### 1605
+
+Let's meet in your safety-zone aka Classroom A.
+
+#### 1606-B
+
+We'll be split into two groups this morning.
+
+##### Echo
+
+The Echo group will meet in Classroom B.
+
+First, from 10:00-11:00, is a Robodoku Roundtable with Mike. Let's see what you've built!
+Three students will have the opportunity to demonstrate their project and we'll
+look to highlight differences in approach, explore what was hard/interesting, and
+see if we're getting the same answers for different puzzles.
+
+Then, from 11:00-11:30, we'll check out your next project: [CompleteMe](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown).
+You'll work on it solo and have it ready for evaluation by instructors on Friday, 7/8.
+
+##### Foxtrot
+
+The Foxtrot group will meet at the Staff Table.
+
+First, from 10:00-11:00, is a Credit Check Road Show with Beth and Jeff. You've
+worked through the problem yourself, now let's work through it together. Pay
+particular attention to the *process* Jeff and Beth use rather than the details
+of the code.
+
+Then, from 11:00-11:30, we'll intro your next project: [Flashcards](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown).
+You'll work on it solo and have it ready for evaluation by instructors on Friday, 7/8.
+
+### State of Turing (11:30 - 12:00)
+
+Jeff reads some numbers from a document in the big workspace. Bring a chair.
+
+### Lunch Roulette (12:00 - 1:15)
+
+[Lunch Roulette Spreadsheet](https://docs.google.com/spreadsheets/d/1-NUc9JB2jkAAgGR5UyuSC_L_TPRHuCejPLdCWLyVOYw/edit#gid=0)
+
+### Gear Up (1:15 - 2:15)
+[Outline](https://github.com/turingschool/gear-up/blob/master/strengths.markdown)
+
+### Student Led Sessions (2:15 - 3:15)
+
+* Blog Writing - Allison - 1 Week - *Table in Instructor Area*
+* Mod 1 & 2 Support - Hopper Posse - Recurring - *Classroom C*
+* Rust (Low Level Languages) - Matt Pindell - Recurring - *Big Workspace Couches*
+* Interview Prep with Interview Cake - Jonathan Bernesser - Recurring - *Big Workspace Classroom*
+* ~~All Your References Are Belong to Us (C++) - Check out the Rust session.*~~ - *CANCELLED*
+* ~~The Principles of Design Applied to Code - Jeneve Parrish - 1 week - *Horace's Lair*~~  - *CANCELLED*
+* Civic Tech Guest Speaker Presented by Pahlka Posse (remote) - Dan Melton (CTO of Neighborly; former CTO of Code for America) - 1 Week - *Classroom A*
+* Building Video Games with Unity - Miyamoto Posse (Ryan Batty) - Recurring - *Classroom A Couches*
+
+### Group Retros (3:15 - 4:00)
+
+#### 1602
+
+Classroom B
+
+#### 1603
+
+Uncubed - Meet upstairs in the lobby, and we'll walk across the street.
+
+#### 1605
+
+Classroom A
+
+#### 1606-B
+
+Classroom C

@@ -1,0 +1,146 @@
+---
+title: 20160713
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**pastiche** - _noun_ - a work of art that imitates the style of some previous work
+
+
+### Lunch Roulette Groups
+
+First name in a group is in charge of that group.
+
+* *Kerry Sheldon*, Jonathan Liss, Ryan Flach, Jean Joeris, Beth
+* *Lucy Fox*, Joshua Washke, Sonia Gupta, Raphael Barbo
+* *Marcella Wigg*, Kami Boers, Trent Whitinger, Ryan David Workman, Casey
+* *Nick Pisciotta*, Kris Foss, Tommasina Miller, Chase Dunagan
+* *Parker Phillips*, Ling Tran, Yoseph Anderson, Susi Irwin, Josh
+* *Robert Jaeger*, Marina Corona, Zachary Forbing, Adam Bernard, Meeka
+* *Ryan Batty*, Mark Miranda, Alisher Sadikov, Andy Young, Allison
+* *Matt Pindell*, Angela Lindow, Ben Pepper, Benjamin Godfrey, Joanne
+* *Patrick Hardy*, Caleb Cowen, Brendan Dillon, Blake Worsley, Erin
+* *Sal Espinosa*, Chris Concannon, Brian Heim, Brett Hevia, Steve
+* *Thom Pickett*, David Tinianow, Bryan Goss, Casey Cross, Louisa
+* *Anna Weisbrodt*, Alex Navarrete, Garrett Smestad, Chris Calaway, Casey Metz, Jhun
+* *Brian Sayler*, Alireza Andersen, Jason Hanna, Dan Broadbent, David Kerr, Brenna
+* *Charles Kaminer*, Anrdrew Thompson, Kris Sparks, David Davydov, Jeff Duke
+* *Christopher Soden*, Ashwin Rao, Lin McCartney, Vido Seaver, Kirsten Swanson
+* *Colin Osborn*, Chad Ellison, Matthew Campbell, Gabi Procell, Kyle Misencik
+* *Deborah Hamel*, Claudia Kiesenhofer, Matt Packer, Jasmin Hudacsek, Madison Kerndt
+* *Erin Greenhalgh*, Gurusundesh Khalsa, Lane Winham, Jesse Spevack, MaryJane Valade
+* *Ilana Corson*, Jared Roth, Patrick Wentz, Kinan Whyte, Mike Sausa
+* *Jennifer Soden*, Jeneve Parrish, Nicole Marino, Michael Hill, Paul Nguyen
+* *Karina Gonzalez*, Jonathan Bernesser, Roberta Doyle, Nate Anderson, Peter Springer
+
+## 1602
+
+### WebSockets Workshop (9:00 - 9:30)
+
+Work through this [Websockets Workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/websockets_workshop.markdown)
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/25ece63d804fdb966b929da6deedeee5)
+
+Big Workspace
+
+### WebSockets Workshop Work Time & Project Work Time (9:30 - 4:00)
+
+After 9:30, most of us on Spirit Team are heading over to Commons on Champa.
+
+The Front End Program would like to cordially invite you to work from Champa, enjoy the windows, steal their coffee, and come to any of the Spirit Team with any and all questions. You can also pair with the front end students. It’ll be a work party!
+
+## 1603
+
+### Testing an External API (9:00 - 12:00)
+
+Prior to class, sign up for a [Sunlight API key](https://sunlightfoundation.com/api/accounts/register/).
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_against_third_party_apis.md)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1605
+
+### Route Helpers (9:00 - 10:00)
+
+Classroom C.
+
+### Forms in Rails (10:00 - 11:00)
+
+Classroom C.
+
+### Building Tool Chest (11:00 - 12:00)
+
+Classroom C.
+
+### Blogger Kickoff & One on Ones (1:00 - 4:00)
+
+Classroom C.
+
+#### With Andrew
+
+1:l5 - Nicole
+
+1:30 - David
+
+1:45 - Jason
+
+2:00 - Lin
+
+2:15 - Pat
+
+2:30 - Caleb
+
+2:45 - Ryan
+
+3:00 - Tommasina
+
+3:15 - Yoseph
+
+3:30 - Zack
+
+#### With Casey
+
+1:45 - Angela
+
+1:55 - Chris
+
+2:05 - Garrett
+
+2:15 - Kris
+
+2:25 - Matt P.
+
+2:35 - Lane
+
+2:45 - Matt C.
+
+2:55 - Roberta
+
+3:05 - Sonia
+
+3:15 - Trent
+
+
+## 1606-B
+
+### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+Classroom A.
+
+Start the day in beautiful B with Jeff to talk about [Stacks, Methods, and Program Flow](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown).
+
+
+### All: Work Time (1:00 - 4:00)
+
+Then this afternoon it's the final push!
+
+Remember, *half a product* is always better than a *half-assed product*. Cut scope not quality. Practice your best practices. If you don't have all the features, that's a hit on one section of the rubric. If you have shitty code that's a hit on all the sections of the rubric.

@@ -1,0 +1,145 @@
+---
+title: 20160718
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**quixotic** - _adjective_ - extravagantly chivalrous or romantic; visionary, impractical, or impracticable.
+
+
+## 1602
+
+### Refactor Tractor (9:00 - 12:00)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
+[Submit Assignment](https://gist.github.com/rrgayhart/49dcbed1f65d51e5a92e4ea1afb58e2e)
+
+#### Refactoring Buddies
+
+* Kris Foss & Andrew Thompson & Jeneve Parrish
+* Patrick Hardy & Jonathan Bernesser
+* Gurusundesh Khalsa & Thomas Pickett
+* Chad Ellison & Ashwin Rao
+* Alex Navarrete & Alireza Andersen
+* Ling Tran & Jonathan Liss
+* Sal Espinosa & Matt Pindell
+* Mark Miranda & Kami Boers
+* Claudia Kiesenhofer & Joshua Washke
+* Marina Corona & Jared Roth
+
+### Launch and Standup: Whiskey Tango (1:00 - 2:00)
+
+Classroom C.
+
+[Agenda](https://gist.github.com/rrgayhart/c26f9a4aacfeb31b508b94d2148d65a8)
+
+### Launch and Standup: LookingFor (2:00 - 4:00)
+
+Classroom C.
+
+[Agenda](https://gist.github.com/rrgayhart/8f97481cc71ef1237e4a91616ed003f6)
+
+### Launch and Standup: MentorSHIP (3:00 - 4:00)
+
+Classroom C.
+
+[Agenda](https://gist.github.com/rrgayhart/4ae878397d2e32515b47e52da436df11)
+
+## 1603
+
+### Building and Securing an API (9:00 - 12:00)
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/building_an_api.markdown)
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Big Workspace.
+
+#### Groups
+
+* Kerry Sheldon & Ilana Corson
+* Lucy Fox & Nick Pisciotta
+* Jennifer Soden & Marcella Wigg
+* Anna Weisbrodt & Ryan Batty
+* Erin Greenhalgh & Karina Gonzalez
+* Charles Kaminer & Deborah Hamel
+* Robert Jaeger & Christopher Soden
+* Parker Phillips & Colin Osborn
+* Brian Sayler
+
+### Project Work Time (2:30 - 4:00)
+
+Get ye to work.
+
+
+## 1605
+
+### MixMaster Peer Checks (9:00 - 10:00)
+
+[Here are the review guidelines](https://gist.github.com/Carmer/5102523a97e5bb177fa6b2fcd17af2ae) - Big Workspace
+
+### MixMaster Q&A (10:00 - 10:30)
+
+Big Workspace.
+
+### Revisiting the ActiveRecord Obstacle Course (10:30 - 12:00)
+
+Big Workspace.
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Classroom B.
+
+### CRUD Sprint( 2:30 - 4:00 )
+
+Classroom B.
+
+#### Mid Module Eval with Andrew:
+
+* ( 2:30 - 3:00 ) Ryan
+* ( 3:00 - 3:30 ) Pat
+
+
+
+## 1606-B
+
+### Surprise Class (9:00 - 10:00)
+
+Classroom A.
+
+### Mid Module Diagnostic and Project Work Time (10:00 - 4:00)
+
+### With Mike
+
+* 10:00 - Chase Dunagan
+* 10:30 - Alisher Sadikov
+* 11:00 - Vido Seaver
+* 11:30 - Gabi Procell
+* 1:00 - Jasmin Hudacsek
+* 1:30 - Kinan Whyte
+* 2:00 - Michael Hill
+* 2:30 - Susi Irwin
+* 3:00 - Raphael Barbo
+
+### With Beth
+
+* 10:00 - Bryan Goss
+* 10:30 - Christopher Calaway
+* 11:00 - Brendan Dillon
+* 11:30 - Brian Heim
+* 12:00 - Dan Broadbent
+* 12:30 - David Davydov
+
+### With Rachel
+* 1:00 - Jean Joeris
+* 1:30 - Ryan David Workman
+* 2:00 - Ben Pepper
+* 2:30 - Jesse Spevack

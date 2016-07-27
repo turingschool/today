@@ -1,0 +1,79 @@
+---
+title: 20160617
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603](https://docs.google.com/forms/d/1ofCcIxnuEEaQWrn8o9JTZ_Se4ezEDmXnPsiLiFk4mUA/viewform) [1602](https://docs.google.com/forms/d/1sDxrFiR2XubcVshKtU2lHPTlVn-4gj9x-3J6HA-sv0M/viewform)
+* [1605](http://goo.gl/forms/2B6i5OdeYQfrry9m2)
+
+### Code Retreat (10:00 - 12:00)
+
+Gather in the Big Workspace with Horace on his Last Day!
+
+We'll partner up in cross-cohort pairs for a few sessions of implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+If you've never heard of the Game of Life, it's a "cellular automaton" that simulates hypothetical populations of cells by imposing a few simple rules.
+
+The Game of Life is a popular programming exercise because it demonstrates some interesting emergent behaviors while still being straightforward to implement.
+
+Here's a neat example of what a sophisticated representation can look like:
+
+![Game of Life](https://upload.wikimedia.org/wikipedia/commons/d/d0/Color_coded_racetrack_large_channel.gif)
+
+### Retro(1:00 - 2:15)
+
+The first 15 minutes will be a rundown of the intermission work with the Anchor from next module.
+
+* 1602 - Classroom C
+* 1603 - Classroom B
+* 1605 - Classroom A
+
+## 1602
+
+### Portfolio Reviews (9:00 - 12:00)
+
+* Claudia
+* Admir
+* Thom
+* Kris
+* Marina
+* Matt
+* Chris
+* Sal
+* Matt Patrick
+* Jared
+
+### RETRO (1:00 - 2:15)
+
+Classroom Bravo
+
+### Portfolio Reviews (2:15 on)
+
+* Ali
+* Chad
+* Ling
+* Jeneve
+
+### Cross Cohort Pairing - 1605 & 1603 (2:15 - 4:00)
+
+YOURE WORKING ON WEBGUESSER YEAAAHHHHH
+
+* Anna Weisbrodt & Angela Lindow & Tommasina Miller
+* Brian Sayler & Caleb Cowen & Trent Whitinger
+* Charles Kaminer & Christopher Concannon & Yoseph Anderson
+* Colin Osborn & David Tinianow & Zachary Forbing
+* Erin Greenhalgh & Garrett Smestead
+* Ilana Corson & Sonia Gupta
+* Jennifer Soden & Jason Hanna
+* Karina Gonzalez & Kris Sparks
+* Kerry Sheldon & Lin McCartney
+* Lucy Fox & Matt Campbell
+* Marcella Wigg & Lane Winham
+* Nick Pisciotta & Patrick Wentz
+* Parker Philips & Nicole Marino
+* Robert Jaeger & Roberta Doyle
+* Ryan Batty & Ryan Flach

@@ -1,0 +1,81 @@
+---
+title: 20160728
+layout: outline
+---
+
+## All
+
+### Announcements
+
+## 1602
+
+### CSS Fun Times (9:00 - 10:30)
+
+Classroom B.
+
+### Regex Fun Times (9:00 - 10:30)
+
+Classroom B.
+
+### Stand Ups (1:00 - 2:00)
+
+Classroom B.
+
+### Project Work Time (2:00 - 2:30)
+
+### Job Hunt Strategy and Workshop (2:30 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Caching Strategies in Rails (9:00 - 12:00)
+
+Classroom A.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Pushing Logic Down the Stack (9:00 - 11:00)
+
+Classroom C.
+
+### Callbacks and Scopes (11:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### Project Check Ins (9:00 - 12:00)
+
+#### With Mike
+* 9:00 - Jasmin & Jesse
+* 9:45 - Calaway & Kinan
+* 10:30 - Dan & David
+* 11:45 - Chase & Vido
+
+#### With Beth
+* 9:00 -  Mike & Alisher
+* 9:45 - Brendan & Brian
+* 10:30 - Ryan and Gabi
+
+#### With Jeff
+* 9:00 - Ben & Bryan
+* 9:45 - Nate & Jean
+* 10:30 - Raphael & Susi
+
+### Project Work Time (1:00 - 4:00)
+
+Work on your projeeeeects.
+
+

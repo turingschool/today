@@ -1,0 +1,114 @@
+---
+title: 20160705
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**Brobdingnagian** - _adjective_ - of huge size; gigantic; tremendous
+
+
+## 1602
+
+### Object Oriented JavaScript and HTML5 Canvas (9:00 - 12:00)
+
+Classroom A.
+
+### Game Time Kickoff and Iteration Planning (1:00 - 2:30)
+
+Classroom A.
+
+- [Project Specification](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+- [Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+- [Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/gametime)
+
+#### Groups
+
+* Gurusundesh Khalsa & Alex Navarrete
+* Joshua Washke & Jared Roth & Andrew Thompson
+* Ling Tran & Sal Espinosa & Kami Boers
+* Kris Foss & Claudia Kiesenhofer & Alireza Andersen
+* Ashwin Rao & Thomas Pickett
+* Patrick Hardy & Chad Ellison
+* Jonathan Liss & Jonathan Bernesser
+* Mark Miranda & Matt Pindell
+* Marina Corona & Jeneve Parrish
+
+### Project Work Time (2:30 - 4:00)
+
+Work!
+
+### Homework
+
+- [The Concept of Require](https://gist.github.com/rrgayhart/ecfef18b681d0dca6ec2929c71e7c505) (5 points)
+
+
+## 1603
+
+### jQuery DOM Traversal, Manipulation and Events (9:00 - 12:00)
+
+Big Workspace.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Josh
+
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+
+#### With Nate
+
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+
+## 1605
+
+### Project Review (9:00 - 9:30)
+
+Classroom C.
+
+### Introduction to ActiveRecord with Sinatra (9:30 - 12:00)
+
+Classroom C. [Here is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown)
+
+### Introduction to Project Management (1:00 - 3:00)
+
+Classroom C. [Here is our lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_project_management.markdown)
+
+### Rush Hour Kick Off (3:00 - 4:00)
+
+Guess where? It's classroom C.
+
+* David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
+* Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* Nicole Marino & Kris Sparks & Trent Whitinger
+* Linda McCartney & Michael Lane Winham & Tommasina Miller
+* Patrick Wentz & Garrett Smestad & Zachary Forbing
+
+## 1606-Back
+
+### Week 1 Diagnostic (9:00 - 10:00)
+
+Classroom B.
+
+### Portfolios & Module Requirements (10:00 - 10:30)
+
+Continue in Classroom B with Beth & Jeff to go over [Portfolios](https://github.com/turingschool/portfolios).
+
+### All: Object-Oriented Programming (10:30 - 12:00)
+
+After portfolios we'll talk about [storytelling with objects](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown) still in B.
+
+### All: How Testing Works (1:00 - 2:00)
+
+Join Jeff in Classroom B where we'll [work on the big-picture understandings of TDD](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_testing_works.markdown).
+
+### All: Intro to TDD Tutorial (2:00 - 4:00)
+
+TDD is about practice, practice, practice. This afternoon work through [this Unicorn-building
+tutorial](http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html) to go through
+the fundamentals. Beth and Mike will be available for questions.

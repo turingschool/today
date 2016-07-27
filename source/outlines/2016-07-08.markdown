@@ -1,0 +1,187 @@
+---
+title: 20160708
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**multifarious** - _adjective_ - having great diversity or variety; of various
+kinds; diversified
+
+
+## 1602
+
+### Advanced Functions with Jhun (10:00 - 12:00)
+
+Classroom C.
+
+Join Jhun and learn all the things!
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+#### With Brenna
+
+- 1:15: Kris Foss & Claudia Kiesenhofer & Alireza Andersen
+- 1:45: Ling Tran & Sal Espinosa & Kami Boers
+- 2:15: Mark Miranda & Matt Pindell
+
+#### With Meeka
+
+- 1:15: Marina Corona & Jeneve Parrish
+- 1:45: Patrick Hardy & Chad Ellison
+- 2:15: Gurusundesh Khalsa & Alex Navarrete
+
+#### With Jhun
+
+- 1:15: Joshua Washke & Jared Roth & Andrew Thompson
+- 1:45: Ashwin Rao & Thomas Pickett
+- 2:15: Jonathan Liss & Jonathan Bernesser
+
+### Survey!!
+
+[Survey Link](http://goo.gl/forms/ApHCIplWM3V0Knd03)
+
+## 1603
+
+**EVERYONE:** Read through the [guidelines for providing feedback](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md). Use [this form](https://docs.google.com/forms/d/17Xco7tVNZTSXfSb-LlT5DC_S_8SQfm0fdElVioZkcS8/viewform) to provide feedback for each group member. **We need 100% participation for this**.
+
+🇺🇸🇺🇸🇺🇸[SURVEY LINK](http://goo.gl/forms/E3UISNXGaxiccPCI2)🇺🇸🇺🇸🇺🇸
+
+### Project Work Time (9:00 - 12:00)
+
+Pivot to victory!
+
+### Pivot Evaluations (1:00 - 4:00)
+
+#### With Josh
+
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+
+#### With Nate
+
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+
+### Homework
+
+This homework will be due at 8:30 on the morning of Friday the 15th. There will be a quick review of the homework during instructional time.
+
+Work through the [Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) tutorial.
+
+*Submitting your work:* Keep a gist with the queries you write.
+
+Answer the following questions:
+
+* What is an INNER JOIN?
+* What is a LEFT OUTER JOIN?
+* What is a RIGHT OUTER JOIN?`
+
+When you're finished, open a PR to the following [Ruby Submission file.](https://github.com/turingschool/ruby-submissions/blob/master/1603/intermediate_sql.md) with your link.
+
+*Why is this homework important?* I'm glad you asked. As you use ActiveRecord it is easy to forget what is happening at the SQL level. The level of complexity is going to continue to increase over the next couple weeks and having a base to build on is important. We'll have a discussion tomorrow to answer questions you may have. The gist will serve as a nice reference as you work through Rails Engine. If you're looking for more information, check out [this blog post](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+
+## 1605
+
+### View Templating in Sinatra (10:00 - 11:30)
+
+Classroom A
+
+### Rush Hour Work Time (11:30 - 12:00)
+
+Hour those rushes.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+#### With Andrew
+
+* 1:00: Patrick Wentz & Garrett Smestad & Zachary Forbing
+* 1:45: Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+* 2:30: Linda McCartney & Michael Lane Winham & Tommasina Miller
+
+
+#### With Casey
+
+* 1:00: David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
+* 1:45: Christopher Concannon & Yoseph Anderson & Matthew Campbell
+* 2:30: Nicole Marino & Kris Sparks & Trent Whitinger
+
+
+## 1606-B
+
+### Project Evaluations (9:00 - 12:00)
+
+**Your last commit was at or before 9AM.**
+
+When you're not in evaluations this morning, you:
+
+* First, complete your Week 2 Diagnostic that was in your Slack channel this morning
+* Then, for Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* Or, for Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+If you finish one exercise, try the other.
+
+#### With Jeff
+
+* 9:00 - Daniel Broadbent
+* 9:30 - Bryan Goss
+* 10:00 - Peter Jean Joeris
+* 10:30 - David Davydov
+* 11:00 - Michael Hill
+* 11:30 - Christopher Calaway
+
+#### With Mike
+
+* 9:00 - Brendan Dillon
+* 9:30 - Jesse Spevack
+* 10:00 - Raphael Barbo
+* 10:30 - Susi Irwin
+* 11:00 - Brian Heim
+* 11:30 - Jasmin Hudacsek
+
+#### With Beth
+
+* 9:00 - Nate Anderson
+* 9:30 - Ben Pepper
+* 10:00 - Chase Dunagan
+* 10:30 - Vido Seaver
+* 11:00 - Ryan Workman
+* 11:30 - Gabrielle Procell
+
+#### With Brenna
+
+* 10:30 - Kinan Whyte
+* 11:00 - Alisher Sadikov
+
+### Diagnostic Recap (1:00-1:30)
+
+Join Mike in Classroom A to go over the morning's diagnostic.
+
+### Revisiting File I/O (1:30 - 2:15)
+
+Then Jeff will be in Classroom A for a quick review of File I/O.
+
+### Project Kickoffs (2:15 - 3:00)
+
+We'll break up to have brief sessions to introduce each of the next projects.
+
+These are your pairs:
+
+* Brendan Dillon & Jesse Spevack
+* Peter Jean Joeris & Raphael Barbo
+* Bryan Goss & David Davydov
+* Daniel Broadbent & Ryan Workman
+* Michael Hill & Christopher Calaway
+* Kinan Whyte & Alisher Sadikov
+* Chase Dunagan & Brian Heim
+* Jasmin Hudacsek & Susi Irwin
+* Vido Seaver & Gabrielle Procell
+* Ben Pepper & Nate Anderson
+
+### Pairing and Collaboration with Allison & Lia (3:00 - 4:00)
+
+Then finish with Allison & Lia in Classroom A.

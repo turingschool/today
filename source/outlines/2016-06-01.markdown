@@ -1,0 +1,121 @@
+---
+title: 20160601
+layout: outline
+---
+
+## All
+
+**metanoia** - _noun_ - a profound, usually spiritual, transformation; conversion.
+
+
+## 1511
+
+### Launch and Stand Up: Tiskey Whango (9:00 - 10:00)
+
+Classroom C.
+
+### Launch and Standup for LookingFor (back and front) (10:00 - 12:00)
+
+Classroom C.
+
+### Boxtrot:Prime Extended StandUp and Planning (1:00 - 3:00)
+
+Classroom C.
+
+### Work Time (3:00 - 4:00)
+
+Any ol' where
+
+## 1602
+
+### Testing an Internal API (9:00 - 10:30)
+
+Classroom B.
+
+### Customizing JSON in your Rails API (10:30 - 12:00)
+
+Classroom B.
+
+### Project Check Ins and Work Time (1:00 - 4:00)
+
+#### With Nate
+  - 1:00: Drew Thompson
+  - 1:20: Ali Andersen
+  - 1:40: Jared Roth
+  - 2:00: Jon Bernesser
+  - 2:20: Marina Corona
+  - 2:40: Thom Pickett
+  - 3:00: Claudia Keisenhofer
+  - 3:20: Ling Tran
+
+#### With Josh
+  - 1:00: Matt Pindell
+  - 1:20: Josh Washke
+  - 1:40: Ashwin Rao
+  - 2:00: Kris Foss
+  - 2:20: Sal Espinosa
+  - 2:40: Sunny Khalsa
+  - 3:00: Hedy Woo
+  - 3:20: Mark Miranda
+
+#### With Brenna
+  - 1:00: Chad Ellison
+  - 1:20: Jeneve Parrish
+  - 1:40: Alex Navarrete
+  - 2:00: Kami Boers
+  - 2:20: Jon Liss
+  - 2:40: Admir Draganovic
+  - 3:00: Patrick Hardy
+
+## 1603
+
+### Authentication in Rails (9:00 - 12:00)
+
+Join Andrew in the Big Workspace to learn about authenticating a rails application. The 24 easy steps can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown)
+
+### Authentication Work Time & Mid Module Diagnostics (1:00 - 4:00)
+
+With Jeff:
+
+  * 1:00 - Brain Sayler
+  * 1:45 - Jennifer Soden
+  * 2:30 - Ilana Corson
+
+With Andrew:
+
+  * 1:00 - Robert Jaeger
+  * 1:45 - Charles Kaminer
+  * 2:30 - Colin Osborn
+
+With Jhun:
+
+  * 1:00 - Parker Phillips
+  * 1:45 - Nick Pisciotta
+  * 2:30 - Karina Gonzalez
+  * 3:15 - Marcella Wigg
+
+
+
+## 1605
+
+### Fundamental Refactoring Patterns Workshop (9:00 - 11:00)
+
+Join Rachel in Classroom A for a brief overview before breaking off into groups to work on implementing refactoring techniques.
+
+Group A: Start with [Station 1](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_1.markdown)
+
+Group B: Start with [Station 2](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_2.markdown)
+
+Group C: Start with [Station 3](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/refactoring_patterns_station_3.markdown)
+
+### Paired Refactoring (11:00 - 12:00)
+
+Classroom A.
+
+### Opt In Project Strategy / Q & A (1:00 - 1:30)
+
+Classroom A.
+
+### Project Work Time (1:30 - 4:00)
+
+Work Away.

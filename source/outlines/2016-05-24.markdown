@@ -1,0 +1,102 @@
+---
+title: 20160524
+layout: outline
+---
+
+## All
+
+**fungible** - _adjective_ - freely exchangeable for or replaceable by
+another of like nature or kind in the satisfaction of an obligation.
+
+
+## 1511
+
+### Front End CSS (9:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Brenna
+
+* 1:15 - 1:45: Heidi Hoopes & Brennan Holtzclaw & Nate Venn
+* 1:45 - 2:15: July Tran & Chelsea Johnson
+* 2:15 - 2:45: Kimiko Kano & Scott Firestone
+
+#### With Meeka & Louisa
+
+* 1:15 - 1:45: Julian Feliciano & Allan Blair
+* 1:45 - 2:15: Erinna Chen & Adrienne Domingus
+* 2:15 - 2:45: Brian Rippeto & David Whitaker
+* 2:45 - 3:15: Nick Weiland & Adam Hundley
+* 3:15 - 3:45: Nicholas Dorans & Taylor Moore
+
+## 1602
+
+### Consuming APIs (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Josh
+  - 1:00: Ling
+  - 1:10: Jared
+  - 1:20: Thom
+  - 1:30: Jon L
+  - 1:40: Jon B
+  - 1:50: Drew
+  - 2:00: Ali
+  - 2:10: Jeneve
+  - 2:20: Marina
+  - 2:30: Matt
+  - 2:40: Claudia
+  - 2:50: Admir
+
+#### With Nate
+  - 1:00: Mark
+  - 1:10: Kris
+  - 1:20: Josh
+  - 1:30: Sal
+  - 1:40: Ashwin
+  - 1:50: Kami
+  - 2:00: Chris
+  - 2:10: Pat
+  - 2:20: Alex
+  - 2:30: Chad
+  - 2:40: Sunny
+  - 2:50: Hedy
+
+## 1603
+
+### Migrations, Databases, and Models (9:00 - 10:30)
+
+Start with Jeff in the Big Workspace where we'll dive deeper into [migrations, databases, and models](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/models_databases_relationships.markdown).
+
+### Relationships in Rails (10:30 - 12:00)
+
+Still in the Big Workspace with Jeff to go over relationships in rails.
+
+### Rails Basics Work Time (1:00 - 4:00)
+
+You have the rest of the day to work on the [Rails Basics Challenge](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown)
+
+## 1605
+
+### All: Dynamics (9:00 - 10:00)
+
+Classroom A.
+
+### All: Intermediate Enumerables (10:00 - 12:00)
+
+Classroom A.
+
+Your homework will be to do the enums exercises for the enumerables covered today.
+
+### All: Babby's First Rakefile and Require Crash Course (1:00 - 2:30)
+
+Classroom A.
+
+### All: Project Work Time (2:30 - 4:00)
+
+We will be on hand for your questions.

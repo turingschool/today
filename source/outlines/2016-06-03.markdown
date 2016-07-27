@@ -1,0 +1,165 @@
+---
+title: 20160603
+layout: outline
+---
+## All
+
+**fard** - _verb_ - to apply cosmetics to the face
+
+### Guest Speaker - Jay Zeschin (9:00 - 10:00)
+
+The ever wonderful Jay Zeschin will be talking to us about the differences
+between working at a consultancy and a product company, and his background
+moving from a career consultant to a founder running an engineering team at a
+startup.
+
+Seasoned application developer and technical architect, with extensive
+experience in building and scaling web applications (especially in the
+marketing space) and a passion for Agile/XP practices. Jay is the Chief
+Architect and Co-Founder of Ello, Inc. and Director at ModeSet.
+
+* [LinkedIn](https://www.linkedin.com/in/jay-zeschin-4009055)
+* [Twitter](https://twitter.com/jayzes)
+* [Website](http://unstuck.zeschin.org/)
+
+## 1511
+
+### API Best Practices (10:00 - 11:00)
+
+Classroom B!
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/api_best_practices.markdown)
+
+### Project Work Time and Check Ins (11:30 - 12:00)
+
+11:30: July Tran
+11:45: Brian Rippeto
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+GO TILL WE'RE DONE!
+
+* Allan Blair
+* Erinna Chen
+* Nick Weiland
+* Julian Feliciano
+* Taylor Moore
+* Heidi Hoopes
+* Kimiko Kano
+* Adrienne Domingus
+* Nicholas Dorans
+* Brennan Holtzclaw
+* Scott Firestone
+* Chelsea Johnson
+* David Whitaker
+* Nate Venn
+
+## 1602
+
+### RalesEngine Evaluations (9:00 - 12:00)
+
+#### With Nate
+  - 9:00: Drew Thompson
+  - 9:20: Ali Andersen
+  - 9:40: Jared Roth
+  - 10:00: Jon Bernesser
+  - 10:20: Marina Corona
+  - 10:40: Thom Pickett
+  - 11:00: Claudia Keisenhofer
+  - 11:20: Ling Tran
+
+#### With Josh
+  - 9:00: Matt Pindell
+  - 9:20: Josh Washke
+  - 9:40: Ashwin Rao
+  - 10:00: Kris Foss
+  - 10:20: Sal Espinosa
+  - 10:40: Sunny Khalsa
+  - 11:00: Hedy Woo
+  - 11:20: Mark Miranda
+
+#### With Brenna
+  - 9:00: Chad Ellison
+  - 9:20: Jeneve Parrish
+  - 9:40: Alex Navarrete
+  - 10:00: Kami Boers
+  - 10:20: Jon Liss
+  - 10:40: Admir Draganovic
+  - 11:00: Patrick Hardy
+
+### Self Directed Projects Introduction (1:00 - 2:00)
+
+Classroom B.
+
+### Self Directed Projects Ideation and Prep (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1603
+
+### Git Workflow (10:00 - 11:00)
+
+Head over to classroom c with Andrew to learn about [Git Workflow](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/revisiting-git-workflows-module-2.markdown)!
+
+
+### Advanced Routing  with Casey(11:00 - 12:00)
+
+Still in the C. This time Casey will go over [Advanced Routing in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/routing_in_rails.markdown).
+
+### Fancy Relationships (1:00 - 2:00)
+
+Meet Jeff in the Classroom C to go over your fancy relationship homework!
+
+### Rails Mini Project Work time (2:00 - 4:00)
+
+Work away!
+
+## 1605
+
+### HTTP Evaluations (9:00 - 12:00)
+
+While you are not being evaluated, work on your homework for this weekend,
+[Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
+
+You project for the final 2 weeks will deal extensively with CSV files and
+data processing. EventManager will introduce and give you practice with these
+concepts.
+
+#### With Mike
+* 9:00 - Angela & Yoseph
+* 9:30 - Caleb & Tommasina
+* 10:00 - Trent & Lane
+* 10:30 - Sonia & Matt
+* 11:00 - Roberta & Ryan
+
+#### With Rachel
+* 9:00 - Jason & Patrick
+* 9:30 - Luigi & David
+* 10:00 - Garrett & Kris
+* 10:30 - Ben & Zach
+* 11:00 - Chris & Nicole
+
+### CODE THROWDOWN (1:00 - 4:00)
+
+Meet in Classroom A.
+
+First up, [Flatten](https://github.com/turingschool/challenges/blob/master/flatten.markdown)
+
+
+Next up, get some file reading practice in. [College Scorecard](https://github.com/turingschool/posse_challenges/tree/master/college_scorecard)
+
+Pairs:
+
+* Nate Anderson, Josh Cohen
+* Nicole Marino, Tommasina
+* Zack Forbing, Pat Wentz
+* David Tinianow, Angela Lindow
+* Yoseph Anderson, Chris Concannon
+* Ben Pepper, Kris Sparks
+* Caleb Cowen, Sonia Gupta
+* Ryan Flach, Matthew Campbell
+* Jason Hanna, Lane Winham
+* Roberta Doyle, Trent Whitinger
+* Luigi Aversano, Brandon Randall
+

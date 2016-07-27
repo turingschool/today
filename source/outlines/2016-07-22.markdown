@@ -1,0 +1,80 @@
+---
+title: 20160722
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1602](http://goo.gl/forms/P3kgIWCuYqc8F55X2)
+* [1603](https://docs.google.com/forms/d/e/1FAIpQLScwHzqR1WDj9gGgdEHnmS4Ig8j9pXgty9Sx6CCYbKamdEec3w/viewform)
+* [1605](https://docs.google.com/forms/d/e/1FAIpQLSfsrBdGbDim65IG22c689k_fz7OJjtHwHEJpnz5ebdB9Cs2sw/viewform)
+* [1606](http://goo.gl/forms/ypGW3PGceK189j6b2)
+
+### Lunch Roulette Groups
+
+* Angela Lindow, Susi Irwin, Lucy Fox
+* Caleb Cowen, Chase Dunagan, Marcella Wigg
+* Chris Concannon, Ryan David Workman, Nick Pisciotta
+* David Tinianow, Raphael Barbo, Parker Phillips
+* Garrett Smestead, Jean Joeris, Robert Jaeger
+* Jason Hanna, Nate Anderson, Ryan Batty
+* Kris Sparks, Michael Hill, Lin McCartney, Kinan Whyte
+* Matt Packer, Jasmin Hudacsek,  Matt Campbell, Jesse Spevack
+* Lane Winham, Gabrielle Procell, Anna Weisbrodt
+* Pat Wentz, Vido Seaver, Brian Sayler
+* Nicole Marino, David Davydov, Charles Kaminer
+* Roberta Doyle, Dan Broadbent, Chris Soden
+* Ryan Flach, Christopher Calaway, Colin Osborn
+* Sonia Gupta, Bryan Goss, Deb Hamel
+* Tommasina Miller, Brian Heim, Erin Greenhalgh
+* Trent Whitinger, Brendan Dillon, Ilana Corson
+* Yoseph Anderson, Ben Pepper, Jennifer Soden
+* Zach Forbing, Alisher Sadikov, Karina Gonzalez
+
+### Guest Speaker - Geoff Thomas (9:00 - 10:00)
+
+* [LinkedIn](https://www.linkedin.com/in/guiceworks)
+* [Twitter](https://twitter.com/guiceworks)
+* [Website](http://www.guiceworks.com/)
+
+Geoff will talk about the processes and tools he uses on client projects (both startup and established) while working with developers to ensure the best product possible. He will also touch on good design vs poor design, both UX and UI.
+
+
+### Academic Time (10:00 - 12:00)
+
+#### 1602
+
+Laurie Voss will kick off his workshop at ***The Commons*** at 10:30. Try to be there 5-10 minutes early.
+
+Bring your computers and your enthusiasm for npm.
+
+Lunch will be provided and we should wrap up by 1:30pm.
+
+* 1603 - Classroom B
+* 1605 - Classroom C
+* 1606 - Classroom A
+
+
+#### 1606 Back-End
+
+After Geoff's talk we'll meet in Classroom A.
+
+First we'll have a panel Q&A with alumni. Please think of some questions you'd like to ask!
+
+Then we'll follow up with a recap/revisiting of both Battleship and OkCuGit.
+>>>>>>> 14757e2331feef4d1dfb3c940635d62527077a26
+
+### Lightning Talks (1:15 - 2:15)
+
+Be in the Big Workspace for a collection of lightning talks.
+
+### Student Lead Sessions (2:15 - 3:15)
+
+### Group Retro (3:15 - 4:00)
+
+* 1602 - Big Workspace
+* 1603 - Classroom C
+* 1605 - Classroom B
+* 1606 Back-End - Uncubed (across the street)

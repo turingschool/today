@@ -1,0 +1,154 @@
+---
+title: 20160602
+layout: outline
+---
+
+## All
+
+**colophon** - _noun_ - a publisher's or printer's distinctive emblem, used
+as an identifying device on its books and other works.
+
+
+## 1511
+
+### Project Work Time (9:00 - 12:00)
+
+Sign up for [pairing slots](https://public.etherpad-mozilla.org/p/D6RtKLGZrr) if you'd like some code review/pairing/talking about life!
+
+### StandUp: BoxTrot (1:00 - 1:30)
+
+Classroom C.
+
+### StandUp: Tiskey Whango (1:30 - 2:00)
+
+Classroom C.
+
+### Project Work Time (2:00 - 4:00)
+
+Wherever.
+
+
+## 1602
+
+### One on Ones / Project Work Time (9:00 - 12:00)
+  One on Ones will be roughly 10 minutes, but sometimes Admir starts talking about his cat and the rest is out of our control. Keep an eye on slack and the person in front of you.
+
+#### With Nate
+  - Drew Thompson
+  - Admir Draganovic
+  - Claudia Keisenhofer
+  - Patrick Hardy
+  - Jon Liss
+  - Jeneve Parrish
+  - Josh Washke
+  - Ling Tran
+
+
+#### With Josh
+  - Hedy Woo
+  - Sunny Khalsa
+  - Chad Ellison
+  - Chris Soden
+  - Kris Foss
+  - Marina Corona
+  - Jon Bernesser
+  - Mark Miranda
+
+#### With Brenna
+  - Kami Boers
+  - Jared Roth
+  - Thom Pickett
+  - Sal Espinosa
+  - Alex Navarrete
+  - Ashwin Rao
+  - Matt Pindell
+  - Ali Andersen
+
+### Mystery company pitch (1:00 - 1:30)
+
+Classroom B
+
+If you're still looking for a personal project, you don't want to miss this pitch from a secret skunkworks team, but it is technically optional.
+
+### Project Work Time (1:30 - 4:00)
+
+Anywhere and Everywhere
+
+
+## 1603
+
+### Polymorphic & Self-Referential Relationships in Rails (9:00 - 10:30)
+
+Join Jeff in Classroom B to talk about [Fancy Relationships in Rails](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/fancy_relationships.markdown).
+
+### Authorization (10:30 - 12:00)
+
+Andrew will take the second half of the morning to talk about Authorization in Rails. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown)
+
+### Authorization Work Time (1:00 - 2:30)
+
+Finish the work time directives from our [Authentication lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown). Then implement authorization for users and admins in our tool_chest repo. You can find the directives in the [homework repo, here](https://github.com/turingschool/homework/blob/master/module-2-homework.markdown)
+
+### Mini API Project Kick Off (2:30 - 4:00)
+
+Return to Classroom B to hear about the [Mini API Project](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) kick off!. Andrew and Jhun will be around to help you make some decisions and get your apps off the ground.
+
+## 1605
+
+### Working with Ruby Modules (9:00 - 10:30)
+
+Classroom A.
+
+### Boolean Logic Deep Dive - Managing Branches in Code (10:30 - 12:00)
+
+Classroom A.
+
+### Cross Group Pairing (1:00 - 2:00)
+
+Meet in Classroom A. Find your pair from the list below. Spend 25 minutes
+working on the first person's project. Then take a Pomodoro and spend
+25 minutes working on the second person's project.
+
+* Jason & Raphael
+* Caleb & Patrick
+* Trent & Tommasina
+* Sonia & Lane
+* Chris & Matt
+* Roberta & Nicole
+* Angela & Ryan
+* Luigi & Yoseph
+* Garrett & David
+* Ben & Kris
+* Lin & Zach
+
+### Work Time and One on Ones (2:00 - 4:00)
+
+#### With Horace
+* 2:00 - Brandon Randall
+* 2:10 - David Tinianow
+* 2:20 - Jason Hanna
+* 2:30 - Angela Lindow
+* 2:40 - Lane Winham
+* 2:50 - Luigi Aversano
+* 3:00 - Trent Whitinger
+* 3:10 - Yoseph Anderson
+
+#### With Mike
+* 2:00 - Kris Sparks
+* 2:10 - Chris Concannon
+* 2:20 - Lin McCartney
+* 2:30 - Roberta Doyle
+* 2:40 - Ryan Flach
+* 2:50 - Sonia Gupta
+* 3:00 - Zachary Forbing
+* 3:10 - Tommasina Miller
+
+#### With Rachel
+* 2:40 - Ben Pepper
+* 2:50 - Caleb Cowen
+* 3:10 - Garrett Smestead
+* 3:20 - Raphael Barbo
+* 3:30 - Matt Campbell
+* 3:40 - Patrick Wentz
+* 3:50 - Nate ArnNderson
+* 4:00 - Nicole Marino

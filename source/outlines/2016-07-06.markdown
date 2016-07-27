@@ -1,0 +1,115 @@
+---
+title: 20160706
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**ebullient** - _adjective_ - overflowing with enthusiasm or excitement;
+Andrew after drinking cold brew coffee.
+
+
+## 1602
+
+### Introduction to Build Tools (9:00 - 10:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown)
+
+Classroom C.
+
+### Testing Game Time (11:00 - 12:00)
+
+Classroom C.
+
+- [Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey/blob/master/README.md)
+
+### Project Checkins & Ideabox Eval Overflow (1:00 - 4:00)
+
+#### With Jhun
+
+- 1:15: Kris Foss & Claudia Kiesenhofer & Alireza Andersen
+- 2:00: Mark Miranda & Matt Pindell
+- 2:30: Ling Tran & Sal Espinosa & Kami Boers
+- 3:15: Kami Boers (Ideabox)
+
+#### With Brenna
+
+- 1:15: Gurusundesh Khalsa & Alex Navarrete
+- 1:45: Marina Corona & Jeneve Parrish
+- 2:15: Patrick Hardy & Chad Ellison
+- 2:45: Thom Pickett (Ideabox)
+- 3:15: Matt Pindell (Ideabox)
+
+#### With Meeka
+
+- 1:15: Jonathan Liss & Jonathan Bernesser
+- 1:45: Ashwin Rao & Thomas Pickett
+- 2:15: Joshua Washke & Jared Roth & Andrew Thompson
+- 2:45: Kris Foss (Ideabox)
+- 3:15: Andrew Thompson (Ideabox)
+
+## 1603
+
+### Prior to class:
+
+* Set up [OregonSale](https://github.com/turingschool-examples/store_engine) prior to class. There won't be time for us to set up during class. Look at the `README` for details.
+* Download the [Postman App](https://www.getpostman.com/)
+* Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Join Josh in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/fundamental_rails_security.md)
+
+### Sending Email (10:30 - 12:00)
+
+Stay in the Big Workspace
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/sending_email_sendgrid.md)
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.
+
+
+## 1605
+
+### Visualizing and Implementing Database Relationships (9:00 - 11:00)
+
+Classroom B.
+
+### Protocol - Collaborative Communication (11:00 - 12:00)
+
+Classroom B.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+#### With Andrew & Casey
+- 1:00: David Tinianow & Caleb Cowen & Sonia Gupta & Ryan Flach
+- 1:30: Roberta Doyle & Jason Hanna & Matthew Packer & Angela Lindow
+
+#### With Andrew
+- 2:00: Christopher Concannon & Yoseph Anderson & Matthew Campbell
+- 2:30: Nicole Marino & Kris Sparks & Trent Whitinger
+
+#### With Casey
+- 2:00: Linda McCartney & Michael Lane Winham & Tommasina Miller
+- 2:30: Patrick Wentz & Garrett Smestad & Zachary Forbing
+
+
+## 1606-B
+
+### Getting Started with Git (9:00 - 12:00)
+
+Classroom A.
+
+### Problems, Solutions, and Algorithms (1:00 - 2:30)
+
+Classroom A.
+
+### Debugging Techniques (2:30 - 4:00)
+
+Classroom A.

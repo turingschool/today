@@ -1,0 +1,103 @@
+---
+title: 20160614
+layout: outline
+---
+
+## All
+
+**villatic** - _adjective_ - of or relating to the country or to a farm; rural.
+
+
+## 1511
+
+### Class - Schedule TBD (9:00 - 10:30)
+
+- Classroom TBD
+
+### Pairing with Module 3 (1:00 - 4:00)
+
+- Nate Venn & Chad & Thom
+- Nick Dorans & Sunny Khalsa
+- David Whitaker & Sal & Alex
+- Chelsea Johnson & Jeneve Parrish
+- Brian Rippeto & Patrick Hardy
+- Beau Lynn-Miller & Claudia Kiesenhofer
+- Scott Firestone & Ali Andersen
+- Adrienne Domingus & Marina Corona
+- Erinna Chen & Ashwin Rao
+- Julian Feliciano & Kris Foss
+
+## 1602
+
+### Final Assessment (9:00 - 12:00)
+
+I believe in you.
+
+### Pairing with Mod 4 (1:00 - 4:00)
+
+- Nate Venn & Chad & Thom
+- Nick Dorans & Sunny Khalsa
+- David Whitaker & Sal & Alex
+- Chelsea Johnson & Jeneve Parrish
+- Brian Rippeto & Patrick Hardy
+- Adam Hundley & Claudia Kiesenhofer
+- Scott Firestone & Ali Andersen
+- Adrienne Domingus & Marina Corona
+- Erinna Chen & Ashwin Rao
+- Julian Feliciano & Kris Foss
+
+## 1603
+
+### Introduction to jQuery (9:00 - 10:00)
+
+It's pronounced juh-kwery.
+
+Classroom C.
+
+### Filtering with Juh-Kwery (10:00 - 12:00)
+
+Stay in Classroom C.
+
+### Final Assessments (1:00 - 4:00)
+
+Jeff:
+
+* (1:00) - Charles Kaminer
+* (1:45) - Marcella Wigg
+* (2:30) - Lucy Fox
+* (3:15) - Robert Jaeger
+
+Andrew:
+
+* (1:00) - Brian Sayler
+* (1:45) - Jennifer Soden
+* (2:30) - Colin Osborn
+* (3:15) - Ryan Batty
+
+Jhun:
+
+* (1:00) - Kerry Sheldon
+* (1:45) - Karina Gonzalez
+* (2:30) - Ilana Corson
+* (3:15) - Parker Phillips
+
+Horace:
+
+* (1:00) - Anna Weisbrodt
+* (1:45) - Nick Pisciotta
+* (2:30) - Erin Greenhalgh
+
+## 1605
+
+### How Computers and Electronics Work (9:00 - 10:30)
+
+Join Jeff in Classroom A where we'll talk about electricity, clocks, gates, and
+[other fancy things](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/how_computers_work.markdown).
+
+### Binary, Octal and Hex (10:30 - 12:00)
+
+Classroom A still.
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.

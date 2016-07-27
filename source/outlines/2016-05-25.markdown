@@ -1,0 +1,108 @@
+---
+title: 20160525
+layout: outline
+---
+
+## All
+
+**transmogrify** - _verb_ - to change into a different shape or to transform,
+often with bizarre or humorous effect.
+
+
+## 1511
+
+### How Front-End Frameworks Work (9:00 - 10:00)
+
+Meet with Steve in The Big Workspace to talk about what front-end frameworks are, why they exist, and how they work.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/how_javascript_frontends_work.markdown)
+
+### React in Theory (10:00 - 10:30)
+
+Stick around in The Big Workspace as Steve goes into a little more depth on how React works in particular and well as some of the important concepts that back it up.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
+
+### React in Practice (10:30 - 12:00)
+
+With all that theory in place, let's build a simple version of Idea Box together.
+
+To get started, clone down this [React Starter Kit][rsk] and check out the `live-coding` branch.
+
+(You can also view the completed example [here][ic].)
+
+[rsk]: https://github.com/turingschool-examples/react-starter-kit
+[ic]: https://github.com/turingschool-examples/react-starter-kit/tree/completed-ideabox-example
+
+### Pre-Code Review / Project Work Time (1:00 - 4:00)
+
+Do the things.
+
+
+## 1602
+
+### Testing an External API (9:00 - 12:00)
+
+Clasroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+Work Away.
+
+
+## 1603
+
+### Route Helpers (9:00 - 10:00)
+
+Come find Andrew in classroom C. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/route_helpers.md)
+
+### Forms in Rails (10:00 - 11:00)
+
+Talking about some [forms, forms, forms](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_primer.markdown) in Classroom C with Jeff.
+
+### Building Tool Chest (11:00 - 12:00)
+
+Where else are you going to keep your [tools?](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown)
+
+### Blogger Worktime (1:00 - 4:00)
+
+Let's meet up right at 1 to get things kicked off for blogger.
+
+[Here is blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+
+### One-on-Ones (1:15 - 3:00)
+
+#### Jeff
+
+Meet Jeff on the patio of Little Owl Coffee across the street and towards 16th.
+
+* 1:15: Jennifer Soden
+* 1:30: Charles Kaminer
+* 1:45: Ryan Batty
+* 2:00: Nick Pisciotta
+* 2:15: Kerry Sheldon
+
+#### Andrew
+
+* 1:15: Lucy Fox
+* 1:30: Anna Weisbrodt
+* 1:45: Colin Osborn
+* 2:00: Robert Jaeger
+* 2:15: Parker Phillips
+
+#### Jhun
+
+* 1:15: Brian Sayler
+* 1:30: Erin Greenhalgh
+* 1:45: Marcella Wigg
+* 2:00: Karina Gonzalez
+
+## 1605
+
+### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+Classroom A.
+
+### All: Project Work Time (1:00 - 4:00)
+
+Almost there.

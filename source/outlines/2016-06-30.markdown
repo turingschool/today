@@ -1,0 +1,163 @@
+---
+title: 20160630
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**sniglet** - _noun_ - any word coined for something that has no specific name
+
+NAME TAGS ALL WEEK
+
+
+## 1602
+
+### Events in JavaScript (9:00 - 10:30)
+
+Meet with Meeka in the Big Workspace to discuss events in JavaScript.
+
+- [Basic Events](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/01-basic-events.md)
+(**Note**: We'll be using [this JSBin](http://jsbin.com/luwimed/8/edit?html,js,console,output) & [this JSBin](http://jsbin.com/fevopir/edit?js,console,output) to try out some examples.)
+
+- [Event Bubbling](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/02-event-bubbling.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/gosocez/1/edit?js,console,output) to try out some examples.)
+
+- [Event Delegation](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/04-events/05-event-delegation.md) (**Note**: We'll be using [this JSBin](http://jsbin.com/kidamohoja/1/edit?js,console,output) to try out some examples.)
+
+### An Introduction to Object Oriented JavaScript (10:30 - 11:00)
+
+Big Workspace.
+
+- [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
+
+### Work Time (11:00 - 12:00)
+
+Wrap up your [submission form PRs](https://github.com/turingschool/ruby-submissions/blob/master/1602/module_4_assignments/ideabox2.0/README.md) && make sure Ideabox is deployed!
+
+### BE-4 / FE-1 Pairing & IdeaBox Evals (1:00 - 4:00)
+
+** @ Commons on Champa **
+
+[Pairs for the Front End/Back End pairing are here](http://frontend.turing.io/today/2016-06-30.html)
+
+#### With Meeka
+
+* 1:15: Ling Tran
+* Claudia Kiesenhofer
+* Chad Ellison
+* Patrick Hardy
+* Alireza Andersen
+* Drew Thompson
+* Matt Pindell
+
+#### With Jhun
+
+* 1:15: Mark Miranda
+* Joshua Washke
+* Sal Espinosa
+* Kris Foss
+* Alex Navarrete
+* Jonathan Bernesser
+* Kami Boers
+
+#### With Brenna
+
+* 1:15: Ashwin Rao
+* Gurusundesh Khalsa
+* Jeneve Parrish
+* Jonathan Liss
+* Jared Roth
+* Marina Corona
+
+## 1603
+
+### Project Work Time and One on Ones (9:00 - 12:00)
+
+#### With Josh
+
+* Jennifer Soden
+* Parker Phillips
+* Robert Jaeger
+* Colin Osborn
+* Ilana Corson
+* Anna Weisbrodt
+* Ryan Batty
+* Christopher Soden
+
+#### With Nate
+
+* Charles Kaminer
+* Nick Pisciotta
+* Lucy Fox
+* Marcella Wigg
+* Karina Gonzalez
+* Erin Greenhalgh
+* Deborah Hamel
+* Brian Sayler
+* Kerry Sheldon
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+#### With Josh
+
+- Brian Sayler & Christopher Soden & Erin Greenhalgh
+- Lucy Fox & Anna Weisbrodt & Karina Gonzalez
+- Kerry Sheldon & Nick Pisciotta & Marcella Wigg
+
+#### With Nate
+
+- Colin Osborn & Robert Jaeger & Parker Phillips & Ilana Corson
+- Jennifer Soden & Ryan Batty & Charles Kaminer & Deborah Hamel
+
+## 1605
+
+### How the Web Works Q & A (9:00 - 9:30)
+Classroom B
+
+### What is Rack? (9:30 - 10:00)
+
+[What is Rack?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
+
+Classroom B.
+
+### SQL (10:00 - 11:00)
+
+Classroom B.
+
+### Intro to ORM's & TaskManager Transformation (11:00 - 12:00)
+
+Classroom B.
+
+### Task Manager Transformation Continued & Worktime (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1606 - Back End
+
+### All: Essential Enumerables, Map, Select, Find. (9:00 - 10:30)
+
+Classroom A with Mike.
+
+### All: Introducing Hashes (10:30 - 12:00)
+
+Continue with Jeff in Classroom A where we'll get into [Hashes](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/hashes.markdown).
+
+We'll use these groups:
+
+* Christopher Calaway & Susi Irwin & Kinan Whyte
+* Dan Broadbent & Brendan Dilon & Ben Pepper
+* Peter Jean Joeris & Brian Heim & Steven Chase Dunagan
+* Ryan David Workman & Bryan Goss & Nate Anderson
+* Jasmin Hudacsek & Alisher Sadikov & Jesse Spevack
+* David Davydov & Michael Hill & Gabrielle Procell
+* Raphael Barbo & David Seaver
+
+### All: Work Time (1:00 - 4:00)
+
+We're bumping this afternoon's class to early next week to allow for some extra work time.
+
+### Echo: The Horace D. Williams Memorial Roadshow (3:00 - 4:00)
+
+Join Mike and Beth in Classroom A.

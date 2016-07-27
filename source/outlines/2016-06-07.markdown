@@ -1,0 +1,153 @@
+---
+title: 20160607
+layout: outline
+---
+
+## All
+
+**patina** - _noun_ - the color or incrustation which age gives to works of
+art; especially the green rust which covers ancient bronzes, coins and
+medals.
+
+
+## 1511
+
+### A Polite Reintroduction to Asynchronous JavaScript (9:00 - 12:00)
+
+Classroom C.
+
+- [Slides](https://www.icloud.com/keynote/00026II3eyzH3DhAOBEV8wnQQ#Asynchronous_JavaScript)
+- [Async Lab](http://bit.ly/async-lab)
+
+You'll be working in the following pairs:
+
+* Erinna Chen & David Whitaker
+* Kimiko Kano & July Tran
+* Chelsea Johnson & Adrienne Domingus
+* Scott Firestone & Nicholas Dorans
+* Heidi Hoopes & Taylor Moore
+* Brian Rippeto & Adam Hundley
+* Nate Venn & Brennan Holtzclaw & Julian Feliciano
+
+### Project Stand Ups (1:00 - 2:00)
+
+- BoxTrot & BoxTrot:Prime: 1:00
+- Tiskey Whango: 1:30
+
+Classroom C.
+
+### Thoughtbox Evals & Work Time (2:00 - 4:00)
+
+#### With Meeka
+
+* 12:00: Taylor Moore
+* 2:00: Nate Venn (and Louisa)
+* 2:15: Julian Feliciano (and Louisa)
+* 2:30: Scott Firestone
+* 2:45: Heidi Hoopes
+* 3:30: Erinna Chen
+* 3:45: Adrienne Domingus
+* 4:15: Brennan Holtzclaw
+
+#### With Louisa
+
+* 2:30: Chelsea Johnson
+* 2:45: Kimiko Kano
+* 3:00: Brian Rippeto
+* 3:15: David Whitaker
+* 3:30: Nicholas Dorans
+* 3:45: Adam Hundley
+
+#### At the Grand Canyon/Vegas
+
+* Nick Weiland
+* Allan Blair
+
+## 1602
+
+### Understanding the Asset Pipeline (9:00 - 12:00)
+
+Classroom B.
+
+Once you understand it, please come and explain it to me.
+
+### Project Check Ins and Work Time (1:00 - 4:00)
+
+#### With Nate
+  - 1:00 Chris
+  - 1:20: Sal
+  - 1:40: Admir
+  - 2:00: Sunny
+  - 2:20: Jon L, Jon B, & Matt
+  - 2:40: Jeneve
+  - 3:00: Hedy
+
+#### With Josh
+  - 1:00: Drew & Josh
+  - 1:20: Chad & Thomas
+  - 1:40: Alex
+  - 2:00: Ali
+  - 2:20: Claudia
+  - 2:40: Kami
+  - 3:00: Patrick
+
+#### With Brenna
+  - 1:00: Ashwin
+  - 1:20: Jared
+  - 1:40: Kris
+  - 2:00: Ling
+  - 2:20: Marina
+  - 2:40: Mark
+
+## 1603
+
+### Rails Views Tips and Tricks (9:00 - 10:30)
+
+  Join YUNG-jhun in Classroom A for some Major 🔑s to success. He'll be going over [Rails Views Tips and Tricks](https://gist.github.com/joshuajhun/c69fdb5d46b7cd58448af4dcd6d776f5)
+  be sure to clone the following repos!
+
+  * [I really like you](https://github.com/mikedao/i-really-like-you)
+  * [Pokemon Center](https://github.com/joshuajhun/pokemon_center)
+  * [video]()
+
+### Little Shop Work Time (10:30 - 12:00)
+
+Work Away!
+
+### Git Workflow cont'd (1:00 - 2:00)
+
+Join The Carmz in Classroom A to finish out the [Git Workflow lesson](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/git_redux.markdown)..
+
+
+### Little Shop Work Time and Check Ins (2:00 - 4:00)
+
+Check-Ins:
+
+##### Andrew
+
+  * (2:15 - 3:00) Kerry Sheldon & Robert Jaeger & Karina Gonzalez
+  * (3:00 - 3:45) Parker Phillips & Nick Pisciotta & Anna Weisbrodt
+
+##### Jhun
+
+  * (2:15 - 3:00) Marcella Wigg & Lucy Fox & Charles Kaminer
+  * (3:00 - 3:45) Erin Greenhalgh & Ilana Corson & Ryan Batty
+
+##### Jeff
+
+  * (3:00 - 3:45) Brian Sayler & Colin Osborn & Jennifer Soden
+
+
+## 1605
+
+### Testing Small Datasets, Dependencies and Edge Cases (9:00 - 10:30)
+
+Big Workspace
+
+### RACHEL AND HORACE ROADSHOW (10:30 - 12:00)
+
+HANG ONTO YOUR BUTTS
+
+### Project Work Time (1:00 - 4:00)
+
+Work.

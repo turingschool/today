@@ -1,0 +1,90 @@
+---
+title: 20160725
+layout: outline
+---
+
+## All
+
+### Announcements
+
+
+## 1602
+
+### Thoughtbox (ALL DAY)
+
+Details in #1602 - work till 5:15!
+
+
+## 1603
+
+### Mock Assessment (9:00 - 11:00)
+
+Classroom C
+
+### Personal Project work time (11:00 - 12:00)
+
+Now you can code
+
+### Understanding the Asset Pipeline (1:00 - 4:00)
+
+Classroom C
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown)
+
+
+## 1605
+
+### Mini Project Peer Extension and Refactoring (9:00 - 11:30)
+
+Classroom B. [Here is the lesson plan for this morning](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mini-project-gem-implementation.md).
+
+### Mini Project Show and Tell (11:30 - 12:00)
+
+IF YOU WANT to show and tell your project, we'll do it now. Classroom B.
+
+### Cart and Order Life Cycle (1:00 - 3:00)
+
+Classroom B.
+
+### Little Shop Kick Off (3:00 - 4:00)
+
+Classroom B.
+
+* Jason Hanna & Caleb Cowen & Trent Whitinger
+* Angela Lindow & Ryan Flach & Michael Lane Winham
+* Roberta Doyle & Tommasina Miller & Christopher Concannon
+* Matthew Packer & David Tinianow & Linda McCartney
+* Matthew Campbell & Nicole Marino & Garrett Smestad & Zachary Forbing
+* Kris Sparks & Yoseph Anderson & Patrick Wentz
+
+
+## 1606-B
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+Ever wish you could be writing code from the mountains? Beach? Bed?
+
+Join Beth Classroom A to practice techniques for remote pairing.
+
+### Black Thursday Kick Off (10:30 - 12:00)
+
+Dun-dun-DUN!!! Jeff will kickoff your new project in Classroom A. Then you'll have a chance to DTR with your pair and dig into the spec.
+
+* Chase & Vido
+* Jasmin & Jesse
+* Ben & Bryan
+* Nate& Jean
+* Raphael & Susi
+* Brendan & Brian
+* Ryan & Gabrielle
+* Calaway & Kinan
+* Dan & David
+
+
+### Mystery Class (1:00 - 3:00)
+
+MEET AT THE CHAMPUS
+
+### Black Thursday Q&A and Work Time (3:00 - 4:00)
+
+Finally we'll end the day with an opportunity to ask questions / discuss your approach to Black Thursday. You're also welcome to get to work.

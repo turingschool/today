@@ -1,0 +1,130 @@
+---
+title: 20160527
+layout: outline
+---
+## All
+
+### Surveys
+
+* [1511](http://goo.gl/forms/wGiSUJIYFkaNN18i2)
+* [1602](https://docs.google.com/forms/d/1U4-V9TbuTibNCejKRgA75cGoh-NrUVOrh3z9VgOkrkQ/viewform)
+* [1603](https://docs.google.com/a/casimircreative.com/forms/d/18Qt8S07rZbdSZmGZUR6EFw-vtlEJ0PhgPZgdxO2AXHc/viewform?c=0&w=1)
+* 1605: [Traits Self-Assessment](https://docs.google.com/forms/d/1APZtCqNhE11akwpDEO9Y3CpDyGy2PG8vXWUSuccONHo/viewform) and [Weekly Survey](https://docs.google.com/forms/d/1dx6eXgNqWScz-FoDDMbsmqmw_7QRKz3a45Ob8zQ2ijc/viewform)
+
+
+### Guest Speaker (9:00 - 10:00)
+
+### Greg Morris
+
+Co-founder of TEDx Boulder, and on the Board of the Colorado Chapter of the Entrepreneurs' Organization.
+
+* [Twitter](https://twitter.com/gmorris)
+* [Website](http://www.gmorris.com/)
+
+
+### Instructional Time (10:00 - 11:30)
+
+#### 1511
+
+Big Workspace.
+
+#### 1602
+
+[Active Record American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
+Classroom B.
+
+#### 1603
+
+It's Time for our Weekly Recap Challenge!
+Join Andrew in Classroom C to see whats up.
+
+#### 1605
+
+YOU PAID FOR THE WHOLE SEAT BUT YOU'LL ONLY NEED THE EDGE
+
+##### INTRO TO HTTP
+
+[Intro to HTTP](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/intro_to_http_and_curl_obstacle_course.org) with Horace in Classroom A.
+
+##### PROJECT KICKOFF
+
+##### MID MODULE DIAGNOSTIC PREP
+
+Project Kickoff, Mid Module Diagnostic Prep and more in Classroom A.
+
+Groups TBA.
+
+### Gear Up (11:30 - 12:30)
+
+[Ageism in Tech](https://github.com/turingschool/gear-up/blob/master/ageism_in_tech_org.markdown)
+
+* Meet up in the Big Workspace where you will assemble into groups.
+
+* Group 1: Adam Hundley, Linda McCartney, Kris Sparks, Ryan Batty, Hedy Woo, Tommasina Miller
+
+* Group 2: Adrienne Domingus, Zachary Forbing, Matthew Campbell, Colin Osborn, Matt Pindell, Ben Pepper
+
+* Group 3: Brennan Holtzclaw, Luigi Aversano, Nate Anderson, Erin Greenhalgh, Kris Foss, Nick Pisciotta
+
+* Group 4: Brian Rippeto, Christopher Concannon, Michael Lane Winham, Lucy Fox, Ashwin Rao, Karina Gonzalez
+
+* Group 5: Chelsea Johnson, Yoseph Anderson, Kerry Sheldon, Robert Jaeger, Alireza Andersen, Charles Ellison
+
+* Group 6: David Whitaker, Raphael Barbo, Marcella Wigg, Parker Phillips, Andrew Thompson, Mark Miranda
+
+* Group 7: Heidi Hoopes, David Tinianow, Ilana Corson, Alexis Uriel Navarrete, Jeneve Parrish, Jared Roth
+
+* Group 8: Julian Feliciano, Patrick Wentz, Anna Weisbrodt, Sal Espinosa, Gurusundesh Khalsa, Jonathan Bernesser
+
+* Group 9: July Tran, Roberta Doyle, Charles Kaminer, Joshua Washke, Admir Draganovic
+
+* Group 10: Kimiko Kano, Sonia Gupta, Jennifer Soden, Christopher Soden, Kami Boers
+
+* Group 11: Scott Firestone, Angela Lindow, Brian Sayler, Claudia Kiesenhofer, Ling Tran
+
+### Lunch (12:30 - 1:30)
+
+* Lucy Fox, Patrick Wentz, Taylor Moore, Horace
+* Nate Anderson, Robert Jaeger, Alireza Andersen, Andrew
+* Caleb Cowen, Karina Gonzalez, Andrew Thompson, Nate
+* Chelsea Johnson, Nick Pisciotta, Trent Whitinger, Josh
+* Kimiko Kano, Chad Ellison, Yoseph Anderson, Meeka
+* Adrienne Domingus, Erin Greenhalgh, Christopher Soden, Allison
+* Ryan Flack, Claudia Kiesenhofer, Scott Firestone, Lia
+* Nick Weiland, Nicholas Dorans, Ryan Batty, Beth
+* Jennifer Soden, Adam Hundley, Gurusundesh Khalsa,
+* Hedy Woo, Nate Venn, Admir Draganovic, Alex Navarrete
+* Jared Roth, David Tinianow, Julian Feliciano
+* Joshua Cohen, Anna Weisbrodt, Jeneve Parrish, July Tran
+* Colin Osborn, Erinna Chen, Christopher Concannon, Jonathan Bernesser
+* Heidi Hoopes, Jonathan Liss, Marcella Wigg, Zachary Forbing
+* Brian Rippeto, Brian Sayler, Luigi Aversano, Joshua Washke
+* David Whitaker, Kami Boers, Kerry Sheldon, Roberta Doyle
+* Kris Foss, Michael Lane Winham, Jason Hanna, Nicole Marino
+* Ling Tran, Sonia Gupta, Brandon Randall
+* Ben Pepper, Marina Corona, Allan Blair, Angela Lindow
+* Tommasina Miller, Mark Miranda, Brennan Holtzclaw,
+* Matthew Campbell, Matt Pindell, Ashwin Rao,
+* Patrick Hardy, Raphael Barbo, Charles Kaminer
+* Sal Espinosa, Garrett Smestad, Linda McCartney
+* Kris Sparks, Thomas Pickett, Parker Phillips
+
+### Group Retro(1:30 - 2:30)
+
+* 1511 - Big Workspace
+* 1602 - Classroom B.
+* 1603 - Classroom C.
+* 1605 - Classroom A.
+
+### Extracurricular Time (2:30 - 4:00)
+
+* Armstrong - Classroom A.
+* Brin - Getting started with [exercism.io](exercism.io) -- Come learn how to up your programming Game in Classoom B.
+* Golick - The Golick Corner.
+* Hamilton - Start in the Big Workspace.
+* Hopper - Classroom C.
+* Miyamoto - Back of the Big Workspace
+* Pahlka - Classroom C.
+* Resig - The Golick Corner.
+* Ritchie - Horace's Lair

@@ -1,0 +1,131 @@
+---
+title: 20160523
+layout: outline
+---
+
+## All
+
+**melange** - _noun_ - a mixture; a melody
+
+
+## 1511
+
+### Client-side Storage (9:00 - 10:30)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/client_side_storage.markdown)
+
+### Project Work Time & Instructor Pairing (10:30 - 4:00)
+
+[Sign up for pairing slots with Meeka & Louisa](https://public.etherpad-mozilla.org/p/instructor-pairing)
+
+Suggested Pairing Topics:
+
+- *Louisa*: clean up CSS and HTML layouts around your games, work on image sprites and image editing/creation, encouragement for getting really weird with bonus levels of your game.
+- *Meeka*: refactor, bug squashing, beefing up testing, setting up local/session or firebase storage, reminders that you literally learned JavaScript, like, 14 days ago and you're _killing it right now_.
+
+## 1602
+
+### Getting started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/getting_started_with_oauth.md)
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/json_fundementals.md)
+
+### APICurious (1:00 - 2:30)
+
+[Notorious](https://www.youtube.com/watch?v=HGDmBLAPikU)
+
+Classroom B.
+
+### Project Work Time (2:30 - 4:00)
+
+Let's get curious.
+
+
+## 1603
+
+### Rush Hour Evaluations and Active Record Obstacle Course (9:00 - 12:00)
+
+#### Evaluations
+
+You've put a lot of hard work into getting these projects and you should be proud of your work. Major 🔑 to success == Bring a notebook to your evaluation and take notes. When you get time put said notes into the notes section in your [portfolio](https://github.com/turingschool/portfolios)
+
+with Jeff:
+
+* 9:00  - Anna, Ryan, Charles
+* 9:45  - Robert, Marcella, Jennifer
+
+with Andrew:
+
+* 9:00  -  Kerry, Parker, Brian
+* 9:45  - Nick, Karina, Colin
+* 10:30 - Lucy, Ilana, Erin
+
+#### Finished with Evals / Waiting for Evals
+
+When you're not getting evaluated, work on the [Active Record Obstacle Course](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/active_record_obstacle_course.markdown). YUNG-Jhun will be walking you through the obstacle course in the big workspace..
+you can also just run this command to get the obstacle course on your machine.
+`git clone -b activerecord-obstacle-course git@github.com:turingschool-examples/storedom.git`
+
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+It's time for rails! Join Jeff in Classroom C to learn about REST, Controllers and routing in Rails.
+Find the lesson plan [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rest_routing_and_controllers_in_rails.markdown)
+
+### ERD Database Design (2:30 - 4:00)
+
+Still in C. You'll be learning about Entity Relationship Diagramming - ERD's. The lesson plan can be found [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/entity-relationship-diagramming.md)
+
+
+## 1605
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Join Horace in Classroom A to test things.
+
+### All: Arguments, Methods and Scopes (10:30 - 12:00)
+
+Mike tags in to explain why you're getting that unknown local variable or method error.
+
+### Echo: Sorting Suite Evals (1:00 - 3:30)
+
+#### With Mike
+* 1:00 - Chris Concannon
+* 1:20 - Nicole Marino
+* 1:40 - Roberta Doyle
+* 2:00 - Ryan Flach
+* 2:20 - Trent Whitinger
+
+### All: Pairing Patterns (1:00 - 3:30)
+
+Classroom A, everyone. 
+
+If you're in Echo, you will do this while you're not being evaluated.
+
+Find the instructions [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown). 
+
+* Raphael Barbo, Zack Forbing
+* Jason Hanna, Chris Concannon
+* Sonia Gupta, Ryan Flach
+* Angela Lindow, Caleb Cowen
+* Ben Pepper, Trent Whitinger
+* Yoseph Anderson, Josh Cohen
+* Lane Winham, Luigi Aversano
+* Patrick W, Kris Sparks
+* Nate Anderson, Matthew Campbell
+* David Tinianow, Lin McCartney
+* Brandon Randall, Roberta Doyle
+* Tommasina, Nicole Marino, Garrett Smestad
+
+### Echo: Project Kick Off (3:30 - 4:00)
+
+Find Mike whereever he is.
