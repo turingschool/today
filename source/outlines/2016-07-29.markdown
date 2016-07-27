@@ -9,7 +9,7 @@ layout: outline
 
 * [1602 - coming soon!]()
 * [1603 - coming soon!]()
-* [1605 - coming soon!]()
+* [1605](https://docs.google.com/forms/d/e/1FAIpQLSd9dimltJ_DXdrmkuQxxUqEoePaCK2kEl3oJPX7WYxwF4lw5g/viewform)
 * [1606 - coming soon!]()
 
 ### Lunch Roulette Groups
@@ -43,7 +43,7 @@ border: 1px solid black;">
     <tr>
       <td>1605</td>
       <td>B</td>
-      <td>tbd</td>
+      <td>Rush Hour Worktime</td>
     </tr>
     <tr>
       <td>1606-WAD</td>
