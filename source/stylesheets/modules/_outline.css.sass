@@ -1,0 +1,68 @@
+.mod-outline
+  ul, ol
+    list-style: square
+    margin: 0.5em 0em 0.5em 2em
+
+    li
+      margin: 0.5em 0em
+
+  padding: 1em 0 1em 4em
+
+  .layout-inner-wrap
+    min-width: 90%
+
+  h1, h2, h3, h4, h5, p
+    margin: 0 auto
+    line-height: 27px
+
+  h1, h2, h3, h4, h5
+    margin: 1em 0em 0em 0em
+
+  h1
+    margin-bottom: 1em
+    font-size: 2.8em
+    font-weight: $font-weight-light
+    color: $blue
+
+  h2
+    font-size: 2.2em
+    line-height: 2.2em
+    text-decoration: underline
+
+  h3
+    font-size: 1.8em
+    color: $blue
+    line-height: 1.8em
+
+  h4
+    font-size: 1.6em
+    line-height: 1.6em
+    font-weight: $font-weight-light
+
+  h5
+    font-size: 1.4em
+    line-height: 1.4em
+
+    .date
+      color: $blue
+
+  p, li
+    font-size: 18px
+    margin-bottom: 1.0em
+    line-height: 1.5em
+    list-style: disc
+
+.col-article
+  float: left
+  width: 75%
+  @media all and (max-width: 960px)
+    width: 100%
+
+.col-sidebar
+  float: right
+  width: 22.5%
+  text-align: left
+  padding-left: 2.5%
+
+  @media all and (max-width: 960px)
+    display: none

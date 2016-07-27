@@ -1,0 +1,59 @@
+.outline_list
+  // .month, .week,
+    border: 1px solid blue
+
+  // .weeknumber
+    border: 1px solid red
+
+  .month
+    position:      relative
+    clear:         both
+    overflow:      visible
+    margin-bottom: 75px
+
+    .monthname
+      vertical-align: top
+      position:       absolute
+      top:            0
+      left:           0
+      margin:         0px
+
+      a
+        color:           transparentize($blue, 0.90)
+        margin:          0px
+        font-weight:     bold
+        font-size:       150px
+        text-decoration: none
+
+    .week
+      display:        inline-block
+      margin-top:     0px
+      margin-left:    50px
+      margin-bottom:  0px
+      position:       relative
+      vertical-align: top
+      height:         165px // fuck you, css, why can't I just say 100%???!?!?
+      width:          75px
+
+      ul.weekdays
+        list-style-type: none
+        margin:          0px
+
+      .weeknumber
+        -webkit-transform: rotate(-90deg)
+        -moz-transform:    rotate(-90deg)
+        -o-transform:      rotate(-90deg)
+        -ms-transform:     rotate(-90deg)
+        transform:         rotate(-90deg)
+        z-index:           -1
+        position:          absolute
+        width:             1em // css is so stupid
+        height:            1em
+        left:              -45px
+        bottom:            0
+
+        a
+          color:           #dfdfdf
+          font-weight:     bold
+          font-size:       45px
+          text-decoration: none
