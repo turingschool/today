@@ -100,7 +100,7 @@ And any remaining Mock Assessment reviews that we didn't get to that morning.
 
 ## 1605
 
-### Intro to Heroku and the Asset Pipeline (9:00 - 10:30)
+### Intro to Heroku and the Asset Pipeline (9:00 - 11:00)
 
 Come to Classroom B and learn about asset-magic. [Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_the_asset_pipeline.markdown)
 
