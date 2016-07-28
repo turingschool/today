@@ -67,7 +67,26 @@ Classroom A.
 
 ### Pushing Logic Down the Stack (9:00 - 11:00)
 
-Classroom C.
+Classroom C. Make sure you have Ruby 1.9.3 installed before today's lesson.
+
+[Here is the lesson](http://tutorials.jumpstartlab.com/topics/architecture/pushing_logic_down_the_stack.html)
+
+```
+git clone git@github.com:turingschool/oregon_sale.git
+cd oregon_sale
+bundle
+rake db:create db:migrate db:seed
+bundle exec rake spec
+```
+
+if your bundle does not work, try this:
+
+```
+gem uninstall libv8
+gem install therubyracer -v '0.12.2'
+gem install libv8 -v 3.16.14.7 -- --with-system-v8
+```
+
 
 ### Callbacks and Scopes (11:00 - 12:00)
 
