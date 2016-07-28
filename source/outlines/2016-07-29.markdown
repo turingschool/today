@@ -109,8 +109,8 @@ If/While you are not being assessed, work on your portfolios in these pairs:
 ### Gear Up (1:15 - 2:15)
 Meet in the Big Workspace for this week's community-themed Gear Up, ["Tragedy of the Commons: Voting, Sustainability, and Cleaning"](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-### Student-Led Sessions (2:15 - 3:15)
-Student-led session topics for today are posted on the whiteboard in the Big Workspace.
+### Friday Spike (2:15 - 3:15)
+Topics for today are posted on the whiteboard in the Big Workspace.
 
 ### Group Retro (3:15 - 4:00)
 * 1602 - Big Workspace
