@@ -15,7 +15,7 @@ Classroom B.
 
 [Lesson Plan](https://github.com/turingschool-examples/intro-to-CSS-transitions)
 
-### Regex Fun Times (9:00 - 10:30)
+### Regex Fun Times (10:30 - 12:00)
 
 Classroom B.
 
