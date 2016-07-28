@@ -43,14 +43,35 @@ layout: outline
 
 ### Academic Time (10:00 - 12:00)
 
-####1602 Commons on Champa
-GameTime: Cross Program Pairing
-
-####1603 (Classroom C)
-####1605 (Classroom B)
-Rush Hour Worktime
-
-####1606-WAD (Classroom A)
+<table>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Location</th>
+      <th>Lesson Plans</th>
+    </tr>
+    <tr>
+      <td>1602</td>
+      <td>Commons on Champa</td>
+      <td>GameTime: Cross Program Pairing</td>
+    </tr>
+    <tr>
+      <td>1603</td>
+      <td>Classroom C</td>
+      <td>Jobs Talk: Resumes and Networking with Lia and Marissa</td>
+    </tr>
+    <tr>
+      <td>1605</td>
+      <td>Classroom B</td>
+      <td>Rush Hour Worktime</td>
+    </tr>
+    <tr>
+      <td>1606-WAD</td>
+      <td>Classroom A</td>
+      <td>Portfolio Pairing and Final Assessments</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Final Assessments
 
