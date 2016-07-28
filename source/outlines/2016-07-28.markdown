@@ -13,6 +13,8 @@ layout: outline
 
 Classroom B.
 
+[Lesson Plan](https://github.com/turingschool-examples/intro-to-CSS-transitions)
+
 ### Regex Fun Times (9:00 - 10:30)
 
 Classroom B.
