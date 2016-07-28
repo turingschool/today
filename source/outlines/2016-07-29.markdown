@@ -10,10 +10,31 @@ layout: outline
 * [1602 - coming soon!]()
 * [1603 - coming soon!]()
 * [1605](https://docs.google.com/forms/d/e/1FAIpQLSd9dimltJ_DXdrmkuQxxUqEoePaCK2kEl3oJPX7WYxwF4lw5g/viewform)
-* [1606 - coming soon!]()
+* [1606](https://goo.gl/forms/3HBsEQIM8J8i0mSj1)
 
 ### Lunch Roulette Groups
 (TBD)
+* Matt Pindell, Brian Sayler, Trent Whitinger, Kinan Whyte, Jeff Duke
+* Alireza Andersen, Kerry Sheldon, Jason Hanna, Susi Irwin, Brett Hevia
+* Claudia Kiesenhofer, Parker Phillips, Pat Wentz, Ben Pepper, Benjamin Godfrey
+* Patrick Hardy, Jennifer Soden, Caleb Cowen, Raphael Barbo, MaryJane Valade
+* Mark Miranda, Robert Jaeger, Nicole Marino, Dan Broadbent, Andy Young
+* Thomas Pickett, Marcella Wigg, Angela Lindow, David Davydov, Blake Worsley
+* Chad Ellison, Lucy Fox, Lane Winham, Jesse Spevack, David Kerr
+* Alex Navarrete, Ryan Batty, David Tinianow, Mike Hill, Paul Ngyuen
+* Andrew Thompson, Erin Greenhalgh, Matt Packer, Bryan Goss
+* Kami Boers, Chris Soden, Yoseph Anderson, Nate Anderson
+* Jonathan Liss, Karina Gonzalez, Lin McCartney, Jean Joeris
+* Jeneve Parrish, Anna Weisbrodt, Garrett Smestad, Brian Heim
+* Jonathan Bernesser, Charles Kaminer, Kris Sparks, Brendan Dillon
+* Marina Corona, Nick Pisciotta, Tommasina Miller, Madison Kerndt
+* Ling Tran, Colin Osborn, Vido Seaver, Casey Metz
+* Kris Foss, Deborah Hamel, Calaway, Kyle Misencik
+* Jared Roth, Ilana Corson, Alisher Sadikov, Kirsten Swanson
+* Ashwin Rao, Roberta Doyle, Gabi Procell, Mike Sausa
+* Gurusundesh Khalsa, Matt Campbell, Chase Dunagan, Adam Bernard
+* Sal Espinosa, Zach Forbing, Ryan Workman, Peter Springer
+* Joshua Washke, Chris Concannon, Jasmin Hudacsek, Casey Cross
 
 ### Guest Speaker - Kinsey Durham (9:00 - 10:00)
 * [LinkedIn](https://www.linkedin.com/in/kinseyanndurham)
@@ -30,6 +51,39 @@ GameTime: Cross Program Pairing
 Rush Hour Worktime
 
 ####1606-WAD (Classroom A)
+
+### Final Assessments
+
+### With Mike
+
+* 9:45 -  Chase
+* 10:30 - Jasmin
+* 11:15 - Brian
+
+### With Beth
+
+* 9:45 - Bryan
+* 10:30 - Susi
+* 11:15 - Jean
+
+### With Jeff
+
+* 9:45 - Kinan
+* 10:30 - Ben
+* 11:15 - Ryan
+
+If/While you are not being assessed, work on your portfolios in these pairs:
+
+* Chase Dunagan & Nate Anderson
+* Alisher Sadikov & Brendan Dilon
+* Michael Hill & Raphael Barbo
+* Kinan Whyte & Vido Seaver
+* Jean Joeris & Susi Irwin
+* Jesse Spevack & Gabi Procell
+* Brian Heim & Bryan Goss
+* David Davydov & Ryan David Workman
+* Jasmin Hudacsek & Ben Pepper
+* Calaway & Dan Broadbent
 
 ### Gear Up (1:15 - 2:15)
 Meet in the Big Workspace for this week's community-themed Gear Up, ["Tragedy of the Commons: Voting, Sustainability, and Cleaning"](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
