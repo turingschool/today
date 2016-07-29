@@ -43,6 +43,14 @@ layout: outline
 
 ### Academic Time (10:00 - 12:00)
 
+|Cohort|Location|Lesson Plans|
+|------|--------|------------|
+|1602  |Commons on Champa|GameTime: Cross Program Pairing ([Very Important Details](http://frontend.turing.io/today/2016-07-29.html#project-work-time-and-cross-program-pairing-1000---1200))|
+|1603  |Classroom C|Jobs Talk: Resumes and Networking with Lia and Marissa|
+|1605  |Classroom B|LittleShop Worktime and Little Shop Retro<br/>[Retro Prompt](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8)|
+|1606-b|Classroom A|Portfolio Pairing and Final Assessments|
+
+
 <table>
   <tbody>
     <tr>
@@ -52,8 +60,8 @@ layout: outline
     </tr>
     <tr>
       <td>1602</td>
-      <td>Commons on Champa</td>
-      <td>GameTime: Cross Program Pairing ([Very Important Details](http://frontend.turing.io/today/2016-07-29.html#project-work-time-and-cross-program-pairing-1000---1200)}</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1603</td>
