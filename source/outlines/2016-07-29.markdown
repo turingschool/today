@@ -50,58 +50,9 @@ layout: outline
 |1605  |Classroom B|LittleShop Worktime and Little Shop Retro<br/>[Retro Prompt](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8)|
 |1606-b|Classroom A|Portfolio Pairing and Final Assessments|
 
+#### 1606-b M1 Final Assessments & Portfolios
 
-<table>
-  <tbody>
-    <tr>
-      <th></th>
-      <th>Location</th>
-      <th>Lesson Plans</th>
-    </tr>
-    <tr>
-      <td>1602</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1603</td>
-      <td>Classroom C</td>
-      <td>Jobs Talk: Resumes and Networking with Lia and Marissa</td>
-    </tr>
-    <tr>
-      <td>1605</td>
-      <td>Classroom B</td>
-      <td><p>LittleShop Worktime and Little Shop Retro</p><p>[Retro Prompt](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8)</p></td>
-    </tr>
-    <tr>
-      <td>1606-WAD</td>
-      <td>Classroom A</td>
-      <td>Portfolio Pairing and Final Assessments</td>
-    </tr>
-  </tbody>
-</table>
-
-### Final Assessments
-
-### With Mike
-
-* 9:45 -  Chase
-* 10:30 - Jasmin
-* 11:15 - Brian
-
-### With Beth
-
-* 9:45 - Bryan
-* 10:30 - Susi
-* 11:15 - Jean
-
-### With Jeff
-
-* 9:45 - Kinan
-* 10:30 - Ben
-* 11:15 - Ryan
-
-If/While you are not being assessed, work on your portfolios in these pairs:
+When not in an assessment, get together with the pair below to work on your portfolios:
 
 * Chase Dunagan & Nate Anderson
 * Alisher Sadikov & Brendan Dilon
@@ -114,13 +65,37 @@ If/While you are not being assessed, work on your portfolios in these pairs:
 * Jasmin Hudacsek & Ben Pepper
 * Calaway & Dan Broadbent
 
+You should be able to find project scores/notes in [the submission repo](https://github.com/turingschool/ruby-submissions/tree/master/1606-b)
+
+##### With Mike
+
+* 9:45 -  Chase
+* 10:30 - Jasmin
+* 11:15 - Brian
+
+##### With Beth
+
+* 9:45 - Bryan
+* 10:30 - Susi
+* 11:15 - Jean
+
+##### With Jeff
+
+* 9:45 - Kinan
+* 10:30 - Ben
+* 11:15 - Ryan
+
+
 ### Gear Up (1:15 - 2:15)
+
 Meet in the Big Workspace for this week's community-themed Gear Up, ["Tragedy of the Commons: Voting, Sustainability, and Cleaning"](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 ### Friday Spike (2:15 - 3:15)
+
 Topics for today are posted on the whiteboard in the Big Workspace.
 
 ### Group Retro (3:15 - 4:00)
+
 * 1602 - Big Workspace
 * 1603 - Classroom C
 * 1605 - Classroom B
