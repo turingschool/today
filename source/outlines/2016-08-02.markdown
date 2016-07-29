@@ -1,0 +1,65 @@
+---
+title: 20160802
+layout: outline
+---
+
+## All
+
+### Announcements
+
+
+## 1602
+
+### Final Assessment and One on Ones (ALL DAY)
+
+Wherever.
+
+### Pairing with Mod 3 (1:00 - 4:00)
+
+Those of you not taking the final assessment will be lending a hand to mod 3
+on their personal projects. Pairs TBA.
+
+
+## 1603
+
+### Final Assessment (9:00 - 12:00)
+
+Classroom B.
+
+### Pairing with Mod 4 (1:00 - 4:00)
+
+Pairs TBD.
+
+
+## 1605
+
+### Intro to jQuery (9:00 - 10:00)
+
+Classroom C.
+
+### Filtering with jQuery (10:00 - 12:00)
+
+Classroom C.
+
+### Little Shop Work Time / Mod 2 Assessments (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### How Computers and Electronics Work (9:00 - 11:00)
+
+Classroom A.
+
+### Binary, Octal, and Hex (11:00 - 12:00)
+
+Classroom A.
+
+
+### Project Work Time (1:00 - 4:00)
+
+Almost there!
+
+
+
