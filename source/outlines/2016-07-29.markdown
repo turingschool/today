@@ -13,7 +13,7 @@ layout: outline
 * [1606](https://goo.gl/forms/3HBsEQIM8J8i0mSj1)
 
 ### Lunch Roulette Groups
-(TBD)
+
 * Matt Pindell, Brian Sayler, Trent Whitinger, Kinan Whyte, Jeff Duke
 * Alireza Andersen, Kerry Sheldon, Jason Hanna, Susi Irwin, Brett Hevia
 * Claudia Kiesenhofer, Parker Phillips, Pat Wentz, Ben Pepper, Benjamin Godfrey
@@ -63,7 +63,7 @@ layout: outline
     <tr>
       <td>1605</td>
       <td>Classroom B</td>
-      <td>Rush Hour Worktime</td>
+      <td><p>LittleShop Worktime and Little Shop Retro</p><p>[Retro Prompt](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8)</p></td>
     </tr>
     <tr>
       <td>1606-WAD</td>
