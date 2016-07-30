@@ -13,11 +13,17 @@ layout: outline
 
 ### Scale Up Retro (9:00 - 12:00)
 
-Classroom C.
+Big Workspace
+
+[Agenda Here!](https://gist.github.com/rrgayhart/d8569bc41ea0f6dbf49b215e241daa74)
 
 ### The Plan (1:00 - 1:30)
 
 Classroom C.
+
+Let's get together and talk about the last baby assignment of Module 4.
+
+[Here Is the Plan](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/the-plan)
 
 ### The Plan Work Time (1:30 - 4:00)
 
@@ -26,7 +32,6 @@ Wherever you may go.
 ### After Hours: Career Discussion (4:00 - 5:30)
 
 TBA.
-
 
 ## 1603
 
