@@ -81,15 +81,15 @@ Classroom B
 
 With Meeka:
 
-2:00 Jason, Trent, Caleb
-2:30 Chris, Roberta, Tommasina
+* 2:00 Jason, Trent, Caleb
+* 2:30 Chris, Roberta, Tommasina
 
 With Andrew:
 
-1:00 Matt P, Lin, David
-1:30 Ryan, Lane, Angela
-2:00 Pat, Kris, Yoseph
-2:30 Zack, Matt, Nicole, Garrett
+* 1:00 Matt P, Lin, David
+* 1:30 Ryan, Lane, Angela
+* 2:00 Pat, Kris, Yoseph
+* 2:30 Zack, Matt, Nicole, Garrett
 
 ## 1606-B
 
