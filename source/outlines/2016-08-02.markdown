@@ -13,6 +13,8 @@ Sign Up Your Projects to Demo on [Thursday Night Demo Night](http://www.meetup.c
 
 ## 1602
 
+[Final Countdown Document](https://gist.github.com/rrgayhart/35784c39bc7dcb8561fcbd68ef34c98f)
+
 ### Final Assessment (ALL DAY)
 
 You have all day to wrap up the mock assessment/assigned improvements.
