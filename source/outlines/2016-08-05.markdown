@@ -42,18 +42,17 @@ TBD
     </tr>
     <tr>
       <td>
-        <!-- With Mike
+        <p>Classroom C</p>
         <ul>
-          <li>Time - Student</li>
+          <li>Christopher Soden</li>
+          <li>Erin Greenhalgh</li>
+          <li>Jennifer Soden</li>
+          <li>Karina Gonzalez</li>
+          <li>Deborah Hamel</li>
+          <li>Robert Jaeger</li>
+          <li>Lucy Fox</li>
+          <li>Brian Sayler</li>
         </ul>        
-        With Jeff
-        <ul>
-          <li>Time - Student</li>
-        </ul>
-        With Beth
-        <ul>
-          <li>Time - Student</li>
-        </ul> -->
       </td>
       <td>
         <!-- With Andrew
@@ -66,17 +65,18 @@ TBD
         </ul> -->
       </td>
       <td>
-        <p>Classroom C</p>
+        <!-- With Mike
         <ul>
-          <li>Christopher Soden</li>
-          <li>Erin Greenhalgh</li>
-          <li>Jennifer Soden</li>
-          <li>Karina Gonzalez</li>
-          <li>Deborah Hamel</li>
-          <li>Robert Jaeger</li>
-          <li>Lucy Fox</li>
-          <li>Brian Sayler</li>
+          <li>Time - Student</li>
         </ul>        
+        With Jeff
+        <ul>
+          <li>Time - Student</li>
+        </ul>
+        With Beth
+        <ul>
+          <li>Time - Student</li>
+        </ul> -->
       </td>
     </tr>
   </tbody>
