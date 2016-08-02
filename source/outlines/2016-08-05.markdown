@@ -42,7 +42,7 @@ TBD
     </tr>
     <tr>
       <td>
-        <p>Classroom C</p>
+        <p>Classroom C - (9:00 - 1:00)</p>
         <ul>
           <li>Christopher Soden</li>
           <li>Erin Greenhalgh</li>
