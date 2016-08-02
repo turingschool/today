@@ -66,6 +66,7 @@ TBD
         </ul> -->
       </td>
       <td>
+        <p>Classroom C</p>
         <ul>
           <li>Christopher Soden</li>
           <li>Erin Greenhalgh</li>
