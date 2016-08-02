@@ -46,9 +46,9 @@ TBD
         <ul>
           <li>Christopher Soden</li>
           <li>Erin Greenhalgh</li>
-          <li>Jennifer Soden</li>
           <li>Karina Gonzalez</li>
-          <li>Deborah Hamel</li>
+          <li>Kerry Sheldon</li>
+          <li>Ryan Batty</li>
           <li>Robert Jaeger</li>
           <li>Lucy Fox</li>
           <li>Brian Sayler</li>
