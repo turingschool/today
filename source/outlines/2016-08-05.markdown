@@ -1,5 +1,5 @@
 ---
-title: 20160729
+title: 20160805
 layout: outline
 ---
 
@@ -20,13 +20,16 @@ Build a simple one-page static site to learn about HTML and CSS fundamentals by 
 * **Conway's Game of Life** with TBD  
 We'll partner up in cross-cohort pairs for a few sessions of implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-* **How to Make or Break a Breadboard** with TBD  
+* **How to Make or Break a Breadboard** with M1 Extraordinaires   
 A breadboard is a construction base for prototyping of electronics. Though we now know these as fancy plastic boards, the first iterations were literally polished pieces of wood used for slicing bread.
 
-* **Lock Picking** with TBD  
+* **Lock Picking** with Heidi  
 Close those laptops and get down with some old fashioned hacking.
 
-### Cross-Cohort Agile Retrospective (11:30 - 12:30)
+* **Deep Learning: Intelligence from Big Data**
+We'll be watching this [MIT Enterprise Forum Bay Area presentation](https://www.youtube.com/watch?v=czLI3oLDe8M) with Steve Jurvetson.
+
+### Cross-Cohort Planning Session (11:30 - 12:30)
 Meet in the Big Workspace.
 
 ### Lunch Roulette Groups (12:30 - 1:45)
