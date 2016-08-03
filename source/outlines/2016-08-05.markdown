@@ -55,14 +55,28 @@ TBD
         </ul>        
       </td>
       <td>
-        <!-- With Andrew
+        <p>Classroom: Horace's Lair - (9:00 - 1:00)</p>
         <ul>
-          <li>Time - Student</li>
+          <li>Angela Lindow</li>
+          <li>Chris Concannon</li>
+          <li>David Tinianow</li>
+          <li>Tommasina Miller</li>
+          <li>Nicole Marino</li>
+          <li>Garrett Smestad</li>
+          <li>Jason Hanna</li>
+          <li>Trent Whitinger</li>
+          <li>Lane Winham</li>
+          <li>Lin McCartney</li>
+          <li>Matt Campbell</li>
+          <li>Kris Sparks</li>
+          <li>Pat Wentz</li>
+          <li>Roberta Doyle</li>
+          <li>Ryan Flach</li>
+          <li>Matt Packer</li>
+          <li>Caleb Cowen</li>
+          <li>Yoseph Anderson</li>
+          <li>Zach Forbing</li>
         </ul>        
-        With Casey
-        <ul>
-          <li>Time - Student</li>
-        </ul> -->
       </td>
       <td>
         <!-- With Mike
