@@ -116,6 +116,7 @@ Classroom B.
 <ul>
   <li>Angela Lindow</li>
   <li>Chris Concannon</li>
+  <li>Kris Sparks</li>
   <li>David Tinianow</li>
   <li>Tommasina Miller</li>
   <li>Nicole Marino</li>
@@ -125,7 +126,6 @@ Classroom B.
   <li>Lane Winham</li>
   <li>Lin McCartney</li>
   <li>Matt Campbell</li>
-  <li>Kris Sparks</li>
   <li>Pat Wentz</li>
   <li>Roberta Doyle</li>
   <li>Ryan Flach</li>
