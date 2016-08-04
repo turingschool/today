@@ -8,16 +8,27 @@ layout: outline
 
 ### Announcements
 
+Sign Up Your Projects to Demo on [Thursday Night Demo Night](http://www.meetup.com/Turing-Community-Events/events/232879633/)
+
+[Sign Up Here](https://goo.gl/forms/xFnaV0Ms1ZSGC9Wn2)
 
 ## 1602
 
+[Final Countdown Document](https://gist.github.com/rrgayhart/35784c39bc7dcb8561fcbd68ef34c98f)
+
 ### Scale Up Retro (9:00 - 12:00)
 
-Classroom C.
+Big Workspace
+
+[Agenda Here!](https://gist.github.com/rrgayhart/d8569bc41ea0f6dbf49b215e241daa74)
 
 ### The Plan (1:00 - 1:30)
 
 Classroom C.
+
+Let's get together and talk about the last baby assignment of Module 4.
+
+[Here Is the Plan](https://github.com/turingschool/ruby-submissions/tree/master/1602/module_4_assignments/the-plan)
 
 ### The Plan Work Time (1:30 - 4:00)
 
@@ -27,28 +38,60 @@ Wherever you may go.
 
 TBA.
 
-
 ## 1603
 
 ### Getting started with Workers (9:00 - 12:00)
 
-Classroom A.
+Classroom C.
 
 ### Project Check Ins and Work Time (1:00 - 4:00)
 
-Schedule TBD.
+#### With Nate
+
+* Anna Weisbrodt
+* Marcella Wigg
+* Ryan Batty
+* Nick Pisciotta
+* Lucy Fox
+* Ilana Corson
+* Jennifer Soden
+
+#### With Sally (In Person)
+
+* Erin Greenhalgh
+* Kerry Sheldon
+* Colin Osborn
+* Deborah Hamel
+
+#### With Josh
+
+* Christopher Soden
+* Robert Jaeger
+* Parker Phillips
+* Brian Sayler & Charles Kaminer
+* Karina Gonzalez
+
 
 
 ## 1605
 
 ### Introduction to JavaScript (9:00 - 12:00)
 
-Classroom B;
+Classroom B
 
 ### Little Shop Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+With Meeka:
 
+* 2:00 Jason, Trent, Caleb
+* 2:30 Chris, Roberta, Tommasina
+
+With Andrew:
+
+* 1:00 Matt P, Lin, David
+* 1:30 Ryan, Lane, Angela
+* 2:00 Pat, Kris, Yoseph
+* 2:30 Zack, Matt, Nicole, Garrett
 
 ## 1606-B
 
@@ -73,4 +116,3 @@ Schedule TBD.
 ### Project Work Time (1:00 - 4:00)
 
 Finish up those Thursdays. Make sure theyre extra black.
-

@@ -1,0 +1,106 @@
+---
+title: 20160805
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605]()
+* [1606]()
+
+### Coding is Fun (10:00 - 11:30)
+Join one of the following workshops.  
+
+* **Make Stuff that Doesn't Look Awful** with TBD  
+Build a simple one-page static site to learn about HTML and CSS fundamentals by following [this](https://github.com/turingschool-examples/introductory-static-site) tutorial.
+
+* **Conway's Game of Life** with TBD  
+We'll partner up in cross-cohort pairs for a few sessions of implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+* **How to Make or Break a Breadboard** with M1 Extraordinaires   
+A breadboard is a construction base for prototyping of electronics. Though we now know these as fancy plastic boards, the first iterations were literally polished pieces of wood used for slicing bread.
+
+* **Lock Picking** with Heidi  
+Close those laptops and get down with some old fashioned hacking.
+
+* **Deep Learning: Intelligence from Big Data**
+We'll be watching this [MIT Enterprise Forum Bay Area presentation](https://www.youtube.com/watch?v=czLI3oLDe8M) with Steve Jurvetson.
+
+### Cross-Cohort Planning Session (11:30 - 12:30)
+Meet in the Big Workspace.
+
+### Lunch Roulette Groups (12:30 - 1:45)
+TBD
+
+### Portfolio Review Schedule
+<table>
+  <tbody>
+    <tr>
+      <th>1603</th>
+      <th>1605</th>
+      <th>1606</th>
+    </tr>
+    <tr>
+      <td>
+        <p>Classroom C - (9:00 - 1:00)</p>
+        <ul>
+          <li>Christopher Soden</li>
+          <li>Erin Greenhalgh</li>
+          <li>Karina Gonzalez</li>
+          <li>Kerry Sheldon</li>
+          <li>Ryan Batty</li>
+          <li>Robert Jaeger</li>
+          <li>Lucy Fox</li>
+          <li>Brian Sayler</li>
+        </ul>        
+      </td>
+      <td>
+        <p>Classroom: Horace's Lair - (9:00 - 1:00)</p>
+        <ul>
+          <li>Angela Lindow</li>
+          <li>Chris Concannon</li>
+          <li>Kris Sparks</li>
+          <li>David Tinianow</li>
+          <li>Tommasina Miller</li>
+          <li>Nicole Marino</li>
+          <li>Garrett Smestad</li>
+          <li>Jason Hanna</li>
+          <li>Trent Whitinger</li>
+          <li>Lane Winham</li>
+          <li>Lin McCartney</li>
+          <li>Matt Campbell</li>
+          <li>Pat Wentz</li>
+          <li>Roberta Doyle</li>
+          <li>Ryan Flach</li>
+          <li>Matt Packer</li>
+          <li>Caleb Cowen</li>
+          <li>Yoseph Anderson</li>
+          <li>Zach Forbing</li>
+        </ul>        
+      </td>
+      <td>
+        <!-- With Mike
+        <ul>
+          <li>Time - Student</li>
+        </ul>        
+        With Jeff
+        <ul>
+          <li>Time - Student</li>
+        </ul>
+        With Beth
+        <ul>
+          <li>Time - Student</li>
+        </ul> -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Group Retro (1:45 - 3:00)
+* 1603 - Classroom C
+* 1605 - Classroom B
+* 1606 Back-End - Big Workspace
+* 1606 Front-End - Classroom A

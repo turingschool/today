@@ -7,8 +7,13 @@ layout: outline
 
 ### Announcements
 
+Sign Up Your Projects to Demo on [Thursday Night Demo Night](http://www.meetup.com/Turing-Community-Events/events/232879633/)
+
+[Sign Up Here](https://goo.gl/forms/xFnaV0Ms1ZSGC9Wn2)
 
 ## 1602
+
+[Final Countdown Document](https://gist.github.com/rrgayhart/35784c39bc7dcb8561fcbd68ef34c98f)
 
 ### Portfolio Reviews (9:00 - 12:00)
 
@@ -20,6 +25,7 @@ These will be taking place in this order.
 * Ashwin Rao
 * Chad Ellison
 * Claudia Kiesenhofer
+* Kris Foss
 * Gurusundesh Khalsa
 * Jared Roth
 * Jeneve Parrish
@@ -27,8 +33,7 @@ These will be taking place in this order.
 * Jonathan Liss
 * Joshua Washke
 * Kami Boers
-* Kris Foss
-* Ling ran
+* Ling Tran
 * Marina Corona
 * Mark Miranda
 * Matt Pindell
@@ -36,35 +41,99 @@ These will be taking place in this order.
 * Sal Espinosa
 * Thomas Pickett
 
-### Suprise Class (1:00 - 4:00)
-
-Classroom C.
-
-
 ## 1603
 
 ### Personal Project Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+Evals will be 20-30 minutes
 
-### Portfolio Reviews, Part One (1:00 - 4:00)
 
-Schedule TBD.
+#### With Nate
+
+* Anna Weisbrodt
+* Ilana Corson
+* Ryan Batty
+* Jennifer Soden
+* Nick Pisciotta
+* Marcella Wigg
+* Lucy Fox
+
+#### With Sally (In Person)
+
+Sally's evals will start later, around 10:00.
+
+* Deborah Hamel
+* Kerry Sheldon
+* Colin Osborn
+* Erin Greenhalgh
+
+#### With Josh
+
+* Brian Sayler & Charles Kaminer
+* Parker Phillips
+* Christopher Soden
+* Robert Jaeger
+* Karina Gonzalez
+
+### Portfolio Reviews, Part One (1:00 - 5:00)
+
+We'll meet with you in Classroom C
+
+* Anna Weisbrodt
+* Ilana Corson
+* Marcella Wigg
+* Colin Osborn
+* Nick Pisciotta
+* Charles Kaminer
+* Parker Phillips
+* Jennifer Soden
+* Deborah Hamel
 
 
 ## 1605
 
 ### Little Shop Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### Andrew - TBD
+
+* (9:00 - 9:45)  Matthew Packer & David Tinianow & Linda McCartney
+* (9:45 - 10:30) Angela Lindow & Ryan Flach & Michael Lane Winham
+* (10:30 - 11: 15) Kris Sparks & Yoseph Anderson & Patrick Wentz
+
+#### Casey - Horace's Lair.
+
+* (9:00 - 9:45) Roberta Doyle & Tommasina Miller & Christopher Concannon
+* (9:45 - 10:30) Matthew Campbell & Nicole Marino & Garrett Smestad & Zachary Forbing
+* (10:30 - 11:15) Jason Hanna & Caleb Cowen & Trent Whitinger
+
 
 ### Demo Night Practice (1:00 - 12:00)
 
 Classroom B.
 
-### Portfolio Reviews, Part One (1:00 - 5:00)
+### Portfolio Reviews, Part One (12:00 - 5:00)
 
-Schedule TBD.
+<ul>
+  <li>Angela Lindow</li>
+  <li>Chris Concannon</li>
+  <li>Kris Sparks</li>
+  <li>David Tinianow</li>
+  <li>Tommasina Miller</li>
+  <li>Nicole Marino</li>
+  <li>Garrett Smestad</li>
+  <li>Jason Hanna</li>
+  <li>Trent Whitinger</li>
+  <li>Lane Winham</li>
+  <li>Lin McCartney</li>
+  <li>Matt Campbell</li>
+  <li>Pat Wentz</li>
+  <li>Roberta Doyle</li>
+  <li>Ryan Flach</li>
+  <li>Matt Packer</li>
+  <li>Caleb Cowen</li>
+  <li>Yoseph Anderson</li>
+  <li>Zach Forbing</li>
+</ul>        
 
 
 ## 1606-B
@@ -87,5 +156,3 @@ Schedule TBD.
 * 9:00 - Nate and Jean
 * 9:45 - Brendan and Brian
 * 10:30 - Chase and Vido
-
-
