@@ -5,11 +5,10 @@ layout: outline
 
 ## All
 
-<!-- ### Surveys
-
+### Surveys
 * [1603]()
-* [1605]()
-* [1606]() -->
+* [1605](https://docs.google.com/forms/d/e/1FAIpQLSe76qtSUtw-1MnIWhDq--8WO2Ai1xypQWbcZJkxqQtlAWmThw/viewform)
+* [1606]()
 
 ### Coding is Fun (10:00 - 11:30)
 Join one of the following workshops.  
