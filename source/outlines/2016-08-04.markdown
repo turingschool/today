@@ -25,6 +25,7 @@ These will be taking place in this order.
 * Ashwin Rao
 * Chad Ellison
 * Claudia Kiesenhofer
+* Kris Foss
 * Gurusundesh Khalsa
 * Jared Roth
 * Jeneve Parrish
@@ -32,8 +33,7 @@ These will be taking place in this order.
 * Jonathan Liss
 * Joshua Washke
 * Kami Boers
-* Kris Foss
-* Ling ran
+* Ling Tran
 * Marina Corona
 * Mark Miranda
 * Matt Pindell
