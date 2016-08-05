@@ -25,7 +25,7 @@ We'll partner up in cross-cohort pairs for a few sessions of implementing [Conwa
 *Kitchen*  
 Close those laptops and get down with some old fashioned hacking.
 
-* **Deep Learning: Intelligence from Big Data** with Jean
+* **Deep Learning: Intelligence from Big Data** with Jean  
 *Big Workspace*  
 We'll be watching this [MIT Enterprise Forum Bay Area presentation](https://www.youtube.com/watch?v=czLI3oLDe8M) with Steve Jurvetson.
 
