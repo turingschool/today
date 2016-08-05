@@ -6,7 +6,7 @@ layout: outline
 ## All
 
 ### Surveys
-<!-- * [1603]() -->
+* [1603](https://goo.gl/forms/id2FYXi6uSIdac2X2)
 * [1605](https://docs.google.com/forms/d/e/1FAIpQLSe76qtSUtw-1MnIWhDq--8WO2Ai1xypQWbcZJkxqQtlAWmThw/viewform)
 * [1606](https://goo.gl/forms/S32A6Mlgm3RY7tLi1)
 
@@ -46,6 +46,8 @@ You're on your own.
       <td>
         <p>Classroom C - (9:00 - 1:00)</p>
         <ul>
+          <li>Jennifer Soden</li>
+          <li>Deborah Hamel</li>
           <li>Christopher Soden</li>
           <li>Erin Greenhalgh</li>
           <li>Karina Gonzalez</li>
