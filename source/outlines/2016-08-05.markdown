@@ -75,5 +75,5 @@ You're on your own.
 ### Group Retro (1:45 - 3:00)
 * 1603 - Classroom C
 * 1605 - Classroom B
-* 1606 Back-End - Big Workspace
-* 1606 Front-End - Classroom A
+* 1606 Front-End - Big Workspace
+* 1606 Back-End - Classroom A
