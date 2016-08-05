@@ -6,27 +6,27 @@ layout: outline
 ## All
 
 ### Surveys
-* [1603]()
+<!-- * [1603]() -->
 * [1605](https://docs.google.com/forms/d/e/1FAIpQLSe76qtSUtw-1MnIWhDq--8WO2Ai1xypQWbcZJkxqQtlAWmThw/viewform)
-* [1606]()
+<!-- * [1606]() -->
 
 ### Coding is Fun (10:00 - 11:30)
 Join one of the following workshops.  
 
-* **Make Stuff that Doesn't Look Awful** with TBD  
+* **Make Stuff that Doesn't Look Awful** with Louisa  
 *Classroom A*  
 Build a simple one-page static site to learn about HTML and CSS fundamentals by following [this](https://github.com/turingschool-examples/introductory-static-site) tutorial.
 
 * **Conway's Game of Life** with Kerry, Robbie and Brian (and possible special guest (!))  
-*Big Workspace*  
+*Classroom C*  
 We'll partner up in cross-cohort pairs for a few sessions of implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 * **Lock Picking** with Heidi  
-*Classroom B*  
+*Kitchen*  
 Close those laptops and get down with some old fashioned hacking.
 
-* **Deep Learning: Intelligence from Big Data**  
-*Classroom C*  
+* **Deep Learning: Intelligence from Big Data** with Jean
+*Big Workspace*  
 We'll be watching this [MIT Enterprise Forum Bay Area presentation](https://www.youtube.com/watch?v=czLI3oLDe8M) with Steve Jurvetson.
 
 ### Cross-Cohort Planning Session (11:30 - 12:30)
@@ -41,7 +41,6 @@ You're on your own.
     <tr>
       <th>1603</th>
       <th>1605</th>
-      <th>1606</th>
     </tr>
     <tr>
       <td>
@@ -68,9 +67,6 @@ You're on your own.
           <li>Yoseph Anderson</li>
           <li>Zach Forbing</li>
         </ul>        
-      </td>
-      <td>
-        TBD
       </td>
     </tr>
   </tbody>
