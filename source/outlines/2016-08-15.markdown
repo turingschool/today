@@ -1,0 +1,115 @@
+---
+title: 20160815
+layout: outline
+---
+
+## Announcements
+
+
+## All
+
+NAME TAGS ALL WEEK
+
+### State of Turing (9:00 - 9:30)
+
+It's in the Big Workspace
+
+
+## 1603
+
+### Module 4 Kickoff (9:30 - 11:00)
+
+The Beginning of the End.  Classroom C.
+
+### Ideabox 2.0 Kickoff (11:00 - 12:00)
+
+Those ideas will definitely not box themselves.
+
+### Debugging JavaScript (1:00 - 2:30)
+
+Classroom C.
+
+### Fundamentaks: DOM Manupulation with JavaScript (2:30 - 4:00)
+
+Classroom C.
+
+
+## 1605
+
+### The Pivot Kickoff (9:30 - 11:00)
+
+Classroom B.
+
+### The Pivot Work Time and Check Ins (11:00 - 4:00)
+
+Schedule TBA.
+
+
+## 1606
+
+### Module 2 Intro and Goal Setting (9:30 - 10:30)
+
+Big Workspace
+
+### Introduction to Sinatra / Task Manager (10:30 - 12:00)
+
+Big Workspace.
+
+### Introduction to Bootstrap (1:00 - 4:00)
+
+Classroom B.
+
+
+## 1608-B
+
+### Staff Introductions (8:30 - 9:00)
+
+Big Workspace.
+
+### State of Turing (9:00 - 9:30)
+
+Find out what's going on at Turing.  Stay in the Big Workspace.
+
+### Tour and Getting Started (9:30 - 10:00)
+
+Mike will give you a tour of the space and neighborhood.
+
+### Success at Turing (10:00 - 11:30)
+
+Join Jeff in Classroom A.
+
+### Introduction to Portfolios and Personal Goal Setting (11:30 - 12:00)
+
+Classroom A.
+
+### Student Introduction Lunch (12:00 - 1:00)
+
+You know about us, now it's time to get to know you. Lunch is on us.
+
+### Echo: Ruby in 90 Minutes (1:00 - 3:00)
+
+Location TBD.
+
+### Foxtrot: Strings and Integers (1:00 - 3:00)
+
+Location TBD.
+
+### All: Drills Kickoff (3:00 - 3:30)
+
+Classroom A.
+
+### Echo: Sorting (3:30 - 4:00)
+
+Go find Beth.
+
+### Foxtrot: Drills Office Hours Setup (3:30 - 4:00)
+
+Let's make sure everything is working.
+
+### Homework
+
+* Echo: Sorting, Super Fizz
+* Foxtrot: Working with Strings and Integers
+* All: Listing Files, Working with Files, and Working With Directories
+
+
