@@ -17,22 +17,40 @@ It's in the Big Workspace
 
 ## 1603
 
-### Module 4 Kickoff (9:30 - 11:00)
+### Module 4 KickOff (9:30 - 11:00)
 
-The Beginning of the End.  Classroom C.
+Gather up in Classroom C. We will go over what it means to be in Module 4, balancing job hunting with learning, the points system, and more.
+
+- [The Module 4 Mothership](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments)
 
 ### Ideabox 2.0 Kickoff (11:00 - 12:00)
 
-Those ideas will definitely not box themselves.
+Meeka kicks off your very first project.
+
+- [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/ideabox2.0)
 
 ### Debugging JavaScript (1:00 - 2:30)
 
 Classroom C.
 
-### Fundamentaks: DOM Manupulation with JavaScript (2:30 - 4:00)
+We kick off our very first lesson!
 
-Classroom C.
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
 
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
+### (Optional) Fundamentals: DOM Manipulation with JavaScript (2:30 - 4:00)
+
+If you're feeling like you want a refresher on DOM manipulation with JavaScript - check out this optional self directed lesson:
+
+[DOM Manipulation with JavaScript](http://frontend.turing.io/lessons/dom-manipulation-with-javascript.html)
+
+Otherwise, dig in and get started with IdeaBox!
+
+### Homework
+
+[ES6 Assignment](https://gist.github.com/rrgayhart/4c0784c9aa2f427017891c05a46bf7a2) (5 points)
 
 ## 1605
 
@@ -124,5 +142,3 @@ Let's make sure everything is working.
 * Echo: Sorting, Super Fizz
 * Foxtrot: Working with Strings and Integers
 * All: Listing Files, Working with Files, and Working With Directories
-
-
