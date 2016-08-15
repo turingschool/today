@@ -1,0 +1,74 @@
+---
+title: 20160817
+layout: outline
+---
+
+## Announcements
+
+## All
+
+NAME TAGS ALL WEEK
+
+
+## 1603
+
+### Array Prototype Methods (9:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+The thing the thing. Do the thing.
+
+
+## 1605
+
+### Multi Tenancy Authorization (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+The thing the thing. Do the thing.
+
+
+## 1606-B
+
+### CRUD Homework Review (9:00 - 9:30)
+
+Big Workspace
+
+### Model Testing in Sinatra (9:30 - 11:30)
+
+Big Workspace
+
+### Nokogiri in Action (11:30 - 12:00)
+
+Big Workspace.
+
+### Templating with ERB (1:00 - 2:00)
+
+Classroom C.
+
+### Feature Testing with Capybara (2:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Introducing Arrays (9:00 - 10:30)
+
+Join Jeff in Classroom A, for some fun with arts and crafts.
+
+### All: Exploring .each (10:30 - 12:00)
+
+Mike tags in and teaches you about how to work with things in arrays.
+
+### Project Work Time and One on Ones (1:00 - 4:00)
+
+Schedule TBD.
+
+### Homework
+
+* Drills

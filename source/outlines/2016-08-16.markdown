@@ -1,0 +1,95 @@
+---
+title: 20160816
+layout: outline
+---
+
+## ANNOUNCEMENTS
+
+## All
+
+NAME TAGS ALL WEEK.
+
+
+## 1603
+
+### Functions and Unit Testing JavaScript (9:00 - 12:00)
+
+Classroom C.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD
+
+
+## 1605
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Classroom B.
+
+### Understanding Multi-Tenancy (10:00 - 12:00)
+
+Classroom B.
+
+
+## 1606-B
+
+### HTML-CSS Partner Review (9:00 - 9:30)
+
+Big Workspace.
+
+### HTML-CSS Review (9:30 - 10:00)
+
+Big Workspace
+
+### Ruby Pairing (10:00 - 11:00)
+
+Big Workspace
+
+### How the Web Works (11:00 - 12:00)
+
+Big Workspace
+
+
+## 1608-B
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentoring Q & A (9:30 - 10:00)
+
+Stay in Classroom A.
+
+### All: Dynamics (10:00 - 12:00)
+
+Classroom A.
+
+### All: Headshots (12:00 - 1:00)
+
+Schedule TBA, Upstairs in the Lobby
+
+### Echo:  SuperFizzBuzz/Sorting Recap (1:00 - 1:30)
+
+Location TBD.
+
+### Foxtrot: Strings and Integers Recap (1:00 - 1:30)
+
+Location TBD.
+
+### Echo: Strings and Integers Riddles (1:30 - 3:00)
+
+Location TBD.
+
+### Foxtrot: Flow Control (1:30 - 3:00)
+
+Location TBD.
+
+### Student Activities Mixer (3:00 - 4:00)
+
+Classroom A.
+
+### Homework
+
+* All:  Eloquent Ruby Chapters 3 & 4.
+
