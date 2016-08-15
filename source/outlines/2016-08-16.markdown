@@ -18,7 +18,23 @@ Classroom C.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD
+#### With Meeka
+
+- Nick Pisciotta
+- Parker Phillips
+- Robert Jaeger
+- Ryan Batty
+- Ilana Corson
+- Anna Weisbrodt
+
+#### With Nate
+
+- Lucy Fox
+- Marcella Wigg
+- Charles Kaminer
+- Christopher Soden
+- Erin Greenhalgh
+- Brian Sayler
 
 
 ## 1605
@@ -102,4 +118,3 @@ Classroom A.
 ### Homework
 
 * All:  Eloquent Ruby Chapters 3 & 4.
-
