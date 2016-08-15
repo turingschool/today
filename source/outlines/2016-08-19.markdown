@@ -1,0 +1,46 @@
+---
+title: 20160819
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1602]()
+* [1603]()
+* [1605]()
+* [1606]()
+
+### Lunch Roulette Groups
+TBD
+
+### Guest Speaker - Erik Michaels-Ober (9:00 - 10:00)
+* [LinkedIn](https://www.linkedin.com/in/sferik)
+* [Twitter](https://twitter.com/sferik)
+* [Github](https://github.com/sferik)
+
+### Academic Time (10:00 - 12:00)
+|Cohort|Location|Lesson Plans|
+|------|--------|------------|
+|1603  |||
+|1605  |||
+|1606-b|||
+|1608-b|||
+
+### Gear Up (1:15 - 2:15)
+Meet in the Big Workspace for this week's individual-themed Gear Up.
+
+### Friday Spike (2:15 - 3:15)
+|Theme|Organizer|Session Title|Location|
+|------|--------|------------|----------|
+|Civic Tech|Pahlka Posse|Civic Tech 101|TBD|
+
+
+### Group Retro (3:15 - 4:00)
+* 1603 - TBD
+* 1605 - Big Workspace
+* 1606-b - Classroom B
+* 1606-f - TBD
+* 1608-b - Classroom A
+* 1608-f - TBD
