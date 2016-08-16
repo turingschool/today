@@ -12,9 +12,21 @@ NAME TAGS ALL WEEK.
 
 ## 1603
 
-### Functions and Unit Testing JavaScript (9:00 - 12:00)
+### Intro to Functions in JavaScript (9:00 - 12:00)
+
+[Lesson Plan 1](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
+
+[Lesson Plan 2](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
 
 Classroom C.
+
+### Unit Testing JavaScript in Rails (10:00 - 12:00)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+
+[Slide Deck](https://speakerdeck.com/rrgayhart/turing-testing-js-in-rails)
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
