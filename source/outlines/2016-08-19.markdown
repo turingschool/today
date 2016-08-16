@@ -18,7 +18,11 @@ TBD
 ### Guest Speaker - Erik Michaels-Ober (9:00 - 10:00)
 * [LinkedIn](https://www.linkedin.com/in/sferik)
 * [Twitter](https://twitter.com/sferik)
-* [Github](https://github.com/sferik)
+
+*Erik will be telling the story of his career, why he got involved with OSS and what he’s doing now with his career.
+
+*Who is Erik Michaels-Ober?*
+Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ruby Hero Award in 2014 for his contributions to open-source, including RailsAdmin, Thor, RubyGems.org, and the Twitter gem. He was a 2010 Ruby Summer of Code mentor, 2011 Google Summer of Code mentor, and Rails Girls Summer of Code coach from 2013 to 2015 while working at SoundCloud in Berlin, Germany. He is currently a senior software engineer at Instacart in San Francisco.
 
 ### Academic Time (10:00 - 12:00)
 |Cohort|Location|Lesson Plans|
