@@ -64,11 +64,11 @@ Classroom B.
 
 Big Workspace.
 
-### HTML-CSS Review (9:30 - 10:00)
+### Homework Review (9:30 - 10:00)
 
 Big Workspace
 
-### Ruby Pairing (10:00 - 11:00)
+### Intro to Wireframing & Templating with ERB (10:00 - 11:00)
 
 Big Workspace
 
@@ -76,6 +76,9 @@ Big Workspace
 
 Big Workspace
 
+### CRUD and Sinatra Workshop (1:00 - 4:00)
+
+Classroom C
 
 ## 1608-B
 
