@@ -27,7 +27,7 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 ### Academic Time (10:00 - 12:00)
 |Cohort|Location|Lesson Plans|
 |------|--------|------------|
-|1603  |||
+|1603  | Gusto  ||
 |1605  |||
 |1606-b|||
 |1608-b|||
