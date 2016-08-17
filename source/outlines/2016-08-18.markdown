@@ -61,7 +61,9 @@ Classroom B.
 
 ### SQL (9:30 - 10:30)
 
-Classroom B.
+Classroom B
+
+Come with questions from your homework, then we'll [workshop](http://fast-reaches-92707.herokuapp.com/).
 
 ### Intro to ORMs and Task Manager Transformation (10:30 - 12:00)
 
