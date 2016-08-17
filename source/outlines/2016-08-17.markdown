@@ -46,13 +46,12 @@ Meet Jorge in Classroom B to learn how to build your own authorization strategy 
 
 For this class, please clone the repo running this command:
 ```
-$ git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
 ```
 
 Remember to bundle, and setup the database:
 ```
-$ bundle install
-$ rake db:setup
+bundle install && rake db:setup
 ```
 
 The class materials are the following:
