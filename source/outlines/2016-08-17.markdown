@@ -79,7 +79,7 @@ Big Workspace
 
 Big Workspace.
 
-### Templating with ERB (1:00 - 2:00)
+### Ruby Pairing (1:00 - 2:00)
 
 Classroom C.
 
