@@ -110,6 +110,7 @@ Mike tags in and teaches you about how to work with things in arrays.
 * 2:30 - Nick Martinez
 * 2:40 - Noah Berman
 * 2:50 - Vido Seaver
+* 3:00 - Brandon Randall
 
 #### With Mike
 
