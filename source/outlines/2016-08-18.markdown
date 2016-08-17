@@ -14,13 +14,15 @@ NAME TAGS ALL WEEK
 
 ### Event Bubbling and Delegation (9:15 - 10:30)
 
-Classroom C.
+Classroom C. As in Champus.
 
 ### Intro to OO JavaScript (10:30 - 12:00)
 
-Classroom C.
+Classroom C. As in Champus.
 
 ### Ideabox Tutorial / Ideabox Evals (1:15 - 3:45)
+
+Classroom C. As in Champus.
 
 #### With Meeka
 
