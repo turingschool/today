@@ -42,7 +42,24 @@ The thing the thing. Do the thing.
 
 ### Multi Tenancy Authorization (9:00 - 12:00)
 
-Classroom B.
+Meet Jorge in Classroom B to learn how to build your own authorization strategy from scratch.
+
+For this class, please clone the repo running this command:
+```
+$ git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+Remember to bundle, and setup the database:
+```
+$ bundle install
+$ rake db:setup
+```
+
+The class materials are the following:
+
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7Ym03dmd0THBkNVE/view?usp=sharing)
+* [Repo](https://github.com/turingschool-examples/storedom/tree/multitenancy_authorization)
+* Video (It will be posted after the session)
 
 ### Project Work Time (1:00 - 4:00)
 
