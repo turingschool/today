@@ -58,7 +58,7 @@ The class materials are the following:
 
 * [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7Ym03dmd0THBkNVE/view?usp=sharing)
 * [Repo](https://github.com/turingschool-examples/storedom/tree/multitenancy_authorization)
-* Video (It will be posted after the session)
+* [Video](https://vimeo.com/142417673)
 
 ### Project Work Time (1:00 - 4:00)
 
