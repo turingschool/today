@@ -69,15 +69,15 @@ The thing the thing. Do the thing.
 
 ### CRUD Homework Review (9:00 - 9:30)
 
-Big Workspace
+Classroom C
 
 ### Model Testing in Sinatra (9:30 - 11:30)
 
-Big Workspace
+Classroom C
 
 ### Nokogiri in Action (11:30 - 12:00)
 
-Big Workspace.
+Classroom C
 
 ### Ruby Pairing (1:00 - 2:00)
 
