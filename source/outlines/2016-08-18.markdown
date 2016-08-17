@@ -12,7 +12,7 @@ NAME TAGS ALL WEEK
 
 ## 1603
 
-### Event Bubbling and Delegation (9:00 - 10:30)
+### Event Bubbling and Delegation (9:15 - 10:30)
 
 Classroom C.
 
@@ -20,7 +20,7 @@ Classroom C.
 
 Classroom C.
 
-### Ideabox Tutorial / Ideabox Evals (1:00 - 4:00)
+### Ideabox Tutorial / Ideabox Evals (1:15 - 3:45)
 
 #### With Meeka
 
