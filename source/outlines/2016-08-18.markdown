@@ -65,7 +65,11 @@ Classroom B
 
 Come with questions from your homework, then we'll [workshop](http://fast-reaches-92707.herokuapp.com/).
 
-### Intro to ORMs and Task Manager Transformation (10:30 - 12:00)
+### Model & Feature Testing 2.0 (10:30 - 11:30)
+
+Classroom B
+
+### Intro to ORMs(11:30 - 12:00)
 
 Classroom B.
 
