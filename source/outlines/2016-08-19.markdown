@@ -7,10 +7,10 @@ layout: outline
 
 ### Surveys
 
-* [1602]()
 * [1603](https://goo.gl/forms/EUCb5KLugovjz3Xd2)
 * [1605]()
 * [1606]()
+* [1602]()
 
 ### Lunch Roulette Groups
 TBD
@@ -27,7 +27,7 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 ### Academic Time (10:00 - 12:00)
 |Cohort|Location|Lesson Plans|
 |------|--------|------------|
-|1603  |||
+|1603  | Gusto  | Linked Lists in Javascript |
 |1605  |||
 |1606-b|||
 |1608-b|||
@@ -42,7 +42,7 @@ Meet in the Big Workspace for this week's individual-themed Gear Up.
 
 
 ### Group Retro (3:15 - 4:00)
-* 1603 - TBD
+* 1603 - Classroom C
 * 1605 - Big Workspace
 * 1606-b - Classroom B
 * 1606-f - TBD
