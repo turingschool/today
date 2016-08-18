@@ -9,38 +9,46 @@ layout: outline
 
 NAME TAGS ALL WEEK
 
-
 ## 1603
 
 ### Event Bubbling and Delegation (9:15 - 10:30)
 
 Classroom C. As in Champus.
 
-### Intro to OO JavaScript (10:30 - 12:00)
+### Intro to OO JavaScript (10:45 - 12:00)
 
 Classroom C. As in Champus.
 
-### Ideabox Tutorial / Ideabox Evals (1:15 - 3:45)
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 
-Classroom C. As in Champus.
+### Ideabox Work Time (1:00 - 1:45)
+
+Make sure you get those [submission forms](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/ideabox2.0) PR'd in!
+
+- 1:15 to 1:30: Ideabox Eval - Anna Weisbrodt
+
+### Ideabox Tutorial / Ideabox Evals (1:45 - 4:00)
+
+PENCILS DOWN on Ideabox
+
+Link to Ideabox Tutorial will be dropped in Slack!
 
 #### With Meeka
-
-- Anna Weisbrodt
-- Ilana Corson
-- Ryan Batty
-- Robert Jaeger
-- Parker Phillips
-- Nick Pisciotta
-
-#### With Nate
 
 - Brian Sayler
 - Erin Greenhalgh
 - Christopher Soden
 - Charles Kaminer
 - Marcella Wigg
+
+#### With Nate
+
 - Lucy Fox
+- Ilana Corson
+- Ryan Batty
+- Robert Jaeger
+- Parker Phillips
+- Nick Pisciotta
 
 ## 1605
 
