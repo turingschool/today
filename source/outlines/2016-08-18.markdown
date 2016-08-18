@@ -9,44 +9,65 @@ layout: outline
 
 NAME TAGS ALL WEEK
 
-
 ## 1603
+
+### Homework
+
+[Job Profiling Assignment](https://gist.github.com/rrgayhart/e6789e0b540705de9ed22b14ecb7182d) (15 points)
+
+_reminder: all assignments are due 7 days from the date assigned_
 
 ### Event Bubbling and Delegation (9:15 - 10:30)
 
 Classroom C. As in Champus.
 
-### Intro to OO JavaScript (10:30 - 12:00)
+### Intro to OO JavaScript (10:45 - 12:00)
 
 Classroom C. As in Champus.
 
-### Ideabox Tutorial / Ideabox Evals (1:15 - 3:45)
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 
-Classroom C. As in Champus.
+### Ideabox Work Time (1:00 - 1:45)
+
+Make sure you get those [submission forms](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/ideabox2.0) PR'd in!
+
+- 1:15 to 1:30: Ideabox Eval - Anna Weisbrodt
+
+### Ideabox Tutorial / Ideabox Evals (1:45 - 4:00)
+
+PENCILS DOWN on Ideabox
+
+Link to Ideabox Tutorial will be dropped in Slack!
 
 #### With Meeka
-
-- Anna Weisbrodt
-- Ilana Corson
-- Ryan Batty
-- Robert Jaeger
-- Parker Phillips
-- Nick Pisciotta
-
-#### With Nate
 
 - Brian Sayler
 - Erin Greenhalgh
 - Christopher Soden
 - Charles Kaminer
 - Marcella Wigg
+
+#### With Nate
+
 - Lucy Fox
+- Ilana Corson
+- Ryan Batty
+- Robert Jaeger
+- Parker Phillips
+- Nick Pisciotta
 
 ## 1605
 
 ### Project Work Time and Check Ins (9:00 - 3:00)
 
-Schedule TBD.
+#### With Sally (Remote)
+
+* (10:00 - 10:30) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (11:00 - 11:30) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (11:30 - 12:00) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (1:00 - 1:30)   - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+* (2:00 - 2:30)   - Garrett Smestad & Ryan Flach & Matthew Packer
+* (2:30 - 3:00)   - Trent Whitinger & Matthew Campbell & Jennifer Soden
 
 ### Professional Development (3:00 - 4:00)
 
@@ -67,7 +88,11 @@ Classroom B
 
 Come with questions from your homework, then we'll [workshop](http://fast-reaches-92707.herokuapp.com/).
 
-### Intro to ORMs and Task Manager Transformation (10:30 - 12:00)
+### Model & Feature Testing 2.0 (10:30 - 11:30)
+
+Classroom B
+
+### Intro to ORMs(11:30 - 12:00)
 
 Classroom B.
 
