@@ -9,16 +9,17 @@ layout: outline
 
 NAME TAGS ALL WEEK
 
-
 ## 1603
 
 ### Event Bubbling and Delegation (9:15 - 10:30)
 
 Classroom C. As in Champus.
 
-### Intro to OO JavaScript (10:30 - 12:00)
+### Intro to OO JavaScript (10:45 - 12:00)
 
 Classroom C. As in Champus.
+
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/01-introduction-to-object-oriented-javascript.md)
 
 ### Ideabox Tutorial / Ideabox Evals (1:15 - 3:45)
 
@@ -26,21 +27,21 @@ Classroom C. As in Champus.
 
 #### With Meeka
 
-- Anna Weisbrodt
-- Ilana Corson
-- Ryan Batty
-- Robert Jaeger
-- Parker Phillips
-- Nick Pisciotta
-
-#### With Nate
-
 - Brian Sayler
 - Erin Greenhalgh
 - Christopher Soden
 - Charles Kaminer
 - Marcella Wigg
 - Lucy Fox
+
+#### With Nate
+
+- Anna Weisbrodt
+- Ilana Corson
+- Ryan Batty
+- Robert Jaeger
+- Parker Phillips
+- Nick Pisciotta
 
 ## 1605
 
