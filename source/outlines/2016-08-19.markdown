@@ -16,6 +16,9 @@ layout: outline
 TBD
 
 ### Guest Speaker - Erik Michaels-Ober (9:00 - 10:00)
+
+Live stream at Blake Street! 
+
 * [LinkedIn](https://www.linkedin.com/in/sferik)
 * [Twitter](https://twitter.com/sferik)
 
@@ -27,10 +30,10 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1603   | Gusto  | Linked Lists in Javascript |
+| 1603   | Champa | Linked Lists in Javascript |
 | 1605   | Big Workspace | |
 | 1606-b | Classroom B |  |
-| 1606-f | Gusto | |
+| 1606-f | Champa | Linked Lists in Javascript |
 | 1608-b | Classroom A | |
 | 1608-f | Gusto | |
 
