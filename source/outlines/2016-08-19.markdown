@@ -26,10 +26,10 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 | ------ | -------- | ------------ |
 | 1603   | Gusto  | Linked Lists in Javascript |
 | 1605   | Big Workspace | |
-| 1606-b | Gusto |  |
-| 1606-f | Classroom B | |
-| 1608-b | Gusto | |
-| 1608-f | Classroom A | |
+| 1606-b | Classroom B |  |
+| 1606-f | Gusto | |
+| 1608-b | Classroom A | |
+| 1608-f | Gusto | |
 
 ### Lunch Roulette (12:00 - 1:15)
 * Chase Dunagan, Trent Whitinger, Blake Worsley, Alene Schlereth, Graham Nessler, Marcella Wigg
