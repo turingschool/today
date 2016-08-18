@@ -9,6 +9,7 @@ gem 'middleman-blog'
 gem 'foreman'
 gem 'puma'
 gem 'rack-contrib'
+gem 'redcarpet'
 
 group :test do
   gem 'rspec'

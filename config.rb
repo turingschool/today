@@ -57,6 +57,9 @@ set :css_dir,    'stylesheets'
 set :js_dir,     'javascripts'
 set :images_dir, 'images'
 
+set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true
+set :markdown_engine, :redcarpet
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
