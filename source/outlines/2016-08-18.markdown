@@ -11,6 +11,12 @@ NAME TAGS ALL WEEK
 
 ## 1603
 
+### Homework
+
+[Job Profiling Assignment](https://gist.github.com/rrgayhart/e6789e0b540705de9ed22b14ecb7182d) (15 points)
+
+_reminder: all assignments are due 7 days from the date assigned_
+
 ### Event Bubbling and Delegation (9:15 - 10:30)
 
 Classroom C. As in Champus.
