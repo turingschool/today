@@ -13,6 +13,7 @@ layout: outline
 * [1606-B](https://goo.gl/forms/w7nZTrvf25roEPTK2)
 
 ### Guest Speaker - Erik Michaels-Ober (9:00 - 10:00)
+
 Live stream at Blake Street and Champa!
 
 **Erik will be telling the story of his career, why he got involved with OSS and what he’s doing now with his career.**
@@ -34,7 +35,9 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 | 1608-f | Classroom C | TBD |
 
 ### Lunch Roulette (12:00 - 1:15)
+
 Eat and be merry.
+
 * Chase Dunagan, Trent Whitinger, Blake Worsley, Alene Schlereth, Graham Nessler, Marcella Wigg
 * Madison Kerndt, Brian Sayler, Kris Sparks, Ben Pepper, Alex Pilewski, Alisher Sadikov
 * Nicole Marino, Anna Dolan, Charles Kaminer, Jeff Duke, Susi Irwin, Ryan Westlake
