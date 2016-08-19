@@ -12,17 +12,13 @@ layout: outline
 * [1606]()
 * [1606-B](https://goo.gl/forms/w7nZTrvf25roEPTK2)
 
-### Lunch Roulette Groups
-TBD
-
 ### Guest Speaker - Erik Michaels-Ober (9:00 - 10:00)
+Live stream at Blake Street and Champa!
 
-Live stream at Blake Street! 
+**Erik will be telling the story of his career, why he got involved with OSS and what he’s doing now with his career.**
 
 * [LinkedIn](https://www.linkedin.com/in/sferik)
 * [Twitter](https://twitter.com/sferik)
-
-**Erik will be telling the story of his career, why he got involved with OSS and what he’s doing now with his career.**
 
 **Who is Erik Michaels-Ober?**
 Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ruby Hero Award in 2014 for his contributions to open-source, including RailsAdmin, Thor, RubyGems.org, and the Twitter gem. He was a 2010 Ruby Summer of Code mentor, 2011 Google Summer of Code mentor, and Rails Girls Summer of Code coach from 2013 to 2015 while working at SoundCloud in Berlin, Germany. He is currently a senior software engineer at Instacart in San Francisco.
@@ -31,11 +27,11 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1603   | Champa | Linked Lists in Javascript |
-| 1605   | Big Workspace | |
-| 1606-b | Classroom B |  |
+| 1605   | Big Workspace | TBD |
+| 1606-b | Classroom B | TBD |
 | 1606-f | Champa | Linked Lists in Javascript |
-| 1608-b | Classroom A | |
-| 1608-f | Gusto | |
+| 1608-b | Classroom A | Credit Check and MicroSortingSuite Review |
+| 1608-f | Classroom C | TBD |
 
 ### Lunch Roulette (12:00 - 1:15)
 * Chase Dunagan, Trent Whitinger, Blake Worsley, Alene Schlereth, Graham Nessler, Marcella Wigg
@@ -62,9 +58,7 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 Meet in the Big Workspace for this week's individual-themed Gear Up.
 
 ### Friday Spike (2:15 - 3:15)
-|Theme|Organizer|Session Title|Location|
-|------|--------|------------|----------|
-|Civic Tech|Pahlka Posse|Civic Tech 101|TBD|
+Sessions are posted on the whiteboard in the Big Workspace.
 
 ### Group Retro (3:15 - 4:00)
 * 1603 - Classroom C
