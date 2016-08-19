@@ -28,7 +28,7 @@ Erik Michaels-Ober is a software developer and entrepreneur. He was given the Ru
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1603   | Champa | Linked Lists in Javascript |
-| 1605   | Big Workspace | TBD |
+| 1605   | Big Workspace | [Re-DTR](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-1-retro.md) |
 | 1606-b | Classroom B | TBD |
 | 1606-f | Champa | Linked Lists in Javascript |
 | 1608-b | Classroom A | Credit Check and MicroSortingSuite Review |
