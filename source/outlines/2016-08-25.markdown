@@ -1,0 +1,70 @@
+---
+title: 20160825
+layout: outline
+---
+
+## Announcements
+
+## All
+
+
+## 1603
+
+### Advanced JavaScript Functions (9:00 - 12:00)
+
+### Protocol: Job Search Strategies (1:00 - 2:00)
+
+### Check Ins and Project Work Time (2:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Project Work Time (9:00 - 12:00)
+
+Put the finishing touches on your project!
+
+### Pivot Evaluations (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### View Templating in Sinatra (9:00 - 10:00)
+
+Classroom C.
+
+### Rush Hour Work Time and Check ins (10:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1608-B
+
+### Project Evaluations (9:00 - 12:00)
+
+Schedule TBD.
+
+If you are not being evaluated, you are working on the diagnostic and then you
+are working on the following exercises.
+
+* Echo: [Pattern Generator]()
+* Foxtrot: [Wizarding Bank]()
+
+### All: Diagnostic Recap (1:00 - 1:30)
+
+Classroom A.
+
+### All: File I/O (1:30 - 2:00)
+
+Classroom A with Beth.
+
+### Echo: Project Kickoff - CompleteMe (2:00 - 3:00)
+
+### Foxtrot: Project Kickoff - Enigma (2:00 - 3:00)
+
+### Learning to Pair (3:00 - 4:00)
+
+Classroom A.
