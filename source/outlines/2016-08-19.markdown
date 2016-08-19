@@ -59,7 +59,7 @@ Eat and be merry.
 * Karina Gonzalez, Kinan Whyte, Megan Talbot, Ryan Travitz, Garrett Smestad, Michael Scherer
 
 ### Gear Up (1:15 - 2:15)
-Meet in the Big Workspace for this week's individual-themed Gear Up.
+Meet in the Big Workspace for this week's individual-themed Gear Up, (Getting Better at Difficult Things)[https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown].
 
 ### Friday Spike (2:15 - 3:15)
 Sessions are posted on the whiteboard in the Big Workspace.
