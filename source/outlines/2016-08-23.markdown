@@ -21,6 +21,12 @@ Schedule TBD.
 
 ## 1605
 
+### Prior to class:
+
+* Set up [OregonSale](https://github.com/turingschool-examples/store_engine) prior to class. There won't be time for us to set up during class. Look at the `README` for details.
+* Download the [Postman App](https://www.getpostman.com/)
+* Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+
 ### Fundamental Rails Security (9:00 - 10:30)
 
 Classroom B.
@@ -65,6 +71,3 @@ Classroom A with Mike to learn how to make broken things work again.
 ### All: Problems, Solutions, and Algorithms (2:30 - 4:00)
 
 Join Jeff as you learn how to put things together.
-
-
-
