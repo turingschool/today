@@ -33,7 +33,21 @@ layout: outline
 
 ### jQuery DOM Traversal, Manipulation, and Events (9:00 - 12:00)
 
-Classroom B.
+Join Jorge in Classroom B to learn how to manipulate HTML with jQuery.
+
+Before the class, please clone the session's repo by running the following command:
+
+```
+git clone https://gist.github.com/a49b8caa02d127a3a3fcf409eea3ed14.git jquery_lesson
+```
+
+The class materials are the following:
+
+1. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
+2. [jQuery Selectors](http://api.jquery.com/category/selectors/attribute-selectors/)
+3. [jQuery Traversal Methods](http://api.jquery.com/category/traversing/tree-traversal/)
+4. [jQuery Events](http://api.jquery.com/category/events/)
+5. The video will be posted after the session.
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
