@@ -21,6 +21,10 @@ layout: outline
 
 [Project Expectations](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
+[Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+
+[Submission Forms](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/gametime)
+
 #### Teams
 
 - Robbie and Brian
