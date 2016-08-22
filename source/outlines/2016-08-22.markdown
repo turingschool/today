@@ -9,11 +9,11 @@ layout: outline
 
 ## 1603
 
-### Object Oriented JavaScript and HTML 5 Canvas (9:00 - 12:00)
+### Object Oriented JavaScript and HTML 5 Canvas (9:15 - 12:00)
 
 [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
 
-### Game Time Kick Off (1:00 - 2:30)
+### Game Time Kick Off (1:15 - 2:30)
 
 [Project Expectations](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
