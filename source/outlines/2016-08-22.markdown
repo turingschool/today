@@ -90,7 +90,7 @@ Classroom C.
 
 [Week 1 Diagnostic](https://gist.github.com/mikedao/f56df31ef6cb76e69391f9032ee5d25b) Fork this gist and edit it with your answers.
 
-When you have completed it, fill out this [form](https://goo.gl/forms/5ospr18ZDinkoqra2) with a link to your own gist.
+When you have completed it, fill out this [form](https://goo.gl/forms/pgYJvrPDMx1dtTn22) with a link to your own gist.
 
 Complete this without using your notes, code or pry/irb. The point is to see how much you can recall purely from memory.
 
