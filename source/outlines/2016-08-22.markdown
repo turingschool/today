@@ -9,6 +9,10 @@ layout: outline
 
 ## 1603
 
+### Homework
+
+[The Concept of Require](https://gist.github.com/rrgayhart/548e843327afb5ff8969b6dc4435c7bd) (10 points)
+
 ### Object Oriented JavaScript and HTML 5 Canvas (9:15 - 12:00)
 
 [Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
