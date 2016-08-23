@@ -10,14 +10,27 @@ layout: outline
 
 ## 1603
 
-### Testing Game Time (9:00 - 11:00)
+### Introduction to Build Tools (9:15 - 10:15)
 
-### Introduction to Build Tools (11:00 - 12:00)
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown)
+
+### Testing Game Time (10:15 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey)
 
 ### Project Work Time and Check Ins (1:00 - 4:00)
 
-Schedule TBD.
+#### With Meeka
 
+- Robbie and Brian
+- Nick and Marcella
+- Ilana and Charlie
+
+#### With Nate
+
+- Parker and Ryan
+- Chris and Anna
+- Erin and Lucy
 
 ## 1605
 
