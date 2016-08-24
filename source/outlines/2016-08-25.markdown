@@ -27,7 +27,27 @@ Put the finishing touches on your project!
 
 ### Pivot Evaluations (1:00 - 4:00)
 
-Schedule TBD.
+**☀☀☀ We need 100% participation.☀☀☀**
+
+Be sure to fill out [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeNkH3-bXEe20PYtaGE_laFww2L7854_vYzACWeZvWCKVamag/viewform#responses) for your Pivot members. This will be reviewed by staff and delivered to each group member. Please use [this reference](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md) to help provide meaningful feedback.
+
+#### Client Evaluation with Sally
+
+* (1:00) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (1:20) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (1:40) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (2:00) - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+* (2:20) - Garrett Smestad & Ryan Flach & Matthew Packer
+* (2:40) - Trent Whitinger & Matthew Campbell & Jennifer Soden
+
+#### Technical Evaluation with Josh
+
+* (1:00) - Trent Whitinger & Matthew Campbell & Jennifer Soden
+* (1:30) - Garrett Smestad & Ryan Flach & Matthew Packer
+* (2:00) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (2:30) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (3:00) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (3:30) - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
 
 
 ## 1606-B
