@@ -1,0 +1,40 @@
+---
+title: 20160826
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605]()
+* [1606-B]()
+* [1608-B]()
+
+### Guest Speaker - Nancy Lyons (9:00 - 10:00)
+Live stream at Blake Street and (maybe, hopefully) Champa!
+
+### Academic Time (10:00 - 12:00)
+| Cohort | Location | Lesson Plans |
+| ------ | -------- | ------------ |
+| 1603   | Gusto |  |
+| 1605   | Big Workspace | |
+| 1606-b | Classroom B | |
+| 1606-f | Gusto |  |
+| 1608-b | Classroom A | |
+| 1608-f | Gusto |  |
+
+### Lunch Roulette (12:00 - 1:15)
+Eat and be merry.
+
+### Friday Spike (1:15 - 3:15)
+Sessions are posted here [goo.gl/Jz8GS0](goo.gl/Jz8GS0).
+
+### Group Retro (3:15 - 4:00)
+* 1603 - Gusto
+* 1605 - Big Workspace
+* 1606-b - Classroom B
+* 1606-f - Gusto
+* 1608-b - Classroom A
+* 1608-f - Gusto
