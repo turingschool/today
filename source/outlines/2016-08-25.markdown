@@ -87,21 +87,56 @@ Classroom C.
 
 ### Project Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### With Beth
+* 9:00 - Alene Schlereth
+* 9:25 - Brad Green
+* 9:50 - Brett Rivers
+* 10:15 - Daniel Shin
+* 10:40 - Erin Pintozzi
+* 11:05 - Brandon Randall
+* 11:30 - Tessa Taylor
 
+#### With Mark
+* 9:25 - Lee Saville
+* 9:50 - Michael Scherer
+* 10:15 - Morgan Slimak
+* 10:40 - Joseph Stansfield
+* 11:05 - Dan Olson
+* 11:30 - Jonathan Kimble
+
+#### With Jeff
+* 9:00 - Nick Martinez
+* 9:25 - Vido Seaver
+* 9:50 - Alisher Sadikov
+* 10:15 - David Junta
+* 10:40 - Anthony Ciccone
+* 11:05 - Eric Wahlgren-Sauro
+
+#### With Mike
+* 9:00 - Anna Dolan
+* 9:25 - Benjamin Morris-Rains
+* 9:50 - Jason Conrad
+* 10:15 - Megan Talbot
+* 10:40 - Noah Berman
+* 11:05 - Ryan Travitz
+* 11:30 - Robert Smith
+
+[Diagnostic](https://gist.github.com/mikedao/24a0cfb791bcd9141b28bef057b47d60)
+
+[Fill out this form when you are finished](https://goo.gl/forms/U1xaOWc4cfzZWGVw1)
 If you are not being evaluated, you are working on the diagnostic and then you
 are working on the following exercises.
 
-* Echo: [Pattern Generator]()
-* Foxtrot: [Wizarding Bank]()
+* Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
 
 ### All: Diagnostic Recap (1:00 - 1:30)
 
-Classroom A.
+Classroom A with Beth.
 
 ### All: File I/O (1:30 - 2:00)
 
-Classroom A with Beth.
+Classroom A with Beth once again.
 
 ### Echo: Project Kickoff - CompleteMe (2:00 - 3:00)
 
