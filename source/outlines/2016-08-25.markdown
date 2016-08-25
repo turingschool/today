@@ -10,14 +10,31 @@ layout: outline
 
 ## 1603
 
-### Advanced JavaScript Functions (9:00 - 12:00)
+### Advanced JavaScript Functions (9:15 - 12:00)
+
+[Revisiting This](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
+
+[Currying and Partial Application](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+
+[Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
 
 ### Protocol: Job Search Strategies (1:00 - 2:00)
 
+With Allison!
+
 ### Check Ins and Project Work Time (2:00 - 4:00)
 
-Schedule TBD.
+#### With Meeka
 
+- Erin and Lucy
+- Chris and Anna
+- Parker and Ryan
+
+#### With Nate
+
+- Ilana and Charlie
+- Nick and Marcella
+- Robbie and Brian
 
 ## 1605
 
