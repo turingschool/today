@@ -1,0 +1,61 @@
+---
+title: 20160916
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605]()
+* [1606-B]()
+* [1608-B]()
+
+### Guest Speaker: Mike Mangino (9:00 - 10:00) - (remote)
+
+### Academic Time (10:00 - 12:00)
+| Cohort | Location | Lesson Plans |
+| ------ | -------- | ------------ |
+| 1603   | tbd |  |
+| 1605   | tbd |  |
+| 1606-b | tbd |  |
+| 1606-f | tbd |  |
+| 1608-b | tbd |  |
+| 1608-f | tbd |  |
+
+### Lunch Roulette (12:00 - 1:15)
+Eat and be merry.
+
+* Paul Nguyen, Brian Heim, Christopher Soden, Ryan Flach, Dale Hendrickson, Alene Schlereth
+* Alisher Sadikov, MaryJane Valade, Tommasina Miller, Susi Irwin, Christine Gamble, Anna Weisbrodt
+* Jean Joeris, Garrett Smestad, Jeff Duke, Anna Dolan, Chelsea Skovgaard, Lucy Fox
+* Patrick Wentz, David Kerr, Anthony Ciccone, Brian Sayler, David Davydov, Maia Stone
+* Ben Morris-Rains, Casey Metz, Jennifer Soden, Calaway, Ryan Batty, Kristen Burgess
+* Michael Lane Winham, Graham Nessler, Nick Pisciotta, Bradley Green, Madison Kerndt, Chase Dunagan
+* Kinan Whyte, Brandon Randall, Blake Worsley, Raphael Barbo, Erin Greenhalgh, Roberta Doyle
+* Brett Rivers, Sonia Gupta, Chaz Gormley, Charles Kaminer, David Tinianow, Adam Bernard
+* Charles Wahlgren-Sauro, Yoseph Anderson, Ryan Westlake, Ryan David Workman, Brett Hevia, Parker Phillips
+* Linda McCartney, Robert Jaeger, Ben Pepper, Ian Lancaster, Daniel Olson, Kris Foss
+* Brendan Dillon, Benjamin Godfrey, Daniel Shin, Nick Chambers, Deb Hamel, Marcella Wigg
+* Nicole Marino, David Junta, Lacey Knaff, Jasmin Hudacsek, Mike Sausa, Ilana Corson
+* Casey Cross, Erin Pintozzi, Devin Marie Beliveau, Dan Broadbent, Matthew Campbell, Vido Seaver
+* Trent Whitinger, Jason Conrad, Hilary Lewis, Kirsten Swanson, Jesse Spevack, Ryan Travitz
+* Christopher Concannon, Jonathan Kimble, Adam Rice, Peter Springer, Matt DesMarteau, Robert Smith
+* Karina Gonzalez, Gabrielle Procell, Nate Anderson, Andy Young, Joseph Stansfield, Noah Berman
+* Bryan Goss, Kyle Misencik, Matthew Kaufman, Kris Sparks, Kendall Taylor, Nicholas Martinez, Zachary Forbing
+* Lee Saville, Andrew Crist, Jason Hanna, Matthew Packer, Alex Pilewski, Megan Talbot
+* Michael Scherer, Caleb Cowen, Mike Ziccardi, Morgan Slimak, Laura Sellers, Angela Lindow
+
+### Friday Spike (1:15 - 2:15)
+Sessions are posted here [goo.gl/Jz8GS0](goo.gl/Jz8GS0).
+
+### Gear Up (2:15 - 3:15)
+
+### Group Retro (3:15 - 4:00)
+* 1603 - tbd
+* 1605 - tbd
+* 1606-b - tbd
+* 1606-f - tbd
+* 1608-b - tbd
+* 1608-f - tbd
