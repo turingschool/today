@@ -71,7 +71,7 @@ Be sure to fill out [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeNkH3-b
 
 ### View Templating in Sinatra (9:00 - 10:00)
 
-Classroom C.
+Join Andrew in Classroom C to talk about view strategies in Sinatra. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/sinatra_partial_arts.markdown) is the lesson plan we'll work with today. 
 
 ### Rush Hour Work Time (10:00 - 12:00)
 
