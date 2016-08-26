@@ -1,0 +1,71 @@
+---
+title: 20160829
+layout: outline
+---
+
+## Announcements
+
+## All
+
+
+## 1603
+
+### Node vs Webpack (9:00 - 10:30)
+
+### Pizza Express (10:30 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1605
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+[Apicurious](https://www.youtube.com/watch?v=fwcONrTG7nk)
+
+### Project Work Time (2:30 - 4:00)
+
+Think about things.
+
+
+## 1606-B
+
+### Rush Hour Evals and ActiveRecord Obstacle Course Work (9:00 - 12:00)
+
+Schedule TBD.
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Classroom C.
+
+### ERD - Database Design (2:30 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Learn you a test with Beth in Classroom A.
+
+### All: Methods, Arguments and Scopes (10:30 - 12:00)
+
+Mike will argue with you in Classroom A.
+
+### Super Happy Fun Time with Lia (1:00 - 2:30)
+
+Classroom A.
+
+### Pairing Patterns (2:30 - 4:00)
+
+Beth talks about pairing patterns in A.
+

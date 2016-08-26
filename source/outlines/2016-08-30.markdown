@@ -1,0 +1,64 @@
+---
+title: 20160830
+layout: outline
+---
+
+## Announcements
+
+## All
+
+
+## 1603
+
+### Actually Understanding Asynchronous JavaScript (9:00 - 12:00)
+
+### Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Consuming APIs (9:00 - 12:00)
+
+Classroom B.
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### Migrations, Databases, and Models (9:00 - 11:00)
+
+Classroom C.
+
+### Relationships Implementations (11:00 - 12:00)
+
+Classroom C.
+
+### Rails Basics Challenge (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Dynamics (9:00 - 10:00)
+
+Classroom A.
+
+### MOAR ENUMERABLES (10:00 - 12:00)
+
+Classroom A with Mike.
+
+### All: Baby's First Rakefile and Require Crash Course (1:00 - 2:30)
+
+Classroom A with Beth.
+
+### Project Work Time (2:30 - 4:00)
+
+Beth and Mike will be availble for questions.
+
+

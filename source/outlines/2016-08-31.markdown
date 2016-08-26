@@ -1,0 +1,57 @@
+---
+title: 20160831
+layout: outline
+---
+
+## Announcements
+
+## All
+
+## 1603
+
+### Refactor Tractor (9:00 - 12:00)
+
+### Project Work Time and Instructor Pairing (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Testing an External API (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time and One on Ones (1:00 - 4:00)
+
+Schedule Tee Bee Dee.
+
+
+## 1606-B
+
+### Route Helpers (9:00 - 10:00)
+
+Classroom C.
+
+### Forms in Rails (10:00 - 11:00)
+
+Classroom C.
+
+### Building Tool Chest (11:00 - 12:00)
+
+Classroom C.
+
+### Blogger Kick Off, Work Time and One on Ones (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### All: Stacks, Methods, and Program Flow (9:00 - 12:00)
+
+Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Do the thing

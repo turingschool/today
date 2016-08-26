@@ -1,0 +1,65 @@
+---
+title: 20160901
+layout: outline
+---
+
+## Announcements
+
+
+## All
+
+
+## 1603
+
+### Talk about Scale Up (9:00 - 10:30)
+
+### Agile and Other Buzzwords (10:30 - 12:00)
+
+### Game Time Evals / Scale Up Brainstorming (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1605
+
+### Project Work Time and Optional One on Ones (9:00 - 12:00)
+
+Schedule TBD.
+
+### Apicurious Evals (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1606-B
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom C.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom C.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom C.
+
+### Work Time: Model Testing (1:00 - 3:00)
+
+### Mix Master Kick Off (3:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### Project Evaluations and Diagnostics (9:00 - 12:00)
+
+Schedule TBD.
+
+### Professional Skills (1:00 - 2:30)
+
+### All: Roadshow (2:30 - 4:00)
+
+Classroom A.
