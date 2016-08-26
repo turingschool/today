@@ -34,8 +34,8 @@ Outside Turing, you may find yourself running into Bree in the tech community on
 | 1608-f | Gusto |  |
 
 ### Lunch Roulette (12:00 - 1:15)
-Eat and be merry.
-<p style="font-size=8px">
+Eat and be merry.  
+
 * Alene Schlereth, Angela Lindow, Calaway, Brett Hevia, Christopher Soden, Graham Nessler
 * Andy Young, Lucy Fox, Dan Broadbent, Linda McCartney, Kristen Burgess, Alisher Sadikov
 * Ryan Flach, Ryan Batty, Madison Kerndt, Anna Dolan, Andrew Crist, David Davydov
@@ -56,7 +56,6 @@ Eat and be merry.
 * Lee Saville, Adam Rice, Yoseph Anderson, Noah Berman, Vido Seaver, Morgan Slimak
 * Megan Talbot, Chaz Gormley, Karina Gonzalez, Robert Smith, Patrick Wentz, Matthew Kaufman
 * Garrett Smestad, Michael Scherer, Ian Lancaster, Ryan Travitz, Tommasina Miller
-</p>
 
 ### Friday Spike (1:15 - 3:15)
 Sessions are posted here [goo.gl/Jz8GS0](https://goo.gl/Jz8GS0).
