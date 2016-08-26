@@ -8,7 +8,7 @@ layout: outline
 ### Surveys
 
 * [1603](https://goo.gl/forms/i8Lg3dXBtsL24lFp1)
-* [1605]()
+* [1605](https://docs.google.com/forms/d/e/1FAIpQLSc1ND3MHiiMvxbTCe6sTSbPChxSppNwQAag_KgnAwgbmrkamQ/viewform)
 * [1606-B]()
 * [1608-B](https://goo.gl/forms/1397jnLLKTpfEmW92)
 
@@ -27,7 +27,7 @@ Outside Turing, you may find yourself running into Bree in the tech community on
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1603   | Gusto |  |
-| 1605   | Big Workspace | |
+| 1605   | Big Workspace |[Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)|
 | 1606-b | Classroom B | |
 | 1606-f | Gusto |  |
 | 1608-b | Classroom A | |
