@@ -26,10 +26,10 @@ Outside Turing, you may find yourself running into Bree in the tech community on
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1603   | Gusto |  |
+| 1603   | Gusto | Binary Search Trees in Javascript |
 | 1605   | Big Workspace |[Intermediate SQL](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md)|
 | 1606-b | Classroom B | |
-| 1606-f | Gusto |  |
+| 1606-f | Gusto | Binary Search Trees in Javascript |
 | 1608-b | Classroom A | |
 | 1608-f | Gusto |  |
 
