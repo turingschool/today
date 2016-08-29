@@ -4,9 +4,12 @@ layout: outline
 ---
 
 ## All
+**Professional Skills Sessions**
+* All: GearUp (Fri)
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities
+* M1: Professional Skills (Thu)
 
 ### Surveys
-
 * [1603]()
 * [1605]()
 * [1606-B]()
