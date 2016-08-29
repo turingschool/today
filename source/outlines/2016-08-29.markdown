@@ -82,7 +82,9 @@ Classroom C.
 
 ### ERD - Database Design (2:30 - 4:00)
 
-Classroom C.
+Let's learn about a new tool to help us design our database schema. WE'll be in Classroom C. [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/entity-relationship-diagramming.md)
+
+
 
 
 ## 1608-B
