@@ -45,7 +45,7 @@ Eat and be merry.
 * Andrew Crist, Brett Hevia, Sonia Gupta, Karina Gonzalez, Joseph Stansfield, Ryan Travitz
 * Bryan Goss, David Tinianow, Casey Metz, Kendall Taylor, Devin Marie Beliveau
 * Chaz Gormley, Ryan Flach, Lee Saville, Noah Berman, Robert Smith, Nicholas Martinez
-* Garrett Smestad, Megan Talbot, Laura Sellers, Angela Lindow, Nicole Marino
+* Garrett Smestad, Megan Talbot, Laura Allen, Angela Lindow, Nicole Marino
 * Lacey Knaff, Deb Hamel, Michael Scherer, Morgan Slimak, Dale Hendrickson
 
 ### Friday Spike (1:15 - 2:15)

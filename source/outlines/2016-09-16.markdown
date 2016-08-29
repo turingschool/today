@@ -12,7 +12,7 @@ layout: outline
 * [1606-B]()
 * [1608-B]()
 
-### Guest Speaker: Mike Mangino (9:00 - 10:00) - (remote)
+### Guest Speaker: Mike Mangino (9:00 - 10:00) - Blake
 
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
@@ -45,7 +45,7 @@ Eat and be merry.
 * Karina Gonzalez, Gabrielle Procell, Nate Anderson, Andy Young, Joseph Stansfield, Noah Berman
 * Bryan Goss, Kyle Misencik, Matthew Kaufman, Kris Sparks, Kendall Taylor, Nicholas Martinez, Zachary Forbing
 * Lee Saville, Andrew Crist, Jason Hanna, Matthew Packer, Alex Pilewski, Megan Talbot
-* Michael Scherer, Caleb Cowen, Mike Ziccardi, Morgan Slimak, Laura Sellers, Angela Lindow
+* Michael Scherer, Caleb Cowen, Mike Ziccardi, Morgan Slimak, Laura Allen, Angela Lindow
 
 ### Friday Spike (1:15 - 2:15)
 Sessions are posted here [goo.gl/Jz8GS0](goo.gl/Jz8GS0).
