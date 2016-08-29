@@ -13,12 +13,28 @@ layout: outline
 
 ## 1603
 
-### Node vs Webpack (9:00 - 10:30)
+### Discussion: Node vs Webpack (9:00 - 9:30)
 
-### Pizza Express (10:30 - 12:00)
+Gusto!
+
+### Building and Testing Node Applications (9:30 - 12:00)
+
+Work through [Pizza Express](https://github.com/turingschool-examples/pizza-express) in pairs.
+
+* Robert Jaeger & Ryan Batty
+* Parker Phillips & Nick Pisciotta
+* Christopher Soden & Charles Kaminer
+* Erin Greenhalgh & Ilana Corson
+* Brian Sayler & Lucy Fox
+* Anna Weisbrodt & Marcella Wigg
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/c61fadfb475327b01b01d642f680aa31)
 
 ### Project Work Time (1:00 - 4:00)
 
+Do Work.
 
 ## 1605
 
