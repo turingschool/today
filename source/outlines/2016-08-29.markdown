@@ -59,7 +59,20 @@ Think about things.
 
 ### Rush Hour Evals and ActiveRecord Obstacle Course Work (9:00 - 12:00)
 
-Schedule TBD.
+With Sal, Andrew, and Casey:
+
+* 9:00 - Jasmin Hudacsek & Sonia Gupta & Chase Dunagan
+
+With Sal and Andrew:
+
+* 9:45 - Jean Joeris & Ben Pepper & Matt DesMarteau
+* 10:30 - Calaway & Ryan David Workman & David Davydov
+
+With Casey:
+
+* 9:45 - Brian Heim & Jesse Spevack
+* 10:30 - Dan Broadbent & Raphael Barbo & Brendan Dillon
+* 11:15 - Bryan Goss & Susi Irwin & Nate Anderson
 
 ### REST, Controllers, and Routing in Rails (1:00 - 2:30)
 
