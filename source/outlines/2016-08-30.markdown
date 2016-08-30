@@ -90,7 +90,7 @@ Classroom C.
 
 ### All: Dynamics (9:00 - 10:00)
 
-Classroom A.
+Classroom A where we'll use [this lesson plan](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
 ### MOAR ENUMERABLES (10:00 - 12:00)
 
