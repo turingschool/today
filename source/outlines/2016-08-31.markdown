@@ -70,10 +70,31 @@ Classroom C.
 
 ### Blogger Kick Off, Work Time and One on Ones (1:00 - 4:00)
 
-Schedule TBD.
 
+#### With Casey
 
-## 1606-B
+* Jean Joeris
+* Jesse Spevack
+* Matt DesMarteau
+* Nate Anderson
+* Raphael Barbo
+* Ryan Workman
+* Sonia Gupta
+* Susi Irwin
+
+#### With Sal
+
+* Ben Pepper
+* Brendan Dillon
+* Brian Heim
+* Bryan Goss
+* Chase Dunagan
+* Chris Calaway
+* Dan Broadbent
+* David Davydov
+* Jasmin Hudacsek
+
+## 1608-B
 
 ### All: Stacks, Methods, and Program Flow (9:00 - 12:00)
 
