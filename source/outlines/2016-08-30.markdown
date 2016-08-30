@@ -26,7 +26,7 @@ Schedule TBD.
 
 ### Consuming APIs (9:00 - 12:00)
 
-Classroom B.
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md). We'll be in Classroom B.
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
