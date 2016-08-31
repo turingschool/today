@@ -14,12 +14,24 @@ layout: outline
 
 ## 1603
 
-### Refactor Tractor (9:00 - 12:00)
+### Refactor Tractor (9:15 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md)
+
+[Assignment](https://gist.github.com/rrgayhart/b54ae172003f08e18cb6f1c352369785) (30 points)
+
+##### Refactoring Buddies
+
+* Ryan Batty & Brian Sayler
+* Erin Greenhalgh & Christopher Soden
+* Marcella Wigg & Ilana Corson
+* Charles Kaminer & Lucy Fox
+* Parker Phillips & Anna Weisbrodt
+* Robert Jaeger & Nick Pisciotta
 
 ### Project Work Time and Instructor Pairing (1:00 - 4:00)
 
-Schedule TBD.
-
+[Sign Up for Pairing Slots (Optional)](https://public.etherpad-mozilla.org/p/instructor-pairing)
 
 ## 1605
 
@@ -60,20 +72,42 @@ Classroom B.
 
 Classroom C.
 
+
 ### Forms in Rails (10:00 - 11:00)
 
-Classroom C.
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/forms_primer.markdown). Classroom C. Let's
 
-### Building Tool Chest (11:00 - 12:00)
+### Building BookShelf (11:00 - 12:00)
 
 Classroom C.
 
 ### Blogger Kick Off, Work Time and One on Ones (1:00 - 4:00)
 
-Schedule TBD.
 
+#### With Casey
 
-## 1606-B
+* Jean Joeris
+* Jesse Spevack
+* Matt DesMarteau
+* Nate Anderson
+* Raphael Barbo
+* Ryan Workman
+* Sonia Gupta
+* Susi Irwin
+
+#### With Sal
+
+* Ben Pepper
+* Brendan Dillon
+* Brian Heim
+* Bryan Goss
+* Chase Dunagan
+* Chris Calaway
+* Dan Broadbent
+* David Davydov
+* Jasmin Hudacsek
+
+## 1608-B
 
 ### All: Stacks, Methods, and Program Flow (9:00 - 12:00)
 

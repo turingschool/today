@@ -17,16 +17,26 @@ layout: outline
 
 ### Actually Understanding Asynchronous JavaScript (9:00 - 12:00)
 
-### Check Ins and Project Work Time (1:00 - 4:00)
+### Check Ins and Project Work Time (1:15 - 4:00)
 
-Schedule TBD.
+#### With Meeka
+
+- Nick and Marcella
+- Robbie and Brian
+- Ilana and Charlie
+
+#### With Nate
+
+- Chris and Anna
+- Parker and Ryan
+- Erin and Lucy
 
 
 ## 1605
 
 ### Consuming APIs (9:00 - 12:00)
 
-Classroom B.
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md). We'll be in Classroom B.
 
 ### Project Check Ins and Project Work Time (1:00 - 4:00)
 
@@ -80,7 +90,7 @@ Classroom C.
 
 ### All: Dynamics (9:00 - 10:00)
 
-Classroom A.
+Classroom A where we'll use [this lesson plan](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
 
 ### MOAR ENUMERABLES (10:00 - 12:00)
 
