@@ -60,9 +60,10 @@ Classroom B.
 
 Classroom C.
 
+
 ### Forms in Rails (10:00 - 11:00)
 
-Classroom C.
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/forms_primer.markdown). Classroom C. Let's
 
 ### Building BookShelf (11:00 - 12:00)
 
