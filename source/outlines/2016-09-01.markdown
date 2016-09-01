@@ -6,9 +6,9 @@ layout: outline
 ## Announcements
 **Professional Skills Sessions**
 
-* All: GearUp (Fri)  
-* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)  
-* M1: Professional Skills (Thu)  
+* All: GearUp (Fri)
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)
+* M1: Professional Skills (Thu)
 
 
 ## All
@@ -100,9 +100,36 @@ Classroom C.
 
 ### Project Evaluations and Diagnostics (9:00 - 12:00)
 
-Schedule TBD.
+When you are not being evaluated, you are working on these items:
+
+* [Diagnostic](https://gist.github.com/mikedao/8fed4e97f5821dd4a80e594147ffde43)
+* [Paired Project Challenge](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
+
+Note: Work on the Paired Project Challenge with your Project Pair Partner.
+
+#### With Jeff
+* 9:00 - Alisher & Ben
+* 9:30 - Robbie & Nick
+* 10:00 - Anthony & Eric
+
+#### With Mike
+* 9:00 - Anna & David
+* 9:30 - Megan & Erin
+* 10:00 - Tessa & Noah
+
+#### With Beth
+* 9:00 - Alene & Vido
+* 9:30 - Dan & Brandon
+* 10:00 - Brett & Dan & Joe
+
+#### With Mark
+* 9:00 - Brad & Lee
+* 10:00 - Ryan & Morgan
+* 10:30 - Jason & Michael & Jon
 
 ### Professional Skills (1:00 - 2:30)
+
+Classroom A with Beth.
 
 ### All: Roadshow (2:30 - 4:00)
 
