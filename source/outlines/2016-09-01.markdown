@@ -6,7 +6,8 @@ layout: outline
 ## Announcements
 * "Brown Bag Lunch Roulette" tomorrow (groups posted on [9/2 today](http://today.turing.io/outlines/2016-09-02/))
 
-**Professional Skills Sessions**  
+**Professional Skills Sessions**
+
 * All: GearUp (Fri)  
 * FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)  
 * M1: Professional Skills (Thu)  
