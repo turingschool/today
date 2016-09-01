@@ -17,14 +17,14 @@ layout: outline
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1603   | tbd |  |
-| 1605   | tbd |  |
-| 1606-b | tbd |  |
-| 1606-f | tbd |  |
-| 1608-b | tbd |  |
-| 1608-f | tbd |  |
+| 1603   | Gusto | tbd |
+| 1605   | Classroom B, Blake | tbd |
+| 1606-b | Classroom C, Blake | tbd |
+| 1606-f | Gusto | tbd |
+| 1608-b | Classroom A, Blake | tbd |
+| 1608-f | Gusto | tbd |
 
-### Lunch Roulette (12:00 - 1:15)
+### Brown Bag Lunch Roulette (12:00 - 1:15)
 Eat and be merry.
 
 * Paul Nguyen, Brian Heim, Christopher Soden, Ryan Flach, Dale Hendrickson, Alene Schlereth
@@ -47,15 +47,5 @@ Eat and be merry.
 * Lee Saville, Andrew Crist, Jason Hanna, Matthew Packer, Alex Pilewski, Megan Talbot
 * Michael Scherer, Caleb Cowen, Mike Ziccardi, Morgan Slimak, Laura Allen, Angela Lindow
 
-### Friday Spike (1:15 - 2:15)
-Sessions are posted here [goo.gl/Jz8GS0](goo.gl/Jz8GS0).
-
-### Gear Up (2:15 - 3:15)
-
-### Group Retro (3:15 - 4:00)
-* 1603 - tbd
-* 1605 - tbd
-* 1606-b - tbd
-* 1606-f - tbd
-* 1608-b - tbd
-* 1608-f - tbd
+### Gear Up (1:15 - 4:00)
+We will be screening the video, [CODE: Debugging the Gender Gap](https://vimeo.com/123004482).

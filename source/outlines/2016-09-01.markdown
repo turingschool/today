@@ -4,15 +4,15 @@ layout: outline
 ---
 
 ## Announcements
-**Professional Skills Sessions**
+* "Brown Bag Lunch Roulette" tomorrow (groups posted on [9/2 today](http://today.turing.io/outlines/2016-09-02/))
 
+**Professional Skills Sessions**  
 * All: GearUp (Fri)
 * FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)
 * M1: Professional Skills (Thu)
 
 
 ## All
-
 
 ## 1603
 
@@ -129,9 +129,9 @@ Note: Work on the Paired Project Challenge with your Project Pair Partner.
 * 10:00 - Tessa & Noah
 
 #### With Beth
-* 9:00 - Alene & Vido
-* 9:30 - Dan & Brandon
+* 9:30 - Alene & Vido
 * 10:00 - Brett & Dan & Joe
+* 10:30 - Dan & Brandon
 
 #### With Mark
 * 9:00 - Brad & Lee

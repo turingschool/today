@@ -16,19 +16,19 @@ layout: outline
 * [1606-B]()
 * [1608-B]()
 
-### Guest Speaker: Nicholas Kovacevich (9:00 - 10:00) - Blake Street (in person)
+### Guest Speaker: Nicholas Kovacevich (9:00 - 10:00) - Blake (in person)
 
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1603   | tbd |  |
-| 1605   | tbd |  |
-| 1606-b | tbd |  |
-| 1606-f | tbd |  |
-| 1608-b | tbd |  |
-| 1608-f | tbd |  |
+| 1603   | Gusto | tbd |
+| 1605   | Classroom B, Blake | tbd |
+| 1606-b | Classroom C, Blake | tbd |
+| 1606-f | Gusto | tbd |
+| 1608-b | Classroom A, Blake | tbd |
+| 1608-f | Gusto | tbd |
 
-### Lunch Roulette (12:00 - 1:15)
+### Brown Bag Lunch Roulette (12:00 - 1:15)
 Eat and be merry.
 
 * Paul Nguyen, Nate Anderson, Gabrielle Procell, Alene Schlereth, Linda McCartney, Parker Phillips
@@ -52,15 +52,16 @@ Eat and be merry.
 * Garrett Smestad, Megan Talbot, Laura Allen, Angela Lindow, Nicole Marino
 * Lacey Knaff, Deb Hamel, Michael Scherer, Morgan Slimak, Dale Hendrickson
 
-### Friday Spike (1:15 - 2:15)
+### Friday Spike (1:15 - 2:15) - Blake
 Sessions are posted here [goo.gl/Jz8GS0](goo.gl/Jz8GS0).
 
-### Gear Up (2:15 - 3:15)
+### Gear Up (2:15 - 3:15) - Blake
+We'll be reflecting on and discussing the role of boundaries in teams.
 
 ### Group Retro (3:15 - 4:00)
-* 1603 - tbd
-* 1605 - tbd
-* 1606-b - tbd
-* 1606-f - tbd
-* 1608-b - tbd
-* 1608-f - tbd
+* 1603 - Big Workspace, Blake
+* 1605 - Classroom B, Blake
+* 1606-b - Classroom C, Blake
+* 1606-f - Gusto
+* 1608-b - Classroom A, Blake
+* 1608-f - Gusto
