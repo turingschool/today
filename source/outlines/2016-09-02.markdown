@@ -17,6 +17,15 @@ layout: outline
 * [1608-B]()
 
 ### Guest Speaker: Nicholas Kovacevich (9:00 - 10:00) - Blake (in person)
+LinkedIn: https://www.linkedin.com/in/nkovac  
+Website: http://www.concretewind.com/
+
+Nick is a UI/UX designer and developer for software products. He has worked on products for small, medium and enterprise audiences and in a variety of industries: education, kids fashion, conferences, adult, streaming media, email (3 times) and now sports recruitment. Before he was a designer, he was a web developer. Before that, he toiled in inside sales, ran education programs in group homes, taught job skills to developmentally disabled adults, cooked/served Taco Bell/Starbucks, volunteered on a suicide hotline and as an assistant on ambulance runs.
+
+He made the career jump to web development after quickly realizing that inside sales was a dead end. For a year, he spent around 4 hours every weeknight taking online courses and teaching himself how to design and make websites. He was able to take on some freelance clients and build a portfolio. A mentor of his recommended him for a job he then later accepted. For the next 6 months, he busted his butt, took a lot of abuse and got laid off with the whole marketing team. He found a new job in a week and just kept working and learning. He soon moved out of web development into product design found a new appreciation for designing good user journeys. After a decade of staying hungry and learning as much as he could, he has come to a place in his career where he might have a few things to share about how to design quality software products."
+
+Nick's presentation will focus on, **"Product Design: How does the product design process utilize input from different parts of a typical organization to get the best ideas for a new product feature."**
+
 
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
