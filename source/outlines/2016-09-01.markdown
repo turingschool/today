@@ -16,25 +16,33 @@ layout: outline
 
 ## 1603
 
-### Talk about Scale Up (9:00 - 10:30)
+### Talk about Scale Up (10:15 - 11:00)
 
-### Agile and Other Buzzwords (10:30 - 12:00)
+Meet at Gusto with Meeka and let's talk about the next project a little bit.
 
-### Game Time Evals / Scale Up Brainstorming (1:00 - 4:00)
+[Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/week-4-kickoff.markdown)
+
+[Survey](https://docs.google.com/forms/d/e/1FAIpQLSfX6a1kQYcQXVZMluwyl2unpk9-cJFT1ypF-p70W4Sj0T0hng/viewform)
+
+Survey is due **Friday by 2pm**
+
+### Agile and Other Buzzwords (11:00 - 12:00)
+
+[Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
+### Game Time Evals / Scale Up Brainstorming (1:15 - 4:00)
 
 #### With Nate
 
 - Ilana and Charlie
-- Robbie and Brian
 - Nick and Marcella
+- Robbie and Brian
 
 #### With Meeka
 
 - Chris and Anna
-- Erin and Lucy
 - Parker and Ryan
-
-
+- Erin and Lucy
 
 ## 1605
 
