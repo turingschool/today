@@ -6,18 +6,18 @@ layout: outline
 ## All
 **Professional Skills Sessions**
 
-* All: GearUp (Fri)  
-* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)  
-* M1: Professional Skills (Thu)  
+* All: GearUp (Fri)
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)
+* M1: Professional Skills (Thu)
 
 ### Surveys
 * [1603]()
 * [1605](https://docs.google.com/forms/d/e/1FAIpQLSfxORqOBRViNqKxU1E6tbnZJUJMYlnkn1pbXeSXHrZU9EDy1w/viewform)
-* [1606-B]()
-* [1608-B]()
+* [1606-B](https://docs.google.com/forms/d/e/1FAIpQLSehgSIzaOlMN3_2UaPhSTy0PUeHRyHCYLT632bK-4vbnzSNCg/viewform)
+* [1608-B](https://goo.gl/forms/auvYGgURq7H4AZAC2)
 
 ### Guest Speaker: Nicholas Kovacevich (9:00 - 10:00) - Blake (in person)
-LinkedIn: https://www.linkedin.com/in/nkovac  
+LinkedIn: https://www.linkedin.com/in/nkovac
 Website: http://www.concretewind.com/
 
 Nick is a UI/UX designer and developer for software products. He has worked on products for small, medium and enterprise audiences and in a variety of industries: education, kids fashion, conferences, adult, streaming media, email (3 times) and now sports recruitment. Before he was a designer, he was a web developer. Before that, he toiled in inside sales, ran education programs in group homes, taught job skills to developmentally disabled adults, cooked/served Taco Bell/Starbucks, volunteered on a suicide hotline and as an assistant on ambulance runs.
@@ -31,7 +31,7 @@ Nick's presentation will focus on, **"Product Design: How does the product desig
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1603   | Gusto | tbd |
-| 1605   | Classroom B, Blake | tbd |
+| 1605   | Classroom B, Blake | [ActiveRecord American Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md) |
 | 1606-b | Classroom C, Blake | tbd |
 | 1606-f | Gusto | tbd |
 | 1608-b | Classroom A, Blake | tbd |
