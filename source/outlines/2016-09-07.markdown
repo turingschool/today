@@ -4,6 +4,13 @@ layout: outline
 ---
 
 ## Announcements
+**Professional Skills Sessions**  
+
+* FEE M2: StrengthsFinder Small Groups (Tue)  
+* BEE M2: StrengthsFinder Small Groups (Wed)  
+* BEE M4: Negotiations (Wed)  
+* BEE M3: Strategies for Innovative Problem Solving (Thu)  
+* BEE M2: Networking (Fri)  
 
 ## All
 
@@ -59,4 +66,3 @@ Classroom A.
 ### Project Work Time (1:00 - 4:00)
 
 Classroom A.
-

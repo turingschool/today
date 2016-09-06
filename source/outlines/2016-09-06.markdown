@@ -4,6 +4,13 @@ layout: outline
 ---
 
 ## Announcements
+**Professional Skills Sessions**  
+
+* FEE M2: StrengthsFinder Small Groups (Tue)  
+* BEE M2: StrengthsFinder Small Groups (Wed)  
+* BEE M4: Negotiations (Wed)  
+* BEE M3: Strategies for Innovative Problem Solving (Thu)  
+* BEE M2: Networking (Fri)  
 
 ## All
 
@@ -109,11 +116,10 @@ When you're not in a diagnostic you should be working on your project.
 * 3:30  - Noah Berman
 
 #### With Beth
+* 10:30 - Joe Stansfield
 * 11:00 - Jonathan Kimble
 * 11:30 - Alisher Sadikov
 * 1:00  - Ryan Travitz
 * 1:30  - Morgan Slimak
-* 2:00  - Vido Seaver
+* 2:00  - Brandon Randall
 * 2:30  - Tessa Taylor
-* 3:00  - Joe Stansfield
-* 3:30  - Brandon Randall
