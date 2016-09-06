@@ -69,16 +69,18 @@ Classroom C.
 ### Authentication Work Time / Mid Module Assessments (1:00 - 4:00)
 
 #### Casey
-Brendan Dillon
-Jesse Spevack
-Bryan Goss
-Ryan Workman
 
-## Sal
-Ben Pepper
-David Davydov
-Chris Calaway
-Brian Heim
+* Brendan Dillon
+* Jesse Spevack
+* Bryan Goss
+* Ryan Workman
+
+#### Sal
+
+* Ben Pepper
+* David Davydov
+* Chris Calaway
+* Brian Heim
 
 ## 1608-B
 
