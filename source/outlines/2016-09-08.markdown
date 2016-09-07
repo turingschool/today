@@ -4,6 +4,11 @@ layout: outline
 ---
 
 ## Announcements
+**Professional Skills Sessions**  
+
+* BEE M4: Negotiations (Wed)  
+* BEE M3: Strategies for Innovative Problem Solving (Thu)  
+* BEE M2: Networking (Fri)  
 
 ## All
 
@@ -11,7 +16,11 @@ layout: outline
 
 ### API Best Practices (9:00 - 10:30)
 
+No coding, just a conversation about building APIs, and the standards that are out there
+
 ### Visual Git Workflow (10:30 - 12:00)
+
+Add more tools in your git toolbelt
 
 ### Stand Up (1:00 - 1:30)
 
@@ -65,5 +74,3 @@ Classroom A with Jeff.
 Pairs TBD.
 
 ### Project Work Time (2:30 - 4:00)
-
-
