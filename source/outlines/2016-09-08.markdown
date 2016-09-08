@@ -14,7 +14,7 @@ layout: outline
 
 ## 1603
 
-### API Best Practices (9:00 - 10:30)
+### API Best Practices (9:15 - 10:30)
 
 No coding, just a conversation about building APIs, and the standards that are out there
 
@@ -22,12 +22,17 @@ No coding, just a conversation about building APIs, and the standards that are o
 
 Add more tools in your git toolbelt
 
-### Stand Up (1:00 - 1:30)
+### Stand Up (Whiskey Tango) (1:15 - 1:35)
 
-### Stand Up (1:00 - 2:00)
+Gusto!
+
+### Stand Up (LookingFor & mentorSHIP)(1:40 - 2:00)
+
+Gusto!
 
 ### Project Work Time
 
+Wherever you wanna!
 
 ## 1605
 
