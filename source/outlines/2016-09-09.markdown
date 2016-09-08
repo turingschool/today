@@ -20,6 +20,20 @@ layout: outline
 * [1608-B]()
 
 ### Guest Speaker: Ingrid Alongi (9:00 - 10:00) - Blake Street
+LinkedIn: https://www.linkedin.com/in/ingridalongi
+Website: https://twitter.com/electromute
+
+**Let’s talk all things jobs with Ingrid**
+
+Ingrid is the Head of Talent Development at Quick Left Cognizant and the chairwoman on Turing’s Board.
+
+Ingrid started her career as a Web applications developer while finishing up grad school in the late 1990s. The first half of her career was in the Interactive Agency space, where she focused on integrated marketing solutions, analytics, search engine marketing, email marketing and strategic planning for consumer facing web sites. In addition to her work as an engineer, she emerged as a positive leader and began to focus on running a team and the web development process as a whole, where she eventually became Director of Technology at Red Door Interactive in San Diego.
+
+Over time, Ingrid found that the agency space was not conducive to a successful software development process, nor did it leave much room to be innovative. So, in 2007, she went back to her hometown of Boulder, Colorado, where she began a job at a venture funded startup, Me.dium, Inc., which eventually re-branded as OneRiot to focus on a real time ad platform. With some shifts in focus, she moved on to a newly formed company, Gnip, where she primarily focused on supporting developers who were using the API as well as developing sample applications to showcase the streaming data platform.
+
+A shift in Gnip's product focus landed her out of a job, where she regrouped with the fellow co-founders of Quick Left in late 2009. Having experience with both interactive agencies and venture-funded start ups, Ingrid wanted to combine the best parts of both worlds--providing job stability for engineers, while at the same time focusing on innovative, interesting and challenging work.
+
+Specialties: Ingrid loves working with people, making connections, motivating, collaborating and solving problems. The irony that successful technologies are those that connect people makes perfect sense to Ingrid, who has always been interested in the intersection of technology and human connection. While she's no longer writing code, she'll always be an engineer at heart, thinking strategically about providing meaningful solutions.
 
 ### Instructional Time (10:00 - 4:00)
 
@@ -60,4 +74,3 @@ layout: outline
 * 10:40 - Erin Pintozzi
 * 11:05 - Daniel Shin
 * 11:30 - Anthony Ciccone
-
