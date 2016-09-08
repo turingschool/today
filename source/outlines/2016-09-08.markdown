@@ -36,9 +36,9 @@ Wherever you wanna!
 
 ## 1605
 
-### One on Ones (9:00 - 12:00)
+### Project Worktime (9:00 - 12:00)
 
-Schedule TBD
+Find a good spot to pair and finish off your RailsEngine projects
 
 ### Strategies for Innovative Problem Solving (1:00 - 2:00)
 
