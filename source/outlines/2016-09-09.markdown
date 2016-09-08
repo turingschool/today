@@ -4,11 +4,11 @@ layout: outline
 ---
 
 ## Announcements
-**Professional Skills Sessions**  
+**Professional Skills Sessions**
 
-* BEE M4: Negotiations (Wed)  
-* BEE M3: Strategies for Innovative Problem Solving (Thu)  
-* BEE M2: Networking (Fri)  
+* BEE M4: Negotiations (Wed)
+* BEE M3: Strategies for Innovative Problem Solving (Thu)
+* BEE M2: Networking (Fri)
 
 ## All
 
@@ -65,7 +65,7 @@ Specialties: Ingrid loves working with people, making connections, motivating, c
 
 #### With Jeff
 * 9:00  - Anna Dolan
-* 9:25  - Ben Morris-Rains
+* 9:25  - Nick Martinez
 * 9:50  - Brandon Randall
 * 10:15 - Brett Rivers
 * 10:40 - Dan Olson
@@ -78,7 +78,6 @@ Specialties: Ingrid loves working with people, making connections, motivating, c
 * 10:15 - Jon Kimble
 * 10:40 - Morgan Slimak
 * 11:05 - Ryan Travitz
-* 11:30 - Nick Martinez
 
 #### With Beth
 * 9:00  - Alisher Sadikov
