@@ -4,11 +4,11 @@ layout: outline
 ---
 
 ## Announcements
-**Professional Skills Sessions**  
+**Professional Skills Sessions**
 
-* BEE M4: Negotiations (Wed)  
-* BEE M3: Strategies for Innovative Problem Solving (Thu)  
-* BEE M2: Networking (Fri)  
+* BEE M4: Negotiations (Wed)
+* BEE M3: Strategies for Innovative Problem Solving (Thu)
+* BEE M2: Networking (Fri)
 
 ## All
 
@@ -82,9 +82,13 @@ Classroom C.
 
 ## 1608-B
 
-### Working with Ruby Modules (9:00 - 10:30)
+### Working with Ruby Modules (9:00 - 10:00)
 
 Classroom A with Mike
+
+### Command and Query and Instance Variables and You (10:00 - 10:30)
+
+Continuing in Classroom A with Mike
 
 ### Boolean Logic Deep Dive: Managing Branches in Code (10:30 - 12:00)
 
