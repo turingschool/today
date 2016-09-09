@@ -156,3 +156,26 @@ Classroom C
 * 10:40 - Erin Pintozzi
 * 11:05 - Daniel Shin
 * 11:30 - Anthony Ciccone
+
+### Paired Code Challenge (1:00 - 4:00)
+
+It's never too early to start practicing for job interviews.
+
+You will be working today on a classic code challenge, the Tower of Hanoi.
+
+[Tower of Hanoi](https://github.com/turingschool/challenges/blob/master/tower_of_hanoi.markdown)
+
+In Pairs.
+
+* Dan O. & Ali
+* Anna & Robbie
+* Ryan & Noah
+* Jason * Tessa
+* Megan & Mike
+* David & Brandon
+* Brad & Video
+* Joey & NIck
+* Erin & Jon
+* Brett & Dan S.
+* Alisher & Morgan
+* Anthony & Eric & Lee
