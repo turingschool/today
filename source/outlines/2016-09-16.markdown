@@ -18,7 +18,7 @@ layout: outline
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1603   | Gusto | tbd |
-| 1605   | Classroom B, Blake | tbd |
+| 1605   | Classroom B, Blake | POROs in Rails |
 | 1606-b | Classroom C, Blake | tbd |
 | 1606-f | Gusto | tbd |
 | 1608-b | Classroom A, Blake | tbd |
