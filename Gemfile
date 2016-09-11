@@ -10,7 +10,6 @@ gem 'foreman'
 gem 'puma'
 gem 'rack-contrib'
 gem 'redcarpet'
-gem 'figaro'
 
 group :test do
   gem 'rspec'
