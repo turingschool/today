@@ -4,6 +4,12 @@ layout: outline
 ---
 
 ## Announcements
+**This Week's Professional Skills Sessions**  
+
+* M1 Personal Branding, Part I (Tue, 10:30 - 11:30 am)  
+* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)  
+* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)  
+* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)  
 
 ## All
 
@@ -20,13 +26,12 @@ Classroom B.
 
 #### With Josh
 
-* (1:40 - 2:00) - Caleb Cowen
-* (2:00 - 2:20) - Chris Concannon
-* (2:20 - 2:40) - David Tinianow
-* (2:40 - 3:00) - Deb Hamel
-* (3:00 - 3:20) - Ryan Flach
-* (3:20 - 3:40) - Yoseph Anderson
-* (3:40 - 4:00) - Nicole Marino
+* (1:20) - Nicole Marino
+* (1:40) - Caleb Cowen, David Tinianow, Zachary Forbing
+* (2:20) - Chris Concannon
+* (2:40) - Deb Hamel
+* (3:00) - Ryan Flach
+* (3:20) - Yoseph Anderson
 
 #### With Andrew
 
@@ -52,4 +57,3 @@ Classroom B.
 
 
 ## 1608-B
-
