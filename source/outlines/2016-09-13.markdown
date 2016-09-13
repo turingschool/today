@@ -78,7 +78,16 @@ Big Workspace.
 
 ### Little Shop Work Time and Checkins
 
-Schedule TBD. Starting at 2:00
+#### Casey
+
+* The Waddams Emporium (Jesse PM) - 2:00
+* College Football Shop (PM TBD) - 2:30
+* Little Shop (Jasmin PM) - 3:00
+
+#### Sal
+
+* No Refunds Travel (Ryan PM) - 2:30
+* TBD (Calaway PM) - 3:00
 
 ## 1608-B
 ### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
