@@ -15,16 +15,19 @@ layout: outline
 
 ## 1603
 
-### Project Work Time (9:00 - 12:00)
+### Stand Up A (9:00 - 9:30)
 
-### Stand Up A (1:00 - 1:30)
+At Gusto!
 
-### Stand Up B (1:30 - 2:00)
+### Project Work Time (9:30 - 12:00)
 
-### Mock Assessment Evals (2:00 - 4:00)
+### Stand Up B (1:00 - 1:30)
 
-Schedule TBD.
+At Gusto!
 
+### Mock Assessment Evals (1:30 - 4:00)
+
+[Sign Up for a Time Today or Tomorrow Afternoon](https://public.etherpad-mozilla.org/p/1603-mock-evals)
 
 ## 1605
 
