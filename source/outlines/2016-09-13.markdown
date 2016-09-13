@@ -68,6 +68,17 @@ Classroom B.
 
 ## 1606-B
 
+### Lightning Talks (9:00 - 9:20)
+
+Big Workspace.
+
+### Git Workflow (9:20 - 11:00)
+
+Big Workspace.
+
+### Little Shop Work Time and Checkins
+
+Schedule TBD. Starting at 2:00
 
 ## 1608-B
 ### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
