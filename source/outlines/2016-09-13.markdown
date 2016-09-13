@@ -4,16 +4,26 @@ layout: outline
 ---
 
 ## Announcements
-**This Week's Professional Skills Sessions**  
+**This Week's Professional Skills Sessions**
 
-* M1 Personal Branding, Part I (Tue, 10:30 - 11:30 am)  
-* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)  
-* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)  
-* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)  
+* M1 Personal Branding, Part I (Tue, 10:30 - 11:30 am)
+* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)
+* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)
+* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)
 
 ## All
 
 ## 1603
+
+### Project Work Time (9:00 - 12:00)
+
+### Stand Up A (1:00 - 1:30)
+
+### Stand Up B (1:30 - 2:00)
+
+### Mock Assessment Evals (2:00 - 4:00)
+
+Schedule TBD.
 
 
 ## 1605
@@ -58,10 +68,13 @@ Classroom B.
 
 ## 1608-B
 ### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
+
 Buckle your seatbelts for a deep dive into testing with fixtures, stubbing and mocking.
 
 ### Personal Branding, Part I, with Lia (10:30 - 12:00)
+
 Join Lia in Classroom A.
 
 ### Work Time (1:00 - 4:00)
+
 Get counting those heads.
