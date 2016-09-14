@@ -14,16 +14,16 @@ layout: outline
 
 ## 1603
 
-## Advanced Enumerables (9:00 - 10:30)
+### Advanced Enumerables (9:00 - 10:30)
 With Beth in Classroom A.
 
-## Refactoring in Pairs (10:30 - 12:00)
+### Refactoring in Pairs (10:30 - 12:00)
 With Beth in Classroom A.
 
-## Assessment Q&A (1:00 - 1:30)
+### Assessment Q&A (1:00 - 1:30)
 With Beth in Classroom A.
 
-## Work Time (1:30 - 4:00)
+### Work Time (1:30 - 4:00)
 Keep countin' those heads.
 
 
