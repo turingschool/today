@@ -4,22 +4,59 @@ layout: outline
 ---
 
 ## Announcements
-**This Week's Professional Skills Sessions**  
+**This Week's Professional Skills Sessions**
 
-* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)  
-* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)  
-* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)  
+* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)
+* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)
+* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)
 
 ## All
 
 ## 1603
+
+### Advanced Enumerables (9:00 - 10:30)
+With Beth in Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+With Beth in Classroom A.
+
+### Assessment Q&A (1:00 - 1:30)
+With Beth in Classroom A.
+
+### Work Time (1:30 - 4:00)
+Keep countin' those heads.
 
 
 ## 1605
 
 ### Project Work Time and Assessment Review (9:00 - 12:00)
 
-Classroom B.
+#### With Andrew
+
+* (9:00)  - Angela Lindow
+* (9:15)  - Caleb Cowen
+* (9:30)  - Deb Hamel
+* (9:45)  - Garrett Smestad
+* (10:00) - Pat Wentz
+* (10:15) - Lane Winham
+
+#### With Josh
+
+* (9:00)  - Nicole Marino
+* (9:15)  - Ryan Flach
+* (9:30)  - Tommasina Miller
+* (9:45)  - Trent Whitinger
+* (10:00) - Zachary Forbing
+* (10:15) - Yoseph Anderson
+
+#### With Sally
+
+* (10:30) - David Tinianow
+* (10:45) - Karina Gonzalez
+* (11:00) - Kris Sparks
+* (11:15) - Lin McCartney
+* (11:30) - Matt Campbell
+* (11:45) - Matt Packer
 
 ### Protocol: Flower Exercise Job Searching Strageies w/ Allison (1:00 - 2:00)
 
@@ -29,5 +66,14 @@ Classroom B.
 
 ## 1606-B
 
+### Intro to Heroku & the Asset Pipeline (9:00 - 10:30)
+
+  Big Workspace
+
+### Pushing Logic Setup (10:30 - 11:00)
+
+  Big Workspace
+
+### Little Shop Work Time (11:00 - 12:00, 1:00 - 4:00)
 
 ## 1608-B

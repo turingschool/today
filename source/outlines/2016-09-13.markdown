@@ -15,16 +15,19 @@ layout: outline
 
 ## 1603
 
-### Project Work Time (9:00 - 12:00)
+### Stand Up A (9:00 - 9:30)
 
-### Stand Up A (1:00 - 1:30)
+At Gusto!
 
-### Stand Up B (1:30 - 2:00)
+### Project Work Time (9:30 - 12:00)
 
-### Mock Assessment Evals (2:00 - 4:00)
+### Stand Up B (1:00 - 1:30)
 
-Schedule TBD.
+At Gusto!
 
+### Mock Assessment Evals (1:30 - 4:00)
+
+[Sign Up for a Time Today or Tomorrow Afternoon](https://public.etherpad-mozilla.org/p/1603-mock-evals)
 
 ## 1605
 
@@ -65,6 +68,26 @@ Classroom B.
 
 ## 1606-B
 
+### Lightning Talks (9:00 - 9:20)
+
+Big Workspace.
+
+### Git Workflow (9:20 - 11:00)
+
+Big Workspace.
+
+### Little Shop Work Time and Checkins
+
+#### Casey
+
+* The Waddams Emporium (Jesse PM) - 2:00
+* College Football Shop (PM TBD) - 2:30
+* Little Shop (Jasmin PM) - 3:00
+
+#### Sal
+
+* No Refunds Travel (Ryan PM) - 2:30
+* TBD (Calaway PM) - 3:00
 
 ## 1608-B
 ### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
