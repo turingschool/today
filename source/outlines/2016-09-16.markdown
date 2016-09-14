@@ -21,7 +21,7 @@ layout: outline
 | 1605   | Classroom B, Blake | POROs in Rails |
 | 1606-b | Classroom C, Blake | tbd |
 | 1606-f | Gusto | tbd |
-| 1608-b | Classroom A, Blake | tbd |
+| 1608-b | Classroom A, Blake | Portfolio Pairing |
 | 1608-f | Gusto | tbd |
 
 ### Brown Bag Lunch Roulette (12:00 - 1:15)
@@ -73,10 +73,10 @@ We will be screening the video, [CODE: Debugging the Gender Gap](https://vimeo.c
 * 11:15 - Erin Pintozzi
 
 #### With Beth
-* 9:00 - Eric Wahlgren-Sauro
-* 9:45 - Anthony Ciccone
-* 10:30 - David Junta
-* 11:15 - Robbie Smith
+* 9:50 - Eric Wahlgren-Sauro
+* 10:35 - Anthony Ciccone
+* 11:20 - David Junta
+* 12:05 - Robbie Smith
 
 ### Portfolio Pairing (10:00 - 12:00)
 * Megan Talbot & Anthony Ciccone

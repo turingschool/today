@@ -77,3 +77,14 @@ Keep countin' those heads.
 ### Little Shop Work Time (11:00 - 12:00, 1:00 - 4:00)
 
 ## 1608-B
+### Advanced Enumerables (9:00 - 10:30)
+With Beth in Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+With Beth in Classroom A.
+
+### Assessment Q&A (1:00 - 1:30)
+With Beth in Classroom A.
+
+### Work Time (1:30 - 4:00)
+Keep countin' those heads.
