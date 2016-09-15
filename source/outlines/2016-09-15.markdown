@@ -12,6 +12,17 @@ layout: outline
 
 ## 1603
 
+### Stand Up A (9:00 - 9:30)
+
+@ Gusto
+
+### Stand Up B (1:00 - 1:30)
+
+@ Gusto
+
+### Project Work Time and Instructor Pairing (9:30 - 4:00)
+
+Wrap up Scale Up projects, attend start up week events, get your resumes in order and feel free to [schedule times with your instructors here](https://public.etherpad-mozilla.org/p/instructor-pairing) if you'd like to pair, talk jobs, or just have a 1 on 1 on any topic.
 
 ## 1605
 
@@ -98,4 +109,3 @@ TBD
 * 11:15 - Anthony & Vido
 
 #### Work Time (ALL DAY)
-
