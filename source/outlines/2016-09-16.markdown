@@ -9,7 +9,7 @@ layout: outline
 
 * [1603]()
 * [1605](https://goo.gl/forms/iGwXnZO7lPiolVsv2)
-* [1606-B]()
+* [1606-B](https://goo.gl/forms/InhNzSoj2vv3eqSf2)
 * [1608-B]()
 
 ### Guest Speaker: Mike Mangino (9:00 - 10:00) - Blake
@@ -19,7 +19,7 @@ layout: outline
 | ------ | -------- | ------------ |
 | 1603   | Gusto | tbd |
 | 1605   | Classroom B, Blake | POROs in Rails |
-| 1606-b | Classroom C, Blake | tbd |
+| 1606-b | Classroom C, Blake | Little Shop Worktime |
 | 1606-f | Gusto | tbd |
 | 1608-b | Classroom A, Blake | Portfolio Pairing |
 | 1608-f | Gusto | tbd |
