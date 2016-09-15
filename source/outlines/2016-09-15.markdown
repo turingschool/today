@@ -27,25 +27,24 @@ Wrap up Scale Up projects, attend start up week events, get your resumes in orde
 ## 1605
 
 ### Caching Strategies in Rails (9:00 - 12:00)
-
+Matt is in Detention
 Classroom B.
 
 ### Project Work Time & Check-ins (1:00 - 4:00)
 
 #### With Josh
 
-* (2:30) - Yoseph Anderson
-* (2:45) - Nicole Marino
-* (3:30) - Deb Hamel
-* (3:45) - Caleb Cowen, David Tinianow, Zachary Forbing
-* (4:00) - Chris Concannon
+* (2:30) - Nicole Marino
+* (2:45) - Deb Hamel
+* (3:30) - Caleb Cowen, David Tinianow, Zachary Forbing
+* (3:45) - Chris Concannon
 
 #### With Andrew
 
-* (1:00) - Lane Winham
+* (1:00) - Matthew Campbell
 * (1:20) - Karina Gonzalez
 * (1:40) - Lin McCartney
-* (2:00) - Matthew Campbell
+* (2:00) - Lane Winham
 * (2:20) - Matthew Packer
 * (2:40) - Roberta Doyle
 
