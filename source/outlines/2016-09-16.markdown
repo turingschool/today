@@ -19,7 +19,7 @@ The guest speaker will be remote. TVs will be available at both the Blake and Gu
 ### Academic Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1603   | Gusto | tbd |
+| 1603   | Gusto | Accessibility Deep Dive |
 | 1605   | Classroom B, Blake | POROs in Rails |
 | 1606-b | Classroom C, Blake | Little Shop Worktime |
 | 1606-f | Gusto | tbd |
@@ -53,6 +53,8 @@ Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.g
 We will be screening the video, [CODE: Debugging the Gender Gap](https://vimeo.com/123004482).
 
 ## 1603
+
+Join Jhun at Gusto to talk in depth (and learn about) accessibility issues in web development.
 
 ## 1605
 
