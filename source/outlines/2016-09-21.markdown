@@ -15,7 +15,13 @@ layout: outline
 
 ## 1606-B
 
-### Little Shop Work Time & Module 2 Assessments (9:00 - 12:00)
+### Intro to JavaScript (9:00 - 11:00)
+
+Big Workspace
+
+### Intro to JQuery (11:00 - 12:00)
+
+Big Workspace
 
 ### Little Shop Work Time (1:00 - 4:00)
 
