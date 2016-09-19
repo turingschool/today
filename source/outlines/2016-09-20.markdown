@@ -4,23 +4,30 @@ layout: outline
 ---
 
 ## Announcements
-* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas  
+* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas
 
 ## All
 
 ## 1603
 
+### FINAL ASSESSMENT (ALL DAY)
+
 
 ## 1605
+
+### FINAL ASSESSMENT (9:00 - 12:00)
+
+Classroom B.
 
 
 ## 1606-B
 
 ### Conceptual Questions (9:00 - 9:30)
 
-### Little Shop Work Time & Module 2 Assessments (9:30 - 12:00)
+Classroom C.
 
-### Little Shop Work Time & Module 2 Assessments (1:00 - 4:00)
+### Little Shop Work Time & Module 2 Assessments (9:30 - 4:00)
+
 
 #### With Casey
 
@@ -43,3 +50,15 @@ layout: outline
 * Nate (3:15)
 
 ## 1608-B
+
+### How Computers and Electronics Work (9:00 - 11:00)
+
+Classroom A with Jeff.
+
+### Binary, Octal, and Hex (11:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+Work away.
+
+
