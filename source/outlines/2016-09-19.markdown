@@ -4,6 +4,8 @@ layout: outline
 ---
 
 ## Announcements
+* If you haven't yet filled out the [survey from Friday's GearUp](https://goo.gl/forms/92vm7g3mjTqjYymx2), please do so today!   
+* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas  
 
 ## All
 
@@ -89,5 +91,3 @@ Schedule TBD
 * 9:45  - Alisher Sadikov
 * 10:30 - Vido Seaver
 * 1:00  - Jason Conrad
-
-
