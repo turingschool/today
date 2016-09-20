@@ -22,7 +22,6 @@ layout: outline
 * (9:40)  - Karina Gonzalez
 * (10:00) - Lin McCartney
 * (10:20) - Lane Winham
-* (10:40) - Caleb Cowen
 
 #### With Josh
 
@@ -31,7 +30,6 @@ layout: outline
 * (9:40)  - Matt Packer
 * (10:00) - Kris Sparks
 * (10:20) - Trent Whitinger
-* (10:40) - Zachary Forbing
 
 
 ### More Project Work Time (1:00 - 4:00)
