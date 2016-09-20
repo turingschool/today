@@ -19,11 +19,13 @@ layout: outline
 
 #### With Andrew
 
-* (9:00)  - Angela Lindow
-* (9:20)  - David Tinianow
-* (9:40)  - Karina Gonzalez
-* (10:00) - Lin McCartney
-* (10:20) - Jason Hannah
+* (9:00)  - Jenny Soden
+* (9:20)  - Caleb Cowen
+* (9:40)  - Angela Lindow
+* (10:00)  - David Tinianow
+* (10:20)  - Karina Gonzalez
+* (10:40) - Lin McCartney
+* (11:00) - Jason Hannah
 
 #### With Josh
 
@@ -61,5 +63,3 @@ Classroom A.
 ### Work Time (10:30 - 4:00)
 
 Final stretch, you're almost there.
-
-
