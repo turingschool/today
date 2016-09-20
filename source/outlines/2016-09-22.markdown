@@ -44,7 +44,7 @@ layout: outline
 * (11:00) - Jenny Soden
 * (11:20) - Pat Wentz
 
-#### Portfolio Reviews (1:00 - 4:00)
+### Portfolio Reviews (1:00 - 4:00)
 
 * (1:00) - Jason Hanna
 * (1:20) - Nicole Marino
