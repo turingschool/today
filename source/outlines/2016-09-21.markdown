@@ -13,7 +13,6 @@ layout: outline
 [Final Countdown](https://gist.github.com/rrgayhart/c8d9a937782d533372c16e333c271772)
 
 
-
 ## 1605
 
 ### Assessment Review & Project Work Time (9:00 - 12:00)
@@ -24,7 +23,7 @@ layout: outline
 * (9:20)  - David Tinianow
 * (9:40)  - Karina Gonzalez
 * (10:00) - Lin McCartney
-* (10:20) - Lane Winham
+* (10:20) - Jason Hannah
 
 #### With Josh
 
