@@ -4,7 +4,7 @@ layout: outline
 ---
 
 ## Announcements
-* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas  
+* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas
 
 ## All
 
@@ -12,6 +12,24 @@ layout: outline
 
 [Final Countdown](https://gist.github.com/rrgayhart/c8d9a937782d533372c16e333c271772)
 
+### Portfolio Reviews (9:00 - 12:00)
+
+At The Table of Portfolios.
+
+Order:
+
+* Anna Weisbrodt
+* Brian Sayler
+* Charles Kaminer
+* Christopher Soden
+* Erin Greenhalgh
+* Ilana Corson
+* Lucy Fox
+* Marcella Wigg
+* Nick Pisciotta
+* Parker Phillips
+* Robert Jaeger
+* Ryan Batty
 
 
 ## 1605
@@ -68,3 +86,56 @@ layout: outline
 
 
 ## 1608-B
+
+### Headcount Project Evals (9:00 - 12:00)
+
+#### With Mike
+* 9:00 - Morgan and Ali
+* 9:45 - Erin and Dan S.
+* 10:30 - Mike and Robbie
+* 11:15 - Ryan and Daniel O.
+
+#### With Beth
+* 9:00 - David and Nick
+* 9:45 - Brett and Jason
+* 10:30 - Anna and Noah
+* 11:15 - Mike and Robbie
+
+#### With Mark
+* 9:00 - Alisher and Eric
+* 9:45 - Joey aand Jon
+* 10:30 - Brad and Megan
+* 11:15 - Anthony and Vido
+
+### Portfolio Reviews / Project Retro (12:00 - WE FINISH)
+
+#### Portfolio Schedule
+
+We will perform portfolio reviews in this order. There will be two seats by
+Sal's desk labelled ON DECK and IN THE HOLE. Keep checking Slack as you will
+be notified who is ON DECK and who is IN THE HOLE.
+
+* Ali
+* Alisher
+* Anna
+* Anthony
+* Bradley
+* Brandon
+* Brett
+* Eric
+* Daniel O.
+* Daniel S.
+* David
+* Erin
+* Jason
+* Jon
+* Joey
+* Lee
+* Megan
+* Mike
+* Morgan
+* Nick
+* Noah
+* Rob
+* Ryan
+
