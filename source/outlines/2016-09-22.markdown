@@ -121,19 +121,22 @@ Order:
 * 9:00 - Morgan and Ali
 * 9:45 - Erin and Dan S.
 * 10:30 - Mike and Robbie
-* 11:15 - Ryan and Daniel O.
+* 11:15 - Anna and Noah
 
 #### With Beth
-* 9:00 - David and Nick
+* 9:00 - Ryan and Daniel O.
 * 9:45 - Brett and Jason
-* 10:30 - Anna and Noah
-* 11:15 - Mike and Robbie
+* 11:15 - Anthony and Vido
+* 11:15 - Brandon and Lee
 
 #### With Mark
 * 9:00 - Alisher and Eric
 * 9:45 - Joey aand Jon
 * 10:30 - Brad and Megan
-* 11:15 - Anthony and Vido
+* 11:15 - Mike and Robbie
+
+#### With Sal
+* 11:15 - David and Nick
 
 ### Portfolio Reviews / Project Retro (12:00 - WE FINISH)
 
@@ -161,9 +164,9 @@ be notified who is ON DECK and who is IN THE HOLE.
 * Lee
 * Megan
 * Mike
-* Morgan
 * Nick
 * Noah
 * Rob
 * Ryan
+* Vido
 
