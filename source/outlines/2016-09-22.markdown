@@ -162,11 +162,3 @@ be notified who is ON DECK and who is IN THE HOLE.
 * Jason
 * Jon
 * Joey
-* Lee
-* Megan
-* Mike
-* Nick
-* Noah
-* Rob
-* Ryan
-* Vido
