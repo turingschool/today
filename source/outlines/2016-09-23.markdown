@@ -12,7 +12,7 @@ layout: outline
 * [1606-B]()
 * [1608-B](https://goo.gl/forms/sLx8DIp0yBJJCzVF3)
 
-### Group Retro (10:00 - 11:00)
+### Group Retro (9:00 - 10:00)
 * 1605 - Discussion with Jeff (Classroom A)
 * 1606 - Classroom B
 * 1608 - Big Workspace
@@ -81,7 +81,7 @@ You're on your own.
 
 
 
-### Portfolio Reviews (10:00 - 1:30 pm)
+### Portfolio Reviews
 When not in portfolios you should be participating in the the all-school activities listed above.
 
 <table>
@@ -94,18 +94,21 @@ When not in portfolios you should be participating in the the all-school activit
       <td>
         <p>The Lair</p>
         <ul>
-          <li>10:00 - Lane Winham</li>
-          <li>10:15 - Karina Gonzalez</li>
-          <li>10:30 - Pat Wentz</li>
-          <li>10:45 - Matthew Campbell</li>
-          <li>11:00 - Matthew Packer</li>
-          <li>11:15 - Roberta Doyle</li>
-          <li>11:30 - Angela Lindow</li>
-          <li>11:45 - Tommasina Miller</li>
-          <li>12:00 - Trent Whitinger</li>
-          <li>12:15 - Kris Sparks</li>
-          <li>12:30 - Garrett Smestad</li>
-          <li>12:45 - Jenny Soden</li>
+          <li>10:00 - Chris Concannon</li>
+           <li> 10:15 - Yoseph Anderson</li>
+           <li> 10:30 - Ryan Flach</li>
+           <li> 10:45 - Lane Winham</li>
+           <li> 11:00 - Karina Gonzalez</li>
+           <li> 11:15 - Pat Wentz</li>
+           <li> 11:30 - Matthew Campbell</li>
+           <li> 11:45 - Matthew Packer</li>
+           <li> 12:00 - Roberta Doyle</li>
+           <li> 12:15 - Angela Lindow</li>
+           <li> 12:30 - Tommasina Miller</li>
+           <li> 12:45 - Trent Whitinger</li>
+           <li> 1:00 - Kris Sparks</li>
+           <li> 1:15 - Garrett Smestad</li>
+           <li> 1:30 - Jenny Soden</li>
         </ul>
       </td>
       <td>
