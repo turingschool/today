@@ -126,12 +126,12 @@ Order:
 #### With Beth
 * 9:00 - Ryan and Daniel O.
 * 9:45 - Brett and Jason
-* 11:15 - Anthony and Vido
+* 10:30 - Anthony and Vido
 * 11:15 - Brandon and Lee
 
 #### With Mark
 * 9:00 - Alisher and Eric
-* 9:45 - Joey aand Jon
+* 9:45 - Joey and Jon
 * 10:30 - Brad and Megan
 * 11:15 - Mike and Robbie
 
@@ -169,4 +169,3 @@ be notified who is ON DECK and who is IN THE HOLE.
 * Rob
 * Ryan
 * Vido
-
