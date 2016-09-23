@@ -59,7 +59,7 @@ you're expected to be in a session or to have notified Rachel Martinez (@rmartin
     </tr>
     <tr>
       <td>The Lair</td>
-      <td>Mike Dao (Staff) & Friends</td>
+      <td>Caleb Cowen & David Tinianow</td>
       <td>Building a RubyGem</td>
     </tr>
     <tr>
