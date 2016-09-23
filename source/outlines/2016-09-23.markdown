@@ -35,6 +35,10 @@ It's a normal lunch hour, see you at 1pm!
 
 ### Coding Is Fun (1:00 - 3:00)
 
+This afternoon front-end and back-end students are encouraged to mix and jump into
+a session that sounds interesting to you. Remember that these are not *classes*,
+they're sessions for exploring and experimenting.
+
 <table>
   <tbody>
     <tr>
@@ -89,23 +93,6 @@ It's a normal lunch hour, see you at 1pm!
     </tr>
   </tbody>
 </table>
-
-<tr>
-  <td>Classroom A Couches</td>
-  <td>tbd</td>
-  <td>tbd</td>
-</tr>
-<tr>
-  <td>Big Workspace Couches</td>
-  <td>tbd</td>
-  <td>tbd</td>
-</tr>
-<tr>
-  <td>Kitchen</td>
-  <td>tbd</td>
-  <td>tbd</td>
-</tr>
-
 
 ### Portfolio Reviews
 
