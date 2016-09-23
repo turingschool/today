@@ -70,7 +70,7 @@ you're expected to be in a session or to have notified Rachel Martinez (@rmartin
     <tr>
       <td>Classroom C</td>
       <td>Nate Allen (Staff)</td>
-      <td>What is PHP?</td>
+      <td><a href="https://gist.github.com/neight-allen/68d7a0481a19da39da1be6c9921cbe03">What is PHP?</a></td>
     </tr>
     <tr>
       <td>Big Workspace</td>
