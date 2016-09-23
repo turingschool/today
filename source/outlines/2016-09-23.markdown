@@ -33,11 +33,12 @@ All front and back-end students meet in the Big Workspace at Blake to kickoff a 
 
 It's a normal lunch hour, see you at 1pm!
 
-### Coding Is Fun (1:00 - 3:00)
+### Friday Spike - *The Season Finale* (1:00 - 3:00)
 
 This afternoon front-end and back-end students are encouraged to mix and jump into
 a session that sounds interesting to you. Remember that these are not *classes*,
-they're sessions for exploring and experimenting.
+they're sessions for exploring and experimenting. But this is academic time, so
+you're expected to be in a session or to have notified Rachel Martinez (@rmartinez) via Slack.
 
 <table>
   <tbody>
