@@ -12,18 +12,29 @@ layout: outline
 * [1606-B]()
 * [1608-B](https://goo.gl/forms/sLx8DIp0yBJJCzVF3)
 
-### Group Retro (9:00 - 10:00)
-* 1605 - Discussion with Jeff (Classroom A)
-* 1606 - Classroom B
-* 1608 - Big Workspace
+### 1605 Special Time with Jeff (9:00 - 10:00)
 
-### Cross-Cohort Planning Session (10:00 - 12:00)
-Meet in the Big Workspace.
+Meet with Jeff in Classroom A.
+
+### Group Retro (10:00 - 11:00)
+
+* 1605 - Classroom A with Nate & Lia
+* 1606 - Classroom B with Casey & Sal
+* 1608 - Big Workspace with Jeff & Mike
+
+At 10:45 students sit tight and instructors will rotate to introduce themselves
+and discuss what you need to know for your new module.
+
+### Cross-Cohort Planning Session (11:00 - 12:00)
+
+Meet in the Big Workspace to kickoff a brainstorming/planning session with Casey.
 
 ### Lunch (12:00 - 1:00)
-You're on your own.
+
+It's a normal lunch hour, see you at 1pm!
 
 ### Coding Is Fun (1:00 - 3:00)
+
 <table>
   <tbody>
     <tr>
@@ -33,8 +44,8 @@ You're on your own.
     </tr>
     <tr>
       <td>Classroom A</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Regis Boudinot (Alum)</td>
+      <td>Intro to VueJS</td>
     </tr>
     <tr>
       <td>Classroom A Couches</td>
@@ -43,8 +54,8 @@ You're on your own.
     </tr>
     <tr>
       <td>Staff Table</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Sally MacNicholas (Staff)</td>
+      <td>Programming Lightbulbs</td>
     </tr>
     <tr>
       <td>The Lair</td>
@@ -53,8 +64,8 @@ You're on your own.
     </tr>
     <tr>
       <td>Classroom B</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Nate Allen</td>
+      <td>What is PHP?</td>
     </tr>
     <tr>
       <td>Classroom C</td>
@@ -67,7 +78,7 @@ You're on your own.
       <td>tbd</td>
     </tr>
     <tr>
-      <td>BW Couches</td>
+      <td>Big Workspace Couches</td>
       <td>tbd</td>
       <td>tbd</td>
     </tr>
@@ -76,19 +87,34 @@ You're on your own.
       <td>tbd</td>
       <td>tbd</td>
     </tr>
+    <tr>
+      <td>Gusto A</td>
+      <td>tbd</td>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <td>Gusto B</td>
+      <td>tbd</td>
+      <td>tbd</td>
+    </tr>
+    <tr>
+      <td>Gusto C</td>
+      <td>tbd</td>
+      <td>tbd</td>
+    </tr>
   </tbody>
 </table>
 
 
-
 ### Portfolio Reviews
+
 When not in portfolios you should be participating in the the all-school activities listed above.
 
 <table>
   <tbody>
     <tr>
       <th>1605</th>
-      <th>1608</th>
+      <th>1608-B</th>
     </tr>
     <tr>
       <td>
