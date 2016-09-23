@@ -27,7 +27,7 @@ and discuss what you need to know for your new module.
 
 ### Cross-Cohort Planning Session (11:00 - 12:00)
 
-Meet in the Big Workspace to kickoff a brainstorming/planning session with Casey.
+All front and back-end students meet in the Big Workspace at Blake to kickoff a brainstorming/planning session with Casey & Ellen Mary.
 
 ### Lunch (12:00 - 1:00)
 
@@ -48,62 +48,63 @@ It's a normal lunch hour, see you at 1pm!
       <td>Intro to VueJS</td>
     </tr>
     <tr>
-      <td>Classroom A Couches</td>
-      <td>tbd</td>
-      <td>tbd</td>
-    </tr>
-    <tr>
       <td>Staff Table</td>
       <td>Sally MacNicholas (Staff)</td>
       <td>Programming Lightbulbs</td>
     </tr>
     <tr>
       <td>The Lair</td>
-      <td>Lia James & Rachel Martinez (Staff)</td>
-      <td>Resume & Contract Q&A</td>
+      <td>Mike Dao (Staff) & Friends</td>
+      <td>Building a RubyGem</td>
     </tr>
     <tr>
       <td>Classroom B</td>
+      <td>(People)</td>
+      <td>Hardware & 3D Printing</td>
+    </tr>
+    <tr>
+      <td>Classroom C</td>
       <td>Nate Allen</td>
       <td>What is PHP?</td>
     </tr>
     <tr>
-      <td>Classroom C</td>
-      <td>tbd</td>
-      <td>tbd</td>
-    </tr>
-    <tr>
       <td>Big Workspace</td>
-      <td>tbd</td>
-      <td>tbd</td>
-    </tr>
-    <tr>
-      <td>Big Workspace Couches</td>
-      <td>tbd</td>
-      <td>tbd</td>
-    </tr>
-    <tr>
-      <td>Kitchen</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Brenna Martensen (Staff)</td>
+      <td>First Steps with ReactJS</td>
     </tr>
     <tr>
       <td>Gusto A</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Jhun de Andres (Staff)</td>
+      <td>Web Accessibility</td>
     </tr>
     <tr>
       <td>Gusto B</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Steve Kinney (Staff)</td>
+      <td>Musical Instruments in the Browser</td>
     </tr>
     <tr>
       <td>Gusto C</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Jorge Téllez (Staff)</td>
+      <td>Object-Oriented Programming in Ruby</td>
     </tr>
   </tbody>
 </table>
+
+<tr>
+  <td>Classroom A Couches</td>
+  <td>tbd</td>
+  <td>tbd</td>
+</tr>
+<tr>
+  <td>Big Workspace Couches</td>
+  <td>tbd</td>
+  <td>tbd</td>
+</tr>
+<tr>
+  <td>Kitchen</td>
+  <td>tbd</td>
+  <td>tbd</td>
+</tr>
 
 
 ### Portfolio Reviews
