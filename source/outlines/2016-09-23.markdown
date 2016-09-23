@@ -59,8 +59,8 @@ It's a normal lunch hour, see you at 1pm!
     </tr>
     <tr>
       <td>The Lair</td>
-      <td>tbd</td>
-      <td>tbd</td>
+      <td>Lia James & Rachel Martinez (Staff)</td>
+      <td>Resume & Contract Q&A</td>
     </tr>
     <tr>
       <td>Classroom B</td>
