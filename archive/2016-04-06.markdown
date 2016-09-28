@@ -1,0 +1,120 @@
+---
+title: 20160406
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* cloy - verb - to weary by excess, especially of sweetness, richness,
+pleasure, etc.
+
+
+## 1510
+
+### How Front-End Frameworks Work (9:00 - 10:00)
+
+Meet with Steve in The Big Workspace to talk about what front-end frameworks are, why they exist, and how they work.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/how_javascript_frontends_work.markdown)
+
+### React in Theory (10:00 - 10:30)
+
+Stick around in The Big Workspace as Steve goes into a little more depth on how React works in particular and well as some of the important concepts that back it up.
+
+- [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/react_in_theory.markdown)
+
+### React in Practice (10:30 - 12:00)
+
+With all that theory in place, let's build a simple version of Ideabox together.
+
+To get started, clone down this [React Starter Kit][rsk] and check out the `ideabox-starter` branch.
+
+(You can also view the completed example [here][ic].)
+
+[rsk]: https://github.com/turingschool-examples/react-starter-kit
+[ic]: https://github.com/turingschool-examples/react-starter-kit/tree/completed-ideabox-example
+
+### Game Time Peer Review (1:00 - 2:00)
+
+Please spend 30 minutes on each project doing a through code review.
+
+- Open issues on your partner teams's code base either asking questions about an approach or suggesting an alternative approach
+- Open pull requests to fix bugs in your partner teams's code base.
+
+You'll be working in the following pairs:
+
+- Steve 'Dad' Pentler and Beth Sebian
+- Edgar Duran and Aaron Greenspan
+- Greg Armstrong and David Stinnette
+- Jordan Lawler and Toni Rib
+- Joseph Perry and Hector Huertas Baeza
+- Brant Wellman and Brenna Martenson
+- John 'Uncle' Slota and Shannon Paige
+- Steve Olson and Jamie Crockett && Justin
+- Marlo Major and Beth Secor
+- Penney Garrett and Dan Winter
+
+### Project Work time and Instructor Pairing (2:00 - 4:00)
+
+- Tess and Meeka are available from 2:00 - 4:00.
+- Steve is available from 3:00 - 4:00.
+
+## 1511
+
+### Testing an External API (9:00 - 12:00)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/testing_against_third_party_apis.md)
+
+### Work Time (1:00 - 4:00)
+
+## 1602
+
+### Form and Route Helpers in Rails (9:00 - 12:00)
+
+Classroom B. We'll use [this](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown) lesson plan today. This is a code along and we will continue to work on this repository for a few days in a few different lessons.
+
+### Jobs Q & A (1:00 - 1:30)
+
+Jeff is going to join you in Classroom B to give you the mini
+version of the Jobs Talk.
+
+Yes, he still works here.
+
+No, he doesn't love you like I do.
+
+### Blogger Kick Off and Work Time. (1:30 - 4:00)
+
+Stay in Classroom B.
+
+### One on Ones (1:30 - 4:00)
+
+Yes, they are every twelve minutes.
+
+With Andrew:
+
+* 1:30 Mark Miranda
+* 1:42 Andrew Thompson
+* 1:56 Joshua Washke
+* 1:08 Jared Roth
+* 2:20 Kris Foss
+* 2:32 Kami Boers
+* 2:44 Hedy Woo
+* 2:56 Christopher Soden
+* 3:08 Patrick Hardy
+* 3:20 Alireza Andersen
+* 3:32 Sal Espinosa
+
+One-on-Ones with Rachel will be tomorrow
+
+## 1603
+
+### All: Understanding Call Stacks and Return Values (9:00 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/stacks_methods_and_program_flow.markdown)
+
+[Video from Last Time](https://vimeo.com/155902102)
+
+Classroom A.

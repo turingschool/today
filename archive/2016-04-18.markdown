@@ -1,0 +1,137 @@
+---
+title: 20160418
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* somaticize - verb - to convert anxiety into physical problems.
+
+### Optional Posse Challenge
+
+This week, look at the [Monty Hall Problem](https://github.com/turingschool/posse_challenges/tree/master/monty_hall).
+
+It's really unintuitive and mind stretching. HIGHLY recommend you at least check it out.
+
+### #productivity-lunch (12:00 - 1:00)
+
+We'll meet in Big Workspace again. If you didn't RSVP, feel free to join us, but you'll have to bring your own lunch. Join #productivity-lunch on slack to RSVP next week.
+
+### Friday Lunch Roulette Groups
+
+TBA.
+
+
+## 1510
+
+### Thoughtbox Kick Off (9:00 - 9:30)
+
+No spoilers. Meet with Meeka in the Big Workspace. Bring a towel.
+
+### Thoughtbox Mock Evaluation (ALL DAY)
+
+[Wherever You Will Go](https://www.youtube.com/watch?v=iAP9AF6DCu4)
+
+
+## 1511
+
+### Mid Module Assessment (9:00 - 10:30)
+
+Classroom B.
+
+### Project Work Time and Reading (10:30 - 12:00)
+
+There's about 15 minutes worth of reading to prep for afternoon's class.
+
+#### Reading
+
+* [1s - AJAX: History](http://www.phpasks.com/articles/historyajax.html)
+* [1s - More AJAX History](http://www.softwareengineerinsider.com/programming-languages/ajax.html#context/api/listings/prefilter)
+* [2s - Client Side vs Server Side](http://www.codeconquest.com/website/client-side-vs-server-side/)
+* [2s - More Client Side vs Server Side](http://skillcrush.com/2012/07/30/client-side-vs-server-side/)
+
+### Working With Ajax (1:00 - 4:00)
+
+Big Workspace.
+
+
+## 1602
+
+### Mini Project Peer Review and Refactor (9:00 - 11:00)
+
+Classroom C for a [peer review and refactor session](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/rails_mini_project_review_and_refactor.md)
+
+We'll work in these pairs:
+
+* gurusundesh - alireza.andersen
+* s-espinosa - josh_washke
+* jdliss - marinacor
+* claudia - kamiboers
+* jbernesser16 - mpindell
+* lingtran - deborah
+* k_foss - patrickwhardy
+* topher105 - drew.t
+* thomp - jared_roth
+* hedy - jeneve.parrish
+* markmiranda - theonlyrao
+
+
+### Mini Project Show and Tell (11:00 - 11:30)
+
+Still in the Classroom C.
+
+### Little Shop of Orders Kick Off (11:30 - 12:00)
+
+Guess where?
+
+* Deborah Hamel & Kris Foss & Mark Miranda
+* Joshua Washke & Jared Roth & Gurusundesh Khalsa
+* Jonathan Bernesser & Jeneve Parrish & Marina Corona
+* Kami Boers & Christopher Soden & Ashwin Rao
+* Thomas Pickett & Hedy Woo & Sal Espinosa
+* Andrew Thompson & Jonathan Liss & Alireza Andersen
+* Matt Pindell & Claudia Kiesenhofer & Ling Tran & Patrick Hardy
+
+### Cart and Order Life Cycle (1:00 - 3:00)
+
+Classroom B.
+
+### Little Shop Work Time (3:00 - 4:00)
+
+Frankly, I'm shocked that I haven't linked [this](https://www.youtube.com/watch?v=1l9lN3wtMcA)
+before.
+
+
+## 1603
+
+### Practicing Remote Pairing (9:00 - 10:30)
+
+Classroom A.
+
+### Headcount / Black Thursday KickOff (10:30 - 11:30)
+
+Classroom A.
+
+* Charles Kaminer & Nick Pisciotta
+* Karina Gonzales & Erin Greenhalgh
+* Michael Lane Winham & Parker Phillips
+* Anna Weisbrodt & Jennifer Soden
+* Ilana Corson & Marcella Wigg
+* Christine Gamble & Lucy Fox
+* Brian Sayler & Linda McCartney
+* Colin Osborn & Kerry Sheldon
+* Ji Kim & Ryan Batty
+* Luigi Aversano & Robert Jaeger & Peter Springer
+
+### DTR (11:30 - 12:00)
+
+Define that Relationship. It's not going to define itself.
+
+### Team Building (1:00 - 3:00)
+
+Classroom A again.
+
+### Work Time Work Time (3:00 - 4:00)
+
+Work away at the things.

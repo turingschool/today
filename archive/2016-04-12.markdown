@@ -1,0 +1,131 @@
+---
+title: 20160412
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* fuliginous - adjective - sooty; smoky
+
+
+## 1510
+
+### Fecho: Building Your Own Data Store in React and Electron (9:00 - 12:00)
+
+Clone down this repository and check out the `basic-styles` branch.
+
+- [Electron-React Starter Kit](https://github.com/turingschool-examples/electron-react-starter-kit/tree/basic-styles)
+
+In this lesson, we'll build a data model to help us manage opened and active files.
+
+We'll discuss:
+
+- React as a view layer library
+- Flux and Redux
+- Building a data store from scratch
+- Using Node's `EventEmitter` library
+
+### Boxtrot Stand Up (1:00 - 1:30)
+
+Classroom C!
+
+### Boxtrot Capybara Script Lesson (1:30 - 4:00)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/load_testing_and_production_performance_monitoring.markdown)
+
+## 1511
+
+### Testing an Internal API (9:00 - 10:30)
+
+Wig Borkspace.
+
+### Serving JSON from Rails (10:30 - 12:00)
+
+Stay in the same place!
+
+### Project Check Ins and Work Time (1:00 - 4:00)
+
+#### With Josh
+
+- Kimiko Kano
+- Brian Rippeto
+- Nate Venn
+- Julian Feliciano
+- Adam Hundley
+- Charissa Lawrence
+- Alexis Navarrete
+- David Whitaker
+- Scott Firestone
+
+#### With Nate
+
+- Nicholas Dorans
+- Allan Blair
+- Erinna Chen
+- Chelsea Johnson
+- Brennan Holtzclaw
+- July Tran
+- Heidi Hoopes
+- Nick Weiland
+- Adrienne Domingus
+- Lenny Myerson
+
+
+## 1602
+
+### Authentication in Rails (9:00 - 12:00)
+
+Classroom B. [This is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authentication.markdown)
+
+### Authentication Work Time (1:00 - 4:00)
+
+Work away as you are not being diagnosed.
+
+### Mid Module Diagnostics (1:00 - 4:00)
+
+with Rachel:
+
+* Andrew Thompson (1:00 - 1:45)
+* Kris Foss (1:45 - 2:30)
+* Jeneve Parrish (2:30 - 3:15)
+* Marina Corona (3:15 - 4:00)
+
+with Andrew:
+
+* Sal Espinosa (1:00 - 1:45)
+* Gurusundesh Khalsa ( 1:45 - 2:30)
+* Hedy Woo (2:30 - 3:15)
+* Kami Boers (3:15 - 4:00)
+
+## 1603
+
+### Fundamental Refactoring Patterns (9:00 - 11:00)
+
+Classroom A.
+
+### Paired Refactoring (11:00 - 12:00)
+
+Classroom A still.
+
+### Project Q & A (1:00 - 1:30)
+
+Classroom A for a wee bit.
+
+### Project Work Time (1:30 - 4:00)
+
+Work away.
+
+### Mid Module Diagnostics Part Deux (1:30 - 4:00)
+
+#### With Horace
+* 1:30 - Ryan Batty
+* 2:00 - Robbie Jaeger
+* 2:30 - Linda McCartney
+
+#### With Mike
+* 2:30 - Parker Phillips
+* 3:00 - Erin Greenhalgh
+* 3:30 - Charles Kaminer

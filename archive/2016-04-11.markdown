@@ -1,0 +1,230 @@
+---
+title: 20160411
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* namby-pamby - adjective - lacking in directness, or moral or emotional
+strength.
+
+### Optional Posse Challenge
+
+* [Palindromes](https://github.com/turingschool/posse_challenges/tree/master/palindrome)
+
+### #productivity-lunch (12:00 - 1:00)
+
+We'll meet in Big Workspace again. If you didn't RSVP, feel free to join us, but you'll have to bring your own lunch. Join #productivity-lunch on slack to RSVP next week.
+
+### Friday Lunch Roulette Groups
+* Anna Weisbrodt, Alireza Andersen, July Tran, Horace
+* Brian Sayler, Marlo Major, Adrienne Domingus, Lovisa
+* Charles Kaminer, Charissa Lawrence, David Stinnette, Andrew
+* Kimiko Kano, Marina Corona, Christine Gamble, Rachel
+* Colin Osborn, Brant Wellman, Jared Roth, Josh
+* Ashwin Rao, Taylor Moore, Denali Lord, Nate
+* Scott Firestone, Erin Greenhalgh, James Crockett, Meeka
+* Deborah Hamel, Ilana Corson, Nick Weiland, Steve
+* Thomas Pickett, John Slota, Jason Hanna, Joanne
+* Shannon Paige, Jennifer Soden, Nate Venn, Allison
+* Ji Kim, Adam Hundley, Steven Olson, Jeff
+* Dan Winter, Claudia Kiesenhofer, Joshua Cohen, Jorge
+* Julian Feliciano, Greg Armstrong, Karina Gonzales, Tess
+* Mark Miranda, Allan Blair, Nick Pisciotta, Mike
+* Sal Espinosa, Kerry Sheldon, Yoseph Anderson, Beth Secor
+* Matt Pindell, Erinna Chen, Edgar Duran, Kris Sparks
+* Heidi Hoopes, Linda McCartney, Beth Sebian, Ling Tran
+* Brennan Holtzclaw, Brenna Martenson, Lucy Fox, Gurusundesh Khalsa
+* Aaron Greenspan, Luigi Aversano, Jeneve Parrish, Chelsea Johnson
+* Marcella Wigg, Hedy Woo, Alexis Navarrete, Jordan Lawler
+* Megan McMullin, Joshua Washke, Nicholas Dorans, Justin Pease
+* Michael Lane Winham, Kami Boers, Penney Garrett
+* Steve Pentler, Parker Phillips, Matt DesMarteau
+* Peter Springer, Lenny Myerson, Kris Foss, Drew Thompson
+* Robert Jaeger, Toni Rib, David Whitaker, Jonathan Bernesser
+* Ryan Batty, Joseph Perry, Brian Rippeto, Christopher Soden
+* Sonia Gupta, Jonathan Liss, Patrick Hardy
+
+
+## 1510
+
+### Fecho: Building Desktop Applications: Kickoff and Q & A (9:00 - 10:00)
+
+You'll be working in the following pairs:
+
+- Shannon Page and Jamie Crockett
+- Justin Pease and Dan Winter
+- Steve Pentler and Jordan Lawler
+- Joseph Perry and Brenna Martenson
+- Greg Armstrong
+
+This morning, we'll discuss the following:
+
+- Why we're using Electron for this project
+- Scoping your project appropriately
+- A brief tour of the scaffolding
+- Some thoughts on Flexbox and Fetch
+- What libraries you can and can't use
+- Biased opinions on CSS frameworks designed to make your application look like a native OS X application
+
+You should aim to have the following done by the end of the day:
+
+- Wireframes for your application
+- Detailed plans for your hopes and dreams
+- Detailed plans for an MVP in case your hopes are dashed and your dreams deferred
+- An initial spike of your application
+
+The tutorials and videos below should help you get acclimated to using Electron. If you haven't reviewed them, then that's something you should *definitely* do today.
+
+- [Introductory Talk](https://www.youtube.com/watch?v=rbSvc8_BHaw&feature=youtu.be)
+- **Fire Sale**: [Tutorial](https://github.com/stevekinney/firesale-tutorial), [Video](https://vimeo.com/155240396)
+- **Clipmaster 9000**: [Tutorial](https://github.com/stevekinney/clipmaster-9000-tutorial), [Video](https://vimeo.com/157959282)
+
+You can use either of the following to get your project off the ground:
+
+- [Steve's super simple starter kit](https://github.com/turingschool-examples/electron-react-starter-kit)
+- [The more intense Electron-React boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
+
+Contributing to Open Source:
+
+- Last inning, we created and contributed to [file-bin](https://www.npmjs.com/package/file-bin)—a simple little library that makes it easier to work with the file system in Node. There is still plenty of work to do. On Tuesday, we'll talk a but about how to create our own packages as well.
+
+Additional resources:
+
+- [What the Flexbox?](http://flexbox.io)
+- [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+
+### Fecho: Wireframing and Checkins (10:00 - 12:00)
+
+Meet with Steve to discuss your big plans for your applications.
+
+- 11:00: Shannon Page and Jamie Crockett
+- 11:10: Justin Pease and Dan Winter
+- 11:20: Steve Pentler and Jordan Lawler
+- 11:30: Joseph Perry and Brenna Martenson
+- 11:40: Greg Armstrong
+
+### BoxTrot/Whiskey Tango: Work Through the Marching Orders (9:00 - 12:00)
+
+[Marching Orders](https://gist.github.com/rrgayhart/67eb1f4b6c0aa0701b32e79423fe59f1)
+
+### BoxTrot/Whiskey Tango: Team Stand Up (1:05 - 1:30)
+
+### BoxTrot/Whiskey Tango: Agile and OtherBuzzwords (1:30 - 4:00)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
+
+## 1511
+
+### Building an API / Securing an API (9:00 - 12:00)
+
+Big Workspace
+
+### Rails Engine Kickoff (1:00 - 2:00)
+
+Big Workspace.
+
+### Project Pitches (2:00 - 3:00)
+
+Big Workspace. NREL and Screenpilot are coming to pitch the work they need done.
+
+### Small Groups and work time (3:00 - 4:00)
+
+The return of small groups. We'll come up with some topics, and cover them in more detail for anyone who's interested.
+
+Probably Staff area? We'll let you know.
+
+
+## 1602
+
+### Mixmaster Q & A (9:00 - 10:00)
+
+Classroom B.
+
+### ActiveRecord Obstacle Course (10:00 - 12:00)
+
+Classroom B. We will be using the [storedom repo](https://github.com/turingschool-examples/storedom).
+
+### Sessions Cookies and Flashes (1:00 - 2:30)
+
+Classroom B. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/cookies_sessions_flashes.markdown) is the lesson.
+
+### CRUD - Sprint (2:30 - 4:00)
+
+Classroom B.
+
+Where you will be.
+
+There will be no fee.
+
+Whee.
+
+
+## 1603
+
+### All: GitHub for Pairs (9:00 - 10:30)
+
+Learn how to share. Classroom A.
+
+### All: Project Kickoff. (10:30 - 11:00)
+
+Choose wisely.
+
+Classroom A.
+
+These are your groups:
+
+* Anna Weisbrodt & Kerry Sheldon
+* Lucy Fox & Robert Jaeger
+* Brian Sayler & Ryan Batty
+* Marcella Wigg & Karina Gonzales
+* Michael Lane Winham & Erin Greenhalgh
+* Parker Phillips & Kris Sparks
+* Charles Kaminer & Peter Springer
+* Christine Gamble & Luigi Aversano
+* Jennifer Soden & Linda McCartney
+* Nick Pisciotta & Sonia Gupta
+* Colin Osborn & Ji Kim
+* Ilana Corson & Denali Lord
+
+### Project DTR and Mid Module Diagnostic (11:00 - 12:00)
+
+Have your DTR, or get diagnostic'ed. I'm sure that's a word.
+
+#### With Horace
+* 11:00 - Colin Osborn
+* 11:30 - Ji Kim
+
+#### With Mike
+* 11:00 - Ilana Corson
+* 11:30 - Jenny Soden
+
+#### With Tess
+* 11:00 - Anna Weisbrodt
+* 11:30 - Brian Sayler
+
+#### With Nate
+* 11:00 - Nick Pisciotta
+* 11:30 - Luigi Aversano
+
+### Mid Module Diagnostic (1:00 - 4:00)
+
+### With Horace
+* 1:00 - Denali Lord
+* 1:30 - Jason Hanna
+* 2:00 - Joshua Cohen
+* 2:30 - Kris Sparks
+* 3:00 - Peter Springer
+* 3:30 - Sonia Gupta
+
+### With Mike
+* 1:00 - Kerry Sheldon
+* 1:30 - Lucy Fox
+* 2:00 - Marcella Wigg
+* 2:30 - Christine Gamble
+* 3:00 - Lane Winham
+* 3:30 - Karina Gonzales
+

@@ -1,0 +1,138 @@
+---
+title: 20160401
+layout: outline
+---
+
+## All
+
+### Surveys
+
+Please complete your survey at some point before 5pm today. Thanks!
+
+* [1510](https://docs.google.com/forms/d/13_fdJ9cvH7fBxKmSx_k-zxhO-yW-X7VAKhYjpMQTEl0/viewform)
+* [1511](http://goo.gl/forms/N7ILWu3fFg)
+* [1602](https://docs.google.com/a/casimircreative.com/forms/d/1OtS54xD5IHxlIliPqoTpfyVs1xLJVdBMqhOMQXy41G0/viewform)
+* [1603](https://docs.google.com/forms/d/1oBWCf6AnRkHde2Unpyq4rMqof-x3cIOXydtW9KrR4PY/viewform)
+
+### Instructional Time (9:00 - 10:30)
+
+#### 1510
+
+Join Tess in Classroom B to learn how to program the 3D printer.
+
+If time allows, Steve will answer any and all questions from the week.
+
+#### 1511
+
+Big Workspace
+
+We're very disappointed by your Pivot performances. We were going to give you a break this weekend, but we don't feel like you've earned it. This project is due Monday. You'll be working in the following teams:
+
+Groups:
+
+* Scott Firestone & Brennan Holtzclaw & July Tran & Nicholas Dorans & Kimiko Kano & Heidi Hoopes & Chelsea Johnson
+* Julian Feliciano & Erinna Chen & Brian Rippeto & David Whitaker & Alexis Navarrete & Nate Venn & Allan Blair
+* Nick Weiland & Adrienne Domingus & Jerrod Junker & Charissa Lawrenc & Lenny Myerson & Adam Hunley
+
+Josh and I have discussed this, and we've decided it's the best thing for you.
+
+Details [here](http://bit.ly/IqT6zt).
+
+##### ActiveRecord American Gladiators
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)
+
+#### 1602
+
+Classroom C.
+
+#### 1603
+
+Classroom A
+
+
+### Lighting Talks (10:30 - 11:00)
+
+Big Workspace
+
+* Marina Corona - Immigration and Technology
+* Claudia Kiesenhofer - Working in Groups - The Okanagan Model
+* Brenna Martenson - Make Divs Do What You Want
+* Charissa Lawrence - How can Technology Address Mental Health
+
+### Guest Speaker (11:00 - 12:00)
+
+Big Workspace. Leeeeets GoOoOoOoOoOoO.
+
+### Friday Lunch Roulette (12:00 - 1:15)
+* Anna Weisbrodt, Edgar Duran, Brennan Holtzclaw, Meeka
+* Claudia Kiesenhofer, Steven Olson, Brian Sayler, Steve
+* Chelsea Johnson, Charles Kaminer, Toni Rib, Josh
+* Alireza Andersen, Nick Weiland, John Slota, Nate
+* Brant Wellman, Heidi Hoopes, Ji Kim, Tess
+* Linda McCartney, Colin Osborn, Julian Feliciano, Andrew
+* Patrick Hardy, Denali Lord, Jerrod Junker, Rachel
+* Lenny Myerson, Scott Firestone, Ilana Corson, Horace
+* James Crockett, Jason Hanna, Adrienne Domingus, Lovisa
+* Marcella Wigg, Marlo Major, Sal Espinosa, Mike
+* Beth Sebian, Matt Pindell, Jennifer Soden, Jeff
+* Ling Tran, Dan Winter, Erin Greenhalgh, Jorge
+* Joshua Cohen, Aaron Greenspan, Kami Boers, Allison
+* Andrew Thompson, Beth Secor, Karina Gonzales, Joanne
+* Hector Huertas Baeza, Kerry Sheldon, Allan Blair,
+* Joseph Perry, Kris Sparks, July Tran, Jeneve Parrish
+* Marina Corona, Penney Garrett, Alexis Navarrete
+* Kimiko Kano, Joshua Washke, Luigi Aversano, Brenna Martenson
+* Justin Pease, Deborah Hamel, Nicholas Dorans, Megan McMullin
+* Thomas Pickett, Michael Lane Winham, Greg Armstrong, David Stinnette
+* Kris Foss, Nick Pisciotta, Jordan Lawler, David Whitaker
+* Mark Miranda, Parker Phillips, Steve Pentler, Lenny Myerson
+* Erinna Chen, Ashwin Rao, Lucy Fox, Shannon Paige
+* Peter Springer, Christopher Soden, Charissa Lawrence
+* Robert Jaeger, Adam Hundley, Jonathan Bernesser
+* Ryan Batty, Gurusundesh Khalsa, Jared Roth
+* Sonia Gupta, Christine Gamble, Brian Rippeto, Nate Venn
+* Yoseph Anderson, Hedy Woo, Jonathan Liss
+
+### Group Retro (1:15 - 2:15)
+* 1510 - Classroom B
+* 1511 - Classroom C
+* 1602 - Big Workspace
+* 1603 - Classroom A
+
+### Gear Up (2:15 - 3:00)
+
+Big Workspace
+
+#####Groups:
+* Charles Kaminer & Edgar Duran & Hedy Woo & Jonathan Liss
+* Linda McCartney & Lenny Myerson & Joshua Washke & Yoseph Anderson
+* Andrew Thompson & Michael Lane Winham & Brennan Holtzclaw & Kris Sparks
+* Sonia Gupta & Lenny Myerson & Shannon Paige & Christine Gamble
+* Jared Roth & David Stinnette & Jordan Lawler & Ilana Corson
+* Luigi Aversano & Scott Firestone & Ji Kim & Penney Garrett
+* Thomas Pickett & Peter Springer & Brenna Martenson & Sal Espinosa
+* Jerrod Junker & Nicholas Dorans & Mark Miranda & Taylor Moore
+* Ashwin Rao & Justin Pease & Greg Armstrong & Steven Olson
+* Matt DesMarteau & Heidi Hoopes & Christopher Soden & Erin Greenhalgh
+* Kerry Sheldon & Patrick Hardy & Nick Pisciotta & Parker Phillips
+* Anna Weisbrodt & Toni Rib & John Slota & Megan McMullin
+* Karina Gonzales & Marcella Wigg & Brian Sayler & Beth Sebian
+* Beth Secor & Nate Venn & Gurusundesh Khalsa & Chelsea Johnson
+* Joshua Cohen & Jason Hanna & Jennifer Soden & Nick Weiland
+* Kimiko Kano & Adam Hundley & Alexis Navarrete & Erinna Chen
+* Denali Lord & Robert Jaeger & James Crockett & Aaron Greenspan
+* Ling Tran & Brian Rippeto & Jeneve Parrish & Hector Huertas Baeza
+* Steve Pentler & Charissa Lawrence & Joseph Perry & Alireza Andersen
+* Ryan Batty & Colin Osborn & Claudia Kiesenhofer & Marina Corona
+* Marlo Major & Adrienne Domingus & Deborah Hamel & Lucy Fox
+* Matt Pindell & Kris Foss & David Whitaker & Brant Wellman & Kami Boers
+* July Tran & Julian Feliciano & Jonathan Bernesser & Allan Blair & Dan Winter
+
+### Student Lead Sessions (3:00 - 4:00)
+
+* Gurusundesh Khalsa- A group mind mythical creature creation, mod 1 preferred: "Ah yes, you are a wise traveller indeed! come with me on a stroll to the venerable Tristram itself where we will be embraced by the wisdom of Deckard Cain." *Big Workspace*
+* Armstrong Posse - Elixir *Classroom A*
+* Nicholas Dorans - Ruby refactoring/testing techniques. You can bring any code you want and we'll refactor that. Or we can go through some of my "garbage" code from mod 1 and refactor that as well. Also will cover best testing practices. This would be most beneficial for mod 1ers. *Classroom C*
+* Nick W. & Brian - Code Challenge / Tech Interview Prep *Classroom B*
+* Allison - Blogging Workshop *Big Staff Table*

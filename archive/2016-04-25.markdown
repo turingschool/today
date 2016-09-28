@@ -1,0 +1,127 @@
+---
+title: 20160425
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* perpend - verb - to ponder; deliberate
+
+
+## 1510
+
+### The Plan Kick Off (9:00 - 9:30)
+
+Meet with Meeka in Classroom C to kick off [the Plan](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/the-plan).
+
+### Real Time Evaluations (9:30 - 12:00)
+
+Make sure you've completed [this submission form](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/real-time).
+
+#### With Steve
+
+- 9:40:  Marlo Major
+- 10:00: Steven Olson
+- 10:20: Joseph Perry
+- 10:40: Brenna Martenson
+- 11:00: Greg Armstrong
+- 11:20: Steve Pentler
+- 11:40: Dan Winter
+- 1:00:  Brant Wellman
+- 1:20:  Jordan Lawler
+
+#### With Meeka
+
+- 9:40:  Justin Pease
+- 10:00: John Slota
+- 10:20: Beth Sebian
+- 10:40: James Crockett
+- 11:00: Edgar Duran
+- 11:20: David Stinnette
+- 11:40: Beth Secor
+- 1:00:  Aaron Greenspan
+- 1:20:  Penney Garrett
+
+### The Plan Work Time (1:00 - 4:00)
+
+Work time. That's the plan.
+
+## 1511
+
+### Getting Started With Workers (9:00 - 12:00)
+
+Big Workspace
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+#### With Josh
+
+- Chelsea Johnson
+- Adrienne Domingus
+- Heidi Hoopes
+- Nick Weiland
+- Kimiko Kano & Julian Feliciano
+- Lenny Myerson
+- Nate Venn
+- David Whitaker
+- Alexis Navarrete
+
+#### With Nate
+
+- Charissa Lawrence
+- Adam Hundley
+- Brennan Holtzclaw
+- Scott Firestone
+- Brian Rippeto
+- Allan Blair
+- Nicholas Dorans
+- July Tran
+- Erinna Chen
+
+
+
+## 1602
+
+### Introduction to JavaScript (9:00 - 12:00)
+
+Classroom B; With Andrew; [Here is the lesson plan;](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_javascript.markdown)
+
+### Little Shop Work Time and Check Ins (1:00 - 4:00)
+
+#### With Andrew:
+
+* 1:00 - Jonathan Bernesser & Jeneve Parrish & Marina Corona
+* 1:45 - Deborah Hamel & Kris Foss & Mark Miranda
+* 2:30 - Joshua Washke & Jared Roth & Gurusundesh Khalsa
+
+#### With Rachel
+
+* 1:00 - Kami Boers & Christopher Soden & Ashwin Rao & Alireza Andersen
+* 1:45 - Thomas Pickett & Hedy Woo & Sal Espinosa
+* 2:30 - Matt Pindell & Claudia Kiesenhofer & Ling Tran & Patrick Hardy
+* 3:15 - Andrew Thompson & Jonathan Liss & Alireza Andersen
+
+## 1603
+
+### Higher Order Ruby: Writing Methods that Accept Blocks (9:00 - 10:30)
+
+Classroom A with Mike.
+
+Make Ruby Great Again.
+
+### Final Assessments (10:30 - 4:00)
+
+#### With Mike
+* 10:30 - Linda McCartney
+* 11:15 - Lucy Fox
+* 1:00 - Christine Gamble
+
+#### With Horace
+* 10:30 - Colin Osborn
+* 11:15 - Ilana Corson
+
+#### With Jhun
+* 10:30 - Marcella Wigg
+* 11:15 - Nick Pisciotta
+* 1:00 - Michael Lane Winham

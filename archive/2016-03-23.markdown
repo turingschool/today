@@ -1,0 +1,111 @@
+---
+title: 20160323
+layout: outline
+---
+## All
+
+### Word of the Day:
+
+* affinal - adjective - related by or concerning marriage
+
+
+## 1510
+
+### Array.prototype Methods
+
+We'll do a whole group discussion and review.
+
+- Here is [a recording a previous version][video] of the lecture.
+- [Clone down this repository][mdn]. You'll be using it all module.
+- You'll be working through [this tutorial][apm].
+- There are are some tests in `demos/array-prototype-methods` that go along with the tutorials.
+- Your job is to make those tests pass.
+- You'll be filling out these [checks for understanding][cfu].
+- **Extension**: We cover a number of other useful methods [here][add].
+
+[mdn]: https://github.com/mdn/advanced-js-fundamentals-ck
+[apm]: https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods
+[cfu]: https://gist.github.com/stevekinney/7acbc39dc6c77d3bafbf
+[video]: https://vimeo.com/132966650
+[add]: https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/01-array-prototype-methods/01-additional-methods.md
+
+
+### Project Work Time
+
+Meeka, Tess, and Steve are around (remotely) via pull request, Slack, and Screenhero.
+
+### Homework
+
+[Fork this gist on ES6 and respond](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
+
+
+## 1511
+
+### Multi Tenancy Authorization (9:00 - 12:00)
+
+Big Workspace.
+
+### Project Work Time (1:00 - 4:00)
+
+Pivot Away!
+
+
+## 1602
+
+### CRUD Review (9:00 - 9:30)
+
+Come to Classroom B.
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+Come to Classroom B.
+
+### Nokogiri (1:00 - 1:30)
+
+Come to Classroom B.
+
+### Acceptance testing with Capybara (1:30 - 4:00 )
+
+Come to Classroom B.
+
+
+## 1603
+
+### All: Introducing Arrays (9:00 - 10:30)
+
+Classroom A with Horace.
+
+### All: Exploring .each and Exercises (10:30 - 12:00)
+
+Mike tags in.  Stay in Classroom A.
+
+### Echo: Work Time (1:00 - 4:00)
+
+### Foxtrot: Drills Check Ins (1:00 - 4:00)
+
+#### With Horace
+* 2:30 - Jason Hanna
+* 2:45 - Jennifer Soden
+* 3:00 - Christine Gamble
+* 3:15 - Josh Cohen
+* 3:30 - Parker Phillips
+
+#### With Mike
+* 1:30 - Kris Sparks
+* 1:45 - Peter Springer
+* 2:00 - Linda McCartney
+* 2:15 - Charles Kaminer
+* 2:30 - Sonia Gupta
+* 2:45 - Michael Lane Winham
+* 3:00 - Luigi Aversano
+* 3:15 - Erin Greenhalgh
+
+#### With Lovisa
+* 1:30 - Megan McMullin
+* 1:45 - Ji Kim
+* 2:00 - Nick Pisciotta
+* 2:15 - Karina Gonzales
+* 2:30 - Colin Osborn
+* 2:45 - Ilana Corson
+* 3:00 - Yoseph Anderson
+* 3:15 - Denali Lord

@@ -1,0 +1,141 @@
+---
+title: 20160321
+layout: outline
+---
+
+# All
+
+## Word of the Day
+
+**acclimate** - _verb_ - to accustom or become accustomed to a new climate, environment, or situation.
+
+## Welcome 1603
+
+Feel free to introduce yourselves to anyone you don't recognize.
+
+Name tags, all week!
+
+## Friday Lunch Roulette
+
+Get ready to meet some of your fellow Turing students with Friday Lunch Roulette! Early this week, find your group listed below and decide on a plan for Friday lunch (go out to eat, bring lunch to Turing, etc.). Just please make sure that'll stay in the 12:00 - 1:15pm window.
+
+# 1510
+
+## State of Turing (9:00 - 9:30)
+
+Meet in the Big Workspace.
+
+## Module 4 Kickoff (9:30 - 11:00)
+
+Meet in Classroom C with Meeka, Steve, and Tess. Steve will go over what it means to be in Module 4, balancing job hunting with learning, the point system, and more.
+
+- [Module 4 Cheatsheet](https://gist.github.com/rrgayhart/042665ce6d3a0c265a05)
+- [Extra Credit and Submissions](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/extra-credit)
+
+## Ideabox 2.0 Kickoff (11:00 - 12:00)
+
+Stay in Classroom C as Meeka kicks off your very first project.
+
+- [Project Specification](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+- [Project Submission Form](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/ideabox2.0)
+
+## Project Work Time and Instructor Pairing (1:00 - 4:00)
+
+It's time to start boxing those ideas.
+
+Meeka and Tess will be in the Big Workspace for all of your questioning needs.
+
+# 1511
+
+## State of Turing (9:00 - 9:30)
+
+Meet in the Big Workspace.
+
+## Meet your instructors (9:30 - 10:30)
+
+You'll be spending a lot of time with us, and we'd like take some time to get to know each other
+
+## The Pivot: The Kickoff (10:30 - 12:00)
+
+You'll be working in groups for this project:
+
+- Erinna Chen, David Whitaker, Chelsea Johnson
+- Alexis Navarrete, Nate Venn, Adam Hundley
+- Charissa Lawrence, Nick Weiland, Kimiko Kano
+- Adrienne Domingus, Scott Firestone, Brian Rippeto
+- Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes
+- Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson
+
+## Project Work Time (1:00 - 2:30)
+
+## Small Groups (2:30 - 4:00)
+
+# 1602
+
+## State of Turing (9:00 - 9:30)
+
+Meet in the Big Workspace.
+
+## Module 2 Kickoff and Goal Setting (9:30 - 10:30)
+
+Meet in the Big Workspace with Rachel and Andrew. You'll want to bookmark the following links:
+
+* [Calendar for Module 2](https://www.google.com/calendar/render?cid=Y2FzaW1pcmNyZWF0aXZlLmNvbV9ycHMyaGcxbmZxamloNHJjbDNnbDZzNGxwa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t#main_7)
+* [Module 2 Course Outline](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/README.md)
+* [Module 2 Homework](https://github.com/turingschool/turing-homework/blob/master/module-2-homework.markdown)
+
+## Intro to Sinatra/Task Manager (10:30 - 12:00)
+
+Big Workspace STILL. [Here is our check for understanding.](https://gist.github.com/Carmer/f382765ddcc76d709db9) answer the questions in the comments 
+
+## Intro to Bootsrap (1:00 - 4:00)
+
+Guess who wrote the initial version of this lesson. I bet you can't tell. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/introduction_to_bootstrap.markdown).
+
+# 1603
+
+## Staff Introductions (8:30 - 9:00)
+
+Meet in Classroom A to meet all of us. If you don't know where that is, ask someone.  : )
+
+No seriously, just ask someone, it's easier than describing it.
+
+## State of Turing (9:00 - 9:30)
+
+Head over to the Big Workspace.
+
+## Tour and Getting Started (9:30 - 10:00)
+
+Meet back up in Classroom A.
+
+## All: Success at Turing (10:00 - 11:30)
+
+We will start you back Classroom A.
+
+## All: Starting Portfolios and Personal Goal Setting (11:30 - 12:00)
+
+Classroom A.
+
+## All: Student Introduction Lunch (12:00 - 1:00)
+
+You've met all of us, now we want to know all about you.
+
+## Echo: Strings the Hard Way (1:00 - 3:00)
+
+Meet Mike at the Staff conference table.
+
+## Foxtrot: Strings and Integers (1:00 - 3:00)
+
+Classroom A with Horace.
+
+## All: Drills Kickoff (3:00 - 3:30)
+
+Get back together in Classroom C.
+
+## Echo: Project Kickoff (3:30 - 4:00)
+
+But it's your first day?!!? Back to the Staff table.
+
+## Foxtrot: Drills Setup Office Hours (3:30 - 4:00)
+
+Lovisa and Horace will be around if you need help setting up your drills.

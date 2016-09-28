@@ -4,6 +4,7 @@ require 'time'
 
 class OutlinesByCohort
   COHORTS = [
+    ['1610', Date.parse('2016-10-03')...Date.parse('2016-11-12')],
     ['1608', Date.parse('2016-08-15')...Date.parse('2016-09-24')],
     ['1606', Date.parse('2016-06-27')...Date.parse('2016-08-06')],
     ['1605', Date.parse('2016-05-09')...Date.parse('2016-06-18')],

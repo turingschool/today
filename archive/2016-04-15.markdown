@@ -1,0 +1,142 @@
+---
+title: 20160415
+layout: outline
+---
+
+## All
+
+### Word of the Day
+* miche - verb - to lurk out of sight.
+
+### Surveys
+
+* [1510](http://goo.gl/forms/7DBF2ILVwt)
+* [1511](http://goo.gl/forms/qojs7tUN8a)
+* [1602](https://docs.google.com/forms/d/1kF1VQ9_M9wwzhxyil1X_ayYFPq_ZV7CYGCMnPIFjg0o/viewform)
+* [1603](http://goo.gl/forms/vUOUaSPQal)
+
+### Instructional Time (9:00 - 10:30)
+
+* 1510 - See Below.
+* 1511 - Classroom B.
+* 1602 - Rails Mini Project Work Time
+* 1603 - See Below.
+
+### 1510: Project Evals and Pizza Express
+
+While Steve and Meeka are doing evaluations, you'll be working on [Pizza Express](https://github.com/turingschool-examples/pizza-express). (You can submit your work [here](https://gist.github.com/rrgayhart/521cd4277481c298a1ae). But, if you comment on the gist instead of forking it like the instructions say, we will quietly shake our heads.)
+
+**For project evaluations**, make sure your [submission forms](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/scale-up) are in.
+
+#### With Steve
+
+- 9:00: Justin Pease and Dan Winter
+- 9:20: Steve Pentler and Jordan Lawler
+- 9:40: Joseph Perry and Brenna Martenson
+- 10:00: Greg Armstrong
+
+#### With Meeka
+
+- Penney Garrett
+- Aaron Greenspan
+- Steve Olson
+- Edgar Duran
+- David Stinnette
+- Beth Sebian
+- Marlo Major
+- John Slota
+- Brant Wellman
+- Beth Secor
+
+### 1603
+
+Pairs:
+* Anna Weisbrodt & Kerry Sheldon & Lucy Fox & Robert Jaeger
+* Brian Sayler & Ryan Batty & Marcella Wigg & Karina Gonzales
+* Michael Lane Winham & Erin Greenhalgh & Parker Phillips & Kris Sparks
+* Charles Kaminer & Peter Springer & Christine Gamble & Luigi Aversano
+* Jennifer Soden & Linda McCartney & Nick Pisciotta & Sonia Gupta
+* Colin Osborn & Ji Kim & Ilana Corson
+
+### Guest Speaker (10:30 - 11:20)
+
+Big Workspace.
+
+### Lightning Talks (11:25 - 12:00)
+
+* Kimiko Kano - The Future of Food
+* John Slota - Nokogiri in 5 minutes
+* Joshua Washke - DRY up your css with Sass
+* Joe Perry - Using WebSockets in NodeJS
+* Kami Boers - A Brief Introduction to Agile Development
+
+### Lunch Roulette (12:00 - 1:15)
+
+* Anna Weisbrodt, Alireza Andersen, July Tran, Horace
+* Brian Sayler, Marlo Major, Adrienne Domingus, Ji Kim
+* Charles Kaminer, Charissa Lawrence, David Stinnette, Andrew
+* Kimiko Kano, Marina Corona, Christine Gamble, Steven Olson
+* Ashwin Rao, Taylor Moore, Claudia Kiesenhofer, Nate
+* Scott Firestone, Erin Greenhalgh, James Crockett, Meeka
+* Deborah Hamel, Ilana Corson, Nick Weiland, Adam Hundley
+* Thomas Pickett, John Slota, Jason Hanna, Joanne
+* Shannon Paige, Jennifer Soden, Nate Venn, Allison
+* Julian Feliciano, Greg Armstrong, Karina Gonzales, Tess
+* Mark Miranda, Allan Blair, Nick Pisciotta, Mike
+* Sal Espinosa, Kerry Sheldon, Yoseph Anderson, Beth Secor
+* Matt Pindell, Erinna Chen, Edgar Duran, Kris Sparks
+* Heidi Hoopes, Linda McCartney, Beth Sebian, Ling Tran
+* Brennan Holtzclaw, Brenna Martenson, Lucy Fox, Gurusundesh Khalsa
+* Aaron Greenspan, Luigi Aversano, Jeneve Parrish, Chelsea Johnson
+* Marcella Wigg, Hedy Woo, Alexis Navarrete, Jordan Lawler
+* Dan Winter, Joshua Washke, Nicholas Dorans, Justin Pease
+* Michael Lane Winham, Kami Boers, Penney Garrett, Jared Roth
+* Steve Pentler, Parker Phillips, Matt DesMarteau, Brant Wellman
+* Peter Springer, Lenny Myerson, Kris Foss, Drew Thompson
+* Robert Jaeger, Toni Rib, David Whitaker, Jonathan Bernesser
+* Ryan Batty, Joseph Perry, Brian Rippeto, Christopher Soden
+* Sonia Gupta, Jonathan Liss, Patrick Hardy, Colin Osborn
+
+### Group Retro (1:15 - 2:00)
+* 1510 - Classroom C.
+* 1511 - Big Workspace.
+* 1602 - Classroom B.
+* 1603 - Classroom A.
+
+### Gear Up (2:00 - 3:00)
+
+Big Workspace.
+
+Groups:
+
+* Jennifer Soden & Chelsea Johnson & Ilana Corson & Charles Kaminer
+* Lucy Fox & Matt DesMarteau & David Whitaker & Penney Garrett
+* Robert Jaeger & Edgar Duran & Alireza Andersen & Kris Sparks
+* Hedy Woo & Luigi Aversano & Greg Armstrong & Gurusundesh Khalsa
+* Linda McCartney & Mark Miranda & Erinna Chen & James Crockett
+* Andrew Thompson & Adrienne Domingus & Scott Firestone & Heidi Hoopes & Allan Blair
+* Taylor Moore & Nick Weiland & Matt Pindell & Aaron Greenspan
+* Nick Pisciotta & Ryan Batty & Joshua Washke & Julian Feliciano
+* Ji Kim & Beth Secor & Brian Rippeto & Jeneve Parrish
+* Marina Corona & Christine Gamble & Brian Sayler & Beth Sebian
+* Erin Greenhalgh & Lenny Myerson & Jonathan Bernesser & Claudia Kiesenhofer
+* Parker Phillips & Kimiko Kano & Deborah Hamel & Brant Wellman
+* Justin Pease & Jordan Lawler & Joseph Perry & Peter Springer
+* Steve Pentler & Jared Roth & Marcella Wigg & Jonathan Liss
+* Patrick Hardy & Nate Venn & Charissa Lawrence & Kerry Sheldon
+* Ling Tran & Kami Boers & Adam Hundley & Kris Foss
+* Ashwin Rao & Anna Weisbrodt & Karina Gonzales & Nicholas Dorans
+* Jason Hanna & Marlo Major & Sonia Gupta & July Tran
+* Christopher Soden & Brenna Martenson & Sal Espinosa & Thomas Pickett
+* Dan Winter & John Slota & Shannon Paige & David Stinnette & Colin Osborn
+* Alexis Navarrete & Michael Lane Winham & Brennan Holtzclaw & Steven Olson
+
+### Electives (3:00 - 4:00)
+
+* Holden Mitchell - Intro to D3.js in *Classroom B*
+* Avital Schoenberg - How to use Skillful effectively in *Horace's Lair*
+* Jonathan Bernesser - Having Fun With Elm Lang at *Couch area near Classroom A*
+* Jonathan Liss - Having fun or crying with C/C++ in *Classroom C*
+* Justin Pease - Beginners Object Model in *Classroom A*
+* Heidi Hoopes - Young Coder's Primer to Mechanical Security (aka Lockpicking) in the *Big Workspace*
+* Allison Singer - Blogging Workshop at the *Big Staff Table*

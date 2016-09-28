@@ -1,0 +1,182 @@
+---
+title: 20160322
+layout: outline
+---
+
+## All
+
+### Word of the Day
+
+**stentorian** - *adjective* - extremely loud
+
+### Lunch Roulette Groups
+
+
+* Shannon Paige, Anna Weisbrodt, Mark Miranda, Horace
+* Alireza Andersen, Charissa Lawrence, Erin Greenhalgh, Mike
+* Aaron Greenspan, Adam Hundley, Joshua Washke, Lovisa
+* Steve Pentler, Sal Espinosa, Charles Kaminer, Andrew
+* Christine Gamble, Allan Blair, Jonathan Liss, Rachel
+* Jeneve Parrish, Beth Sebian, Colin Osborn, Josh M.
+* Nick Weiland, Kris Foss, Denali Lord, Meeka
+* Ilana Corson, Adrienne Domingus, Thomas Pickett, Jorge
+* Nicholas Dorans, Jason Hanna, Deborah Hamel, Jeff
+* Lenny Myerson, Nate Venn, Claudia Kiesenhofer, Joanne
+* Yoseph Anderson, David Whitaker, Ji Kim, Allison
+* Jonathan Bernesser, Taylor Moore, Julian Feliciano, Joshua Cohen
+* Ashwin Rao, David Stinnette, Brennan Holtzclaw, Karina Gonzales
+* Greg Armstrong, Kerry Sheldon, Marina Corona, Kimiko Kano
+* Lenny Myerson, Kami Boers, Joseph Perry, Kris Sparks
+* Linda McCartney, Toni Rib, Alexis Navarrete, Matt DesMarteau
+* Gurusundesh Khalsa, Lucy Fox, Jordan Lawler, Scott Firestone
+* Erinna Chen, Steven Olson, Christopher Soden, Luigi Aversano
+* Jared Roth, Marcella Wigg, Brian Rippeto, Hector Huertas Baeza
+* Megan McMullin, Patrick Hardy, Edgar Duran, Chelsea Johnson
+* John Slota, Ling Tran, Michael Lane Winham, Jennifer Soden
+* Nick Pisciotta, Andrew Thompson, Brenna Martenson, Heidi Hoopes
+* Hedy Woo, Marlo Major, Parker Phillips, Brian Sayler
+* Peter Springer, Dan Winter, Jerrod Junker, Matt Pindell
+* Robert Jaeger, Penney Garrett, July Tran, Nate
+* Ryan Batty, James Crockett, Beth Secor
+* Sonia Gupta, Justin Pease, Brant Wellman
+
+
+## 1510
+
+### Homework
+- Complete [Discover Dev Tools](http://discover-devtools.codeschool.com/). Make sure to take a screens shot of the badges you receive at the end and [submit it here](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/dev-tools-homework). (5 points)
+
+### Debugging JavaScript (9:00 - 10:30)
+
+Me with Meeka in Classroom C.
+
+- Clone down [idea-bin](https://github.com/turingschool-examples/idea-bin)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/debugging_javascript.markdown)
+
+### Unit Testing with Teaspoon (10:30 - 12:00)
+
+Stick around with Meeka in Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+
+### Project Work Time and Checkins (1:00 - 4:00)
+
+(All times are estimates.)
+
+#### With Steve
+
+- 1:00 - 1:20: Brenna Martenson
+- 1:20 - 1:40: Steven Olson
+- 1:40 - 2:00: Toni Rib
+- 2:00 - 2:20: Brant Wellman
+- 2:40 - 3:00: Aaron Greenspan
+- 3:00 - 3:20: Dan Winter
+- 3:20 - 3:40: Edgar Duran
+
+#### With Tess
+
+- 1:00 - 1:20: Hector Huertas Baeza
+- 1:20 - 1:40: Jordan Lawler
+- 1:40 - 2:00: Beth Secor
+- 2:00 - 2:20: Greg Armstrong
+- 2:40 - 3:00: James Crockett
+- 3:00 - 3:20: John Slota
+- 3:20 - 3:40: Joseph Perry
+- 3:40 - 4:00: Justin Pease
+
+#### With Meeka
+
+- 1:00 - 1:20: Taylor Moore
+- 1:20 - 1:40: Shannon Paige
+- 1:40 - 2:00: Penney Garrett
+- 2:00 - 2:20: Beth Sebian
+- 2:40 - 3:00: Marlo Major
+- 3:00 - 3:20: David Stinnette
+- 3:20 - 3:40: Steve Pentler
+
+## 1511
+
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/seeding_data_efficiently.md)
+
+### Understanding Multitenancy (10:00 - 12:00)
+
+Nate in Classroom B.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/understanding_multitenancy.md)
+
+
+### Project Checkins and Work Time (1:00 - 4:00)
+
+Come meet with your client in this order:
+
+#### Josh
+
+- Brennan Holtzclaw, Nicholas Dorans, Allan Blair, Lenny Myerson: Farmer’s Market
+- Alexis Navarrete, Nate Venn, Adam Hundley: Lodging
+- Erinna Chen, David Whitaker, Chelsea Johnson: Tickets
+
+#### Nate
+
+- Charissa Lawrence, Nick Weiland, Kimiko Kano: Lending
+- Adrienne Domingus, Scott Firestone, Brian Rippeto: Photos
+- Jerrod Junker, July Tran, Julian Feliciano, Heidi Hoopes: Collector?
+
+
+## 1602
+
+### Peer Review: HTML/CSS/Bootstrap (9:00 - 10:00)
+
+Get with your partner and talk about the styling you implemented in your TaskManger app for homework last night. [Here](https://gist.github.com/Carmer/52b20bbe29d89dfa3f00) are some things to talk about/think about during your review session.
+
+* Alireza Andersen & Jonathan Liss
+* Jared Roth & Ashwin Rao
+* Joshua Washke & Thomas Pickett
+* Mark Miranda & Kris Foss
+* Deborah Hamel & Ling Tran
+* Christopher Soden & Jonathan Bernesser
+* Marina Corona & Andrew Thompson
+* Matt Pindell & Sal Espinosa
+* Kami Boers & Jeneve Parrish
+* Gurusundesh Khalsa & Hedy Woo
+* Patrick Hardy & Claudia Kiesenhofer
+
+### How The Web Works (10:00 - 12:00)
+
+Join Jeff in the BigWorkspace to chat about all those tubes that make up the interwebs.
+
+### CRUD in Sinatra Workshop (12:00 - 4:00)
+
+Come to classroom B to learn about CRUD in Sinatra. [This is the lesson plan.](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown)
+
+## 1603
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentors Q & A (9:30 - 10:00)
+
+### Echo: SuperFizz Recap (10:00 - 10:30)
+
+Mike at the table.
+
+### Foxtrot: Strings and Integers Recap (10:00 - 10:30)
+
+Classroom A with Horace.
+
+### Echo: String and Integer Riddles (10:30 - 12:00)
+
+Stay at the table.
+
+### Foxtrot: Flow Control (10:30 - 12:00)
+
+Classroom A.
+
+### All: Improv (1:00 - 4:00)
+

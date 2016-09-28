@@ -1,0 +1,116 @@
+---
+title: 20160325
+layout: outline
+---
+
+## All
+
+### Surveys
+
+Please complete your survey at some point before 5pm today. Thanks!
+
+* [1510](https://docs.google.com/a/casimircreative.com/forms/d/1Rti8v123wjyPjYSv62N4ZjOp9wKxYCjwg98RS80hrtU/viewform)
+* [1511](https://docs.google.com/forms/d/1g5r_woqzR1QrU0pWozcPlOJGeNeIzwWVzUYo23xbrRE/viewform)
+* [1602](https://docs.google.com/a/casimircreative.com/forms/d/11k3fzauoWTbCbtE7g1cRaKpVxPmey8Y0nJCVHWE6098/viewform)
+* [1603](https://docs.google.com/forms/d/1GWYXl0tUzl9vbd04u_d9CbjeYEI_hxtW1uEAC-WelZM/viewform)
+
+### Lunch Roulette Groups
+* Shannon Paige, Anna Weisbrodt, Mark Miranda, Horace
+* Alireza Andersen, Charissa Lawrence, Erin Greenhalgh, Mike
+* Aaron Greenspan, Adam Hundley, Joshua Washke, Lovisa
+* Steve Pentler, Sal Espinosa, Charles Kaminer, Andrew
+* Christine Gamble, Allan Blair, Jonathan Liss, Rachel
+* Jeneve Parrish, Beth Sebian, Colin Osborn, Josh M.
+* Nick Weiland, Kris Foss, Denali Lord, Meeka
+* Ilana Corson, Adrienne Domingus, Thomas Pickett, Jorge
+* Nicholas Dorans, Jason Hanna, Deborah Hamel, Jeff
+* Lenny Myerson, Nate Venn, Claudia Kiesenhofer, Joanne
+* Yoseph Anderson, David Whitaker, Ji Kim, Allison
+* Jonathan Bernesser, Taylor Moore, Julian Feliciano, Joshua Cohen
+* Ashwin Rao, David Stinnette, Brennan Holtzclaw, Karina Gonzales
+* Greg Armstrong, Kerry Sheldon, Marina Corona, Kimiko Kano
+* Lenny Myerson, Kami Boers, Joseph Perry, Kris Sparks
+* Linda McCartney, Toni Rib, Alexis Navarrete, Matt DesMarteau
+* Gurusundesh Khalsa, Lucy Fox, Jordan Lawler, Scott Firestone
+* Erinna Chen, Steven Olson, Christopher Soden, Luigi Aversano
+* Jared Roth, Marcella Wigg, Brian Rippeto, Hector Huertas Baeza
+* Megan McMullin, Patrick Hardy, Edgar Duran, Chelsea Johnson
+* John Slota, Ling Tran, Michael Lane Winham, Jennifer Soden
+* Nick Pisciotta, Andrew Thompson, Brenna Martenson, Heidi Hoopes
+* Hedy Woo, Marlo Major, Parker Phillips, Brian Sayler
+* Peter Springer, Dan Winter, Jerrod Junker, Matt Pindell
+* Robert Jaeger, Penney Garrett, July Tran, Nate
+* Ryan Batty, James Crockett, Beth Secor
+* Sonia Gupta, Justin Pease, Brant Wellman
+
+### Instructional Time (9:00 - 11:00)
+
+## 1510
+
+#### Refactoring Ideabox and Other Questions from the Week (9:00 - 11:00)
+
+Join Steve in Classroom C to live refactor his bad code, answer your questions, and wax poetic.
+
+- [Your list of questions](https://gist.github.com/rrgayhart/6863cd83ca38686ec4fc)
+- [Array.prototype methods](https://github.com/mdn/advanced-js-fundamentals-ck/tree/gh-pages/tutorials/01-array-prototype-methods)
+- [Steve's Idea Box](https://github.com/stevekinney/idea-box)
+
+## 1511
+
+Meet in Classroom B
+
+#### Homework review
+Let's go over the Intermediate SQL lesson.
+
+#### Q&A
+Get a chance to ask questions about this week's lessons, or the Pivot.
+
+#### Work time
+Get a chance to work in the person with your team for the first time in a couple days.
+
+[Weekly Survey](https://docs.google.com/forms/d/1g5r_woqzR1QrU0pWozcPlOJGeNeIzwWVzUYo23xbrRE/viewform)
+
+## 1602
+
+#### Q/A & Debugging (9:00 - 11:00)
+
+Big Workspace -  We'll go over and review everything we did for the last few days. Once we finish up with Q&A we will go through and debug a sinatra application. This will be a code along/watch me debug. [Here is the repo](git@github.com:rwarbelow/1511_task_manager.git) checkout the branch `debugging-practice`.
+
+## 1603
+
+Classroom A.
+
+### Guest Speaker (11:00 - 12:00)
+
+Big Workspace.
+
+### Retro (1:15 - 2:00)
+* 1603 - Classroom A
+* 1602 - Big Workspace
+* 1511 - Classroom B
+* 1510 - Classroom C
+
+### Lighting Talks (2:00 - 2:45)
+
+* Ashwin Rao - Developing for Ecommerce Marketing
+* Adrienne Domingus The Turing Test: What it means to Humanity and AI
+* Beth Sebian - Top Ten Civic Tech Projects
+* Jeneve Parrish - Improving the form of your writing
+* Brant Wellman - Picking a Personal Project and Lessons Learned
+* Greg Armstrong - Saving the World one App at a Time: Medical & Education Applications
+* Alireza Andersen New Years Resolution
+
+Big Workspace
+
+### Student-Lead Sessions (2:45 - 4:00)
+
+* *Enumerables* in Classroom B with Thomas Pickett: Good for Module 1 Students
+
+* *From Ruby to Elixir* in Horace's Lair with Hector Huertas Baeza & Aaron Greenspan: Introduction to Elixir for Ruby programmers. We’ll go over the main differences between  object oriented and functional programming, using ruby and elixir as examples.
+
+* *Make Mod 1 a Little Easier: Using Atom, Terminal, and other tools* in Classroom C with Andrew Thompson & Jared Roth: We are cramming in a ton of tips, shortcuts, and third-party applications that will be incredibly useful throughout Turing, but especially at the beginning.
+
+* *Materialize CSS for Mod 2/3* in the Big Workspace with Steve Pentler: Save hours of your life and hide your gnasty back-end code with Materialize CSS. "People that style are 1.4X more valuable during group projects." - Dennis Rodman
+
+* *ElasticSearch workshop* in Classroom A (mod 3/4 students only)
+

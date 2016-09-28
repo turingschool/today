@@ -1,0 +1,91 @@
+---
+title: 20160413
+layout: outline
+---
+
+## 1510
+
+### Fecho & BoxTrot Work Time (9:00 - 12:00)
+
+### BoxTrot Stand Up (1:00 - 1:30)
+
+Classrom C.
+
+### Arel and Advanced Active Record (1:30 - 4:00)
+
+BoxTrot and Tisky Wango required - Fecho suggested
+
+Classroom C.
+
+## 1511
+
+### Project work time and 1-on-1s (9:00 - 12:00)
+
+#### With Josh
+
+- Chelsea Johnson
+- Erinna Chen
+- Adam Hundley
+- Brian Rippeto
+- Kimiko Kano
+- Nick Weiland
+- David Whitaker
+- Allan Blair
+- Nicholas Dorans
+- Scott Firestone
+
+#### With Nate
+
+- Heidi Hoopes
+- July Tran
+- Adrienne Domingus
+- Lenny Myerson
+- Julian Feliciano
+- Charissa Lawrence
+- Nate Venn
+- Brennan Holtzclaw
+- Alexis Navarrete
+
+### More Project Work Time (1:00 - 4:00)
+
+The world is waiting for an easy way to access this business intelligence data via a RESTful HTTP interface. Will you be ready in time?
+
+## 1602
+
+### Routing in Rails (9:00 - 10:30)
+
+Join Rachel in Classroom B. You'll need [this repo](https://github.com/rwarbelow/routes-playground).
+
+### Authorization in Rails (10:30 - 12:00)
+
+Join Rachel in Classroom B. Find the lesson outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/authorization.markdown).
+
+### Mid-Module assessments(1:00 - 4:00)
+
+with Rachel:
+
+* Christopher Soden (1:00 - 1:45)
+* Ling Tran (1:45 - 2:30)
+* Jared Roth (2:30 - 3:15)
+* Jonathan Bernesser (3:15 - 4:00)
+
+with Andrew:
+
+* Thomas Pickett (1:00 - 1:45)
+* Patrick Hardy (1:45 - 2:30)
+* Claudia Kiesenhofer (2:30 - 3:15)
+* Matt Pindell (3:15 - 4:00)
+
+## 1603
+
+### Working with Ruby Modules (9:00 - 10:30)
+
+Classroom A.
+
+### Boolean Logic Deep Dive: Managing Branches in Code (10:30 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Work Away.
