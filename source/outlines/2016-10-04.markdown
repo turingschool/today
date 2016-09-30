@@ -1,0 +1,85 @@
+---
+title: 20161004
+layout: outline
+---
+
+## Announcements
+* NAME TAGS ALL WEEK
+
+
+## 1605
+
+### Selenium Medium Dive (9:00 - 10:30)
+
+Classroom B.
+
+### Event Bubbling and Delegation (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time & Checkins (1:00 - 4:00)
+
+
+## 1606
+
+### Customizing JSON in your Rails API (9:00 - 10:30)
+
+Big Workspace.
+
+### Project Work Time (10:30 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1608
+
+### HTML-CSS Partner Review (9:00 - 9:30)
+
+Classroom C.
+
+### Homework Review (9:30 - 10:00)
+
+Classroom C.
+
+### How the Web Works (10:00 - 11:00)
+
+Classroom C.
+
+### What is Rack? (11:00 - 11:30)
+
+Classroom C.
+
+### Templating with ERB (11:30 - 12:00)
+
+Classroom C.
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1610
+
+### PD: Personal Branding I (9:00 - 10:00)
+
+Classroom A.
+
+### Team Building Improv (10:00 - 12:00)
+
+Classroom A.
+
+### Headshots (12:00 - 1:00)
+
+Lobby.
+
+### ECHO: Superfizz Recap (1:00 - 1:30)
+
+### FOXTROT: Strings & Integers Recap (1:00 - 1:30)
+
+### ECHO: Strings & Integer Riddles (1:30 - 3:00)
+
+### FOXTROT: Flow Control (1:30 - 3:00)
+
+### Student Activities (3:00 - 4:00)
+
+It's going to be the best day of your life.

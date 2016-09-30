@@ -1,0 +1,43 @@
+---
+title: 20161007
+layout: outline
+---
+
+## ANNOUNCEMENTS
+* NAME TAGS ALL WEEK
+
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605]()
+* [1606-B]()
+* [1608-B]()
+
+### Guest Speaker: (9:00 - 10:00) - Blake/Gusto
+
+### Academic Time (10:00 - 12:00)
+| Cohort | Location | Lesson Plans |
+| ------ | -------- | ------------ |
+| 1605   | Classroom B | Algorithn Time: Linked List |
+| 1606-b | Staff Area | RailsEngine Evals |
+| 1608-b | Classroom C | Database Visualization/Weekly Recap |
+| 1610-b | Classroom A | See below. |
+
+
+## 1610
+
+### Talking Mentoring & Posses w/ Mary (10:00 - 10:30)
+
+Classroom A.
+
+### ECHO: Sorting Suite Review/Date Night Kick Off (10:30 - 11:30)
+
+### FOXTROT: Credit Check Review/Mastermind Kick Off (10:30 - 11:30)
+
+### Portfolio Work Time (11:30 - 12:00)
+
+
+
