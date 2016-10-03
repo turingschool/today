@@ -28,9 +28,9 @@ Classroom B.
 
 Classroom B.
 
-### Fundamental DOM Manipulation (2:30 - 4:00)
+### Optional Tutorial - Fundamental DOM Manipulation (2:30 - 4:00)
 
-Classroom B.
+[This lesson plan](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/lessons/dom-manipulation-with-javascript.md)
 
 
 ## 1606
