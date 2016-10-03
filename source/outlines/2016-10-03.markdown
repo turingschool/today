@@ -60,6 +60,8 @@ Start those engines.
 
 Big Workspace.
 
+Outline of [Intro to Module 2](https://gist.github.com/case-eee/c00d029e2a70f23745ebcd7c10973ca5) with Casey & Sal!
+
 ### Intro to Sinatra/Task Manager (10:30 - 12:00)
 
 Big Workspace.
