@@ -37,6 +37,8 @@ Classroom B.
 
 ### RailsEngine Kickoff (10:30 - 11:15)
 
+It's like SalesEngine, but for Rails.
+
 Classroom C.
 
 ### JSON Fundamentals (11:15 - 12:00)
@@ -48,6 +50,8 @@ Classroom C.
 Big Workspace
 
 ### Project Worktime (3:00 - 4:00)
+
+Start those engines.
 
 
 ## 1608
