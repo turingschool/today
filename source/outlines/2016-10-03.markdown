@@ -35,7 +35,7 @@ Classroom B.
 
 ## 1606
 
-### RailsEngine Kickoff (10:30 - 11:15)
+### RailsEngine Kickoff (9:30 - 11:15)
 
 It's like SalesEngine, but for Rails.
 
