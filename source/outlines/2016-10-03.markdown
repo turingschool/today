@@ -41,6 +41,17 @@ It's like SalesEngine, but for Rails.
 
 Classroom C.
 
+#### Groups
+
+* David Davydov & Jasmin Hudacsek
+* Jesse Spevack & Nate Anderson
+* Raphael Barbo & Sonia Gupta
+* Calaway & Jean Joeris
+* Brendan Dillon & Ryan David Workman
+* Chase Dunagan & Matt DesMarteau
+* Brian Heim & Bryan Goss
+* Susi Irwin & Dan Broadbent
+
 ### JSON Fundamentals (11:15 - 12:00)
 
 Classroom C.
