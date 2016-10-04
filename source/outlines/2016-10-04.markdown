@@ -86,11 +86,7 @@ Classroom C.
 
 Classroom C.
 
-### What is Rack? (11:00 - 11:30)
-
-Classroom C.
-
-### Templating with ERB (11:30 - 12:00)
+### Passing Data with Sinatra (11:00 - 12:00)
 
 Classroom C.
 
