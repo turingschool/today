@@ -49,27 +49,28 @@ Classroom B.
 
 ## 1606
 
-### Customizing JSON in your Rails API (9:00 - 10:30)
+
+### Project Work Time (9:00 - 10:45)
+
+### Customizing JSON in your Rails API (10:45 - 12:00)
 
 Big Workspace.
-
-### Project Work Time (10:30 - 12:00)
 
 ### Project Work Time & Checkins (1:00 - 4:00)
 
 #### With Sally (In-Person)
 
-* (1:00)
-* (1:20)
-* (1:40)
-* (2:00)
+* (1:00) - David & Jasmin
+* (1:20) - Jesse & Nate
+* (1:40) - Raphael & Sonia
+* (2:00) - Calaway & Jean
 
 #### With Josh
 
-* (2:00)
-* (2:20)
-* (2:40)
-* (3:00)
+* (2:00) - Brendan & Ryan
+* (2:20) - Chase & Matt
+* (2:40) - Brian & Bryan
+* (3:00) - Susi & Dan
 
 ## 1608
 
@@ -85,11 +86,7 @@ Classroom C.
 
 Classroom C.
 
-### What is Rack? (11:00 - 11:30)
-
-Classroom C.
-
-### Templating with ERB (11:30 - 12:00)
+### Passing Data with Sinatra (11:00 - 12:00)
 
 Classroom C.
 
