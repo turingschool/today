@@ -11,7 +11,7 @@ layout: outline
 
 ### Selenium Medium Dive (9:00 - 10:30)
 
-Classroom B.
+Classroom B. [We'll use this tutorial for today's workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_selenium_testing.md).
 
 ### Event Bubbling and Delegation (10:30 - 12:00)
 
