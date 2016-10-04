@@ -52,25 +52,27 @@ Classroom B.
 
 ### Project Work Time (9:00 - 10:45)
 
-### Customizing JSON in your Rails API (10:45 - 12:00)
+### Customizing JSON in your Rails API (10:45 - 12:15)
 
 Big Workspace.
 
 ### Project Work Time & Checkins (1:00 - 4:00)
+
+Do good work.
 
 #### With Sally (In-Person)
 
 * (1:00) - David & Jasmin
 * (1:20) - Jesse & Nate
 * (1:40) - Raphael & Sonia
-* (2:00) - Calaway & Jean
+* (2:00) - Susi & Dan
 
 #### With Josh
 
 * (2:00) - Brendan & Ryan
 * (2:20) - Chase & Matt
 * (2:40) - Brian & Bryan
-* (3:00) - Susi & Dan
+* (3:00) - Calaway & Jean
 
 ## 1608
 
