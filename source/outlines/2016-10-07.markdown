@@ -10,11 +10,11 @@ layout: outline
 ## All
 
 ### Surveys
+
 * [1605](https://goo.gl/forms/yfvVKOBSXUTsUBLr1)
 * [1606-B]()
-* [1608-B]()
+* [1608-B](https://goo.gl/forms/uUzS3WLfZsZKxYn03)
 * [1610-B](https://goo.gl/forms/GrVqKlqT1Xn4Df1z1)
-
 
 ### Guest Speaker: Jeff Powell (9:00 - 10:00) - Blake/Gusto
 Jeff Powell ([LinkedIn](https://www.linkedin.com/in/jpowell1218)) is a Senior Ruby on Rails Developer at CaptainU.
