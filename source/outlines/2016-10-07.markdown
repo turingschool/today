@@ -23,7 +23,7 @@ Jeff Powell ([LinkedIn](https://www.linkedin.com/in/jpowell1218)) is a Senior Ru
 ### Academic Time (10:10 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Classroom B | Algorithm Time: Linked List |
+| 1605   | Gusto | Algorithm Time: Linked List with 1608-F |
 | 1606-b | Staff Area | RailsEngine Evals, see below |
 | 1608-b | Classroom C | Database Visualization/Weekly Recap |
 | 1610-b | Classroom A | See below |
