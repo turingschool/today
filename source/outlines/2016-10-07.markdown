@@ -10,10 +10,10 @@ layout: outline
 ## All
 
 ### Surveys
-* [1603]()
-* [1605]()
+* [1605](https://goo.gl/forms/yfvVKOBSXUTsUBLr1)
 * [1606-B]()
-* [1608-B](https://goo.gl/forms/GrVqKlqT1Xn4Df1z1)
+* [1608-B]()
+* [1610-B](https://goo.gl/forms/GrVqKlqT1Xn4Df1z1)
 
 
 ### Guest Speaker: Jeff Powell (9:00 - 10:00) - Blake/Gusto
@@ -23,7 +23,7 @@ Jeff Powell ([LinkedIn](https://www.linkedin.com/in/jpowell1218)) is a Senior Ru
 ### Academic Time (10:10 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Gusto | Algorithm Time: Linked List with 1608-F |
+| 1605   | Gusto | Algorithm Time: Linked List with 1608-F (10:15 start) |
 | 1606-b | Staff Area | RailsEngine Evals, see below |
 | 1608-b | Classroom C | Database Visualization/Weekly Recap |
 | 1610-b | Classroom A | See below |
@@ -63,7 +63,7 @@ Sessions posted here: https://docs.google.com/document/d/16GOvVXm9UQSq0zsh_z9nFP
 
 
 ### Cohort Retro (3:25 - 4:00)
-Same classrooms as academic time. 1606-B is in the Big Workspace. 1605 is in Classroom B in the Blakesment.
+Same classrooms as academic time. 1606-B is in the Big Workspace. 1605 is in Classroom B.
 
 
 ## 1606
