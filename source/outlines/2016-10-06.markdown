@@ -92,10 +92,8 @@ Not as good as hashbrowns.
 
 Classroom A.
 
-### Don't Be An Asshole w/ Rachel (1:00 - 1:15)
+### Objects, Instances, and Classes (1:00 - 4:00)
 
-Classroom A.
+Echo: Classroom B.
 
-### Objects, Instances, and Classes (1:15 - 4:00)
-
-Classroom A.
+Foxtrot: Classroom A. w
