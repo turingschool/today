@@ -25,7 +25,7 @@ Jeff Powell ([LinkedIn](https://www.linkedin.com/in/jpowell1218)) is a Senior Ru
 | ------ | -------- | ------------ |
 | 1605   | Gusto | Algorithm Time: Linked List with 1608-F (10:15 start) |
 | 1606-b | Staff Area | RailsEngine Evals, see below |
-| 1608-b | Classroom C | Database Visualization/Weekly Recap |
+| 1608-b | Classroom B | Database Visualization/Weekly Recap |
 | 1610-b | Classroom A | See below |
 
 
