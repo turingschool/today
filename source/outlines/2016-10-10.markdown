@@ -61,7 +61,7 @@ Big Workspace.
 
 ### Feature Testing with Capybara (9:00 - 11:00)
 
-Classroom B.
+Big Workspace
 
 ### Rush Hour Work Time (11:00 - 12:00)
 
