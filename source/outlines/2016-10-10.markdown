@@ -61,15 +61,11 @@ Big Workspace.
 
 ### Rush Hour Check-In's (9:00 - 12:00)
 
-Big Workspace.
-
 ### Feature Testing with Capybara (1:00 - 3:00)
 
 Classroom C.
 
 ### Rush Hour Work Time (3:00 - 4:00)
-
-Classroom C.
 
 
 ## 1610
