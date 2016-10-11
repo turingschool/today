@@ -24,6 +24,9 @@ layout: outline
 
 ### Rush Hour Evaluations & ActiveRecord Obstacle Course (9:00 - 12:00)
 
+Post/pre-evaluation, your group should follow these [guidelines](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8) to retro.
+Find the ActiveRecord Obstacle course [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/active_record_obstacle_course.markdown).
+
 ### REST, Controllers, & Routing in Rails (1:00 - 2:00)
 
 It's the moment you have been waiting for all your life!
