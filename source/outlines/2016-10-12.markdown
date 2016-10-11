@@ -7,6 +7,22 @@ layout: outline
 
 ### Project Work Time & Checkins (9:00 - 12:00)
 
+#### With Andrew
+
+- Jennifer Soden and Kerry Sheldon
+- David Tinianow and Matthew Campbell
+- Kris Sparks and Matthew Packer
+- Christopher Concannon and Trent Whitinger
+- Karina Gonzalez, Deb Hamel and Tommasina Miller
+
+#### With Nate
+
+- Ryan Flach and Angela Lindow
+- Patrick Wentz and Roberta Doyle
+- Michael Lane Winham and Jason Hanna
+- Caleb Cowen and Garrett Smestad
+- Yoseph Anderson and Zachary Forbing
+
 ### Testing GameTime Part 2 (1:00 - 2:30)
 
 Classroom B.
