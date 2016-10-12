@@ -43,7 +43,7 @@ layout: outline
 
 It's the moment you have been waiting for all your life!
 
-### Migrations, Databases, and Models (2:00 - 4:00)
+### Rush Hour Recap (2:00 - 4:00)
 
 
 ## 1610
