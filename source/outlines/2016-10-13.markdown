@@ -19,16 +19,53 @@ layout: outline
 
 ### Apicurious Evaluations (2:00 - 4:00)
 
+#### With Josh
+
+* (2:00) - David
+* (2:15) - Jasmin
+* (2:30) - Jesse
+* (2:45) - Nate
+* (3:00) - Susi
+* (3:15) - Dan
+* (3:30) - Raphael
+* (3:45) - Sonia
+
+#### With Sally
+
+* (2:00) - Brendan
+* (2:15) - Ryan
+* (2:30) - Chase
+* (2:45) - Matt
+* (3:00) - Brian
+* (3:15) - Bryan
+* (3:30) - Calaway
+* (3:45) - Jean
+
 
 ## 1608
 
 ### Rush Hour Evaluations & ActiveRecord Obstacle Course (9:00 - 12:00)
 
+* Post/pre-evaluation, your group should follow these [guidelines](https://gist.github.com/Carmer/6740234b23f629aac7b621dbea4d21b8) to retro.
+* Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then follow the directions in this [gist](https://gist.github.com/case-eee/cabe10d53e98e7888e22b30ba7fd4865). Finish the questions before this afternoon's REST, Controllers, and Routing class.
+* Find the ActiveRecord Obstacle course [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/active_record_obstacle_course.markdown).
+
+#### With Sal:
+
+* Daniel, Anthony, Brad (9:15 - 9:45)
+* Ali, Nick, Michael (9:45 - 10:15)
+* Ben, Lee, Megan (10:15 - 10:45)
+
+#### With Casey:
+* Erin, Alisher, Anna (9:15 - 9:45)
+* Vido, Ryan, Jon (9:45 - 10:15)
+* David, Noah, Joey (10:15 - 10:45)
+
 ### REST, Controllers, & Routing in Rails (1:00 - 2:00)
 
 It's the moment you have been waiting for all your life!
 
-### Migrations, Databases, and Models (2:00 - 4:00)
+### Rush Hour Recap (2:00 - 4:00)
 
 
 ## 1610

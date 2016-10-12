@@ -5,19 +5,20 @@ layout: outline
 
 ## 1605
 
-### Project Work Time (9:00 - 11:00)
+### Testing Game Time(9:00 - 11:00)
+
+Classroom B. We'll use [this as a lesson plan](https://github.com/turingschool-examples/gametime-testing-journey/).
 
 ### Professional Development: Negotiations w/ Lia & Meg (11:00 - 12:00)
 
 Classroom B.
 
-### Testing GameTime (1:00 - 3:00)
+### JS Build Tools (1:00 - 2:00)
 
 Classroom B.
 
-### JS Build Tools (3:00 - 4:00)
+### Project Worktime (2:00 - 4:00)
 
-Classroom B.
 
 
 ## 1606
@@ -29,6 +30,28 @@ Classroom C.
 ### Project Check-Ins & Work Time (1:00 - 4:00)
 
 Pique that apicuriousity.
+
+#### With Josh
+
+* (1:00) - David
+* (1:20) - Jasmin
+* (1:40) - Jesse
+* (2:00) - Nate
+* (2:20) - Susi
+* (2:40) - Dan
+* (3:00) - Raphael
+* (3:20) - Sonia
+
+#### With Sally
+
+* (1:00) - Brendan
+* (1:20) - Ryan
+* (1:40) - Chase
+* (2:00) - Matt
+* (2:20) - Brian
+* (2:40) - Bryan
+* (3:00) - Calaway
+* (3:20) - Jean
 
 
 ## 1608
@@ -56,8 +79,3 @@ Classroom A.
 Classroom A.
 
 ### Project Work Time (2:30 - 4:00)
-
-
-
-
-
