@@ -34,7 +34,11 @@ Classroom B.
 
 ## 1606
 
-### Project Work Time (ALL DAY!)
+### Mocking External API calls with VCR (9:00 - 10:30)
+
+With Chad Clancey in Classroom C
+
+### Project Work Time (Remainder of the day)
 
 HOORAY!
 
