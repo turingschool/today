@@ -35,6 +35,48 @@ It's the moment you have been waiting for all your life!
 
 ### Project Evals/Diagnostics/Pattern Generator/Wizarding Bank (9:00 - 12:00)
 
+When you are not being evaluated on a project you will first do your diagnostic.
+
+When you have completed that you will work on these exercises.
+
+* [Echo](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* [Foxtrot](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+#### With Jeff
+* 9:00  - Mike Schutte
+* 9:25  - Nick Gheorghita
+* 9:50  - Kyle Heppenstall
+* 10:15 - Phyllis Hugunien
+* 10:40 - Dan Rodriguez
+* 11:05 - Mike Hill
+
+
+#### With Beth
+* 9:00  - Josh Cohen
+* 9:25  - Nick Erhardt
+* 9:50  - Amy Kintner
+* 10:15 - Annie Wolff
+* 10:40 - Lucy Conklin
+* 11:05 - Laszlo Balogh
+* 11:30 - David Knott
+
+#### With Mike
+* 9:00  - Jason Conrad
+* 9:25  - Marisa Burton
+* 9:50  - Robbie Smith
+* 10:15 - Eric Wahlgren-Sauro
+* 10:40 - Brett Rivers
+* 11:05 - Molly Brown
+* 11:30 - Caroline Powell
+
+#### With Ilana
+* 9:25  - Edilene Cruz
+* 9:50  - Drew Palazzari
+* 10:15 - Alex Fosco
+* 10:40 - Ethan Bennett
+* 11:05 - Jesse Shipley
+* 11:30 - Amara Lovato
+
 ### Diagnostic Recaps (1:00 - 1:30)
 
 ### File I/O (1:30 - 2:00)
