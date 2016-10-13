@@ -12,20 +12,20 @@ layout: outline
 
 #### With Andrew
 
-- Christopher Concannon and Trent Whitinger
-- Kris Sparks and Matthew Packer
-- David Tinianow and Matthew Campbell
-- Patrick Wentz and Roberta Doyle
-- Jennifer Soden and Kerry Sheldon
-
+- Ryan Flach and Angela Lindow
+- Karina Gonzalez, Deb Hamel and Tommasina Miller
+- Michael Lane Winham and Jason Hanna
+- Caleb Cowen and Garrett Smestad
+- Yoseph Anderson and Zachary Forbing
 
 #### With Nate
 
-- Yoseph Anderson and Zachary Forbing
-- Caleb Cowen and Garrett Smestad
-- Michael Lane Winham and Jason Hanna
-- Karina Gonzalez, Deb Hamel and Tommasina Miller
-- Ryan Flach and Angela Lindow
+- Jennifer Soden and Kerry Sheldon
+- Patrick Wentz and Roberta Doyle
+- David Tinianow and Matthew Campbell
+- Kris Sparks and Matthew Packer
+- Christopher Concannon and Trent Whitinger
+
 
 
 ## 1606
