@@ -21,7 +21,7 @@ Meet [here](https://www.google.com/maps/dir//1533+Market+Street,+Denver,+CO+8020
 ### Instructional Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Big Workspace | tbd |
+| 1605   | Gusto | Binary Search Trees |
 | 1606-b | Classroom C | RefactorTractor |
 | 1608-b | Classroom B | tbd |
 | 1610-b | Classroom A | tbd |
