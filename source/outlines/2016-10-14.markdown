@@ -10,7 +10,7 @@ layout: outline
 ### Surveys
 
 * [1605]()
-* [1606-B]()
+* [1606-B](https://goo.gl/forms/AHEWGuxjVR1VZoQp2)
 * [1608-B]()
 * [1610-B]()
 
@@ -18,13 +18,14 @@ layout: outline
 
 Meet [here](https://www.google.com/maps/dir//1533+Market+Street,+Denver,+CO+80202/@39.7496161,-104.9996108,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x876c78c4e72a2309:0xcfbccf9d54a2a1e5!2m2!1d-104.9990636!2d39.7496162), at the parking lot near Qdoba, for his talk!
 
-### Instructional Time (10:10 - 12:00)
+### Instructional Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Classroom C | tbd |
-| 1606-b | Big Workspace | tbd |
+| 1605   | Big Workspace | tbd |
+| 1606-b | Classroom C | RefactorTractor |
 | 1608-b | Classroom B | tbd |
 | 1610-b | Classroom A | tbd |
+
 
 ### Brown-Bag Lunch Roulette (12:00 - 1:15)
 Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.gl/mHcSpv.
@@ -52,9 +53,9 @@ Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.g
 * David Knott, Drew Palazzari, Chelsea Skovgaard, Christopher Concannon, Peter Springer, Susi Irwin, Kerry Sheldon
 
 
-### Friday Spike (1:15 - 3:15)
-Sessions posted [here](https://docs.google.com/document/d/16GOvVXm9UQSq0zsh_z9nFPEfRE9huS0gIi53EAa0sTI/edit)
+### Friday Spike (1:15 - 3:00)
+Sessions posted [here](https://docs.google.com/document/d/16GOvVXm9UQSq0zsh_z9nFPEfRE9huS0gIi53EAa0sTI/edit).
 
 
-### Cohort Retro (3:25 - 4:00)
+### Cohort Retro (3:10 - 4:00)
 Same classrooms as academic time.
