@@ -11,7 +11,7 @@ layout: outline
 
 * [1605]()
 * [1606-B](https://goo.gl/forms/AHEWGuxjVR1VZoQp2)
-* [1608-B]()
+* [1608-B](https://goo.gl/forms/db4lQoqNOsjQWOBs1)
 * [1610-B]()
 
 ### Guest Speaker: Ben Pepper (9:00 - 9:45) - See the location below
@@ -23,7 +23,7 @@ Meet [here](https://www.google.com/maps/dir//1533+Market+Street,+Denver,+CO+8020
 | ------ | -------- | ------------ |
 | 1605   | Big Workspace | tbd |
 | 1606-b | Classroom C | RefactorTractor |
-| 1608-b | Classroom B | tbd |
+| 1608-b | Classroom B | Models, Migrations, Databases |
 | 1610-b | Classroom A | tbd |
 
 
