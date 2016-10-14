@@ -26,8 +26,6 @@ layout: outline
 - Kris Sparks and Matthew Packer
 - Christopher Concannon and Trent Whitinger
 
-
-
 ## 1606
 
 ### Project Work Time (9:00 - 12:00)
