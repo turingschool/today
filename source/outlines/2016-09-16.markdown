@@ -1,0 +1,105 @@
+---
+title: 20160916
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605](https://goo.gl/forms/iGwXnZO7lPiolVsv2)
+* [1606-B](https://goo.gl/forms/InhNzSoj2vv3eqSf2)
+* [1608-B](https://goo.gl/forms/hPMz6dYzgYsRshaM2)
+
+### Guest Speaker: Mike Mangino (9:00 - 10:00) - Blake/Gusto
+
+The guest speaker will be remote. TVs will be available at both the Blake and Gusto campuses.
+
+### Academic Time (10:00 - 12:00)
+| Cohort | Location | Lesson Plans |
+| ------ | -------- | ------------ |
+| 1603   | Gusto | Accessibility Deep Dive |
+| 1605   | Classroom B, Blake | POROs in Rails |
+| 1606-b | Classroom C, Blake | Little Shop Worktime |
+| 1606-f | Gusto | tbd |
+| 1608-b | Classroom A, Blake | Portfolio Pairing |
+| 1608-f | Gusto | tbd |
+
+### Brown Bag Lunch Roulette (12:00 - 1:15)
+Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.gl/mHcSpv.
+
+* Paul Nguyen, Brian Heim, Christopher Soden, Ryan Flach, Dale Hendrickson, Alene Schlereth
+* Alisher Sadikov, MaryJane Valade, Tommasina Miller, Susi Irwin, Christine Gamble, Anna Weisbrodt
+* Jean Joeris, Garrett Smestad, Jeff Duke, Anna Dolan, Chelsea Skovgaard, Lucy Fox
+* Patrick Wentz, David Kerr, Anthony Ciccone, Brian Sayler, David Davydov, Maia Stone
+* Ben Morris-Rains, Casey Metz, Jennifer Soden, Calaway, Ryan Batty, Kristen Burgess
+* Michael Lane Winham, Graham Nessler, Nick Pisciotta, Bradley Green, Madison Kerndt, Chase Dunagan
+* Kinan Whyte, Brandon Randall, Blake Worsley, Raphael Barbo, Erin Greenhalgh, Roberta Doyle
+* Brett Rivers, Sonia Gupta, Chaz Gormley, Charles Kaminer, David Tinianow, Adam Bernard
+* Charles Wahlgren-Sauro, Yoseph Anderson, Ryan Westlake, Ryan David Workman, Brett Hevia, Parker Phillips
+* Linda McCartney, Robert Jaeger, Ben Pepper, Ian Lancaster, Daniel Olson, Kris Foss
+* Brendan Dillon, Benjamin Godfrey, Daniel Shin, Nick Chambers, Deb Hamel, Marcella Wigg
+* Nicole Marino, David Junta, Lacey Knaff, Jasmin Hudacsek, Mike Sausa, Ilana Corson
+* Casey Cross, Erin Pintozzi, Devin Marie Beliveau, Dan Broadbent, Matthew Campbell, Vido Seaver
+* Trent Whitinger, Jason Conrad, Hilary Lewis, Kirsten Swanson, Jesse Spevack, Ryan Travitz
+* Christopher Concannon, Jonathan Kimble, Adam Rice, Peter Springer, Matt DesMarteau, Robert Smith
+* Karina Gonzalez, Gabrielle Procell, Nate Anderson, Andy Young, Joseph Stansfield, Noah Berman
+* Bryan Goss, Kyle Misencik, Matthew Kaufman, Kris Sparks, Kendall Taylor, Nicholas Martinez, Zachary Forbing
+* Lee Saville, Andrew Crist, Jason Hanna, Matthew Packer, Alex Pilewski, Megan Talbot
+* Michael Scherer, Caleb Cowen, Mike Ziccardi, Morgan Slimak, Laura Allen, Angela Lindow
+
+### Gear Up (1:15 - 4:00)
+We will be screening the video, [CODE: Debugging the Gender Gap](https://vimeo.com/123004482).
+
+## 1603
+
+Join Jhun at Gusto to talk in depth (and learn about) accessibility issues in web development.
+
+## 1605
+
+## 1606-B
+
+### Portfolio Worktime (11:00 - 11:30)
+
+Classroom C
+
+### Pre Week 6 Checkin and Assessment Kickoff (11:30 - 12:00)
+
+Classroom C
+
+## 1608-B
+
+### Early Bird Assessments (9:00 - 12:00)
+
+#### With Jeff
+* 9:00 - Noah Berman
+* 9:45 - Joey Stansfield
+* 10:30 - Daniel Olson
+* 11:15 - Brett Rivers
+
+#### With Mike
+* 9:00 - Ali Schlereth
+* 9:45 - Michael Scherer
+* 10:30 - Ryan Travitz
+* 11:15 - Erin Pintozzi
+
+#### With Beth
+* 9:50 - Eric Wahlgren-Sauro
+* 10:35 - Anthony Ciccone
+* 11:20 - David Junta
+* 12:05 - Robbie Smith
+
+### Portfolio Pairing (10:00 - 12:00)
+* Megan Talbot & Anthony Ciccone
+* Michael Scherer & Nicholas Martinez
+* Robert Smith & Alisher Sadikov
+* Jonathan Kimble & Daniel Shin
+* Bradley Green & Charles Wahlgren-Sauro
+* Lee Saville & David Junta
+* Noah Berman & Jason Conrad
+* Brett Rivers & Morgan Slimak
+* Vido Seaver & Ryan Travitz
+* Joseph Stansfield & Erin Pintozzi
+* Anna Dolan & Kendall Taylor
+* Daniel Olson & Brandon Randall & Ali Schlereth

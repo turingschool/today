@@ -1,0 +1,102 @@
+---
+title: 20160907
+layout: outline
+---
+
+## Announcements
+**Professional Skills Sessions**  
+
+* BEE M4: Negotiations (Wed)  
+* BEE M3: Strategies for Innovative Problem Solving (Thu)  
+* BEE M2: Networking (Fri)  
+
+## All
+
+## 1603
+
+### React Part II (9:15 - 12:00)
+
+Gusto - joined classroom
+
+### Whiskey Tango Stand Up (1:15 - 1:45)
+
+Gusto
+
+### OSS (LookingFor and MentorSHIP) Stand Up (1:45 - 2:15)
+
+Gusto
+
+### Project Work Time (2:15 - 3:00)
+
+### Negotiations Session with Lia (3:00 - 4:00)
+
+Gusto
+
+## 1605
+
+### Testing an Internal API (9:00 - 10:30)
+
+Classroom B.
+
+### Customizing JSON in your Rails API (10:30 - 12:00)
+
+Classroom B.
+
+### Project Check Ins and Work Time (1:00 - 4:00)
+
+#### With Andrew
+
+* (1:00 - 1:30) - Tommasina Miller & Jason Hanna
+* (1:30 - 2:00) - Garrett Smestad & Christopher Concannon
+* (2:00 - 2:30) - Jennifer Soden & Nicole Marino
+* (2:30 - 3:00) - Caleb Cowen & Trent Whitinger
+
+#### Sally (Remote)
+
+* (1:00 - 1:30) - Zachary Forbing & Yoseph Anderson
+* (2:00 - 2:30) - Linda McCartney & Roberta Doyle
+* (2:30 - 3:00) - Michael Lane Winham & Kris Sparks
+* (3:00 - 3:30) - Matthew Packer & David Tinianow
+
+#### With Josh
+
+* (2:00 - 2:30) - Karina Gonzalez & Deb Hamel
+* (2:30 - 3:00) - Ryan Flach & Patrick Wentz
+* (3:00 - 3:30) - Angela Lindow & Matthew Campbell
+
+
+## 1606-B
+
+### Authentication in Rails (9:00 - 12:00)
+
+Classroom C.
+
+### Authentication Work Time / Mid Module Assessments (1:00 - 4:00)
+
+#### Casey
+
+* Brendan Dillon
+* Jesse Spevack
+* Bryan Goss
+* Ryan Workman
+
+#### Sal
+
+* Ben Pepper
+* David Davydov
+* Chris Calaway
+* Brian Heim
+
+## 1608-B
+
+### Fundamental Refactoring Patterns (9:00 - 11:00)
+
+Classroom A.
+
+### Paired Refactoring (11:00 - 12:00)
+
+Classroom A.
+
+### Project Work Time (1:00 - 4:00)
+
+Classroom A.

@@ -1,0 +1,103 @@
+---
+title: 20160913
+layout: outline
+---
+
+## Announcements
+**This Week's Professional Skills Sessions**
+
+* M1 Personal Branding, Part I (Tue, 10:30 - 11:30 am)
+* M3 "Flower Exercise Job Searching Strategies" (Wed, 1-2 pm)
+* M3 Tech Interview Session w/ outside guest (Wed, 3-4 pm)
+* M1 StrengthsFinder Small Groups: "The Challenge of Affirming My Strengths" (Thu, 1-4 pm)
+
+## All
+
+## 1603
+
+### Stand Up A (9:00 - 9:30)
+
+At Gusto!
+
+### Project Work Time (9:30 - 12:00)
+
+### Stand Up B (1:00 - 1:30)
+
+At Gusto!
+
+### Mock Assessment Evals (1:30 - 4:00)
+
+[Sign Up for a Time Today or Tomorrow Afternoon](https://public.etherpad-mozilla.org/p/1603-mock-evals)
+
+## 1605
+
+### Working with AJAX (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time & Check-ins (1:00 - 4:00)
+
+#### With Josh
+
+* (1:20) - Nicole Marino
+* (1:40) - Caleb Cowen, David Tinianow, Zachary Forbing
+* (2:20) - Chris Concannon
+* (2:40) - Deb Hamel
+* (3:00) - Ryan Flach
+* (3:20) - Yoseph Anderson
+
+#### With Andrew
+
+* (1:00 - 1:20) - Lane Winham
+* (1:20 - 1:40) - Karina Gonzalez
+* (1:40 - 2:00) - Lin McCartney
+* (2:00 - 2:20) - Matthew Campbell
+* (2:20 - 2:40) - Matthew Packer
+* (2:40 - 3:00) - Roberta Doyle
+
+#### With Sally (In Person)
+
+* (1:00 - 1:20) - Jason Hanna
+* (1:20 - 1:40) - Angela Lindow
+* (1:40 - 2:00) - Patrick Wentz
+* (2:00 - 2:20) - Tommasina Miller
+* (2:20 - 2:40) - Trent Whitinger
+* (2:40 - 3:00) - Garrett Smestad
+* (3:00 - 3:20) - Kris Sparks
+* (3:20 - 3:40) - Jenny Soden
+
+## 1606-B
+
+### Lightning Talks (9:00 - 9:20)
+
+Big Workspace.
+
+### Git Workflow (9:20 - 11:00)
+
+Big Workspace.
+
+### Little Shop Work Time and Checkins
+
+#### Casey
+
+* The Waddams Emporium (Jesse PM) - 2:00
+* College Football Shop (PM TBD) - 2:30
+* Little Shop (Jasmin PM) - 3:00
+
+#### Sal
+
+* No Refunds Travel (Ryan PM) - 2:30
+* TBD (Calaway PM) - 3:00
+
+## 1608-B
+### Testing Small Datasets, Dependencies, and Edge Cases (9:00 - 10:30)
+
+Buckle your seatbelts for a deep dive into testing with fixtures, stubbing and mocking.
+
+### Personal Branding, Part I, with Lia (10:30 - 12:00)
+
+Join Lia in Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+Get counting those heads.

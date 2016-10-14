@@ -1,0 +1,135 @@
+---
+title: 20160816
+layout: outline
+---
+
+## ANNOUNCEMENTS
+
+## All
+
+NAME TAGS ALL WEEK.
+
+
+## 1603
+
+### Intro to Functions in JavaScript (9:00 - 12:00)
+
+[Lesson Plan 1](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/01-calling-functions.md)
+
+[Lesson Plan 2](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
+
+Classroom C.
+
+### Unit Testing JavaScript in Rails (10:00 - 12:00)
+
+Classroom C.
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/testing_javascript_in_rails.markdown)
+
+[Slide Deck](https://speakerdeck.com/rrgayhart/turing-testing-js-in-rails)
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Meeka
+
+- Nick Pisciotta
+- Parker Phillips
+- Robert Jaeger
+- Ryan Batty
+- Ilana Corson
+- Anna Weisbrodt
+
+#### With Nate
+
+- Lucy Fox
+- Marcella Wigg
+- Charles Kaminer
+- Christopher Soden
+- Erin Greenhalgh
+- Brian Sayler
+
+
+## 1605
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Classroom B.
+
+### Understanding Multi-Tenancy (10:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Sally (Remote)
+
+* (1:00 - 1:30) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (1:30 - 2:00) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (2:00 - 2:30) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (2:30 - 3:00) - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+* (3:00 - 3:30) - Garrett Smestad & Ryan Flach & Matthew Packer
+* (3:30 - 4:00) - Trent Whitinger & Matthew Campbell & Jennifer Soden
+
+## 1606-B
+
+### HTML-CSS Partner Review (9:00 - 9:30)
+
+Big Workspace.
+
+### Homework Review (9:30 - 10:00)
+
+Big Workspace
+
+### Intro to Wireframing & Templating with ERB (10:00 - 11:00)
+
+Big Workspace
+
+### How the Web Works (11:00 - 12:00)
+
+Big Workspace
+
+### CRUD and Sinatra Workshop (1:00 - 4:00)
+
+Classroom C
+
+## 1608-B
+
+### All: Talking Mentoring and Posses with Mary (9:00 - 9:30)
+
+Classroom A.
+
+### All: Posses and Mentoring Q & A (9:30 - 10:00)
+
+Stay in Classroom A.
+
+### All: Dynamics (10:00 - 12:00)
+
+Classroom A.
+
+### All: Headshots (12:00 - 1:00)
+
+Schedule TBA, Upstairs in the Lobby
+
+### Echo:  SuperFizzBuzz/Sorting Recap (1:00 - 1:30)
+
+Location TBD.
+
+### Foxtrot: Strings and Integers Recap (1:00 - 1:30)
+
+Location TBD.
+
+### Echo: Strings and Integers Riddles (1:30 - 3:00)
+
+Location TBD.
+
+### Foxtrot: Flow Control (1:30 - 3:00)
+
+Location TBD.
+
+### Student Activities Mixer (3:00 - 4:00)
+
+Classroom A.
+
+### Homework
+
+* All:  Eloquent Ruby Chapters 3 & 4.

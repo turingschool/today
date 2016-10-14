@@ -1,0 +1,102 @@
+---
+title: 20160824
+layout: outline
+---
+
+## Announcements
+
+## All
+
+
+## 1603
+
+### Introduction to Build Tools (9:15 - 10:15)
+
+[Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript-build-tools.markdown)
+
+### Testing Game Time (10:15 - 12:00)
+
+[Lesson Plan](https://github.com/turingschool-examples/gametime-testing-journey)
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Meeka
+
+- Robbie and Brian
+- Nick and Marcella
+- Ilana and Charlie
+
+#### With Nate
+
+- Parker and Ryan
+- Chris and Anna
+- Erin and Lucy
+
+## 1605
+
+### Prior to class:
+
+* Set up [OregonSale](https://github.com/turingschool-examples/store_engine) prior to class. There won't be time for us to set up during class. Look at the `README` for details.
+* Download the [Postman App](https://www.getpostman.com/)
+* Make sure you have an active account with Sendgrid. You can set it up through [their website](https://sendgrid.com/marketing/sendgrid-services) but some students have run into issues with that. An easy workaround is to set it up through [Heroku](https://devcenter.heroku.com/articles/sendgrid).
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Classroom B.
+
+### Sending Email (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Sally (Remote)
+
+* (1:30 - 2:15)   - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+* (2:30 - 3:15)   - Garrett Smestad & Ryan Flach & Matthew Packer
+* (3:15 - 4:00)   - Trent Whitinger & Matthew Campbell & Jennifer Soden
+
+## 1606-B
+
+### Visualization and Implementing and Database Relationships (9:00 - 11:00)
+
+Classroom C.
+
+### Professional Development - Finding Opportunities (11:00 - 12:00)
+
+Classroom C.
+
+### Rush Hour Work Time and Check Ins (1:00 - 4:00)
+
+Schedule TBD.
+
+
+## 1608-B
+
+### All: Getting Started with Git (9:00 - 12:00)
+
+Classroom A with Beth the Destroyer.
+
+### All: Debugging Techniques (1:00 - 2:30)
+
+Classroom A with Mike to learn how to make broken things work again.
+
+You will be working in the following pairs:
+
+* Bradley Green & Anthony Ciccone
+* Megan Talbot & Alisher Sadikov
+* Morgan Slimak & Noah Berman
+* Jason Conrad & Anna Dolan
+* Ryan Travitz & Nicholas Martinez
+* Alene Schlereth & Jonathan Kimble
+* Vido Seaver & Lee Saville
+* Erin Pintozzi & Daniel Olson
+* Charles Wahlgren-Sauro & Michael Scherer
+* Robert Smith & Brett Rivers
+* Ben Morris-Rains & Kendall Taylor
+* Daniel Shin & Brandon Randall
+* Joseph Stansfield & David Junta
+
+### All: Problems, Solutions, and Algorithms (2:30 - 4:00)
+
+Join Jeff as you learn how to put things together.

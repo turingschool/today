@@ -1,0 +1,74 @@
+---
+title: 20161017
+layout: outline
+---
+
+## 1605
+
+### Actually Understanding Asynchronous JavaScript (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1606
+
+### Seeding Data Efficiently (9:00 - 10:00)
+
+Big Workspace.
+
+### Understanding Multi-Tenency (10:00 - 12:00)
+
+Big Workspace.
+
+### Professional Development: Job Search Strategies w/ Lia (1:00 - 2:00)
+
+Big Workspace.
+
+### Mystery Project Kickoff (2:00 - 4:00)
+
+Classroom B.
+
+
+## 1608-B
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom C.
+
+### Relationships Implementation Exercise (9:30 - 11:00)
+
+Classroom C.
+
+### Route Helpers (11:00 - 12:00)
+
+Classroom C.
+
+### Factory Girl (1:00 - 2:00)
+
+Classroom C.
+
+### Rails Basics Challenge (2:00 - 4:00)
+
+Classroom C.
+
+
+## 1610-B
+
+### Testing Strategies (9:00 - 10:30)
+
+Classroom A.
+
+### Arguments, Methods, & Scopes (10:30 - 12:00)
+
+Classroom A.
+
+### Pairing Patterns (1:00 - 2:30)
+
+Classroom A.
+
+### Lightning Talks Kick Off (2:30 - 4:00)
+
+Classroom A.
+

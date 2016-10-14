@@ -1,0 +1,121 @@
+---
+title: 20161003
+layout: outline
+---
+
+## Announcements
+* NAME TAGS ALL WEEK
+
+
+## All
+
+### State of Turing (9:00 - 9:30)
+
+Big Workspace
+
+
+## 1605
+
+### Module 4 KickOff (9:30 - 11:00)
+
+Classroom B.
+
+### Ideabox 2.0 Kick Off (11:00 - 12:00)
+
+Classroom B.
+
+### Debugging JavaScript (1:00 - 2:30)
+
+Classroom B.
+
+### Optional Tutorial - Fundamental DOM Manipulation (2:30 - 4:00)
+
+[This lesson plan](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/lessons/dom-manipulation-with-javascript.mdgithub.com)
+
+
+## 1606
+
+### RailsEngine Kickoff (9:30 - 11:15)
+
+It's like SalesEngine, but for Rails.
+
+Classroom C.
+
+#### Groups
+
+* David Davydov & Jasmin Hudacsek
+* Jesse Spevack & Nate Anderson
+* Raphael Barbo & Sonia Gupta
+* Calaway & Jean Joeris
+* Brendan Dillon & Ryan David Workman
+* Chase Dunagan & Matt DesMarteau
+* Brian Heim & Bryan Goss
+* Susi Irwin & Dan Broadbent
+
+### JSON Fundamentals (11:15 - 12:00)
+
+Classroom C.
+
+### Building an Internal API (1:00 - 3:00)
+
+Big Workspace
+
+### Project Worktime (3:00 - 4:00)
+
+Start those engines.
+
+
+## 1608
+
+### Module 2 Intro and Goal Setting (9:30 - 10:30)
+
+Big Workspace.
+
+Outline of [Intro to Module 2](https://gist.github.com/case-eee/c00d029e2a70f23745ebcd7c10973ca5) with Casey & Sal!
+
+### Intro to Sinatra/Task Manager (10:30 - 12:00)
+
+Big Workspace.
+
+### Intro to Bootstrap (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1610
+
+### Staff Introductions (8:30 - 9:00)
+
+Classroom A.
+
+### State of Turing (9:00 - 9:30)
+
+Big Workspace.
+
+### Campus Tour (9:30 - 10:00)
+
+All over.
+
+### Success at Turing (10:00 - 11:00)
+
+Classroom A.
+
+### Introducing Portfolios and Personal Goal Setting (11:00 - 12:00)
+
+Classroom A.
+
+### Student Intro Lunch (12:00 - 1:00)
+
+Classroom A.
+
+### ECHO: Ruby in 90 Minutes (1:00 - 3:00)
+
+### FOXTROT: Strings and Integers (1:00 - 3:00)
+
+### Drills Kickoff (3:00 - 3:30)
+
+Classroom A.
+
+### ECHO: Project Kick Off - Sorting Suite (3:30 - 4:00)
+
+### FOXTROT: Drills Setup

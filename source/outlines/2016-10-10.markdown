@@ -1,0 +1,100 @@
+---
+title: 20161010
+layout: outline
+---
+
+## 1605
+
+### Object-Oriented JavaScript & HTML5 Canvas (9:00 - 12:00)
+
+Classroom B.
+
+### GameTime Kick Off and Iteration Planning (1:00 - 2:30)
+
+Classroom B.
+
+Teams:
+
+- Patrick Wentz and Roberta Doyle
+- Ryan Flach and Angela Lindow
+- Yoseph Anderson and Zachary Forbing
+- Michael Lane Winham and Jason Hanna
+- David Tinianow and Matthew Campbell
+- Christopher Concannon and Trent Whitinger
+- Kris Sparks and Matthew Packer
+- Jennifer Soden and Kerry Sheldon
+- Caleb Cowen and Garrett Smestad
+- Karina Gonzalez, Deb Hamel and Tommasina Miller
+
+### Project Work Time (2:30 - 4:00)
+
+We had to push a couple of your ideabox evals to today, which will happen during project work time.
+
+#### With Nate
+
+- Garrett
+- Matt P.
+- Karina
+
+#### With Andrew
+
+- Deb
+- Matt C.
+
+
+## 1606
+
+### Getting Started With OAuth (9:00 - 12:00)
+
+Tears of joy will be shed.
+
+Classroom C.
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+Big Workspace.
+
+### Project Work Time (2:30 - 4:00)
+
+
+## 1608
+
+### Feature Testing with Capybara (9:00 - 11:00)
+
+Big Workspace
+
+### Rush Hour Work Time (11:00 - 12:00)
+
+### Rush Hour Check-Ins (1:00 - 4:00)
+
+## 1610
+
+### Diagnostic & Project Work Time (9:00 - 10:00)
+
+You'll be doing your diagnostic this morning. Grab one from the podium at the
+front of the classroom. Do not use your computer or notes for the diagnostic.
+
+### Methods, Objects & Classes (10:00 - 12:00)
+
+These will be your groups this morning.
+
+* Drew Palazzari & Edilene Cruz & Eric Wahlgren-Sauro
+* Ethan Bennett & Jason Conrad & Jesse Shipley
+* Kyle Heppenstall & Josh Cohen & Laszlo Balogh
+* Caroline Powell & Daniel Rodriguez & David Knott
+* Lucy Conklin & Marisa Burton & Molly Brown
+* Michael Hill & Michael Schutte & Nick Erhardt
+* Nick Gheorghita & Phyllis Hugunien & Alex Fosco
+* Amy Kintner & Ann Wolff & Brett Rivers
+* Robbie Smith & Amara Lovato
+
+### How Testing Works (1:00 - 2:00)
+
+Classroom A.
+
+### Intro to TDD Tutorial (2:00 - 4:00)
+
+Classroom A.
+
+You down with TDD? YEAH, YOU KNOW ME.
+Who's down with TDD? All the Turing homies.

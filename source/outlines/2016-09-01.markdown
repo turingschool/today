@@ -1,0 +1,158 @@
+---
+title: 20160901
+layout: outline
+---
+
+## Announcements
+* "Brown Bag Lunch Roulette" tomorrow (groups posted on [9/2 today](http://today.turing.io/outlines/2016-09-02/))
+
+**Professional Skills Sessions**
+
+* All: GearUp (Fri)  
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)  
+* M1: Professional Skills (Thu)  
+
+
+## All
+
+## 1603
+
+### Work Time (9:00 - 10:15)
+
+### Talk about Scale Up (10:15 - 11:00)
+
+Meet at Gusto with Meeka and let's talk about the next project a little bit.
+
+[Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/week-4-kickoff.markdown)
+
+[Survey](https://docs.google.com/forms/d/e/1FAIpQLSfX6a1kQYcQXVZMluwyl2unpk9-cJFT1ypF-p70W4Sj0T0hng/viewform)
+
+Survey is due **Friday by 2pm**
+
+### Agile and Other Buzzwords (11:00 - 12:00)
+
+[Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/agile_and_other_buzzwords.markdown)
+
+### Game Time Evals / Scale Up Brainstorming (1:15 - 4:00)
+
+#### With Nate
+
+- Ilana and Charlie
+- Nick and Marcella
+- Robbie and Brian
+
+#### With Meeka
+
+- Chris and Anna
+- Parker and Ryan
+- Erin and Lucy
+
+## 1605
+
+### Project Work Time and One on Ones (9:00 - 12:00)
+
+#### With Josh
+
+* (9:00 - 9:15) - Matthew Campbell
+* (9:15 - 9:30) - Jason Hanna
+* (9:30 - 9:45) - Matthew Packer
+
+#### With Andrew
+
+* (10:45 - 11:00) - Kris Sparks
+* (11:00 - 11:15) - Tommasina Miller
+* (11:15 - 11:30) - Chris Concannon
+
+### Apicurious Evals (1:00 - 4:00)
+
+#### With Josh
+
+* (1:00 - 1:20) - Angela Lindow
+* (1:20 - 1:40) - Caleb Cowen
+* (1:40 - 2:00) - Chris Concannon
+* (2:00 - 2:20) - David Tinianow
+* (2:20 - 2:40) - Deb Hamel
+* (2:40 - 3:00) - Garrett Smestad
+* (3:00 - 3:20) - Jason Hanna
+* (3:20 - 3:40) - Matthew Packer
+
+#### With Andrew
+
+* (1:00 - 1:20) - Jenny Soden
+* (1:20 - 1:40) - Karina Gonzalez
+* (1:40 - 2:00) - Kris Sparks
+* (2:00 - 2:20) - Lin McCartney
+* (2:20 - 2:40) - Matthew Campbell
+* (2:40 - 3:00) - Ryan Flach
+
+#### With Sally (In-Person)
+
+* (1:00 - 1:20) - Nicole Marino
+* (1:20 - 1:40) - Roberta Doyle
+* (1:40 - 2:00) - Pat Wentz
+* (2:00 - 2:20) - Tommasina Miller
+* (2:20 - 2:40) - Lane Winham
+* (2:40 - 3:00) - Trent Whitinger
+* (3:20 - 3:40) - Yoseph Anderson
+* (3:40 - 4:00) - Zachary Forbing
+
+
+## 1606-B
+
+### Blogger Recap (9:00 - 9:30)
+
+Classroom C.
+
+### Feature Testing in Rails (9:30 - 10:30)
+
+Classroom C.
+
+### Model Testing in Rails (10:30 - 12:00)
+
+Classroom C.
+
+### Work Time: Model Testing (1:00 - 3:00)
+
+### Mix Master Kick Off (3:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### Project Evaluations and Diagnostics (9:00 - 12:00)
+
+When you are not being evaluated, you are working on these items:
+
+* [Diagnostic](https://gist.github.com/mikedao/8fed4e97f5821dd4a80e594147ffde43)
+* [Paired Project Challenge](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
+
+Note: Work on the Paired Project Challenge with your Project Pair Partner.
+
+#### With Jeff
+* 9:00 - Alisher & Ben
+* 9:30 - Robbie & Nick
+* 10:00 - Anthony & Eric
+
+#### With Mike
+* 9:00 - Anna & David
+* 9:30 - Megan & Erin
+* 10:00 - Tessa & Noah
+
+#### With Beth
+* 9:30 - Alene & Vido
+* 10:00 - Brett & Dan & Joe
+* 10:30 - Dan & Brandon
+
+#### With Mark
+* 9:00 - Brad & Lee
+* 10:00 - Ryan & Morgan
+* 10:30 - Jason & Michael & Jon
+
+### Professional Skills (1:00 - 2:30)
+
+Classroom A with Beth.
+
+### All: Roadshow (2:30 - 4:00)
+
+Classroom A.

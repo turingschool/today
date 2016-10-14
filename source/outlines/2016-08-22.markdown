@@ -1,0 +1,111 @@
+---
+title: 20160822
+layout: outline
+---
+
+## Announcements
+
+## All
+
+## 1603
+
+### Homework
+
+[The Concept of Require](https://gist.github.com/rrgayhart/548e843327afb5ff8969b6dc4435c7bd) (10 points)
+
+### Object Oriented JavaScript and HTML 5 Canvas (9:15 - 12:00)
+
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
+
+### Game Time Kick Off (1:15 - 2:30)
+
+[Project Expectations](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+[Starter Kit](https://github.com/turingschool-examples/game-time-starter-kit)
+
+[Submission Forms](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/gametime)
+
+#### Teams
+
+- Robbie and Brian
+- Nick and Marcella
+- Ilana and Charlie
+- Parker and Ryan
+- Chris and Anna
+- Erin and Lucy
+
+### Project Work Time (2:30 - 4:00)
+
+
+## 1605
+
+### jQuery DOM Traversal, Manipulation, and Events (9:00 - 12:00)
+
+Join Jorge in Classroom B to learn how to manipulate HTML with jQuery.
+
+Before the class, please clone the session's repo by running the following command:
+
+```
+git clone https://gist.github.com/a49b8caa02d127a3a3fcf409eea3ed14.git jquery_lesson
+```
+
+The class materials are the following:
+
+1. [Lesson Plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/jquery_dom_traversal_and_manipulation.md)
+2. [jQuery Selectors](http://api.jquery.com/category/selectors/attribute-selectors/)
+3. [jQuery Traversal Methods](http://api.jquery.com/category/traversing/tree-traversal/)
+4. [jQuery Events](http://api.jquery.com/category/events/)
+5. The video will be posted after the session.
+
+### Project Work Time and Check Ins (1:00 - 4:00)
+
+#### With Sally (Remote)
+
+* (1:30 - 2:15) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (2:30 - 3:15) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (3:15 - 4:00) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+
+## 1606-B
+
+### Project Review (9:00 - 9:30)
+
+Classroom C.
+
+### Introduction to ActiveRecrod with Sinatra (9:30 - 12:00)
+
+Classroom C.
+
+### Introduction to Project Management (1:00 - 2:30)
+
+Classroom C.
+
+### Collaborative Communication (2:30 - 3:30)
+
+Classroom C.
+
+### Rush Hour Kick Off (3:30 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Week 1 Diagnostics (9:00 - 10:00)
+
+[Week 1 Diagnostic](https://gist.github.com/mikedao/f56df31ef6cb76e69391f9032ee5d25b) Fork this gist and edit it with your answers.
+
+When you have completed it, fill out this [form](https://goo.gl/forms/pgYJvrPDMx1dtTn22) with a link to your own gist.
+
+Complete this without using your notes, code or pry/irb. The point is to see how much you can recall purely from memory.
+
+### Methods, Objects, and Classes (10:00 - 12:00)
+
+Classroom A with Jeff, where you learn about the things.
+
+### All: How Testing Works (1:00 - 2:00)
+
+Classroom A with Beth.
+
+### Intro to TDD Tutorial (2:00 - 4:00)
+
+Mike and Beth will be on hand to answer your questions.

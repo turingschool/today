@@ -1,0 +1,92 @@
+---
+title: 20160921
+layout: outline
+---
+
+## Announcements
+* Ideas for this Friday's **Programming Is Fun**? DM Beth with your ideas
+
+## All
+
+## 1603
+
+[Final Countdown](https://gist.github.com/rrgayhart/c8d9a937782d533372c16e333c271772)
+
+### History of Programming (9:00 - 10:00)
+
+Join Nate at Gusto!
+
+### Professional Development: Technical Interviews (10:00 - 12:00)
+
+Stick around Gusto with Lia and a Special Guest!
+
+### Assessment Final Evals (1:15 - 4:00p)
+
+#### With Nate
+
+- Robbie Jaeger
+- Marcella Wigg
+- Brian Sayler
+- Christopher Soden
+- Parker
+- Ilana Corson
+
+#### With Meeka
+
+- Anna Weisbrodt
+- Nick Pisciotta
+- Ryan Batty
+- Charlie
+- Lucy Fox
+- Erin Greenhalgh
+
+## 1605
+
+### Assessment Review & Project Work Time (9:00 - 12:00)
+
+#### With Andrew
+
+* (9:00)  - Jenny Soden
+* (9:20)  - Caleb Cowen
+* (9:40)  - Angela Lindow
+* (10:00)  - David Tinianow
+* (10:20)  - Karina Gonzalez
+* (10:40) - Lin McCartney
+* (11:00) - Jason Hannah
+
+#### With Josh
+
+* (9:00)  - Yoseph Anderson
+* (9:20)  - Matt Campbell
+* (9:40)  - Matt Packer
+* (10:00) - Kris Sparks
+* (10:20) - Trent Whitinger
+
+
+### More Project Work Time (1:00 - 4:00)
+
+Get things done.
+
+
+## 1606-B
+
+### Intro to JavaScript (9:00 - 11:00)
+
+Big Workspace
+
+### Intro to JQuery (11:00 - 12:00)
+
+Big Workspace
+
+### Little Shop Work Time (1:00 - 4:00)
+
+
+## 1608-B
+
+### Professional Development with Lia (9:00 - 10:00)
+
+Classroom A.
+
+### Work Time (10:00 - 4:00)
+
+Final stretch, you're almost there.

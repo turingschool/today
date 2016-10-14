@@ -1,0 +1,134 @@
+---
+title: 20160817
+layout: outline
+---
+
+## Announcements
+
+## All
+
+NAME TAGS ALL WEEK
+
+
+## 1603
+
+### Array Prototype Methods (9:00 - 12:00)
+
+3rd floor of The Commons at Champa. [Google Map](https://goo.gl/maps/hwSyed1NrEM2)
+
+[Lesson Plan](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/01-array-prototype-methods/README.md)
+
+### Project Work Time (1:00 - 4:00)
+
+The thing the thing. Do the thing.
+
+### One on Ones with Allison
+
+* Anna Weisbrodt    Wed. 8/17 12-12:20pm
+* Brian Sayler    Wed. 8/17 12:20-12:40pm
+* Charles Kaminer    Wed. 8/17 12:40-1pm
+* Chris Soden    Wed. 8/17 1-1:20pm
+* Erin Greenhalgh    Wed. 8/17 1:20-1:40pm
+* Ilana Corson    Wed. 8/17 1:40-2pm
+* Lucy Fox    Wed. 8/17 2-2:20pm
+* Marcella Wigg    Wed. 8/17 2:20-2:40pm
+* Nick Pisciotta    Wed. 8/17 2:40-3pm
+* Parker Phillips    Wed. 8/17 3-3:20pm
+* Robbie Jaeger    Wed. 8/17 3:20-3:40pm
+* Ryan Batty    Wed. 8/17 3:40-4pm
+
+
+## 1605
+
+### Multi Tenancy Authorization (9:00 - 12:00)
+
+Meet Jorge in Classroom B to learn how to build your own authorization strategy from scratch.
+
+For this class, please clone the repo running this command:
+```
+git clone -b multitenancy_authorization https://github.com/turingschool-examples/storedom.git multitenancy_authorization
+```
+
+Remember to bundle, and setup the database:
+```
+bundle install && rake db:setup
+```
+
+The class materials are the following:
+
+* [Notes](https://drive.google.com/file/d/0B4C6lfVKu-E7Ym03dmd0THBkNVE/view?usp=sharing)
+* [Repo](https://github.com/turingschool-examples/storedom/tree/multitenancy_authorization)
+* [Video](https://vimeo.com/142417673)
+
+### Project Work Time (1:00 - 4:00)
+
+The thing the thing. Do the thing.
+
+
+## 1606-B
+
+### CRUD Homework Review (9:00 - 9:30)
+
+Classroom C
+
+### Model Testing in Sinatra (9:30 - 12:00)
+
+Classroom C
+
+### Nokogiri in Action & Worktime (1:00 - 2:00)
+
+Classroom C
+
+### Feature Testing with Capybara (2:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Introducing Arrays (9:00 - 10:30)
+
+Join Jeff in Classroom A, for some fun with arts and crafts.
+
+### All: Exploring .each (10:30 - 12:00)
+
+Mike tags in and teaches you about how to work with things in arrays.
+
+### Project Work Time and One on Ones (1:00 - 4:00)
+
+#### With Beth
+
+* 1:00 - Alisher Sadikov
+* 1:10 - Anthony Ciccone
+* 1:20 - Ben Morris-Rains
+* 1:30 - Brett Rivers
+* 1:40 - Daniel Olson
+* 1:50 - Jason Conrad
+* 2:00 - Joseph Stansfield
+* 2:10 - Tessa Taylor
+* 2:20 - Morgan Slimak
+* 2:30 - Nick Martinez
+* 2:40 - Noah Berman
+* 2:50 - Vido Seaver
+* 3:00 - Brandon Randall
+
+#### With Mike
+
+* 1:00 - Anna Dolan
+* 1:10 - Bradley Green
+* 1:20 - Eric Wahlgren-Sauro
+* 1:30 - Daniel Shin
+* 1:40 - David Junta
+* 1:50 - Erin Pintozzi
+* 2:00 - Jonathan Kimble
+* 2:10 - Lee Saville
+* 2:20 - Megan Talbot
+* 2:30 - Michael Scherer
+* 2:40 - Robert Smith
+* 2:50 - Ryan Travitz
+
+
+
+### Homework
+
+* Drills

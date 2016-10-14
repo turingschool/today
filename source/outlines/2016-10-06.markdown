@@ -1,0 +1,99 @@
+---
+title: 20161006
+layout: outline
+---
+
+## Announcements
+* NAME TAGS ALL WEEK
+
+
+## 1605
+
+### Intro to Object Oriented JavaScript (9:00 - 10:30)
+
+Classroom B.
+
+### Project Work Time (10:30 - 12:00)
+
+### Ideabox Evals & Ideabox Tutorial (1:00 - 4:00)
+
+#### With Andrew __STARTING AT 12__
+
+- Christopher Concannon
+- Matthew Campbell
+- Kris Sparks
+- Kerry Sheldon
+- Tommasina Miller
+- Angela Lindow
+- Michael Lane Winham
+- Ryan Flach
+- Deb Hamel
+- Matthew Packer
+
+#### With Nate
+
+- Roberta Doyle
+- Jason Hanna
+- Jennifer Soden
+- Trent Whitinger
+- Yoseph Anderson
+- Karina Gonzalez
+- Zachary Forbing
+- Caleb Cowen
+- David Tinianow
+- Garrett Smestad
+- Patrick Wentz
+
+## 1606
+
+### Project Work Time (9:00 - 12:00)
+
+### Flower Exercise w/ Allison (1:00 - 2:00)
+
+Big Workspace.
+
+### Project Work Time (2:00 - 4:00)
+
+
+## 1608
+
+### ActiveRecord/CRUD Review (9:00 - 10:00)
+
+Classroom C.
+
+### Model Testing (10:00 - 12:00)
+
+Classroom C.
+
+### Intro to Project Management (1:00 - 2:00)
+
+Classroom C.
+
+### Collaborative Communication (2:00 - 3:00)
+
+Classroom C.
+
+### Rush Hour Kick Kickoff (3:00 - 4:00)
+
+Hope your tank is filled with gas.
+
+Classroom See.
+
+
+## 1610
+
+### Essential Enumberables (9:00 - 10:30)
+
+Classroom A.
+
+### Introducing Hashes (10:30 - 12:00)
+
+Not as good as hashbrowns.
+
+Classroom A.
+
+### Objects, Instances, and Classes (1:00 - 4:00)
+
+Echo: Classroom B.
+
+Foxtrot: Classroom A. w

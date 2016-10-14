@@ -1,0 +1,66 @@
+---
+title: 20161012
+layout: outline
+---
+
+## 1605
+
+### Testing GameTime Part 2 (9:00 - 10:30)
+
+Classroom B.
+
+### Client Side Storage (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time & Checkins (1:00 - 4:00)
+
+#### With Andrew
+
+- Jennifer Soden and Kerry Sheldon
+- Patrick Wentz and Roberta Doyle
+- David Tinianow and Matthew Campbell
+- Kris Sparks and Matthew Packer
+- Christopher Concannon and Trent Whitinger
+
+
+#### With Nate
+
+- Ryan Flach and Angela Lindow
+- Karina Gonzalez, Deb Hamel and Tommasina Miller
+- Michael Lane Winham and Jason Hanna
+- Caleb Cowen and Garrett Smestad
+- Yoseph Anderson and Zachary Forbing
+
+
+## 1606
+
+### Mocking External API calls with VCR (9:00 - 10:30)
+
+With Chad Clancey in Classroom C
+
+### Project Work Time (Remainder of the day)
+
+HOORAY!
+
+
+## 1608
+
+### Rush Hour Work Time (9:00 - 12:00)
+
+Refill those tanks.
+
+### Rush Hour Work Time & Check-Ins (1:00 - 4:00)
+
+
+## 1610
+
+### Dynamics (9:00 - 9:30)
+
+Classroom A.
+
+### Ruby Object Model (9:30 - 12:00)
+
+Classroom A.
+
+### Project Work Time (1:00 - 4:00)

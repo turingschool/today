@@ -7,8 +7,13 @@ layout: outline
 
 ### Announcements
 
+Sign Up Your Projects to Demo on [Thursday Night Demo Night](http://www.meetup.com/Turing-Community-Events/events/232879633/)
+
+[Sign Up Here](https://goo.gl/forms/xFnaV0Ms1ZSGC9Wn2)
 
 ## 1602
+
+[Final Countdown Document](https://gist.github.com/rrgayhart/35784c39bc7dcb8561fcbd68ef34c98f)
 
 ### Portfolio Reviews (9:00 - 12:00)
 
@@ -20,6 +25,7 @@ These will be taking place in this order.
 * Ashwin Rao
 * Chad Ellison
 * Claudia Kiesenhofer
+* Kris Foss
 * Gurusundesh Khalsa
 * Jared Roth
 * Jeneve Parrish
@@ -27,8 +33,7 @@ These will be taking place in this order.
 * Jonathan Liss
 * Joshua Washke
 * Kami Boers
-* Kris Foss
-* Ling ran
+* Ling Tran
 * Marina Corona
 * Mark Miranda
 * Matt Pindell
@@ -72,27 +77,63 @@ Sally's evals will start later, around 10:00.
 
 ### Portfolio Reviews, Part One (1:00 - 5:00)
 
+We'll meet with you in Classroom C
+
 * Anna Weisbrodt
 * Ilana Corson
 * Marcella Wigg
 * Colin Osborn
 * Nick Pisciotta
 * Charles Kaminer
+* Parker Phillips
+* Jennifer Soden
+* Deborah Hamel
 
 
 ## 1605
 
 ### Little Shop Evaluations (9:00 - 12:00)
 
-Schedule TBD.
+#### Andrew - TBD
+
+* (9:00 - 9:45)  Matthew Packer & David Tinianow & Linda McCartney
+* (9:45 - 10:30) Angela Lindow & Ryan Flach & Michael Lane Winham
+* (10:30 - 11: 15) Kris Sparks & Yoseph Anderson & Patrick Wentz
+
+#### Casey - Horace's Lair.
+
+* (9:00 - 9:45) Roberta Doyle & Tommasina Miller & Christopher Concannon
+* (9:45 - 10:30) Matthew Campbell & Nicole Marino & Garrett Smestad & Zachary Forbing
+* (10:30 - 11:15) Jason Hanna & Caleb Cowen & Trent Whitinger
+
 
 ### Demo Night Practice (1:00 - 12:00)
 
 Classroom B.
 
-### Portfolio Reviews, Part One (1:00 - 5:00)
+### Portfolio Reviews, Part One (12:00 - 5:00)
 
-Schedule TBD.
+<ul>
+  <li>Angela Lindow</li>
+  <li>Chris Concannon</li>
+  <li>Kris Sparks</li>
+  <li>David Tinianow</li>
+  <li>Tommasina Miller</li>
+  <li>Nicole Marino</li>
+  <li>Garrett Smestad</li>
+  <li>Jason Hanna</li>
+  <li>Trent Whitinger</li>
+  <li>Lane Winham</li>
+  <li>Lin McCartney</li>
+  <li>Matt Campbell</li>
+  <li>Pat Wentz</li>
+  <li>Roberta Doyle</li>
+  <li>Ryan Flach</li>
+  <li>Matt Packer</li>
+  <li>Caleb Cowen</li>
+  <li>Yoseph Anderson</li>
+  <li>Zach Forbing</li>
+</ul>
 
 
 ## 1606-B
@@ -101,17 +142,45 @@ Schedule TBD.
 
 ### With Mike
 * 9:00 - Calaway and Kinan
-* 9:45 - Dan and David
-* 10:30 - Ryan and Gabi
-* 11:15 - Alisher
-* 11:35 - Mike
+* 9:35 - Ryan and Gabi
+* 10:10 - Raphael and Susi
+* 10:45 - Jasmin and Jesse
+* 11:20 - Alisher
+* 11:40 - Mike
 
-### With Jeff
-* 9:00 - Raphael and Susi
-* 9:45 - Jasmin and Jesse
-* 10:30 - Ben and Bryan
 
 ### With Beth
 * 9:00 - Nate and Jean
-* 9:45 - Brendan and Brian
-* 10:30 - Chase and Vido
+* 9:35 - Brendan and Brian
+* 10:10 - Ben and Bryan
+* 10:45 - Dan and David
+* 11:20 - Chase and Vido
+
+### Portfolio Reviews (12:30 - WE FINISH)
+
+If you are not doing your portfolio review, be in Classroom A for Fun With
+Electricity. We'd like to have one person "on deck" while the person before
+them is being evaluated.
+
+Portfolio reviews will proceed in this order, watch Slack to be called.
+
+* Alisher Sadikov
+* Ben Pepper
+* Brendan Dillon
+* Brian Heim
+* Bryan Goss
+* Calaway
+* Dan Broadbent
+* David Davydov
+* Vido Seaver
+* Gabi Procell
+* Jasmin Hudacsek
+* Jesse Spevack
+* Kinan Whyte
+* Michael Hill
+* Nate Anderson
+* Jean Joeris
+* Raphael Barbo
+* Ryan David Workman
+* Chase Dunagan
+* Susi Irwin

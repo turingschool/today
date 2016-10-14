@@ -1,0 +1,144 @@
+---
+title: 20160923
+layout: outline
+---
+
+## All
+
+### Surveys
+
+* [1603]()
+* [1605](https://goo.gl/forms/cKGcmu0RDyfGiZLo1)
+* [1606-B](https://goo.gl/forms/UfYRXya3uL7LLP473)
+* [1608-B](https://goo.gl/forms/sLx8DIp0yBJJCzVF3)
+
+### 1605 Special Time with Jeff (9:00 - 10:00)
+
+Meet with Jeff in Classroom A.
+
+### Group Retro (10:00 - 11:00)
+
+* 1605 - Classroom A with Nate & Lia
+* 1606 - Classroom B with Casey & Sal
+* 1608 - Big Workspace with Jeff & Mike
+
+At 10:45 students sit tight and instructors will rotate to introduce themselves
+and discuss what you need to know for your new module.
+
+### Cross-Cohort Planning Session (11:00 - 12:00)
+
+All front and back-end students meet in the Big Workspace at Blake to kickoff a brainstorming/planning session with Casey & Ellen Mary.
+
+### Lunch (12:00 - 1:00)
+
+It's a normal lunch hour, see you at 1pm!
+
+### Friday Spike - *The Season Finale* (1:00 - 3:00)
+
+This afternoon front-end and back-end students are encouraged to mix and jump into
+a session that sounds interesting to you. Remember that these are not *classes*,
+they're sessions for exploring and experimenting. But this is academic time, so
+you're expected to be in a session or to have notified Rachel Martinez (@rmartinez) via Slack.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Location</th>
+      <th>Lead</th>
+      <th>Topic</th>
+    </tr>
+    <tr>
+      <td>Classroom A</td>
+      <td>Regis Boudinot (Alum)</td>
+      <td>Intro to VueJS</td>
+    </tr>
+    <tr>
+      <td>Staff Table</td>
+      <td>Sally MacNicholas (Staff)</td>
+      <td>Programming Lightbulbs</td>
+    </tr>
+    <tr>
+      <td>The Lair</td>
+      <td>Mike Dao (Staff) and Friends (Caleb Cowen & David Tinianow)</td>
+      <td>Building a RubyGem</td>
+    </tr>
+    <tr>
+      <td>Classroom B</td>
+      <td>(People)</td>
+      <td>Hardware & 3D Printing</td>
+    </tr>
+    <tr>
+      <td>Classroom C</td>
+      <td>Nate Allen (Staff)</td>
+      <td><a href="https://gist.github.com/neight-allen/68d7a0481a19da39da1be6c9921cbe03">What is PHP?</a></td>
+    </tr>
+    <tr>
+      <td>Big Workspace</td>
+      <td>Brenna Martensen (Staff)</td>
+      <td>First Steps with ReactJS</td>
+    </tr>
+    <tr>
+      <td>Gusto A</td>
+      <td>Jhun de Andres (Staff)</td>
+      <td>Web Accessibility</td>
+    </tr>
+    <tr>
+      <td>Gusto B</td>
+      <td>Matt Kaufman and Jeff Duke</td>
+      <td>A Gentle Introduction to Hardware Hacking with Arduinos and Johnny-Five</td>
+    </tr>
+    <tr>
+      <td>Gusto C</td>
+      <td>Jorge Téllez (Staff)</td>
+      <td>Object-Oriented Programming in Ruby</td>
+    </tr>
+  </tbody>
+</table>
+
+### Portfolio Reviews
+
+When not in portfolios you should be participating in the the all-school activities listed above.
+
+<table>
+  <tbody>
+    <tr>
+      <th>1605</th>
+      <th>1608-B</th>
+    </tr>
+    <tr>
+      <td>
+        <p>The Lair</p>
+        <ul>
+          <li>10:00 - Chris Concannon</li>
+           <li> 10:15 - Yoseph Anderson</li>
+           <li> 10:30 - Ryan Flach</li>
+           <li> 10:45 - Lane Winham</li>
+           <li> 11:00 - Karina Gonzalez</li>
+           <li> 11:15 - Pat Wentz</li>
+           <li> 11:30 - Matthew Campbell</li>
+           <li> 11:45 - Matthew Packer</li>
+           <li> 12:00 - Roberta Doyle</li>
+           <li> 12:15 - Angela Lindow</li>
+           <li> 12:30 - Tommasina Miller</li>
+           <li> 12:45 - Trent Whitinger</li>
+           <li> 1:00 - Kris Sparks</li>
+           <li> 1:15 - Garrett Smestad</li>
+           <li> 1:30 - Jenny Soden</li>
+        </ul>
+      </td>
+      <td>
+        <p>Staff Table</p>
+        <ul>
+          <li>9:00 - Lee</li>
+          <li>9:15 - Megan</li>
+          <li>9:30 - Mike</li>
+          <li>9:45 - Nick</li>
+          <li>10:00 - Noah</li>
+          <li>10:15 - Rob</li>
+          <li>10:30 - Ryan</li>
+          <li>10:45 - Vido</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>

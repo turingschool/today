@@ -1,0 +1,105 @@
+---
+title: 20160830
+layout: outline
+---
+
+## Announcements
+**Professional Skills Sessions**
+
+* All: GearUp (Fri)
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)
+* M1: Professional Skills (Thu)
+
+## All
+
+
+## 1603
+
+### Actually Understanding Asynchronous JavaScript (9:00 - 12:00)
+
+### Check Ins and Project Work Time (1:15 - 4:00)
+
+#### With Meeka
+
+- Nick and Marcella
+- Robbie and Brian
+- Ilana and Charlie
+
+#### With Nate
+
+- Chris and Anna
+- Parker and Ryan
+- Erin and Lucy
+
+
+## 1605
+
+### Consuming APIs (9:00 - 12:00)
+
+[Here is the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/consuming_an_api.md). We'll be in Classroom B.
+
+### Project Check Ins and Project Work Time (1:00 - 4:00)
+
+#### With Josh
+
+* (1:00 - 1:20) - Angela Lindow
+* (1:20 - 1:40) - Caleb Cowen
+* (1:40 - 2:00) - Chris Concannon
+* (2:00 - 2:20) - David Tinianow
+* (2:20 - 2:40) - Deb Hamel
+* (2:40 - 3:00) - Garrett Smestad
+* (3:00 - 3:20) - Jason Hanna
+* (3:20 - 3:40) - Matthew Packer
+
+#### With Andrew
+
+* (1:00 - 1:20) - Jenny Soden
+* (1:20 - 1:40) - Karina Gonzalez
+* (1:40 - 2:00) - Kris Sparks
+* (2:00 - 2:20) - Lin McCartney
+* (2:20 - 2:40) - Matthew Campbell
+* (2:40 - 3:00) - Pat Wentz
+
+#### With Sally (In-Person)
+
+* (1:00 - 1:20) - Nicole Marino
+* (1:20 - 1:40) - Roberta Doyle
+* (1:40 - 2:00) - Ryan Flach
+* (2:00 - 2:20) - Tommasina Miller
+* (2:20 - 2:40) - Lane Winham
+* (2:40 - 3:00) - Trent Whitinger
+* (3:20 - 3:40) - Yoseph Anderson
+* (3:40 - 4:00) - Zachary Forbing
+
+## 1606-B
+
+### Migrations, Databases, and Models (9:00 - 11:00)
+
+Classroom C.
+
+### Relationships Implementations (11:00 - 12:00)
+
+Classroom C.
+
+### Rails Basics Challenge (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### All: Dynamics (9:00 - 10:00)
+
+Classroom A where we'll use [this lesson plan](https://github.com/turingschool/dynamics/blob/master/drive.markdown).
+
+### MOAR ENUMERABLES (10:00 - 12:00)
+
+Classroom A with Mike.
+
+### All: Baby's First Rakefile and Require Crash Course (1:00 - 2:30)
+
+Classroom A with Beth.
+
+### Project Work Time (2:30 - 4:00)
+
+Beth and Mike will be availble for questions.

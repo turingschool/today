@@ -1,0 +1,125 @@
+---
+title: 20160906
+layout: outline
+---
+
+## Announcements
+**Professional Skills Sessions**  
+
+* FEE M2: StrengthsFinder Small Groups (Tue)  
+* BEE M2: StrengthsFinder Small Groups (Wed)  
+* BEE M4: Negotiations (Wed)  
+* BEE M3: Strategies for Innovative Problem Solving (Thu)  
+* BEE M2: Networking (Fri)  
+
+## All
+
+## 1603
+
+### React in Theory (9:15 - 12:00)
+
+At Gusto!
+
+### Launch and Standup: Whiskey Tango (1:15 - 2:30)
+
+Again at Gusto!
+
+### Launch and Standup: LookingFor & MentorSHIP (2:30 - 4:00)
+
+Still at Gusto!
+
+## 1605
+
+### Building and Securing an API (9:00 - 12:00)
+
+Classroom B.
+
+### Rales Engine Kickoff (1:00 - 2:30)
+
+Classroom B.
+
+### Project Work Time (2:30 - 4:00)
+
+[Let's get it started.](https://www.youtube.com/watch?v=IKqV7DB8Iwg)
+
+
+## 1606-B
+
+### Mix Master Peer Checks (9:00 - 10:00)
+
+Classroom C.
+
+### Mix Master Q & A (10:00 - 10:30)
+
+Classroom C.
+
+### Revisiting the ActiveRecord Obstacle Course (10:30 - 12:00)
+
+Classroom C.
+
+### Sessions, Cookies and Flashes (1:00 - 2:30)
+
+Classroom C.
+
+### CRUD - Sprint (2:30 - 4:00)
+
+Classroom C.
+
+
+## 1608-B
+
+### TBA (9:00 - 10:30)
+
+For 45 minutes work on the Event Manager of the first person, and for the second
+45 minutes, look at the Event Manager of the second person.
+
+* Jason Conrad & Ben Morris-Rains
+* Noah Berman & Joseph Stansfield
+* Ryan Travitz & Jonathan Kimble
+* Brandon Randall & Brett Rivers
+* Morgan Slimak & Erin Pintozzi
+* Michael Scherer & Bradley Green
+* Daniel Shin & Kendall Taylor
+* Megan Talbot & Anthony Ciccone
+* Nicholas Martinez & Alene Schlereth
+* Lee Saville & Charles Wahlgren-Sauro
+* David Junta & Alisher Sadikov
+* Anna Dolan & Daniel Olson
+* Robert Smith & Vido Seaver
+
+Classroom A.
+
+### Mid Module Diagnostic (10:30 - 4:00)
+
+When you're not in a diagnostic you should be working on your project.
+
+#### With Jeff
+* 10:30 - Robbie Smith
+* 11:00 - David Junta
+* 11:30 - Eric Wahlgren-Sauro
+* 1:00  - Anthony Ciccone
+* 1:30  - Ben Morris-Rains
+* 2:00  - Daniel Shin
+* 2:30  - Megan Talbot
+* 3:00  - Nick Martinez
+* 3:30  - Ali Schlereth
+
+#### With Mike
+* 10:30 - Michael Scherer
+* 11:00 - Brett Rivers
+* 11:30 - Anna Dolan
+* 1:00  - Erin Pintozzi
+* 1:30  - Bradley Green
+* 2:00  - Daniel Olson
+* 2:30  - Jason Conrad
+* 3:00  - Lee Saville
+* 3:30  - Noah Berman
+
+#### With Beth
+* 10:30 - Joe Stansfield
+* 11:00 - Jonathan Kimble
+* 11:30 - Alisher Sadikov
+* 1:00  - Ryan Travitz
+* 1:30  - Morgan Slimak
+* 2:00  - Brandon Randall
+* 2:30  - Tessa Taylor

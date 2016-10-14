@@ -1,0 +1,113 @@
+---
+title: 20160908
+layout: outline
+---
+
+## Announcements
+**Professional Skills Sessions**
+
+* BEE M4: Negotiations (Wed)
+* BEE M3: Strategies for Innovative Problem Solving (Thu)
+* BEE M2: Networking (Fri)
+
+## All
+
+## 1603
+
+### API Best Practices (9:15 - 10:30)
+
+No coding, just a conversation about building APIs, and the standards that are out there
+
+### Visual Git Workflow (10:30 - 12:00)
+
+Add more tools in your git toolbelt
+
+### Stand Up (Whiskey Tango) (1:15 - 1:35)
+
+Gusto!
+
+### Stand Up (LookingFor & mentorSHIP)(1:40 - 2:00)
+
+Gusto!
+
+### Project Work Time
+
+Wherever you wanna!
+
+## 1605
+
+### Project Worktime (9:00 - 12:00)
+
+Find a good spot to pair and finish off your RailsEngine projects
+
+### Strategies for Innovative Problem Solving (1:00 - 2:00)
+
+Classroom B.
+
+### Project Work Time (2:00 - 4:00)
+
+
+## 1606-B
+
+### Advancing Routing in Rails (9:00 - 10:30)
+
+Classroom C.
+
+### Authorization (10:30 - 12:00)
+
+Classroom C.
+
+### Auth Work Time and Mid Module Assessments (1:00 - 3:30)
+
+#### With Andrew
+
+* 1:10 - 1:55 Susi
+* 1:55 - 2:40 Dan
+
+#### With Sal
+
+* 1:00 - 1:45 Jean
+* 1:45 - 2:30 Sonia
+* 2:30 - 3:15 Raphael
+
+#### With Casey
+
+* 1:00 - 1:45 Jasmin
+* 1:45 - 2:30 Matt
+* 2:30 - 3:15 Nate
+* 4:10 - 4:50 Chase
+
+### Rails Mini Project Kickoff (3:30 - 4:00)
+
+Classroom C.
+
+## 1608-B
+
+### Working with Ruby Modules (9:00 - 10:00)
+
+Classroom A with Mike
+
+### Command and Query and Instance Variables and You (10:00 - 10:30)
+
+Continuing in Classroom A with Mike
+
+### Boolean Logic Deep Dive: Managing Branches in Code (10:30 - 12:00)
+
+Classroom A with Jeff.
+
+### Cross Group Pairing (1:00 - 2:30)
+* Nicholas Martinez, Brandon Randall
+* Tessa (Kendall) Taylor, Vido Seaver
+* Eric Wahlgren-Sauro, Megan Talbot
+* Erin Pintozzi, Daniel Olson
+* Robbie Smith, Alisher Sadikov
+* Jason Conrad, Lee Saville
+* Noah Berman, Brett Rivers
+* Ali Schlereth, Ben Morris-Rains
+* Jon Kimble, David Junta
+* Brad Green, Ryan Travitz
+* Anna Dolan, Morgan Slimak
+* Anthony Ciccone, Michael Scherer
+* Joey Stansfield, Daniel Shin
+
+### Project Work Time (2:30 - 4:00)

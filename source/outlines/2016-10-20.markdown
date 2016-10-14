@@ -1,0 +1,72 @@
+---
+title: 20161020
+layout: outline
+---
+
+
+## 1605
+
+### Agile & Other Buzzwords (9:00 - 10:30)
+
+Classroom B.
+
+### Talk About Scale Up (10:30 - 12:00)
+
+Classroom B.
+
+### GameTime Evals & Scale Up Brainstorming (1:00 - 4:00)
+
+
+## 1606
+
+### Mystery Project re-DTR (9:00 - 10:30)
+
+Big Workspace.
+
+### Project Work Time (10:30 - 12:00)
+
+### Project Work Time & Check-Ins (1:00 - 4:00)
+
+Check-In times TBA.
+
+
+## 1608-B
+
+### MixMaster Peer Checks (9:00 - 10:00)
+
+Classroom C.
+
+### MixMaster Q&A (10:00 - 10:30)
+
+Classroom C.
+
+### Revisiting the ActiveRecord Obstacle Course (10:30 - 12:00)
+
+Classroom C.
+
+### Project Kickoff (1:00 - 1:30)
+
+Classroom C.
+
+### Project Work Time (1:30 - 4:00)
+
+
+## 1610
+
+### Project Evaluations and Diagnostics/Paired Code Challenge (9:00 - 11:30)
+
+Classroom A.
+
+### Portfolio Work Time (11:30 - 12:00)
+
+Classroom A.
+
+### Protocol (1:00 - 2:00)
+
+Classroom A.
+
+### Group Project Retro (2:00 - 4:00)
+
+Classroom A.
+
+

@@ -1,0 +1,183 @@
+---
+title: 20160825
+layout: outline
+---
+
+## Announcements
+
+## All
+
+
+## 1603
+
+### Advanced JavaScript Functions (9:15 - 12:00)
+
+[Revisiting This](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/02-what-is-this.md)
+
+[Currying and Partial Application](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/03-currying-and-partial-application.md)
+
+[Recursion](https://github.com/mdn/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/02-functions/04-recursion.md)
+
+### Protocol: Job Search Strategies (1:15 - 2:00)
+
+With Allison!
+
+### Check Ins and Project Work Time (2:00 - 4:00)
+
+#### With Meeka
+
+- Erin and Lucy
+- Chris and Anna
+- Parker and Ryan
+
+#### With Nate
+
+- Ilana and Charlie
+- Nick and Marcella
+- Robbie and Brian
+
+## 1605
+
+### Project Work Time (9:00 - 12:00)
+
+Put the finishing touches on your project!
+
+### Pivot Evaluations (1:00 - 4:00)
+
+**☀☀☀ We need 100% participation.☀☀☀**
+
+Be sure to fill out [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeNkH3-bXEe20PYtaGE_laFww2L7854_vYzACWeZvWCKVamag/viewform#responses) for your Pivot members. This will be reviewed by staff and delivered to each group member. Please use [this reference](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the-pivot-week-2-retro.md) to help provide meaningful feedback.
+
+#### Client Evaluation with Sally
+
+* (1:00) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (1:20) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (1:40) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (2:00) - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+* (2:20) - Garrett Smestad & Ryan Flach & Matthew Packer
+* (2:40) - Trent Whitinger & Matthew Campbell & Jennifer Soden
+
+#### Technical Evaluation with Josh
+
+* (1:00) - Trent Whitinger & Matthew Campbell & Jennifer Soden
+* (1:30) - Garrett Smestad & Ryan Flach & Matthew Packer
+* (2:00) - Kris Sparks & Karina Gonzalez & Zachary Forbing & Christopher Concannon
+* (2:30) - Roberta Doyle & Nicole Marino & Deb Hamel & Michael Lane Winham
+* (3:00) - David Tinianow & Patrick Wentz & Jason Hanna & Yoseph Anderson
+* (3:30) - Angela Lindow & Caleb Cowen & Tommasina Miller & Linda McCartney
+
+
+## 1606-B
+
+### View Templating in Sinatra (9:00 - 10:00)
+
+Join Andrew in Classroom C to talk about view strategies in Sinatra. [Here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/sinatra_partial_arts.markdown) is the lesson plan we'll work with today.
+
+### Rush Hour Work Time (10:00 - 12:00)
+
+### Rush Hour Work Time and One on Ones (1:00 - 4:00)
+
+#### With Casey
+
+* Ben Pepper
+* Brendan Dillon
+* Brian Heim
+* Bryan Goss
+* Chase Dunagan
+* Chris Calaway
+* Dan Broadbent
+* David Davydov
+* Jasmin Hudacsek
+
+#### With Sal
+
+* Jean Joeris
+* Jesse Spevack
+* Matt DesMarteau
+* Nate Anderson
+* Raphael Barbo
+* Ryan Workman
+* Sonia Gupta
+* Susi Irwin
+
+## 1608-B
+
+### Project Evaluations (9:00 - 12:00)
+
+#### With Beth
+* 9:00 - Alene Schlereth
+* 9:25 - Brad Green
+* 9:50 - Brett Rivers
+* 10:15 - Daniel Shin
+* 10:40 - Erin Pintozzi
+* 11:05 - Brandon Randall
+* 11:30 - Tessa Taylor
+
+#### With Mark
+* 9:25 - Lee Saville
+* 9:50 - Michael Scherer
+* 10:15 - Morgan Slimak
+* 10:40 - Joseph Stansfield
+* 11:05 - Dan Olson
+* 11:30 - Jonathan Kimble
+
+#### With Jeff
+* 9:00 - Nick Martinez
+* 9:25 - Vido Seaver
+* 9:50 - Alisher Sadikov
+* 10:15 - David Junta
+* 10:40 - Anthony Ciccone
+* 11:05 - Eric Wahlgren-Sauro
+
+#### With Mike
+* 9:00 - Anna Dolan
+* 9:25 - Benjamin Morris-Rains
+* 9:50 - Jason Conrad
+* 10:15 - Megan Talbot
+* 10:40 - Noah Berman
+* 11:05 - Ryan Travitz
+* 11:30 - Robert Smith
+
+[Diagnostic](https://gist.github.com/mikedao/24a0cfb791bcd9141b28bef057b47d60)
+
+[Fill out this form when you are finished](https://goo.gl/forms/U1xaOWc4cfzZWGVw1)
+If you are not being evaluated, you are working on the diagnostic and then you
+are working on the following exercises.
+
+* Echo: [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
+* Foxtrot: [Wizarding Bank](https://github.com/turingschool/challenges/blob/master/wizarding_bank.markdown)
+
+### All: Diagnostic Recap (1:00 - 1:30)
+
+Classroom A with Beth.
+
+### All: File I/O (1:30 - 2:00)
+
+Classroom A with Beth once again.
+
+### Echo: Project Kickoff - CompleteMe (2:00 - 3:00)
+
+Classroom A.
+
+* Alene Schlereth & Vido Seaver
+* Dan Olson & Brandon Randall
+* Brett Rivers & Daniel Shin
+* Jonathan Kimball & Joseph Stansfield
+* Ryan Travitz & Morgan Slimak
+
+### Foxtrot: Project Kickoff - Enigma (2:00 - 3:00)
+
+Classroom B.
+
+* Alisher & Benjamin
+* Anna & David
+* Robbie & Nick
+* Brad & Lee
+* Megan & Erin
+* Anthony & Eric
+* Tessa & Noah
+* Jason & Michael & Ryan
+
+### Learning to Pair (3:00 - 4:00)
+
+Classroom A.

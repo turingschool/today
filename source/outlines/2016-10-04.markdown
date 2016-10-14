@@ -1,0 +1,134 @@
+---
+title: 20161004
+layout: outline
+---
+
+## Announcements
+* NAME TAGS ALL WEEK
+
+
+## 1605
+
+### Selenium Medium Dive (9:00 - 10:30)
+
+Classroom B. [We'll use this tutorial for today's workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/getting_started_with_selenium_testing.md).
+
+### Event Bubbling and Delegation (10:30 - 12:00)
+
+Classroom B.
+
+### Project Work Time & Checkins (1:00 - 4:00)
+
+#### With Andrew
+
+- Kris Sparks
+- Jennifer Soden
+- Angela Lindow
+- Roberta Doyle
+- Ryan Flach
+- Kerry Sheldon
+- Matthew Packer
+- Deb Hamel
+- Michael Lane Winham
+- Tommasina Miller
+- Jason Hanna
+
+#### With Nate
+
+- Patrick Wentz
+- Garrett Smestad
+- Christopher Concannon
+- David Tinianow
+- Caleb Cowen
+- Matthew Campbell
+- Zachary Forbing
+- Karina Gonzalez
+- Yoseph Anderson
+- Trent Whitinger
+
+
+## 1606
+
+
+### Project Work Time (9:00 - 10:45)
+
+### Customizing JSON in your Rails API (10:45 - 12:15)
+
+Big Workspace.
+
+### Project Work Time & Checkins (1:00 - 4:00)
+
+Do good work.
+
+#### With Sally (In-Person)
+
+* (1:00) - David & Jasmin
+* (1:20) - Jesse & Nate
+* (1:40) - Raphael & Sonia
+* (2:00) - Susi & Dan
+
+#### With Josh
+
+* (2:00) - Brendan & Ryan
+* (2:20) - Chase & Matt
+* (2:40) - Brian & Bryan
+* (3:00) - Calaway & Jean
+
+## 1608
+
+### HTML-CSS Partner Review (9:00 - 9:30)
+
+Classroom C.
+
+### Homework Review (9:30 - 10:00)
+
+Classroom C.
+
+### How the Web Works (10:00 - 11:00)
+
+Classroom C.
+
+### Passing Data with Sinatra (11:00 - 12:00)
+
+Classroom C.
+
+### CRUD in Sinatra Workshop (1:00 - 4:00)
+
+Classroom C.
+
+
+## 1610
+
+### PD: Personal Branding I (9:00 - 10:00)
+
+Classroom A.
+
+### Team Building Improv (10:00 - 12:00)
+
+Classroom A.
+
+### Headshots (12:00 - 1:00)
+
+Lobby.
+
+Your schedule is [here](https://docs.google.com/spreadsheets/d/1A_X1JkVYfjo-grXnVISByd4zgmdDnK9vaD6Lo0ga4m0/edit#gid=0)
+
+### ECHO: Superfizz Recap (1:00 - 1:30)
+
+Classroom B.
+
+### FOXTROT: Strings & Integers Recap (1:00 - 1:30)
+
+Classroom A.
+
+### ECHO: Strings & Integer Riddles (1:30 - 3:00)
+
+Classroom B.
+
+### FOXTROT: Flow Control (1:30 - 3:00)
+
+Classroom A.
+
+### Student Activities (3:00 - 4:00)
+
+It's going to be the best day of your life.

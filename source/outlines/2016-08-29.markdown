@@ -1,0 +1,106 @@
+---
+title: 20160829
+layout: outline
+---
+
+## Announcements
+**Professional Skills Sessions**
+
+* All: GearUp (Fri)  
+* FEE M1 + M2: Personal Branding (cont) + Finding Opportunities (Wed)  
+* M1: Professional Skills (Thu)  
+
+## All
+
+
+## 1603
+
+### Discussion: Node vs Webpack (9:15 - 9:45)
+
+Gusto!
+
+### Building and Testing Node Applications (9:45 - 12:00)
+
+Work through [Pizza Express](https://github.com/turingschool-examples/pizza-express) in pairs.
+
+* Robert Jaeger & Ryan Batty
+* Parker Phillips & Nick Pisciotta
+* Christopher Soden & Charles Kaminer
+* Erin Greenhalgh & Ilana Corson
+* Brian Sayler & Lucy Fox
+* Anna Weisbrodt & Marcella Wigg
+
+This assignment is worth 30 points
+
+[Submit Your Results Here](https://gist.github.com/rrgayhart/c61fadfb475327b01b01d642f680aa31)
+
+### Project Work Time (1:15 - 4:00)
+
+Do Work.
+
+## 1605
+
+### Getting Started with OAuth (9:00 - 11:00)
+
+Classroom B.
+
+### JSON Fundamentals (11:00 - 12:00)
+
+Classroom B.
+
+### Apicurious Kickoff (1:00 - 2:30)
+
+[Apicurious](https://www.youtube.com/watch?v=fwcONrTG7nk)
+
+### Project Work Time (2:30 - 4:00)
+
+Think about things.
+
+
+## 1606-B
+
+### Rush Hour Evals and ActiveRecord Obstacle Course Work (9:00 - 12:00)
+
+With Sal, Andrew, and Casey:
+
+* 9:00 - Jasmin Hudacsek & Sonia Gupta & Chase Dunagan
+
+With Sal and Andrew:
+
+* 9:45 - Jean Joeris & Ben Pepper & Matt DesMarteau
+* 10:30 - Calaway & Ryan David Workman & David Davydov
+
+With Casey:
+
+* 9:45 - Brian Heim & Jesse Spevack
+* 10:30 - Dan Broadbent & Raphael Barbo & Brendan Dillon
+* 11:15 - Bryan Goss & Susi Irwin & Nate Anderson
+
+### REST, Controllers, and Routing in Rails (1:00 - 2:30)
+
+Classroom C.
+
+### ERD - Database Design (2:30 - 4:00)
+
+Let's learn about a new tool to help us design our database schema. WE'll be in Classroom C. [Here is your lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/entity-relationship-diagramming.md)
+
+
+
+
+## 1608-B
+
+### All: Testing Strategies (9:00 - 10:30)
+
+Learn you a test with Beth in Classroom A.
+
+### All: Methods, Arguments and Scopes (10:30 - 12:00)
+
+Mike will argue with you in Classroom A.
+
+### Pairing Patterns (1:00 - 2:30)
+
+Beth talks about pairing patterns in A.
+
+### Project Work Time (2:30 - 4:00)
+
+Work Away
