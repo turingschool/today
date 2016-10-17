@@ -6,11 +6,11 @@ layout: outline
 
 ## 1605
 
-### Node vs Webpack (9:00 - 10:30)
+### Node vs Webpack (9:00 - 10:00)
 
 Classroom B.
 
-### Pizza Express (10:30 - 12:00)
+### Pizza Express (10:00 - 12:00)
 
 Classroom B.
 
