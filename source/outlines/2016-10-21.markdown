@@ -9,7 +9,7 @@ layout: outline
 
 * [1605]()
 * [1606-B]()
-* [1608-B]()
+* [1608-B](https://goo.gl/forms/odt8vorX4viJ363L2)
 * [1610-B]()
 
 ### Guest Speaker: Brad Urani (Remote) (9:00 - 10:00)
@@ -21,7 +21,7 @@ Google hangout will be streamed at Gusto, GB & Blake
 | ------ | -------- | ------------ |
 | 1605   | Big Workspace | Algorithm Rhythm Time |
 | 1606-b | Classroom C | Mock Assessment Roadshow w/ Delores & Chad Clancey |
-| 1608-b | Classroom B | Project Work Time |
+| 1608-b | Classroom B | Rails Project Work Time |
 | 1610-b | Classroom A | tbd |
 
 
