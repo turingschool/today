@@ -1,0 +1,12 @@
+---
+title: 20161024
+layout: outline
+---
+
+## 1605
+
+### React in Theory (9:00 - 12:00)
+
+### Launch & Stand Up: Whiskey Tango (1:00 - 2:30)
+
+### Launch & Stand Up: LookingFor (2:30 - 4:00)
