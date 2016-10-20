@@ -12,3 +12,10 @@ layout: outline
 ### ScaleUp MidWay Checkins (1:00 - 4:00)
 
 
+## 1608
+
+### Advanced Routing in Rails (9:00 - 10:30)
+
+### Authorization (10:30 - 12:00)
+
+### Rails Mini Project Work Time (1:00 - 4:00)
