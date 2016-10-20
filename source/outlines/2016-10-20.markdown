@@ -70,6 +70,12 @@ Classroom C.
 
 ### Project Evaluations and Diagnostics/Paired Code Challenge (9:00 - 12:00)
 
+When you've finished the Mid Module Diagnostic, work on this with your 
+project pair.
+
+[OkCuGit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown)
+
+
 Classroom A.
 
 #### With Jeff
