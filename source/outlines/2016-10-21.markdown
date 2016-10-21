@@ -24,7 +24,7 @@ Currently, she's a Product Manager for Green Chef where she's working with the b
 ### Instructional Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Big Workspace | Algorithm Rhythm Time |
+| 1605   | Gusto | Algorithm Rhythm Time |
 | 1606-b | Classroom C | Mock Assessment Roadshow w/ Delores & Chad Clancey |
 | 1608-b | Classroom B | Rails Project Work Time |
 | 1610-b | Classroom A | It's a Secret |
