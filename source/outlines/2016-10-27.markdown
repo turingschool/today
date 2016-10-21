@@ -19,3 +19,12 @@ layout: outline
 ### Authorization (10:30 - 12:00)
 
 ### Rails Mini Project Work Time (1:00 - 4:00)
+
+
+## 1610
+
+### Project Evaluations & Week 4 Diagnostic (9:00 - 11:30)
+
+### Portfolio Work Time (11:30 - 12:00)
+
+### Alternate Track Checkins (1:00 - 4:00)

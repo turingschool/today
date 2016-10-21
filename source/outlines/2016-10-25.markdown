@@ -16,6 +16,15 @@ layout: outline
 ### Project Work Time (3:00 - 4:00)
 
 
+## 1606
+
+### Fundamental Rails Security (9:00 - 10:30)
+
+Classroom C.
+
+### Project Work Time (1:00 - 4:00)
+
+
 ## 1608
 
 ### Workshop & Mid-Mod Assessments (9:00 - 12:00)
@@ -28,3 +37,18 @@ Assessment Schedule TBD.
 ### Rails Mini Project Work Time & Mid-Mod Assessments (1:00 - 4:00)
 
 Assessment Schedule TBD.
+
+
+## 1610
+
+### Fundamental Refactoring Patterns (9:00 - 11:00)
+
+Classroom A.
+
+### Paired Refactoring (11:00 - 12:00)
+
+Classroom A.
+
+### Alternate Track Intensive I (1:00 - 2:30)
+
+### Project Work Time (1:00 - 4:00)

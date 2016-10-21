@@ -4,25 +4,30 @@ layout: outline
 ---
 
 ## All
+__FLU CLINIC at Blake from 9:00 - 11:00__
 
 ### Surveys
 
 * [1605]()
-* [1606-B]()
+* [1606-B](https://goo.gl/forms/ZGO7gcRI7nxUcCIp2)
 * [1608-B](https://goo.gl/forms/odt8vorX4viJ363L2)
 * [1610-B](https://goo.gl/forms/nY2D99ngsMRqI6FH3)
 
-### Guest Speaker: Brad Urani (Remote) (9:00 - 10:00)
+### Guest Speaker: Lindsey Eilbacher (9:00 - 9:45)
 
-Google hangout will be streamed at Gusto, GB & Blake
+Guaranty Bank Building Suite 300
 
-### Instructional Time (10:10 - 12:00)
+Lindsey Eilbacher is a product strategist and operations leader particularly keen on working on tech-enabled, mission driven businesses. She believes technology offers opportunity and accessibility, but that the best tech is built by thriving teams. Her early career path seemingly wandered from social services through economic development and ultimately landed in the start-up, tech space where all her skills and passions have come together to make her a dynamic strategy leader.
+
+Currently, she's a Product Manager for Green Chef where she's working with the back of house team to build a state of the art system that manages the lifecycle of the business from recipe creation through meal kit fulfillment. When she's not meddling over ways to make meal kit production more efficient, she's working on the app company she's co-founded, advising other start-ups, getting creative in the kitchen, putting some sweat equity into her fixer upper, or adventuring in the mountains.
+
+### Instructional Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
 | 1605   | Big Workspace | Algorithm Rhythm Time |
 | 1606-b | Classroom C | Mock Assessment Roadshow w/ Delores & Chad Clancey |
 | 1608-b | Classroom B | Rails Project Work Time |
-| 1610-b | Classroom A | tbd |
+| 1610-b | Classroom A | It's a Secret |
 
 
 ### Brown-Bag Lunch Roulette (12:00 - 1:15)
@@ -53,7 +58,7 @@ Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.g
 
 ### Gear Up (1:15 - 2:15)
 
-Big Workspace.
+Backend at Blake. Frontend at Gusto.
 
 ### Friday Spike (2:25 - 3:15)
 
