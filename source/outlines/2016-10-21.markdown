@@ -58,7 +58,10 @@ Eat and be merry. Suggestions on where to eat your brown bags here: http://goo.g
 
 ### Gear Up (1:15 - 2:15)
 
-Backend at Blake. Frontend at Gusto.
+Gear Up will take place at your homes.
+
+Back End - you will start in the Big Workspace.
+
 
 ### Friday Spike (2:25 - 3:15)
 
