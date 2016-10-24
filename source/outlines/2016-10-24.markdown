@@ -58,14 +58,30 @@ Classroom C.
 
 ### Mid Module Diagnostic (9:00 - 2:30)
 
-#### With Jeff
-* 9:00  - David Knott
-* 9:30  - Edilene Cruz
-* 10:00 - Eric Wahlgren-Sauro
-* 10:30 - Laszlo Balogh
-* 11:00 - Michael Schutte
-* 11:30 - Marisa Burton
-* 1:00  - Kyle Heppenstall
+From 9:00 - 12:00, While you are not working on your diagnostic, you will be 
+working on these following challenges in these pairs:
+
+* Ann & Amara
+* Brett & Drew
+* Alex & Amy
+* Caroline & Edilene
+* Daniel & David
+* Jason & Eric
+* Ethan & Jesse
+* Molly & Michael Hill
+* Lucy & Laszlo
+* Nick E. & Josh
+* Michael Schutte & Kyle 
+* Robbie & Phyllis
+* Nick Gheorgita & Marisa Burton
+
+#### Challenges
+* [Flatten](https://github.com/turingschool/challenges/blob/master/flatten.markdown)
+* [Strings and Arrays](https://github.com/mikedao/code_challenges/tree/master/strings_and_arrays)
+
+From 1:00 - 2:30, read the [following](https://github.com/turingschool/challenges/blob/master/refactoring_patterns_reading.markdown)
+in preparation for your class tomorrow. If you finish early, feel free to work
+on your lightning talk for Friday.
 
 #### With Mike
 * 9:00  - Ann Wolff
@@ -73,26 +89,34 @@ Classroom C.
 * 10:00 - Caroline Powell
 * 10:30 - Jason Conrad
 * 11:00 - Molly Brown
-* 11:30 - Michael Hill
+* 11:30 - Nick Erhardt
 * 1:00  - Robbie Smith
 
 #### With Beth
-* 9:00  - Alex Fosco
-* 9:30  - Amara Lovato
-* 10:00 - Ethan Bennett
-* 10:30 - Jesse Shipley
-* 11:00 - Josh Cohen
-* 11:30 - Phyllis Hugunien
+* 9:00  - Amara Lovato
+* 9:30  - Drew Palazzari
+* 10:00 - Edilene Cruz
+* 10:30 - Eric Wahlgren-Sauro
+* 11:00 - Michael Hill
+* 11:30 - Josh Cohen
+* 1:00  - Phyllis Hugunien
 
 #### With Ilana
+* 9:30  - Alex Fosco
+* 10:00 - Daniel Rodriguez
+* 10:30 - Ethan Bennett
+* 11:00 - Lucy Conklin
+* 11:30 - Michael Schutte
+* 1:00  - Nick Gheorgita
 
-* 9:00  - Amy Kintner
-* 9:30  - Dan Rodriguez
-* 10:00 - Drew Palazzari
-* 10:30 - Lucy Conklin
-* 11:00 - Nick Erhardt
-* 11:30 - Nick Gheorgita
+#### With Sally 
+* 9:30  - Amy Kintner
+* 10:00 - David Knott
+* 10:30 - Jesse Shipley
+* 11:00 - Laszlo Balogh
+* 11:30 - Kyle Heppenstall
+* 1:00  - Marisa Burton
 
 ### HTTP/Alternate Project Kickoff (2:30 - 4:00)
 
-Classroom A.
+Stand by for details
