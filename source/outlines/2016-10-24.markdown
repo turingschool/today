@@ -66,10 +66,10 @@ working on these following challenges in these pairs:
 * Alex & Amy
 * Caroline & Edilene
 * Daniel & David
-* Jason & Eric
+* Jason & Lucy
 * Ethan & Jesse
 * Molly & Michael Hill
-* Lucy & Laszlo
+* Eric & Laszlo
 * Nick E. & Josh
 * Michael Schutte & Kyle 
 * Robbie & Phyllis
@@ -96,7 +96,7 @@ on your lightning talk for Friday.
 * 9:00  - Amara Lovato
 * 9:30  - Drew Palazzari
 * 10:00 - Edilene Cruz
-* 10:30 - Eric Wahlgren-Sauro
+* 10:30 - Lucy Conklin
 * 11:00 - Michael Hill
 * 11:30 - Josh Cohen
 * 1:00  - Phyllis Hugunien
@@ -105,7 +105,7 @@ on your lightning talk for Friday.
 * 9:30  - Alex Fosco
 * 10:00 - Daniel Rodriguez
 * 10:30 - Ethan Bennett
-* 11:00 - Lucy Conklin
+* 11:00 - Eric Wahlgren-Sauro
 * 11:30 - Michael Schutte
 * 1:00  - Nick Gheorgita
 
