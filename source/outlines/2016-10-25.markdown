@@ -27,14 +27,7 @@ Classroom C.
 
 ## 1608
 
-### Workshop & Mid-Mod Assessments (9:00 - 12:00)
-
-If you aren't being assessed, you will be working on the Authentication &
-Authorization Workshop.
-
-Assessment Schedule TBD.
-
-### Rails Mini Project Work Time & Mid-Mod Assessments (1:00 - 4:00)
+### Mini Project Kickoff/Work Time & Mid-Mod Assessments (9:00 - 4:00)
 
 Assessment Schedule TBD.
 
