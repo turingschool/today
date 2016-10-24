@@ -34,7 +34,7 @@ Classroom A with Lauren
 * (1:00) - Thumbtack
 
 #### With Sally
-* (1:45) - Flickr
+* (1:00) - Flickr
 
 #### With Lauren
 * (1:00) - Dropbox
@@ -120,7 +120,7 @@ on your lightning talk for Friday.
 * 10:30 - Jesse Shipley
 * 11:00 - Laszlo Balogh
 * 11:30 - Kyle Heppenstall
-* 1:00  - Marisa Burton
+* 1:30  - Marisa Burton
 
 ### HTTP/Alternate Project Kickoff (2:30 - 4:00)
 
