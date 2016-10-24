@@ -8,7 +8,7 @@ __FLU CLINIC at Blake from 9:00 - 11:00__
 
 ### Surveys
 
-* [1605]()
+* [1605](https://goo.gl/forms/z85XcGU7bPAwODjq2)
 * [1606-B](https://goo.gl/forms/ZGO7gcRI7nxUcCIp2)
 * [1608-B](https://goo.gl/forms/odt8vorX4viJ363L2)
 * [1610-B](https://goo.gl/forms/nY2D99ngsMRqI6FH3)
@@ -24,7 +24,7 @@ Currently, she's a Product Manager for Green Chef where she's working with the b
 ### Instructional Time (10:00 - 12:00)
 | Cohort | Location | Lesson Plans |
 | ------ | -------- | ------------ |
-| 1605   | Big Workspace | Algorithm Rhythm Time |
+| 1605   | Gusto | Algorithm Rhythm Time |
 | 1606-b | Classroom C | Mock Assessment Roadshow w/ Delores & Chad Clancey |
 | 1608-b | Classroom B | Rails Project Work Time |
 | 1610-b | Classroom A | It's a Secret |
@@ -68,4 +68,4 @@ Back End - you will start in the Big Workspace.
 Sessions posted [here](https://docs.google.com/document/d/16GOvVXm9UQSq0zsh_z9nFPEfRE9huS0gIi53EAa0sTI/edit).
 
 ### Cohort Retro (3:25 - 4:00)
-Same classrooms as academic time.
+Same classrooms as academic time. 1605 is in the Big Workspace (you're welcome Jenny).
