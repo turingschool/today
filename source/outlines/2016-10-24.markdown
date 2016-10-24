@@ -51,11 +51,11 @@ Classroom C.
 
 Classroom C.
 
-### Rails Mini Project Kickoff (1:00 - 1:30)
+### Authentication & Authorization Workshop (1:00 - 4:00)
 
 Classroom C.
 
-### Rails Mini Project Work Time (1:30 - 4:00)
+Find the workshop [here](https://gist.github.com/case-eee/cd35fed926fa15670a05bd02448ef366).
 
 
 ## 1610-B
