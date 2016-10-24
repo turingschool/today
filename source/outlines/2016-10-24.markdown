@@ -55,6 +55,8 @@ Classroom C.
 
 Classroom C.
 
+Find the workshop [here](https://gist.github.com/case-eee/cd35fed926fa15670a05bd02448ef366).
+
 
 ## 1610-B
 
