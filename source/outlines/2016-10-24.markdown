@@ -22,7 +22,7 @@ Classroom B.
 
 ### jQuery DOM Traversal, Manipulation & Events (9:00 - 12:00)
 
-Big Workspace.
+Classroom A with Lauren
 
 ### Project Work Time & Checkins (1:00 - 4:00)
 
@@ -58,7 +58,7 @@ Classroom C.
 
 ### Mid Module Diagnostic (9:00 - 2:30)
 
-From 9:00 - 12:00, While you are not working on your diagnostic, you will be 
+From 9:00 - 12:00, While you are not working on your diagnostic, you will be
 working on these following challenges in these pairs:
 
 * Ann & Amara
@@ -71,7 +71,7 @@ working on these following challenges in these pairs:
 * Molly & Michael Hill
 * Eric & Laszlo
 * Nick E. & Josh
-* Michael Schutte & Kyle 
+* Michael Schutte & Kyle
 * Robbie & Phyllis
 * Nick Gheorgita & Marisa Burton
 
@@ -109,7 +109,7 @@ on your lightning talk for Friday.
 * 11:30 - Michael Schutte
 * 1:00  - Nick Gheorgita
 
-#### With Sally 
+#### With Sally
 * 9:30  - Amy Kintner
 * 10:00 - David Knott
 * 10:30 - Jesse Shipley
