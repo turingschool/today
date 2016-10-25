@@ -50,8 +50,34 @@ layout: outline
 
 ## 1610
 
-### Project Evaluations & Week 4 Diagnostic (9:00 - 11:30)
+### Project Evaluations & Week 4 Diagnostic (9:00 - 12:00)
 
-### Portfolio Work Time (11:30 - 12:00)
+#### With Jeff
+* 9:00  - Ann Wolff
+* 9:30  - Eric Wahlgren-Sauro
+* 10:00 - Kyle Heppenstall
+* 10:30 - Josh Cohen
+
+#### With Mike
+* 9:00  - Amy Kintner
+* 9:30  - Brett Rivers
+* 10:00 - Lucy Conklin
+* 10:30 - Robbie Smith
+* 11:00 - NicK Erhardt
+
+#### With Beth
+* 9:00  - Dan Rodriguez
+* 9:30  - Drew Palazzari
+* 10:00 - Laszlo Balogh
+* 10:30 - Caroline Powell
+* 11:00 - Nick Erhardt
+
+#### With Ilana
+* 9:00  - David Knott
+* 9:30  - Ethan Bennett
+* 10:00 - Michael Schutte
+* 10:30 - Nick Georghita
 
 ### Alternate Track Checkins (1:00 - 4:00)
+
+### Paired Code Challenge (1:00 - 4:00)
