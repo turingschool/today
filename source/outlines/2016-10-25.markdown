@@ -9,6 +9,8 @@ layout: outline
 
 ### Professional Development (1:00 - 2:00)
 
+Workshop with Lia. All are expected to attend.
+
 ### Whiskey Standup (2:00 - 2:30)
 
 ### OSS Standup (2:30 - 3:00)
