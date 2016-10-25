@@ -73,11 +73,11 @@ Groups:
 
 * David Knott & Drew Palazzari & Edilene Cruz
 * Eric Wahlgren-Sauro & Ethan Bennett & Jason Conrad
-* Jesse Shipley & Kyle Heppenstall & Josh Cohen
+* Jesse Shipley & Kyle Heppenstall & Alex Fosco
 * Brett Rivers & Caroline Powell & Daniel Rodriguez
 * Laszlo Balogh & Lucy Conklin & Marisa Burton
 * Molly Brown & Michael Hill & Michael Schutte
-* Nick Erhardt & Nick Gheorghita & Phyllis Hugunien & Alex Fosco
+* Nick Erhardt & Nick Gheorghita & Phyllis Hugunien
 * Robbie Smith & Amara Lovato & Amy Kintner & Ann Wolff
 
 ### Paired Refactoring (11:00 - 12:00)
