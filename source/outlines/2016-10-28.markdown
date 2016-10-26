@@ -10,7 +10,7 @@ __Job-Shadowing Day for FE-3, BE-3, & BE-4__
 ### Surveys
 
 * [1605]()
-* [1606-B]()
+* [1606-B](https://goo.gl/forms/AvvNykwUWuYuc8gJ2)
 * [1608-B]()
 * [1610-B]()
 
@@ -23,7 +23,7 @@ Guaranty Bank, S300
 | ------ | -------- | ------------ |
 | 1605   | tbd | tbd |
 | 1606-b | Classroom C | Assessment Prep |
-| 1608-b | Rails Views Tips & Tricks| Classroom B |
+| 1608-b | Classroom B | Rails Views Tips & Tricks |
 | 1610-b | Classroom A | Lightning Talks |
 
 

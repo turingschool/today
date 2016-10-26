@@ -7,9 +7,13 @@ layout: outline
 
 ### The remainder of Advanced JS (9:00 - 11:00)
 
+Classroom B.
+
 We'll cover Currying, Recursion and Generators
 
 ### PROtocol: Blog Writing & Peer Review (11:00 - 12:00)
+
+Classroom B.
 
 Like other Professional Development sessions, you are all expected to attend
 
@@ -43,11 +47,41 @@ Like other Professional Development sessions, you are all expected to attend
 - Lane Winham
 
 
+## 1606
+
+### Cloney Island Evaluations (9:00 - 12:00)
+
+#### With Josh
+* (9:00) - Thumbtack
+* (9:30) - Flickr
+
+#### With Lauren
+* (9:00) - Dropbox
+* (9:30) - Airbnb
+
+
+### External Company Project Pitch (1:00 - 2:00)
+
+Classroom C.
+
+### Self-Directed Projects Intro (2:00 - 3:00)
+
+Classroom C.
+
+### Self-Directed Project Ideation & Prep (3:00 - 4:00)
+
+Classroom C.
+
+
 ## 1608
 
 ### Advanced Routing in Rails (9:00 - 10:30)
 
+Classroom C.
+
 ### Authorization (10:30 - 12:00)
+
+Classroom C.
 
 ### Rails Mini Project Work Time (1:00 - 4:00)
 
@@ -85,3 +119,5 @@ Like other Professional Development sessions, you are all expected to attend
 ### Alternate Track Checkins (1:00 - 4:00)
 
 ### Paired Code Challenge (1:00 - 4:00)
+
+Classroom A.
