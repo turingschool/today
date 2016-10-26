@@ -54,12 +54,13 @@ Cold Outreach: It's chilling.
 
 ### Pairings with Ilana 
 
-10am: Robbie 
-10:30am: Lucy
-11am: Kyle
-11:30am: Eric
-1pm: Drew
-1:30pm: Ethan
+- 10am: Robbie 
+- 10:30am: Lucy
+- 11am: Kyle
+- 11:30am: Eric
+- 1pm: Drew
+- 1:30pm: Ethan
+- 2pm: Josh
 
 ### Working with Ruby Modules (9:00 - 10:30)
 
