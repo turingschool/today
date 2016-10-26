@@ -61,6 +61,8 @@ Like other Professional Development sessions, you are all expected to attend
 
 ### Cloney Island Feedback Group Member Feedback (10:15 - 11:15)
 
+Big Workspace
+
 It was the best of times, it was the worst of times, it was the age of wisdom. Working in groups adds moving parts that can sometimes add complexity and increase friction. But we're also presented with opportunities to learn more about ourselves and other people which can help us grow to become better employees, bosses, teammates, and people.
 
 We'll take this hour to write feedback for your group members. Fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLSeTZakjgmbPwVs_gN1gpnWH0U2FuDtCJcmPsXSDy4svAk2SIw/viewform) using [these guidlines](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney-island-week-2-feedback.md) to make sure the feedback is specific, actionable, and kind.
