@@ -11,7 +11,7 @@ __Job-Shadowing Day for FE-3, BE-3, & BE-4__
 
 * [1605]()
 * [1606-B](https://goo.gl/forms/AvvNykwUWuYuc8gJ2)
-* [1608-B]()
+* [1608-B](https://goo.gl/forms/3OoPrnZQjMlVhYUG3)
 * [1610-B]()
 
 ### Guest Speaker: Jeremy Jackson (9:00 - 10:00)
@@ -23,7 +23,7 @@ Guaranty Bank, S300
 | ------ | -------- | ------------ |
 | 1605   | tbd | tbd |
 | 1606-b | Classroom C | Assessment Prep |
-| 1608-b | Classroom B | Rails Views Tips & Tricks |
+| 1608-b | Classroom B | Rails Mini Project Work Time |
 | 1610-b | Classroom A | Lightning Talks |
 
 
