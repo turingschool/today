@@ -1,0 +1,57 @@
+---
+title: 20161102
+layout: outline
+---
+
+## 1605
+
+### FE CSS Responsive Design (9:00 - 12:00)
+
+Classroom B.
+
+### Stand Up (1:00 - 1:30)
+
+Classroom B.
+
+### Stand Up (1:30 - 2:00)
+
+Classroom B.
+
+### Mock Assessment Evals (2:00 - 4:00)
+
+
+## 1606
+
+### Final Assessment (9:00 - 12:00)
+
+Classroom C.
+
+### Assessment Evals & Project Work Time (1:00 - 4:00)
+
+
+## 1608
+
+### Intro to Heroku & the "Asshat" Pipeline (9:00 - 10:30)
+
+Big Workspace.
+
+### Little Shop Work Time (10:30 - 12:30)
+
+### Little Shop Work Time (1:00 - 4:00)
+
+
+## 1610
+
+### Advanced Enumerables (9:00 - 10:30)
+
+Classroom A.
+
+### Refactoring in Pairs (10:30 - 12:00)
+
+Classroom A.
+
+### Assessment and Portfolio Q&A (1:00 - 1:30)
+
+Classroom A.
+
+### Project Work Time (1:30 - 4:00)

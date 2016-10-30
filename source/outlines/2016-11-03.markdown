@@ -1,0 +1,49 @@
+---
+title: 20161103
+layout: outline
+---
+
+## 1605
+
+### Project Work Time & Instructor Pairing (9:00 - 11:00)
+
+### Professional Development (11:00 - 12:00)
+
+Classroom B.
+
+### Stand Up (1:00 - 1:30)
+
+Classroom B.
+
+### Stand Up (1:30 - 2:00)
+
+Classroom B.
+
+### Project Work Time & Instructor Pairing (2:00 - 4:00)
+
+
+## 1606
+
+### Assessment Evaluations & Work Time (9:00 - 12:00)
+
+### Project Check-Ins & Work Time (1:00 - 4:00)
+
+
+## 1608
+
+### Pushing Logic Down the Stack (9:00 - 12:00)
+
+Classroom C.
+
+### Callbacks & Scopes (1:00 - 2:30)
+
+Classroom C.
+
+### Little Shop Work Time and Check-Ins (2:30 - 4:00)
+
+
+## 1610
+
+### Project Check-Ins (9:00 - 12:00)
+
+### Project Work Time (1:00 - 4:00)
