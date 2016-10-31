@@ -21,19 +21,20 @@ Big Workspace.
 
 ## 1608
 
-### Mini Project Show & Tell (9:00 - 9:30)
+### Week 4 Recap (9:00 - 10:00)
 
 Classroom C.
 
-### Week 4 Recap (9:30 - 10:00)
-
-Classroom C.
 
 ### Cart & Order Lifecycle (10:00 - 12:00)
 
 Classroom C.
 
-### Little Shop Kickoff & Work Time (1:00 - 3:00)
+### Rails Views Tips & Tricks (1:00 - 2:00)
+
+Classroom C
+
+### Little Shop Kickoff & Work Time (2:00 - 3:00)
 
 Classroom C.
 
