@@ -21,7 +21,7 @@ Guaranty Bank, S300
 | ------ | -------- | ------------ |
 | 1605   | TBD    | DS Switch Up: Accessibility Deep Dive |
 | 1606-b | Classroom C | Performance Dojo |
-| 1608-b | Classroom B | Mystery Class |
+| 1608-b | TBD (Anywhere) | Little Shop Check-In's |
 | 1610-b | Staff Area | Early Bird Evals |
 
 
