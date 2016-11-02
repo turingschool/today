@@ -50,13 +50,13 @@ Classroom C.
 * 9:00 - Caroline and Robbie
 * 9:30 - Nick and Alex
 * 10:00 - Kyle and Molly
-* 11:00 - Ann and Nick
+* 10:30 - Ann and Nick
 
 #### With Ilana
 * 9:00 - Amy and Amara
 * 9:30 - Brett and Josh
 * 10:00 - Eric and Edilene
-* 11:30 - Marisa and Daniel
+* 10:30 - Marisa and Daniel
 
 #### With Casey
 * 9:15 - Mike and Jason
