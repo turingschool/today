@@ -49,7 +49,7 @@ Classroom C.
 #### With Mike
 * 10:00 - Kyle and Molly
 * 10:30 - Ann and Nick
-* 11:00 - Nick and Alex
+* 11:00 -- Mike and Jason
 * 11:30 - Caroline and Robbie
 
 #### With Ilana
@@ -59,7 +59,7 @@ Classroom C.
 * 10:30 - Amy and Amara
 
 #### With Casey
-* 9:15 - Mike and Jason
+* 9:15 - Nick and Alex
 * 9:45 - Laszlo and David
 
 #### With Sal
