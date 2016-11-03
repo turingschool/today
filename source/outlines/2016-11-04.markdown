@@ -33,8 +33,8 @@ Guaranty Bank, S300
 ### Gear Up (1:15 - 2:15)
 We will discuss *resilience*, both what it is and how to improve your own.
 
-* Markdown available [here](https://github.com/turingschool/gear-up/blob/master/resilience.markdown).  
-* Group assignments and locations [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/lunch_roulette_and_gear_up_groups.markdown).  
+* Markdown available [here](https://github.com/turingschool/gear-up/blob/master/resilience.markdown).
+* Group assignments and locations [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/lunch_roulette_and_gear_up_groups.markdown).
 
 
 ### Friday Spike (2:25 - 3:15)
@@ -49,11 +49,6 @@ Sessions posted [here](https://docs.google.com/document/d/16GOvVXm9UQSq0zsh_z9nF
 ## 1610 - B
 
 ### Early Bird Evals (9:45 - 12:00)
-
-#### With Jeff
-* 9:45 - Brett Rivers
-* 10:30 - Josh Cohen
-* 11:15 - Laszlo Balogh
 
 #### With Mike
 * 9:45 - Annie Wolff
