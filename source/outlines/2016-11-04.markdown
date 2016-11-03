@@ -31,9 +31,10 @@ Guaranty Bank, S300
 * Group assignments [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/lunch_roulette_and_gear_up_groups.markdown)
 
 ### Gear Up (1:15 - 2:15)
-We will discuss *resilience*, both what it is and how to improve your own.  
-* Markdown available [here](https://github.com/turingschool/gear-up/blob/master/resilience.markdown).
-* Group assignments and locations [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/lunch_roulette_and_gear_up_groups.markdown).
+We will discuss *resilience*, both what it is and how to improve your own.
+
+* Markdown available [here](https://github.com/turingschool/gear-up/blob/master/resilience.markdown).  
+* Group assignments and locations [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/lunch_roulette_and_gear_up_groups.markdown).  
 
 
 ### Friday Spike (2:25 - 3:15)
