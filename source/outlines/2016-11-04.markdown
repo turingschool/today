@@ -11,7 +11,7 @@ ITS PAT AND TORIE DAY
 
 * [1605]()
 * [1606-B]()
-* [1608-B]()
+* [1608-B](https://goo.gl/forms/5BUpqeP7o1Sfelyd2)
 * [1610-B]()
 
 ### Guest Speaker: Nic Gray (9:00 - 10:00)
@@ -23,7 +23,7 @@ Guaranty Bank, S300
 | ------ | -------- | ------------ |
 | 1605   | TBD    | DS Switch Up: Accessibility Deep Dive |
 | 1606-b | Classroom C | Performance Dojo |
-| 1608-b | TBD (Anywhere) | Little Shop Check-In's |
+| 1608-b | Classroom B (or anywhere!) | Little Shop Check-In's |
 | 1610-b | Staff Area | Early Bird Evals |
 
 
