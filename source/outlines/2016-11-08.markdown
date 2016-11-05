@@ -1,0 +1,39 @@
+---
+title: 20161108
+layout: outline
+---
+
+## 1605 Final Assessment (9:00 - 7:00)
+
+
+## 1606
+
+### Getting Started with Workers (9:00 - 12:00)
+
+Classroom B.
+
+### Project Work Time (1:00 - 4:00)
+
+
+## 1608
+
+### Pushing Logic Down the Stack (9:00 - 12:00)
+
+Classroom C.
+
+### Assessments & Project Work Time (1:00 - 4:00)
+
+
+## 1610
+
+### How Computers & Networks Work (9:00 - 11:00)
+
+Classroom A.
+
+### Binary, Octal & Hex (11:00 - 12:00)
+
+Classroom A.
+
+### Work Time (1:00 - 4:00)
+
+
