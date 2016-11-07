@@ -8,11 +8,7 @@ layout: outline
 
 ## 1606
 
-### Getting Started with Workers (9:00 - 12:00)
-
-Classroom B.
-
-### Project Work Time (1:00 - 4:00)
+### Project Work Time (All Day)
 
 
 ## 1608
@@ -26,14 +22,6 @@ Classroom C.
 
 ## 1610
 
-### How Computers & Networks Work (9:00 - 11:00)
-
-Classroom A.
-
-### Binary, Octal & Hex (11:00 - 12:00)
-
-Classroom A.
-
-### Work Time (1:00 - 4:00)
+### Work Time (ALL DAY)
 
 
