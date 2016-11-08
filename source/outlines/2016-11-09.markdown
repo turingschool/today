@@ -84,11 +84,11 @@ Classroom A.
 
 ### Check-Ins with Ilana
 
-8:45am - Lucy & Drew
-10am - Nick E.
-10:30am -Brett & Josh
-11am - Kyle & Molly
-11:30am - Jason & Schutte
+* 8:45am - Lucy & Drew
+* 10am - Nick E.
+* 10:30am -Brett & Josh
+* 11am - Kyle & Molly
+* 11:30am - Jason & Schutte
 
 ### Binary, Octal & Hex (1:00 - 2:00)
 
