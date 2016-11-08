@@ -5,15 +5,41 @@ layout: outline
 
 ## 1605
 
-### History of Programming (9:00 - 10:00)
+### Performance Dojo (9:00 - 11:00)
 
-Classroom B.
+Join Josh in Classroom B to learn some web scale optimization techniques. These are concepts that come up in interviews for back-end or full stack positions.
 
-### Interviewing w/ Special Guest (10:00 - 12:00)
+### Career Prep and Q&A (11:00 - 12:00)
 
-Classroom B.
+Join Lia in Classroom B
 
 ### Final Assessment Evals (1:00 - 4:00)
+
+#### With Nate
+
+- Deb Hamel
+- Zachary Forbing
+- Trent Whitinger
+- Tommasina Miller
+- Christopher Concannon
+- Jason Hanna
+- Garrett Smestad
+- Kerry Sheldon
+- Yoseph Anderson
+- Jennifer Soden
+
+#### With Andrew
+
+- Lane Winham
+- Patrick Wentz
+- Kris Sparks
+- Ryan Flach
+- Karina Gonzalez
+- Matthew Campbell
+- David Tinianow
+- Roberta Doyle
+- Matthew Packer
+- Caleb Cowen
 
 
 ## 1606
