@@ -43,13 +43,13 @@ We are sticking to a strict schedule this afternoon. Please be on time!
 **While waiting for your portfolio review, please spend time filling out our end of module [survey](https://goo.gl/forms/6jOromQtpSxtBmZq1) and working on [ActiveRecord Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)!**
 
 * 12:40 - 12:50: Vido
-* 12:50 - 1:00: Noah
+* 12:50 - 1:00: Nick
 * 1:00 - 1:10: Michael
 * 1:10 - 1:20: Megan
 * 1:20 - 1:30: Ali
 * 1:30 - 1:40: Lee
 * 1:40 - 1:50: Joey
-* 1:50 - 2:00: Nick
+* 1:50 - 2:00: Noah
 * 2:00 - 2:10: Ryan
 * 2:10 - 2:20: Erin
 * 2:20 - 2:30: Anna
