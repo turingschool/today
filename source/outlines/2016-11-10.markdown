@@ -106,7 +106,7 @@ We are sticking to a strict schedule this afternoon. Please be on time!
 
 **While waiting for your portfolio review, please spend time filling out our end of module [survey](https://goo.gl/forms/6jOromQtpSxtBmZq1) and working on [ActiveRecord Gladiators](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/active_record_american_gladiators.md)!**
 
-* 12:40 - 12:50: Vido
+* 12:40 - 12:50: Brad
 * 12:50 - 1:00: Nick
 * 1:00 - 1:10: Michael
 * 1:10 - 1:20: Megan
@@ -121,7 +121,7 @@ We are sticking to a strict schedule this afternoon. Please be on time!
 * 2:40 - 2:50: David
 * 2:50 - 3:00: Daniel
 * 3:00 - 3:10: Jon
-* 3:10 - 3:20: Brad
+* 3:10 - 3:20: Vido
 * 3:20 - 3:30: Ben
 * 3:30 - 3:40: Alisher
 
