@@ -3,7 +3,17 @@ title: 20161111
 layout: outline
 ---
 
-## ALL
+## 1605
+
+### Walk to Gusto (8:50 - 9:00)
+
+Meet in the Lobby of 1510 Blake at 8:50.
+
+### Final Retro (9:00 - 4:00)
+
+Gusto. We've got a full day of surveys, discussions and retrospection.
+
+## REST
 
 Please attend these sessions if you are not in a Portfolio Review
 
