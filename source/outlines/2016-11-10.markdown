@@ -67,8 +67,8 @@ Make me proud
 
 * Jasmin Hudacsek
 * Susi Irwi
-* Chase Dunagan
 * Brian Heim
+* Raphael Barbo
 * Sonia Gupta
 * Calaway
 * Brendan Dillon
@@ -78,9 +78,7 @@ Make me proud
 
 * Jesse Spevack
 * Nate Anderson
-* Matt DesMarteau
 * Bryan Goss
-* Raphael Barbo
 * David Davydov
 * Ryan David Workman
 * Jean Joeris
