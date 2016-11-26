@@ -1,24 +1,26 @@
 .outline_list
 
-  .month
-    display: flex
-    justify-content: center
-    position:      relative
-    overflow:      visible
-    margin-bottom: 6em
-    text-decoration: none        
+  .month    
+    position: relative
+    text-align: center
+    right: 2em
+    @media #{$main-page-full-display} 
+      right: 0em
+      display:         flex
+      justify-content: center
+      position:        relative
+      overflow:        visible
+      margin-bottom:   6em
+      text-decoration: none
     
     .monthname
-      display:        flex
-      justify-content: center
-      vertical-align: top
-      position:       relative
-      top:            1em
-      left:           6em
-      bottom:         -1em
-      float:          left
-      z-index:           -1
+      vertical-align:  top
+      top:             1em
+      bottom:          0em
+      position:        relative
+      
       @media #{$main-page-full-display}
+        bottom: -1em
         position:          relative
         -webkit-transform: rotate(-90deg)
         -moz-transform:    rotate(-90deg) 
@@ -32,13 +34,15 @@
         margin:          0px
         font-weight:     bold
         font-size:       5em
-        text-decoration: none
         
     .week
-      list-style-type: none  
-      position:        relative      
-      @media #{$main-page-full-display} 
-        position:       relative
+      list-style-type: none
+      display:         grid
+      justify-content: center
+
+      @media #{$main-page-full-display}
+        right:           1em
+        position:       inherit
         margin-top:     0px
         margin-left:    50px
         margin-bottom:  0px
@@ -48,12 +52,27 @@
         
       ul.weekdays
         margin:          0px
+        display: flex
+        justify-content: center
         position: relative
+        margin-right: 2em
+        @media #{$main-page-full-display}
+          display: block
+          right: 0em
+          margin-top: 10px
+          margin-left: 0em
+          margin-right: 0em
+          
 
       .weeknumber
-        display:           block
-        position:          flex
-        @media #{$main-page-full-display} 
+        display:           grid
+        justify-content:   center
+        margin-top: 1em
+        margin-left: 0.75em
+
+        @media #{$main-page-full-display}
+          margin-top:   6em
+          margin-right: 5em 
           width:             1em
           height:            1em
           left:              -45px
@@ -64,6 +83,7 @@
           -o-transform:      rotate(-90deg)
           -ms-transform:     rotate(-90deg)
           transform:         rotate(-90deg)
+          margin: auto
 
         a
           color:           transparentize(rgba(27,163,156, 1), 0.01)

@@ -1,11 +1,16 @@
 .mod-outline
   ul, ol
-    list-style: square
     margin: 0.5em 0em 0.5em 2em
 
     li
+      display: flex
       margin: 0.35em
-      list-style: none
+      margin-left: 3em
+      
+      @media #{$main-page-full-display} 
+        margin: 0.35em
+        list-style: none
+      
       
 
   padding: 1em 0 1em 4em
@@ -45,14 +50,14 @@
     font-size: 1.4em
     line-height: 1.4em
 
-    .date
-      color: $blue
-
   p, li
-    font-size: 18px
+    font-size: 1.0em
+    font-weight: bold
     margin-bottom: 1.0em
     line-height: 1.5em
     list-style: none
+    @media #{$main-page-full-display}
+      font-size: 1em
   
   a
     text-decoration: none
@@ -63,9 +68,9 @@
   aside
     display: flex
     justify-content: center
-    
+    margin-top: 1em
+      
     a
-      font-weight: bold
       color: #007a7c
     a:hover
       color: #28A228
