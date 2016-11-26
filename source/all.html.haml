@@ -17,7 +17,7 @@ layout: content
           %ul.weekdays
             - outlines.each do |outline|
               - date = outline_date outline.path
-              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date)
+              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date), target: "_blank"
 
 %aside
   %h3 Have ideas about how this page could be better?
