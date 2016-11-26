@@ -1,33 +1,32 @@
 .outline_list
-  // .month, .week,
-    border: 1px solid blue
-
-  // .weeknumber
-    border: 1px solid red
 
   .month
     display: flex
-    justify-content: flex-start
-    position:      strict
+    justify-content: center
+    position:      relative
     overflow:      visible
     margin-bottom: 6em
     text-decoration: none        
     
     .monthname
-      display:        inline-block
+      display:        flex
+      justify-content: center
       vertical-align: top
       position:       relative
       top:            1em
-      left:           8em
+      left:           6em
       bottom:         -1em
       float:          left
-      -webkit-transform: rotate(-90deg)
-      -moz-transform:    rotate(-90deg) 
-      -o-transform:      rotate(-90deg)
-      -ms-transform:     rotate(-90deg)
-      transform:         rotate(-90deg)
       z-index:           -1
-      
+      @media #{$main-page-full-display}
+        position:          relative
+        -webkit-transform: rotate(-90deg)
+        -moz-transform:    rotate(-90deg) 
+        -o-transform:      rotate(-90deg)
+        -ms-transform:     rotate(-90deg)
+        transform:         rotate(-90deg)
+        display:           inline-block
+
       a
         color:           #000
         margin:          0px
@@ -36,32 +35,35 @@
         text-decoration: none
         
     .week
-      display:        inline-block
-      margin-top:     0px
-      margin-left:    50px
-      margin-bottom:  0px
-      left:           2em
-      position:       relative
-      vertical-align: top
-      height:         165px
-      width:          75px
-      list-style-type: none
-
+      list-style-type: none  
+      position:        relative      
+      @media #{$main-page-full-display} 
+        position:       relative
+        margin-top:     0px
+        margin-left:    50px
+        margin-bottom:  0px
+        height:         165px
+        width:          75px
+        vertical-align: top
+        
       ul.weekdays
         margin:          0px
+        position: relative
 
       .weeknumber
-        -webkit-transform: rotate(-90deg)
-        -moz-transform:    rotate(-90deg)
-        -o-transform:      rotate(-90deg)
-        -ms-transform:     rotate(-90deg)
-        transform:         rotate(-90deg)
-        z-index:           -1
-        position:          absolute
-        width:             1em
-        height:            1em
-        left:              -45px
-        bottom:            0
+        display:           block
+        position:          flex
+        @media #{$main-page-full-display} 
+          width:             1em
+          height:            1em
+          left:              -45px
+          bottom:            0
+          position:          absolute
+          -webkit-transform: rotate(-90deg)
+          -moz-transform:    rotate(-90deg)
+          -o-transform:      rotate(-90deg)
+          -ms-transform:     rotate(-90deg)
+          transform:         rotate(-90deg)
 
         a
           color:           transparentize(rgba(27,163,156, 1), 0.01)
