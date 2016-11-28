@@ -1,31 +1,38 @@
 <script type="text/javascript">
+  var backendDomain = "//backend.turing.io/"
   var today         = dateToString(new Date())
   var tomorrow_date = new Date()
   tomorrow_date.setDate(tomorrow_date.getDate() + 1);
   var tomorrow = dateToString(tomorrow_date);
-
-  var knownDates = <%= all_outlines.map { |o| yyyy_mm_dd_for outline_date(o.path) }.inspect %>;
+  var todayURL = backendDomain + "today/" + today;
+  var tomorrowURL = backendDomain + "today/" + tomorrow;
 
   var subdomain = location.hostname.split('.').shift();
 
   if(subdomain == "tomorrow")
-    if(knownDates.indexOf(tomorrow) > -1)
-      window.location = "/outlines/" + tomorrow + "/";
+    if(statusCode(tomorrowURL))
+      window.location = tomorrowURL
     else
-      window.location = "/all";
+      window.location = backendDomain;
   else
-    if(knownDates.indexOf(today) > -1)
-      window.location = "/outlines/" + today + "/";
+    if(statusCode(todayURL))
+      window.location = todayURL
     else
-      window.location = "/all";
+      window.location = backendDomain;
 
-  function dateToString(date)
-  {
+  function dateToString(date) {
     var month       = (date.getMonth() + 1).toString();
     var day         = date.getDate().toString();
     if(month.length < 2) month = "0" + month;
     if(day.length   < 2) day   = "0" + day;
 
     return date.getFullYear().toString() + "-" + month + "-" + day;
+  }
+
+  function statusCode(url) {
+    var req = new XMLHttpRequest();
+    req.open('HEAD', url, false);
+    req.send(null);
+    return req.status
   }
 </script>
