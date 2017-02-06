@@ -17,19 +17,19 @@ layout: content
           %ul.weekdays
             - outlines.each do |outline|
               - date = outline_date outline.path
-              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date)
+              %li= link_to date.strftime('%d %b'), outline.path, id: yyyy_mm_dd_for(date), target: "_blank"
 
 %aside
-  %h3 Have ideas about how this page could be better?
+  %h3 Want to improve this page?
   %ul
     - gh_sass      = "https://github.com/turingschool/today/blob/ffba3c6ca2b959decc9f346e1d63238f24c7120b/source/stylesheets/modules/_outline_list.css.sass"
     - gh_haml      = "https://github.com/turingschool/today/blob/ffba3c6ca2b959decc9f346e1d63238f24c7120b/source/all.html.haml"
     - gh_presenter = "https://github.com/turingschool/today/blob/ffba3c6ca2b959decc9f346e1d63238f24c7120b/source/presenters/outlines_by_cohort.rb"
     - gh_helpers   = "https://github.com/turingschool/today/tree/ffba3c6ca2b959decc9f346e1d63238f24c7120b/source/helpers"
     - gh_spec      = "https://github.com/turingschool/today/blob/ffba3c6ca2b959decc9f346e1d63238f24c7120b/spec/outline_list_helpers_spec.rb"
-    %li= "#{link_to 'here', gh_sass} is the code that generates the css"
-    %li= "#{link_to 'here', gh_haml} is the code that generates the html"
-    %li= "#{link_to 'here', gh_presenter} is the Ruby class that organizes the data"
-    %li= "#{link_to 'here', gh_helpers} are the helpers"
-    %li= "Don't break #{link_to 'these', gh_spec} tests (you can change them if you change the functionality)."
+    %li= "Click &nbsp #{link_to 'here', gh_sass, target: "_blank"} &nbsp for the code that generates the css."
+    %li= "Click &nbsp #{link_to 'here', gh_haml, target: "_blank"} &nbsp for the code that generates the html."
+    %li= "Click &nbsp #{link_to 'here', gh_presenter, target: "_blank"} &nbsp for the Ruby class that organizes the data."
+    %li= "Click &nbsp #{link_to 'here', gh_helpers, target: "_blank"} &nbsp for the helpers."
+    %li= "Don't break &nbsp #{link_to 'these', gh_spec, target: "_blank"} &nbsp tests (you can change them if you change the functionality)."
       

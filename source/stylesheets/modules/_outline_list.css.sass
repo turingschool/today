@@ -1,59 +1,92 @@
 .outline_list
-  // .month, .week,
-    border: 1px solid blue
 
-  // .weeknumber
-    border: 1px solid red
-
-  .month
-    position:      relative
-    clear:         both
-    overflow:      visible
-    margin-bottom: 75px
-
+  .month    
+    position: relative
+    text-align: center
+    right: 2em
+    @media #{$main-page-full-display} 
+      right: 0em
+      display:         flex
+      justify-content: center
+      position:        relative
+      overflow:        visible
+      margin-bottom:   6em
+      text-decoration: none
+    
     .monthname
-      vertical-align: top
-      position:       absolute
-      top:            0
-      left:           0
-      margin:         0px
-
-      a
-        color:           transparentize($blue, 0.90)
-        margin:          0px
-        font-weight:     bold
-        font-size:       150px
-        text-decoration: none
-
-    .week
-      display:        inline-block
-      margin-top:     0px
-      margin-left:    50px
-      margin-bottom:  0px
-      position:       relative
-      vertical-align: top
-      height:         165px // fuck you, css, why can't I just say 100%???!?!?
-      width:          75px
-
-      ul.weekdays
-        list-style-type: none
-        margin:          0px
-
-      .weeknumber
+      vertical-align:  top
+      top:             1em
+      bottom:          0em
+      position:        relative
+      
+      @media #{$main-page-full-display}
+        bottom: -1em
+        position:          relative
         -webkit-transform: rotate(-90deg)
-        -moz-transform:    rotate(-90deg)
+        -moz-transform:    rotate(-90deg) 
         -o-transform:      rotate(-90deg)
         -ms-transform:     rotate(-90deg)
         transform:         rotate(-90deg)
-        z-index:           -1
-        position:          absolute
-        width:             1em // css is so stupid
-        height:            1em
-        left:              -45px
-        bottom:            0
+        display:           inline-block
+
+      a
+        color:           #000
+        margin:          0px
+        font-weight:     bold
+        font-size:       5em
+        
+    .week
+      list-style-type: none
+      display:         grid
+      justify-content: center
+
+      @media #{$main-page-full-display}
+        right:           1em
+        position:       inherit
+        margin-top:     0px
+        margin-left:    50px
+        margin-bottom:  0px
+        height:         165px
+        width:          75px
+        vertical-align: top
+        
+      ul.weekdays
+        margin:          0px
+        display: flex
+        justify-content: center
+        position: relative
+        margin-right: 2em
+        @media #{$main-page-full-display}
+          display: block
+          right: 0em
+          margin-top: 10px
+          margin-left: 0em
+          margin-right: 0em
+          
+
+      .weeknumber
+        display:           grid
+        justify-content:   center
+        margin-top: 1em
+        margin-left: 0.75em
+
+        @media #{$main-page-full-display}
+          margin-top:   6em
+          margin-right: 5em 
+          width:             1em
+          height:            1em
+          left:              -45px
+          bottom:            0
+          position:          absolute
+          -webkit-transform: rotate(-90deg)
+          -moz-transform:    rotate(-90deg)
+          -o-transform:      rotate(-90deg)
+          -ms-transform:     rotate(-90deg)
+          transform:         rotate(-90deg)
+          margin: auto
 
         a
-          color:           #dfdfdf
+          color:           transparentize(rgba(27,163,156, 1), 0.01)
           font-weight:     bold
           font-size:       45px
           text-decoration: none
